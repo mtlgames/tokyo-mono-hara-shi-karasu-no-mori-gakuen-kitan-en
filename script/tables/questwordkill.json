@@ -1,0 +1,548 @@
+[
+ {
+  "id": "questwordkill:0000:00",
+  "jp": "特別依頼１",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0000:04",
+  "jp": "まつわる札を",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0001:00",
+  "jp": "特別依頼１－２",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0002:00",
+  "jp": "特別依頼２",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0002:04",
+  "jp": "そこで百回刀を振るべし",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0003:00",
+  "jp": "特別依頼２－２",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0004:00",
+  "jp": "特別依頼３",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0004:04",
+  "jp": "秘密の声を聞く者",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0005:00",
+  "jp": "特別依頼３－２",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0006:00",
+  "jp": "特別依頼４",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0006:04",
+  "jp": "死者の声を聞くものなり",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0007:00",
+  "jp": "特別依頼４－２",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0008:00",
+  "jp": "特別依頼５",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0008:04",
+  "jp": "右回りに四隅を廻る時",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0009:00",
+  "jp": "特別依頼５－２",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0010:00",
+  "jp": "特別依頼６",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0010:04",
+  "jp": "遊び好きの猫に",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0011:00",
+  "jp": "特別依頼６－２",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0012:00",
+  "jp": "特別依頼７",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0012:04",
+  "jp": "魂を写し取らん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0013:00",
+  "jp": "特別依頼７－２",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0014:00",
+  "jp": "特別依頼８",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0014:04",
+  "jp": "足踏み入れよ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0015:00",
+  "jp": "特別依頼８－２",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0016:00",
+  "jp": "特別依頼９",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0016:04",
+  "jp": "槍を掲げて",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0017:00",
+  "jp": "特別依頼９－２",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0018:00",
+  "jp": "特別依頼１０",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0018:04",
+  "jp": "霊のみが歩く道を知る",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0019:00",
+  "jp": "特別依頼１０－２",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0020:00",
+  "jp": "秘眼に魅入られん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0021:00",
+  "jp": "凶刃に倒れん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0022:00",
+  "jp": "凶弾に倒れん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0023:00",
+  "jp": "泣き所を点かれん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0024:00",
+  "jp": "助太刀に倒されん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0025:00",
+  "jp": "花飾りて討たれん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0026:00",
+  "jp": "影より葬られん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0027:00",
+  "jp": "花に散らん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0028:00",
+  "jp": "冬気に消え往かん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0029:00",
+  "jp": "夏気に燃え尽きん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0030:00",
+  "jp": "打線が火を噴かん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0031:00",
+  "jp": "木器に倒れん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0032:00",
+  "jp": "鉄器に倒れん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0033:00",
+  "jp": "魂を抜かれん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0034:00",
+  "jp": "矢に射貫かれん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0035:00",
+  "jp": "一撃にひれ伏さん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0036:00",
+  "jp": "点を打たん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0037:00",
+  "jp": "道で分かれん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0038:00",
+  "jp": "子と寄り添わん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0039:00",
+  "jp": "三角を組まん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0040:00",
+  "jp": "列を作らん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0041:00",
+  "jp": "坂を下らん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0042:00",
+  "jp": "酒を交わさん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0043:00",
+  "jp": "四隅を埋めん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0044:00",
+  "jp": "花菱を作らん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0045:00",
+  "jp": "山を描かん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0046:00",
+  "jp": "雨に濡れん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0047:00",
+  "jp": "空を眺めん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0048:00",
+  "jp": "柏木を打たん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0049:00",
+  "jp": "五つを数えん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0050:00",
+  "jp": "十字を切らん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0051:00",
+  "jp": "鍵を掛けん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0052:00",
+  "jp": "日出ずるを拝まん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0052:04",
+  "jp": "四方詣りの儀",
+  "refs": 4,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0053:00",
+  "jp": "日沈むを拝まん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0054:00",
+  "jp": "南風を被らん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0055:00",
+  "jp": "北辰を見いださん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0056:00",
+  "jp": "武具を構えん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0056:04",
+  "jp": "魔障調伏の儀",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0057:00",
+  "jp": "鞘に納めん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0057:04",
+  "jp": "慈心不殺の儀",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0058:00",
+  "jp": "矢を立てん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0058:04",
+  "jp": "蟇目の儀",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0059:00",
+  "jp": "駆け入らん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0059:04",
+  "jp": "馬追いの儀",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0060:00",
+  "jp": "飛び立たん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0060:04",
+  "jp": "天翔の儀",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0061:00",
+  "jp": "陽の順を巡らん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0061:04",
+  "jp": "時廻りの儀",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0062:00",
+  "jp": "天を仰がん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0062:04",
+  "jp": "仰天の儀",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0063:00",
+  "jp": "頭を垂れん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0063:04",
+  "jp": "一衆觸礼の儀",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0064:00",
+  "jp": "開眼せん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0064:04",
+  "jp": "開眼法要の儀",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0065:00",
+  "jp": "御神水を飲まん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0065:04",
+  "jp": "水合わせの儀",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0066:00",
+  "jp": "駄菓子を食らわん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0066:04",
+  "jp": "嘉祥の儀",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0067:00",
+  "jp": "豆を九つ撒かん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordkill:0067:04",
+  "jp": "鬼遣らいの儀",
+  "refs": 1,
+  "en": ""
+ }
+]

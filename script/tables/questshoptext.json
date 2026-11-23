@@ -1,0 +1,950 @@
+[
+ {
+  "id": "questshoptext:0000:00",
+  "jp": "依頼を探す",
+  "refs": 2,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0001:00",
+  "jp": "依頼を確認",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0002:00",
+  "jp": "説明を見る",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0003:00",
+  "jp": "プレイヤー",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0004:00",
+  "jp": "ダウンロード",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0005:00",
+  "jp": "所持金",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0006:00",
+  "jp": "円",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0007:00",
+  "jp": "報酬",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0008:00",
+  "jp": "情報料",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0009:00",
+  "jp": "信頼度",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0010:00",
+  "jp": "カードをめくって依頼内容を確認します\n依頼を見るには情報料が必要です",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0011:00",
+  "jp": "カードをめくって依頼内容を確認します",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0012:00",
+  "jp": "特別無料",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0013:00",
+  "jp": "決定",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0014:00",
+  "jp": "やめる",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0015:00",
+  "jp": "めくる",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0016:00",
+  "jp": "選択",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0017:00",
+  "jp": "キャンセル",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0018:00",
+  "jp": "変更",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0019:00",
+  "jp": "ランダム選択",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0020:00",
+  "jp": "戻る",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0021:00",
+  "jp": "中止",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0022:00",
+  "jp": "次へ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0023:00",
+  "jp": "削除",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0024:00",
+  "jp": "ネットワーク通信をする",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0026:00",
+  "jp": "他の人と通信をする",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0027:00",
+  "jp": "ダウンロードファイル整理（仮）",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0028:00",
+  "jp": "詳細を確認",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0029:00",
+  "jp": "　達成報告",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0030:00",
+  "jp": "依頼を断る",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0031:00",
+  "jp": "接続待機中．．．",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0032:00",
+  "jp": "配信情報取得中．．．",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0033:00",
+  "jp": "接続中．．．",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0034:00",
+  "jp": "切断中．．．",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0035:00",
+  "jp": "エラー発生！",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0036:00",
+  "jp": "エラー発生！\nデータを正常に取得できませんでした",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0037:00",
+  "jp": "通信を初期化しています\nそのままの状態でお待ち下さい",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0038:00",
+  "jp": "ダウンロードクエスト",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0039:00",
+  "jp": "ダウンロードしたいクエストを選んでください",
+  "refs": 2,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0040:00",
+  "jp": "クエストを探す",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0041:00",
+  "jp": "クエスト「%s」を\nダウンロードしますか？",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0043:00",
+  "jp": "【プレイ条件：%s】",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0044:00",
+  "jp": "あらすじ：%s",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0045:00",
+  "jp": "まだ配信されていません",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0046:00",
+  "jp": "ダウンロードしたファイルが破損しています\nもう一度ダウンロードしますか？",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0047:00",
+  "jp": "%2d話以降",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0048:00",
+  "jp": "２週目以降",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0049:00",
+  "jp": "なし",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0050:00",
+  "jp": "依頼人「%s」からの\n依頼を受けられるようになりました",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0051:00",
+  "jp": "ダウンロードファイルを削除します\nよろしいですか？",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0052:00",
+  "jp": "すでにダウンロードしてあります",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0053:00",
+  "jp": "更新情報の取得中です",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0054:00",
+  "jp": "クエスト情報取得中です",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0055:00",
+  "jp": "プレイヤークエスト",
+  "refs": 2,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0056:00",
+  "jp": "あなたとプロフィール交換をしたい人が%d人います",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0057:00",
+  "jp": "あなたへクエストを依頼したい人が%d人います",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0058:00",
+  "jp": "依頼人名",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0059:00",
+  "jp": "受注した依頼",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0060:00",
+  "jp": "相手から交換を要請されています",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0061:00",
+  "jp": "交換",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0062:00",
+  "jp": "相手から依頼を要請されています",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0063:00",
+  "jp": "依頼",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0064:00",
+  "jp": "結果未報告",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0065:00",
+  "jp": "受注中",
+  "refs": 2,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0066:00",
+  "jp": "未登録",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0067:00",
+  "jp": "プロフィール",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0068:00",
+  "jp": "残り%d人",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0069:00",
+  "jp": "登録可",
+  "refs": 2,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0070:00",
+  "jp": "依頼金",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0071:00",
+  "jp": "プロフィール編集",
+  "refs": 2,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0072:00",
+  "jp": "プロフィール交換",
+  "refs": 2,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0073:00",
+  "jp": "依頼を送信する",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0074:00",
+  "jp": "依頼を受信する",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0075:00",
+  "jp": "自分の依頼人としての\nプロフィールを変更します",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0076:00",
+  "jp": "プロフィール情報を交換し\n達成した依頼があれば\n相手に報告します",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0077:00",
+  "jp": "好きなクエストを作って\n相手へ送信します",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0078:00",
+  "jp": "クエストを受信します\n受信すると「依頼を探す」で\n依頼が登場します",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0081:00",
+  "jp": "依頼人名を変更",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0082:00",
+  "jp": "依頼文を変更",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0083:00",
+  "jp": "外見を変更",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0084:00",
+  "jp": "依頼人のハンドルネームを\n変更します",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0085:00",
+  "jp": "依頼文章を変更します",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0086:00",
+  "jp": "依頼人としての姿を\n変更します",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0087:00",
+  "jp": "依頼人名変更中．．．",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0088:00",
+  "jp": "服装",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0089:00",
+  "jp": "被りもの",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0090:00",
+  "jp": "顔飾り",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0092:00",
+  "jp": "プロフィールを交換をしたい相手を選んで下さい",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0093:00",
+  "jp": "残り",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0095:00",
+  "jp": "交換を呼びかけています\n相手が交換に応じるまで\nそのままの状態でお待ち下さい",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0096:00",
+  "jp": "プロフィールを交換しています。\nそのままの状態でお待ち下さい",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0097:00",
+  "jp": "交換をキャンセルしています。\nそのままの状態でお待ち下さい",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0098:00",
+  "jp": "相手の状態を待っています",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0099:00",
+  "jp": "プロフィール帳に\n新しい依頼人が\n登録されました",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0100:00",
+  "jp": "プロフィールを更新しました",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0101:00",
+  "jp": "プロフィール帳が一杯です",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0102:00",
+  "jp": "プロフィールの登録に\n失敗しました",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0103:00",
+  "jp": "依頼結果を送信しました",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0104:00",
+  "jp": "依頼結果を受信しました",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0105:00",
+  "jp": "%s　達成結果",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0106:00",
+  "jp": "あなたの依頼は\n中断されました",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0107:00",
+  "jp": "交換処理を終了しています。\nそのままの状態でお待ち下さい",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0108:00",
+  "jp": "相手との通信が切断されたか\nキャンセルされました\n交換処理を終了しています\nそのままの状態でお待ち下さい",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0109:00",
+  "jp": "依頼の状態を確認しています\nそのままの状態でお待ち下さい",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0110:00",
+  "jp": "儀式の効果が得られませんでした",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0111:00",
+  "jp": "相手が所持金不足の為\n達成報告を中止しました",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0112:00",
+  "jp": "依頼料　%s円を\n支払えませんでした。\n達成報告は中止されました",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0113:00",
+  "jp": "「%s」の\n最大ＨＰが半減しました。\nダンジョンを出るまで有効です",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0114:00",
+  "jp": "報酬　%s円を\n手に入れました",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0115:00",
+  "jp": "依頼料　%s円を\n支払いました",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0116:00",
+  "jp": "依頼品「%s」が\n自室に送られました",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0117:00",
+  "jp": "プロフィールが最新ではありません\nプロフィール交換を行ってください",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0118:00",
+  "jp": "この依頼を破棄する",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0119:00",
+  "jp": "破棄せずに受信をやめる",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0120:00",
+  "jp": "依頼人の選択",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0121:00",
+  "jp": "依頼を受ける相手を選んでください。\nあなたへの依頼を要請している人だけ選べます",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0122:00",
+  "jp": "相手に呼びかけています。\n相手が応じるまで\nそのままの状態でお待ち下さい",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0123:00",
+  "jp": "同じ依頼人の依頼を\n既に保存しています。\n依頼人と相談した上で\n選択して下さい",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0124:00",
+  "jp": "依頼人がクエストを作成中です。\nそのままの状態でお待ち下さい",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0125:00",
+  "jp": "クエストを受信しました。\n「依頼を探す」から、\n依頼を選んで受注して下さい",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0126:00",
+  "jp": "相手との通信が切断されたか\nキャンセルされました\n依頼の受信処理を終了しています\nそのままの状態でお待ち下さい",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0127:00",
+  "jp": "依頼の受信をキャンセルしています\nそのままの状態でお待ち下さい",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0128:00",
+  "jp": "アイテム",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0129:00",
+  "jp": "儀式",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0130:00",
+  "jp": "退魔",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0131:00",
+  "jp": "欲しいアイテムを依頼します。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0132:00",
+  "jp": "特別な効果が得られる\n儀式を依頼します",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0133:00",
+  "jp": "敵を倒してもらう依頼です\n次にダンジョンへ入る時、\nその敵が弱くなります",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0134:00",
+  "jp": "条件を変更する",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0135:00",
+  "jp": "これで依頼する",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0136:00",
+  "jp": "依頼先の選択",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0137:00",
+  "jp": "依頼したい相手を選んでください。\nプロフィールが未登録、もしくはあなたへの通信を\n要請している人へは依頼できません",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0138:00",
+  "jp": "依頼を呼びかけています。\n相手が応じるまで\nそのままの状態でお待ち下さい",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0139:00",
+  "jp": "%sと\n接続しました。\nクエストを作成して下さい",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0140:00",
+  "jp": "依頼を送信中です…",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0141:00",
+  "jp": "%sへ\nクエストを依頼しました",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0142:00",
+  "jp": "相手との通信が切断されたか\nキャンセルされました\n依頼の送信処理を終了しています\nそのままの状態でお待ち下さい",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0143:00",
+  "jp": "クエスト作成",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0144:00",
+  "jp": "アイテム選択",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0145:00",
+  "jp": "退魔選択",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0146:00",
+  "jp": "儀式選択",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0147:00",
+  "jp": "依頼の送信を中断しています\nそのままの状態でお待ち下さい",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0148:00",
+  "jp": "http://dwnld.atlus.co.jp/psp/karasu/QstIdx.gz",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0149:00",
+  "jp": "http://dwnld.atlus.co.jp/psp/karasu/data/%s",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0150:00",
+  "jp": "CROWIDX.BIN",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0151:00",
+  "jp": "CROWLST.BIN",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0152:00",
+  "jp": "リスト情報を保存しています",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0153:00",
+  "jp": "クエスト情報を保存しています",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0154:00",
+  "jp": "クエスト情報の保存に失敗しました\nもう一度セーブしますか？",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0155:00",
+  "jp": "ファイルを検索しています",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0156:00",
+  "jp": "リスト情報を読み込んでいます",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0157:00",
+  "jp": "クエスト情報を読み込んでいます",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0158:00",
+  "jp": "空き容量を確認しています",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0159:00",
+  "jp": "ダウンロードファイル整理",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0160:00",
+  "jp": "保存クエスト一覧",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0161:00",
+  "jp": "達成済",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0163:00",
+  "jp": "ダウンロード済みのクエストから、\nいらないクエストを選んで\n削除してください\n\nなお、現在受注しているクエストを\n削除しても依頼は中断されません。\nそのまま続けることができます。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questshoptext:0164:00",
+  "jp": "ファイルなし",
+  "refs": 1,
+  "en": ""
+ }
+]

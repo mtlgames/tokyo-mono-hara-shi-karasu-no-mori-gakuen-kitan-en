@@ -1,0 +1,266 @@
+[
+ {
+  "id": "questplayerview:0000:00",
+  "jp": "学生服",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0000:04",
+  "jp": "白",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0000:08",
+  "jp": "なし",
+  "refs": 2,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0001:00",
+  "jp": "スーツ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0001:04",
+  "jp": "水色",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0001:08",
+  "jp": "メガネ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0001:0c",
+  "jp": "狐面",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0002:00",
+  "jp": "Ｔシャツ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0002:04",
+  "jp": "青",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0002:08",
+  "jp": "一輪の薔薇",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0002:0c",
+  "jp": "ターバン",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0003:00",
+  "jp": "コート",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0003:04",
+  "jp": "緑",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0003:08",
+  "jp": "眼帯",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0003:0c",
+  "jp": "猫耳",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0004:00",
+  "jp": "バーテンダー",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0004:04",
+  "jp": "黄色",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0004:08",
+  "jp": "隈取り模様",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0004:0c",
+  "jp": "ヘッドフォン",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0005:00",
+  "jp": "パーカー",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0005:04",
+  "jp": "オレンジ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0005:08",
+  "jp": "サングラス",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0005:0c",
+  "jp": "着ぐるみの頭",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0006:00",
+  "jp": "和服",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0006:04",
+  "jp": "赤",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0006:08",
+  "jp": "アイマスク",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0006:0c",
+  "jp": "テンガロンハット",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0007:00",
+  "jp": "コック服",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0007:04",
+  "jp": "紫",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0007:08",
+  "jp": "衛生マスク",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0007:0c",
+  "jp": "王冠",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0008:00",
+  "jp": "軍隊風コート",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0008:04",
+  "jp": "ピンク",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0008:08",
+  "jp": "タバコ風お菓子",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0008:0c",
+  "jp": "ベレー帽",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0009:08",
+  "jp": "つけひげ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0009:0c",
+  "jp": "シルクハット",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0010:08",
+  "jp": "ピエロ鼻",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0010:0c",
+  "jp": "コック帽",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0011:08",
+  "jp": "鼻メガネ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0011:0c",
+  "jp": "麦藁帽子",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0012:0c",
+  "jp": "サンタ帽子",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0013:0c",
+  "jp": "ウィッチハット",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questplayerview:0014:0c",
+  "jp": "海賊帽子",
+  "refs": 1,
+  "en": ""
+ }
+]

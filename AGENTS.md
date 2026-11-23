@@ -8,6 +8,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 - Smoke:    `python -X utf8 $SKILL/scripts/emu.py build/karasu_en.iso --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:     `python -X utf8 tools/debug/warp.py build/karasu_en.iso <scene|MS03_00> [--shot-every 60]` -> `work/qa/warp/<scene>/final.png` + `work/states/<scene>.ppst`; `--all` regens every state (scenes: `tools/debug/scenes.txt`, notes `docs/re/debug.md`; never ask the user to play to a scene)
 - Trace:    `python -X utf8 tools/debug/trace_pw.py ISO --out DIR [--state S] --mash circle,right` logs each script the game loads
+- Extract:  `python -X utf8 tools/extract.py [--force]` -> `script/*.json` from the original (never clobbers `en`; format `docs/re/text.md`)
 - Release:  `python -X utf8 tools/release.py` (xdelta patch + verify; never publish without the user)
 - Clean:    `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 

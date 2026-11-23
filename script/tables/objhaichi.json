@@ -1,0 +1,1454 @@
+[
+ {
+  "id": "objhaichi:0146:24",
+  "jp": "!",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0147:24",
+  "jp": "\"",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0148:24",
+  "jp": "#",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0149:24",
+  "jp": "$",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0150:24",
+  "jp": "%",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0151:24",
+  "jp": "&",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0152:24",
+  "jp": "'",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0153:24",
+  "jp": "(",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0154:24",
+  "jp": ")",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0155:24",
+  "jp": "*",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0156:24",
+  "jp": "+",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0157:24",
+  "jp": ",",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0158:24",
+  "jp": "-",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0161:24",
+  "jp": ".",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0162:24",
+  "jp": "/",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0164:24",
+  "jp": "0",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0165:24",
+  "jp": "1",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0166:24",
+  "jp": "2",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0167:24",
+  "jp": "3",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0168:24",
+  "jp": "4",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0172:24",
+  "jp": "5",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0177:24",
+  "jp": "8",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0178:24",
+  "jp": "9",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0179:24",
+  "jp": ":",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0180:24",
+  "jp": ";",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0181:24",
+  "jp": "<",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0182:24",
+  "jp": "=",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0183:24",
+  "jp": ">",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0184:24",
+  "jp": "?",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0186:24",
+  "jp": "C",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0197:24",
+  "jp": "B",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0218:24",
+  "jp": "P",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0218:28",
+  "jp": "ｮ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0219:24",
+  "jp": "Q",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0219:28",
+  "jp": "ｯ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0221:24",
+  "jp": "R",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0221:28",
+  "jp": "ｰ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0222:24",
+  "jp": "S",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0223:24",
+  "jp": "T",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0225:24",
+  "jp": "U",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0226:24",
+  "jp": "V",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0228:24",
+  "jp": "W",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0229:24",
+  "jp": "X",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0234:24",
+  "jp": "Z",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0235:24",
+  "jp": "[",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0236:24",
+  "jp": "\\",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0237:24",
+  "jp": "]",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0238:24",
+  "jp": "^",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0239:24",
+  "jp": "_",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0251:24",
+  "jp": "d",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0259:24",
+  "jp": "e",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0267:24",
+  "jp": "k",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0268:24",
+  "jp": "l",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0269:24",
+  "jp": "m",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0270:24",
+  "jp": "n",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0271:24",
+  "jp": "o",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0292:24",
+  "jp": "p",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0294:24",
+  "jp": "q",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0295:24",
+  "jp": "r",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0296:24",
+  "jp": "s",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0301:24",
+  "jp": "u",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0301:28",
+  "jp": "ｻ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0302:24",
+  "jp": "v",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0302:28",
+  "jp": "ｼ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0303:24",
+  "jp": "w",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0303:28",
+  "jp": "ｽ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0304:24",
+  "jp": "x",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0304:28",
+  "jp": "ｾ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0305:24",
+  "jp": "y",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0305:28",
+  "jp": "ｿ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0306:24",
+  "jp": "z",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0306:28",
+  "jp": "ﾀ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0312:24",
+  "jp": "{",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0314:24",
+  "jp": "|",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0316:24",
+  "jp": "}",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0318:24",
+  "jp": "~",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0319:24",
+  "jp": "",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0320:24",
+  "jp": "",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0417:24",
+  "jp": "",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0418:24",
+  "jp": "｡",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0419:24",
+  "jp": "｢",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0420:24",
+  "jp": "｣",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0421:24",
+  "jp": "､",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0424:24",
+  "jp": "･",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0430:24",
+  "jp": "ｦ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0431:24",
+  "jp": "ｧ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0432:24",
+  "jp": "ｨ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0433:24",
+  "jp": "ｩ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0434:24",
+  "jp": "ｪ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0436:24",
+  "jp": "ｫ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0438:24",
+  "jp": "ｬ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0440:24",
+  "jp": "ｭ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0468:24",
+  "jp": "ｮ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0470:24",
+  "jp": "ｯ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0472:24",
+  "jp": "ｰ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0478:24",
+  "jp": "ｱ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0480:24",
+  "jp": "ｲ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0482:24",
+  "jp": "ｳ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0483:24",
+  "jp": "ｷ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0484:24",
+  "jp": "ｶ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0485:24",
+  "jp": "ｵ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0486:24",
+  "jp": "ｴ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0492:24",
+  "jp": "ｸ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0503:24",
+  "jp": "ｹ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0516:24",
+  "jp": "ｻ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0521:24",
+  "jp": "ｼ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0522:24",
+  "jp": "ｽ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0525:24",
+  "jp": "ｾ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0528:24",
+  "jp": "ｿ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0529:24",
+  "jp": "ﾀ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0530:24",
+  "jp": "ﾁ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0531:24",
+  "jp": "ﾂ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0532:24",
+  "jp": "ﾃ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0533:24",
+  "jp": "ﾈ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0533:28",
+  "jp": "#",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0534:24",
+  "jp": "ﾇ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0534:28",
+  "jp": "\"",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0535:24",
+  "jp": "ﾆ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0535:28",
+  "jp": "!",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0536:24",
+  "jp": "ﾅ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0537:24",
+  "jp": "ﾄ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0538:24",
+  "jp": "ﾉ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0539:24",
+  "jp": "ﾊ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0540:24",
+  "jp": "ﾋ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0541:24",
+  "jp": "ﾌ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0542:24",
+  "jp": "ﾍ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0544:24",
+  "jp": "ﾎ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0547:24",
+  "jp": "ﾏ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0548:24",
+  "jp": "ﾐ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0549:24",
+  "jp": "ﾑ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0550:24",
+  "jp": "ﾒ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0551:24",
+  "jp": "ﾓ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0552:24",
+  "jp": "ﾔ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0570:24",
+  "jp": "ﾜ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0572:24",
+  "jp": "ﾞ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0580:24",
+  "jp": "ﾟ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0580:28",
+  "jp": "+",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0629:28",
+  "jp": ",",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0630:28",
+  "jp": "-",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0631:28",
+  "jp": ".",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0632:28",
+  "jp": "/",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0687:28",
+  "jp": "ｱ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0688:28",
+  "jp": "ｲ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0689:28",
+  "jp": "ｳ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0690:28",
+  "jp": "ｴ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0693:28",
+  "jp": "ﾉ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0694:28",
+  "jp": "ﾊ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0695:28",
+  "jp": "ﾋ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0696:28",
+  "jp": "ﾌ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0697:28",
+  "jp": "ﾍ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0698:28",
+  "jp": "ﾎ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0699:24",
+  "jp": "",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0700:24",
+  "jp": "",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0701:24",
+  "jp": "",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0715:28",
+  "jp": "0",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0717:28",
+  "jp": "1",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0727:28",
+  "jp": "2",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0729:28",
+  "jp": "3",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0730:28",
+  "jp": "4",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0731:28",
+  "jp": "5",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0732:28",
+  "jp": "6",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0733:28",
+  "jp": "7",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0734:28",
+  "jp": "8",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0735:28",
+  "jp": "9",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0736:28",
+  "jp": ":",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0737:28",
+  "jp": ";",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0738:28",
+  "jp": "<",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0739:28",
+  "jp": "=",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0740:28",
+  "jp": ">",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0741:28",
+  "jp": "?",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0742:28",
+  "jp": "@",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0743:28",
+  "jp": "A",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0744:28",
+  "jp": "B",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0745:28",
+  "jp": "C",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0746:28",
+  "jp": "D",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0747:28",
+  "jp": "E",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0748:28",
+  "jp": "F",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0749:28",
+  "jp": "G",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0750:28",
+  "jp": "H",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0751:28",
+  "jp": "I",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0752:28",
+  "jp": "J",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0810:28",
+  "jp": "K",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0812:28",
+  "jp": "L",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0888:28",
+  "jp": "M",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0889:28",
+  "jp": "N",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0899:28",
+  "jp": "O",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0900:28",
+  "jp": "P",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0910:28",
+  "jp": "Q",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0927:28",
+  "jp": "R",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0964:28",
+  "jp": "S",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0965:28",
+  "jp": "T",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0966:28",
+  "jp": "U",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:0990:28",
+  "jp": "ﾈ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1031:28",
+  "jp": "W",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1032:28",
+  "jp": "ｦ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1033:28",
+  "jp": "ｧ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1034:28",
+  "jp": "ｨ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1035:28",
+  "jp": "ｩ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1050:28",
+  "jp": "ﾅ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1098:28",
+  "jp": "ﾆ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1099:28",
+  "jp": "ﾇ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1110:28",
+  "jp": "X",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1111:28",
+  "jp": "Y",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1112:28",
+  "jp": "Z",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1113:28",
+  "jp": "[",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1114:28",
+  "jp": "ﾁ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1115:28",
+  "jp": "ﾂ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1116:28",
+  "jp": "ﾃ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1135:28",
+  "jp": "\\",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1163:28",
+  "jp": "]",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1171:28",
+  "jp": "^",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1191:28",
+  "jp": "_",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1192:28",
+  "jp": "`",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1193:28",
+  "jp": "a",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1194:28",
+  "jp": "b",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1195:28",
+  "jp": "c",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1196:28",
+  "jp": "d",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1197:28",
+  "jp": "e",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1198:28",
+  "jp": "f",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1243:28",
+  "jp": "ｫ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1358:28",
+  "jp": "g",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1359:28",
+  "jp": "h",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1373:28",
+  "jp": "i",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1374:28",
+  "jp": "j",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1398:28",
+  "jp": "k",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1429:28",
+  "jp": "l",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1481:28",
+  "jp": "m",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1490:28",
+  "jp": "n",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1540:28",
+  "jp": "r",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1603:28",
+  "jp": "",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1604:28",
+  "jp": "",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1701:28",
+  "jp": "ｬ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1702:28",
+  "jp": "ｭ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1740:28",
+  "jp": "ﾄ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1816:28",
+  "jp": "",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1817:28",
+  "jp": "｡",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1818:28",
+  "jp": "｢",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1840:28",
+  "jp": "｣",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1894:28",
+  "jp": "､",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1895:28",
+  "jp": "･",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:1913:28",
+  "jp": "ｵ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "objhaichi:2061:28",
+  "jp": "ﾏ",
+  "refs": 1,
+  "en": ""
+ }
+]

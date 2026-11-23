@@ -1,0 +1,680 @@
+[
+ {
+  "id": "questwordenemy:0000:00",
+  "jp": "特別依頼１は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0000:04",
+  "jp": "「籠の中の鳥」に",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0001:00",
+  "jp": "特別依頼１－２は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0002:00",
+  "jp": "特別依頼２は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0002:04",
+  "jp": "罠の上に己を乗せ",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0003:00",
+  "jp": "特別依頼２－２は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0004:00",
+  "jp": "特別依頼３は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0004:04",
+  "jp": "秘密の漏れる泉開かん",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0005:00",
+  "jp": "特別依頼３－２は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0006:00",
+  "jp": "特別依頼４は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0006:04",
+  "jp": "開眼せし者",
+  "refs": 5,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0007:00",
+  "jp": "特別依頼４－２は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0008:00",
+  "jp": "特別依頼５は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0009:00",
+  "jp": "特別依頼５－２は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0010:00",
+  "jp": "特別依頼６は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0010:04",
+  "jp": "飛び跳ねる者",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0011:00",
+  "jp": "特別依頼６－２は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0012:00",
+  "jp": "特別依頼７は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0013:00",
+  "jp": "特別依頼７－２は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0014:00",
+  "jp": "特別依頼８は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0014:04",
+  "jp": "明かりの灯る洋館に",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0015:00",
+  "jp": "特別依頼８－２は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0016:00",
+  "jp": "特別依頼９は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0017:00",
+  "jp": "特別依頼９－２は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0018:00",
+  "jp": "特別依頼１０は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0019:00",
+  "jp": "特別依頼１０－２は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0020:00",
+  "jp": "双頭たるものは",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0020:04",
+  "jp": "玉を持った獣",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0021:00",
+  "jp": "瞳を背負うものは",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0021:04",
+  "jp": "大きな蜥蜴",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0022:00",
+  "jp": "羽ばたくものは",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0022:04",
+  "jp": "凶暴な蝙蝠",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0023:00",
+  "jp": "空舞いし幼子は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0023:04",
+  "jp": "木の子",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0024:00",
+  "jp": "歩く土塊は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0024:04",
+  "jp": "泥の人形",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0025:00",
+  "jp": "たゆたう勾玉は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0025:04",
+  "jp": "禍々しい首飾り",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0026:00",
+  "jp": "振り下ろす巨刃は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0026:04",
+  "jp": "呪われた巫女",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0027:00",
+  "jp": "拳振るう虫は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0027:04",
+  "jp": "蝉の抜け殻",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0028:00",
+  "jp": "空飛ぶ土偶は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0028:04",
+  "jp": "土偶",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0029:00",
+  "jp": "地を這うものは",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0029:04",
+  "jp": "かたつむり",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0030:00",
+  "jp": "馬繰る武人は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0030:04",
+  "jp": "埴輪",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0031:00",
+  "jp": "厄い呼ぶものは",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0031:04",
+  "jp": "怪しい招き猫",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0032:00",
+  "jp": "輝く肉体は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0032:04",
+  "jp": "筋肉質の貴族",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0033:00",
+  "jp": "かき鳴らすものは",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0033:04",
+  "jp": "琵琶の妖怪",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0034:00",
+  "jp": "八つの尾は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0034:04",
+  "jp": "面妖な狐",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0035:00",
+  "jp": "光穿つものは",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0035:04",
+  "jp": "頭だけの仏像",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0036:00",
+  "jp": "猛る雄牛は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0036:04",
+  "jp": "暴れ牛",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0037:00",
+  "jp": "舞い出る骸は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0037:04",
+  "jp": "動く骸骨",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0038:00",
+  "jp": "磔られしものは",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0038:04",
+  "jp": "雪女",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0039:00",
+  "jp": "武者姿の鳥は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0039:04",
+  "jp": "怪鳥",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0040:00",
+  "jp": "空を泳ぐものは",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0040:04",
+  "jp": "威厳のある鯉",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0041:00",
+  "jp": "槌打つものは",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0041:04",
+  "jp": "しかめ面の僧兵",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0042:00",
+  "jp": "うごめく鎧兜は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0042:04",
+  "jp": "虫の集まり",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0043:00",
+  "jp": "描かれし牙は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0043:04",
+  "jp": "屏風の虎",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0044:00",
+  "jp": "座布団に乗る蛙",
+  "refs": 2,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0045:00",
+  "jp": "水切る刀身は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0045:04",
+  "jp": "刀付きの巨大魚",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0046:00",
+  "jp": "三つ子の反物は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0046:04",
+  "jp": "紙のお化け",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0047:00",
+  "jp": "火消しクラゲ",
+  "refs": 2,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0048:00",
+  "jp": "奇怪なからくりは",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0048:04",
+  "jp": "茶運び人形",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0049:00",
+  "jp": "首無し将軍は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0049:04",
+  "jp": "化け狸",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0050:00",
+  "jp": "種札を揃えしは",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0051:00",
+  "jp": "屑札を揃えしは",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0052:00",
+  "jp": "鳥がさえずる札は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0053:00",
+  "jp": "等しき花の札は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0054:00",
+  "jp": "秋と実りし札は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0055:00",
+  "jp": "赤き花咲く札は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0056:00",
+  "jp": "短冊舞いし札は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0057:00",
+  "jp": "青き花咲く札は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0058:00",
+  "jp": "天に星映る札は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0059:00",
+  "jp": "春とささやく札は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0060:00",
+  "jp": "光をまといし札は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0061:00",
+  "jp": "冬とかじかむ札は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0062:00",
+  "jp": "詩を読み合う札は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0063:00",
+  "jp": "夏と色めく札は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0064:00",
+  "jp": "地を歩く獣の札は",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0065:00",
+  "jp": "東国の扉より",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0066:00",
+  "jp": "西国の扉より",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0067:00",
+  "jp": "南国の扉より",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0068:00",
+  "jp": "北国の扉より",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0069:00",
+  "jp": "隠れし扉の前より",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0070:00",
+  "jp": "龍珠の前より",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0071:00",
+  "jp": "御台の前より",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0072:00",
+  "jp": "梯子の下より",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0073:00",
+  "jp": "宝物の前より",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0074:00",
+  "jp": "樹木の前より",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0075:00",
+  "jp": "御光の前より",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0076:00",
+  "jp": "水の北東より",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0077:00",
+  "jp": "飛びしものの前より",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "questwordenemy:0078:00",
+  "jp": "浮きしものの前より",
+  "refs": 1,
+  "en": ""
+ }
+]

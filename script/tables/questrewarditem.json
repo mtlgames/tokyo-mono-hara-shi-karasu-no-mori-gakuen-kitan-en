@@ -1,0 +1,68 @@
+[
+ {
+  "id": "questrewarditem:0000:00",
+  "jp": "料亭のおかみ",
+  "refs": 4,
+  "en": ""
+ },
+ {
+  "id": "questrewarditem:0000:04",
+  "jp": "手紙",
+  "refs": 40,
+  "en": ""
+ },
+ {
+  "id": "questrewarditem:0004:00",
+  "jp": "陸奥の刀鍛冶",
+  "refs": 4,
+  "en": ""
+ },
+ {
+  "id": "questrewarditem:0008:00",
+  "jp": "北米のハッカー",
+  "refs": 4,
+  "en": ""
+ },
+ {
+  "id": "questrewarditem:0012:00",
+  "jp": "恐山のイタコ",
+  "refs": 4,
+  "en": ""
+ },
+ {
+  "id": "questrewarditem:0016:00",
+  "jp": "憑物筋の少年",
+  "refs": 4,
+  "en": ""
+ },
+ {
+  "id": "questrewarditem:0020:00",
+  "jp": "しがない愛猫家",
+  "refs": 4,
+  "en": ""
+ },
+ {
+  "id": "questrewarditem:0024:00",
+  "jp": "褐色の肌の王族",
+  "refs": 4,
+  "en": ""
+ },
+ {
+  "id": "questrewarditem:0028:00",
+  "jp": "謎のカレー仙人",
+  "refs": 4,
+  "en": ""
+ },
+ {
+  "id": "questrewarditem:0032:00",
+  "jp": "インディアンの酋長",
+  "refs": 4,
+  "en": ""
+ },
+ {
+  "id": "questrewarditem:0036:00",
+  "jp": "帝都防衛軍",
+  "refs": 4,
+  "en": ""
+ }
+]

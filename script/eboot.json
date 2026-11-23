@@ -1,0 +1,10042 @@
+[
+ {
+  "id": "eboot:2ad6f0",
+  "jp": "・・",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b06b4",
+  "jp": "ロックフォード",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b06c4",
+  "jp": "ジョーンズ博士",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b06d4",
+  "jp": "隻眼のウィリー",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b06e4",
+  "jp": "チャレンジャー",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b06f4",
+  "jp": "アラン・Ｑ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0700",
+  "jp": "Ｒ・オコーネル",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0710",
+  "jp": "江見　睡院",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b071c",
+  "jp": "Ｂｉｇ８",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0728",
+  "jp": "皇帝イネス",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0734",
+  "jp": "アジアの鷹",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0740",
+  "jp": "フォックス教授",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0750",
+  "jp": "書探しコルソ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0760",
+  "jp": "悪漢シルバー",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0770",
+  "jp": "明星のモーガン",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0780",
+  "jp": "髭のガルシア",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0790",
+  "jp": "鑑定師ニック",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b07a0",
+  "jp": "ジャスティーン",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b07b0",
+  "jp": "山師ジャック",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b07c0",
+  "jp": "Ｎ・マローン",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b07d0",
+  "jp": "麗しきローヤン",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b07e0",
+  "jp": "髪結いシルビア",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b07f0",
+  "jp": "Ｊ・オコーネル",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0800",
+  "jp": "２３",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0808",
+  "jp": "２４",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0810",
+  "jp": "依頼達成",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b081c",
+  "jp": "所持：%d",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0828",
+  "jp": "特別依頼",
+  "slot": 12,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0848",
+  "jp": "%sの討",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0850",
+  "jp": "%sの陣",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0858",
+  "jp": "%sを",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b08a0",
+  "jp": "ＢＧＭ取得",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b08ac",
+  "jp": "着信メロディ取得",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b08c0",
+  "jp": "%s\nを取得しました",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b08d4",
+  "jp": "花札取得",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0e08",
+  "jp": "閉じる",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0e10",
+  "jp": "はい",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0e18",
+  "jp": "いいえ",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0e20",
+  "jp": "携帯を開く",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0e90",
+  "jp": "東京鬼祓師　鴉乃杜學園奇譚　ダウンロードクエスト",
+  "slot": 76,
+  "refs": 7,
+  "enc": "utf-8",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0edc",
+  "jp": "新規作成",
+  "slot": 16,
+  "refs": 6,
+  "enc": "utf-8",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0f88",
+  "jp": "東京鬼祓師　鴉乃杜學園奇譚",
+  "slot": 40,
+  "refs": 2,
+  "enc": "utf-8",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0fb8",
+  "jp": "デバッグスクリプト用データ\n実際には使用しない",
+  "slot": 48,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b0ff4",
+  "jp": "ダウンロード用ダミーデータ\n（メッセージは仮）",
+  "slot": 48,
+  "refs": 4,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1024",
+  "jp": "セーブが完了しました。",
+  "slot": 36,
+  "refs": 2,
+  "enc": "utf-8",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1048",
+  "jp": "ロードが完了しました。",
+  "slot": 36,
+  "refs": 2,
+  "enc": "utf-8",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b106c",
+  "jp": "削除が完了しました。",
+  "slot": 32,
+  "refs": 2,
+  "enc": "utf-8",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1154",
+  "jp": "あ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1158",
+  "jp": "い",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b115c",
+  "jp": "う",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1160",
+  "jp": "え",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1164",
+  "jp": "お",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1168",
+  "jp": "ま",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b116c",
+  "jp": "み",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1170",
+  "jp": "む",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1174",
+  "jp": "め",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1178",
+  "jp": "も",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b117c",
+  "jp": "が",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1180",
+  "jp": "ぎ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1184",
+  "jp": "ぐ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1188",
+  "jp": "げ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b118c",
+  "jp": "ご",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1190",
+  "jp": "か",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1194",
+  "jp": "き",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1198",
+  "jp": "く",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b119c",
+  "jp": "け",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11a0",
+  "jp": "こ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11a4",
+  "jp": "や",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11a8",
+  "jp": "ゆ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11ac",
+  "jp": "よ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11b0",
+  "jp": "　",
+  "slot": 4,
+  "refs": 26,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11b4",
+  "jp": "ざ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11b8",
+  "jp": "じ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11bc",
+  "jp": "ず",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11c0",
+  "jp": "ぜ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11c4",
+  "jp": "ぞ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11c8",
+  "jp": "さ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11cc",
+  "jp": "し",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11d0",
+  "jp": "す",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11d4",
+  "jp": "せ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11d8",
+  "jp": "そ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11dc",
+  "jp": "ら",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11e0",
+  "jp": "り",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11e4",
+  "jp": "る",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11e8",
+  "jp": "れ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11ec",
+  "jp": "ろ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11f0",
+  "jp": "だ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11f4",
+  "jp": "ぢ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11f8",
+  "jp": "づ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b11fc",
+  "jp": "で",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1200",
+  "jp": "ど",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1204",
+  "jp": "た",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1208",
+  "jp": "ち",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b120c",
+  "jp": "つ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1210",
+  "jp": "て",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1214",
+  "jp": "と",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1218",
+  "jp": "わ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b121c",
+  "jp": "を",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1220",
+  "jp": "ん",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1224",
+  "jp": "ば",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1228",
+  "jp": "び",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b122c",
+  "jp": "ぶ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1230",
+  "jp": "べ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1234",
+  "jp": "ぼ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1238",
+  "jp": "な",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b123c",
+  "jp": "に",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1240",
+  "jp": "ぬ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1244",
+  "jp": "ね",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1248",
+  "jp": "の",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b124c",
+  "jp": "ゃ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1250",
+  "jp": "ゅ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1254",
+  "jp": "ょ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1258",
+  "jp": "っ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b125c",
+  "jp": "ゎ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1260",
+  "jp": "ぱ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1264",
+  "jp": "ぴ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1268",
+  "jp": "ぷ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b126c",
+  "jp": "ぺ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1270",
+  "jp": "ぽ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1274",
+  "jp": "は",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1278",
+  "jp": "ひ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b127c",
+  "jp": "ふ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1280",
+  "jp": "へ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1284",
+  "jp": "ほ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1288",
+  "jp": "ぁ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b128c",
+  "jp": "ぃ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1290",
+  "jp": "ぅ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1294",
+  "jp": "ぇ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1298",
+  "jp": "ぉ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b129c",
+  "jp": "ー",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12a0",
+  "jp": "！",
+  "slot": 4,
+  "refs": 4,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12a4",
+  "jp": "？",
+  "slot": 4,
+  "refs": 4,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12a8",
+  "jp": "ア",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12ac",
+  "jp": "イ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12b0",
+  "jp": "ウ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12b4",
+  "jp": "エ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12b8",
+  "jp": "オ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12bc",
+  "jp": "マ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12c0",
+  "jp": "ミ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12c4",
+  "jp": "ム",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12c8",
+  "jp": "メ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12cc",
+  "jp": "モ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12d0",
+  "jp": "ガ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12d4",
+  "jp": "ギ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12d8",
+  "jp": "グ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12dc",
+  "jp": "ゲ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12e0",
+  "jp": "ゴ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12e4",
+  "jp": "カ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12e8",
+  "jp": "キ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12ec",
+  "jp": "ク",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12f0",
+  "jp": "ケ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12f4",
+  "jp": "コ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12f8",
+  "jp": "ヤ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b12fc",
+  "jp": "ユ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1300",
+  "jp": "ヨ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1304",
+  "jp": "ザ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1308",
+  "jp": "ジ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b130c",
+  "jp": "ズ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1310",
+  "jp": "ゼ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1314",
+  "jp": "ゾ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1318",
+  "jp": "サ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b131c",
+  "jp": "シ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1320",
+  "jp": "ス",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1324",
+  "jp": "セ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1328",
+  "jp": "ソ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b132c",
+  "jp": "ラ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1330",
+  "jp": "リ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1334",
+  "jp": "ル",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1338",
+  "jp": "レ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b133c",
+  "jp": "ロ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1340",
+  "jp": "ダ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1344",
+  "jp": "ヂ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1348",
+  "jp": "ヅ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b134c",
+  "jp": "デ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1350",
+  "jp": "ド",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1354",
+  "jp": "タ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1358",
+  "jp": "チ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b135c",
+  "jp": "ツ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1360",
+  "jp": "テ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1364",
+  "jp": "ト",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1368",
+  "jp": "ワ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b136c",
+  "jp": "ヲ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1370",
+  "jp": "ン",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1374",
+  "jp": "バ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1378",
+  "jp": "ビ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b137c",
+  "jp": "ブ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1380",
+  "jp": "ベ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1384",
+  "jp": "ボ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1388",
+  "jp": "ナ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b138c",
+  "jp": "ニ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1390",
+  "jp": "ヌ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1394",
+  "jp": "ネ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1398",
+  "jp": "ノ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b139c",
+  "jp": "ャ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13a0",
+  "jp": "ュ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13a4",
+  "jp": "ョ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13a8",
+  "jp": "ッ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13ac",
+  "jp": "ヮ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13b0",
+  "jp": "パ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13b4",
+  "jp": "ピ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13b8",
+  "jp": "プ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13bc",
+  "jp": "ペ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13c0",
+  "jp": "ポ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13c4",
+  "jp": "ハ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13c8",
+  "jp": "ヒ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13cc",
+  "jp": "フ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13d0",
+  "jp": "ヘ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13d4",
+  "jp": "ホ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13d8",
+  "jp": "ァ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13dc",
+  "jp": "ィ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13e0",
+  "jp": "ゥ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13e4",
+  "jp": "ェ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13e8",
+  "jp": "ォ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13ec",
+  "jp": "ヴ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13f0",
+  "jp": "Ａ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13f4",
+  "jp": "Ｂ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13f8",
+  "jp": "Ｃ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b13fc",
+  "jp": "Ｄ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1400",
+  "jp": "Ｅ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1404",
+  "jp": "ａ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1408",
+  "jp": "ｂ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b140c",
+  "jp": "ｃ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1410",
+  "jp": "ｄ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1414",
+  "jp": "ｅ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1418",
+  "jp": "１",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b141c",
+  "jp": "２",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1420",
+  "jp": "３",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1424",
+  "jp": "４",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1428",
+  "jp": "５",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b142c",
+  "jp": "Ｆ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1430",
+  "jp": "Ｇ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1434",
+  "jp": "Ｈ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1438",
+  "jp": "Ｉ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b143c",
+  "jp": "Ｊ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1440",
+  "jp": "ｆ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1444",
+  "jp": "ｇ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1448",
+  "jp": "ｈ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b144c",
+  "jp": "ｉ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1450",
+  "jp": "ｊ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1454",
+  "jp": "６",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1458",
+  "jp": "７",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b145c",
+  "jp": "８",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1460",
+  "jp": "９",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1464",
+  "jp": "０",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1468",
+  "jp": "Ｋ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b146c",
+  "jp": "Ｌ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1470",
+  "jp": "Ｍ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1474",
+  "jp": "Ｎ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1478",
+  "jp": "Ｏ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b147c",
+  "jp": "ｋ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1480",
+  "jp": "ｌ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1484",
+  "jp": "ｍ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1488",
+  "jp": "ｎ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b148c",
+  "jp": "ｏ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1490",
+  "jp": "＋",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1494",
+  "jp": "－",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b149c",
+  "jp": "÷",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14a0",
+  "jp": "＝",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14a4",
+  "jp": "Ｐ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14a8",
+  "jp": "Ｑ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14ac",
+  "jp": "Ｒ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14b0",
+  "jp": "Ｓ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14b4",
+  "jp": "Ｔ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14b8",
+  "jp": "ｐ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14bc",
+  "jp": "ｑ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14c0",
+  "jp": "ｒ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14c4",
+  "jp": "ｓ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14c8",
+  "jp": "ｔ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14cc",
+  "jp": "○",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14d0",
+  "jp": "☆",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14d4",
+  "jp": "♪",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14d8",
+  "jp": "Ｕ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14dc",
+  "jp": "Ｖ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14e0",
+  "jp": "Ｗ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14e4",
+  "jp": "Ｘ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14e8",
+  "jp": "Ｙ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14ec",
+  "jp": "ｕ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14f0",
+  "jp": "ｖ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14f4",
+  "jp": "ｗ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14f8",
+  "jp": "ｘ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b14fc",
+  "jp": "ｙ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1500",
+  "jp": "＃",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1504",
+  "jp": "＆",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1508",
+  "jp": "※",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b150c",
+  "jp": "＊",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1510",
+  "jp": "Ｚ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1514",
+  "jp": "ｚ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1518",
+  "jp": "かな",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1520",
+  "jp": "カナ",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1528",
+  "jp": "英数",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1530",
+  "jp": "記号",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1538",
+  "jp": "△入力モード変更",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b154c",
+  "jp": "□変換",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1554",
+  "jp": "START  終了",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1560",
+  "jp": "×削除",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1568",
+  "jp": "○決定",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1570",
+  "jp": "Ｌ ←",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1578",
+  "jp": "Ｒ →",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1cdc",
+  "jp": "%s：",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1ce4",
+  "jp": "%s　%s",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1e34",
+  "jp": "西口方面",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1e40",
+  "jp": "東口方面",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1e4c",
+  "jp": "南口方面",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1e58",
+  "jp": "歌舞伎町",
+  "slot": 12,
+  "refs": 3,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1e64",
+  "jp": "喫茶店",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1e6c",
+  "jp": "花園神社",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1e78",
+  "jp": "石碑",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1e80",
+  "jp": "寇聖高校",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1e8c",
+  "jp": "新宿御苑",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1e98",
+  "jp": "灯籠",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1ea0",
+  "jp": "駅前広場",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1eac",
+  "jp": "駅ビル",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1eb4",
+  "jp": "玩具屋",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1ebc",
+  "jp": "新宿駅",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1ec4",
+  "jp": "鴉乃杜學園",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1ed0",
+  "jp": "焼却炉",
+  "slot": 8,
+  "refs": 3,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1ed8",
+  "jp": "鴉羽神社",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1ee4",
+  "jp": "自室",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1eec",
+  "jp": "カレー屋",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1ef8",
+  "jp": "中央公園",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1f04",
+  "jp": "八汎學院",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1f10",
+  "jp": "茶室",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1f18",
+  "jp": "新宿署",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1f20",
+  "jp": "都庁",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1f28",
+  "jp": "屋上",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1f30",
+  "jp": "４Ｆ",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1f38",
+  "jp": "３Ｆ",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1f40",
+  "jp": "２Ｆ",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1f48",
+  "jp": "１Ｆ",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1f50",
+  "jp": "校門",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1f58",
+  "jp": "保健室",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1f60",
+  "jp": "放送室",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1f68",
+  "jp": "校務員室",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1f74",
+  "jp": "事務室",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1f7c",
+  "jp": "食堂",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1f84",
+  "jp": "武道場",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1f8c",
+  "jp": "グラウンド",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1f98",
+  "jp": "プール",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1fa0",
+  "jp": "進路指導室",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1fac",
+  "jp": "化学実験室",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1fb8",
+  "jp": "情報実習室",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1fc4",
+  "jp": "家庭科室",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1fd0",
+  "jp": "体育館",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1fd8",
+  "jp": "職員室",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1fe0",
+  "jp": "校長室",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1fe8",
+  "jp": "２－２",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1ff0",
+  "jp": "図書室",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b1ff8",
+  "jp": "司書室",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2000",
+  "jp": "四角研究会",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b200c",
+  "jp": "３－１",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2014",
+  "jp": "３－２",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b201c",
+  "jp": "音楽室",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2024",
+  "jp": "視聴覚室",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2030",
+  "jp": "美術室",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2038",
+  "jp": "生徒会室",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2044",
+  "jp": "クラスメイト",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2054",
+  "jp": "大切な仲間",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2060",
+  "jp": "大切な友人",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b206c",
+  "jp": "無二の存在",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2078",
+  "jp": "理解に苦しむ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2088",
+  "jp": "判断できない",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2098",
+  "jp": "失いたくない",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b20a8",
+  "jp": "封札師仲間",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b20b4",
+  "jp": "仲良し",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b20bc",
+  "jp": "最強コンビ！",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b20cc",
+  "jp": "イケメン？",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b20d8",
+  "jp": "カッコイイ！",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b20e8",
+  "jp": "ずっと一緒！",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b20f8",
+  "jp": "変な転校生",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2104",
+  "jp": "ウマが合う",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2110",
+  "jp": "親友",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2118",
+  "jp": "面白い奴",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2124",
+  "jp": "熱い奴",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b212c",
+  "jp": "相棒",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2134",
+  "jp": "同級生",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b213c",
+  "jp": "何でも話せる",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b214c",
+  "jp": "頼れる人",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2158",
+  "jp": "面白い人",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2164",
+  "jp": "気になる人",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2170",
+  "jp": "離れたくない",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2180",
+  "jp": "先輩！",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2188",
+  "jp": "兄貴！",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2190",
+  "jp": "師匠！",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2198",
+  "jp": "変わっとる",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b21a4",
+  "jp": "漢気溢れる",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b21b0",
+  "jp": "日本男児",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b21bc",
+  "jp": "頼りなさそう",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b21cc",
+  "jp": "意外と頼れる",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b21dc",
+  "jp": "戦友",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b21e4",
+  "jp": "バカっぽい",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b21f0",
+  "jp": "惹かれてる？",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2200",
+  "jp": "叱られたい",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b220c",
+  "jp": "平行四辺形",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2218",
+  "jp": "長方形",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2220",
+  "jp": "正方形",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2228",
+  "jp": "ヘンなカタチ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2238",
+  "jp": "いいカタチ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2244",
+  "jp": "黄金律",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b224c",
+  "jp": "ダセェ奴",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2258",
+  "jp": "強ェ奴",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2260",
+  "jp": "スゲェ奴",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b226c",
+  "jp": "シャバい野郎",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b227c",
+  "jp": "イカれた野郎",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b228c",
+  "jp": "認めてやるぜ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b229c",
+  "jp": "くだらない奴",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b22ac",
+  "jp": "悪くはない",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b22b8",
+  "jp": "似た者同士",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b22c4",
+  "jp": "目障りだ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b22d0",
+  "jp": "馬鹿な奴",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b22dc",
+  "jp": "世話が焼ける",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b22ec",
+  "jp": "セニョール！",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b22fc",
+  "jp": "アミーゴ！",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2308",
+  "jp": "ヒーロー！",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2314",
+  "jp": "興味アル？",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2320",
+  "jp": "盗みたイ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b232c",
+  "jp": "盗んでホシイ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b233c",
+  "jp": "認めへん",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2348",
+  "jp": "素直になれる",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2358",
+  "jp": "対等な友人",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2364",
+  "jp": "呆れた御仁",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2370",
+  "jp": "優しい殿方",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b237c",
+  "jp": "初めての人",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2388",
+  "jp": "男クサイ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2394",
+  "jp": "女心がわかる",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b23a4",
+  "jp": "乙女同盟☆",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b23b0",
+  "jp": "オチャメさん",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b23c0",
+  "jp": "キュンキュン",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b23d0",
+  "jp": "メロ☆メロ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b23dc",
+  "jp": "英雄見習い",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b23e8",
+  "jp": "ご当地英雄",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b23f4",
+  "jp": "国民的英雄",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2400",
+  "jp": "相棒志望かね",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2410",
+  "jp": "もっと熱く！",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2420",
+  "jp": "正義合体！",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b242c",
+  "jp": "世間知らず",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2438",
+  "jp": "見込みがある",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2448",
+  "jp": "Ｍフレンド",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2454",
+  "jp": "危険人物",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2460",
+  "jp": "興味深い",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b246c",
+  "jp": "ぶたれたい",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2478",
+  "jp": "忍術の実験台",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2488",
+  "jp": "忍者仲間",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2494",
+  "jp": "殿！",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b249c",
+  "jp": "バカにするな",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b24ac",
+  "jp": "本気なのか？",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b24bc",
+  "jp": "あの…その…",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b24cc",
+  "jp": "月のような人",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b24dc",
+  "jp": "不思議な人",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b24e8",
+  "jp": "初めての友人",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b24f8",
+  "jp": "…………。",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2504",
+  "jp": "未知の感情",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2510",
+  "jp": "教えて下さい",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2520",
+  "jp": "頼りない",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b252c",
+  "jp": "我が主",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2534",
+  "jp": "うつけ者",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2540",
+  "jp": "呆れた輩",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b254c",
+  "jp": "最愛の主",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2558",
+  "jp": "元気な御子",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2564",
+  "jp": "小粋なお人",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2570",
+  "jp": "洒落た御方",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b257c",
+  "jp": "眉唾物",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2584",
+  "jp": "食わせ者",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2590",
+  "jp": "化かし上手",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b259c",
+  "jp": "ちょっと怖い",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b25ac",
+  "jp": "頑張るです",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b25b8",
+  "jp": "にこにこです",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b25c8",
+  "jp": "はわわ…",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b25d4",
+  "jp": "どきどきです",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b25e4",
+  "jp": "ほわほわです",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b25f4",
+  "jp": "大切な生徒",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2600",
+  "jp": "いい子",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2608",
+  "jp": "良き理解者",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2614",
+  "jp": "弟みたい",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2620",
+  "jp": "少し気になる",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2630",
+  "jp": "胸が苦しい",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b263c",
+  "jp": "悪ガキ",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2644",
+  "jp": "飯食え",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b264c",
+  "jp": "気を許せる",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2658",
+  "jp": "信用ならない",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2668",
+  "jp": "複雑な心境",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2674",
+  "jp": "息子のよう",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2680",
+  "jp": "まだまだ甘い",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2690",
+  "jp": "骨のある奴",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b269c",
+  "jp": "愛弟子",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b26a4",
+  "jp": "人選ミスか？",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b26b4",
+  "jp": "頭が痛い",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b26c0",
+  "jp": "俺の負けだ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b26cc",
+  "jp": "調査対象",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b26d8",
+  "jp": "良き友人",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b26e4",
+  "jp": "予測不能",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b26f0",
+  "jp": "話がしたい",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b26fc",
+  "jp": "失礼な奴",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2708",
+  "jp": "お気に入り",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2714",
+  "jp": "恥知らず",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2720",
+  "jp": "可愛い奴",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b272c",
+  "jp": "貴重な宝",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2738",
+  "jp": "その辺の子供",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2748",
+  "jp": "できる奴",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2754",
+  "jp": "部下にしたい",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2764",
+  "jp": "身の程知らず",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2774",
+  "jp": "取り調べたい",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2784",
+  "jp": "捕まえたい",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2790",
+  "jp": "ただの客",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b279c",
+  "jp": "常連客",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b27a4",
+  "jp": "将来有望",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b27b0",
+  "jp": "妙な客",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b27b8",
+  "jp": "若いな",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b27c0",
+  "jp": "後継者",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b27c8",
+  "jp": "軟弱胃袋",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b27d4",
+  "jp": "味のワカル客",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b27e4",
+  "jp": "調合仲間",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b27f0",
+  "jp": "レトルトな客",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2800",
+  "jp": "ガラムマサラ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2810",
+  "jp": "彼はカレー",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b281c",
+  "jp": "塵に等しい",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2828",
+  "jp": "邪魔な障害",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2834",
+  "jp": "我が宿命",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2840",
+  "jp": "所詮は人間",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b284c",
+  "jp": "無駄な情報",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2858",
+  "jp": "我が天命",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2864",
+  "jp": "仲良くしたい",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2874",
+  "jp": "生意気",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b287c",
+  "jp": "頼れる存在",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2888",
+  "jp": "応援してる",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2894",
+  "jp": "面倒見てやる",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b28a4",
+  "jp": "いい人",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b28ac",
+  "jp": "尊敬している",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b28bc",
+  "jp": "気になる存在",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b28cc",
+  "jp": "放っとけない",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b28dc",
+  "jp": "だが断る",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b28e8",
+  "jp": "まぶしい存在",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b28f8",
+  "jp": "古い馴染み",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2904",
+  "jp": "構うな",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b290c",
+  "jp": "マスター",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2918",
+  "jp": "センセー！",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2924",
+  "jp": "筋肉ダルマ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2930",
+  "jp": "憧れの存在",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b293c",
+  "jp": "幼なじみ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2948",
+  "jp": "変わってない",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2958",
+  "jp": "上等だ！",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2964",
+  "jp": "元気が良い",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2970",
+  "jp": "いつか勝つ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b297c",
+  "jp": "大切な存在",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2988",
+  "jp": "微笑ましい",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2994",
+  "jp": "対象外",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b299c",
+  "jp": "人懐っこい",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b29a8",
+  "jp": "人生の先輩",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b29b4",
+  "jp": "一目置いてる",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b29c4",
+  "jp": "ただ者でない",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b29d4",
+  "jp": "扱いに困る",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b29e0",
+  "jp": "うらやましい",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b29f0",
+  "jp": "優しい気配",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b29fc",
+  "jp": "おかわり！",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2a08",
+  "jp": "優秀な書記",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2a14",
+  "jp": "信頼している",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2a24",
+  "jp": "暑苦しい",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2a30",
+  "jp": "厄介な後輩",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2a3c",
+  "jp": "勝負！",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2a44",
+  "jp": "四角初心者",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2a50",
+  "jp": "四角っぽい",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2a5c",
+  "jp": "いけ好かない",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2a6c",
+  "jp": "テメェは潰す",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2a7c",
+  "jp": "使える奴",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2a88",
+  "jp": "大切な家族",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2a94",
+  "jp": "武道家仲間",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2aa0",
+  "jp": "馬鹿",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2aa8",
+  "jp": "面倒臭い奴",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2ab4",
+  "jp": "負けない！",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2ac0",
+  "jp": "あなどれない",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2ad0",
+  "jp": "お前な…",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2adc",
+  "jp": "勝つのは私",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2ae8",
+  "jp": "ごめんなさい",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2af8",
+  "jp": "譲れない闘い",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2b08",
+  "jp": "好敵手",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2b10",
+  "jp": "腐れ縁",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2b18",
+  "jp": "剣道馬鹿",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2b24",
+  "jp": "どうでもいい",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2b34",
+  "jp": "筋肉不足",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2b40",
+  "jp": "悪の華",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2b48",
+  "jp": "筋が良い",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2b54",
+  "jp": "素直になれよ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2b64",
+  "jp": "不思議な奴",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2b70",
+  "jp": "ダンディー？",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2b80",
+  "jp": "気になる！",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2b8c",
+  "jp": "気になる？",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2b98",
+  "jp": "頑張りやさん",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2ba8",
+  "jp": "大きな存在",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2bb4",
+  "jp": "優しい先輩",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2bc0",
+  "jp": "気が安らぐ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2bcc",
+  "jp": "危なっかしい",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2bdc",
+  "jp": "何か騒がしい",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2bec",
+  "jp": "ニンジャ！",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2bf8",
+  "jp": "恋のライバル",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2c08",
+  "jp": "そそっかしい",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2c18",
+  "jp": "四角い？",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2c24",
+  "jp": "メン言うな",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2c30",
+  "jp": "真面目すぎる",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2c40",
+  "jp": "熱視線",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2c48",
+  "jp": "こっち見んな",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2c58",
+  "jp": "頭が下がる",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2c64",
+  "jp": "共感できる",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2c70",
+  "jp": "カレーデカ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2c7c",
+  "jp": "カレー姫",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2c88",
+  "jp": "カレー王子",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2c94",
+  "jp": "四次元胃袋",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2ca0",
+  "jp": "カレー侍",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2cac",
+  "jp": "うるさい",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2cb8",
+  "jp": "情報通",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2cc0",
+  "jp": "玩具屋（店内）",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2cd0",
+  "jp": "アルタ前",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2cdc",
+  "jp": "警察署",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2ce4",
+  "jp": "新宿駅（ルミネエスト前）",
+  "slot": 28,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2d00",
+  "jp": "都庁（入口付近）",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2d14",
+  "jp": "理科室",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2d1c",
+  "jp": "情報科学教室",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2d2c",
+  "jp": "会議室",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b2d34",
+  "jp": "体育倉庫",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b3708",
+  "jp": "出口",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b3e68",
+  "jp": "_HSMoviePlayer_InitParam : メモリ確保失敗",
+  "slot": 44,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b3e94",
+  "jp": "scePsmfPlayerCreate : 作成失敗 0x%08x\n",
+  "slot": 40,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b3fe4",
+  "jp": "%s　%s",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b400c",
+  "jp": "現在この花札は花札トラップに\n使用中です。",
+  "slot": 44,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4038",
+  "jp": "　　 現在この花札は\n携行していないアイテムに\n　　付いているため\n　　使用できません。",
+  "slot": 88,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4158",
+  "jp": "・",
+  "slot": 4,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4178",
+  "jp": "▼",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4190",
+  "jp": "「%s",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b419c",
+  "jp": "」の",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b41a4",
+  "jp": "情報を登録しました。",
+  "slot": 24,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4378",
+  "jp": "不明",
+  "slot": 8,
+  "refs": 4,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4380",
+  "jp": "未読:%3d/%3d",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b439c",
+  "jp": "   %2d月%2d日",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b43ac",
+  "jp": "受信日:%2d月%2d日",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b43c0",
+  "jp": "件名:%s",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b43c8",
+  "jp": "送信者:%s",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b43d4",
+  "jp": "依頼：%s",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b43e0",
+  "jp": "　",
+  "slot": 4,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b43f8",
+  "jp": "弱点HP/%d",
+  "slot": 12,
+  "refs": 3,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4404",
+  "jp": "弱点HP/???",
+  "slot": 12,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4410",
+  "jp": "確率 %2d％",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b441c",
+  "jp": "？？？",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4424",
+  "jp": "この敵はアイテムを持っていません",
+  "slot": 36,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4470",
+  "jp": "%2d月%2d日",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b45e4",
+  "jp": "焼却炉地下",
+  "slot": 12,
+  "refs": 3,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b45f0",
+  "jp": "戻る",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b45f8",
+  "jp": "拡大縮小",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4604",
+  "jp": "深度変更",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4610",
+  "jp": "決定",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b47ec",
+  "jp": "Lv%2d　%s %s",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b47fc",
+  "jp": "%s　%03d：%02d：%02d\n",
+  "slot": 24,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4814",
+  "jp": "%s　 %02d：%02d：%02d\n",
+  "slot": 24,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4830",
+  "jp": "クリアデータ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4844",
+  "jp": "所持金　%d円",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b485c",
+  "jp": "セーブデータのバージョンがおかしいです。　　　　このデータは使用できません。",
+  "slot": 116,
+  "refs": 1,
+  "enc": "utf-8",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4940",
+  "jp": "貴重品入手",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4bb4",
+  "jp": "イエス!!サブリミナル",
+  "slot": 24,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4d1c",
+  "jp": "現在の枚数　%3d/%3d",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4d34",
+  "jp": "花札取得",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4d40",
+  "jp": "入手",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4e3c",
+  "jp": "依頼：%s",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4e48",
+  "jp": "　",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4e8c",
+  "jp": "取得",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4f64",
+  "jp": "確認",
+  "slot": 8,
+  "refs": 6,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b4ff0",
+  "jp": "%d行目",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5010",
+  "jp": "%sを",
+  "slot": 8,
+  "refs": 3,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b512c",
+  "jp": "花札取得",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5148",
+  "jp": "攻撃力    　消費ＡＰ   ",
+  "slot": 24,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5168",
+  "jp": "防御力    ",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5174",
+  "jp": "再装填AP：%3d",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b518c",
+  "jp": "%s：%s",
+  "slot": 8,
+  "refs": 5,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5194",
+  "jp": "%s：%3d %s：",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b51a4",
+  "jp": "%s%s　%s%3d％",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b51b4",
+  "jp": "→",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b51c8",
+  "jp": "%s　　　%4d",
+  "slot": 12,
+  "refs": 6,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b51d4",
+  "jp": "%s　　%4d",
+  "slot": 12,
+  "refs": 6,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b51e0",
+  "jp": "%s　%2d%s",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b51ec",
+  "jp": "%s　　　%s%3d％",
+  "slot": 16,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b51fc",
+  "jp": "%s　　%s%3d％",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5218",
+  "jp": "携行アイテム 空き%2d/最大%2d",
+  "slot": 32,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5238",
+  "jp": "携行アイテム   空き%2d/最大%2d",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5258",
+  "jp": "どちらにしますか⑫\n『はい』がセーブ、『いいえ』がロード",
+  "slot": 56,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5290",
+  "jp": "メモリースティック⑫が見つかりません。\nこのゲームのセーブデータを保存するには\n448KB以上の空き容量が必要です。",
+  "slot": 112,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5300",
+  "jp": "メモリースティック⑫の空き容量が不足しています。\nこのゲームのセーブデータを保存するには\n448KB以上の空き容量が必要です。",
+  "slot": 120,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5378",
+  "jp": "メモリースティック⑫が差されていないと\nゲームデータをセーブできません。\nこのままゲームを始めますか？",
+  "slot": 104,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b53e0",
+  "jp": "残っているアイテムを破棄します。\nよろしいですか？",
+  "slot": 52,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5414",
+  "jp": "このアイテムを渡しますか？",
+  "slot": 28,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5430",
+  "jp": "携行のスロットがいっぱいです。\n整理してアイテムを収納しますか？",
+  "slot": 64,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5470",
+  "jp": "花札をはずしますか？",
+  "slot": 24,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5488",
+  "jp": "すでに強化されています。\n花札を入れ替えますか？",
+  "slot": 48,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b54b8",
+  "jp": " が",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b54bc",
+  "jp": "完成しました",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b54cc",
+  "jp": " に変化しました。",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b54e0",
+  "jp": "－－－－－－－－",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b54f4",
+  "jp": "？？？？？？？？",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5508",
+  "jp": "使う",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5510",
+  "jp": "調合",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5518",
+  "jp": "装備変更",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5524",
+  "jp": "並べ替え",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5530",
+  "jp": "リロード",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b553c",
+  "jp": "はずす",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5544",
+  "jp": "花札選択",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5550",
+  "jp": "花札変更",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b555c",
+  "jp": "装備強化",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5568",
+  "jp": "強化解除",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5574",
+  "jp": "ＨＰ",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b557c",
+  "jp": "ＡＰ",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5584",
+  "jp": "属性付与",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5594",
+  "jp": "夏",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b55a0",
+  "jp": "所持数",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b55a8",
+  "jp": "個",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b55ac",
+  "jp": "所持金",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b55b4",
+  "jp": "小計",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b55bc",
+  "jp": "購入後",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b55e4",
+  "jp": "花札取得",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b55f0",
+  "jp": "入手",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5658",
+  "jp": "武藤　いちる",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5668",
+  "jp": "むとう　いちる",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5678",
+  "jp": "養成科三年Ｃ組",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5688",
+  "jp": "檀　炯治",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5694",
+  "jp": "だん　とうじ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b56a4",
+  "jp": "三年二組",
+  "slot": 12,
+  "refs": 3,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b56b0",
+  "jp": "羽鳥　朝子",
+  "slot": 12,
+  "refs": 4,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b56bc",
+  "jp": "穂坂　弥紀",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b56c8",
+  "jp": "ほさか　みのり",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b56d8",
+  "jp": "宍戸　長英",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b56e4",
+  "jp": "ししど　ながひで",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b56f8",
+  "jp": "二年二組",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5704",
+  "jp": "安田　次夫",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5710",
+  "jp": "飛坂　巴",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b571c",
+  "jp": "とびさか　ともえ",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5730",
+  "jp": "三年一組",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b573c",
+  "jp": "小野　道明",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5748",
+  "jp": "宝方　蒐",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5754",
+  "jp": "たからかた　しゅう",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5768",
+  "jp": "鬼丸　義王",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5774",
+  "jp": "おにまる　ぎおう",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5788",
+  "jp": "帝王科二年Ａ組",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5798",
+  "jp": "柳生　厳門",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b57a4",
+  "jp": "鹿島　御霧",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b57b0",
+  "jp": "かしま　みぎり",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b57c0",
+  "jp": "情報戦略科三年Ｂ組",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b57d4",
+  "jp": "明石　元治",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b57e0",
+  "jp": "アンジェラ・Ｄ・オルフェン",
+  "slot": 28,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b57fc",
+  "jp": "海外選抜科三年Ａ組",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5810",
+  "jp": "オリガ・クルースニク",
+  "slot": 24,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5828",
+  "jp": "幸徳路　要",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5834",
+  "jp": "こうとくじ　かなめ",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5848",
+  "jp": "三年酉組",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5854",
+  "jp": "江戸川　新歩",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5864",
+  "jp": "蒲生　道佳",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5870",
+  "jp": "がもう　どうかい",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5884",
+  "jp": "三年巳組",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5890",
+  "jp": "蘆屋　弓月",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b589c",
+  "jp": "嘉門　英雄",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b58a8",
+  "jp": "かもん　ひでお",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b58b8",
+  "jp": "三年猪組",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b58c4",
+  "jp": "津嘉山　正義",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b58d4",
+  "jp": "香ノ巣　絢人",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b58e4",
+  "jp": "こうのす　あやひと",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b58f8",
+  "jp": "普通科三年Ｅ組",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5908",
+  "jp": "白鐘　理人",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5914",
+  "jp": "日向　輪",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5920",
+  "jp": "ひむかい　りん",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5930",
+  "jp": "一年兎組",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b593c",
+  "jp": "風間　久蔵",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5948",
+  "jp": "佐波守　紅緒",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5958",
+  "jp": "さわかみ　べにお",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b596c",
+  "jp": "二年梅組",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5978",
+  "jp": "姥山　典善",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5984",
+  "jp": "白",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5988",
+  "jp": "まお",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5994",
+  "jp": "鍵",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5998",
+  "jp": "けん",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b59a0",
+  "jp": "鈴",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b59a4",
+  "jp": "すず",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b59ac",
+  "jp": "はとり　あさこ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b59bc",
+  "jp": "羽鳥　清司郎",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b59cc",
+  "jp": "はとり　せいしろう",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b59e0",
+  "jp": "いさち　だいすけ",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b59f4",
+  "jp": "筑紫　信維",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5a00",
+  "jp": "ちくし　のぶゆき",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5a14",
+  "jp": "牧村　久榮",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5a20",
+  "jp": "まきむら　ひさえ",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5a34",
+  "jp": "富樫　花子",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5a40",
+  "jp": "とがし　はなこ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5a50",
+  "jp": "澁川　源伍",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5a5c",
+  "jp": "しぶかわ　げんご",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5a70",
+  "jp": "カルパタル・Ｔ・シャンカル　",
+  "slot": 32,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5a90",
+  "jp": "　",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5a94",
+  "jp": "楼　万黎",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5aa0",
+  "jp": "たかどの　ばんり",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5ab4",
+  "jp": "料亭のおかみ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5ac4",
+  "jp": "歴史ある料亭の、八代目女将。\n本人は知らないが、有名な\n霊能者の血筋を引いている。",
+  "slot": 84,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5b18",
+  "jp": "陸奥の刀鍛冶",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5b28",
+  "jp": "陸奥の山奥に庵を構える、\n若いが実力のある刀鍛冶。\n彼の発表した「現代の妖刀」は\n現在プレミアが付いている。",
+  "slot": 108,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5b94",
+  "jp": "北米のハッカー",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5ba4",
+  "jp": "自称「サイバースペース\nＮｏ．１の天才ハッカー」。\n片手でスパコンに侵入できる。\n現在は行方が分からない。",
+  "slot": 104,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5c0c",
+  "jp": "恐山のイタコ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5c1c",
+  "jp": "東北地方の民間の巫女。\n幼いころから修業を\nはじめたため、過去への\n思い入れが強い。",
+  "slot": 84,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5c70",
+  "jp": "憑物筋の少年",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5c80",
+  "jp": "由緒ある憑物筋の末裔だったが\n幼くして病死。\n先祖の契約で式神により\nかりそめの命を与えられていた。",
+  "slot": 100,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5ce4",
+  "jp": "しがない愛猫家",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5cf4",
+  "jp": "愛しい猫のためなら何でもする\n出自不明の謎の美女。\nまるで恋人にするように、\n猫に尽くす。",
+  "slot": 88,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5d4c",
+  "jp": "褐色の肌の王族",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5d5c",
+  "jp": "アジア某国の王族。\n自らの徳を積むために数々の\n善行を行っている。\n前世の弟が新宿にいるらしい。",
+  "slot": 96,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5dbc",
+  "jp": "謎のカレー仙人",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5dcc",
+  "jp": "幻のカレーを追い求めている、\n正体不明の男性。\n最近はディルとスターアニスの\n割合にこだわっている。",
+  "slot": 100,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5e30",
+  "jp": "インディアンの酋長",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5e44",
+  "jp": "トーテムと意志を通わせることを\n生業としたメディスン・マンの\nひとり。動物の意志と\n心を通わせることができる。",
+  "slot": 108,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5eb0",
+  "jp": "帝都防衛軍",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5ebc",
+  "jp": "明治時代から、霊的なものと\n敵対し続け、帝都を守っていた\n帝都防衛軍の将校。\n…自己紹介はこれでよいか？",
+  "slot": 104,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5f24",
+  "jp": "雉明　零",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5f30",
+  "jp": "ちあき　ぜろ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5f40",
+  "jp": "養成科三年Ａ組",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5f50",
+  "jp": "伊佐地　大督",
+  "slot": 16,
+  "refs": 3,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b5fd8",
+  "jp": "＊＊＊＊＊を",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b68b0",
+  "jp": "ルビ",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b68b8",
+  "jp": "苗字",
+  "slot": 8,
+  "refs": 3,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6a10",
+  "jp": "着信メロディ取得",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6a24",
+  "jp": "ＢＧＭ取得",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6a30",
+  "jp": "インテリア取得",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6a40",
+  "jp": "特課試札取得",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6a50",
+  "jp": "花札取得",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6a90",
+  "jp": "雉明",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6a98",
+  "jp": "零",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6a9c",
+  "jp": "ちあき",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6aa4",
+  "jp": "ぜろ",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6aac",
+  "jp": "長身の男子生徒",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6abc",
+  "jp": "静かな声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6ac8",
+  "jp": "五光の獣",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6ad4",
+  "jp": "痩躯の男子生徒",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6ae4",
+  "jp": "武藤",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6aec",
+  "jp": "いちる",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6af4",
+  "jp": "むとう",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6afc",
+  "jp": "元気のいい声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6b0c",
+  "jp": "活発そうな女生徒",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6b20",
+  "jp": "溌剌とした声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6b30",
+  "jp": "いちるの声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6b40",
+  "jp": "燈治",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6b48",
+  "jp": "だん",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6b50",
+  "jp": "とうじ",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6b58",
+  "jp": "剛健な男子生徒の声",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6b6c",
+  "jp": "黒髪の男子生徒",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6b7c",
+  "jp": "剛健な声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6b88",
+  "jp": "炯治",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6b90",
+  "jp": "穂坂",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6b98",
+  "jp": "弥紀",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6ba0",
+  "jp": "ほさか",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6ba8",
+  "jp": "みのり",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6bb0",
+  "jp": "柔らかな女生徒の声",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6bc4",
+  "jp": "おっとりした女生徒",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6bd8",
+  "jp": "柔らかな声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6be4",
+  "jp": "弥紀の声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6bf0",
+  "jp": "宍戸",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6bf8",
+  "jp": "長英",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6c00",
+  "jp": "ししど",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6c08",
+  "jp": "ながひで",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6c14",
+  "jp": "厳つい男子生徒の声",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6c28",
+  "jp": "刀袋を持った男子生徒",
+  "slot": 24,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6c40",
+  "jp": "厳つい声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6c4c",
+  "jp": "長英の声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6c58",
+  "jp": "暑苦しい声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6c64",
+  "jp": "飛坂",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6c70",
+  "jp": "とびさか",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6c7c",
+  "jp": "ともえ",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6c84",
+  "jp": "威勢のいい女生徒の声",
+  "slot": 24,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6c9c",
+  "jp": "眼鏡の女生徒",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6cac",
+  "jp": "校内放送",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6cb8",
+  "jp": "威勢のいい声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6cc8",
+  "jp": "巴の声",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6cd0",
+  "jp": "宝方",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6cdc",
+  "jp": "たからかた",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6ce8",
+  "jp": "しゅう",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6cf0",
+  "jp": "袋を被った男子生徒",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6d04",
+  "jp": "くぐもった声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6d14",
+  "jp": "鬼丸",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6d1c",
+  "jp": "義王",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6d24",
+  "jp": "おにまる",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6d30",
+  "jp": "ぎおう",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6d38",
+  "jp": "自信に満ちた声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6d48",
+  "jp": "赤い髪の男",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6d54",
+  "jp": "物陰の人物",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6d60",
+  "jp": "鹿島",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6d68",
+  "jp": "御霧",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6d70",
+  "jp": "かしま",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6d78",
+  "jp": "みぎり",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6d80",
+  "jp": "冷徹な声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6d8c",
+  "jp": "冷たい瞳の男子生徒",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6da0",
+  "jp": "几帳面な文字",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6db0",
+  "jp": "アンジー・Ｄ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6dc0",
+  "jp": "アンジェラ・ドロシー・オルフェン",
+  "slot": 36,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6de4",
+  "jp": "アンジー",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6df0",
+  "jp": "弾けるような声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6e00",
+  "jp": "金髪の女生徒",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6e10",
+  "jp": "アンジーの声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6e20",
+  "jp": "弾ける様な声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6e30",
+  "jp": "陽気な声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6e3c",
+  "jp": "幸徳路",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6e48",
+  "jp": "こうとくじ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6e54",
+  "jp": "かなめ",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6e5c",
+  "jp": "冷やかな女生徒",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6e6c",
+  "jp": "気位の高い声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6e7c",
+  "jp": "冷ややかな女生徒",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6e90",
+  "jp": "蒲生",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6e98",
+  "jp": "道佳",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6ea0",
+  "jp": "がもう",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6ea8",
+  "jp": "どうかい",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6eb4",
+  "jp": "女生徒？",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6ec0",
+  "jp": "可憐な声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6ecc",
+  "jp": "不気味な声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6ed8",
+  "jp": "可憐な声？",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6ee4",
+  "jp": "嘉門",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6eec",
+  "jp": "英雄",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6ef4",
+  "jp": "かもん",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6efc",
+  "jp": "ひでお",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6f04",
+  "jp": "覆面の男",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6f10",
+  "jp": "屈強な男子生徒",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6f20",
+  "jp": "闊達な声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6f2c",
+  "jp": "闊達とした声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6f3c",
+  "jp": "香ノ巣",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6f44",
+  "jp": "絢人",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6f4c",
+  "jp": "こうのす",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6f58",
+  "jp": "あやひと",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6f64",
+  "jp": "優雅な男",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6f70",
+  "jp": "流麗な声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6f7c",
+  "jp": "日向",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6f84",
+  "jp": "輪",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6f88",
+  "jp": "ひむかい",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6f94",
+  "jp": "りん",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6f9c",
+  "jp": "幼い声",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6fa4",
+  "jp": "小柄な人物",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6fb0",
+  "jp": "小柄な人影",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6fbc",
+  "jp": "輪の声",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6fc4",
+  "jp": "佐波守",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6fcc",
+  "jp": "紅緒",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6fd4",
+  "jp": "さわかみ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6fe0",
+  "jp": "べにお",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6fe8",
+  "jp": "学制服の少女",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b6ff8",
+  "jp": "謎の少女",
+  "slot": 12,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7004",
+  "jp": "無感情な声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7010",
+  "jp": "黒髪の少女",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b701c",
+  "jp": "白",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7020",
+  "jp": "まお",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7028",
+  "jp": "高圧的な声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7034",
+  "jp": "白い鴉",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b703c",
+  "jp": "白の声",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7044",
+  "jp": "札から聞こえる声",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7058",
+  "jp": "鍵",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b705c",
+  "jp": "けん",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7064",
+  "jp": "飄々とした声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7074",
+  "jp": "謎の男",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b707c",
+  "jp": "鍵の声",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7084",
+  "jp": "着流しの男",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7090",
+  "jp": "鈴",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7094",
+  "jp": "すず",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b709c",
+  "jp": "鈴の音のような声",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b70b0",
+  "jp": "鈴の声",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b70b8",
+  "jp": "着物の少女",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b70c4",
+  "jp": "羽鳥",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b70cc",
+  "jp": "朝子",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b70d4",
+  "jp": "はとり",
+  "slot": 8,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b70dc",
+  "jp": "あさこ",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b70e4",
+  "jp": "慌ただしい女教師",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b70f8",
+  "jp": "若い女性の声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7108",
+  "jp": "朝子の声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7114",
+  "jp": "清司郎",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b711c",
+  "jp": "せいしろう",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7128",
+  "jp": "柄の悪い男の声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7138",
+  "jp": "くわえ煙草の男",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7148",
+  "jp": "陰鬱な声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7154",
+  "jp": "朗々とした声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7164",
+  "jp": "清司郎の声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7170",
+  "jp": "伊佐地",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7178",
+  "jp": "大督",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7180",
+  "jp": "いさち",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7188",
+  "jp": "だいすけ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7194",
+  "jp": "野太い声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b71a0",
+  "jp": "顔に傷のある男",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b71b0",
+  "jp": "筑紫",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b71b8",
+  "jp": "信維",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b71c0",
+  "jp": "ちくし",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b71c8",
+  "jp": "のぶゆき",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b71d4",
+  "jp": "黒髪の男",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b71e0",
+  "jp": "スーツの男",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b71ec",
+  "jp": "毅然とした声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b71fc",
+  "jp": "痩身の男",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7208",
+  "jp": "無表情な男",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7214",
+  "jp": "黒いコートの男",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7224",
+  "jp": "牧村",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b722c",
+  "jp": "久榮",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7234",
+  "jp": "まきむら",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7240",
+  "jp": "ひさえ",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7248",
+  "jp": "気怠げな女教師",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7258",
+  "jp": "気怠い声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7264",
+  "jp": "久榮の声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7270",
+  "jp": "富樫",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7278",
+  "jp": "花子",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7280",
+  "jp": "とがし",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7288",
+  "jp": "はなこ",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7290",
+  "jp": "目つきの鋭い女性",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b72a4",
+  "jp": "凜とした声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b72b0",
+  "jp": "凛とした声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b72bc",
+  "jp": "澁川",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b72c4",
+  "jp": "源伍",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b72cc",
+  "jp": "しぶかわ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b72d8",
+  "jp": "げんご",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b72e0",
+  "jp": "隻眼の老人",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b72ec",
+  "jp": "低い声",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b72f4",
+  "jp": "カルパタル",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7300",
+  "jp": "カルパタル・Ｔ・シャンカル",
+  "slot": 28,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b731c",
+  "jp": "調子の良い声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b732c",
+  "jp": "謎のインド人？",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7340",
+  "jp": "万黎",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7348",
+  "jp": "たかどの",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7354",
+  "jp": "ばんり",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b735c",
+  "jp": "白い学生服の男",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b736c",
+  "jp": "重厚な声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7378",
+  "jp": "金属のような声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7388",
+  "jp": "金属質な声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7394",
+  "jp": "購買",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b739c",
+  "jp": "おもちゃ屋",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b73c8",
+  "jp": "北米のハッカーの声",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b73dc",
+  "jp": "無機質な声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b73e8",
+  "jp": "黒い影",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b73f0",
+  "jp": "若い刑事",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b73fc",
+  "jp": "購買のおばちゃん",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7410",
+  "jp": "少年に憑いていた式神",
+  "slot": 24,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7428",
+  "jp": "入ってきたばかりの客",
+  "slot": 24,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7440",
+  "jp": "男子生徒Ａ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b744c",
+  "jp": "男子生徒Ｂ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7458",
+  "jp": "男子生徒Ｃ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7464",
+  "jp": "玩具屋の店主",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7474",
+  "jp": "男子生徒Ｄ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7480",
+  "jp": "通行人の声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b748c",
+  "jp": "テニス部員Ａ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b749c",
+  "jp": "テニス部員Ｂ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b74ac",
+  "jp": "盗賊団員",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b74b8",
+  "jp": "幼い女の子の声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b74c8",
+  "jp": "黒服の男達の声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b74d8",
+  "jp": "小さな泣き声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b74e8",
+  "jp": "女生徒Ａ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b74f4",
+  "jp": "女生徒Ｂ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7500",
+  "jp": "女生徒Ｃ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b750c",
+  "jp": "苦しそうな男の声",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7520",
+  "jp": "一同",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7528",
+  "jp": "キャスターの声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7538",
+  "jp": "野卑な声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7544",
+  "jp": "人相の悪い男たち",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7558",
+  "jp": "体育教師",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7564",
+  "jp": "梵鐘のような声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7574",
+  "jp": "厳めしい声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7580",
+  "jp": "いかめしい声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7590",
+  "jp": "男子生徒",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b759c",
+  "jp": "不細工な犬",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b75a8",
+  "jp": "カナエ",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b75b0",
+  "jp": "香ばしい声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b75bc",
+  "jp": "黒いスーツの男Ａ",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b75d0",
+  "jp": "黒いスーツの男Ｂ",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b75e4",
+  "jp": "女子生徒Ａ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b75f0",
+  "jp": "女子生徒Ｂ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b75fc",
+  "jp": "女子生徒の声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b760c",
+  "jp": "図書館員",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7618",
+  "jp": "ＪＥＭＡ職員",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7628",
+  "jp": "猫？",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7630",
+  "jp": "盗賊団員Ａ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b763c",
+  "jp": "盗賊団員Ｂ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7648",
+  "jp": "盗賊団員Ｃ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7654",
+  "jp": "学生服の少女",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7664",
+  "jp": "男たちの声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7670",
+  "jp": "外からの声",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b767c",
+  "jp": "警察官",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7684",
+  "jp": "初老の男の声",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7694",
+  "jp": "数学教師",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b76a0",
+  "jp": "眼鏡の男",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b76ac",
+  "jp": "制服の男たち",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b76bc",
+  "jp": "柄の悪い男子生徒",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b76d0",
+  "jp": "寇聖の男子生徒Ａ",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b76e4",
+  "jp": "寇聖の男子生徒Ｂ",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b76f8",
+  "jp": "寇聖の男子生徒Ｃ",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b770c",
+  "jp": "カナエさん",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7718",
+  "jp": "謎の僧侶",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7724",
+  "jp": "怪しげな番台",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7734",
+  "jp": "剣道部員Ａ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7740",
+  "jp": "剣道部員Ｂ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b774c",
+  "jp": "剣道部員Ｃ",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7758",
+  "jp": "隠人",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7760",
+  "jp": "謎の物体",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b776c",
+  "jp": "月舟",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7774",
+  "jp": "料亭のおかみ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7784",
+  "jp": "陸奥の刀鍛冶",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7794",
+  "jp": "北米のハッカー",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b77a4",
+  "jp": "恐山のイタコ",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b77b4",
+  "jp": "憑物筋の少年",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b77c4",
+  "jp": "しがない愛猫家",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b77d4",
+  "jp": "褐色の肌の王族",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b77e4",
+  "jp": "謎のカレー仙人",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b77f4",
+  "jp": "インディアンの酋長",
+  "slot": 20,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7808",
+  "jp": "帝都防衛軍",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7814",
+  "jp": "帝都防衛軍将校",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7824",
+  "jp": "鬼手に太鼓",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7830",
+  "jp": "七代",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7838",
+  "jp": "千馗",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7840",
+  "jp": "しちだい",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b784c",
+  "jp": "かずき",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7854",
+  "jp": "コマンドなし",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7864",
+  "jp": "無",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7868",
+  "jp": "愛",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b786c",
+  "jp": "困",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7870",
+  "jp": "悲",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7880",
+  "jp": "嫌",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7884",
+  "jp": "喜",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b79a8",
+  "jp": "о",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b79ac",
+  "jp": "п",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b79b0",
+  "jp": "р",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b79b4",
+  "jp": "с",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b79b8",
+  "jp": "т",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b79bc",
+  "jp": "у",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b79c0",
+  "jp": "ф",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b79dc",
+  "jp": "⑤⑥⑥⑥⑥⑦",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b79ec",
+  "jp": "⑤⑥⑦",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a04",
+  "jp": "、",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a08",
+  "jp": "。",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a0c",
+  "jp": "ぁ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a10",
+  "jp": "ぃ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a14",
+  "jp": "ぅ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a18",
+  "jp": "ぇ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a1c",
+  "jp": "ぉ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a20",
+  "jp": "っ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a24",
+  "jp": "ゃ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a28",
+  "jp": "ゅ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a2c",
+  "jp": "ょ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a30",
+  "jp": "ゎ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a34",
+  "jp": "ァ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a38",
+  "jp": "ィ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a3c",
+  "jp": "ゥ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a40",
+  "jp": "ェ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a44",
+  "jp": "ォ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a48",
+  "jp": "ッ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a4c",
+  "jp": "ャ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a50",
+  "jp": "ュ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a54",
+  "jp": "ョ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a58",
+  "jp": "ヮ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a5c",
+  "jp": "ヵ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a60",
+  "jp": "ヶ",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a64",
+  "jp": "ー",
+  "slot": 4,
+  "refs": 2,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a68",
+  "jp": "─",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a6c",
+  "jp": "！！",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a74",
+  "jp": "！？",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a7c",
+  "jp": "【",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a80",
+  "jp": "】",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a84",
+  "jp": "――――――",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a94",
+  "jp": "―――",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7a9c",
+  "jp": "＝",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7aa0",
+  "jp": "『",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7aa4",
+  "jp": "』",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7aac",
+  "jp": "－",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7ab0",
+  "jp": "～",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7ab4",
+  "jp": "＠苗読１",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7ac0",
+  "jp": "＠名読１",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7acc",
+  "jp": "＠苗漢１",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7ad8",
+  "jp": "＠名漢１",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7ae4",
+  "jp": "＠苗字",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7aec",
+  "jp": "＠名前",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7af4",
+  "jp": "Β",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7af8",
+  "jp": "Γ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7afc",
+  "jp": "Δ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b00",
+  "jp": "Ε",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b04",
+  "jp": "Ζ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b08",
+  "jp": "Η",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b0c",
+  "jp": "Θ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b10",
+  "jp": "Ι",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b14",
+  "jp": "Κ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b18",
+  "jp": "Λ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b1c",
+  "jp": "Μ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b20",
+  "jp": "Ν",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b24",
+  "jp": "Ξ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b28",
+  "jp": "Ο",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b2c",
+  "jp": "Π",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b30",
+  "jp": "Ρ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b34",
+  "jp": "Σ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b38",
+  "jp": "Τ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b3c",
+  "jp": "Υ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b40",
+  "jp": "Φ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b44",
+  "jp": "Χ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b48",
+  "jp": "Ψ",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b4c",
+  "jp": "Ω",
+  "slot": 4,
+  "refs": 3,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b50",
+  "jp": "｜",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7b54",
+  "jp": "│",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7ba0",
+  "jp": "買い物をしない",
+  "slot": 16,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7bb0",
+  "jp": "やめる",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7bb8",
+  "jp": "特にない",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7bc4",
+  "jp": "何もしない",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7e28",
+  "jp": "★★★★★★ ERROR ★★★★★★ Font Area Over!!",
+  "slot": 52,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7e5c",
+  "jp": "苗読全",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7e64",
+  "jp": "名読全",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7e6c",
+  "jp": "苗読１",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7e74",
+  "jp": "名読１",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7e7c",
+  "jp": "苗漢１",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7e84",
+  "jp": "名漢１",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7e8c",
+  "jp": "苗漢読１",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7e98",
+  "jp": "名漢読１",
+  "slot": 12,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7ea4",
+  "jp": "半空",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7eac",
+  "jp": "全空",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7eb4",
+  "jp": "苗字",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7ebc",
+  "jp": "名前",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7ec4",
+  "jp": "改行",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7ecc",
+  "jp": "終端",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7ed4",
+  "jp": "虚",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7ed8",
+  "jp": "＠",
+  "slot": 4,
+  "refs": 3,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2b7f04",
+  "jp": "　！”＃＄％＆’（）＊＋，－．／０１２３４５６７８９：；＜＝＞？＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ【￥￥】＾＿・ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏＰＱＲＳＴＵＶＷＸＹＺ｛｜｝～",
+  "slot": 196,
+  "refs": 1,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d2388",
+  "jp": "保持しない",
+  "slot": 24,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d23a0",
+  "jp": "あり",
+  "slot": 24,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d23b8",
+  "jp": "なし",
+  "slot": 24,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d23d0",
+  "jp": "長い",
+  "slot": 24,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d23e8",
+  "jp": "普通",
+  "slot": 24,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d2400",
+  "jp": "短い",
+  "slot": 24,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d2418",
+  "jp": "高速",
+  "slot": 24,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d2430",
+  "jp": "普通",
+  "slot": 24,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d2448",
+  "jp": "低速",
+  "slot": 24,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d2460",
+  "jp": "なし",
+  "slot": 24,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d25b0",
+  "jp": "秋の洞",
+  "slot": 16,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d25c0",
+  "jp": "春の洞",
+  "slot": 16,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d25d0",
+  "jp": "冬の洞",
+  "slot": 16,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d25e0",
+  "jp": "夏の洞",
+  "slot": 16,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d25f0",
+  "jp": "龍珠堂",
+  "slot": 16,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d2600",
+  "jp": "？？？",
+  "slot": 20,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3a10",
+  "jp": "pnクン",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3a34",
+  "jp": "pmクン",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3ae0",
+  "jp": "pnくん",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3b04",
+  "jp": "pmくん",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3b24",
+  "jp": "pn兄ィ",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3b48",
+  "jp": "pn先輩",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3b6c",
+  "jp": "pm先輩",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3bf4",
+  "jp": "キング",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3c18",
+  "jp": "pnセンパイ",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3c3c",
+  "jp": "pmセンパイ",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3c5c",
+  "jp": "大将",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3cc4",
+  "jp": "pnyhっちゃん",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3d2c",
+  "jp": "チーフ",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3db8",
+  "jp": "pnはん",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3ddc",
+  "jp": "pmはん",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3dfc",
+  "jp": "薔薇の君",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3e20",
+  "jp": "pnきゅん",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3e44",
+  "jp": "pmきゅん",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3e64",
+  "jp": "戦士pn",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3ecc",
+  "jp": "pnくん",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3f34",
+  "jp": "pnサン",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3fc0",
+  "jp": "pnさん",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d3fe4",
+  "jp": "pmさん",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d406c",
+  "jp": "pn1さん",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d40d4",
+  "jp": "お兄さま",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d40f8",
+  "jp": "pnさま",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d411c",
+  "jp": "pmさま",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d4414",
+  "jp": "pnyhの字",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d4438",
+  "jp": "pnドノ",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ },
+ {
+  "id": "eboot:2d445c",
+  "jp": "pmドノ",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": ""
+ }
+]

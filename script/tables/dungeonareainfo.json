@@ -1,0 +1,134 @@
+[
+ {
+  "id": "dungeonareainfo:0000:00",
+  "jp": "模擬演習場",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0001:00",
+  "jp": "秋・第一階層",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0002:00",
+  "jp": "秋・第二階層",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0003:00",
+  "jp": "秋・第三階層",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0004:00",
+  "jp": "春・第一階層",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0005:00",
+  "jp": "春・第二階層",
+  "refs": 2,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0007:00",
+  "jp": "春・第三階層",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0008:00",
+  "jp": "春・第四階層",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0009:00",
+  "jp": "冬・第一階層",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0010:00",
+  "jp": "冬・第二階層",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0011:00",
+  "jp": "冬・第三階層",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0012:00",
+  "jp": "夏・第一階層",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0013:00",
+  "jp": "夏・第二階層",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0014:00",
+  "jp": "夏・第三階層",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0015:00",
+  "jp": "龍珠堂",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0016:00",
+  "jp": "龍珠堂最深部",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0017:00",
+  "jp": "龍珠堂封印部",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0018:00",
+  "jp": "Ａ１エリア",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0019:00",
+  "jp": "秋の洞最上層",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0020:00",
+  "jp": "春の洞最上層",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0021:00",
+  "jp": "冬の洞最上層",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "dungeonareainfo:0022:00",
+  "jp": "夏の洞最上層",
+  "refs": 1,
+  "en": ""
+ }
+]

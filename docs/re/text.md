@@ -1,52 +1,83 @@
 # Text: encoding, script files, tables, EBOOT strings
 
-Encoding everywhere found so far: **Shift-JIS (cp932)**, standard (verified: every `.pwx` block and the CSVB tables
-decode as readable Japanese with Python's cp932). Fonts are the game's own bitmap fonts, not sceFont:
-`app_init.pak/system/font/{advfont08,advfont14,sysfont18,mobilefont}.ipk` plus `jis2ucs.bin`/`ucs2jis.bin`
+Encoding everywhere: **Shift-JIS (cp932)**, standard (verified: phase 4 roundtrip of every extracted string, see
+`tests/test_extract.py`), except 7 UTF-8 save-dialog strings in the EBOOT. Fonts are the game's own bitmap fonts, not
+sceFont: `app_init.pak/system/font/{advfont08,advfont14,sysfont18,mobilefont}.ipk` plus `jis2ucs.bin`/`ucs2jis.bin`
 (guess: the .ipk glyphs are indexed by Unicode via jis2ucs; decode the .ipk format in phase 5).
 
-## Story/event script: `pw/{dg,fd,fn,in,ms,qs}/*.pwx` (verified by decoding)
-438 files (47 zdv-compressed in CROW.PAK), 2.24 MB, 11,006 blocks, ~663,000 SJIS characters. Each `.pwx` has a
-sibling `.ksf` (event/flag data; holds a few SJIS labels, guess: debug names, not shown).
-- Layout: u16 offset table at 0, values in **4-byte units**; the first value is the table size (so it is also the
-  first block's offset); the table ends with 0 padding to a 4-byte boundary. Each block starts on a 4-byte boundary,
-  ends with `_`, zero-padded. 3 of 11,006 blocks don't end in `_` (check in phase 4). Max addressable: 256 KB per
-  file (largest original 116 KB). Block index = what `.ksf`/code refers to (guess); offsets are recomputed on insert,
-  so block sizes may change freely.
-- Text is double-byte SJIS only; all control codes are **single-byte ASCII mnemonics with fixed-width ASCII
-  arguments**, e.g.: `r` line break, `wc` wait for button + clear box, `_` end of block, `【name】` speaker
-  line (literal SJIS brackets), `vo#####`/`vos#####` voice, `ch#####` portrait, `ef##x+000y+000w+000h+000s#..`
-  screen effect, `ci##`/`co##` fade in/out, `mo##`, `mr##`, `mi#`, `mfin##`/`mfout##` music, `seplay,NAME,nn,n`,
-  `sebl,NAME`, `sebf,NAME`, `bg####`, `bi##`, `w##` wait, `time##`, `shopwait#`, `iget`, `nameclear`,
-  `eyecatch`, `{...}` location caption, `}NAME` (e.g. `}mail`), `l漢字(かな)` ruby, `px` full player name,
-  `pm`/`pn` player surname / given name (guess), `exi##exg####`.
-  **Consequence for English:** ASCII letters are commands, so English text cannot be plain ASCII in this format.
+## Repo text format (phase 4, `tools/extract.py`)
+`script/` JSON (indent 1, UTF-8), one list of entries per file; `id` is stable and address-based, `jp` is the
+decoded original, `en` is for the translation, optional `notes`/`status`. `extract.py` writes missing files only;
+`--force` regenerates jp/context and keeps en/notes/status by id, printing ids whose jp changed.
+- `script/pw/<dir>/<stem>.json`: scene spans `<stem>:<block>:<span>` with `speaker` (JP, see speakers.json) and
+  `kind: caption` for `{...}` location captions; then the scene's choices `<stem>:ksf:<offset>` (`kind: choice`,
+  `slot` 30 bytes).
+- `script/speakers.json`: each 【speaker】 name once (`lines` = uses); the build writes 【en】 for every 【jp】.
+- `script/tables/<stem>.json`: one entry per distinct pool offset, id `<stem>:<row>:<col offset hex>` of its first
+  pointer, `refs` = pointers sharing it.
+- `script/eboot.json`: id `eboot:<file offset hex>`, `slot` (bytes to the next non-zero byte), `refs`, `enc`.
+Totals: 29,758 script spans in 438 .pwx, 1,225 choices, 221 speakers, 8,113 table strings in 40 tables, 1,255
+EBOOT strings (40,572 entries with speakers). Text markup inside `jp`: `\n` line break, `{px}`/`{pm}`/`{pn}` player
+full name / surname / given name (guess for pm/pn), `{ruby:base|reading}` furigana, `{x:HHHH}` a SJIS pair cp932
+can't roundtrip (none occur).
+
+## Story/event script: `pw/{dg,fd,fn,in,ms,qs}/*.pwx` (verified: roundtrip + coverage test)
+438 files (47 zdv-compressed in CROW.PAK), 2.24 MB, 11,006 blocks. Each `.pwx` has a sibling `.ksf` (below).
+- Layout: u16 offset table at 0, values in **4-byte units**; the first value is the table size (= first block's
+  offset). Unused slots are 0 and come last; dg00_31 pads its table with 10 of them, so the rebuild keeps the original
+  table size (`pwx.pack(blocks, head_size)`). A slot may point at the file end (an empty block: the "3 blocks without
+  `_`" are these). Blocks are 4-aligned, end with `_`, zero-padded to 4 (0-3 zeros). Max addressable 256 KB per file.
+- Text is double-byte SJIS only; control codes are **single-byte ASCII mnemonics with ASCII arguments**, e.g. `r`
+  line break, `wc` wait for button + clear box, `_` end of block, `【name】` speaker line (literal SJIS brackets),
+  `vo#####`/`vos#####` voice, `ch#####` portrait, `ef##x+000y+000w+000h+000s#` screen effect, `ci##`/`co##` fade,
+  `mo##`, `mr##`, `mi#`, `mfin##`/`mfout##` music, `seplay,NAME,nn,n`, `sebl,NAME`, `sebf,NAME`, `bg####`, `bi##`,
+  `w##` wait, `time##`, `shopwait#`, `iget`, `nameclear`, `eyecatch`, `{...}` location caption, `}NAME` (`}mail`),
+  `dic,DI..`, `exi##exg####`. No byte in 0xA0-0xDF (half-width kana) occurs, so a lead-byte scan splits ASCII from
+  SJIS exactly.
+- **Text spans** (`pwx.spans`): a run of SJIS chars plus the inline codes between them: `r` (only when more text
+  follows), `px`/`pm`/`pn`, ruby `l<base>(<reading>)` (also inside 【】 speaker names). Anything else ends the span.
+  A span that is `【name】` + `r` + text gives `speaker` + `jp`; `【name】` alone (6 cases, a voice or effect code follows) is speaker only.
+- **Consequence for English:** ASCII letters are commands, so English text cannot be plain ASCII in this format.
   Phase 5 spike: full-width Latin (SJIS 0x8260..) through a VWF, or an engine hook adding a half-width text mode.
-- Names inside text are literal (`【伊佐地】`), so speaker names are translated in place.
 
-## Tables: `app_init.pak/table/*.bin` (82 files) and `table/*.bin` (3): CSVB
-Chunked: `CSVB` u32 size, then chunks tag+u32 size: `Info` (guess: u16 ncols, u16 nrows, ...), `OfsB` (column
-offsets), `KITB` (column types), `TblB` (fixed-size rows, strings inline in fixed slots), `Term`.
-Text-bearing (SJIS hits): buddymes 3939, dictionary 2015, item 1698, enemyai 1391, obj 952, questsent 663,
-mail 596, systemtext 594, enemydb 544, help 473, enemy 425, hanafuda 316, skill 247, dungeonfloorinfo 229,
-dungeonsysmes 219, questshoptext 229, exitem 200, questwordenemy 113, playerquestsent 113, dialogmessage 107,
-questwordkill 91, questwordpkill 84, questwordcomment 71, clctbgm 58, tokkidata 52, questwordplace 45,
-questplayerview 39, dungeondoorexplain 32, questwordhint 28, dungeonareainfo 22, clctinterior 16, keymessage 13,
-siteinfo 11, questrewarditem 11, questclnt 10, clctmelody 10, questvoice 6, delivery 3; table/proftext,
-inputproftext (139 hits). Slot widths limit English length: phase 4 must find each column's width; relocation to
-a string pool would need code work (guess).
+## Choices: `pw/*/*.ksf` (verified: decoded, 1,225 hits fit one record shape)
+The .ksf is the scene's event/flag data (rest of the format unknown). Each choice option = byte `0x01` + a 30-byte
+slot holding a NUL-terminated SJIS string, zero-padded; the next record follows the slot. Every SJIS-looking run in
+.ksf outside these is binary noise (single chars, 0x80 runs). English options must fit 29 bytes unless phase 5 finds
+the reader (`ksf.py`).
 
-## Other data with SJIS
-- `dungeon/*.pak/dungeon/block/*.bin` (77 with hits, 4,498 runs): guess mostly binary noise; check in phase 4.
-- `system/key_icon.pak/system/sfk/namedic.bin` (2.8 MB): name-entry dictionary (guess).
-- `system/site/site_ch0031_00.lay`: one dev string (作業用フォルダ), not shown.
-- `dungeon/*.ini`: developer comments, not shown. `system/sysfile*.bin`: save icons (PNG), noise.
+## Tables: CSVB (`app_init.pak/table/*.bin`, `table/*.bin`, `dungeon/*/table/dNNscr.bin`) (verified: roundtrip)
+Chunked: `CSVB` u32 size, then chunks tag + u32 size (incl. header): `Info` (u16 row size, u16 rows, u16 0, u16 ?),
+`OfsB` (u16 row offsets of the **string-pointer fields**, 0xFFFF-terminated), `KITB` (index), `TblB` (rows, then a
+pool of NUL-terminated strings; a pointer field is a u32 offset from the TblB start, 0 = none), `Term`. Table strings
+are plain C strings: ASCII allowed, `\n` = 0x0A, printf formats (`%s`, `%3d`) occur. Rows share pool strings
+(dedupe) and one enemydb pointer lands inside another string. **Insertion:** append new strings at the TblB end and
+repoint (pointers are u32, no width limit); never rebuild the pool in place: obj, skill, effset, motsyncscreff and
+dNNscr keep non-string data in it.
+A pointer column can point at binary blobs (`SSCR` scripts, layout data): `tables.text()` takes a string when it
+decodes exactly, has no control byte but `\n`, and its column holds double-byte text. Not extracted (waived with
+counts in `tests/test_extract.py`): SSCR node labels inside enemyai (1,391), skill (247) and the 22 dNNscr
+dungeon-trigger tables (e.g. 誘導用検知セット, 通常攻撃　セット; dev names, guess: never drawn, the marker build will show
+any that are), binary noise in enemy/questvoice/dungeonuimoya, an orphan copy of 猪牙の印章 in obj.
 
-## EBOOT (decrypted ELF, `work/exe/NPJH50215_EBOOT.BIN`)
-265 SJIS strings with kana, in 0x2b06b4-0x2b7ba0 and 0x2d3c18-0x2d3cc4 (file offsets): menus, save/load prompts,
-item messages, character names and readings (武藤 いちる / むとう いちる ...). 5 UTF-8 strings (save dialog:
-title "東京鬼祓師 鴉乃杜學園奇譚 ダウンロードクエスト", セーブが完了しました。 etc.). Patch in place inside each NUL
-slot; re-sign the ELF before shipping (`platform-psp.md`).
+## EBOOT (decrypted ELF, `work/exe/NPJH50215_EBOOT.BIN`; `eboot_text.py`)
+Relocatable module: vaddr = file offset - 0xC0 (both segments); sections present (.text, .rodata, .data...).
+1,255 strings in rodata/data: menus, save/load prompts, item messages, place names, character names and readings,
+nickname formats (`pnセンパイ`, `pnyhっちゃん`: the pwx name codes as ASCII; `yh` guess: first kana of the reading),
+name-entry character sets (kana, Greek, Cyrillic, symbols), printf formats, 7 UTF-8 save-dialog strings. Rule
+(`is_text`): kana / full-width / 2+ double-byte chars, or one referenced double-byte char at or after the string pool
+(0x2B0600; before it .rodata pointer tables decode as one-char noise). `refs` = u32 data pointers + lui/addiu pairs;
+53 strings have refs 0 (struct arrays: the nickname table at 0x2D3A10 has 0x24-byte rows, options table 0x2D2388
+0x18-byte rows). Also two dev messages (`scePsmfPlayerCreate : 作成失敗`, `Font Area Over!!`): not shown.
+Patch in place inside each slot or relocate (phase 5); re-sign the ELF before shipping (`platform-psp.md`).
+
+## Other data with SJIS (checked phase 4: no player-visible text)
+- `system/key_icon.pak/system/sfk/namedic.bin` (2.8 MB): name-entry kana-kanji dictionary (guess); phase 5 decides
+  the English name entry.
+- `dungeon/*.pak/dungeon/block/*.bin`, `.g3a`, `.znt`, `.z3n`, `.gim`, `.at3`, `system/sysfile*.bin`: no kana run of
+  3+ chars that decodes as text (binary noise).
+- `effect/*.bpc`, `effect/gpeffect.ini`, `dungeon/*.ini`, `system/site/site_ch0031_00.lay`: developer names and
+  comments, not shown.
 
 ## Free space
 File-based: CROW.PAK is rebuilt, so scripts and tables can grow (zdv recompressed). EBOOT: none found yet; strings

@@ -1,0 +1,680 @@
+[
+ {
+  "id": "playerquestsent:0000:00",
+  "jp": "[自分で入力する]",
+  "refs": 4,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0001:00",
+  "jp": "傷ついた仲間を",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0001:04",
+  "jp": "助けるために",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0001:08",
+  "jp": "なんとしてでも",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0001:0c",
+  "jp": "～してくれ！",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0001:10",
+  "jp": "倒してくれ！",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0001:14",
+  "jp": "作ってくれ！",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0001:18",
+  "jp": "祈ってくれ！",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0002:00",
+  "jp": "裏稼業の仲間を",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0002:04",
+  "jp": "満足させるために",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0002:08",
+  "jp": "自分の代わりに",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0002:0c",
+  "jp": "～してこい。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0002:10",
+  "jp": "倒してこい。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0002:14",
+  "jp": "作ってこい。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0002:18",
+  "jp": "祈ってこい。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0003:00",
+  "jp": "廃業した同業者を",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0003:04",
+  "jp": "興奮させるために",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0003:08",
+  "jp": "どんな手を使っても",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0003:0c",
+  "jp": "～してきてくれ。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0003:10",
+  "jp": "倒してきてくれ。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0003:14",
+  "jp": "作ってきてくれ。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0003:18",
+  "jp": "祈ってきてくれ。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0004:00",
+  "jp": "死の縁を彷徨う友を",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0004:04",
+  "jp": "フォローするために",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0004:08",
+  "jp": "大変だと思うけど、",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0004:0c",
+  "jp": "～してください。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0004:10",
+  "jp": "倒してください。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0004:14",
+  "jp": "作ってください。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0004:18",
+  "jp": "祈ってください。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0005:00",
+  "jp": "不倶戴天の敵を",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0005:04",
+  "jp": "案内するために",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0005:08",
+  "jp": "全てを失っても",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0005:0c",
+  "jp": "～してくれないか。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0005:10",
+  "jp": "倒してくれないか。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0005:14",
+  "jp": "作ってくれないか。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0005:18",
+  "jp": "祈ってくれないか。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0006:00",
+  "jp": "裏切り者を",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0006:04",
+  "jp": "出し抜くために",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0006:08",
+  "jp": "危険を伴うが、",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0006:0c",
+  "jp": "～れ。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0006:10",
+  "jp": "倒せ。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0006:14",
+  "jp": "作れ。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0006:18",
+  "jp": "祈れ。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0007:00",
+  "jp": "許しがたい怨敵を",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0007:04",
+  "jp": "飲みに誘うために",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0007:08",
+  "jp": "報酬は用意する、",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0007:0c",
+  "jp": "～するのだ！",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0007:10",
+  "jp": "倒すのだ！",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0007:14",
+  "jp": "作るのだ！",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0007:18",
+  "jp": "祈るのだ！",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0008:00",
+  "jp": "大恩ある師を",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0008:04",
+  "jp": "奮い立たせるために",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0008:08",
+  "jp": "唯一の方法がある。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0008:0c",
+  "jp": "～したまえ。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0008:10",
+  "jp": "倒したまえ。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0008:14",
+  "jp": "作りたまえ。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0008:18",
+  "jp": "祈りたまえ。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0009:00",
+  "jp": "ターゲットを",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0009:04",
+  "jp": "牽制するために",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0009:08",
+  "jp": "古文書に記された、",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0009:0c",
+  "jp": "～してくれよ、な？",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0009:10",
+  "jp": "倒してくれよ、な？",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0009:14",
+  "jp": "作ってくれよ、な？",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0009:18",
+  "jp": "祈ってくれよ、な？",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0010:00",
+  "jp": "好事家連中を",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0010:04",
+  "jp": "慌てさせるために",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0010:08",
+  "jp": "誰にも内緒で",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0010:0c",
+  "jp": "～して頂きたく候。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0010:10",
+  "jp": "倒して頂きたく候。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0010:14",
+  "jp": "作って頂きたく候。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0010:18",
+  "jp": "祈って頂きたく候。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0011:00",
+  "jp": "未熟な自分を",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0011:04",
+  "jp": "激怒させるために",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0011:08",
+  "jp": "力を貸してほしい、",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0011:0c",
+  "jp": "～してもらいたい。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0011:10",
+  "jp": "倒してもらいたい。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0011:14",
+  "jp": "作ってもらいたい。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0011:18",
+  "jp": "祈ってもらいたい。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0012:00",
+  "jp": "可愛がってる猫を",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0012:04",
+  "jp": "治療するために",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0012:08",
+  "jp": "慎重に考えたが、",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0012:0c",
+  "jp": "～なさい。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0012:10",
+  "jp": "倒しなさい。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0012:14",
+  "jp": "作りなさい。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0012:18",
+  "jp": "祈りなさい。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0013:00",
+  "jp": "我らが信奉する神を",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0013:04",
+  "jp": "解放するために",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0013:08",
+  "jp": "多くは語れないが、",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0013:0c",
+  "jp": "～してくれぇー！",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0013:10",
+  "jp": "倒してくれぇー！",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0013:14",
+  "jp": "作ってくれぇー！",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0013:18",
+  "jp": "祈ってくれぇー！",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0014:00",
+  "jp": "取り憑かれた女を",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0014:04",
+  "jp": "羨ましがらせるのに",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0014:08",
+  "jp": "手っ取り早く",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0014:0c",
+  "jp": "～してくれ、頼む！",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0014:10",
+  "jp": "倒してくれ、頼む！",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0014:14",
+  "jp": "作ってくれ、頼む！",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0014:18",
+  "jp": "祈ってくれ、頼む！",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0015:00",
+  "jp": "人質に取られた女を",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0015:04",
+  "jp": "紹介する手土産に",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0015:08",
+  "jp": "リスクはあるが、",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0015:0c",
+  "jp": "～して…くれ…。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0015:10",
+  "jp": "倒して…くれ…。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0015:14",
+  "jp": "作って…くれ…。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0015:18",
+  "jp": "祈って…くれ…。",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0016:00",
+  "jp": "俺を付け狙う刺客を",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0016:04",
+  "jp": "世間に放逐するのに",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0016:08",
+  "jp": "不可欠な要素、",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0016:0c",
+  "jp": "～してほしいのさ…",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0016:10",
+  "jp": "倒してほしいのさ…",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0016:14",
+  "jp": "作ってほしいのさ…",
+  "refs": 1,
+  "en": ""
+ },
+ {
+  "id": "playerquestsent:0016:18",
+  "jp": "祈ってほしいのさ…",
+  "refs": 1,
+  "en": ""
+ }
+]
