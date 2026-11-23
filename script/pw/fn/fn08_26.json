@@ -3,208 +3,208 @@
   "id": "fn08_26:001:00",
   "speaker": "澁川",
   "jp": "……よく、来たな。\n仕事、か？",
-  "en": ""
+  "en": "...Good of you to come. Here for work?"
  },
  {
   "id": "fn08_26:002:00",
   "speaker": "澁川",
   "jp": "また、お前か。\n……好きにしていけ。",
-  "en": ""
+  "en": "You again. ...Make yourself at home."
  },
  {
   "id": "fn08_26:004:00",
   "speaker": "澁川",
   "jp": "……無事、だったか。\n俺の方も、見ての通りだ。",
-  "en": ""
+  "en": "...So you're safe. As for me, well, as you can see."
  },
  {
   "id": "fn08_26:004:01",
   "speaker": "澁川",
   "jp": "久々の荒事だったが、\nなかなか……良い刺激だった。",
-  "en": ""
+  "en": "Been a while since I did any rough work, but it\nwas... a good bit of stimulation."
  },
  {
   "id": "fn08_26:004:02",
   "speaker": "澁川",
   "jp": "昔を思い出させてもらった。\nたまには悪くない。",
-  "en": ""
+  "en": "Brought back the old days. Not bad, once in a while."
  },
  {
   "id": "fn08_26:005:00",
   "speaker": "澁川",
   "jp": "それに……{px}。\n良い、仕事ぶりだったぞ。",
-  "en": ""
+  "en": "And... {px}. That was good work."
  },
  {
   "id": "fn08_26:006:00",
   "speaker": "澁川",
   "jp": "……お前という奴は、\n本当に、",
-  "en": ""
+  "en": "...You really are something else,"
  },
  {
   "id": "fn08_26:007:00",
   "speaker": "澁川",
   "jp": "ああ。\n……頼もしい請負人がいると、\nこちらも嬉しい。",
-  "en": ""
+  "en": "Yeah. ...It's good to have a contractor I can rely on."
  },
  {
   "id": "fn08_26:008:00",
   "speaker": "澁川",
   "jp": "……ふ。\nだが、精進する部分は\nまだまだ……あるだろう？",
-  "en": ""
+  "en": "...Heh. But there's still... plenty of room to improve,\nisn't there?"
  },
  {
   "id": "fn08_26:009:00",
   "speaker": "澁川",
   "jp": "ああ。\n……良い仕事だったぞ。",
-  "en": ""
+  "en": "Yeah. ...That was good work."
  },
  {
   "id": "fn08_26:010:00",
   "speaker": "澁川",
   "jp": "理想が高いのは、\n悪い事じゃない。",
-  "en": ""
+  "en": "Having high ideals isn't a bad thing."
  },
  {
   "id": "fn08_26:010:01",
   "speaker": "澁川",
   "jp": "……若いうちは、特にな。",
-  "en": ""
+  "en": "...Especially while you're young."
  },
  {
   "id": "fn08_26:011:00",
   "speaker": "澁川",
   "jp": "ふ……。\n気に障ったなら、謝ろう。",
-  "en": ""
+  "en": "Heh... If that offended you, I apologize."
  },
  {
   "id": "fn08_26:012:00",
   "speaker": "澁川",
   "jp": "……卑下する事はない。",
-  "en": ""
+  "en": "...No need to put yourself down."
  },
  {
   "id": "fn08_26:012:01",
   "speaker": "澁川",
   "jp": "お前の仕事は、立派だった。\nそれは純然たる事実だ。",
-  "en": ""
+  "en": "Your work was admirable. That's a plain fact."
  },
  {
   "id": "fn08_26:013:00",
   "speaker": "澁川",
   "jp": "……お前の、仕事の結果だ。",
-  "en": ""
+  "en": "...It's the result of your work."
  },
  {
   "id": "fn08_26:013:01",
   "speaker": "澁川",
   "jp": "出来を一番分かっているのは、\nお前の筈だ。",
-  "en": ""
+  "en": "You should be the one who knows best how well it\nwent."
  },
  {
   "id": "fn08_26:014:00",
   "speaker": "澁川",
   "jp": "……ふ。",
-  "en": ""
+  "en": "...Heh."
  },
  {
   "id": "fn08_26:015:00",
   "speaker": "澁川",
   "jp": "もう、お前達の時代だ。",
-  "en": ""
+  "en": "It's your generation's time now."
  },
  {
   "id": "fn08_26:015:01",
   "speaker": "澁川",
   "jp": "俺は……ただの喫茶店の{ruby:親父|マスター}。\nそれだけでいいさ。",
-  "en": ""
+  "en": "Me... I'm just the master of a coffee shop. That's all I\nneed to be."
  },
  {
   "id": "fn08_26:016:00",
   "speaker": "澁川",
   "jp": "何か……他に、あるか？",
-  "en": ""
+  "en": "Is there... anything else?"
  },
  {
   "id": "fn08_26:017:00",
   "speaker": "澁川",
   "jp": "何か……他に、あるか？",
-  "en": ""
+  "en": "Is there... anything else?"
  },
  {
   "id": "fn08_26:018:00",
   "speaker": "澁川",
   "jp": "……そうか。\nまた、来ると良い。",
-  "en": ""
+  "en": "...I see. Come again."
  },
  {
   "id": "fn08_26:ksf:0121f",
   "kind": "choice",
   "jp": "依頼を受ける",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn08_26:ksf:0123e",
   "kind": "choice",
   "jp": "澁川と話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to Shibukawa"
  },
  {
   "id": "fn08_26:ksf:0125d",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  },
  {
   "id": "fn08_26:ksf:01b89",
   "kind": "choice",
   "jp": "依頼を受ける",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn08_26:ksf:01ba8",
   "kind": "choice",
   "jp": "依頼を受けない",
   "slot": 30,
-  "en": ""
+  "en": "Do nothing"
  },
  {
   "id": "fn08_26:ksf:09aa5",
   "kind": "choice",
   "jp": "依頼を受ける",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn08_26:ksf:09ac4",
   "kind": "choice",
   "jp": "澁川と話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to Shibukawa"
  },
  {
   "id": "fn08_26:ksf:09ae3",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  },
  {
   "id": "fn08_26:ksf:0a40f",
   "kind": "choice",
   "jp": "依頼を受ける",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn08_26:ksf:0a42e",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  }
 ]

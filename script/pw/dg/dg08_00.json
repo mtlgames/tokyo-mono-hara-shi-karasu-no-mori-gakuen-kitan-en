@@ -63,7 +63,7 @@
   "id": "dg08_00:000:10",
   "speaker": "いちる",
   "jp": "……{ruby:札|カード}ごときに\n小娘呼ばわり\nされる覚えはないッ。",
-  "en": "...I don't remember a mere card having any right to\ncall me \"little girl.\""
+  "en": "...I'm not taking \"little girl\" from some card."
  },
  {
   "id": "dg08_00:000:11",
@@ -345,276 +345,276 @@
   "id": "dg08_00:010:21",
   "speaker": "いちる",
   "jp": "さあ―――",
-  "en": ""
+  "en": "Now--"
  },
  {
   "id": "dg08_00:011:00",
   "speaker": "白",
   "jp": "―――！！",
-  "en": ""
+  "en": "--!!"
  },
  {
   "id": "dg08_00:011:01",
   "speaker": "白",
   "jp": "この……\nいきなり何をするのじゃ！",
-  "en": ""
+  "en": "Why, you... What do you think you are doing!?"
  },
  {
   "id": "dg08_00:011:02",
   "speaker": "いちる",
   "jp": "決まってるでしょ。\n札は渡してもらう。",
-  "en": ""
+  "en": "Isn't it obvious? I'm taking those cards."
  },
  {
   "id": "dg08_00:011:03",
   "speaker": "いちる",
   "jp": "{px}、キミがあくまで\nその札を集めるって言うなら、",
-  "en": ""
+  "en": "{px}, if you're still set on collecting those cards,"
  },
  {
   "id": "dg08_00:011:04",
   "speaker": "いちる",
   "jp": "あたしを止めるしかない。\nわかるよね？",
-  "en": ""
+  "en": "then you'll have to stop me. You understand, right?"
  },
  {
   "id": "dg08_00:012:00",
   "speaker": "いちる",
   "jp": "{px}……。",
-  "en": ""
+  "en": "{px}..."
  },
  {
   "id": "dg08_00:012:01",
   "speaker": "いちる",
   "jp": "―――くッ！！",
-  "en": ""
+  "en": "--Ngh!!"
  },
  {
   "id": "dg08_00:013:00",
   "speaker": "いちる",
   "jp": "……余裕だね。",
-  "en": ""
+  "en": "...You're pretty confident."
  },
  {
   "id": "dg08_00:013:01",
   "speaker": "いちる",
   "jp": "でも……\nあたしは、負けない。",
-  "en": ""
+  "en": "But... I won't lose."
  },
  {
   "id": "dg08_00:014:00",
   "speaker": "いちる",
   "jp": "……{px}らしいね。",
-  "en": ""
+  "en": "...That's so like you, {px}."
  },
  {
   "id": "dg08_00:014:01",
   "speaker": "いちる",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "dg08_00:015:00",
   "speaker": "いちる",
   "jp": "そう……。\nそれでいいよ。",
-  "en": ""
+  "en": "I see... That's fine."
  },
  {
   "id": "dg08_00:016:00",
   "speaker": "いちる",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "dg08_00:016:01",
   "speaker": "いちる",
   "jp": "いいよ。\nなら、戦う理由をあげる。",
-  "en": ""
+  "en": "Fine. Then I'll give you a reason to fight."
  },
  {
   "id": "dg08_00:017:00",
   "speaker": "いちる",
   "jp": "{px}……。",
-  "en": ""
+  "en": "{px}..."
  },
  {
   "id": "dg08_00:017:01",
   "speaker": "いちる",
   "jp": "いいよ。\nなら、戦う理由をあげる。",
-  "en": ""
+  "en": "Fine. Then I'll give you a reason to fight."
  },
  {
   "id": "dg08_00:018:00",
   "speaker": "いちる",
   "jp": "{px}……。",
-  "en": ""
+  "en": "{px}..."
  },
  {
   "id": "dg08_00:018:01",
   "speaker": "いちる",
   "jp": "いいよ。\nなら、戦う理由をあげる。",
-  "en": ""
+  "en": "Fine. Then I'll give you a reason to fight."
  },
  {
   "id": "dg08_00:019:00",
   "speaker": "いちる",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "dg08_00:019:01",
   "speaker": "いちる",
   "jp": "いいよ。\nなら、戦う理由をあげる。",
-  "en": ""
+  "en": "Fine. Then I'll give you a reason to fight."
  },
  {
   "id": "dg08_00:020:00",
   "speaker": "いちる",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "dg08_00:020:01",
   "speaker": "いちる",
   "jp": "いいよ。\nなら、戦う理由をあげる。",
-  "en": ""
+  "en": "Fine. Then I'll give you a reason to fight."
  },
  {
   "id": "dg08_00:021:00",
   "speaker": "いちる",
   "jp": "初めに言っておくけど、\n手は抜かないでよね。",
-  "en": ""
+  "en": "Let me say this first: don't you dare go easy on me."
  },
  {
   "id": "dg08_00:021:01",
   "speaker": "いちる",
   "jp": "あたしだって……\n持ってるんだよ、{ruby:一枚|・・}。",
-  "en": ""
+  "en": "Because I... I have one too, you know. One of the\ncards."
  },
  {
   "id": "dg08_00:021:02",
   "speaker": "白",
   "jp": "何じゃと……！？",
-  "en": ""
+  "en": "What did you say...!?"
  },
  {
   "id": "dg08_00:021:03",
   "speaker": "いちる",
   "jp": "……この札の力は\nすごく危険。",
-  "en": ""
+  "en": "...This card's power is really dangerous."
  },
  {
   "id": "dg08_00:021:04",
   "speaker": "いちる",
   "jp": "人が持つ大量の情報を\n取り込もうと、\nじっと隙を{ruby:窺|うかが}ってる。",
-  "en": ""
+  "en": "It just lies in wait, watching for a chance to swallow\nup all the information people carry."
  },
  {
   "id": "dg08_00:021:05",
   "speaker": "いちる",
   "jp": "こんなの……\n普通の人が触れたら\nすぐに隠人になっちゃうよ。",
-  "en": ""
+  "en": "Something like this... If an ordinary person touched\nit, they'd turn into an Oni in no time."
  },
  {
   "id": "dg08_00:021:06",
   "speaker": "白",
   "jp": "ならば何故、\n{px}の邪魔をする。",
-  "en": ""
+  "en": "Then why do you stand in {px}'s way?"
  },
  {
   "id": "dg08_00:021:07",
   "speaker": "いちる",
   "jp": "―――わかってるクセに！！",
-  "en": ""
+  "en": "--You know exactly why!!"
  },
  {
   "id": "dg08_00:021:08",
   "speaker": "白",
   "jp": "何……？",
-  "en": ""
+  "en": "What...?"
  },
  {
   "id": "dg08_00:021:09",
   "speaker": "いちる",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "dg08_00:021:10",
   "speaker": "いちる",
   "jp": "……それじゃあ、\n始めよっか。",
-  "en": ""
+  "en": "...Well then, shall we begin?"
  },
  {
   "id": "dg08_00:022:00",
   "speaker": "白",
   "jp": "其方、まさか……。",
-  "en": ""
+  "en": "You... Surely not..."
  },
  {
   "id": "dg08_00:022:01",
   "speaker": "いちる",
   "jp": "あたしも、\n持ってるんだよ、{ruby:一枚|・・}。",
-  "en": ""
+  "en": "I have one too, you know. One of the cards."
  },
  {
   "id": "dg08_00:022:02",
   "speaker": "いちる",
   "jp": "お互いの持つものを\n賭けての勝負なら、\n異論はないよね。",
-  "en": ""
+  "en": "If we're wagering what we each hold, you've got no\nobjections, right?"
  },
  {
   "id": "dg08_00:022:03",
   "speaker": "いちる",
   "jp": "……この札の力は\nすごく危険。",
-  "en": ""
+  "en": "...This card's power is really dangerous."
  },
  {
   "id": "dg08_00:022:04",
   "speaker": "いちる",
   "jp": "人が持つ大量の情報を\n取り込もうと、\nじっと隙を{ruby:窺|うかが}ってる。",
-  "en": ""
+  "en": "It just lies in wait, watching for a chance to swallow\nup all the information people carry."
  },
  {
   "id": "dg08_00:022:05",
   "speaker": "いちる",
   "jp": "こんなの……\n普通の人が触れたら\nすぐに隠人になっちゃうよ。",
-  "en": ""
+  "en": "Something like this... If an ordinary person touched\nit, they'd turn into an Oni in no time."
  },
  {
   "id": "dg08_00:022:06",
   "speaker": "白",
   "jp": "ならば何故、\n{px}の邪魔をする。",
-  "en": ""
+  "en": "Then why do you stand in {px}'s way?"
  },
  {
   "id": "dg08_00:022:07",
   "speaker": "いちる",
   "jp": "―――わかってるクセに！！",
-  "en": ""
+  "en": "--You know exactly why!!"
  },
  {
   "id": "dg08_00:022:08",
   "speaker": "白",
   "jp": "何……？",
-  "en": ""
+  "en": "What...?"
  },
  {
   "id": "dg08_00:022:09",
   "speaker": "いちる",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "dg08_00:022:10",
   "speaker": "いちる",
   "jp": "……それじゃあ、\n始めよっか。",
-  "en": ""
+  "en": "...Well then, shall we begin?"
  },
  {
   "id": "dg08_00:023:00",
   "speaker": "いちる",
   "jp": "―――行くよ、{px}ッ！！",
-  "en": ""
+  "en": "--Here I come, {px}!!"
  }
 ]

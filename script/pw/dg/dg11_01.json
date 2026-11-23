@@ -3,753 +3,753 @@
   "id": "dg11_01:000:00",
   "speaker": "白",
   "jp": "ようやく……\nようやくじゃな。",
-  "en": ""
+  "en": "At last... At long last."
  },
  {
   "id": "dg11_01:000:01",
   "speaker": "白",
   "jp": "{px}……\nあの札を……頼む。",
-  "en": ""
+  "en": "{px}... That card... I leave it to you."
  },
  {
   "id": "dg11_01:001:00",
   "speaker": "紅緒",
   "jp": "流石はあの方の選んだ執行者。\n……お見事です。",
-  "en": ""
+  "en": "As expected of the Executor that person chose.\n...Splendidly done."
  },
  {
   "id": "dg11_01:001:01",
   "speaker": "白",
   "jp": "あの方……じゃと？",
-  "en": ""
+  "en": "\"That person,\" you say?"
  },
  {
   "id": "dg11_01:001:02",
   "speaker": "紅緒",
   "jp": "これで、貴方はほぼ\n全ての札を手に入れられた。",
-  "en": ""
+  "en": "With this, you have obtained nearly every card."
  },
  {
   "id": "dg11_01:001:03",
   "speaker": "紅緒",
   "jp": "残る、大きな力を\n秘めた札は―――",
-  "en": ""
+  "en": "The only card left that holds great power is--"
  },
  {
   "id": "dg11_01:001:04",
   "speaker": "紅緒",
   "jp": "私の持つ、\n梅の種札だけ……。",
-  "en": ""
+  "en": "the one I hold: the Plum and Warbler card..."
  },
  {
   "id": "dg11_01:001:05",
   "speaker": "紅緒",
   "jp": "……{px}。",
-  "en": ""
+  "en": "...{px}."
  },
  {
   "id": "dg11_01:001:06",
   "speaker": "紅緒",
   "jp": "貴方が運命に導かれ、\n執行者に選ばれてからずっと、\n私は貴方を見てきた。",
-  "en": ""
+  "en": "Ever since fate led you here and you were chosen\nas Executor, I have been watching you."
  },
  {
   "id": "dg11_01:001:07",
   "speaker": "紅緒",
   "jp": "本当はただ、あの方の意志に\n従い、貴方の動向を\n見守るだけのはずでした。",
-  "en": ""
+  "en": "In truth, I was only meant to follow that person's\nwill and keep watch over your movements."
  },
  {
   "id": "dg11_01:001:08",
   "speaker": "紅緒",
   "jp": "ですが貴方と、\n貴方を取り巻く\n人々の姿を見るうち、",
-  "en": ""
+  "en": "But as I watched you, and the people around you,"
  },
  {
   "id": "dg11_01:001:09",
   "speaker": "紅緒",
   "jp": "私にも……\n夢が、出来ました。",
-  "en": ""
+  "en": "even I... came to have a dream."
  },
  {
   "id": "dg11_01:001:10",
   "speaker": "白",
   "jp": "夢……じゃと？",
-  "en": ""
+  "en": "A dream, you say...?"
  },
  {
   "id": "dg11_01:001:11",
   "speaker": "紅緒",
   "jp": "……私の夢を叶える方法は\nただ、ひとつ―――",
-  "en": ""
+  "en": "...There is only one way to make my dream come\ntrue--"
  },
  {
   "id": "dg11_01:001:12",
   "speaker": "紅緒",
   "jp": "それには{px}……\n貴方の、死が必要です。",
-  "en": ""
+  "en": "and for that, {px}... I need your death."
  },
  {
   "id": "dg11_01:001:13",
   "speaker": "白",
   "jp": "何……？",
-  "en": ""
+  "en": "What...?"
  },
  {
   "id": "dg11_01:001:14",
   "speaker": "紅緒",
   "jp": "白札の化身、\nいまこの場で、この方を失えば\n貴女はどうなさるでしょう？",
-  "en": ""
+  "en": "Incarnation of the White Card, if you were to lose\nthis person here and now, what would you do?"
  },
  {
   "id": "dg11_01:001:15",
   "speaker": "白",
   "jp": "そ、それは……。",
-  "en": ""
+  "en": "Th-that is..."
  },
  {
   "id": "dg11_01:001:16",
   "speaker": "紅緒",
   "jp": "貴女は今度こそ、\n{ruby:本来の|・・・}執行者を\n選定なさるでしょう。",
-  "en": ""
+  "en": "This time, surely, you would choose the true\nExecutor."
  },
  {
   "id": "dg11_01:001:17",
   "speaker": "紅緒",
   "jp": "よもや、お間違いに\nなるはずもない。\nこれほど―――",
-  "en": ""
+  "en": "There is no chance you would choose wrongly. Not\nwhen she is--"
  },
  {
   "id": "dg11_01:001:18",
   "speaker": "紅緒",
   "jp": "{ruby:近くにいるのですから|・・・・・・・・・・}。",
-  "en": ""
+  "en": "this close to you."
  },
  {
   "id": "dg11_01:001:19",
   "speaker": "白",
   "jp": "―――！！",
-  "en": ""
+  "en": "--!!"
  },
  {
   "id": "dg11_01:001:20",
   "speaker": "紅緒",
   "jp": "{px}、あなたが誤って\n執行者に選ばれたのは\nこれのせいです。",
-  "en": ""
+  "en": "{px}, this is the reason you were mistakenly chosen\nas Executor."
  },
  {
   "id": "dg11_01:001:21",
   "speaker": "紅緒",
   "jp": "この指輪が、{ruby:彼女|・・}が本来\n持つ力を抑えていた。",
-  "en": ""
+  "en": "This ring has been suppressing the power she was\nborn with."
  },
  {
   "id": "dg11_01:001:22",
   "speaker": "紅緒",
   "jp": "体調を崩されたのは、\n身近に呪言花札が\n集まったせいでしょう。",
-  "en": ""
+  "en": "She fell ill, most likely, because the Curse Hanafuda\ngathered so near her."
  },
  {
   "id": "dg11_01:001:23",
   "speaker": "紅緒",
   "jp": "どれだけ抑え込もうとも、\n彼女に流れる血の{ruby:宿命|さだめ}が\n札の力に呼応しない訳がない。",
-  "en": ""
+  "en": "No matter how it is held down, the destiny in the\nblood flowing through her cannot help but answer\nthe cards' power."
  },
  {
   "id": "dg11_01:001:24",
   "speaker": "紅緒",
   "jp": "白札、貴女と羽鳥の御当主は\n共に全てを知っていながら、\n隠し続けてきた。",
-  "en": ""
+  "en": "White Card, you and the head of the Hatori family\nboth knew everything, and kept it hidden all along."
  },
  {
   "id": "dg11_01:001:25",
   "speaker": "紅緒",
   "jp": "―――違いますか？",
-  "en": ""
+  "en": "--Am I wrong?"
  },
  {
   "id": "dg11_01:001:26",
   "speaker": "白",
   "jp": "くッ……。",
-  "en": ""
+  "en": "Kh..."
  },
  {
   "id": "dg11_01:001:27",
   "speaker": "紅緒",
   "jp": "もうおわかりに\nなったでしょう、{px}。",
-  "en": ""
+  "en": "Surely you understand by now, {px}."
  },
  {
   "id": "dg11_01:001:28",
   "speaker": "紅緒",
   "jp": "あなたはいままで、\n最も近しい者たちに\n{ruby:欺|あざむ}かれてきたのです。",
-  "en": ""
+  "en": "All this time, you have been deceived by those\nclosest to you."
  },
  {
   "id": "dg11_01:002:00",
   "speaker": "紅緒",
   "jp": "貴方は初めから、\n真の執行者である\n彼女の―――",
-  "en": ""
+  "en": "From the very start, you were chosen to die as a\nstand-in for the true Executor--"
  },
  {
   "id": "dg11_01:002:01",
   "speaker": "紅緒",
   "jp": "羽鳥　朝子の\n身代わりとなって\n死ぬために選ばれたのですよ。",
-  "en": ""
+  "en": "for Asako Hatori."
  },
  {
   "id": "dg11_01:003:00",
   "speaker": "紅緒",
   "jp": "受け入れて……\nいると言うのですか？",
-  "en": ""
+  "en": "You mean to say... you accept this?"
  },
  {
   "id": "dg11_01:003:01",
   "speaker": "紅緒",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "dg11_01:004:00",
   "speaker": "紅緒",
   "jp": "受け入れて……\nいると言うのですか？",
-  "en": ""
+  "en": "You mean to say... you accept this?"
  },
  {
   "id": "dg11_01:004:01",
   "speaker": "紅緒",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "dg11_01:005:00",
   "speaker": "紅緒",
   "jp": "受け入れて……\nいると言うのですか？",
-  "en": ""
+  "en": "You mean to say... you accept this?"
  },
  {
   "id": "dg11_01:005:01",
   "speaker": "紅緒",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "dg11_01:006:00",
   "speaker": "紅緒",
   "jp": "知っていた、と？",
-  "en": ""
+  "en": "You knew, you say?"
  },
  {
   "id": "dg11_01:006:01",
   "speaker": "紅緒",
   "jp": "……少し、意外です。",
-  "en": ""
+  "en": "...That is a little surprising."
  },
  {
   "id": "dg11_01:007:00",
   "speaker": "紅緒",
   "jp": "……ですが、\nこれが事実です。",
-  "en": ""
+  "en": "...But this is the truth."
  },
  {
   "id": "dg11_01:008:00",
   "speaker": "紅緒",
   "jp": "……ですが、\nこれが事実です。",
-  "en": ""
+  "en": "...But this is the truth."
  },
  {
   "id": "dg11_01:009:00",
   "speaker": "紅緒",
   "jp": "……貴方がそう思われるのも\n当然でしょう。",
-  "en": ""
+  "en": "...It is only natural that you would think so."
  },
  {
   "id": "dg11_01:009:01",
   "speaker": "紅緒",
   "jp": "ですが、\n人は大切なものを護る為、\n時に修羅となるものです。",
-  "en": ""
+  "en": "But to protect what they hold dear, people will at\ntimes become demons of war."
  },
  {
   "id": "dg11_01:010:00",
   "speaker": "紅緒",
   "jp": "……ですが、\nこれが事実です。",
-  "en": ""
+  "en": "...But this is the truth."
  },
  {
   "id": "dg11_01:011:00",
   "speaker": "紅緒",
   "jp": "……何の感慨もない、と？",
-  "en": ""
+  "en": "...It stirs nothing in you, you say?"
  },
  {
   "id": "dg11_01:011:01",
   "speaker": "紅緒",
   "jp": "少し、意外です。",
-  "en": ""
+  "en": "That is a little surprising."
  },
  {
   "id": "dg11_01:012:00",
   "speaker": "紅緒",
   "jp": "貴方という存在が失われれば、\n次に執行者となるのは\n彼女―――羽鳥　朝子。",
-  "en": ""
+  "en": "If you were gone, the next Executor would be her--\nAsako Hatori."
  },
  {
   "id": "dg11_01:012:01",
   "speaker": "紅緒",
   "jp": "そして、新たな執行者には\n{ruby:貴方ほどの力|・・・・・・}は無い。",
-  "en": ""
+  "en": "And the new Executor does not have power like\nyours."
  },
  {
   "id": "dg11_01:012:02",
   "speaker": "紅緒",
   "jp": "ならば呪言花札もまた、\n元来どおり、執行者の命を\n媒介に封じられるのみ。",
-  "en": ""
+  "en": "Then the Curse Hanafuda, too, can only be sealed as\nthey always were: through the Executor's life."
  },
  {
   "id": "dg11_01:012:03",
   "speaker": "白",
   "jp": "其方……\n何を言っておるのじゃ……？",
-  "en": ""
+  "en": "You... What are you saying...?"
  },
  {
   "id": "dg11_01:012:04",
   "speaker": "白",
   "jp": "妾たちを封印する以外に、\n一体、どんな法があると……？",
-  "en": ""
+  "en": "What other way is there, besides sealing us away...?"
  },
  {
   "id": "dg11_01:012:05",
   "speaker": "紅緒",
   "jp": "……おしゃべりは\nこのくらいにしましょう。",
-  "en": ""
+  "en": "...That is enough talk."
  },
  {
   "id": "dg11_01:012:06",
   "speaker": "紅緒",
   "jp": "私の望みはただひとつ、\nいまここで、{px}―――\n貴方の命の灯火を消す事。",
-  "en": ""
+  "en": "I want only one thing: here and now, {px}-- to snuff\nout the flame of your life."
  },
  {
   "id": "dg11_01:012:07",
   "speaker": "紅緒",
   "jp": "この女性を救いたければ、\n言う通りにしてください。",
-  "en": ""
+  "en": "If you wish to save this woman, please do as I say."
  },
  {
   "id": "dg11_01:013:00",
   "speaker": "紅緒",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "dg11_01:013:01",
   "speaker": "紅緒",
   "jp": "覚悟は……\n決まっているのですね。",
-  "en": ""
+  "en": "So your mind... is made up."
  },
  {
   "id": "dg11_01:014:00",
   "speaker": "紅緒",
   "jp": "随分……容易いのですね。",
-  "en": ""
+  "en": "How very... easily you say it."
  },
  {
   "id": "dg11_01:015:00",
   "speaker": "紅緒",
   "jp": "貴方にとっては、\n造作もない事、\n……なのですか？",
-  "en": ""
+  "en": "To you, is it... such a trivial thing?"
  },
  {
   "id": "dg11_01:016:00",
   "speaker": "紅緒",
   "jp": "覚悟は……\n決まっているのですね。",
-  "en": ""
+  "en": "So your mind... is made up."
  },
  {
   "id": "dg11_01:017:00",
   "speaker": "紅緒",
   "jp": "貴方は、\n選ぶしかありません。",
-  "en": ""
+  "en": "You have no choice but to choose."
  },
  {
   "id": "dg11_01:017:01",
   "speaker": "紅緒",
   "jp": "この女性をいまここで、\n救うか、救わないか―――\nそれだけです。",
-  "en": ""
+  "en": "Save this woman here and now, or do not-- that is\nall."
  },
  {
   "id": "dg11_01:018:00",
   "speaker": "紅緒",
   "jp": "そうですか……。",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "dg11_01:018:01",
   "speaker": "紅緒",
   "jp": "それは、\n困りました。",
-  "en": ""
+  "en": "That is troublesome."
  },
  {
   "id": "dg11_01:019:00",
   "speaker": "紅緒",
   "jp": "貴方は、\n選ぶしかありません。",
-  "en": ""
+  "en": "You have no choice but to choose."
  },
  {
   "id": "dg11_01:019:01",
   "speaker": "紅緒",
   "jp": "この女性をいまここで、\n救うか、救わないか―――\nそれだけです。",
-  "en": ""
+  "en": "Save this woman here and now, or do not-- that is\nall."
  },
  {
   "id": "dg11_01:020:00",
   "speaker": "紅緒",
   "jp": "そうですね。\n貴方にも悩む権利はある。",
-  "en": ""
+  "en": "Very well. You too have the right to agonize over it."
  },
  {
   "id": "dg11_01:020:01",
   "speaker": "紅緒",
   "jp": "答えが一つなら、\n……尚の事。",
-  "en": ""
+  "en": "All the more so... when there is only one answer."
  },
  {
   "id": "dg11_01:021:00",
   "speaker": "紅緒",
   "jp": "覚悟が、\n決まりませんか？",
-  "en": ""
+  "en": "Can you not make up your mind?"
  },
  {
   "id": "dg11_01:022:00",
   "speaker": "白",
   "jp": "{ruby:騙|だま}されるでない、{px}。",
-  "en": ""
+  "en": "Do not be deceived, {px}."
  },
  {
   "id": "dg11_01:022:01",
   "speaker": "白",
   "jp": "{ruby:此奴|こやつ}の言う事を聞いては、\n其方も朝子も助からぬ！",
-  "en": ""
+  "en": "If you heed this one's words, neither you nor Asako\nwill be saved!"
  },
  {
   "id": "dg11_01:022:02",
   "speaker": "紅緒",
   "jp": "ですが、\n白札の意に沿うならば結局、\n貴方は死ぬ事になります。",
-  "en": ""
+  "en": "But if you follow the White Card's wishes, you will\ndie in the end all the same."
  },
  {
   "id": "dg11_01:022:03",
   "speaker": "紅緒",
   "jp": "それに勿論、\n貴方がその道を選択されると\nいうならば―――",
-  "en": ""
+  "en": "And of course, if that is the path you choose--"
  },
  {
   "id": "dg11_01:022:04",
   "speaker": "紅緒",
   "jp": "私はいま、この場で\n彼女を殺すでしょう。",
-  "en": ""
+  "en": "I will kill her, here and now."
  },
  {
   "id": "dg11_01:022:05",
   "speaker": "紅緒",
   "jp": "結果は同じ。\nだからこそ、貴方自身が\n……選んでください。",
-  "en": ""
+  "en": "The result is the same. That is why you yourself\nmust... choose."
  },
  {
   "id": "dg11_01:022:06",
   "speaker": "紅緒",
   "jp": "いまここで、\nこの女性を護る為に死ぬか、\nそれとも―――",
-  "en": ""
+  "en": "Die here and now to protect this woman, or else--"
  },
  {
   "id": "dg11_01:022:07",
   "speaker": "紅緒",
   "jp": "自分のせいでこの女性が\n死んだという罪悪感を背負い、\nその上で死んでいくか……。",
-  "en": ""
+  "en": "bear the guilt of this woman dying because of you,\nand then die all the same..."
  },
  {
   "id": "dg11_01:023:00",
   "speaker": "紅緒",
   "jp": "さあ、\n選ぶのは、貴方です。",
-  "en": ""
+  "en": "Now. The choice is yours."
  },
  {
   "id": "dg11_01:024:00",
   "speaker": "紅緒",
   "jp": "それが、\n貴方の望みですか……。",
-  "en": ""
+  "en": "So that is what you wish..."
  },
  {
   "id": "dg11_01:024:01",
   "speaker": "紅緒",
   "jp": "貴方にとってこの方が、\n掛け替えのない\n唯一だというのなら―――",
-  "en": ""
+  "en": "If, to you, this person is the irreplaceable one--"
  },
  {
   "id": "dg11_01:024:02",
   "speaker": "紅緒",
   "jp": "その決断は、\n私にも、理解出来ます。",
-  "en": ""
+  "en": "then that decision is one even I can understand."
  },
  {
   "id": "dg11_01:024:03",
   "speaker": "紅緒",
   "jp": "……では―――",
-  "en": ""
+  "en": "...Then--"
  },
  {
   "id": "dg11_01:025:00",
   "speaker": "紅緒",
   "jp": "……貴方にもまた、\n望みがあるのですね。",
-  "en": ""
+  "en": "...So you, too, have something you wish for."
  },
  {
   "id": "dg11_01:025:01",
   "speaker": "紅緒",
   "jp": "生きて、\n成し遂げたい事が。",
-  "en": ""
+  "en": "Something you want to live to accomplish."
  },
  {
   "id": "dg11_01:025:02",
   "speaker": "紅緒",
   "jp": "わかりました。\nでは―――",
-  "en": ""
+  "en": "I understand. Then--"
  },
  {
   "id": "dg11_01:026:00",
   "speaker": "朗々とした声",
   "jp": "{ruby:式翔雷|しきしょうらい}、\n{ruby:急急如律令|きゅうきゅうにょりつりょう}―――",
-  "en": ""
+  "en": "Shikigami of Soaring Thunder! Swiftly, as the law\ndecrees--"
  },
  {
   "id": "dg11_01:026:01",
   "speaker": "紅緒",
   "jp": "これは―――！？",
-  "en": ""
+  "en": "What--!?"
  },
  {
   "id": "dg11_01:026:02",
   "speaker": "清司郎",
   "jp": "娘は……返してもらうぞ。",
-  "en": ""
+  "en": "I'll be taking my daughter back."
  },
  {
   "id": "dg11_01:026:03",
   "speaker": "白",
   "jp": "―――清司郎！！",
-  "en": ""
+  "en": "--Seishiro!!"
  },
  {
   "id": "dg11_01:026:04",
   "speaker": "紅緒",
   "jp": "{ruby:双葉葵|ふたばあおい}紋の{ruby:陰陽師|おんみょうじ}……。",
-  "en": ""
+  "en": "An onmyoji of the twin hollyhock crest..."
  },
  {
   "id": "dg11_01:026:05",
   "speaker": "紅緒",
   "jp": "賀茂家の流れを汲む\n羽鳥家当主のお出ましとは。",
-  "en": ""
+  "en": "So the head of the Hatori family, heir to the Kamo\nline, appears in person."
  },
  {
   "id": "dg11_01:026:06",
   "speaker": "紅緒",
   "jp": "貴方にとっては自分の娘こそが\n何者にも代えられぬ\n唯一だという事ですね。",
-  "en": ""
+  "en": "To you, then, your own daughter is the one\nirreplaceable thing."
  },
  {
   "id": "dg11_01:026:07",
   "speaker": "紅緒",
   "jp": "たとえ―――\n他の何を犠牲にしたとしても。",
-  "en": ""
+  "en": "Even if-- you must sacrifice everything else."
  },
  {
   "id": "dg11_01:026:08",
   "speaker": "清司郎",
   "jp": "約束……したからな。",
-  "en": ""
+  "en": "I made a promise... that's all."
  },
  {
   "id": "dg11_01:026:09",
   "speaker": "清司郎",
   "jp": "こいつの母親が\n死んだとき、誓った。\n何があろうと―――",
-  "en": ""
+  "en": "When her mother died, I swore it. No matter what--"
  },
  {
   "id": "dg11_01:026:10",
   "speaker": "清司郎",
   "jp": "たとえ宿命や\n運命からであっても\n必ずこの子を、護ると。",
-  "en": ""
+  "en": "even against destiny, or fate itself, I would protect\nthis child."
  },
  {
   "id": "dg11_01:027:00",
   "speaker": "清司郎",
   "jp": "……そういう訳だ。\n恨むなら、\n俺を恨め、{px}。",
-  "en": ""
+  "en": "...So that's how it is. If you need someone to hate,\nhate me, {px}."
  },
  {
   "id": "dg11_01:028:00",
   "speaker": "清司郎",
   "jp": "{px}、お前……。",
-  "en": ""
+  "en": "{px}, you..."
  },
  {
   "id": "dg11_01:028:01",
   "speaker": "清司郎",
   "jp": "くッ……。",
-  "en": ""
+  "en": "Kh..."
  },
  {
   "id": "dg11_01:029:00",
   "speaker": "清司郎",
   "jp": "{px}、お前……。",
-  "en": ""
+  "en": "{px}, you..."
  },
  {
   "id": "dg11_01:029:01",
   "speaker": "清司郎",
   "jp": "くッ……。",
-  "en": ""
+  "en": "Kh..."
  },
  {
   "id": "dg11_01:030:00",
   "speaker": "清司郎",
   "jp": "{px}……。",
-  "en": ""
+  "en": "{px}..."
  },
  {
   "id": "dg11_01:031:00",
   "speaker": "清司郎",
   "jp": "それでいい。\n全ては俺の、弱さのせいだ。",
-  "en": ""
+  "en": "That's fine. It's all on account of my weakness."
  },
  {
   "id": "dg11_01:031:01",
   "speaker": "清司郎",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "dg11_01:032:00",
   "speaker": "清司郎",
   "jp": "{px}……。",
-  "en": ""
+  "en": "{px}..."
  },
  {
   "id": "dg11_01:033:00",
   "speaker": "清司郎",
   "jp": "{px}……。",
-  "en": ""
+  "en": "{px}..."
  },
  {
   "id": "dg11_01:034:00",
   "speaker": "清司郎",
   "jp": "{px}……。",
-  "en": ""
+  "en": "{px}..."
  },
  {
   "id": "dg11_01:034:01",
   "speaker": "清司郎",
   "jp": "くッ……。",
-  "en": ""
+  "en": "Kh..."
  },
  {
   "id": "dg11_01:035:00",
   "speaker": "清司郎",
   "jp": "{px}……。",
-  "en": ""
+  "en": "{px}..."
  },
  {
   "id": "dg11_01:036:00",
   "speaker": "清司郎",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "dg11_01:037:00",
   "speaker": "紅緒",
   "jp": "羽鳥の陰陽師……。\n貴方は迷っていますね。",
-  "en": ""
+  "en": "Onmyoji of the Hatori... You are wavering."
  },
  {
   "id": "dg11_01:037:01",
   "speaker": "紅緒",
   "jp": "娘同様、\nこの方の命もまた、\n失いがたいと。",
-  "en": ""
+  "en": "This person's life, just like your daughter's, is one\nyou cannot bear to lose."
  },
  {
   "id": "dg11_01:037:02",
   "speaker": "清司郎",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "dg11_01:037:03",
   "speaker": "紅緒",
   "jp": "白札。\n貴方もまた同じ。",
-  "en": ""
+  "en": "White Card. You are the same."
  },
  {
   "id": "dg11_01:037:04",
   "speaker": "紅緒",
   "jp": "この方を、\n失いたくはないと。",
-  "en": ""
+  "en": "You do not wish to lose this person."
  },
  {
   "id": "dg11_01:037:05",
   "speaker": "白",
   "jp": "そ、それは……。",
-  "en": ""
+  "en": "Th-that is..."
  },
  {
   "id": "dg11_01:037:06",
   "speaker": "紅緒",
   "jp": "唯一を決めかね、\n迷いを抱える人間に、\n私が敗れる道理はありません。",
-  "en": ""
+  "en": "There is no reason I should lose to people who\ncannot choose their one and only, and who carry\nsuch doubt."
  },
  {
   "id": "dg11_01:037:07",
   "speaker": "紅緒",
   "jp": "人は誰しも、\n己の望むものの為に\n戦う{ruby:宿命|さだめ}にある……。",
-  "en": ""
+  "en": "Every person is destined to fight for what they\ndesire..."
  },
  {
   "id": "dg11_01:037:08",
   "speaker": "紅緒",
   "jp": "{px}、\n貴方にも望みが\nあるというのなら、",
-  "en": ""
+  "en": "{px}, if you too have something you wish for,"
  },
  {
   "id": "dg11_01:037:09",
   "speaker": "紅緒",
   "jp": "私を討ち倒し、\n生を勝ち取ればいい。",
-  "en": ""
+  "en": "then strike me down, and win your life."
  },
  {
   "id": "dg11_01:037:10",
   "speaker": "紅緒",
   "jp": "―――参ります。",
-  "en": ""
+  "en": "--Here I come."
  },
  {
   "id": "dg11_01:ksf:0090f",
   "kind": "choice",
   "jp": "光札を手に入れる",
   "slot": 30,
-  "en": ""
+  "en": "Obtain the Bright card"
  },
  {
   "id": "dg11_01:ksf:0d99d",
   "kind": "choice",
   "jp": "朝子を助ける",
   "slot": 30,
-  "en": ""
+  "en": "Save Asako"
  },
  {
   "id": "dg11_01:ksf:0d9bc",
   "kind": "choice",
   "jp": "朝子を助けない",
   "slot": 30,
-  "en": ""
+  "en": "Don't save Asako"
  }
 ]

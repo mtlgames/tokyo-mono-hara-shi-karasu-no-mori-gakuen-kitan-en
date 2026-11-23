@@ -3,145 +3,145 @@
   "id": "fd11_29:001:00",
   "speaker": "購買のおばちゃん",
   "jp": "あ～ら、いらっしゃい。\n何か欲しいん？",
-  "en": ""
+  "en": "Well, hello there, welcome! Lookin' for somethin'?"
  },
  {
   "id": "fd11_29:002:00",
   "speaker": "購買のおばちゃん",
   "jp": "あらあら、まあまあ。\n買い忘れでもあったん？",
-  "en": ""
+  "en": "My, my, my. Forget to buy somethin'?"
  },
  {
   "id": "fd11_29:004:00",
   "speaker": "購買のおばちゃん",
   "jp": "ちょっと、大手ちゃん\n聞いて聞いて！",
-  "en": ""
+  "en": "Ooh, Ote-chan, listen, listen!"
  },
  {
   "id": "fd11_29:004:01",
   "speaker": "購買のおばちゃん",
   "jp": "今日はクリスマスやろ？\n出張に出てる息子が\n帰ってくるんよ！",
-  "en": ""
+  "en": "Today's Christmas, ain't it? My boy's been away on\nbusiness, and he's comin' home!"
  },
  {
   "id": "fd11_29:004:02",
   "speaker": "購買のおばちゃん",
   "jp": "ああ、楽しみやわあ。\nあの子の好きなんいっぱい\n作ったらんと！",
-  "en": ""
+  "en": "Ahh, I just can't wait. Gotta whip up a whole spread\nof his favorites!"
  },
  {
   "id": "fd11_29:004:03",
   "speaker": "購買のおばちゃん",
   "jp": "んふふ、大手ちゃんには\nあめちゃんあげよな。",
-  "en": ""
+  "en": "Mm-hehe, here, Ote-chan, have a candy."
  },
  {
   "id": "fd11_29:005:00",
   "speaker": "購買のおばちゃん",
   "jp": "ほな、どうする？",
-  "en": ""
+  "en": "So, what'll it be, hon?"
  },
  {
   "id": "fd11_29:006:00",
   "speaker": "購買のおばちゃん",
   "jp": "ほな、どうする？",
-  "en": ""
+  "en": "So, what'll it be, hon?"
  },
  {
   "id": "fd11_29:007:00",
   "speaker": "購買のおばちゃん",
   "jp": "はい、ありがとね。\nまたおいでや～。",
-  "en": ""
+  "en": "Thank ya kindly! Come on back now~!"
  },
  {
   "id": "fd11_29:ksf:0121f",
   "kind": "choice",
   "jp": "買い物をする",
   "slot": 30,
-  "en": ""
+  "en": "Shop"
  },
  {
   "id": "fd11_29:ksf:0123e",
   "kind": "choice",
   "jp": "おばちゃんと話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to the Shop Lady"
  },
  {
   "id": "fd11_29:ksf:0125d",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing"
  },
  {
   "id": "fd11_29:ksf:01b89",
   "kind": "choice",
   "jp": "買い物をする",
   "slot": 30,
-  "en": ""
+  "en": "Shop"
  },
  {
   "id": "fd11_29:ksf:01ba8",
   "kind": "choice",
   "jp": "買い物をしない",
   "slot": 30,
-  "en": ""
+  "en": "Don't shop"
  },
  {
   "id": "fd11_29:ksf:024d5",
   "kind": "choice",
   "jp": "購入",
   "slot": 30,
-  "en": ""
+  "en": "Buy"
  },
  {
   "id": "fd11_29:ksf:024f4",
   "kind": "choice",
   "jp": "売却",
   "slot": 30,
-  "en": ""
+  "en": "Sell"
  },
  {
   "id": "fd11_29:ksf:02513",
   "kind": "choice",
   "jp": "やめる",
   "slot": 30,
-  "en": ""
+  "en": "Cancel"
  },
  {
   "id": "fd11_29:ksf:0374f",
   "kind": "choice",
   "jp": "買い物をする",
   "slot": 30,
-  "en": ""
+  "en": "Shop"
  },
  {
   "id": "fd11_29:ksf:0376e",
   "kind": "choice",
   "jp": "おばちゃんと話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to the Shop Lady"
  },
  {
   "id": "fd11_29:ksf:0378d",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing"
  },
  {
   "id": "fd11_29:ksf:040b9",
   "kind": "choice",
   "jp": "買い物をする",
   "slot": 30,
-  "en": ""
+  "en": "Shop"
  },
  {
   "id": "fd11_29:ksf:040d8",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing"
  }
 ]

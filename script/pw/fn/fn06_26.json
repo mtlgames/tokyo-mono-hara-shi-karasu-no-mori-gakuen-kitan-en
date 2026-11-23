@@ -3,246 +3,246 @@
   "id": "fn06_26:001:00",
   "speaker": "澁川",
   "jp": "……よく、来たな。\n仕事、か？",
-  "en": ""
+  "en": "...Welcome. Here on business?"
  },
  {
   "id": "fn06_26:002:00",
   "speaker": "澁川",
   "jp": "お前か。\n……好きにしていけ。",
-  "en": ""
+  "en": "You. ...Make yourself at home."
  },
  {
   "id": "fn06_26:003:00",
   "speaker": "澁川",
   "jp": "……ひょっとして、\n頼んだものの件か？",
-  "en": ""
+  "en": "...Is this, by chance, about what I asked for?"
  },
  {
   "id": "fn06_26:005:00",
   "speaker": "澁川",
   "jp": "む……？\n俺とした事が、\n計算を誤ったか……。",
-  "en": ""
+  "en": "Hm...? Did I, of all people, miscalculate...?"
  },
  {
   "id": "fn06_26:005:01",
   "speaker": "澁川",
   "jp": "おかしい……。\nまだなくなるはずでは\nなかったが……。",
-  "en": ""
+  "en": "Strange... It shouldn't have run out yet..."
  },
  {
   "id": "fn06_26:005:02",
   "speaker": "澁川",
   "jp": "……{px}。\n甘味料を持っていないか？",
-  "en": ""
+  "en": "...{px}. Do you have any sweetener on you?"
  },
  {
   "id": "fn06_26:007:00",
   "speaker": "澁川",
   "jp": "……ありがたい。",
-  "en": ""
+  "en": "...Much appreciated."
  },
  {
   "id": "fn06_26:007:01",
   "speaker": "澁川",
   "jp": "……そうだな。\nこれを。",
-  "en": ""
+  "en": "...Let's see. Take this."
  },
  {
   "id": "fn06_26:007:02",
   "speaker": "澁川",
   "jp": "大した物じゃないが……\n使ってくれ。",
-  "en": ""
+  "en": "It's nothing much... but put it to use."
  },
  {
   "id": "fn06_26:008:00",
   "speaker": "澁川",
   "jp": "……急には無理か。\nそれはそうだな。",
-  "en": ""
+  "en": "...Can't do it on short notice. Fair enough."
  },
  {
   "id": "fn06_26:009:00",
   "speaker": "澁川",
   "jp": "しかし在庫管理は完璧のはず。\n今日の注文で何か……。",
-  "en": ""
+  "en": "But my stock management should be perfect.\nSomething in today's orders..."
  },
  {
   "id": "fn06_26:009:01",
   "speaker": "澁川",
   "jp": "……あ。",
-  "en": ""
+  "en": "...Ah."
  },
  {
   "id": "fn06_26:009:02",
   "speaker": "澁川",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "fn06_26:009:03",
   "speaker": "澁川",
   "jp": "伊佐地相手で、助かった。\n……気をつけるとしよう。",
-  "en": ""
+  "en": "Lucky it was only Isachi. ...I'll be more careful."
  },
  {
   "id": "fn06_26:010:00",
   "speaker": "澁川",
   "jp": "……そうか。",
-  "en": ""
+  "en": "...I see."
  },
  {
   "id": "fn06_26:011:00",
   "speaker": "澁川",
   "jp": "甘味料なんだが……\nもし持っていたら\n譲ってもらえないか。",
-  "en": ""
+  "en": "About that sweetener... If you have any, could you\nspare me some?"
  },
  {
   "id": "fn06_26:013:00",
   "speaker": "澁川",
   "jp": "何か……他に、あるか？",
-  "en": ""
+  "en": "Anything... else?"
  },
  {
   "id": "fn06_26:014:00",
   "speaker": "澁川",
   "jp": "何か……他に、あるか？",
-  "en": ""
+  "en": "Anything... else?"
  },
  {
   "id": "fn06_26:015:00",
   "speaker": "澁川",
   "jp": "何か……他に、あるか？",
-  "en": ""
+  "en": "Anything... else?"
  },
  {
   "id": "fn06_26:016:00",
   "speaker": "澁川",
   "jp": "……そうか。\nまた、来るといい。",
-  "en": ""
+  "en": "...I see. Come again."
  },
  {
   "id": "fn06_26:ksf:0121f",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn06_26:ksf:0123e",
   "kind": "choice",
   "jp": "澁川と話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to Shibukawa"
  },
  {
   "id": "fn06_26:ksf:0125d",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  },
  {
   "id": "fn06_26:ksf:01b89",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn06_26:ksf:01ba8",
   "kind": "choice",
   "jp": "何もしない",
   "slot": 30,
-  "en": ""
+  "en": "Do nothing"
  },
  {
   "id": "fn06_26:ksf:024d5",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn06_26:ksf:024f4",
   "kind": "choice",
   "jp": "アイテムを渡す",
   "slot": 30,
-  "en": ""
+  "en": "Hand over an item"
  },
  {
   "id": "fn06_26:ksf:02513",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  },
  {
   "id": "fn06_26:ksf:0374f",
   "kind": "choice",
   "jp": "いま渡す",
   "slot": 30,
-  "en": ""
+  "en": "Give it now"
  },
  {
   "id": "fn06_26:ksf:0376e",
   "kind": "choice",
   "jp": "あとで渡す",
   "slot": 30,
-  "en": ""
+  "en": "Give it later"
  },
  {
   "id": "fn06_26:ksf:0800b",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn06_26:ksf:0802a",
   "kind": "choice",
   "jp": "澁川と話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to Shibukawa"
  },
  {
   "id": "fn06_26:ksf:08049",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  },
  {
   "id": "fn06_26:ksf:08975",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn06_26:ksf:08994",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  },
  {
   "id": "fn06_26:ksf:092c1",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn06_26:ksf:092e0",
   "kind": "choice",
   "jp": "アイテムを渡す",
   "slot": 30,
-  "en": ""
+  "en": "Hand over an item"
  },
  {
   "id": "fn06_26:ksf:092ff",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  }
 ]

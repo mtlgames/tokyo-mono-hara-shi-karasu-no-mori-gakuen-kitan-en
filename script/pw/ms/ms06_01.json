@@ -1239,7 +1239,7 @@
   "id": "ms06_01:056:00",
   "speaker": "要",
   "jp": "……左様か。",
-  "en": "...Indeed."
+  "en": "...I see."
  },
  {
   "id": "ms06_01:056:01",
@@ -1251,7 +1251,7 @@
   "id": "ms06_01:057:00",
   "speaker": "要",
   "jp": "……左様か。",
-  "en": "...Indeed."
+  "en": "...I see."
  },
  {
   "id": "ms06_01:057:01",
@@ -1347,7 +1347,7 @@
   "id": "ms06_01:062:01",
   "speaker": "英雄",
   "jp": "ならば、彼らにそろそろ\nもう一つの真実を\n教えてあげてはどうかなッ？",
-  "en": "Then how about it's time you told them the other\ntruth?"
+  "en": "Then isn't it time you told them the other truth?"
  },
  {
   "id": "ms06_01:062:02",
@@ -5415,7 +5415,7 @@
   "id": "ms06_01:301:03",
   "speaker": "義王",
   "jp": "宿命の{ruby:強敵|ライバル}、\n{pm}　{pn}サマだぜ？",
-  "en": "It's my fated rival, {pm} {pn}-sama!"
+  "en": "It's my fated rival, {pn} {pm}-sama!"
  },
  {
   "id": "ms06_01:301:04",
@@ -5781,7 +5781,7 @@
   "id": "ms06_01:318:00",
   "speaker": "義王",
   "jp": "……で？\nテメェはそのまま\n{ruby:日和|ひ　よ}ってるか？",
-  "en": "...So? You gonna chicken out too?"
+  "en": "...So? You just gonna sit there and chicken out?"
  },
  {
   "id": "ms06_01:318:01",

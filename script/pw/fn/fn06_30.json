@@ -3,145 +3,145 @@
   "id": "fn06_30:001:00",
   "speaker": "鎧の店員",
   "jp": "ここは、玩具と夢の{ruby:戦場|いくさば}、\nイエス！サブリミナルである。\nごゆるりと堪能あれ。",
-  "en": ""
+  "en": "This is the battlefield of toys and dreams: Yes!\nSubliminal. Pray, savor it at your leisure."
  },
  {
   "id": "fn06_30:002:00",
   "speaker": "鎧の店員",
   "jp": "何度もかたじけない。\nどうか、ごゆるりと。",
-  "en": ""
+  "en": "Much obliged for your repeated visits. Pray, take\nyour time."
  },
  {
   "id": "fn06_30:004:00",
   "speaker": "鎧の店員",
   "jp": "こうしてバイトを始めて\n{ruby:幾星霜|いくせいそう}か……。",
-  "en": ""
+  "en": "How many long years have passed since I began\nthis part-time post..."
  },
  {
   "id": "fn06_30:004:01",
   "speaker": "鎧の店員",
   "jp": "ついに念願の政宗公の具足を\n購入し、着る機会まで得た。",
-  "en": ""
+  "en": "At last I purchased the armor of Lord Masamune I\nso longed for, and even had occasion to wear it."
  },
  {
   "id": "fn06_30:004:02",
   "speaker": "鎧の店員",
   "jp": "だが本多の鹿角{ruby:大脇立|おおわきだて}には\n矢張り、シビれる憧れるッ！",
-  "en": ""
+  "en": "And yet, Honda's great deer-antler crest... I find it\nthrilling! I yearn for it!"
  },
  {
   "id": "fn06_30:004:03",
   "speaker": "鎧の店員",
   "jp": "はァ……。\nただカタログを眺めては\n指をくわえる日々である。",
-  "en": ""
+  "en": "Alas... My days are spent merely gazing at catalogs,\npining in vain."
  },
  {
   "id": "fn06_30:005:00",
   "speaker": "鎧の店員",
   "jp": "他に御用がありましたら、\nなんなりとお申し付けあれ。",
-  "en": ""
+  "en": "Should you require aught else, you need only say\nthe word."
  },
  {
   "id": "fn06_30:006:00",
   "speaker": "鎧の店員",
   "jp": "他に御用がありましたら、\nなんなりとお申し付けあれ。",
-  "en": ""
+  "en": "Should you require aught else, you need only say\nthe word."
  },
  {
   "id": "fn06_30:007:00",
   "speaker": "鎧の店員",
   "jp": "またのお越しを\nお待ちしておりますぞ。",
-  "en": ""
+  "en": "We shall await your next visit."
  },
  {
   "id": "fn06_30:ksf:0121f",
   "kind": "choice",
   "jp": "買い物をする",
   "slot": 30,
-  "en": ""
+  "en": "Shop"
  },
  {
   "id": "fn06_30:ksf:0123e",
   "kind": "choice",
   "jp": "店員と話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to the clerk"
  },
  {
   "id": "fn06_30:ksf:0125d",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  },
  {
   "id": "fn06_30:ksf:01b89",
   "kind": "choice",
   "jp": "買い物をする",
   "slot": 30,
-  "en": ""
+  "en": "Shop"
  },
  {
   "id": "fn06_30:ksf:01ba8",
   "kind": "choice",
   "jp": "買い物をしない",
   "slot": 30,
-  "en": ""
+  "en": "Don't shop"
  },
  {
   "id": "fn06_30:ksf:024d5",
   "kind": "choice",
   "jp": "購入",
   "slot": 30,
-  "en": ""
+  "en": "Buy"
  },
  {
   "id": "fn06_30:ksf:024f4",
   "kind": "choice",
   "jp": "売却",
   "slot": 30,
-  "en": ""
+  "en": "Sell"
  },
  {
   "id": "fn06_30:ksf:02513",
   "kind": "choice",
   "jp": "やめる",
   "slot": 30,
-  "en": ""
+  "en": "Never mind"
  },
  {
   "id": "fn06_30:ksf:0374f",
   "kind": "choice",
   "jp": "買い物をする",
   "slot": 30,
-  "en": ""
+  "en": "Shop"
  },
  {
   "id": "fn06_30:ksf:0376e",
   "kind": "choice",
   "jp": "店員と話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to the clerk"
  },
  {
   "id": "fn06_30:ksf:0378d",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  },
  {
   "id": "fn06_30:ksf:040b9",
   "kind": "choice",
   "jp": "買い物をする",
   "slot": 30,
-  "en": ""
+  "en": "Shop"
  },
  {
   "id": "fn06_30:ksf:040d8",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  }
 ]

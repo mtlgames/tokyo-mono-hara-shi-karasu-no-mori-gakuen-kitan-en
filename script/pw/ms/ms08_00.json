@@ -3,7 +3,7 @@
   "id": "ms08_00:000:00",
   "kind": "caption",
   "jp": "収集部特務課―――本部",
-  "en": "Special Affairs Unit--Headquarters"
+  "en": "Special Duties Division--Headquarters"
  },
  {
   "id": "ms08_00:000:01",
@@ -63,7 +63,7 @@
   "id": "ms08_00:000:10",
   "speaker": "筑紫",
   "jp": "特務課が外部協力員の名目で\n未成年者を使役している事は\n調べがついている。",
-  "en": "We have confirmed that the Special Affairs Unit\nuses minors under the guise of external collaborators."
+  "en": "We have confirmed that the Special Duties Division\nuses minors under the guise of external collaborators."
  },
  {
   "id": "ms08_00:000:11",
@@ -117,7 +117,7 @@
   "id": "ms08_00:000:19",
   "speaker": "筑紫",
   "jp": "これより収集部特務課は\nＪＥＭＡの監視下におかれる。",
-  "en": "As of now, the Collection Department's Special\nAffairs Unit is placed under JEMA's supervision."
+  "en": "As of now, the Collection Department's Special\nDuties Division is placed under JEMA's supervision."
  },
  {
   "id": "ms08_00:000:20",
