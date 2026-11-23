@@ -82,9 +82,9 @@ lookup 0x08A01C38 (binary search by code), 0x08A01CB0/0x08A01D88 GetGlyph(font, 
 **Long build** (`build.py --long` -> build/karasu_long.iso): every table line as many chars as its column's longest
 original line has bytes, capped at the column's longest string; EBOOT strings fill their slot. Boots (smoke ok), but
 `warp.py --all --tag long` crashes at `field_ch01` (school field, chapter 1): `tools/debug/longbisect.py` blames
-`systemtext`, rows 0278..0341 (bisect not finished: run `longbisect.py field_ch01 --stem systemtext`). So even the
-column's own maximum is too long for some systemtext rows: systemtext needs per-row caps (probably the original
-byte length of the row, or per screen). Fix that, then finish the long tour and read the menu budgets.
+`systemtext:0411:00` 良好 (4 bytes, a condition status shown in the field HUD; at 147 bytes it overflows a small
+buffer). systemtext mixes notices with short labels, so it needs per-row caps (probably the original byte length
+of short rows, the 160-byte notice cap for notices); other tables may hide the same mix. Fix that, then finish the long tour and read the menu budgets.
 
 ## Open (next steps)
 - Readability (polish): the left gradient panel (`adv/talk/adv_talk.g2d`, `adv_emotion2.gim`) covers only x 0-150;
