@@ -3,18 +3,18 @@
   "id": "dg02_10:000:00",
   "speaker": "白",
   "jp": "この壇、いずこかの扉を\n封じておるようじゃのう……。",
-  "en": ""
+  "en": "This altar seems to be sealing a door somewhere..."
  },
  {
   "id": "dg02_10:000:01",
   "speaker": "白",
   "jp": "{px}よ、\n{ruby:其方の眼|・・・・}で見てみよ。",
-  "en": ""
+  "en": "{px}, look with those eyes of yours."
  },
  {
   "id": "dg02_10:000:02",
   "speaker": "白",
   "jp": "流れている氣の色と\n同じ封がいずこかにあろう。",
-  "en": ""
+  "en": "Somewhere there should be a seal the same color as\nthe flowing ki."
  }
 ]

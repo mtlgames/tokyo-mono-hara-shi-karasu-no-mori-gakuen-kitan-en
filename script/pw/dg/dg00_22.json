@@ -3,24 +3,24 @@
   "id": "dg00_22:000:00",
   "speaker": "伊佐地",
   "jp": "{px}、大丈夫か？\n{ruby:秘法眼|ひほうがん}を使いすぎたな。\nひとまず少し休め。",
-  "en": ""
+  "en": "{px}, you all right? You overused your Arcane Eye.\nRest for a bit."
  },
  {
   "id": "dg00_22:000:01",
   "speaker": "伊佐地",
   "jp": "いまは試験だからいいが、\n実際の任務ではゆっくりと\n休んでいる余裕は無い。",
-  "en": ""
+  "en": "It's fine now since this is a test, but on a real\nmission you won't have the luxury of a leisurely\nrest."
  },
  {
   "id": "dg00_22:000:02",
   "speaker": "伊佐地",
   "jp": "いざという時に\n秘法眼が使えない、\nという事にならないよう、",
-  "en": ""
+  "en": "So you don't end up unable to use your Arcane\nEye when it counts,"
  },
  {
   "id": "dg00_22:000:03",
   "speaker": "伊佐地",
   "jp": "自分の力は\nしっかり把握しておくんだ。",
-  "en": ""
+  "en": "get a firm grasp of your own power."
  }
 ]

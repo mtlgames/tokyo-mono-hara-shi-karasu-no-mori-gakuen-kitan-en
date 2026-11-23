@@ -3,196 +3,196 @@
   "id": "fn02_26:001:00",
   "speaker": "隻眼の老人",
   "jp": "……よく、来たな。\n仕事、か？",
-  "en": ""
+  "en": "...Welcome. Here on... business?"
  },
  {
   "id": "fn02_26:002:00",
   "speaker": "隻眼の老人",
   "jp": "お前か。\n……好きにしていけ。",
-  "en": ""
+  "en": "You, is it. ...Do as you like."
  },
  {
   "id": "fn02_26:003:00",
   "speaker": "隻眼の老人",
   "jp": "……話、か。\nそうだな……。",
-  "en": ""
+  "en": "...Talk, is it. Let me see..."
  },
  {
   "id": "fn02_26:003:01",
   "speaker": "隻眼の老人",
   "jp": "動物には、人間と同じ物を\n食べさせてはいけない。",
-  "en": ""
+  "en": "Animals mustn't be fed the same things people eat."
  },
  {
   "id": "fn02_26:003:02",
   "speaker": "隻眼の老人",
   "jp": "人に適量である塩分や糖分も\n{ruby:動物|あいつら}の身体には過剰となる。",
-  "en": ""
+  "en": "The salt and sugar that are just right for people are\ntoo much for their bodies."
  },
  {
   "id": "fn02_26:003:03",
   "speaker": "隻眼の老人",
   "jp": "……約束、出来るか。",
-  "en": ""
+  "en": "...Can you promise me?"
  },
  {
   "id": "fn02_26:004:00",
   "speaker": "隻眼の老人",
   "jp": "決して動物に人間の食い物を\nやらない、と。",
-  "en": ""
+  "en": "That you will never give animals human food."
  },
  {
   "id": "fn02_26:005:00",
   "speaker": "隻眼の老人",
   "jp": "……ふっ。\n若いのに、\nわかっている様だな。",
-  "en": ""
+  "en": "...Heh. Young as you are, you seem to understand."
  },
  {
   "id": "fn02_26:006:00",
   "speaker": "隻眼の老人",
   "jp": "……ふっ。",
-  "en": ""
+  "en": "...Heh."
  },
  {
   "id": "fn02_26:007:00",
   "speaker": "隻眼の老人",
   "jp": "……約束するだけで、構わん。",
-  "en": ""
+  "en": "...Just promising is enough."
  },
  {
   "id": "fn02_26:008:00",
   "speaker": "隻眼の老人",
   "jp": "……ああ。",
-  "en": ""
+  "en": "...Yes."
  },
  {
   "id": "fn02_26:009:00",
   "speaker": "隻眼の老人",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "fn02_26:010:00",
   "speaker": "隻眼の老人",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "fn02_26:011:00",
   "speaker": "隻眼の老人",
   "jp": "……そうだな。\n確かに、寂しいものだ。",
-  "en": ""
+  "en": "...I suppose so. It is lonely, indeed."
  },
  {
   "id": "fn02_26:012:00",
   "speaker": "隻眼の老人",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "fn02_26:013:00",
   "speaker": "隻眼の老人",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "fn02_26:014:00",
   "speaker": "隻眼の老人",
   "jp": "気をつける事だ。\n求める物すべてに応えるのは、\n愛じゃない。",
-  "en": ""
+  "en": "Be careful. Giving them everything they ask for isn't\nlove."
  },
  {
   "id": "fn02_26:014:01",
   "speaker": "隻眼の老人",
   "jp": "……頼む。",
-  "en": ""
+  "en": "...I'm counting on you."
  },
  {
   "id": "fn02_26:015:00",
   "speaker": "隻眼の老人",
   "jp": "何か……他に、あるか？",
-  "en": ""
+  "en": "Is there... anything else?"
  },
  {
   "id": "fn02_26:016:00",
   "speaker": "隻眼の老人",
   "jp": "何か……他に、あるか？",
-  "en": ""
+  "en": "Is there... anything else?"
  },
  {
   "id": "fn02_26:018:00",
   "speaker": "隻眼の老人",
   "jp": "……そうか。\nまた、来るといい。",
-  "en": ""
+  "en": "...I see. Come again."
  },
  {
   "id": "fn02_26:ksf:0121f",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle quests"
  },
  {
   "id": "fn02_26:ksf:0123e",
   "kind": "choice",
   "jp": "店主と話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to the owner"
  },
  {
   "id": "fn02_26:ksf:0125d",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing"
  },
  {
   "id": "fn02_26:ksf:01b89",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle quests"
  },
  {
   "id": "fn02_26:ksf:01ba8",
   "kind": "choice",
   "jp": "何もしない",
   "slot": 30,
-  "en": ""
+  "en": "Do nothing"
  },
  {
   "id": "fn02_26:ksf:09195",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle quests"
  },
  {
   "id": "fn02_26:ksf:091b4",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing"
  },
  {
   "id": "fn02_26:ksf:09ae1",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle quests"
  },
  {
   "id": "fn02_26:ksf:09b00",
   "kind": "choice",
   "jp": "店主と話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to the owner"
  },
  {
   "id": "fn02_26:ksf:09b1f",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing"
  }
 ]

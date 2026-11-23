@@ -3,74 +3,74 @@
   "id": "qs00_15:000:00",
   "speaker": "{ruby:梵鐘|ぼんしょう}のような声",
   "jp": "{ruby:某|それがし}を呼ぶは誰か……。",
-  "en": ""
+  "en": "Who is it that summons this one...?"
  },
  {
   "id": "qs00_15:000:01",
   "speaker": "梵鐘のような声",
   "jp": "おぬし……{ruby:祓|はら}い屋か？",
-  "en": ""
+  "en": "You... are you an exorcist?"
  },
  {
   "id": "qs00_15:001:00",
   "speaker": "梵鐘のような声",
   "jp": "それにしては、\nどうも頼りなさげな……。",
-  "en": ""
+  "en": "If so, you seem rather unreliable..."
  },
  {
   "id": "qs00_15:003:00",
   "speaker": "梵鐘のような声",
   "jp": "ふん。どちらにせよ、\n我が{ruby:あるじ|・・・}より\n遣わされた者であろう。",
-  "en": ""
+  "en": "Hmph. Either way, you must be one sent by my\nmaster."
  },
  {
   "id": "qs00_15:003:01",
   "speaker": "梵鐘のような声",
   "jp": "なればおぬしが求める物は\nここにある。",
-  "en": ""
+  "en": "Then what you seek is here."
  },
  {
   "id": "qs00_15:003:02",
   "speaker": "梵鐘のような声",
   "jp": "これこそは、先代が作りし\n{ruby:某|それがし}を封じる\n{ruby:式神使役|しきがみしえき}の箱なり。",
-  "en": ""
+  "en": "This is the very box of shikigami binding, made by\nthe master before, that seals this one."
  },
  {
   "id": "qs00_15:003:03",
   "speaker": "梵鐘のような声",
   "jp": "再び封を閉じれば、\n我が{ruby:あるじ|・・・}の苦しみは\n時と共に失われよう。",
-  "en": ""
+  "en": "Close the seal once more, and my master's suffering\nshall fade with time."
  },
  {
   "id": "qs00_15:003:04",
   "speaker": "梵鐘のような声",
   "jp": "だが、このままとすれば、\n生ある苦しみは消えず、\nさりとて、失うものはなし。",
-  "en": ""
+  "en": "But leave it as it is, and the pain of living shall not\nvanish... yet neither shall anything be lost."
  },
  {
   "id": "qs00_15:003:05",
   "speaker": "梵鐘のような声",
   "jp": "どちらが{ruby:あるじ|・・・}の\n幸いとなるか……。\n全てはおぬしに託された。",
-  "en": ""
+  "en": "Which will bring my master happiness...? All is\nentrusted to you."
  },
  {
   "id": "qs00_15:003:06",
   "speaker": "梵鐘のような声",
   "jp": "ゆめゆめ忘れぬことだ。\n真実は常に希望とは\nなり得ぬと……。",
-  "en": ""
+  "en": "Never forget this: the truth cannot always be a\nhope..."
  },
  {
   "id": "qs00_15:ksf:0090f",
   "kind": "choice",
   "jp": "はい",
   "slot": 30,
-  "en": ""
+  "en": "Yes"
  },
  {
   "id": "qs00_15:ksf:0092e",
   "kind": "choice",
   "jp": "いいえ",
   "slot": 30,
-  "en": ""
+  "en": "No"
  }
 ]

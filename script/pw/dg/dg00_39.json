@@ -3,54 +3,54 @@
   "id": "dg00_39:000:00",
   "speaker": "いちる",
   "jp": "あれ、こっちにも扉！",
-  "en": ""
+  "en": "Hey, there's a door over here too!"
  },
  {
   "id": "dg00_39:000:01",
   "speaker": "いちる",
   "jp": "そっか、\n秘法眼を使わないと、\n見えなかったのか……。",
-  "en": ""
+  "en": "Oh, I get it. We couldn't see it without using the\nArcane Eye..."
  },
  {
   "id": "dg00_39:000:02",
   "speaker": "いちる",
   "jp": "あっちの扉はどうする？\n何か、すごく大きな\n気配がするけど……。",
-  "en": ""
+  "en": "What about that door over there? I'm sensing\nsomething really huge behind it..."
  },
  {
   "id": "dg00_39:000:03",
   "speaker": "零",
   "jp": "―――カミフダだ。",
-  "en": ""
+  "en": "--It's an ORDS."
  },
  {
   "id": "dg00_39:000:04",
   "speaker": "零",
   "jp": "奥の扉の向こう、\n何かと融合して\n{ruby:隠人|お　に}と化している。",
-  "en": ""
+  "en": "Beyond the far door. It's fused with something and\nbecome an Oni."
  },
  {
   "id": "dg00_39:000:05",
   "speaker": "零",
   "jp": "いまのこの戦力では\n敵うかどうかわからない\n相手だ。",
-  "en": ""
+  "en": "With our current strength, I don't know if we can\nbeat it."
  },
  {
   "id": "dg00_39:000:06",
   "speaker": "いちる",
   "jp": "それじゃ、\n後回しにしたほうが\nよさそうだね……。",
-  "en": ""
+  "en": "Then I guess we'd better leave it for later..."
  },
  {
   "id": "dg00_39:000:07",
   "speaker": "伊佐地",
   "jp": "正しい判断だ。\nまずは、その扉の先へ進め。",
-  "en": ""
+  "en": "A sound decision. First, go on through that door."
  },
  {
   "id": "dg00_39:000:08",
   "speaker": "伊佐地",
   "jp": "そこに、いまのお前たちに\n必要なものがある。",
-  "en": ""
+  "en": "There's something there you need right now."
  }
 ]

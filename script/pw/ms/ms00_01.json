@@ -3,1411 +3,1411 @@
   "id": "ms00_01:000:00",
   "speaker": "図書館員",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "ms00_01:000:01",
   "speaker": "図書館員",
   "jp": "そう……。\nあなた、{ruby:そうなのね|・・・・・}……。",
-  "en": ""
+  "en": "I see... So you're one of them..."
  },
  {
   "id": "ms00_01:000:02",
   "speaker": "図書館員",
   "jp": "ありがとう。\nこの結果は、\n大切に使わせてもらうわ。",
-  "en": ""
+  "en": "Thank you. We'll put these results to very good use."
  },
  {
   "id": "ms00_01:000:03",
   "speaker": "図書館員",
   "jp": "それじゃ\n本の返却期限、守ってね。",
-  "en": ""
+  "en": "Well then, make sure you return the books on time."
  },
  {
   "id": "ms00_01:000:04",
   "speaker": "図書館員",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "ms00_01:000:05",
   "speaker": "図書館員",
   "jp": "……真理が、",
-  "en": ""
+  "en": "...May the truth..."
  },
  {
   "id": "ms00_01:000:06",
   "speaker": "図書館員",
   "jp": "あなたに自由を\nもたらさんことを―――",
-  "en": ""
+  "en": "...set you free--"
  },
  {
   "id": "ms00_01:000:07",
   "kind": "caption",
   "jp": "現在―――新宿",
-  "en": ""
+  "en": "Present day -- Shinjuku"
  },
  {
   "id": "ms00_01:000:08",
   "speaker": "黒いコートの男",
   "jp": "夕暮れが街を包む―――",
-  "en": ""
+  "en": "Dusk swallows the city--"
  },
  {
   "id": "ms00_01:000:09",
   "speaker": "黒いコートの男",
   "jp": "まるでこの国の未来を\n象徴するかのような光景だな。",
-  "en": ""
+  "en": "A sight that seems to symbolize this nation's future."
  },
  {
   "id": "ms00_01:000:10",
   "speaker": "学生服の少女",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "ms00_01:000:11",
   "speaker": "黒いコートの男",
   "jp": "業火のごとき{ruby:紅|くれない}、\nそしてその先に待つのは―――",
-  "en": ""
+  "en": "A crimson like hellfire, and what awaits beyond it\nis--"
  },
  {
   "id": "ms00_01:000:12",
   "speaker": "黒いコートの男",
   "jp": "絶望という名の、闇。\nただそれだけだ。",
-  "en": ""
+  "en": "Darkness, by the name of despair. That, and nothing\nmore."
  },
  {
   "id": "ms00_01:000:13",
   "speaker": "学生服の少女",
   "jp": "それが、貴方の見た\n未来なのですね。",
-  "en": ""
+  "en": "So that is the future you have seen."
  },
  {
   "id": "ms00_01:000:14",
   "speaker": "学生服の少女",
   "jp": "《大いなる清め》……。\nそれはこの街を破壊し尽くし\n{ruby:数多|あまた}の命を奪うでしょう。",
-  "en": ""
+  "en": "The Great Purification... It will destroy this city\nutterly and take countless lives."
  },
  {
   "id": "ms00_01:000:15",
   "speaker": "学生服の少女",
   "jp": "一体、どんな想いが\n貴方をそこへと\n向かわせるのですか？",
-  "en": ""
+  "en": "What feelings could possibly drive you toward it?"
  },
  {
   "id": "ms00_01:000:16",
   "speaker": "黒いコートの男",
   "jp": "……君こそ、運命をその手に\n握っているというのは\nどんな気分なんだ？",
-  "en": ""
+  "en": "...And you? How does it feel, holding fate in your\nown hands?"
  },
  {
   "id": "ms00_01:000:17",
   "speaker": "学生服の少女",
   "jp": "私はただ定められた未来の為に\n{ruby:己|おの}が役割を果たしているに\n過ぎません。",
-  "en": ""
+  "en": "I merely fulfill my role, for the sake of a future\nalready decided."
  },
  {
   "id": "ms00_01:000:18",
   "speaker": "学生服の少女",
   "jp": "唯一絶対の者に従い、\n貴方の望みを叶える《力》を\nお届けに上がったまでです。",
-  "en": ""
+  "en": "I obey the one absolute being. I have only come to\ndeliver the Power that will grant your wish."
  },
  {
   "id": "ms00_01:000:19",
   "speaker": "黒いコートの男",
   "jp": "私の望みを叶える、とは……\nまるで《{ruby:運命の女|ファムファタル}》だな。",
-  "en": ""
+  "en": "To grant my wish... You're a veritable Femme Fatale."
  },
  {
   "id": "ms00_01:000:20",
   "speaker": "黒いコートの男",
   "jp": "君が私にもたらすのは\n破滅か？\nそれとも―――",
-  "en": ""
+  "en": "What is it you bring me? Ruin? Or else--"
  },
  {
   "id": "ms00_01:000:21",
   "speaker": "学生服の少女",
   "jp": "貴方さえ望むのなら\n{ruby:森羅万象|しんらばんしょう}の{ruby:理|ことわり}さえ\n超える《力》を。",
-  "en": ""
+  "en": "If only you desire it: a Power that transcends even\nthe laws of all creation."
  },
  {
   "id": "ms00_01:000:22",
   "speaker": "学生服の少女",
   "jp": "貴方にこの{ruby:禁忌|きんき}の{ruby:匣|はこ}を\n開く覚悟さえあるならば―――",
-  "en": ""
+  "en": "If only you are resolved to open this forbidden\nbox--"
  },
  {
   "id": "ms00_01:000:23",
   "speaker": "黒いコートの男",
   "jp": "今更、私に覚悟を問うか……。",
-  "en": ""
+  "en": "You question my resolve, now of all times..."
  },
  {
   "id": "ms00_01:000:24",
   "speaker": "黒いコートの男",
   "jp": "いいだろう。\nならば、よく見ておくといい。",
-  "en": ""
+  "en": "Very well. Then watch closely."
  },
  {
   "id": "ms00_01:000:25",
   "speaker": "黒いコートの男",
   "jp": "この街はやがて\n{ruby:終焉|しゅうえん}を迎える……。",
-  "en": ""
+  "en": "This city will soon meet its end..."
  },
  {
   "id": "ms00_01:000:26",
   "speaker": "黒いコートの男",
   "jp": "私をおいて他に、\n幕を開ける資格のある者など\nありはしない。",
-  "en": ""
+  "en": "And no one but I has the right to raise the curtain\non it."
  },
  {
   "id": "ms00_01:000:27",
   "speaker": "黒いコートの男",
   "jp": "さあ―――",
-  "en": ""
+  "en": "Now--"
  },
  {
   "id": "ms00_01:000:28",
   "speaker": "黒いコートの男",
   "jp": "{ruby:黄昏|たそがれ}の始まりだ―――",
-  "en": ""
+  "en": "Let the twilight begin--"
  },
  {
   "id": "ms00_01:000:29",
   "speaker": "{ruby:溌剌|はつらつ}とした声",
   "jp": "……うーん。",
-  "en": ""
+  "en": "...Hmmm."
  },
  {
   "id": "ms00_01:000:30",
   "speaker": "{ruby:溌剌|はつらつ}とした声",
   "jp": "確かこの辺から\n聞こえたような……。",
-  "en": ""
+  "en": "I could've sworn I heard it from around here..."
  },
  {
   "id": "ms00_01:000:31",
   "speaker": "溌剌とした声",
   "jp": "―――あ！\n{pm}クン、見っけ！！",
-  "en": ""
+  "en": "--Ah! Found you, {pm}-kun!!"
  },
  {
   "id": "ms00_01:000:32",
   "speaker": "活発そうな女生徒",
   "jp": "やっぱりそうだッ。\n写真で見た通り。",
-  "en": ""
+  "en": "Knew it! Just like in the photo."
  },
  {
   "id": "ms00_01:000:33",
   "speaker": "活発そうな女生徒",
   "jp": "ん～……でも、\n写真よりもっと男前かな？",
-  "en": ""
+  "en": "Hmm... but maybe you're even better-looking than in\nthe photo?"
  },
  {
   "id": "ms00_01:000:34",
   "speaker": "活発そうな女生徒",
   "jp": "とにかくほら、\nこっち、上がってきて。",
-  "en": ""
+  "en": "Anyway, c'mon, climb up over here."
  },
  {
   "id": "ms00_01:000:35",
   "speaker": "活発そうな女生徒",
   "jp": "よいしょ―――っと。",
-  "en": ""
+  "en": "Heave--ho!"
  },
  {
   "id": "ms00_01:000:36",
   "kind": "caption",
   "jp": "富士―――青木ヶ原樹海",
-  "en": ""
+  "en": "Mt. Fuji -- Aokigahara Forest"
  },
  {
   "id": "ms00_01:000:37",
   "speaker": "活発そうな女生徒",
   "jp": "……うん。\n{ruby:怪我|け　が}とかはなさそうだね。",
-  "en": ""
+  "en": "...Yep. Doesn't look like you're hurt or anything."
  },
  {
   "id": "ms00_01:000:38",
   "speaker": "活発そうな女生徒",
   "jp": "この辺、段差すごいから\nあたしも来るとき\n散々迷っちゃった。",
-  "en": ""
+  "en": "The ground's super uneven around here. I got totally\nlost on my way in, too."
  },
  {
   "id": "ms00_01:001:00",
   "speaker": "活発そうな女生徒",
   "jp": "えーっと……\n{pm}　{pn}クン。\nキミのコトだよね？",
-  "en": ""
+  "en": "Ummm... {pn} {pm}-kun. That's you, right?"
  },
  {
   "id": "ms00_01:002:00",
   "speaker": "活発そうな女生徒",
   "jp": "え？\nきゅ、急にそんなコト\n言われても……。",
-  "en": ""
+  "en": "Huh? Y-You can't just say something like that out\nof nowhere..."
  },
  {
   "id": "ms00_01:002:01",
   "speaker": "活発そうな女生徒",
   "jp": "困るって言うか\nなんて言うか……。",
-  "en": ""
+  "en": "I mean, it's kinda awkward, or, like..."
  },
  {
   "id": "ms00_01:003:00",
   "speaker": "活発そうな女生徒",
   "jp": "おおッ、なんかすごい\n歓迎ムード？",
-  "en": ""
+  "en": "Whoa, what's with the big warm welcome?"
  },
  {
   "id": "ms00_01:003:01",
   "speaker": "活発そうな女生徒",
   "jp": "えへへッ、\nあたしも会えて嬉しいよッ。",
-  "en": ""
+  "en": "Ehehe! I'm happy to meet you too!"
  },
  {
   "id": "ms00_01:004:00",
   "speaker": "活発そうな女生徒",
   "jp": "おおッ、やる気満々！？",
-  "en": ""
+  "en": "Whoa, you're all fired up, huh!?"
  },
  {
   "id": "ms00_01:004:01",
   "speaker": "活発そうな女生徒",
   "jp": "これはあたしも\n負けてらんないかも……。",
-  "en": ""
+  "en": "Guess I can't afford to lose to you, either..."
  },
  {
   "id": "ms00_01:005:00",
   "speaker": "活発そうな女生徒",
   "jp": "あははッ、{ruby:当たり|ビ　ン　ゴ}ッ！！\nやったねッ。",
-  "en": ""
+  "en": "Ahaha, bingo!! Nice!"
  },
  {
   "id": "ms00_01:006:00",
   "speaker": "活発そうな女生徒",
   "jp": "ご、ごめん！\n人違い……",
-  "en": ""
+  "en": "S-Sorry! Wrong person..."
  },
  {
   "id": "ms00_01:006:01",
   "speaker": "活発そうな女生徒",
   "jp": "な、わけないよね？",
-  "en": ""
+  "en": "...Yeah, no way, right?"
  },
  {
   "id": "ms00_01:007:00",
   "speaker": "活発そうな女生徒",
   "jp": "まったまたァ～。",
-  "en": ""
+  "en": "Oh, come onnn~"
  },
  {
   "id": "ms00_01:007:01",
   "speaker": "活発そうな女生徒",
   "jp": "ちゃんと写真と名前、\n確認してから\n探しに来たんだってば。",
-  "en": ""
+  "en": "I checked your photo and your name properly\nbefore I came looking for you, y'know."
  },
  {
   "id": "ms00_01:008:00",
   "speaker": "活発そうな女生徒",
   "jp": "ご、ごめんッ、\n怪しい者じゃないよ？",
-  "en": ""
+  "en": "S-Sorry! I'm not anyone suspicious, okay?"
  },
  {
   "id": "ms00_01:008:01",
   "speaker": "活発そうな女生徒",
   "jp": "人に頼まれて、\nキミのコト、探してたんだ。",
-  "en": ""
+  "en": "Somebody asked me to come find you."
  },
  {
   "id": "ms00_01:009:00",
   "speaker": "活発そうな女生徒",
   "jp": "ご、ごめんッ、\n怪しい者じゃないよ？",
-  "en": ""
+  "en": "S-Sorry! I'm not anyone suspicious, okay?"
  },
  {
   "id": "ms00_01:009:01",
   "speaker": "活発そうな女生徒",
   "jp": "人に頼まれて、\nキミのコト、探してたんだ。",
-  "en": ""
+  "en": "Somebody asked me to come find you."
  },
  {
   "id": "ms00_01:010:00",
   "speaker": "活発そうな女生徒",
   "jp": "もしもーし？\n聞こえてる？",
-  "en": ""
+  "en": "Hellooo? Can you hear me?"
  },
  {
   "id": "ms00_01:011:00",
   "speaker": "活発そうな女生徒",
   "jp": "あたし、{ruby:武藤|むとう}　いちる。\nキミと同じ、高三だよ。",
-  "en": ""
+  "en": "I'm Ichiru Muto. A third-year in high school, same\nas you."
  },
  {
   "id": "ms00_01:011:01",
   "speaker": "いちる",
   "jp": "……えへへ。まさか同じような\n人がいると思ってなかったから\nなんか嬉しいな。",
-  "en": ""
+  "en": "...Ehehe. I never figured there'd be someone else like\nme, so I'm kinda happy."
  },
  {
   "id": "ms00_01:011:02",
   "speaker": "いちる",
   "jp": "急に学校で呼び出し受けて\n富士山に行けとか言われた時は\nどうしようかと思ったけど、",
-  "en": ""
+  "en": "When I suddenly got called in at school and told to\ngo to Mt. Fuji, I had no idea what to do,"
  },
  {
   "id": "ms00_01:011:03",
   "speaker": "いちる",
   "jp": "でも、一人じゃないって\nわかったら、ちょっと\nワクワクしてきたかも！",
-  "en": ""
+  "en": "but now that I know I'm not alone, I think I'm\nactually getting kinda excited!"
  },
  {
   "id": "ms00_01:011:04",
   "speaker": "いちる",
   "jp": "あ……ねえ、もしかして\nキミも妙なアンケート、\nやらされたコトある？",
-  "en": ""
+  "en": "Oh... hey, did you maybe have to fill out a weird\nsurvey too?"
  },
  {
   "id": "ms00_01:012:00",
   "speaker": "いちる",
   "jp": "やっぱり！\nあの紙の裏側、\n変な質問だったもんね。",
-  "en": ""
+  "en": "I knew it! The questions on the back of that sheet\nwere so weird."
  },
  {
   "id": "ms00_01:012:01",
   "speaker": "いちる",
   "jp": "結構昔のコトだったから、\nすっかり忘れてたけど、",
-  "en": ""
+  "en": "It was so long ago that I'd totally forgotten about it,\nbut..."
  },
  {
   "id": "ms00_01:013:00",
   "speaker": "いちる",
   "jp": "ま、そうだよね。\nあたしも言われるまで\nすっかり忘れてたし。",
-  "en": ""
+  "en": "Yeah, figures. I'd totally forgotten too, until they told\nme."
  },
  {
   "id": "ms00_01:014:00",
   "speaker": "いちる",
   "jp": "アレでキミやあたしみたいな\n《眼》を持ってる人を\n探してたみたい。",
-  "en": ""
+  "en": "Looks like they were using it to find people with\nthe Eye, like you and me."
  },
  {
   "id": "ms00_01:014:01",
   "speaker": "いちる",
   "jp": "こんなの、たまに不思議な物が\n見えるくらいだと思ってたのに\n一体、何なんだろ。",
-  "en": ""
+  "en": "I thought it just meant seeing weird stuff now and\nthen. What's it all about, anyway?"
  },
  {
   "id": "ms00_01:014:02",
   "speaker": "いちる",
   "jp": "そういえばもう一人、\nやっぱり別の学校の制服着た\n男の子が来てるよ。",
-  "en": ""
+  "en": "Oh, right, there's one more. A boy in another\nschool's uniform came too."
  },
  {
   "id": "ms00_01:014:03",
   "speaker": "いちる",
   "jp": "……えーっと、",
-  "en": ""
+  "en": "...Ummm,"
  },
  {
   "id": "ms00_01:014:04",
   "speaker": "いちる",
   "jp": "あれ？\nそういえば集合場所って\nどっちだっけ……。",
-  "en": ""
+  "en": "Huh? Wait, which way was the meeting spot\nagain...?"
  },
  {
   "id": "ms00_01:014:05",
   "speaker": "野太い声",
   "jp": "おい、{ruby:武藤|むとう}ッ。\n男子《其ノ一》はいたのか？",
-  "en": ""
+  "en": "Hey, Muto! You find Boy Number One?"
  },
  {
   "id": "ms00_01:014:06",
   "speaker": "いちる",
   "jp": "あ、{ruby:伊佐地|い　さ　ち}センセ！！\nイケメン発見、確保～！！",
-  "en": ""
+  "en": "Oh, Isachi-sensei!! Hottie spotted and secured~!!"
  },
  {
   "id": "ms00_01:014:07",
   "speaker": "いちる",
   "jp": "こっちこっち～！！",
-  "en": ""
+  "en": "Over here, over here~!!"
  },
  {
   "id": "ms00_01:014:08",
   "speaker": "野太い声",
   "jp": "あのなァ……。",
-  "en": ""
+  "en": "Look, you..."
  },
  {
   "id": "ms00_01:014:09",
   "speaker": "顔に傷のある男",
   "jp": "俺は教師じゃないと\nさっき説明したばかりだろ。",
-  "en": ""
+  "en": "I just got done telling you I'm not a teacher."
  },
  {
   "id": "ms00_01:014:10",
   "speaker": "顔に傷のある男",
   "jp": "まッたく……。\n誰が、センセーだ。",
-  "en": ""
+  "en": "Honestly... Who're you calling \"sensei\"?"
  },
  {
   "id": "ms00_01:014:11",
   "speaker": "いちる",
   "jp": "あ、そっか。\nえっと……じゃあ\nなんて呼んだらいい？",
-  "en": ""
+  "en": "Oh, right. Um... then what should I call you?"
  },
  {
   "id": "ms00_01:014:12",
   "speaker": "いちる",
   "jp": "んー……",
-  "en": ""
+  "en": "Hmm..."
  },
  {
   "id": "ms00_01:014:13",
   "speaker": "いちる",
   "jp": "{ruby:伊佐地|い　さ　ち}……オジさ―――",
-  "en": ""
+  "en": "Isachi... Old Ma--"
  },
  {
   "id": "ms00_01:014:14",
   "speaker": "顔に傷のある男",
   "jp": "いや、いい。\n先生でいい。\nそれにしろ。",
-  "en": ""
+  "en": "No, never mind. \"Sensei\" is fine. Go with that."
  },
  {
   "id": "ms00_01:015:00",
   "speaker": "顔に傷のある男",
   "jp": "……で、\nそっちが{pm}　{pn}か。",
-  "en": ""
+  "en": "...And you must be {pn} {pm}."
  },
  {
   "id": "ms00_01:015:01",
   "speaker": "顔に傷のある男",
   "jp": "よく来たな。\n俺は、国立国会図書館収集部\n特務課の{ruby:伊佐地|い　さ　ち}　{ruby:大督|だいすけ}だ。",
-  "en": ""
+  "en": "Glad you made it. I'm Daisuke Isachi, Special\nOperations Division, Collection Department, National\nDiet Library."
  },
  {
   "id": "ms00_01:016:00",
   "speaker": "{ruby:伊佐地|い　さ　ち}",
   "jp": "おう、よろしくな。",
-  "en": ""
+  "en": "Yeah. Good to have you."
  },
  {
   "id": "ms00_01:017:00",
   "speaker": "{ruby:伊佐地|い　さ　ち}",
   "jp": "なんだ、警戒してるのか？",
-  "en": ""
+  "en": "What, you're wary of me?"
  },
  {
   "id": "ms00_01:017:01",
   "speaker": "伊佐地",
   "jp": "まァいいさ。\nそれくらい用心深い方が\nエージェントには向いている。",
-  "en": ""
+  "en": "Eh, that's fine. Someone that cautious is cut out to\nbe an agent."
  },
  {
   "id": "ms00_01:018:00",
   "speaker": "{ruby:伊佐地|い　さ　ち}",
   "jp": "詳しい説明は後だ。\n男子《其ノ二》はどうした。",
-  "en": ""
+  "en": "I'll explain the details later. Where's Boy Number\nTwo?"
  },
  {
   "id": "ms00_01:018:01",
   "speaker": "いちる",
   "jp": "あれ……？\nさっきまで近くで\n一緒に探してたんだけど……。",
-  "en": ""
+  "en": "Huh...? He was right nearby, searching with me just\na second ago..."
  },
  {
   "id": "ms00_01:018:02",
   "speaker": "いちる",
   "jp": "ドコ行っちゃったんだろ。",
-  "en": ""
+  "en": "Where'd he go?"
  },
  {
   "id": "ms00_01:018:03",
   "speaker": "いちる",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "ms00_01:018:04",
   "speaker": "いちる",
   "jp": "あ、あそこ―――",
-  "en": ""
+  "en": "Oh, over there--"
  },
  {
   "id": "ms00_01:018:05",
   "speaker": "伊佐地",
   "jp": "あいつ、\n何だってあんなとこに……。",
-  "en": ""
+  "en": "What the hell's he doing up there...?"
  },
  {
   "id": "ms00_01:018:06",
   "speaker": "いちる",
   "jp": "ねー！！\nそんなとこ登って、\n何してるのー！？",
-  "en": ""
+  "en": "Heyyy!! What're you doing climbing up there!?"
  },
  {
   "id": "ms00_01:018:07",
   "speaker": "{ruby:痩躯|そうく}の男子生徒",
   "jp": "捜し物をするには、\n高いところの方がいい。",
-  "en": ""
+  "en": "When searching for something, it's best to be\nsomewhere high."
  },
  {
   "id": "ms00_01:018:08",
   "speaker": "いちる",
   "jp": "え？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "ms00_01:018:09",
   "speaker": "痩躯の男子生徒",
   "jp": "だが―――\nどうやらきみの機動力の方が\n上だったようだ。",
-  "en": ""
+  "en": "But-- it seems your mobility was superior."
  },
  {
   "id": "ms00_01:018:10",
   "speaker": "伊佐地",
   "jp": "いいから早く降りてこい。\nそんなとこ登ってたら、\n危ないだろうが。",
-  "en": ""
+  "en": "Never mind that, get down here already. Climbing\naround up there's dangerous, dammit."
  },
  {
   "id": "ms00_01:018:11",
   "speaker": "痩躯の男子生徒",
   "jp": "危ない？",
-  "en": ""
+  "en": "Dangerous?"
  },
  {
   "id": "ms00_01:018:12",
   "speaker": "痩躯の男子生徒",
   "jp": "{ruby:これから行く場所|・・・・・・・・}の方が\n危ない……違うか？",
-  "en": ""
+  "en": "The place we're about to go is more dangerous... Am\nI wrong?"
  },
  {
   "id": "ms00_01:018:13",
   "speaker": "伊佐地",
   "jp": "そうだ。\nだから俺がいる。",
-  "en": ""
+  "en": "It is. That's why I'm here."
  },
  {
   "id": "ms00_01:018:14",
   "speaker": "伊佐地",
   "jp": "俺の目の届かないところで\n勝手に危険に{ruby:遭|あ}うな。",
-  "en": ""
+  "en": "Don't go walking into danger where I can't keep an\neye on you."
  },
  {
   "id": "ms00_01:018:15",
   "speaker": "痩躯の男子生徒",
   "jp": "……わかった。",
-  "en": ""
+  "en": "...Understood."
  },
  {
   "id": "ms00_01:018:16",
   "speaker": "痩躯の男子生徒",
   "jp": "きみが、捜し物……。\n{pm}　{pn}か。",
-  "en": ""
+  "en": "You're the one she was searching for... {pn} {pm}."
  },
  {
   "id": "ms00_01:019:00",
   "speaker": "痩躯の男子生徒",
   "jp": "{ruby:雉明|ちあき}　{ruby:零|ぜろ}だ。\n……よろしく。",
-  "en": ""
+  "en": "I'm Zero Chiaki. ...Pleased to meet you."
  },
  {
   "id": "ms00_01:020:00",
   "speaker": "零",
   "jp": "それは……",
-  "en": ""
+  "en": "That's..."
  },
  {
   "id": "ms00_01:020:01",
   "speaker": "零",
   "jp": "よく、わからないが、\n……ありがとう。",
-  "en": ""
+  "en": "I don't really understand, but... thank you."
  },
  {
   "id": "ms00_01:021:00",
   "speaker": "零",
   "jp": "そう喜ばれると、\nどう答えていいか\nわからないが……。",
-  "en": ""
+  "en": "I'm not sure how to respond when you're that happy\nabout it, but..."
  },
  {
   "id": "ms00_01:021:01",
   "speaker": "零",
   "jp": "……ありがとう。",
-  "en": ""
+  "en": "...Thank you."
  },
  {
   "id": "ms00_01:022:00",
   "speaker": "零",
   "jp": "きみは……\nいつも、そうなのか？",
-  "en": ""
+  "en": "Are you... always like this?"
  },
  {
   "id": "ms00_01:022:01",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "ms00_01:023:00",
   "speaker": "零",
   "jp": "……ああ。",
-  "en": ""
+  "en": "...Yes."
  },
  {
   "id": "ms00_01:024:00",
   "speaker": "零",
   "jp": "そうか……。",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "ms00_01:025:00",
   "speaker": "零",
   "jp": "そうか……。",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "ms00_01:026:00",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "ms00_01:027:00",
   "speaker": "零",
   "jp": "そうか……。",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "ms00_01:028:00",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "ms00_01:029:00",
   "speaker": "いちる",
   "jp": "え、ちょ、ちょっと、\nみんな仲良くしようよッ。",
-  "en": ""
+  "en": "W-Wait, hold on, let's all get along, okay!?"
  },
  {
   "id": "ms00_01:029:01",
   "speaker": "いちる",
   "jp": "せっかくこうやって出会って、\n一緒に行動するコトに\nなったんだし……。",
-  "en": ""
+  "en": "I mean, we finally met like this, and we're gonna be\nworking together and all..."
  },
  {
   "id": "ms00_01:029:02",
   "speaker": "零",
   "jp": "武藤……と言ったか。",
-  "en": ""
+  "en": "Muto... was it?"
  },
  {
   "id": "ms00_01:029:03",
   "speaker": "いちる",
   "jp": "え？\nあ、うん。",
-  "en": ""
+  "en": "Huh? Oh, yeah."
  },
  {
   "id": "ms00_01:029:04",
   "speaker": "零",
   "jp": "無理はしなくていい。\nおれはべつに、構わないから。",
-  "en": ""
+  "en": "You don't need to force yourself. It doesn't bother\nme."
  },
  {
   "id": "ms00_01:029:05",
   "speaker": "いちる",
   "jp": "雉明クン……。",
-  "en": ""
+  "en": "Chiaki-kun..."
  },
  {
   "id": "ms00_01:030:00",
   "speaker": "伊佐地",
   "jp": "ともかく、\nようやくこれで\n全員{ruby:揃|そろ}ったな。",
-  "en": ""
+  "en": "Anyway, at long last, everyone's here."
  },
  {
   "id": "ms00_01:030:01",
   "speaker": "伊佐地",
   "jp": "お前たちには\nこれからここで、\n試験を受けてもらう。",
-  "en": ""
+  "en": "You three are going to take an exam here."
  },
  {
   "id": "ms00_01:030:02",
   "speaker": "伊佐地",
   "jp": "日本{ruby:ＯＸＡＳ|オ　ク　サ　ス}認定《{ruby:封札師|ふうさつし}》\nとしての資格を問う為のな。",
-  "en": ""
+  "en": "One that decides whether you qualify as Card\nSealers certified by OXAS Japan."
  },
  {
   "id": "ms00_01:030:03",
   "speaker": "いちる",
   "jp": "ふう……さつ、し？",
-  "en": ""
+  "en": "Card... Seal-er?"
  },
  {
   "id": "ms00_01:030:04",
   "speaker": "零",
   "jp": "……{ruby:封　札　師|カードアーカイバー}とも呼ばれる\n《カミフダ》収集のための\n極秘エージェントか。",
-  "en": ""
+  "en": "...Card Sealers, also called Card Archivers. Top-secret\nagents who collect ORDS."
  },
  {
   "id": "ms00_01:030:05",
   "speaker": "零",
   "jp": "その為に図書館はああやって\n《{ruby:秘法眼|ひほうがん}》を持つ者を\n探していたんだな。",
-  "en": ""
+  "en": "So that's why the library was searching like that for\npeople with the Arcane Eye."
  },
  {
   "id": "ms00_01:030:06",
   "speaker": "伊佐地",
   "jp": "{ruby:雉明|ちあき}、\nお前、何故それを……。",
-  "en": ""
+  "en": "Chiaki, how do you know about that...?"
  },
  {
   "id": "ms00_01:030:07",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "ms00_01:030:08",
   "speaker": "いちる",
   "jp": "えーっと……\nなんだかわかんないコト\nだらけなんだけど……。",
-  "en": ""
+  "en": "Ummm... There's a whole lotta stuff I don't get here..."
  },
  {
   "id": "ms00_01:030:09",
   "speaker": "いちる",
   "jp": "そもそも、\nその《カミフダ》って\n一体何なの？",
-  "en": ""
+  "en": "First of all, what even are these ORDS?"
  },
  {
   "id": "ms00_01:030:10",
   "speaker": "伊佐地",
   "jp": "一言で言うならば\n人類にとっての《{ruby:厄災|やくさい}》だ。",
-  "en": ""
+  "en": "In a word: a Calamity for humankind."
  },
  {
   "id": "ms00_01:030:11",
   "speaker": "伊佐地",
   "jp": "古来より多くの人間を\n狂気に{ruby:誘|いざな}い、破滅へと導いた\n情報の凝縮……。",
-  "en": ""
+  "en": "Condensed information that, since ancient times, has\ndriven countless people to madness and led them to\nruin..."
  },
  {
   "id": "ms00_01:030:12",
   "speaker": "伊佐地",
   "jp": "その由来は定かでないが、\n{ruby:嘗|かつ}て地球上に栄えた超古代文明\nの遺産という説が有力だ。",
-  "en": ""
+  "en": "Their origin is uncertain, but the leading theory is\nthat they're the legacy of a super-ancient civilization\nthat once flourished on Earth."
  },
  {
   "id": "ms00_01:030:13",
   "speaker": "伊佐地",
   "jp": "それは時に一枚の{ruby:絵札|カード}であり\n一冊の書物や、単なる紙片の\n形をしている事もある。",
-  "en": ""
+  "en": "Sometimes they take the form of a picture card,\nsometimes a book, or even just a scrap of paper."
  },
  {
   "id": "ms00_01:030:14",
   "speaker": "伊佐地",
   "jp": "それを見抜く事が出来るのは\n情報を視覚で捉える事が可能な\n眼を持つ者―――",
-  "en": ""
+  "en": "The only ones who can see them for what they are\nhave eyes that perceive information visually--"
  },
  {
   "id": "ms00_01:030:15",
   "speaker": "伊佐地",
   "jp": "つまりはお前たちのような\n《{ruby:秘法眼|ひほうがん}》を持つ者だけだ。",
-  "en": ""
+  "en": "In other words, only people like you, who have the\nArcane Eye."
  },
  {
   "id": "ms00_01:030:16",
   "speaker": "伊佐地",
   "jp": "詳しい事はこの\n携帯端末に全部入っている。",
-  "en": ""
+  "en": "Everything you need to know is on this handheld\nterminal."
  },
  {
   "id": "ms00_01:030:17",
   "speaker": "伊佐地",
   "jp": "まずは自分の情報を\n入力しておけ。\n完了次第メールが届くはずだ。",
-  "en": ""
+  "en": "First, enter your own information. Once you're done,\nyou should get an email."
  },
  {
   "id": "ms00_01:030:18",
   "speaker": "伊佐地",
   "jp": "―――よし。\n後は{ruby:各々|おのおの}、時間があるときに\n確認しておくように。",
-  "en": ""
+  "en": "--Good. As for the rest, each of you check it\nwhenever you have time."
  },
  {
   "id": "ms00_01:030:19",
   "speaker": "いちる",
   "jp": "うーん……。",
-  "en": ""
+  "en": "Hmmm..."
  },
  {
   "id": "ms00_01:030:20",
   "speaker": "いちる",
   "jp": "人に悪さする《カミフダ》を\n集めるのが《{ruby:封札師|ふうさつし}》ってのは\n何となくわかったけど、",
-  "en": ""
+  "en": "I kinda get that Card Sealers are the ones who\ncollect ORDS that do bad stuff to people, but"
  },
  {
   "id": "ms00_01:030:21",
   "speaker": "いちる",
   "jp": "そんな正義の味方みたいなコト\nあたしたちに……出来るの？",
-  "en": ""
+  "en": "Can people like us really... do hero-of-justice stuff\nlike that?"
  },
  {
   "id": "ms00_01:030:22",
   "speaker": "伊佐地",
   "jp": "出来るさ、お前たちなら。\nいや―――",
-  "en": ""
+  "en": "Sure you can. You lot can. No--"
  },
  {
   "id": "ms00_01:030:23",
   "speaker": "伊佐地",
   "jp": "これは、\nお前たちにしか\n出来ない事だ。",
-  "en": ""
+  "en": "This is something only you can do."
  },
  {
   "id": "ms00_01:030:24",
   "speaker": "伊佐地",
   "jp": "《カミフダ》を見定められる\nという事は、それを正しく扱う\n力があるという事だからな。",
-  "en": ""
+  "en": "Being able to discern ORDS means you have the\npower to handle them properly."
  },
  {
   "id": "ms00_01:030:25",
   "speaker": "伊佐地",
   "jp": "後は実際にやってみた方が\n早いだろう。\n―――行くぞ。",
-  "en": ""
+  "en": "The rest you'll learn faster by doing. --Let's go."
  },
  {
   "id": "ms00_01:031:00",
   "kind": "caption",
   "jp": "富士―――風穴入口",
-  "en": ""
+  "en": "Mt. Fuji -- Wind Cave Entrance"
  },
  {
   "id": "ms00_01:031:01",
   "speaker": "いちる",
   "jp": "おお～！\nこれ{ruby:洞窟|どうくつ}！？",
-  "en": ""
+  "en": "Ooh! Is this a cave!?"
  },
  {
   "id": "ms00_01:031:02",
   "speaker": "伊佐地",
   "jp": "この{ruby:風穴|ふうけつ}は、古くから{ruby:封札師|ふうさつし}の\n認定試験用に使われている\n場所だ。",
-  "en": ""
+  "en": "This wind cave has long been used as a site for\nCard Sealer certification exams."
  },
  {
   "id": "ms00_01:031:03",
   "speaker": "伊佐地",
   "jp": "まずはこれを\n利き手に装着しろ。",
-  "en": ""
+  "en": "First, put this on your dominant hand."
  },
  {
   "id": "ms00_01:031:04",
   "speaker": "伊佐地",
   "jp": "《カミフダ》の発動を\n一度に五枚までサポートする\n封札師用の装備だ。",
-  "en": ""
+  "en": "It's Card Sealer gear. It supports activating up to five\nORDS at once."
  },
  {
   "id": "ms00_01:031:05",
   "speaker": "伊佐地",
   "jp": "また《カミフダ》を持って\nいない場合であっても、\n《秘法眼》の持ち主であれば、",
-  "en": ""
+  "en": "And even when you're not holding any ORDS, as\nlong as you have the Arcane Eye,"
  },
  {
   "id": "ms00_01:031:06",
   "speaker": "伊佐地",
   "jp": "手にした武器の能力を\n最大限に引き出す事が出来る。\n例え、{ruby:どんな物であろうと|・・・・・・・・・}な。",
-  "en": ""
+  "en": "you can draw out the full power of any weapon in\nyour hand. No matter what it is."
  },
  {
   "id": "ms00_01:031:07",
   "speaker": "伊佐地",
   "jp": "それからこれを渡しておく。",
-  "en": ""
+  "en": "And I'll give you these, too."
  },
  {
   "id": "ms00_01:031:08",
   "speaker": "零",
   "jp": "札、か……。",
-  "en": ""
+  "en": "Cards, huh..."
  },
  {
   "id": "ms00_01:031:09",
   "speaker": "零",
   "jp": "《カミフダ》にしては\n情報量が少ないように見える。",
-  "en": ""
+  "en": "They seem to hold rather little information, for\nORDS."
  },
  {
   "id": "ms00_01:032:00",
   "speaker": "いちる",
   "jp": "ね、{px}は分かる？",
-  "en": ""
+  "en": "Hey, can you tell, {px}?"
  },
  {
   "id": "ms00_01:033:00",
   "speaker": "いちる",
   "jp": "え、そんなに……？",
-  "en": ""
+  "en": "Huh, that much...?"
  },
  {
   "id": "ms00_01:033:01",
   "speaker": "いちる",
   "jp": "つまり、愛情を持って接すれば\n見えるってコトなのか……。",
-  "en": ""
+  "en": "So you can see it if you treat them with love, huh..."
  },
  {
   "id": "ms00_01:033:02",
   "speaker": "伊佐地",
   "jp": "お前らな……。",
-  "en": ""
+  "en": "You people..."
  },
  {
   "id": "ms00_01:034:00",
   "speaker": "いちる",
   "jp": "そ、そうなんだ……。",
-  "en": ""
+  "en": "O-Oh, really..."
  },
  {
   "id": "ms00_01:034:01",
   "speaker": "いちる",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "ms00_01:035:00",
   "speaker": "いちる",
   "jp": "そ、そっか……。",
-  "en": ""
+  "en": "O-Oh, I see..."
  },
  {
   "id": "ms00_01:035:01",
   "speaker": "いちる",
   "jp": "よおォォしッ、\nあたしも気合で見るッ！！",
-  "en": ""
+  "en": "Alriiight! I'll see it through sheer willpower too!!"
  },
  {
   "id": "ms00_01:035:02",
   "speaker": "いちる",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "ms00_01:035:03",
   "speaker": "いちる",
   "jp": "え、えーっと……。",
-  "en": ""
+  "en": "U-Ummm..."
  },
  {
   "id": "ms00_01:035:04",
   "speaker": "伊佐地",
   "jp": "……やれやれ。",
-  "en": ""
+  "en": "...Good grief."
  },
  {
   "id": "ms00_01:036:00",
   "speaker": "いちる",
   "jp": "そ、そうなんだ……。",
-  "en": ""
+  "en": "O-Oh, really..."
  },
  {
   "id": "ms00_01:036:01",
   "speaker": "いちる",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "ms00_01:037:00",
   "speaker": "いちる",
   "jp": "そうだよねッ！！\n分かる訳ないよねッ！！",
-  "en": ""
+  "en": "Right!? No way anyone could tell!!"
  },
  {
   "id": "ms00_01:037:01",
   "speaker": "いちる",
   "jp": "という訳で、分かりません！！",
-  "en": ""
+  "en": "So yeah, I have no idea!!"
  },
  {
   "id": "ms00_01:037:02",
   "speaker": "伊佐地",
   "jp": "お前らな……。",
-  "en": ""
+  "en": "You people..."
  },
  {
   "id": "ms00_01:038:00",
   "speaker": "いちる",
   "jp": "よかった～。\nあたしだけかと思った……。",
-  "en": ""
+  "en": "Phew~ I thought it was just me..."
  },
  {
   "id": "ms00_01:038:01",
   "speaker": "いちる",
   "jp": "という訳で、雉明クンが\nすごすぎるだけだと思う！！",
-  "en": ""
+  "en": "So yeah, I think Chiaki-kun's just way too amazing!!"
  },
  {
   "id": "ms00_01:038:02",
   "speaker": "伊佐地",
   "jp": "お前らな……。",
-  "en": ""
+  "en": "You people..."
  },
  {
   "id": "ms00_01:039:00",
   "speaker": "いちる",
   "jp": "だ、大丈夫だって！！\nあたしも全然わかんないし！！",
-  "en": ""
+  "en": "I-It's fine!! I don't get it at all either!!"
  },
  {
   "id": "ms00_01:039:01",
   "speaker": "いちる",
   "jp": "という訳で、雉明クンが\nすごすぎるだけだと思う！！",
-  "en": ""
+  "en": "So yeah, I think Chiaki-kun's just way too amazing!!"
  },
  {
   "id": "ms00_01:039:02",
   "speaker": "伊佐地",
   "jp": "お前らな……。",
-  "en": ""
+  "en": "You people..."
  },
  {
   "id": "ms00_01:040:00",
   "speaker": "いちる",
   "jp": "そうだよねッ！！\n分かる訳ないよねッ！！",
-  "en": ""
+  "en": "Right!? No way anyone could tell!!"
  },
  {
   "id": "ms00_01:040:01",
   "speaker": "いちる",
   "jp": "という訳で、分かりません！！",
-  "en": ""
+  "en": "So yeah, I have no idea!!"
  },
  {
   "id": "ms00_01:040:02",
   "speaker": "伊佐地",
   "jp": "お前らな……。",
-  "en": ""
+  "en": "You people..."
  },
  {
   "id": "ms00_01:041:00",
   "speaker": "いちる",
   "jp": "それはつまり……、\n分かんないってことだよね！！\nよしッ！！",
-  "en": ""
+  "en": "So that means... you don't get it either, right!? Okay!!"
  },
  {
   "id": "ms00_01:041:01",
   "speaker": "いちる",
   "jp": "という訳で、分かりません！！",
-  "en": ""
+  "en": "So yeah, I have no idea!!"
  },
  {
   "id": "ms00_01:041:02",
   "speaker": "伊佐地",
   "jp": "お前らな……。",
-  "en": ""
+  "en": "You people..."
  },
  {
   "id": "ms00_01:042:00",
   "speaker": "伊佐地",
   "jp": "それは《{ruby:特課試札|とっかしさつ}》と言って\n通常よりも情報量を抑えた\n《カミフダ》だ。",
-  "en": ""
+  "en": "That's called a Division Test Card. It's ORDS with\nless information than usual."
  },
  {
   "id": "ms00_01:042:01",
   "speaker": "伊佐地",
   "jp": "それくらいなら封札師としての\n《{ruby:印|しるし}》を持たないお前たちでも\n安全に扱う事が出来る。",
-  "en": ""
+  "en": "At that level, even you lot, without a Card Sealer's\nMark, can handle them safely."
  },
  {
   "id": "ms00_01:042:02",
   "speaker": "伊佐地",
   "jp": "それじゃ、\nしっかりやってこい。",
-  "en": ""
+  "en": "Now then, go give it your all."
  },
  {
   "id": "ms00_01:042:03",
   "speaker": "いちる",
   "jp": "え……？\nど、どういうコト？",
-  "en": ""
+  "en": "Huh...? Wh-What do you mean?"
  },
  {
   "id": "ms00_01:042:04",
   "speaker": "伊佐地",
   "jp": "言っただろう。\nやってみた方が早い、と。",
-  "en": ""
+  "en": "I told you. You'll learn faster by doing."
  },
  {
   "id": "ms00_01:042:05",
   "speaker": "伊佐地",
   "jp": "《封札師》の任務は\nカミフダの発見と収集、\n及び―――",
-  "en": ""
+  "en": "A Card Sealer's mission is to find and collect ORDS,\nand--"
  },
  {
   "id": "ms00_01:042:06",
   "speaker": "伊佐地",
   "jp": "カミフダの悪用を目論む\n個人や組織から、\nその存在を護る事にある。",
-  "en": ""
+  "en": "to protect them from any individual or organization\nscheming to misuse them."
  },
  {
   "id": "ms00_01:042:07",
   "speaker": "いちる",
   "jp": "それって、つまり……",
-  "en": ""
+  "en": "So, that means..."
  },
  {
   "id": "ms00_01:042:08",
   "speaker": "いちる",
   "jp": "カミフダだけでなく、\n悪者とも戦う……ってコト！？",
-  "en": ""
+  "en": "Not just the ORDS... we fight bad guys too!?"
  },
  {
   "id": "ms00_01:042:09",
   "speaker": "伊佐地",
   "jp": "……お前たちには\n封札師としての戦い―――",
-  "en": ""
+  "en": "...You're going to learn how a Card Sealer fights--"
  },
  {
   "id": "ms00_01:042:10",
   "speaker": "伊佐地",
   "jp": "つまり《{ruby:秘法眼|ひほうがん}》が可能とする\nカミフダを使用した戦い方を\n学んでもらう。",
-  "en": ""
+  "en": "In other words, the way of fighting with ORDS that\nthe Arcane Eye makes possible."
  },
  {
   "id": "ms00_01:042:11",
   "speaker": "伊佐地",
   "jp": "俺はモニターで\nお前たちの様子を見ながら\nここでサポートする。",
-  "en": ""
+  "en": "I'll be here, watching you on the monitor and giving\nsupport."
  },
  {
   "id": "ms00_01:042:12",
   "speaker": "伊佐地",
   "jp": "そうだ、\nこの班の指揮権だが―――",
-  "en": ""
+  "en": "Right, as for command of this team--"
  },
  {
   "id": "ms00_01:043:00",
   "speaker": "伊佐地",
   "jp": "{px}、お前に預ける。\nいいな？",
-  "en": ""
+  "en": "{px}, I'm leaving it to you. Got it?"
  },
  {
   "id": "ms00_01:044:00",
   "speaker": "伊佐地",
   "jp": "あのなあ……。\nくだらん冗談言ってる場合か。",
-  "en": ""
+  "en": "Listen... Is this really the time for stupid jokes?"
  },
  {
   "id": "ms00_01:044:01",
   "speaker": "伊佐地",
   "jp": "資料を見る限り、この中では\nお前が適任だという話だ。",
-  "en": ""
+  "en": "Going by the files, you're the best fit for it out of\nthis bunch."
  },
  {
   "id": "ms00_01:045:00",
   "speaker": "伊佐地",
   "jp": "なんだ、そんなに嬉しいのか？",
-  "en": ""
+  "en": "What, you're that happy about it?"
  },
  {
   "id": "ms00_01:045:01",
   "speaker": "伊佐地",
   "jp": "まァ、気負わずやってこい。\nこの中ではお前が適任だ。\n俺が保証する。",
-  "en": ""
+  "en": "Well, don't get too worked up. You're the right one\nfor it here. I guarantee it."
  },
  {
   "id": "ms00_01:046:00",
   "speaker": "伊佐地",
   "jp": "はは、いい返事だ。",
-  "en": ""
+  "en": "Ha ha, that's the spirit."
  },
  {
   "id": "ms00_01:046:01",
   "speaker": "伊佐地",
   "jp": "まァ、気負わずやってこい。\nこの中ではお前が適任だ。\n俺が保証する。",
-  "en": ""
+  "en": "Well, don't get too worked up. You're the right one\nfor it here. I guarantee it."
  },
  {
   "id": "ms00_01:047:00",
   "speaker": "伊佐地",
   "jp": "よし。\n頼んだぞ。",
-  "en": ""
+  "en": "Good. I'm counting on you."
  },
  {
   "id": "ms00_01:048:00",
   "speaker": "伊佐地",
   "jp": "勘違いするなよ。\n何も面倒事を押しつけてる\n訳じゃない。",
-  "en": ""
+  "en": "Don't get the wrong idea. I'm not dumping some\nhassle on you."
  },
  {
   "id": "ms00_01:048:01",
   "speaker": "伊佐地",
   "jp": "お前の判断で\nやりたいようにやっていい。",
-  "en": ""
+  "en": "You're free to do things however you judge best."
  },
  {
   "id": "ms00_01:048:02",
   "speaker": "伊佐地",
   "jp": "ただし、必ず全員で\n最後までやり遂げろ。\n―――それだけだ。",
-  "en": ""
+  "en": "But all of you see it through to the end, together.\n--That's all."
  },
  {
   "id": "ms00_01:049:00",
   "speaker": "伊佐地",
   "jp": "ずいぶんはっきり\n言ってくれるな。",
-  "en": ""
+  "en": "You sure don't mince words."
  },
  {
   "id": "ms00_01:049:01",
   "speaker": "伊佐地",
   "jp": "だが、俺の見る限り、\nこの中ではお前が適任だ。",
-  "en": ""
+  "en": "But as far as I can see, you're the best fit for it\nhere."
  },
  {
   "id": "ms00_01:050:00",
   "speaker": "伊佐地",
   "jp": "なんだ、嫌なのか？",
-  "en": ""
+  "en": "What, you don't want to?"
  },
  {
   "id": "ms00_01:050:01",
   "speaker": "伊佐地",
   "jp": "気負わず、\n自信を持ってやればいい。",
-  "en": ""
+  "en": "Don't get worked up. Just go at it with confidence."
  },
  {
   "id": "ms00_01:050:02",
   "speaker": "伊佐地",
   "jp": "この中ではお前が適任だ。\n俺が保証する。",
-  "en": ""
+  "en": "You're the right one for it here. I guarantee it."
  },
  {
   "id": "ms00_01:051:00",
   "speaker": "伊佐地",
   "jp": "そんな難しい顔してないで、\n自信を持ってやればいい。",
-  "en": ""
+  "en": "Quit making that grim face and have some\nconfidence."
  },
  {
   "id": "ms00_01:051:01",
   "speaker": "伊佐地",
   "jp": "この中ではお前が適任だ。\n俺が保証する。",
-  "en": ""
+  "en": "You're the right one for it here. I guarantee it."
  },
  {
   "id": "ms00_01:052:00",
   "speaker": "伊佐地",
   "jp": "その沈黙、\n同意と受け取っておくぞ。",
-  "en": ""
+  "en": "I'll take that silence as a yes."
  },
  {
   "id": "ms00_01:053:00",
   "speaker": "伊佐地",
   "jp": "誰か、異存はあるか？",
-  "en": ""
+  "en": "Anyone object?"
  },
  {
   "id": "ms00_01:053:01",
   "speaker": "いちる",
   "jp": "んー、あたしは賛成。\n{px}ならしっかり\n引っ張ってってくれそう。",
-  "en": ""
+  "en": "Hmm, I'm all for it. {px} seems like the type who'd\nlead us properly."
  },
  {
   "id": "ms00_01:053:02",
   "speaker": "いちる",
   "jp": "……あたし、\n方向オンチだし。",
-  "en": ""
+  "en": "...Besides, I've got no sense of direction."
  },
  {
   "id": "ms00_01:053:03",
   "speaker": "伊佐地",
   "jp": "{ruby:雉明|ちあき}はどうだ？",
-  "en": ""
+  "en": "Chiaki, what about you?"
  },
  {
   "id": "ms00_01:053:04",
   "speaker": "零",
   "jp": "おれは―――",
-  "en": ""
+  "en": "I--"
  },
  {
   "id": "ms00_01:053:05",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "ms00_01:054:00",
   "speaker": "零",
   "jp": "{pm}　{pn}。\nおれは、きみを、\n信じていいのか？",
-  "en": ""
+  "en": "{pn} {pm}. Can I... trust you?"
  },
  {
   "id": "ms00_01:055:00",
   "speaker": "零",
   "jp": "……そうか。",
-  "en": ""
+  "en": "...I see."
  },
  {
   "id": "ms00_01:055:01",
   "speaker": "零",
   "jp": "以前にも……\nそんな風に言ってくれた\nひとがいた。",
-  "en": ""
+  "en": "Once before... there was someone who said\nsomething like that to me."
  },
  {
   "id": "ms00_01:055:02",
   "speaker": "零",
   "jp": "わかった。\nきみを、信じよう。",
-  "en": ""
+  "en": "All right. I'll trust you."
  },
  {
   "id": "ms00_01:056:00",
   "speaker": "零",
   "jp": "……そうか。",
-  "en": ""
+  "en": "...I see."
  },
  {
   "id": "ms00_01:056:01",
   "speaker": "零",
   "jp": "きみの笑顔には……\n不思議な力が、ある。",
-  "en": ""
+  "en": "There's... a strange power in your smile."
  },
  {
   "id": "ms00_01:056:02",
   "speaker": "零",
   "jp": "わかった。\nきみを信じよう。",
-  "en": ""
+  "en": "All right. I'll trust you."
  },
  {
   "id": "ms00_01:057:00",
   "speaker": "零",
   "jp": "ふむ……。",
-  "en": ""
+  "en": "Hm..."
  },
  {
   "id": "ms00_01:057:01",
   "speaker": "零",
   "jp": "きみにそう言われると、\n信じるのが当たり前のような\n気がしてくるな。",
-  "en": ""
+  "en": "When you put it like that, I start to feel that trusting\nyou is only natural."
  },
  {
   "id": "ms00_01:058:00",
   "speaker": "零",
   "jp": "そうか……よかった。",
-  "en": ""
+  "en": "I see... Good."
  },
  {
   "id": "ms00_01:059:00",
   "speaker": "零",
   "jp": "それは……\n自分に自信が無いからか？",
-  "en": ""
+  "en": "Is that... because you have no confidence in\nyourself?"
  },
  {
   "id": "ms00_01:060:00",
   "speaker": "零",
   "jp": "そうか……。",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "ms00_01:060:01",
   "speaker": "零",
   "jp": "それは……困ったな。",
-  "en": ""
+  "en": "That's... a problem."
  },
  {
   "id": "ms00_01:061:00",
@@ -1418,124 +1418,124 @@
  {
   "id": "ms00_01:061:01",
   "jp": "それは{ruby:謙遜|けんそん}、なのか？\nそれとも、自信が無いからか？",
-  "en": ""
+  "en": "Is that modesty? Or is it that you have no\nconfidence?"
  },
  {
   "id": "ms00_01:061:02",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "ms00_01:062:00",
   "speaker": "零",
   "jp": "迷惑……なのか？",
-  "en": ""
+  "en": "Is it... a bother?"
  },
  {
   "id": "ms00_01:062:01",
   "speaker": "零",
   "jp": "それは……困ったな。",
-  "en": ""
+  "en": "That's... a problem."
  },
  {
   "id": "ms00_01:063:00",
   "speaker": "零",
   "jp": "嫌……なのか？",
-  "en": ""
+  "en": "You don't... want me to?"
  },
  {
   "id": "ms00_01:064:00",
   "speaker": "いちる",
   "jp": "う～んと……\nじゃあ、勝手に信じちゃえば\nいいんじゃないかな。",
-  "en": ""
+  "en": "Ummm... Then why not just go ahead and trust\nanyway?"
  },
  {
   "id": "ms00_01:064:01",
   "speaker": "零",
   "jp": "え……？",
-  "en": ""
+  "en": "Huh...?"
  },
  {
   "id": "ms00_01:064:02",
   "speaker": "いちる",
   "jp": "勿論、{ruby:雉明|ちあき}クンが\nそうしたいなら、だけど。",
-  "en": ""
+  "en": "Only if you want to, Chiaki-kun, of course."
  },
  {
   "id": "ms00_01:064:03",
   "speaker": "いちる",
   "jp": "あたしたちはまだ\n出会ったばっかりだし、",
-  "en": ""
+  "en": "We only just met,"
  },
  {
   "id": "ms00_01:064:04",
   "speaker": "いちる",
   "jp": "まずは丸ごと信じてみなきゃ、\n何もわからないんじゃ\nないかなって。",
-  "en": ""
+  "en": "so unless we try trusting each other all the way\nfirst, we won't figure out anything, y'know?"
  },
  {
   "id": "ms00_01:064:05",
   "speaker": "いちる",
   "jp": "ちょっとお気楽かもだけど。",
-  "en": ""
+  "en": "Maybe that's a little too easygoing, though."
  },
  {
   "id": "ms00_01:064:06",
   "speaker": "零",
   "jp": "……なるほど。\nではおれも、\nそうしてみることにしよう。",
-  "en": ""
+  "en": "...I see. Then I'll try doing the same."
  },
  {
   "id": "ms00_01:065:00",
   "speaker": "伊佐地",
   "jp": "よし、決まりだな。",
-  "en": ""
+  "en": "All right, that settles it."
  },
  {
   "id": "ms00_01:065:01",
   "speaker": "伊佐地",
   "jp": "以降は{px}を先頭に\n陣形を組んで行動しろ。",
-  "en": ""
+  "en": "From here on, move in formation with {px} in the\nlead."
  },
  {
   "id": "ms00_01:065:02",
   "speaker": "伊佐地",
   "jp": "それではこれより\n封札師認定試験を\n開始する―――",
-  "en": ""
+  "en": "We will now begin the Card Sealer certification\nexam--"
  },
  {
   "id": "ms00_01:065:03",
   "speaker": "伊佐地",
   "jp": "―――探査開始、健闘を祈る。",
-  "en": ""
+  "en": "--Exploration begins. Good luck."
  },
  {
   "id": "ms00_01:ksf:06cbf",
   "kind": "choice",
   "jp": "アンケートを覚えている",
   "slot": 30,
-  "en": ""
+  "en": "Remember the survey"
  },
  {
   "id": "ms00_01:ksf:06cde",
   "kind": "choice",
   "jp": "アンケートを覚えていない",
   "slot": 30,
-  "en": ""
+  "en": "Don't remember the survey"
  },
  {
   "id": "ms00_01:ksf:0913b",
   "kind": "choice",
   "jp": "握手する",
   "slot": 30,
-  "en": ""
+  "en": "Shake hands"
  },
  {
   "id": "ms00_01:ksf:0915a",
   "kind": "choice",
   "jp": "握手しない",
   "slot": 30,
-  "en": ""
+  "en": "Don't shake hands"
  }
 ]

@@ -3,923 +3,923 @@
   "id": "dg00_03:000:00",
   "speaker": "いちる",
   "jp": "この部屋……。\n何だか空気が違うね。",
-  "en": ""
+  "en": "This room... The air feels different, huh."
  },
  {
   "id": "dg00_03:000:01",
   "speaker": "いちる",
   "jp": "あ、何アレ！？",
-  "en": ""
+  "en": "Oh, what's that!?"
  },
  {
   "id": "dg00_03:000:02",
   "speaker": "伊佐地",
   "jp": "三人とも、\nよく無事にたどり着いたな。",
-  "en": ""
+  "en": "You made it here safely, all three of you."
  },
  {
   "id": "dg00_03:000:03",
   "speaker": "伊佐地",
   "jp": "ここまで来れたという事は、\n{ruby:封札師|ふうさつし}として{ruby:身体面|しんたいめん}においては\n概ね合格だ。",
-  "en": ""
+  "en": "Getting this far means you've more or less passed\nthe physical side of being a Card Sealer."
  },
  {
   "id": "dg00_03:000:04",
   "speaker": "伊佐地",
   "jp": "これから問われるのは\n精神―――心の強さだ。",
-  "en": ""
+  "en": "What's being tested now is your spirit-- the strength\nof your heart."
  },
  {
   "id": "dg00_03:000:05",
   "speaker": "いちる",
   "jp": "こころ……？",
-  "en": ""
+  "en": "Our hearts...?"
  },
  {
   "id": "dg00_03:000:06",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "dg00_03:000:07",
   "speaker": "伊佐地",
   "jp": "それは《{ruby:隠者|いんじゃ}の杖》という。",
-  "en": ""
+  "en": "That's called the Hermit's Staff."
  },
  {
   "id": "dg00_03:000:08",
   "speaker": "伊佐地",
   "jp": "古来より、人にカミフダを\n{ruby:使役|しえき}する《力》を\n与えてきた遺物だ。",
-  "en": ""
+  "en": "It's a relic that since ancient times has given people\nthe Power to command ORDS."
  },
  {
   "id": "dg00_03:000:09",
   "speaker": "伊佐地",
   "jp": "カミフダに秘められた様々な\n超常の《力》を己が物として、\n自在に操る……。",
-  "en": ""
+  "en": "To take the many supernatural Powers sealed within\nORDS as your own and wield them at will..."
  },
  {
   "id": "dg00_03:000:10",
   "speaker": "伊佐地",
   "jp": "極普通に生きる人々にとっては\nその存在すら関知出来ない、\n人智を超えた特別な《力》だ。",
-  "en": ""
+  "en": "It's a special Power beyond human understanding.\nOrdinary people can't even perceive that it exists."
  },
  {
   "id": "dg00_03:000:11",
   "speaker": "伊佐地",
   "jp": "お前たちには、その《力》を\n手に入れる資格がある。\nだがな―――",
-  "en": ""
+  "en": "You three have the right to obtain that Power. But--"
  },
  {
   "id": "dg00_03:000:12",
   "speaker": "伊佐地",
   "jp": "それを手に入れるという事は\n同時に義務と責任を\n負うという事でもある。",
-  "en": ""
+  "en": "obtaining it also means taking on duty and\nresponsibility."
  },
  {
   "id": "dg00_03:001:00",
   "speaker": "伊佐地",
   "jp": "……俺の言っている\n意味がわかるか？",
-  "en": ""
+  "en": "...Do you understand what I'm saying?"
  },
  {
   "id": "dg00_03:002:00",
   "speaker": "伊佐地",
   "jp": "まったく、{ruby:器|うつわ}がでかいのか\nそれとも単なる\n考え無しか……。",
-  "en": ""
+  "en": "Honestly, either you've got a big heart, or you just\ndon't think things through..."
  },
  {
   "id": "dg00_03:002:01",
   "speaker": "伊佐地",
   "jp": "だが、どうやら大切な事は\nちゃんとわかってるようだな。",
-  "en": ""
+  "en": "But it seems you do understand what matters."
  },
  {
   "id": "dg00_03:003:00",
   "speaker": "伊佐地",
   "jp": "お前な……\n本当にわかってるのか？",
-  "en": ""
+  "en": "You... Do you really understand?"
  },
  {
   "id": "dg00_03:003:01",
   "speaker": "伊佐地",
   "jp": "まったく、\n{ruby:器|うつわ}がでかいのか、それとも\n単なる考え無しか……。",
-  "en": ""
+  "en": "Honestly, either you've got a big heart, or you just\ndon't think things through..."
  },
  {
   "id": "dg00_03:004:00",
   "speaker": "伊佐地",
   "jp": "わかったからそう\nでかい声を出すな、まったく。",
-  "en": ""
+  "en": "All right, I get it, so don't shout like that. Honestly."
  },
  {
   "id": "dg00_03:004:01",
   "speaker": "伊佐地",
   "jp": "だが、どうやら大切な事は\nちゃんと理解出来ている\nようだな。",
-  "en": ""
+  "en": "But it seems you do properly grasp what matters."
  },
  {
   "id": "dg00_03:005:00",
   "speaker": "伊佐地",
   "jp": "……そうか。\nお前ならそう言うんじゃ\nないかと思っていたよ。",
-  "en": ""
+  "en": "...I see. I figured you'd say something like that."
  },
  {
   "id": "dg00_03:005:01",
   "speaker": "伊佐地",
   "jp": "どうやら大切な事は\nちゃんとわかってるようだな。",
-  "en": ""
+  "en": "Seems you do understand what matters."
  },
  {
   "id": "dg00_03:006:00",
   "speaker": "伊佐地",
   "jp": "……そうだな。\n確かに一方的だと\n思うかもしれん。",
-  "en": ""
+  "en": "...Fair enough. I suppose it might seem one-sided."
  },
  {
   "id": "dg00_03:006:01",
   "speaker": "伊佐地",
   "jp": "だが、言ったはずだ。\nそれでもこれは、\nお前たちにしか務まらないと。",
-  "en": ""
+  "en": "But I told you. Even so, this is a job only you can\ndo."
  },
  {
   "id": "dg00_03:007:00",
   "speaker": "伊佐地",
   "jp": "……そうか。",
-  "en": ""
+  "en": "...I see."
  },
  {
   "id": "dg00_03:007:01",
   "speaker": "伊佐地",
   "jp": "だが、言ったはずだ。\nそれでもこれは、\nお前たちにしか務まらないと。",
-  "en": ""
+  "en": "But I told you. Even so, this is a job only you can\ndo."
  },
  {
   "id": "dg00_03:008:00",
   "speaker": "伊佐地",
   "jp": "そうか……。",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "dg00_03:008:01",
   "speaker": "伊佐地",
   "jp": "だが、言ったはずだ。\nそれでもこれは、\nお前たちにしか務まらないと。",
-  "en": ""
+  "en": "But I told you. Even so, this is a job only you can\ndo."
  },
  {
   "id": "dg00_03:009:00",
   "speaker": "伊佐地",
   "jp": "……無理もないか。",
-  "en": ""
+  "en": "...Can't blame you, I guess."
  },
  {
   "id": "dg00_03:009:01",
   "speaker": "伊佐地",
   "jp": "だが、言ったはずだ。\nそれでもこれは、\nお前たちにしか務まらないと。",
-  "en": ""
+  "en": "But I told you. Even so, this is a job only you can\ndo."
  },
  {
   "id": "dg00_03:010:00",
   "speaker": "伊佐地",
   "jp": "……無理もないか。",
-  "en": ""
+  "en": "...Can't blame you, I guess."
  },
  {
   "id": "dg00_03:011:00",
   "speaker": "伊佐地",
   "jp": "《力》を持つ者には、\nそれを正しく扱う義務がある。",
-  "en": ""
+  "en": "Those with Power have a duty to use it properly."
  },
  {
   "id": "dg00_03:011:01",
   "speaker": "伊佐地",
   "jp": "そして、その力を使う事で\n生じる事態に対する責任がな。",
-  "en": ""
+  "en": "And a responsibility for whatever comes of using\nthat power."
  },
  {
   "id": "dg00_03:011:02",
   "speaker": "零",
   "jp": "結局のところ、\nそれは{ruby:ＯＸＡＳ|オ　ク　サ　ス}という組織に\n従えということじゃないのか？",
-  "en": ""
+  "en": "In the end, isn't that just telling us to obey the\norganization called OXAS?"
  },
  {
   "id": "dg00_03:011:03",
   "speaker": "伊佐地",
   "jp": "……そうだな。\nだが俺の言っている事の本質は\nそんなものじゃあない。",
-  "en": ""
+  "en": "...Maybe so. But that's not the heart of what I'm\nsaying."
  },
  {
   "id": "dg00_03:012:00",
   "speaker": "いちる",
   "jp": "えっと……",
-  "en": ""
+  "en": "Um..."
  },
  {
   "id": "dg00_03:012:01",
   "speaker": "いちる",
   "jp": "せっかく《力》があるんだから\nそれを使って\n出来るコトをする……。",
-  "en": ""
+  "en": "Since we've got this Power, we use it to do what\nwe can..."
  },
  {
   "id": "dg00_03:012:02",
   "speaker": "いちる",
   "jp": "つまり、その《力》を、\nちゃんと良いコトに\n使えばいいんだよね？",
-  "en": ""
+  "en": "So basically, we just have to use that Power for\ngood stuff, right?"
  },
  {
   "id": "dg00_03:012:03",
   "speaker": "伊佐地",
   "jp": "ふッ……そうだな。\n簡単に言えばそういう事だ。",
-  "en": ""
+  "en": "Heh... Yeah. Put simply, that's it."
  },
  {
   "id": "dg00_03:012:04",
   "speaker": "伊佐地",
   "jp": "お前たちなら\n大丈夫だろう。\n俺は、そう信じている。",
-  "en": ""
+  "en": "You three will be fine. I believe that."
  },
  {
   "id": "dg00_03:012:05",
   "speaker": "零",
   "jp": "……その《力》を\n手に入れるには\nどうすればいい？",
-  "en": ""
+  "en": "...What must we do to obtain that Power?"
  },
  {
   "id": "dg00_03:012:06",
   "speaker": "伊佐地",
   "jp": "やり方は簡単だ。\nその杖で{ruby:利|き}き手の甲を貫け。",
-  "en": ""
+  "en": "It's simple. Pierce the back of your dominant hand\nwith that staff."
  },
  {
   "id": "dg00_03:012:07",
   "speaker": "いちる",
   "jp": "―――えッ！？",
-  "en": ""
+  "en": "--Huh!?"
  },
  {
   "id": "dg00_03:012:08",
   "speaker": "いちる",
   "jp": "貫くって……\nこれ……手に、刺すの！？",
-  "en": ""
+  "en": "P-Pierce...? You mean... stab this into our hands!?"
  },
  {
   "id": "dg00_03:012:09",
   "speaker": "伊佐地",
   "jp": "その杖の刃は金属とは違って\n肉や骨を断つ{ruby:類|たぐい}の物じゃない。",
-  "en": ""
+  "en": "That staff's blade isn't like metal. It's not the kind of\nthing that cuts flesh or bone."
  },
  {
   "id": "dg00_03:012:10",
   "speaker": "伊佐地",
   "jp": "お前たちが想像してるような\n痛みは伴わん。\nだがまあ―――",
-  "en": ""
+  "en": "It won't hurt like you're imagining. But, well--"
  },
  {
   "id": "dg00_03:012:11",
   "speaker": "伊佐地",
   "jp": "怖いというなら、\n仕方ないが。",
-  "en": ""
+  "en": "if you're scared, there's nothing to be done."
  },
  {
   "id": "dg00_03:012:12",
   "speaker": "いちる",
   "jp": "こ、怖くなんかないってば！！",
-  "en": ""
+  "en": "I-I'm not scared, okay!?"
  },
  {
   "id": "dg00_03:012:13",
   "speaker": "いちる",
   "jp": "それに、ここまで……\nみんなで、頑張って\nきたんだから……。",
-  "en": ""
+  "en": "Besides, we've all... worked so hard to get this far,\nso..."
  },
  {
   "id": "dg00_03:012:14",
   "speaker": "いちる",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "dg00_03:012:15",
   "speaker": "零",
   "jp": "おれが、やろう。",
-  "en": ""
+  "en": "I'll do it."
  },
  {
   "id": "dg00_03:012:16",
   "speaker": "いちる",
   "jp": "{ruby:雉明|ちあき}クン……？",
-  "en": ""
+  "en": "Chiaki-kun...?"
  },
  {
   "id": "dg00_03:013:00",
   "speaker": "零",
   "jp": "おれの様を見て決めればいい。\nその方が二人とも\nやりやすいだろう。",
-  "en": ""
+  "en": "Watch how it goes for me, then decide. That should\nmake it easier for both of you."
  },
  {
   "id": "dg00_03:014:00",
   "speaker": "零",
   "jp": "いや……この場合は\nこうするのが最も合理的だと\n判断しただけだ。",
-  "en": ""
+  "en": "No... I simply judged this to be the most rational\ncourse here."
  },
  {
   "id": "dg00_03:015:00",
   "speaker": "零",
   "jp": "そうだな。\nおれが試してみるというのが\n現状では最も合理的だ。",
-  "en": ""
+  "en": "Right. As things stand, having me try it first is the\nmost rational course."
  },
  {
   "id": "dg00_03:015:01",
   "speaker": "零",
   "jp": "それならすぐに\n始めるとしよう。",
-  "en": ""
+  "en": "Then let's begin right away."
  },
  {
   "id": "dg00_03:016:00",
   "speaker": "零",
   "jp": "応援……されているのか？",
-  "en": ""
+  "en": "Am I... being cheered on?"
  },
  {
   "id": "dg00_03:016:01",
   "speaker": "零",
   "jp": "それならすぐに\n始めるとしよう。",
-  "en": ""
+  "en": "Then let's begin right away."
  },
  {
   "id": "dg00_03:017:00",
   "speaker": "零",
   "jp": "ああ。\nおれが試してみるというのが\n現状では最も合理的だ。",
-  "en": ""
+  "en": "Yes. As things stand, having me try it first is the\nmost rational course."
  },
  {
   "id": "dg00_03:018:00",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "dg00_03:018:01",
   "speaker": "零",
   "jp": "すまない。\n侮辱……したつもりは、ない。",
-  "en": ""
+  "en": "I'm sorry. I didn't mean... to insult you."
  },
  {
   "id": "dg00_03:019:00",
   "speaker": "零",
   "jp": "そうか……。",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "dg00_03:019:01",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "dg00_03:020:00",
   "speaker": "零",
   "jp": "きみは……\n何故、そんな顔をする？",
-  "en": ""
+  "en": "Why... are you making that face?"
  },
  {
   "id": "dg00_03:020:01",
   "speaker": "零",
   "jp": "この場合はこうするのが\n最も合理的だが……。",
-  "en": ""
+  "en": "Doing it this way is the most rational course here,\nbut..."
  },
  {
   "id": "dg00_03:021:00",
   "speaker": "零",
   "jp": "きみを困らせるようなことを\n言ったつもりは\nなかったんだが……。",
-  "en": ""
+  "en": "I didn't think I'd said anything to trouble you..."
  },
  {
   "id": "dg00_03:021:01",
   "speaker": "零",
   "jp": "この場合はこうするのが\n最も合理的だ。",
-  "en": ""
+  "en": "Doing it this way is the most rational course here."
  },
  {
   "id": "dg00_03:022:00",
   "speaker": "零",
   "jp": "特に反論がないなら、\n勝手にやらせてもらうが……。",
-  "en": ""
+  "en": "If you have no particular objection, I'll go ahead..."
  },
  {
   "id": "dg00_03:023:00",
   "speaker": "いちる",
   "jp": "ちょ、ちょっと待ってよ！！",
-  "en": ""
+  "en": "W-Wait a sec!!"
  },
  {
   "id": "dg00_03:023:01",
   "speaker": "いちる",
   "jp": "{ruby:雉明|ちあき}クン一人にやらせるなんて\nなんか……違うと思う。",
-  "en": ""
+  "en": "Making Chiaki-kun do it all by himself... just feels\nwrong."
  },
  {
   "id": "dg00_03:023:02",
   "speaker": "いちる",
   "jp": "誰かがやって平気そうだから\nやるとか、やめるとか、\nそういうコトじゃないでしょ？",
-  "en": ""
+  "en": "It's not about doing it or not depending on whether\nsomeone else came out okay, right?"
  },
  {
   "id": "dg00_03:024:00",
   "speaker": "いちる",
   "jp": "あたしも{px}に賛成。",
-  "en": ""
+  "en": "I'm with {px}, too."
  },
  {
   "id": "dg00_03:024:01",
   "speaker": "いちる",
   "jp": "{ruby:雉明|ちあき}クン一人にやらせるなんて\nなんか違うと思う。",
-  "en": ""
+  "en": "Making Chiaki-kun do it all by himself just feels\nwrong."
  },
  {
   "id": "dg00_03:024:02",
   "speaker": "いちる",
   "jp": "それに、誰かがやってみて\n平気そうだからやるとか、\nそういうコトじゃないよ。",
-  "en": ""
+  "en": "Besides, it's not like we should only do it because\nsomeone else tried it and came out okay."
  },
  {
   "id": "dg00_03:025:00",
   "speaker": "零",
   "jp": "そうか……。\nでは、どうする？",
-  "en": ""
+  "en": "I see... Then what will we do?"
  },
  {
   "id": "dg00_03:025:01",
   "speaker": "いちる",
   "jp": "それは、その……\nえーっと……",
-  "en": ""
+  "en": "Well, um... Ummm..."
  },
  {
   "id": "dg00_03:025:02",
   "speaker": "いちる",
   "jp": "みんなで一緒にやる……\nってのはダメかな。",
-  "en": ""
+  "en": "What if we all... did it together? Would that be bad?"
  },
  {
   "id": "dg00_03:025:03",
   "speaker": "いちる",
   "jp": "手を重ねて\n一気に―――えいッて。",
-  "en": ""
+  "en": "We stack our hands and go all at once-- hyah!"
  },
  {
   "id": "dg00_03:026:00",
   "speaker": "いちる",
   "jp": "大丈夫、ちゃんとあたしが\n一番上になるから！\nそれならオッケーだよね？",
-  "en": ""
+  "en": "Don't worry, I'll make sure my hand's on top! Then\nit's okay, right?"
  },
  {
   "id": "dg00_03:027:00",
   "speaker": "いちる",
   "jp": "え……？",
-  "en": ""
+  "en": "Huh...?"
  },
  {
   "id": "dg00_03:027:01",
   "speaker": "いちる",
   "jp": "ち、違うよ、\nそんなんじゃなくて……。",
-  "en": ""
+  "en": "N-No, it's not like that..."
  },
  {
   "id": "dg00_03:027:02",
   "speaker": "いちる",
   "jp": "うーん……。\nこういうの、何て言えば\nいいのかなあ。",
-  "en": ""
+  "en": "Hmmm... How do I put this kinda thing?"
  },
  {
   "id": "dg00_03:028:00",
   "speaker": "いちる",
   "jp": "うんッ、任せて！！",
-  "en": ""
+  "en": "Yeah, leave it to me!!"
  },
  {
   "id": "dg00_03:029:00",
   "speaker": "いちる",
   "jp": "えへへ、\n{px}にそう言われたら\nますます燃えてきたッ。",
-  "en": ""
+  "en": "Ehehe, hearing that from you, {px}, gets me even\nmore fired up!"
  },
  {
   "id": "dg00_03:029:01",
   "speaker": "いちる",
   "jp": "任せといてッ！！",
-  "en": ""
+  "en": "Leave it to me!!"
  },
  {
   "id": "dg00_03:030:00",
   "speaker": "いちる",
   "jp": "うんッ、任せて！！",
-  "en": ""
+  "en": "Yeah, leave it to me!!"
  },
  {
   "id": "dg00_03:031:00",
   "speaker": "いちる",
   "jp": "え……？",
-  "en": ""
+  "en": "Huh...?"
  },
  {
   "id": "dg00_03:031:01",
   "speaker": "いちる",
   "jp": "あ……えっと、その……",
-  "en": ""
+  "en": "Oh... um, well..."
  },
  {
   "id": "dg00_03:031:02",
   "speaker": "いちる",
   "jp": "……ごめん。",
-  "en": ""
+  "en": "...Sorry."
  },
  {
   "id": "dg00_03:032:00",
   "speaker": "いちる",
   "jp": "ダメかな……。",
-  "en": ""
+  "en": "No good, huh..."
  },
  {
   "id": "dg00_03:032:01",
   "speaker": "いちる",
   "jp": "いい考えだと\n思ったんだけど……。",
-  "en": ""
+  "en": "I thought it was a good idea, though..."
  },
  {
   "id": "dg00_03:033:00",
   "speaker": "いちる",
   "jp": "もしかして……\n心配してくれてる、とか？",
-  "en": ""
+  "en": "Wait... are you maybe worried about me?"
  },
  {
   "id": "dg00_03:033:01",
   "speaker": "いちる",
   "jp": "あ……え、えっと……",
-  "en": ""
+  "en": "Oh... u-um..."
  },
  {
   "id": "dg00_03:033:02",
   "speaker": "いちる",
   "jp": "……ありがと。",
-  "en": ""
+  "en": "...Thanks."
  },
  {
   "id": "dg00_03:034:00",
   "speaker": "いちる",
   "jp": "そ、そんな顔しないでよ～。",
-  "en": ""
+  "en": "D-Don't make that face~"
  },
  {
   "id": "dg00_03:034:01",
   "speaker": "いちる",
   "jp": "あたしは\n大丈夫だからッ、ね？",
-  "en": ""
+  "en": "I'll be fine, okay?"
  },
  {
   "id": "dg00_03:035:00",
   "speaker": "いちる",
   "jp": "いい考えだと\n思ったんだけど……。",
-  "en": ""
+  "en": "I thought it was a good idea, though..."
  },
  {
   "id": "dg00_03:036:00",
   "speaker": "零",
   "jp": "本気なのか、武藤？",
-  "en": ""
+  "en": "Are you serious, Muto?"
  },
  {
   "id": "dg00_03:036:01",
   "speaker": "零",
   "jp": "何故、きみがそんな\n無理をする必要がある？",
-  "en": ""
+  "en": "Why should you need to push yourself like that?"
  },
  {
   "id": "dg00_03:036:02",
   "speaker": "いちる",
   "jp": "無理なんかしてないよ。\nだってあたし、\nいま、すっごく嬉しいんだ。",
-  "en": ""
+  "en": "I'm not pushing myself. 'Cause right now, I'm super\nhappy."
  },
  {
   "id": "dg00_03:036:03",
   "speaker": "零",
   "jp": "嬉しい……？",
-  "en": ""
+  "en": "Happy...?"
  },
  {
   "id": "dg00_03:036:04",
   "speaker": "いちる",
   "jp": "うん……あたし、ね。\nいままでその……\nあんまり友達とかいなくて。",
-  "en": ""
+  "en": "Yeah... See, I... Up till now, I, um... never really had\nmany friends."
  },
  {
   "id": "dg00_03:036:05",
   "speaker": "いちる",
   "jp": "変なものが見えるコトなんて\n黙ってればよかったんだよね。",
-  "en": ""
+  "en": "I should've just kept quiet about seeing weird stuff."
  },
  {
   "id": "dg00_03:036:06",
   "speaker": "いちる",
   "jp": "でもみんなにも知って欲しくて\nつい余計なコトばっか\n言っちゃって……。",
-  "en": ""
+  "en": "But I wanted everyone to know about it too, so I\nkept blurting out stuff I shouldn't have..."
  },
  {
   "id": "dg00_03:036:07",
   "speaker": "いちる",
   "jp": "……ウソなんかじゃ\nなかったんだけどな。",
-  "en": ""
+  "en": "...Even though I wasn't lying at all."
  },
  {
   "id": "dg00_03:036:08",
   "speaker": "いちる",
   "jp": "でも、この眼があるコトで\nこれからは誰かの役に立てる。",
-  "en": ""
+  "en": "But having this Eye means that from now on, I can\nbe useful to someone."
  },
  {
   "id": "dg00_03:036:09",
   "speaker": "いちる",
   "jp": "それに、いまはもう\n一人じゃないから。",
-  "en": ""
+  "en": "Besides, I'm not alone anymore."
  },
  {
   "id": "dg00_03:036:10",
   "speaker": "いちる",
   "jp": "二人と一緒なら、\nあたしは何だって平気。",
-  "en": ""
+  "en": "As long as I'm with you two, I can handle anything."
  },
  {
   "id": "dg00_03:036:11",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "dg00_03:036:12",
   "speaker": "零",
   "jp": "{px}、武藤。\n二人とも手を貸せ。",
-  "en": ""
+  "en": "{px}, Muto. Both of you, give me your hands."
  },
  {
   "id": "dg00_03:036:13",
   "speaker": "いちる",
   "jp": "―――え？",
-  "en": ""
+  "en": "--Huh?"
  },
  {
   "id": "dg00_03:036:14",
   "speaker": "零",
   "jp": "これでいい。",
-  "en": ""
+  "en": "That will do."
  },
  {
   "id": "dg00_03:036:15",
   "speaker": "いちる",
   "jp": "ちょ、待ってよ！\nあたしは―――",
-  "en": ""
+  "en": "W-Wait a sec! I'm supposed to--"
  },
  {
   "id": "dg00_03:036:16",
   "speaker": "零",
   "jp": "おれなら{ruby:問題はない|・・・・・}。",
-  "en": ""
+  "en": "For me, it poses no problem."
  },
  {
   "id": "dg00_03:036:17",
   "speaker": "いちる",
   "jp": "え……？",
-  "en": ""
+  "en": "Huh...?"
  },
  {
   "id": "dg00_03:036:18",
   "speaker": "零",
   "jp": "―――行くぞ。",
-  "en": ""
+  "en": "--Here goes."
  },
  {
   "id": "dg00_03:036:19",
   "speaker": "いちる",
   "jp": "あ、え、えーっと―――",
-  "en": ""
+  "en": "Oh, uh, u-ummm--"
  },
  {
   "id": "dg00_03:039:00",
   "speaker": "いちる",
   "jp": "えッ！？\nわ……わわわッ！！",
-  "en": ""
+  "en": "Huh!? Wh... whoa whoa whoa!!"
  },
  {
   "id": "dg00_03:039:01",
   "speaker": "いちる",
   "jp": "もう、{px}ってば、\n危うく刺さるとこだったよ～。",
-  "en": ""
+  "en": "Geez, {px}, that almost stabbed me~"
  },
  {
   "id": "dg00_03:039:02",
   "speaker": "零",
   "jp": "どうした、{px}。\n何か気になることでも？",
-  "en": ""
+  "en": "What's wrong, {px}? Is something bothering you?"
  },
  {
   "id": "dg00_03:040:00",
   "speaker": "零",
   "jp": "それは……。",
-  "en": ""
+  "en": "That's..."
  },
  {
   "id": "dg00_03:040:01",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "dg00_03:040:02",
   "speaker": "零",
   "jp": "わかった。\nきみがそこまで言うのなら、\n譲ろう。",
-  "en": ""
+  "en": "All right. If you insist that much, I'll yield."
  },
  {
   "id": "dg00_03:040:03",
   "speaker": "いちる",
   "jp": "{px}だけずるいよ～！\nあたしだって上がいいのにッ。",
-  "en": ""
+  "en": "No fair, {px}~! I wanted to be on top too!"
  },
  {
   "id": "dg00_03:040:04",
   "speaker": "零",
   "jp": "武藤は、そこで。",
-  "en": ""
+  "en": "Muto, you go there."
  },
  {
   "id": "dg00_03:040:05",
   "speaker": "いちる",
   "jp": "ちェ～。",
-  "en": ""
+  "en": "Hmph~"
  },
  {
   "id": "dg00_03:040:06",
   "speaker": "いちる",
   "jp": "じゃ、改めて……。",
-  "en": ""
+  "en": "Okay, once more..."
  },
  {
   "id": "dg00_03:040:07",
   "speaker": "いちる",
   "jp": "せーのッ―――",
-  "en": ""
+  "en": "Ready, set--"
  },
  {
   "id": "dg00_03:041:00",
   "speaker": "零",
   "jp": "そうか……。",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "dg00_03:041:01",
   "speaker": "いちる",
   "jp": "あ、じゃああたしが一番上！？",
-  "en": ""
+  "en": "Oh, so then I'm on top!?"
  },
  {
   "id": "dg00_03:041:02",
   "speaker": "零",
   "jp": "武藤は、真ん中。",
-  "en": ""
+  "en": "Muto, you're in the middle."
  },
  {
   "id": "dg00_03:041:03",
   "speaker": "いちる",
   "jp": "ちェ～。",
-  "en": ""
+  "en": "Hmph~"
  },
  {
   "id": "dg00_03:041:04",
   "speaker": "いちる",
   "jp": "じゃ、改めて……。",
-  "en": ""
+  "en": "Okay, once more..."
  },
  {
   "id": "dg00_03:041:05",
   "speaker": "いちる",
   "jp": "せーのッ―――",
-  "en": ""
+  "en": "Ready, set--"
  },
  {
   "id": "dg00_03:042:00",
   "speaker": "零",
   "jp": "……ああ。\nそうしよう。",
-  "en": ""
+  "en": "...Yes. Let's do that."
  },
  {
   "id": "dg00_03:042:01",
   "speaker": "いちる",
   "jp": "わかるわかる！\nいまのちょっと、\n心の準備が足りなかったよね。",
-  "en": ""
+  "en": "I get it, I get it! We weren't quite ready for that one,\nhuh."
  },
  {
   "id": "dg00_03:042:02",
   "speaker": "いちる",
   "jp": "じゃ、改めて……。",
-  "en": ""
+  "en": "Okay, once more..."
  },
  {
   "id": "dg00_03:042:03",
   "speaker": "いちる",
   "jp": "せーのッ―――",
-  "en": ""
+  "en": "Ready, set--"
  },
  {
   "id": "dg00_03:043:00",
   "speaker": "いちる",
   "jp": "あッ……！！",
-  "en": ""
+  "en": "Ah...!!"
  },
  {
   "id": "dg00_03:043:01",
   "speaker": "零",
   "jp": "これは……",
-  "en": ""
+  "en": "This is..."
  },
  {
   "id": "dg00_03:043:02",
   "speaker": "零",
   "jp": "《{ruby:隠者|いんじゃ}の{ruby:刻印|こくいん}》……。\nこれが{ruby:封札師|ふうさつし}の証、か。",
-  "en": ""
+  "en": "The Hermit's Mark... So this is the proof of a Card\nSealer."
  },
  {
   "id": "dg00_03:043:03",
   "speaker": "いちる",
   "jp": "傷も{ruby:塞|ふさ}がってるし、\n全然痛くない……。",
-  "en": ""
+  "en": "The wound's closed up, and it doesn't hurt at all..."
  },
  {
   "id": "dg00_03:043:04",
   "speaker": "いちる",
   "jp": "なんだろう、{ruby:痣|あざ}っていうか\n{ruby:刺青|いれずみ}みたいっていうか……。",
-  "en": ""
+  "en": "What is this? It's kinda like a birthmark, or maybe a\ntattoo..."
  },
  {
   "id": "dg00_03:043:05",
   "speaker": "伊佐地",
   "jp": "その印こそが\n封札師の証―――",
-  "en": ""
+  "en": "That mark is the very proof of a Card Sealer--"
  },
  {
   "id": "dg00_03:043:06",
   "speaker": "伊佐地",
   "jp": "カミフダに記された情報を\n直接読み取り、最大限に活用\nする事の出来る《力》だ。",
-  "en": ""
+  "en": "A Power that lets you read the information written\nin ORDS directly and put it to full use."
  },
  {
   "id": "dg00_03:043:07",
   "speaker": "伊佐地",
   "jp": "以降は平時においても\n手甲に付属のグローブを\n着用するように。",
-  "en": ""
+  "en": "From now on, wear the glove that comes with the\ngauntlet, even in everyday life."
  },
  {
   "id": "dg00_03:043:08",
   "speaker": "伊佐地",
   "jp": "さあ、最後の仕上げだ。",
-  "en": ""
+  "en": "Now, for the finishing touch."
  },
  {
   "id": "dg00_03:043:09",
   "speaker": "伊佐地",
   "jp": "お前たちの\n封札師としての《力》……\n存分に使ってこい。",
-  "en": ""
+  "en": "Your Power as Card Sealers... Go use it for all it's\nworth."
  },
  {
   "id": "dg00_03:ksf:1585f",
   "kind": "choice",
   "jp": "杖を刺す",
   "slot": 30,
-  "en": ""
+  "en": "Pierce with the staff"
  },
  {
   "id": "dg00_03:ksf:1587e",
   "kind": "choice",
   "jp": "杖を刺さない",
   "slot": 30,
-  "en": ""
+  "en": "Don't pierce"
  },
  {
   "id": "dg00_03:ksf:16abb",
   "kind": "choice",
   "jp": "自分が一番上になる",
   "slot": 30,
-  "en": ""
+  "en": "I'll go on top"
  },
  {
   "id": "dg00_03:ksf:16ada",
   "kind": "choice",
   "jp": "自分が一番下になる",
   "slot": 30,
-  "en": ""
+  "en": "I'll go on the bottom"
  },
  {
   "id": "dg00_03:ksf:16af9",
   "kind": "choice",
   "jp": "もう一度やる",
   "slot": 30,
-  "en": ""
+  "en": "Try again"
  }
 ]

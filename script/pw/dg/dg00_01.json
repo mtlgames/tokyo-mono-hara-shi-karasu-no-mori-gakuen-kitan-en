@@ -3,570 +3,570 @@
   "id": "dg00_01:000:00",
   "speaker": "いちる",
   "jp": "おお～！\n何とか勝ったねッ。",
-  "en": ""
+  "en": "Whoa! We managed to win!"
  },
  {
   "id": "dg00_01:000:01",
   "speaker": "いちる",
   "jp": "すごいよ、{px}！\nさすがはリーダー！！",
-  "en": ""
+  "en": "That was amazing, {px}! Just what I'd expect from\nour leader!!"
  },
  {
   "id": "dg00_01:001:00",
   "speaker": "いちる",
   "jp": "え、えーっと……。",
-  "en": ""
+  "en": "U-Ummm..."
  },
  {
   "id": "dg00_01:001:01",
   "speaker": "いちる",
   "jp": "う、うん。\nまあ、確かにちょっと……\nカッコよかったかな。",
-  "en": ""
+  "en": "Y-Yeah. Well, I guess it was kinda... cool."
  },
  {
   "id": "dg00_01:002:00",
   "speaker": "いちる",
   "jp": "うんうん！\nホント、カッコよかったもん！",
-  "en": ""
+  "en": "Uh-huh! It was seriously cool!"
  },
  {
   "id": "dg00_01:003:00",
   "speaker": "いちる",
   "jp": "あははッ！\nすごい気合い入ってるね！",
-  "en": ""
+  "en": "Ahaha! You're totally fired up!"
  },
  {
   "id": "dg00_01:003:01",
   "speaker": "いちる",
   "jp": "うーん……。\nこれは負けてらんないなあ。",
-  "en": ""
+  "en": "Hmm... I can't afford to lose to you, huh."
  },
  {
   "id": "dg00_01:004:00",
   "speaker": "いちる",
   "jp": "うん！\nホント、頼れるリーダーって\n感じだったよ！",
-  "en": ""
+  "en": "Yeah! You seriously felt like a leader we can count\non!"
  },
  {
   "id": "dg00_01:005:00",
   "speaker": "いちる",
   "jp": "ええッ！？\nな、何で！？",
-  "en": ""
+  "en": "Whaaat!? H-How come!?"
  },
  {
   "id": "dg00_01:005:01",
   "speaker": "いちる",
   "jp": "あたしはその、\n頼れるリーダーって\n感じだと思うけど……。",
-  "en": ""
+  "en": "I mean, I think you're, like, a leader we can count\non..."
  },
  {
   "id": "dg00_01:006:00",
   "speaker": "いちる",
   "jp": "うわッ、冷静だ！",
-  "en": ""
+  "en": "Whoa, so calm!"
  },
  {
   "id": "dg00_01:006:01",
   "speaker": "いちる",
   "jp": "うーん……なんかホントに\n頼れるリーダー、\nって感じだなあ。",
-  "en": ""
+  "en": "Hmm... You really do seem like a leader we can\ncount on."
  },
  {
   "id": "dg00_01:007:00",
   "speaker": "いちる",
   "jp": "ええッ！？\nど、どうしたの！？",
-  "en": ""
+  "en": "Whaaat!? Wh-What's wrong!?"
  },
  {
   "id": "dg00_01:007:01",
   "speaker": "いちる",
   "jp": "あたしはその、\n頼れるリーダー、\nって感じだと思うけど……。",
-  "en": ""
+  "en": "I mean, I think you're, like, a leader we can count\non..."
  },
  {
   "id": "dg00_01:008:00",
   "speaker": "いちる",
   "jp": "またまた～、\n{ruby:謙遜|けんそん}しちゃって！",
-  "en": ""
+  "en": "Oh, come on~ Don't be so modest!"
  },
  {
   "id": "dg00_01:008:01",
   "speaker": "いちる",
   "jp": "ホント、頼れるリーダーって\n感じだったよ！",
-  "en": ""
+  "en": "You seriously felt like a leader we can count on!"
  },
  {
   "id": "dg00_01:009:00",
   "speaker": "いちる",
   "jp": "おーい！\n聞いてる？",
-  "en": ""
+  "en": "Heyyy! You listening?"
  },
  {
   "id": "dg00_01:009:01",
   "speaker": "いちる",
   "jp": "もう終わったから、\n大丈夫だよ？",
-  "en": ""
+  "en": "It's all over now, so you're okay, see?"
  },
  {
   "id": "dg00_01:010:00",
   "speaker": "いちる",
   "jp": "あ、ところで\nいまやっつけた変なの、\nあれって一体、何だったの？",
-  "en": ""
+  "en": "Oh, by the way, that weird thing we just beat...\nwhat the heck was it?"
  },
  {
   "id": "dg00_01:010:01",
   "speaker": "いちる",
   "jp": "もしかして、\nカミフダと関係ある……？",
-  "en": ""
+  "en": "Is it connected to the ORDS, maybe...?"
  },
  {
   "id": "dg00_01:010:02",
   "speaker": "零",
   "jp": "ああ。\nあれが―――《{ruby:隠人|お　に}》だ。",
-  "en": ""
+  "en": "Yes. That-- was an Oni."
  },
  {
   "id": "dg00_01:010:03",
   "speaker": "いちる",
   "jp": "おに……？",
-  "en": ""
+  "en": "An Oni...?"
  },
  {
   "id": "dg00_01:010:04",
   "speaker": "零",
   "jp": "カミフダから流出した情報が\n{ruby:有機体|ゆうきたい}と{ruby:融合|ゆうごう}し、新たな意志と\n生命を持つに至った{ruby:異形|いぎょう}。",
-  "en": ""
+  "en": "A monstrous being, born when information leaking\nfrom ORDS fuses with an organism and gains a new\nwill and life."
  },
  {
   "id": "dg00_01:010:05",
   "speaker": "零",
   "jp": "{ruby:隠人|お　に}は更なる情報を\n求め、取り込もうと行動する。",
-  "en": ""
+  "en": "Oni act to seek out and absorb more information."
  },
  {
   "id": "dg00_01:010:06",
   "speaker": "零",
   "jp": "その対象には当然、\n{ruby:膨大|ぼうだい}な情報量を有する\n人間も含まれている。",
-  "en": ""
+  "en": "Naturally, that includes humans, who hold vast\namounts of information."
  },
  {
   "id": "dg00_01:010:07",
   "speaker": "いちる",
   "jp": "つまり、\nカミフダを放っておくと\n{ruby:隠人|お　に}がどんどん増えて―――",
-  "en": ""
+  "en": "So if we leave the ORDS alone, more and more Oni\nshow up, and--"
  },
  {
   "id": "dg00_01:010:08",
   "speaker": "いちる",
   "jp": "人が\n食べられちゃうってコト！？",
-  "en": ""
+  "en": "people get eaten!?"
  },
  {
   "id": "dg00_01:010:09",
   "speaker": "零",
   "jp": "正確には、\n捕食されるというより、",
-  "en": ""
+  "en": "To be precise, rather than being devoured,"
  },
  {
   "id": "dg00_01:010:10",
   "speaker": "零",
   "jp": "融合し、新たな{ruby:隠人|お　に}となる\nと言うべきだろう。",
-  "en": ""
+  "en": "they fuse with it and become new Oni."
  },
  {
   "id": "dg00_01:010:11",
   "speaker": "零",
   "jp": "どちらにせよ、\n人類にとって脅威となる\nことに変わりはない。",
-  "en": ""
+  "en": "Either way, they remain a threat to humanity."
  },
  {
   "id": "dg00_01:010:12",
   "speaker": "{ruby:伊佐地|い　さ　ち}",
   "jp": "その通りだ。",
-  "en": ""
+  "en": "Exactly right."
  },
  {
   "id": "dg00_01:010:13",
   "speaker": "伊佐地",
   "jp": "……{ruby:雉明|ちあき}、\nお前は色々と詳しいようだが。\n誰から聞いた？",
-  "en": ""
+  "en": "...Chiaki, you seem to know a lot about all this. Who\ntold you?"
  },
  {
   "id": "dg00_01:010:14",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "dg00_01:010:15",
   "speaker": "零",
   "jp": "……ずっと昔に。",
-  "en": ""
+  "en": "...Long ago."
  },
  {
   "id": "dg00_01:010:16",
   "speaker": "伊佐地",
   "jp": "昔―――？",
-  "en": ""
+  "en": "Long ago--?"
  },
  {
   "id": "dg00_01:010:17",
   "speaker": "零",
   "jp": "かけがえのない存在、\n……だったひとから。",
-  "en": ""
+  "en": "From someone who was... irreplaceable to me."
  },
  {
   "id": "dg00_01:010:18",
   "speaker": "いちる",
   "jp": "それって―――",
-  "en": ""
+  "en": "You mean--"
  },
  {
   "id": "dg00_01:010:19",
   "speaker": "いちる",
   "jp": "あ、えっと……",
-  "en": ""
+  "en": "Oh, um..."
  },
  {
   "id": "dg00_01:010:20",
   "speaker": "いちる",
   "jp": "ごめん、やっぱいい。",
-  "en": ""
+  "en": "Sorry, never mind."
  },
  {
   "id": "dg00_01:010:21",
   "speaker": "零",
   "jp": "……武藤？",
-  "en": ""
+  "en": "...Muto?"
  },
  {
   "id": "dg00_01:010:22",
   "speaker": "いちる",
   "jp": "……あたし、ね、",
-  "en": ""
+  "en": "...See, I..."
  },
  {
   "id": "dg00_01:010:23",
   "speaker": "いちる",
   "jp": "{px}や{ruby:雉明|ちあき}クンと\n仲良くなりたい。",
-  "en": ""
+  "en": "I wanna be friends with {px} and Chiaki-kun."
  },
  {
   "id": "dg00_01:010:24",
   "speaker": "いちる",
   "jp": "だからもし、\n話したくないコトなら\n聞かない。",
-  "en": ""
+  "en": "So if it's something you don't want to talk about, I\nwon't ask."
  },
  {
   "id": "dg00_01:010:25",
   "speaker": "いちる",
   "jp": "いつかきっと……\nあたしのコト、\n信用してもいいって思えたら、",
-  "en": ""
+  "en": "Someday... when you feel like you can trust me,"
  },
  {
   "id": "dg00_01:010:26",
   "speaker": "いちる",
   "jp": "そのとき、話してくれるって\n信じてる。",
-  "en": ""
+  "en": "I believe you'll tell me then."
  },
  {
   "id": "dg00_01:010:27",
   "speaker": "いちる",
   "jp": "それに過去なんて知らなくても\nあたしは{ruby:雉明|ちあき}クンのコトも\n信じるって決めてるから！",
-  "en": ""
+  "en": "Besides, even without knowing your past, I've\nalready decided to trust you too, Chiaki-kun!"
  },
  {
   "id": "dg00_01:010:28",
   "speaker": "零",
   "jp": "信じる……？\nおれを……？",
-  "en": ""
+  "en": "Trust...? Me...?"
  },
  {
   "id": "dg00_01:010:29",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "dg00_01:011:00",
   "speaker": "零",
   "jp": "{px}も……\nそう、思うのか？\nおれを……信じると？",
-  "en": ""
+  "en": "{px}... Do you feel the same? That you... trust me?"
  },
  {
   "id": "dg00_01:012:00",
   "speaker": "零",
   "jp": "不思議だな……。\nこのおれが、そんなことを\n言われる日が来るとは。",
-  "en": ""
+  "en": "How strange... I never thought the day would come\nwhen someone would say that to me."
  },
  {
   "id": "dg00_01:012:01",
   "speaker": "零",
   "jp": "ありがとう、{px}。",
-  "en": ""
+  "en": "Thank you, {px}."
  },
  {
   "id": "dg00_01:012:02",
   "speaker": "零",
   "jp": "きみになら……\nいつか、話せることも\nあるかもしれない。",
-  "en": ""
+  "en": "With you... there may be things I can talk about,\nsomeday."
  },
  {
   "id": "dg00_01:012:03",
   "speaker": "零",
   "jp": "もちろん、武藤にも。",
-  "en": ""
+  "en": "With Muto too, of course."
  },
  {
   "id": "dg00_01:013:00",
   "speaker": "零",
   "jp": "そうか……。\nまさか、そんな風に\n言われるとはな。",
-  "en": ""
+  "en": "I see... I never expected to hear that."
  },
  {
   "id": "dg00_01:013:01",
   "speaker": "零",
   "jp": "きみになら……\nいつか、話せることも\nあるかもしれない。",
-  "en": ""
+  "en": "With you... there may be things I can talk about,\nsomeday."
  },
  {
   "id": "dg00_01:013:02",
   "speaker": "零",
   "jp": "もちろん、武藤にも。",
-  "en": ""
+  "en": "With Muto too, of course."
  },
  {
   "id": "dg00_01:014:00",
   "speaker": "零",
   "jp": "そうか……。",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "dg00_01:014:01",
   "speaker": "零",
   "jp": "少し、驚いた。\nそんな風に言うひとは、\nあまりいなかったから。",
-  "en": ""
+  "en": "That surprised me a little. Not many people have\nsaid something like that to me."
  },
  {
   "id": "dg00_01:014:02",
   "speaker": "いちる",
   "jp": "なるほど！\n{px}のコトちょっとだけ\nわかった気がする。",
-  "en": ""
+  "en": "Gotcha! I feel like I get you a little better now, {px}."
  },
  {
   "id": "dg00_01:014:03",
   "speaker": "いちる",
   "jp": "あたしもそういうの、\n嫌いじゃないよ。",
-  "en": ""
+  "en": "I don't mind that kind of thing either."
  },
  {
   "id": "dg00_01:014:04",
   "speaker": "零",
   "jp": "……不思議だな、\nきみたちは。",
-  "en": ""
+  "en": "...You two are strange."
  },
  {
   "id": "dg00_01:015:00",
   "speaker": "零",
   "jp": "そうか……。",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "dg00_01:015:01",
   "speaker": "零",
   "jp": "きみと武藤になら、\nいつか話せることも\nあるかもしれない。",
-  "en": ""
+  "en": "With you and Muto, there may be things I can talk\nabout, someday."
  },
  {
   "id": "dg00_01:015:02",
   "speaker": "零",
   "jp": "それがいつかは\nわからないが……。",
-  "en": ""
+  "en": "Though I don't know when that will be..."
  },
  {
   "id": "dg00_01:015:03",
   "speaker": "いちる",
   "jp": "いつだっていいよ。\n雉明クンが話したいと\n思ったときで。",
-  "en": ""
+  "en": "Any time's fine. Whenever you feel like talking,\nChiaki-kun."
  },
  {
   "id": "dg00_01:015:04",
   "speaker": "零",
   "jp": "そうか……。\nありがとう、二人とも。",
-  "en": ""
+  "en": "I see... Thank you, both of you."
  },
  {
   "id": "dg00_01:016:00",
   "speaker": "零",
   "jp": "……そうだな。\n真実を語らない者を\n信じることなど出来ない。",
-  "en": ""
+  "en": "...You're right. No one can trust someone who won't\nspeak the truth."
  },
  {
   "id": "dg00_01:016:01",
   "speaker": "いちる",
   "jp": "雉明クン……。",
-  "en": ""
+  "en": "Chiaki-kun..."
  },
  {
   "id": "dg00_01:017:00",
   "speaker": "零",
   "jp": "……そうだな。\n真実を語らない者を\n信じることなど出来ない。",
-  "en": ""
+  "en": "...You're right. No one can trust someone who won't\nspeak the truth."
  },
  {
   "id": "dg00_01:017:01",
   "speaker": "いちる",
   "jp": "雉明クン……。",
-  "en": ""
+  "en": "Chiaki-kun..."
  },
  {
   "id": "dg00_01:018:00",
   "speaker": "零",
   "jp": "すまない。\nきみにそんな顔を\nさせるつもりはなかった。",
-  "en": ""
+  "en": "I'm sorry. I didn't mean to make you look like that."
  },
  {
   "id": "dg00_01:018:01",
   "speaker": "零",
   "jp": "きみになら……\nいつか、話せることも\nあるかもしれない。",
-  "en": ""
+  "en": "With you... there may be things I can talk about,\nsomeday."
  },
  {
   "id": "dg00_01:018:02",
   "speaker": "零",
   "jp": "もちろん、武藤にも。",
-  "en": ""
+  "en": "With Muto too, of course."
  },
  {
   "id": "dg00_01:019:00",
   "speaker": "零",
   "jp": "すまない。\nきみを困らせるつもりは\nなかった。",
-  "en": ""
+  "en": "I'm sorry. I didn't mean to trouble you."
  },
  {
   "id": "dg00_01:019:01",
   "speaker": "零",
   "jp": "きみになら……\nいつか、話せることも\nあるかもしれない。",
-  "en": ""
+  "en": "With you... there may be things I can talk about,\nsomeday."
  },
  {
   "id": "dg00_01:019:02",
   "speaker": "零",
   "jp": "もちろん、武藤にも。",
-  "en": ""
+  "en": "With Muto too, of course."
  },
  {
   "id": "dg00_01:020:00",
   "speaker": "零",
   "jp": "……そうだな。\n真実を語らない者を\n信じることなど出来ない。",
-  "en": ""
+  "en": "...You're right. No one can trust someone who won't\nspeak the truth."
  },
  {
   "id": "dg00_01:020:01",
   "speaker": "いちる",
   "jp": "雉明クン……。",
-  "en": ""
+  "en": "Chiaki-kun..."
  },
  {
   "id": "dg00_01:021:00",
   "speaker": "零",
   "jp": "……何故だろう。\nいまほんの少しだが、\n痛みを感じた。",
-  "en": ""
+  "en": "...I wonder why. Just now, only a little, I felt pain."
  },
  {
   "id": "dg00_01:021:01",
   "speaker": "零",
   "jp": "おれは……きみたちに\n聞いて欲しいと、何処かで\n思っているのかもしれない。",
-  "en": ""
+  "en": "Maybe... somewhere inside, I want the two of you to\nhear it."
  },
  {
   "id": "dg00_01:021:02",
   "speaker": "いちる",
   "jp": "いまは、\nその言葉だけで十分だよ。",
-  "en": ""
+  "en": "For now, just hearing that is plenty."
  },
  {
   "id": "dg00_01:021:03",
   "speaker": "いちる",
   "jp": "大体あたしたち、\nさっき初めて会った\nばっかりなんだから！",
-  "en": ""
+  "en": "I mean, we only just met for the first time a little\nwhile ago!"
  },
  {
   "id": "dg00_01:021:04",
   "speaker": "いちる",
   "jp": "これからいくらでも\n仲良くなる時間はあるよ！",
-  "en": ""
+  "en": "There's gonna be all the time in the world to\nbecome friends!"
  },
  {
   "id": "dg00_01:021:05",
   "speaker": "零",
   "jp": "そうか……\nそういう、ものか……。",
-  "en": ""
+  "en": "I see... So that's... how it works..."
  },
  {
   "id": "dg00_01:021:06",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "dg00_01:022:00",
   "speaker": "零",
   "jp": "……{px}。",
-  "en": ""
+  "en": "...{px}."
  },
  {
   "id": "dg00_01:022:01",
   "speaker": "零",
   "jp": "きみは恐らく、\nとても大きな\n潜在能力を持っている。",
-  "en": ""
+  "en": "You likely have enormous latent potential."
  },
  {
   "id": "dg00_01:022:02",
   "speaker": "零",
   "jp": "もしかすると、\nきみは―――",
-  "en": ""
+  "en": "It may be that you are--"
  },
  {
   "id": "dg00_01:022:03",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "dg00_01:022:04",
   "speaker": "いちる",
   "jp": "雉明クン……？",
-  "en": ""
+  "en": "Chiaki-kun...?"
  },
  {
   "id": "dg00_01:022:05",
   "speaker": "零",
   "jp": "いや……。\n何でもない。",
-  "en": ""
+  "en": "No... It's nothing."
  },
  {
   "id": "dg00_01:022:06",
   "speaker": "零",
   "jp": "行こう。\nまだ、先がある。",
-  "en": ""
+  "en": "Let's go. There's still more ahead."
  },
  {
   "id": "dg00_01:022:07",
   "speaker": "いちる",
   "jp": "あ……うん、そうだね。",
-  "en": ""
+  "en": "Oh... yeah, you're right."
  },
  {
   "id": "dg00_01:022:08",
   "speaker": "いちる",
   "jp": "とにかく早く終わらせて、\nどっかで美味しいものでも\n食べながら話そ！",
-  "en": ""
+  "en": "Anyway, let's hurry up and finish, then go talk\nsomewhere over something tasty!"
  },
  {
   "id": "dg00_01:022:09",
   "speaker": "いちる",
   "jp": "よし、行こ！\n{px}、雉明クン！",
-  "en": ""
+  "en": "All right, let's go! {px}, Chiaki-kun!"
  }
 ]

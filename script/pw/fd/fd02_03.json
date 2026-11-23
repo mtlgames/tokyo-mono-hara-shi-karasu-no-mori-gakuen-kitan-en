@@ -3,105 +3,105 @@
   "id": "fd02_03:001:00",
   "speaker": "燈治",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "fd02_03:001:01",
   "speaker": "燈治",
   "jp": "ぐ……",
-  "en": ""
+  "en": "Ngh..."
  },
  {
   "id": "fd02_03:001:02",
   "speaker": "燈治",
   "jp": "ぐおおおお……。",
-  "en": ""
+  "en": "Gwuoooh..."
  },
  {
   "id": "fd02_03:002:00",
   "speaker": "燈治",
   "jp": "あー、\nあー……えっと……",
-  "en": ""
+  "en": "Ahh, ahh... uhh..."
  },
  {
   "id": "fd02_03:002:01",
   "speaker": "燈治",
   "jp": "やっぱ生で―――",
-  "en": ""
+  "en": "Gotta have it raw--"
  },
  {
   "id": "fd02_03:002:02",
   "speaker": "燈治",
   "jp": "牛……。",
-  "en": ""
+  "en": "Beef..."
  },
  {
   "id": "fd02_03:003:00",
   "speaker": "燈治",
   "jp": "うッ……。",
-  "en": ""
+  "en": "Ugh..."
  },
  {
   "id": "fd02_03:003:01",
   "speaker": "燈治",
   "jp": "やべェ……\nそれは……",
-  "en": ""
+  "en": "Aw, crap... Not that..."
  },
  {
   "id": "fd02_03:003:02",
   "speaker": "燈治",
   "jp": "はんぺん―――",
-  "en": ""
+  "en": "Fishcake--"
  },
  {
   "id": "fd02_03:004:00",
   "speaker": "燈治",
   "jp": "くそッ！！",
-  "en": ""
+  "en": "Dammit!!"
  },
  {
   "id": "fd02_03:004:01",
   "speaker": "燈治",
   "jp": "何で……\nはんぺんとか―――",
-  "en": ""
+  "en": "Why... fishcake of all things--"
  },
  {
   "id": "fd02_03:005:00",
   "speaker": "燈治",
   "jp": "……ぐごお。",
-  "en": ""
+  "en": "...Zzzgoh."
  },
  {
   "id": "fd02_03:006:00",
   "speaker": "燈治",
   "jp": "……ぐごお。",
-  "en": ""
+  "en": "...Zzzgoh."
  },
  {
   "id": "fd02_03:006:01",
   "speaker": "燈治",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "fd02_03:ksf:0121f",
   "kind": "choice",
   "jp": "声を掛ける",
   "slot": 30,
-  "en": ""
+  "en": "Call out to him"
  },
  {
   "id": "fd02_03:ksf:0123e",
   "kind": "choice",
   "jp": "眺める",
   "slot": 30,
-  "en": ""
+  "en": "Watch him"
  },
  {
   "id": "fd02_03:ksf:0125d",
   "kind": "choice",
   "jp": "放っておく",
   "slot": 30,
-  "en": ""
+  "en": "Leave him be"
  }
 ]

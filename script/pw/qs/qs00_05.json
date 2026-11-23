@@ -3,167 +3,167 @@
   "id": "qs00_05:000:00",
   "speaker": "澁川",
   "jp": "……{px}。",
-  "en": ""
+  "en": "...{px}."
  },
  {
   "id": "qs00_05:000:01",
   "speaker": "澁川",
   "jp": "……この人が、\n今回の依頼人だ。",
-  "en": ""
+  "en": "...This is the client this time."
  },
  {
   "id": "qs00_05:000:02",
   "speaker": "しがない愛猫家",
   "jp": "わたしの……ねこ……\nわたしの―――",
-  "en": ""
+  "en": "My... cat... My--"
  },
  {
   "id": "qs00_05:000:03",
   "speaker": "しがない愛猫家",
   "jp": "かえって、きた。\nわたしのねこ―――",
-  "en": ""
+  "en": "Came back. My cat--"
  },
  {
   "id": "qs00_05:000:04",
   "speaker": "しがない愛猫家",
   "jp": "これでずっと、いっしょ。",
-  "en": ""
+  "en": "Now we're together, always."
  },
  {
   "id": "qs00_05:000:05",
   "jp": "ありがとう……。",
-  "en": ""
+  "en": "Thank you..."
  },
  {
   "id": "qs00_05:001:00",
   "speaker": "しがない愛猫家",
   "jp": "うん、わたし、\nだいじにするよ。\nずっと……。",
-  "en": ""
+  "en": "Mm, I'll take good care. Always..."
  },
  {
   "id": "qs00_05:002:00",
   "speaker": "しがない愛猫家",
   "jp": "ふふ、あなた、いいひと。\n……あったかい。",
-  "en": ""
+  "en": "Hehe, you, nice person. ...So warm."
  },
  {
   "id": "qs00_05:003:00",
   "speaker": "しがない愛猫家",
   "jp": "う～……。\nもうすこしおとなしく\nしたほう、いいとおもうよ。",
-  "en": ""
+  "en": "Mmm... I think you should be a little more calm."
  },
  {
   "id": "qs00_05:004:00",
   "speaker": "しがない愛猫家",
   "jp": "あなたの、おかげ。\nわたし、ほんとに、\nうれしい。",
-  "en": ""
+  "en": "Because of you. I'm really, really happy."
  },
  {
   "id": "qs00_05:005:00",
   "speaker": "しがない愛猫家",
   "jp": "もう、このこに\nあぶないこと\nさせない……。",
-  "en": ""
+  "en": "I won't let this one do dangerous things anymore..."
  },
  {
   "id": "qs00_05:006:00",
   "speaker": "しがない愛猫家",
   "jp": "もう、このこに\nあぶないこと\nさせない……。",
-  "en": ""
+  "en": "I won't let this one do dangerous things anymore..."
  },
  {
   "id": "qs00_05:007:00",
   "speaker": "しがない愛猫家",
   "jp": "だいじょうぶ。\nこのこはとってもげんき……。",
-  "en": ""
+  "en": "It's okay. This one is very lively..."
  },
  {
   "id": "qs00_05:008:00",
   "speaker": "しがない愛猫家",
   "jp": "どうして、そんなかお？\nわたし……うれしい。\nあなたの、おかげ。",
-  "en": ""
+  "en": "Why that face? I'm... happy. Because of you."
  },
  {
   "id": "qs00_05:009:00",
   "speaker": "しがない愛猫家",
   "jp": "……？",
-  "en": ""
+  "en": "...?"
  },
  {
   "id": "qs00_05:010:00",
   "speaker": "澁川",
   "jp": "まあ……良かったな。\nそんなに大切な飼い猫なら、\n逃げないように―――",
-  "en": ""
+  "en": "Well... good for you. If it's such a precious pet cat,\nthen make sure it doesn't run off--"
  },
  {
   "id": "qs00_05:010:01",
   "speaker": "しがない愛猫家",
   "jp": "かいねこ……ちがう。",
-  "en": ""
+  "en": "Pet cat... no."
  },
  {
   "id": "qs00_05:010:02",
   "speaker": "しがない愛猫家",
   "jp": "―――わたし、かえる。\nそれじゃ。",
-  "en": ""
+  "en": "--I'm going home. Bye."
  },
  {
   "id": "qs00_05:010:03",
   "speaker": "澁川",
   "jp": "……何か、悪い事を\n言ったようだな。",
-  "en": ""
+  "en": "...Seems I said something wrong."
  },
  {
   "id": "qs00_05:010:04",
   "speaker": "入ってきたばかりの客",
   "jp": "―――マスター、これ。\n店の前に落ちてたよ。",
-  "en": ""
+  "en": "--Master, here. This was lying outside the shop."
  },
  {
   "id": "qs00_05:010:05",
   "speaker": "澁川",
   "jp": "これは……首輪、か？",
-  "en": ""
+  "en": "This is... a collar?"
  },
  {
   "id": "qs00_05:010:06",
   "speaker": "入ってきたばかりの客",
   "jp": "他の客が落としていったんじゃ\nないかと思ってさ。",
-  "en": ""
+  "en": "Figured one of your other customers must've\ndropped it."
  },
  {
   "id": "qs00_05:010:07",
   "speaker": "入ってきたばかりの客",
   "jp": "店の前に猫が{ruby:二匹|・・}いたけど……\n自分で外すワケないしな？",
-  "en": ""
+  "en": "There were two cats out front, but... a cat wouldn't\ntake off its own collar, right?"
  },
  {
   "id": "qs00_05:010:08",
   "speaker": "澁川",
   "jp": "……わかった。\n預かっておこう。",
-  "en": ""
+  "en": "...All right. I'll hold on to it."
  },
  {
   "id": "qs00_05:010:09",
   "speaker": "澁川",
   "jp": "む……首輪の裏に、\n何か書いて―――",
-  "en": ""
+  "en": "Hm... There's something written on the back of the\ncollar--"
  },
  {
   "id": "qs00_05:010:10",
   "speaker": "澁川",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "qs00_05:010:11",
   "speaker": "澁川",
   "jp": "{px}、これはお前が\n持っているといいだろう。",
-  "en": ""
+  "en": "{px}, I think you'd best keep this."
  },
  {
   "id": "qs00_05:010:12",
   "speaker": "澁川",
   "jp": "……不思議な事も\nあるものだな。",
-  "en": ""
+  "en": "...Strange things do happen."
  }
 ]

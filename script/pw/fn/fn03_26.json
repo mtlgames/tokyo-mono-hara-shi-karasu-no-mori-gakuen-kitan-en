@@ -3,214 +3,214 @@
   "id": "fn03_26:001:00",
   "speaker": "澁川",
   "jp": "……よく、来たな。\n仕事、か？",
-  "en": ""
+  "en": "...Good of you to come. Here for work?"
  },
  {
   "id": "fn03_26:002:00",
   "speaker": "澁川",
   "jp": "お前か。\n……好きにしていけ。",
-  "en": ""
+  "en": "You again. ...Make yourself at home."
  },
  {
   "id": "fn03_26:004:00",
   "speaker": "澁川",
   "jp": "見ての通り、\nいまはもう誰もいない。",
-  "en": ""
+  "en": "As you can see, there's no one else here now."
  },
  {
   "id": "fn03_26:004:01",
   "speaker": "澁川",
   "jp": "……珈琲でも飲むか？",
-  "en": ""
+  "en": "...Care for some coffee?"
  },
  {
   "id": "fn03_26:005:00",
   "speaker": "澁川",
   "jp": "そこまで気に入って\nもらっていたとはな。",
-  "en": ""
+  "en": "I didn't know you liked it that much."
  },
  {
   "id": "fn03_26:005:01",
   "speaker": "澁川",
   "jp": "……ありがとう。",
-  "en": ""
+  "en": "...Thank you."
  },
  {
   "id": "fn03_26:006:00",
   "speaker": "澁川",
   "jp": "そこまで気に入って\nもらっていたとはな。",
-  "en": ""
+  "en": "I didn't know you liked it that much."
  },
  {
   "id": "fn03_26:006:01",
   "speaker": "澁川",
   "jp": "……ありがとう。",
-  "en": ""
+  "en": "...Thank you."
  },
  {
   "id": "fn03_26:007:00",
   "speaker": "澁川",
   "jp": "……少し落ち着け。\nすぐに用意してやる。",
-  "en": ""
+  "en": "...Calm down a little. I'll have it ready in a moment."
  },
  {
   "id": "fn03_26:008:00",
   "speaker": "澁川",
   "jp": "……ああ。",
-  "en": ""
+  "en": "...Right."
  },
  {
   "id": "fn03_26:009:00",
   "speaker": "澁川",
   "jp": "……そうか。",
-  "en": ""
+  "en": "...I see."
  },
  {
   "id": "fn03_26:010:00",
   "speaker": "澁川",
   "jp": "……わかった。",
-  "en": ""
+  "en": "...Understood."
  },
  {
   "id": "fn03_26:011:00",
   "speaker": "澁川",
   "jp": "……そう、思い詰めるな。\n強制はしていない。",
-  "en": ""
+  "en": "...Don't take it so seriously. I'm not forcing you."
  },
  {
   "id": "fn03_26:012:00",
   "speaker": "澁川",
   "jp": "……そこまで\n悩まれるとはな。",
-  "en": ""
+  "en": "...Didn't think it'd be that hard a decision."
  },
  {
   "id": "fn03_26:013:00",
   "speaker": "澁川",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "fn03_26:014:00",
   "speaker": "澁川",
   "jp": "珈琲の一杯が、\n何かの一助になる事もある。",
-  "en": ""
+  "en": "Sometimes a single cup of coffee can be of some\nhelp."
  },
  {
   "id": "fn03_26:014:01",
   "speaker": "澁川",
   "jp": "{px}は、俺の知人に\n何処か似ている。\n単なる感傷かもしれんが……。",
-  "en": ""
+  "en": "{px}, you remind me of someone I knew, somehow.\nMaybe it's just sentimentality..."
  },
  {
   "id": "fn03_26:014:02",
   "speaker": "澁川",
   "jp": "……{ruby:奢|おご}りだ。",
-  "en": ""
+  "en": "...It's on the house."
  },
  {
   "id": "fn03_26:015:00",
   "speaker": "澁川",
   "jp": "{px}、あまり―――",
-  "en": ""
+  "en": "{px}, don't be too--"
  },
  {
   "id": "fn03_26:015:01",
   "speaker": "澁川",
   "jp": "……いや、何でもない。\n忘れてくれ。",
-  "en": ""
+  "en": "...No, never mind. Forget it."
  },
  {
   "id": "fn03_26:016:00",
   "speaker": "澁川",
   "jp": "それから、\nこいつはオマケだ。",
-  "en": ""
+  "en": "And here, take this as a little extra."
  },
  {
   "id": "fn03_26:017:00",
   "speaker": "澁川",
   "jp": "何か……他に、あるか？",
-  "en": ""
+  "en": "Is there... anything else?"
  },
  {
   "id": "fn03_26:018:00",
   "speaker": "澁川",
   "jp": "何か……他に、あるか？",
-  "en": ""
+  "en": "Is there... anything else?"
  },
  {
   "id": "fn03_26:019:00",
   "speaker": "澁川",
   "jp": "……そうか。\nまた、来るといい。",
-  "en": ""
+  "en": "...I see. Come again."
  },
  {
   "id": "fn03_26:ksf:0121f",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn03_26:ksf:0123e",
   "kind": "choice",
   "jp": "澁川と話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to Shibukawa"
  },
  {
   "id": "fn03_26:ksf:0125d",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  },
  {
   "id": "fn03_26:ksf:01b89",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn03_26:ksf:01ba8",
   "kind": "choice",
   "jp": "何もしない",
   "slot": 30,
-  "en": ""
+  "en": "Do nothing"
  },
  {
   "id": "fn03_26:ksf:0a3b5",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn03_26:ksf:0a3d4",
   "kind": "choice",
   "jp": "澁川と話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to Shibukawa"
  },
  {
   "id": "fn03_26:ksf:0a3f3",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  },
  {
   "id": "fn03_26:ksf:0ad1f",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn03_26:ksf:0ad3e",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  }
 ]

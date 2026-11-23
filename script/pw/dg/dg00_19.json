@@ -3,30 +3,30 @@
   "id": "dg00_19:000:00",
   "speaker": "伊佐地",
   "jp": "次は遠距離戦闘の試験だ。\n無理に近づかず\n遠距離攻撃で倒せ。",
-  "en": ""
+  "en": "Next is the ranged combat test. Don't force your\nway in close. Take them down with ranged attacks."
  },
  {
   "id": "dg00_19:000:01",
   "speaker": "伊佐地",
   "jp": "近距離攻撃と違って\n遠距離攻撃は{ruby:隠人|お　に}の一部を\n攻撃する事が出来る。",
-  "en": ""
+  "en": "Unlike close-range attacks, ranged attacks can target\nspecific parts of an Oni."
  },
  {
   "id": "dg00_19:000:02",
   "speaker": "伊佐地",
   "jp": "{ruby:隠人|お　に}の弱点となる部位に\n攻撃を当てられれば\n簡単に倒す事が出来るはずだ。",
-  "en": ""
+  "en": "If you can land a hit on an Oni's weak point, you\nshould be able to take it down easily."
  },
  {
   "id": "dg00_19:000:03",
   "speaker": "伊佐地",
   "jp": "目の前の隠人は\n《尻尾の目玉模様》が弱点だ。\n可能な限り狙って掃討しろ。",
-  "en": ""
+  "en": "The Oni in front of you is weak to its Tail Eyespot.\nAim for it whenever you can and wipe them out."
  },
  {
   "id": "dg00_19:000:04",
   "speaker": "伊佐地",
   "jp": "健闘を祈る。",
-  "en": ""
+  "en": "Good luck."
  }
 ]

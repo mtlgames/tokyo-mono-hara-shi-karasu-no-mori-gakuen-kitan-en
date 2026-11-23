@@ -55,5 +55,7 @@ Never edit `glossary.md`. For a recurring name or term not in it, pick a form, u
   `UNSURE: id - checker false positive` instead (the controller fixes the checker).
 - Toji (rough), Minori (assertive わよ/なさい), the retainer (坊 = "young master", やしょう): keep them distinct.
 
-## Report (reply with only this)
-Batches done and entry counts; then any lines: `NEW TERM: jp -> en`, `UNSURE: id - note`, `LONG: id - note`.
+## Report
+Write it per batch to `work/tl/<batch>.report.txt` (file-write tool): entry count, then any lines
+`NEW TERM: jp -> en`, `UNSURE: id - note`, `LONG: id - note`. Your final reply is one line only:
+`done bNNN bNNN ... (check OK|FAIL bNNN)`, nothing else.

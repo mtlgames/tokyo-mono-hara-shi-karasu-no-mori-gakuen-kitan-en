@@ -3,90 +3,90 @@
   "id": "dg00_12:000:00",
   "speaker": "いちる",
   "jp": "やったッ！\n{px}、開いたよッ！",
-  "en": ""
+  "en": "We did it! {px}, it opened!"
  },
  {
   "id": "dg00_12:000:01",
   "speaker": "伊佐地",
   "jp": "よし、まずは合格だ。",
-  "en": ""
+  "en": "Good. You've passed the first one."
  },
  {
   "id": "dg00_12:000:02",
   "speaker": "零",
   "jp": "この鍵の仕組みは……。",
-  "en": ""
+  "en": "The way this lock works..."
  },
  {
   "id": "dg00_12:000:03",
   "speaker": "伊佐地",
   "jp": "気づいたか。",
-  "en": ""
+  "en": "So you noticed."
  },
  {
   "id": "dg00_12:000:04",
   "speaker": "伊佐地",
   "jp": "この鍵は機械仕掛けではない。",
-  "en": ""
+  "en": "This lock isn't mechanical."
  },
  {
   "id": "dg00_12:000:05",
   "speaker": "いちる",
   "jp": "えっ……それって\nどういうことですか？",
-  "en": ""
+  "en": "Huh...? What do you mean by that?"
  },
  {
   "id": "dg00_12:000:06",
   "speaker": "伊佐地",
   "jp": "この風穴はカミフダの力で、\n自然洞から今の状態に\n作り変えられている。",
-  "en": ""
+  "en": "This cavern was reshaped from a natural cave into\nwhat you see now by the power of ORDS."
  },
  {
   "id": "dg00_12:000:07",
   "speaker": "いちる",
   "jp": "ただの洞窟が、\nこんな形に……？",
-  "en": ""
+  "en": "An ordinary cave, turned into something like this...?"
  },
  {
   "id": "dg00_12:000:08",
   "speaker": "伊佐地",
   "jp": "カミフダに秘められた情報は、\n周囲の環境すら作り変える\n力を持つということだ。",
-  "en": ""
+  "en": "It means the information sealed in ORDS has the\npower to reshape even its surroundings."
  },
  {
   "id": "dg00_12:000:09",
   "speaker": "いちる",
   "jp": "そんなところで、\n試験なんかして\n大丈夫なのかな……。",
-  "en": ""
+  "en": "Is it really okay to hold a test in a place like that...?"
  },
  {
   "id": "dg00_12:000:10",
   "speaker": "伊佐地",
   "jp": "その点は、安心しろ。",
-  "en": ""
+  "en": "On that point, rest easy."
  },
  {
   "id": "dg00_12:000:11",
   "speaker": "伊佐地",
   "jp": "ここに使われたカミフダは\n本部で研究の末、試験用として\n人工的に作られている。",
-  "en": ""
+  "en": "The ORDS used here were made artificially for\ntesting, after much research at headquarters."
  },
  {
   "id": "dg00_12:000:12",
   "speaker": "伊佐地",
   "jp": "強力なカミフダの\n影響を受けた場所は、\nこの程度では済まんぞ。",
-  "en": ""
+  "en": "A place touched by powerful ORDS wouldn't get off\nthis lightly."
  },
  {
   "id": "dg00_12:000:13",
   "speaker": "零",
   "jp": "そのような場所にある\nカミフダを手に入れるための\n試験ということか……。",
-  "en": ""
+  "en": "So this is a test for obtaining ORDS that lie in\nplaces like that..."
  },
  {
   "id": "dg00_12:000:14",
   "speaker": "伊佐地",
   "jp": "その通りだ。\n理解したなら、\n扉の先へ進むんだ。",
-  "en": ""
+  "en": "Exactly. If you understand, go on through the door."
  }
 ]

@@ -3,122 +3,122 @@
   "id": "dg00_02:000:00",
   "speaker": "いちる",
   "jp": "ここ……。",
-  "en": ""
+  "en": "This place..."
  },
  {
   "id": "dg00_02:000:01",
   "speaker": "いちる",
   "jp": "なんか……\nすごく大きな気配がする……。",
-  "en": ""
+  "en": "I'm sensing something... really huge..."
  },
  {
   "id": "dg00_02:000:02",
   "speaker": "零",
   "jp": "―――カミフダだ。",
-  "en": ""
+  "en": "--It's ORDS."
  },
  {
   "id": "dg00_02:000:03",
   "speaker": "零",
   "jp": "この扉の向こう、\n何かと融合して\n{ruby:隠人|お　に}と化している。",
-  "en": ""
+  "en": "Beyond this door, it has fused with something and\nbecome an Oni."
  },
  {
   "id": "dg00_02:000:04",
   "speaker": "零",
   "jp": "いまのこの戦力では\n敵うかどうかわからない\n相手だ。",
-  "en": ""
+  "en": "With our strength as it stands, I can't say whether\nwe're a match for it."
  },
  {
   "id": "dg00_02:000:05",
   "speaker": "いちる",
   "jp": "そ、そんなァ～。\nどうしよう……。",
-  "en": ""
+  "en": "N-No waaay~ What do we do...?"
  },
  {
   "id": "dg00_02:001:00",
   "speaker": "いちる",
   "jp": "う～ん……\n{px}はどう思う？",
-  "en": ""
+  "en": "Hmmm... What do you think, {px}?"
  },
  {
   "id": "dg00_02:002:00",
   "speaker": "いちる",
   "jp": "うん、やっぱ\nそれしかないか……。",
-  "en": ""
+  "en": "Yeah, guess that really is the only way..."
  },
  {
   "id": "dg00_02:002:01",
   "speaker": "いちる",
   "jp": "よおおおォォォッし！！",
-  "en": ""
+  "en": "Alriiiiight!!"
  },
  {
   "id": "dg00_02:002:02",
   "speaker": "伊佐地",
   "jp": "やれやれ……。\nせっかち過ぎるぞ。",
-  "en": ""
+  "en": "Good grief... You're way too impatient."
  },
  {
   "id": "dg00_02:002:03",
   "speaker": "伊佐地",
   "jp": "試験なんだから、\n少しは頭使え。",
-  "en": ""
+  "en": "This is an exam. Use your head a little."
  },
  {
   "id": "dg00_02:003:00",
   "speaker": "いちる",
   "jp": "そっか……\nじゃあこれからどうしよう。",
-  "en": ""
+  "en": "Right... So what do we do now?"
  },
  {
   "id": "dg00_02:003:01",
   "speaker": "いちる",
   "jp": "一回外に出て、\n何か使えそうなものでも\n探してくる……とか？",
-  "en": ""
+  "en": "Head outside once and look for something we could\nuse... maybe?"
  },
  {
   "id": "dg00_02:003:02",
   "speaker": "伊佐地",
   "jp": "そうだ、確かに\nその手が有効な場合もある。",
-  "en": ""
+  "en": "Yes, that approach can work in some cases."
  },
  {
   "id": "dg00_02:003:03",
   "speaker": "伊佐地",
   "jp": "だがその前に、\n試験なんだから少しは頭使え。",
-  "en": ""
+  "en": "But before that-- this is an exam. Use your head a\nlittle."
  },
  {
   "id": "dg00_02:004:00",
   "speaker": "伊佐地",
   "jp": "まあ、何も考えずに入って\nいかなかった点については\n評価に値するがな。",
-  "en": ""
+  "en": "Well, not charging in without thinking does earn\nyou some credit."
  },
  {
   "id": "dg00_02:004:01",
   "speaker": "伊佐地",
   "jp": "いいか、この部屋に\nいまのお前たちに必要な\nものが隠されている。",
-  "en": ""
+  "en": "Listen. Hidden in this room is something you need\nright now."
  },
  {
   "id": "dg00_02:004:02",
   "speaker": "伊佐地",
   "jp": "まずはそれを見つけるんだ。",
-  "en": ""
+  "en": "First, find it."
  },
  {
   "id": "dg00_02:ksf:0121f",
   "kind": "choice",
   "jp": "突入する",
   "slot": 30,
-  "en": ""
+  "en": "Charge in"
  },
  {
   "id": "dg00_02:ksf:0123e",
   "kind": "choice",
   "jp": "突入しない",
   "slot": 30,
-  "en": ""
+  "en": "Don't charge in"
  }
 ]

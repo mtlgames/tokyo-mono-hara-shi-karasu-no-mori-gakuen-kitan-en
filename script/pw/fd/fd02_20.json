@@ -3,159 +3,159 @@
   "id": "fd02_20:001:00",
   "speaker": "朝子",
   "jp": "えーと、これがこっちで、\nあれだから……",
-  "en": ""
+  "en": "Let's see, this goes here, and that's..."
  },
  {
   "id": "fd02_20:001:01",
   "speaker": "朝子",
   "jp": "おかしいわね、\n昨日は確かにあったのに……。",
-  "en": ""
+  "en": "That's odd. It was definitely here yesterday..."
  },
  {
   "id": "fd02_20:001:02",
   "speaker": "朝子",
   "jp": "―――あら、{px}。\n恥ずかしいところ\n見られちゃったわね。",
-  "en": ""
+  "en": "--Oh, {px}. You caught me at an embarrassing\nmoment."
  },
  {
   "id": "fd02_20:001:03",
   "speaker": "朝子",
   "jp": "実は午後の授業で使う\nプリントの原本が何処かに\nいっちゃったのよ。",
-  "en": ""
+  "en": "The truth is, the original handout for my afternoon\nclass has gone missing somewhere."
  },
  {
   "id": "fd02_20:002:00",
   "speaker": "朝子",
   "jp": "気になるところは探したし、\nそうなると、後は……",
-  "en": ""
+  "en": "I've searched everywhere I can think of, so that only\nleaves..."
  },
  {
   "id": "fd02_20:003:00",
   "speaker": "朝子",
   "jp": "ど、どうしよう！？\nいまから走って帰れば\n間に合うかも―――",
-  "en": ""
+  "en": "Wh-what do I do!? If I run home right now, I might\nmake it in time--"
  },
  {
   "id": "fd02_20:003:01",
   "speaker": "朝子",
   "jp": "じゃ、なくて！！\nその前にお父さんに電話！！",
-  "en": ""
+  "en": "No, wait!! I should call Dad first!!"
  },
  {
   "id": "fd02_20:003:02",
   "speaker": "朝子",
   "jp": "きゃッ―――！！",
-  "en": ""
+  "en": "Eek--!!"
  },
  {
   "id": "fd02_20:003:03",
   "speaker": "朝子",
   "jp": "い、いたたたた……。\n……あら？\nこの封筒って確か―――",
-  "en": ""
+  "en": "O-ow, ow, ow... Huh? Isn't this envelope the--"
  },
  {
   "id": "fd02_20:003:04",
   "speaker": "朝子",
   "jp": "そ、そうよ！！\nこの中に入れたんだった！！",
-  "en": ""
+  "en": "Th-that's right!! I put it in here!!"
  },
  {
   "id": "fd02_20:003:05",
   "speaker": "朝子",
   "jp": "よかったわ……。",
-  "en": ""
+  "en": "Thank goodness..."
  },
  {
   "id": "fd02_20:004:00",
   "speaker": "朝子",
   "jp": "……もう、いくら私が\nそそっかしくても大事なものを\n捨てたりは―――",
-  "en": ""
+  "en": "...Honestly, no matter how scatterbrained I am, I'd\nnever throw away something important--"
  },
  {
   "id": "fd02_20:004:01",
   "speaker": "朝子",
   "jp": "―――！！",
-  "en": ""
+  "en": "--!!"
  },
  {
   "id": "fd02_20:004:02",
   "speaker": "朝子",
   "jp": "そうだった……\nこの封筒、\nゴミじゃなかったんだ……。",
-  "en": ""
+  "en": "That's right... This envelope wasn't trash..."
  },
  {
   "id": "fd02_20:004:03",
   "speaker": "朝子",
   "jp": "あった……\nよかったわ。",
-  "en": ""
+  "en": "Found it... Thank goodness."
  },
  {
   "id": "fd02_20:005:00",
   "speaker": "朝子",
   "jp": "―――あ！！\nそうだわ！！",
-  "en": ""
+  "en": "--Oh!! That's it!!"
  },
  {
   "id": "fd02_20:005:01",
   "speaker": "朝子",
   "jp": "昨日、牧村先生に\n引用部分の確認を\nお願いしてそのまま―――",
-  "en": ""
+  "en": "Yesterday I asked Makimura-sensei to check the\nquoted passages, and then I just left it--"
  },
  {
   "id": "fd02_20:005:02",
   "speaker": "朝子",
   "jp": "間違いないわ。\n……よかったわ。",
-  "en": ""
+  "en": "That has to be it. ...Thank goodness."
  },
  {
   "id": "fd02_20:006:00",
   "speaker": "朝子",
   "jp": "騒がせてごめんね。\nありがとう、{px}。",
-  "en": ""
+  "en": "Sorry for all the fuss. Thank you, {px}."
  },
  {
   "id": "fd02_20:006:01",
   "speaker": "朝子",
   "jp": "はあ……。\n整理術の本でも買えば\n少しはましになるのかしら。",
-  "en": ""
+  "en": "Sigh... I wonder if buying a book on organizing\nwould help me even a little."
  },
  {
   "id": "fd02_20:007:00",
   "speaker": "朝子",
   "jp": "―――あら？",
-  "en": ""
+  "en": "--Hm?"
  },
  {
   "id": "fd02_20:007:01",
   "speaker": "朝子",
   "jp": "そういえば\n教科書は何処に……。",
-  "en": ""
+  "en": "Come to think of it, where did my textbook go...?"
  },
  {
   "id": "fd02_20:007:02",
   "speaker": "朝子",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "fd02_20:ksf:01b2f",
   "kind": "choice",
   "jp": "家",
   "slot": 30,
-  "en": ""
+  "en": "Home"
  },
  {
   "id": "fd02_20:ksf:01b4e",
   "kind": "choice",
   "jp": "ゴミ箱",
   "slot": 30,
-  "en": ""
+  "en": "Trash can"
  },
  {
   "id": "fd02_20:ksf:01b6d",
   "kind": "choice",
   "jp": "久榮の机",
   "slot": 30,
-  "en": ""
+  "en": "Hisae's desk"
  }
 ]

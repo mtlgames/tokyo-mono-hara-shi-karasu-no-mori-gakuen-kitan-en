@@ -3,87 +3,87 @@
   "id": "fd01_52:000:00",
   "speaker": "弥紀",
   "jp": "ここが食堂だよ。\nこの時間は\nやっぱり賑やかだね。",
-  "en": ""
+  "en": "This is the cafeteria. It's always lively around this\ntime."
  },
  {
   "id": "fd01_52:000:01",
   "speaker": "弥紀",
   "jp": "お弁当作れなかった時なんかは\nわたしも買いに来るよ。",
-  "en": ""
+  "en": "When I don't get a chance to make a lunch box, I\ncome here to buy something too."
  },
  {
   "id": "fd01_52:000:02",
   "speaker": "弥紀",
   "jp": "おにぎりもいいけど、\n総菜パンも美味しいし……。",
-  "en": ""
+  "en": "The rice balls are good, but the filled buns are tasty\ntoo..."
  },
  {
   "id": "fd01_52:000:03",
   "speaker": "弥紀",
   "jp": "あ、{px}は、\nごはんとパン、\nどっちが好き？",
-  "en": ""
+  "en": "Oh, {px}, which do you like better, rice or bread?"
  },
  {
   "id": "fd01_52:001:00",
   "speaker": "弥紀",
   "jp": "ふふ、わかるなあ。\n総菜パンがずらーっと並ぶと\nそれだけで嬉しくなっちゃう。",
-  "en": ""
+  "en": "Hehe, I know what you mean. Just seeing a whole\nrow of filled buns lined up makes me happy."
  },
  {
   "id": "fd01_52:001:01",
   "speaker": "弥紀",
   "jp": "わあ、どれを選ぼう！って\n幸せな気分になるものね。",
-  "en": ""
+  "en": "It puts you in such a good mood, going \"Wow,\nwhich one should I pick!\""
  },
  {
   "id": "fd01_52:002:00",
   "speaker": "弥紀",
   "jp": "ごはんはいいよね。\nほかほか湯気が立ってると、\n思わずお腹が鳴っちゃう。",
-  "en": ""
+  "en": "Rice is great, isn't it? When it's all hot and steaming,\nmy stomach just starts growling."
  },
  {
   "id": "fd01_52:002:01",
   "speaker": "弥紀",
   "jp": "白いごはんって、\n見てるだけでも\n幸せな気分になるものね。",
-  "en": ""
+  "en": "Just looking at a bowl of white rice puts you in a\nhappy mood, doesn't it?"
  },
  {
   "id": "fd01_52:003:00",
   "speaker": "弥紀",
   "jp": "―――！！",
-  "en": ""
+  "en": "--!!"
  },
  {
   "id": "fd01_52:003:01",
   "speaker": "弥紀",
   "jp": "そうだよね、\nうどんもおそばも\nパスタもラーメンも……。",
-  "en": ""
+  "en": "You're right! Udon, soba, pasta, ramen..."
  },
  {
   "id": "fd01_52:003:02",
   "speaker": "弥紀",
   "jp": "うーん、\n甲乙付けがたいなあ。",
-  "en": ""
+  "en": "Hmm... It's so hard to pick a favorite."
  },
  {
   "id": "fd01_52:ksf:0090f",
   "kind": "choice",
   "jp": "ごはん",
   "slot": 30,
-  "en": ""
+  "en": "Rice"
  },
  {
   "id": "fd01_52:ksf:0092e",
   "kind": "choice",
   "jp": "パン",
   "slot": 30,
-  "en": ""
+  "en": "Bread"
  },
  {
   "id": "fd01_52:ksf:0094d",
   "kind": "choice",
   "jp": "麺類",
   "slot": 30,
-  "en": ""
+  "en": "Noodles"
  }
 ]
