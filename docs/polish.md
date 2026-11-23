@@ -975,3 +975,9 @@
 - [ ] fn13_27:001:00 / 018:00 - The Kalpataru stock lines vary across files (fn03-07 use "Welcommme" and "Thank you verrry muchly!!"; this file uses the fn01/fn02 forms). Harmless, but the polish pass could make them uniform.
 - [ ] fn13_30:001:00 - The store name is "Yes!! Subliminal" (eboot); fn02-05 use "...toys and dreams: Yes! Subliminal." Align with those.
 - [ ] fn13_30:004:02 - The 気が重/身体が重 pun works as "drag/drag". Could be tighter: "Ugh, my heart's heavy. My body's heavier, obviously."
+
+## Graphics (phase 8 wave 1, shortened labels; D4: flagged last resort)
+- [ ] gfx menus: 現代社会 "Soc. Studies" (56 px column), album プロローグ "Intro", album 第N話 "Ep. N", cardarc 菊 "Chrys.", 藤 "Wis-/teria", 桐 "Pau-/lownia", ui_map04 seasons as 2-line syllables (Spr/ing...), save/load "Save"/"Load" squeezed 0.69
+- [ ] gfx phone sait02: seasons "Sp/Su/Au/Wi", 神 "Div", 決定 "OK" (14 px cells)
+- [ ] gfx quest_site/dungeon_ui: 攻 "ATK", 封 "SEAL"; 658 emotion wheel 3x5 caps (LOVE JOY HATE RAGE SAD UPSET PAL FIRE) vs adv_emotion (Joy Friend Dislike Worry Love Passion Anger Sorrow): align
+- [ ] gfx phone menu01: English label now sits above the game's own near-duplicate English subtitle; consider dropping one
