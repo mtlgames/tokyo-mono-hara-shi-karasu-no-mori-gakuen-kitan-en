@@ -3,126 +3,126 @@
   "id": "ms06_03:000:00",
   "speaker": "無感情な声",
   "jp": "……お疲れ様でした。\n首尾は如何でしたか？",
-  "en": ""
+  "en": "...Thank you for your work. How did it go?"
  },
  {
   "id": "ms06_03:000:01",
   "speaker": "静かな声",
   "jp": "{ruby:次の仕掛け|・・・・・}で、\n帳尻が合うだろう。\n……何も問題無い。",
-  "en": ""
+  "en": "The \"next arrangement\" should balance the books.\n...There's no problem at all."
  },
  {
   "id": "ms06_03:000:02",
   "speaker": "無感情な声",
   "jp": "本当に……何も？",
-  "en": ""
+  "en": "Truly... none at all?"
  },
  {
   "id": "ms06_03:000:03",
   "speaker": "静かな声",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "ms06_03:000:04",
   "speaker": "零",
   "jp": "何も……変わらない。\n表向きは、\n{ruby:いつも通り|・・・・・}だ。",
-  "en": ""
+  "en": "Nothing... has changed. On the surface, it's \"the same\nas always.\""
  },
  {
   "id": "ms06_03:000:05",
   "speaker": "零",
   "jp": "ああ、でも―――",
-  "en": ""
+  "en": "Ah, but--"
  },
  {
   "id": "ms06_03:000:06",
   "speaker": "零",
   "jp": "随分……\n表情が増えた気がする。",
-  "en": ""
+  "en": "I feel like... I've gained quite a few more expressions."
  },
  {
   "id": "ms06_03:000:07",
   "speaker": "零",
   "jp": "きっと、\n{px}のおかげだろう。",
-  "en": ""
+  "en": "It must be thanks to {px}."
  },
  {
   "id": "ms06_03:000:08",
   "speaker": "学生服の少女",
   "jp": "……あの方が、\n貴方にとっての唯一ですか。",
-  "en": ""
+  "en": "...Is that person the only one, for you?"
  },
  {
   "id": "ms06_03:000:09",
   "speaker": "零",
   "jp": "そうだ。\nその為だけに、おれは\nいまここに、存在している。",
-  "en": ""
+  "en": "Yes. That's the only reason I exist here, now."
  },
  {
   "id": "ms06_03:000:10",
   "speaker": "学生服の少女",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "ms06_03:000:11",
   "speaker": "零",
   "jp": "きみにも、\nわかるだろう？",
-  "en": ""
+  "en": "You understand too, don't you?"
  },
  {
   "id": "ms06_03:000:12",
   "speaker": "零",
   "jp": "それに、{ruby:彼|・}も―――",
-  "en": ""
+  "en": "And \"he,\" too--"
  },
  {
   "id": "ms06_03:000:13",
   "speaker": "学生服の少女",
   "jp": "……必要ありません。\nわかる必要など、ない。",
-  "en": ""
+  "en": "...There's no need. No need to understand at all."
  },
  {
   "id": "ms06_03:000:14",
   "speaker": "学生服の少女",
   "jp": "報告に、帰ります。",
-  "en": ""
+  "en": "I'll return to make my report."
  },
  {
   "id": "ms06_03:000:15",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "ms06_03:000:16",
   "speaker": "零",
   "jp": "{ruby:ひと|・・}とは……\n複雑な生き物だな。",
-  "en": ""
+  "en": "\"Humans\"... are complicated creatures."
  },
  {
   "id": "ms06_03:000:17",
   "speaker": "零",
   "jp": "分類上、同じ感情であっても\nその意味合いと評価は\n個によって全く異なる……。",
-  "en": ""
+  "en": "Even emotions classed as the same can differ\ncompletely in meaning and worth from one person\nto the next..."
  },
  {
   "id": "ms06_03:000:18",
   "speaker": "零",
   "jp": "きみは、いま、\n何を想う、{px}―――？",
-  "en": ""
+  "en": "What are you thinking of right now, {px}--?"
  },
  {
   "id": "ms06_03:000:19",
   "speaker": "零",
   "jp": "それでも、\nおれの答えは{ruby:唯一|ただひとつ}だ。",
-  "en": ""
+  "en": "Even so, my answer is the only one."
  },
  {
   "id": "ms06_03:000:20",
   "speaker": "零",
   "jp": "あの時から、\nずっと―――",
-  "en": ""
+  "en": "Ever since that time, always--"
  }
 ]

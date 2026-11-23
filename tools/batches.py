@@ -242,6 +242,23 @@ def glossary():
     return rows
 
 
+_CHARS = None
+
+
+def character_names():
+    """JP forms from glossary.md's "## Characters" table (as glossary() spells them)."""
+    global _CHARS
+    if _CHARS is None:
+        _CHARS, section = set(), ""
+        for line in (GLOSSARY.read_text(encoding="utf-8").splitlines() if GLOSSARY.exists() else []):
+            section = line if line.startswith("## ") else section
+            cells = [c.strip() for c in line.strip().strip("|").split("|")]
+            if section == "## Characters" and line.startswith("|") and len(cells) >= 2:
+                nf = len(cells) > 3 and "(not enforced)" in cells[3]
+                _CHARS |= {x.strip() + ("\0" if nf else "") for x in cells[0].split("/")}
+    return _CHARS
+
+
 def plain_jp(jp):
     return RUBY.sub(r"\1", jp)
 
@@ -274,8 +291,10 @@ def problems(entry, en, terms):
             out.append(f"glossary: {jps[0]} -> {ens[0]}")
         # only where the JP term is in the line: "spirit" in dialogue is fine, Spirit for 精神力 is not
         out += [f"glossary Avoid: {a}" for a in avoid if present and re.search(rf"\b{re.escape(a)}\b", en)]
-    # honorifics only after a glossary name or a player-name code: 同様, オレ様, 敵さん, 叩くん are not names
-    names = "|".join(sorted({re.escape(j.rstrip("\0")) for jps, _, _ in terms for j in jps}, key=len, reverse=True))
+    # honorifics only after a character name or a player-name code: 同様, オレ様, 敵さん, 封札師さま are not names
+    chars = character_names()
+    names = "|".join(sorted({re.escape(j.rstrip("\0")) for jps, _, _ in terms for j in jps if j in chars},
+                            key=len, reverse=True))
     before = rf"(?:\{{p[xmn]\}}{'|' + names if names else ''})"
     for jp_form, en_form in HONORIFICS.items():
         if re.search(before + re.escape(jp_form), jp) and en_form.lower() not in en.lower():

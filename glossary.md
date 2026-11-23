@@ -32,7 +32,7 @@ separates alternatives) and the Avoid column.
 | 壇 | Dan | | (not enforced) Toji's surname; 壇 alone can be an altar/platform | |
 | 弥紀 | Minori | | Minori Hosaka (穂坂弥紀), cheerful classmate | Yaki |
 | 穂坂 | Hosaka | | | |
-| 雉明 | Chiaki | | Rei Chiaki (雉明零) | |
+| 雉明 | Chiaki | | Zero Chiaki (雉明零; the game reads 零 ぜろ, so "Zero", not "Rei") | Rei |
 | 白 | Mao | | (not enforced) ruby まお; when 白 means the colour "white" it is not this name | Haku |
 | 巴 | Tomoe | | (not enforced) | |
 | いちる | Ichiru | | | |
@@ -89,8 +89,8 @@ separates alternatives) and the Avoid column.
 | 神使 | divine messenger | | ruby しんし | |
 | 龍脈 | dragon vein | | | |
 | ＯＸＡＳ | OXAS | | organisation | |
-| ＯＲＤＳ | ORDS | | ruby カミフダ; organisation | |
-| カミフダ | ORDS / cards | | (not enforced) the organisation (ORDS) or, in card-game text, the paper cards themselves ("cards") | |
+| ＯＲＤＳ | ORDS | | ruby カミフダ; NOT an organisation: the information-bearing cards themselves ("what humans call ORDS", "ORDS latch onto living things"); no article needed | |
+| カミフダ | ORDS / cards | | (not enforced) the ORDS cards (above) or, in card-game text, the paper cards themselves ("cards") | |
 | 隠者の杖 | Hermit's Staff | | | |
 | 秘儀を伝授されし者 | Initiate | | ruby イニシエ | |
 | 体力 | Stamina | | stat | Vitality |
@@ -131,7 +131,7 @@ separates alternatives) and the Avoid column.
 - wave 0: full names from the EBOOT profiles: Ichiru Muto, Shu Takarakata, Gio Onimaru, Migiri Kashima, Kaname
   Kotokuji, Ayahito Konosu, Rin Himukai, Benio Sawakami, Asako / Seishiro Hatori, Daisuke Isachi, Nobuyuki Chikushi,
   Hisae Makimura, Gengo Shibukawa, Banri Takadono, Angie (Angela Dorothy Orphen), Kalpataru T. Shankar, Nagahide
-  Shishido, Dokai Gamo (calls herself Mikamyun), Tomoe Tobisaka, Rei Chiaki, Toji Dan, Minori Hosaka; default hero
+  Shishido, Dokai Gamo (calls herself Mikamyun), Tomoe Tobisaka, Zero Chiaki (wave 1: 零 is read ぜろ in ms00_01/ms11_00 and the profile), Toji Dan, Minori Hosaka; default hero
   Kazuki Shichidai.
 - wave 0: pre-Meiji historical figures keep traditional order (Oda Nobunaga, Minamoto no Yoriyoshi); modern people
   Western order.

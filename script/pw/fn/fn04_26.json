@@ -3,208 +3,208 @@
   "id": "fn04_26:001:00",
   "speaker": "澁川",
   "jp": "……よく、来たな。\n仕事、か？",
-  "en": ""
+  "en": "...Good of you to come. Work, is it?"
  },
  {
   "id": "fn04_26:002:00",
   "speaker": "澁川",
   "jp": "お前か。\n……好きにしていけ。",
-  "en": ""
+  "en": "You again. ...Do as you like."
  },
  {
   "id": "fn04_26:004:00",
   "speaker": "澁川",
   "jp": "……今日は、出会いが重なる。\nそういう流れの日かも\nしれんな。",
-  "en": ""
+  "en": "...Today, the meetings keep piling up. Maybe it's that\nkind of day."
  },
  {
   "id": "fn04_26:004:01",
   "speaker": "澁川",
   "jp": "交差しては、離れ……\nまたいつか何処かで交わる。",
-  "en": ""
+  "en": "Crossing, parting... and someday, somewhere, meeting\nagain."
  },
  {
   "id": "fn04_26:005:00",
   "speaker": "澁川",
   "jp": "出会いと別れ……\n縁はまるで、川のようだ。\nそうは、思わないか？",
-  "en": ""
+  "en": "Meetings and partings... Bonds are just like rivers.\nDon't you think so?"
  },
  {
   "id": "fn04_26:006:00",
   "speaker": "澁川",
   "jp": "そうやって、繋がって\nいくんだな……。",
-  "en": ""
+  "en": "That's how they connect, I suppose..."
  },
  {
   "id": "fn04_26:006:01",
   "speaker": "澁川",
   "jp": "{px}、お前は、\n大きな川になりそうだ。",
-  "en": ""
+  "en": "{px}, you look like you'll become a great river."
  },
  {
   "id": "fn04_26:007:00",
   "speaker": "澁川",
   "jp": "ふッ……。\n邪気のない目だ。",
-  "en": ""
+  "en": "Heh... Those are eyes without malice."
  },
  {
   "id": "fn04_26:007:01",
   "speaker": "澁川",
   "jp": "そういう川にこそ\n沿いたい流れも……多くある。",
-  "en": ""
+  "en": "It's a river like that... that many currents want to run\nbeside."
  },
  {
   "id": "fn04_26:008:00",
   "speaker": "澁川",
   "jp": "どんな流れも、\n巻き込んでしまいそうな\n勢いだな……。",
-  "en": ""
+  "en": "You've got the force to sweep up any current, it\nseems..."
  },
  {
   "id": "fn04_26:009:00",
   "speaker": "澁川",
   "jp": "ああ……本当に。",
-  "en": ""
+  "en": "Yeah... truly."
  },
  {
   "id": "fn04_26:010:00",
   "speaker": "澁川",
   "jp": "……長く生きれば、\nお前にもわかる日が来る。",
-  "en": ""
+  "en": "...Live long enough, and one day you'll understand\ntoo."
  },
  {
   "id": "fn04_26:011:00",
   "speaker": "澁川",
   "jp": "変わらずに、交わらずに……。",
-  "en": ""
+  "en": "Never changing, never meeting..."
  },
  {
   "id": "fn04_26:011:01",
   "speaker": "澁川",
   "jp": "そんな川も、ある。",
-  "en": ""
+  "en": "There are rivers like that, too."
  },
  {
   "id": "fn04_26:012:00",
   "speaker": "澁川",
   "jp": "悲観するような話じゃ、ない。",
-  "en": ""
+  "en": "It's not a sad story."
  },
  {
   "id": "fn04_26:013:00",
   "speaker": "澁川",
   "jp": "……まだ、実感は\n出来ないかもしれんな。",
-  "en": ""
+  "en": "...Maybe you can't really feel it yet."
  },
  {
   "id": "fn04_26:014:00",
   "speaker": "澁川",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "fn04_26:015:00",
   "speaker": "澁川",
   "jp": "一度交わった流れは\n例え離れても、再び\n巡り会う時がくるだろう。",
-  "en": ""
+  "en": "Currents that have met once will cross paths again\nsomeday, even if they part."
  },
  {
   "id": "fn04_26:015:01",
   "speaker": "澁川",
   "jp": "何か、{ruby:導|しるべ}があれば\nより容易くなるかもしれん。\n……ここが―――",
-  "en": ""
+  "en": "If there's some guidepost, it might come easier. ...This\nplace is--"
  },
  {
   "id": "fn04_26:015:02",
   "speaker": "澁川",
   "jp": "……少し、喋りすぎたな。",
-  "en": ""
+  "en": "...I've talked a little too much."
  },
  {
   "id": "fn04_26:016:00",
   "speaker": "澁川",
   "jp": "何か……他に、あるか？",
-  "en": ""
+  "en": "Anything... else?"
  },
  {
   "id": "fn04_26:017:00",
   "speaker": "澁川",
   "jp": "何か……他に、あるか？",
-  "en": ""
+  "en": "Anything... else?"
  },
  {
   "id": "fn04_26:018:00",
   "speaker": "澁川",
   "jp": "……そうか。\nまた、来るといい。",
-  "en": ""
+  "en": "...I see. Come again."
  },
  {
   "id": "fn04_26:ksf:0121f",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn04_26:ksf:0123e",
   "kind": "choice",
   "jp": "澁川と話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to Shibukawa"
  },
  {
   "id": "fn04_26:ksf:0125d",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  },
  {
   "id": "fn04_26:ksf:01b89",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn04_26:ksf:01ba8",
   "kind": "choice",
   "jp": "何もしない",
   "slot": 30,
-  "en": ""
+  "en": "Do nothing"
  },
  {
   "id": "fn04_26:ksf:09aa5",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn04_26:ksf:09ac4",
   "kind": "choice",
   "jp": "澁川と話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to Shibukawa"
  },
  {
   "id": "fn04_26:ksf:09ae3",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  },
  {
   "id": "fn04_26:ksf:0a40f",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn04_26:ksf:0a42e",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  }
 ]

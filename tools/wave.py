@@ -1,7 +1,8 @@
 """Phase 6 wave bookkeeping: a group = 5 consecutive batches named by its first (g074 = b074-b078).
 
     python -X utf8 tools/wave.py done g074 [g079 ...]   merge the group's batches, write work/tl/review/<g>.txt
-    python -X utf8 tools/wave.py minors                 append every review's Minor lines to docs/polish.md (once each)
+    python -X utf8 tools/wave.py fixed g074 [...]       the same with --overwrite, after review fixes
+    python -X utf8 tools/wave.py minors                append every review's Minor lines to docs/polish.md (once each)
     python -X utf8 tools/wave.py terms                  NEW TERM lines from all translator reports, deduplicated
 """
 import re
@@ -19,9 +20,9 @@ def batches(group):
     return [f"b{i:03d}" for i in range(n, min(n + 5, LAST + 1))]
 
 
-def done(group):
+def done(group, *extra):
     bs = batches(group)
-    r = subprocess.run([sys.executable, "-X", "utf8", "tools/batches.py", "merge", *bs, "--partial"],
+    r = subprocess.run([sys.executable, "-X", "utf8", "tools/batches.py", "merge", *bs, "--partial", *extra],
                        cwd=ROOT, capture_output=True, text=True, encoding="utf-8")
     (TL / f"merge_{group}.log").write_text(r.stdout + r.stderr, encoding="utf-8")
     ok = sum(line.endswith(": OK") for line in r.stdout.splitlines())
@@ -59,6 +60,9 @@ def main(argv):
     if cmd == "done":
         for g in argv[1:]:
             done(g)
+    elif cmd == "fixed":  # after review fixes: re-merge over the earlier English
+        for g in argv[1:]:
+            done(g, "--overwrite")
     elif cmd == "minors":
         minors()
     elif cmd == "terms":

@@ -3,160 +3,160 @@
   "id": "fd05_04:001:00",
   "speaker": "弥紀",
   "jp": "お帰りなさい、\n良かった……無事だった。",
-  "en": ""
+  "en": "Welcome back. Thank goodness... You're safe."
  },
  {
   "id": "fd05_04:001:01",
   "speaker": "弥紀",
   "jp": "壇くんは大丈夫だって\n言ってくれたけど\nやっぱり心配で……。",
-  "en": ""
+  "en": "Dan-kun told me you'd be fine, but I was still\nworried..."
  },
  {
   "id": "fd05_04:001:02",
   "speaker": "弥紀",
   "jp": "んっ……。",
-  "en": ""
+  "en": "Mmh..."
  },
  {
   "id": "fd05_04:001:03",
   "speaker": "弥紀",
   "jp": "あ、ごめんね。\n実は昨日、お庭の手入れ中に\n虫に変なとこ咬まれちゃって。",
-  "en": ""
+  "en": "Oh, sorry. Yesterday, while I was tending the\ngarden, a bug bit me in a really awkward spot."
  },
  {
   "id": "fd05_04:001:04",
   "speaker": "弥紀",
   "jp": "掻いちゃダメ！って、\n気をつけてるんだけど\n気になっちゃって……。",
-  "en": ""
+  "en": "I keep telling myself \"No scratching!\", but I can't stop\nthinking about it..."
  },
  {
   "id": "fd05_04:001:05",
   "speaker": "弥紀",
   "jp": "どうしてこんな所、\n咬まれちゃったんだろう。",
-  "en": ""
+  "en": "Why did it have to bite me there, of all places?"
  },
  {
   "id": "fd05_04:001:06",
   "speaker": "弥紀",
   "jp": "うう～……掻いちゃだめ、\n掻いちゃだめ……。",
-  "en": ""
+  "en": "Uuugh... Don't scratch, don't scratch..."
  },
  {
   "id": "fd05_04:002:00",
   "speaker": "弥紀",
   "jp": "うう～……。\n掻いちゃダメ、掻いちゃダメ。",
-  "en": ""
+  "en": "Uuugh... Don't scratch, don't scratch."
  },
  {
   "id": "fd05_04:002:01",
   "speaker": "弥紀",
   "jp": "治まらないかなあ……。",
-  "en": ""
+  "en": "I wish it would calm down..."
  },
  {
   "id": "fd05_04:004:00",
   "speaker": "弥紀",
   "jp": "この薬……いいの？\nありがとう、{px}。",
-  "en": ""
+  "en": "This medicine... Are you sure? Thank you, {px}."
  },
  {
   "id": "fd05_04:004:01",
   "speaker": "弥紀",
   "jp": "爪のすぐ側って、\n本当に困るよね。かゆいより、\nもう痛くなってて……。",
-  "en": ""
+  "en": "Right next to the fingernail is the worst, isn't it? It's\ngone past itchy. Now it just hurts..."
  },
  {
   "id": "fd05_04:004:02",
   "speaker": "弥紀",
   "jp": "お礼になるかわからないけど\nこれ、もらってくれるかな？",
-  "en": ""
+  "en": "I don't know if it's much of a thank-you, but will\nyou take this?"
  },
  {
   "id": "fd05_04:004:03",
   "speaker": "弥紀",
   "jp": "たくさん買ったから、\n遠慮無く食べてね。",
-  "en": ""
+  "en": "I bought plenty, so help yourself, okay?"
  },
  {
   "id": "fd05_04:004:04",
   "speaker": "弥紀",
   "jp": "{px}、\n本当にありがとう。",
-  "en": ""
+  "en": "{px}, thank you so much."
  },
  {
   "id": "fd05_04:005:00",
   "speaker": "弥紀",
   "jp": "え……？",
-  "en": ""
+  "en": "Huh...?"
  },
  {
   "id": "fd05_04:005:01",
   "speaker": "弥紀",
   "jp": "う、うん。ありがとう。\nこれで治るのかな……？",
-  "en": ""
+  "en": "O-okay. Thanks. I wonder if this will make it\nbetter...?"
  },
  {
   "id": "fd05_04:006:00",
   "speaker": "弥紀",
   "jp": "……掻きむしったら、\n痛いよね……。",
-  "en": ""
+  "en": "...If I scratch it raw, it'll hurt, won't it...?"
  },
  {
   "id": "fd05_04:006:01",
   "speaker": "弥紀",
   "jp": "保健室……先生、\n今日お休みだっけ。",
-  "en": ""
+  "en": "The nurse's office... Wait, isn't the nurse off today?"
  },
  {
   "id": "fd05_04:008:00",
   "speaker": "弥紀",
   "jp": "さっきはお薬、ありがとう。",
-  "en": ""
+  "en": "Thanks for the medicine earlier."
  },
  {
   "id": "fd05_04:008:01",
   "speaker": "弥紀",
   "jp": "すごくよく効くんだね、\nもう全然かゆくないよ。",
-  "en": ""
+  "en": "It works really well! It doesn't itch at all anymore."
  },
  {
   "id": "fd05_04:009:00",
   "speaker": "弥紀",
   "jp": "うう……。\nやっぱりかゆいな。",
-  "en": ""
+  "en": "Uugh... It still itches."
  },
  {
   "id": "fd05_04:009:01",
   "speaker": "弥紀",
   "jp": "変なところ咬まれると、\n本当にかゆいよね……。",
-  "en": ""
+  "en": "When you get bitten somewhere weird, it really\nitches, doesn't it...?"
  },
  {
   "id": "fd05_04:ksf:0121f",
   "kind": "choice",
   "jp": "いま渡す",
   "slot": 30,
-  "en": ""
+  "en": "Give it now"
  },
  {
   "id": "fd05_04:ksf:0123e",
   "kind": "choice",
   "jp": "あとで渡す",
   "slot": 30,
-  "en": ""
+  "en": "Give it later"
  },
  {
   "id": "fd05_04:ksf:01b6b",
   "kind": "choice",
   "jp": "いま渡す",
   "slot": 30,
-  "en": ""
+  "en": "Give it now"
  },
  {
   "id": "fd05_04:ksf:01b8a",
   "kind": "choice",
   "jp": "あとで渡す",
   "slot": 30,
-  "en": ""
+  "en": "Give it later"
  }
 ]

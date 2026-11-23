@@ -3,1303 +3,1303 @@
   "id": "dg06_01:000:00",
   "speaker": "道佳",
   "jp": "くうッ……\n流石ね、{px}。",
-  "en": ""
+  "en": "Ngh... Impressive, {px}."
  },
  {
   "id": "dg06_01:000:01",
   "speaker": "道佳",
   "jp": "こんなに追い詰められたの、\nミカみゅん、初めてかも。",
-  "en": ""
+  "en": "This might be the first time Mikamyun's ever been\nbacked into a corner like this."
  },
  {
   "id": "dg06_01:000:02",
   "speaker": "道佳",
   "jp": "でも―――",
-  "en": ""
+  "en": "But--"
  },
  {
   "id": "dg06_01:000:03",
   "speaker": "道佳",
   "jp": "来たわっ、光―――",
-  "en": ""
+  "en": "Here it comes, the light--"
  },
  {
   "id": "dg06_01:000:04",
   "speaker": "道佳",
   "jp": "―――ふどぅわッ！！",
-  "en": ""
+  "en": "--Fwuaahh!!"
  },
  {
   "id": "dg06_01:000:05",
   "speaker": "要",
   "jp": "くッ……。\nこれが光札……\nなんて圧力や。",
-  "en": ""
+  "en": "Ngh... So this is a Bright card... Such pressure."
  },
  {
   "id": "dg06_01:000:06",
   "speaker": "白",
   "jp": "よくわかったであろう。\n光札はヒトが手にするには\nあまりにも大きすぎる力。",
-  "en": ""
+  "en": "Now you understand. A Bright card's power is far\ntoo great for a human to hold."
  },
  {
   "id": "dg06_01:000:07",
   "speaker": "白",
   "jp": "下がるがよい。\nこれより先は\n執行者にしか務まらぬ。",
-  "en": ""
+  "en": "Stand back. From here on, only the Executor can\nsee this through."
  },
  {
   "id": "dg06_01:000:08",
   "speaker": "道佳",
   "jp": "いいえ。\n引くのはアナタたちの方よ。",
-  "en": ""
+  "en": "No. You're the ones who'll be stepping back."
  },
  {
   "id": "dg06_01:000:09",
   "speaker": "白",
   "jp": "其方……\nその消耗した身体で、\n何をしようと言うのじゃ。",
-  "en": ""
+  "en": "You... In that worn-out body of yours, what do you\nthink you can do?"
  },
  {
   "id": "dg06_01:000:10",
   "speaker": "道佳",
   "jp": "決まってるじゃない☆\nあの光札を《{ruby:竜胆|りんどう}の君》に\n差し上げるのよ。",
-  "en": ""
+  "en": "Isn't it obvious~? I'm going to give that Bright card\nto my Gentian Prince."
  },
  {
   "id": "dg06_01:000:11",
   "speaker": "要",
   "jp": "何を言うてるの、{ruby:蒲生|がもう}！\nあんさんにならわかるやろ、\nこの札は並やない！",
-  "en": ""
+  "en": "What are you saying, Gamo! You of all people must\nsee it-- this is no ordinary card!"
  },
  {
   "id": "dg06_01:000:12",
   "speaker": "要",
   "jp": "あない強大な力をした札を\n鎮められるんは……",
-  "en": ""
+  "en": "The only one who can quell a card with such\nimmense power..."
  },
  {
   "id": "dg06_01:000:13",
   "speaker": "要",
   "jp": "……札の執行者だけや。",
-  "en": ""
+  "en": "...is the Executor of the cards."
  },
  {
   "id": "dg06_01:000:14",
   "speaker": "道佳",
   "jp": "あらあら、アタシが一度でも\nやると決めた事を\n投げ出した事があった？",
-  "en": ""
+  "en": "Oh my, have I ever once given up on something I'd\nmade up my mind to do?"
  },
  {
   "id": "dg06_01:000:15",
   "speaker": "道佳",
   "jp": "アタシは、もう決めたの。\n絶対やり遂げる、って。",
-  "en": ""
+  "en": "I've already decided. I'll see this through, no matter\nwhat."
  },
  {
   "id": "dg06_01:000:16",
   "speaker": "道佳",
   "jp": "さあ―――",
-  "en": ""
+  "en": "Now--"
  },
  {
   "id": "dg06_01:000:17",
   "speaker": "要",
   "jp": "{ruby:呪|しゅ}が……解けた……。\n{ruby:蒲生|がもう}……？",
-  "en": ""
+  "en": "The spell... is broken... Gamo...?"
  },
  {
   "id": "dg06_01:000:18",
   "speaker": "道佳",
   "jp": "カナめんは逃げて。\nここは危険よ。",
-  "en": ""
+  "en": "Run, Kanamen. It's dangerous here."
  },
  {
   "id": "dg06_01:000:19",
   "speaker": "道佳",
   "jp": "{px}も……。",
-  "en": ""
+  "en": "You too, {px}..."
  },
  {
   "id": "dg06_01:001:00",
   "speaker": "道佳",
   "jp": "ミカみゅんのワガママに、\n付き合わせちゃって……\nゴメンね。",
-  "en": ""
+  "en": "Sorry... for dragging you into Mikamyun's selfishness."
  },
  {
   "id": "dg06_01:002:00",
   "speaker": "道佳",
   "jp": "……ンもう、お調子者さん。",
-  "en": ""
+  "en": "...Oh, honestly, you smooth talker."
  },
  {
   "id": "dg06_01:002:01",
   "speaker": "道佳",
   "jp": "ミカみゅんの心は、\nそんなんじゃ奪えないゾ☆",
-  "en": ""
+  "en": "It'll take more than that to steal Mikamyun's heart~"
  },
  {
   "id": "dg06_01:002:02",
   "speaker": "道佳",
   "jp": "なんて……ちょっとだけ、\n嬉しかったけど☆",
-  "en": ""
+  "en": "Not that I wasn't... just a little happy~"
  },
  {
   "id": "dg06_01:003:00",
   "speaker": "道佳",
   "jp": "……ンもう。",
-  "en": ""
+  "en": "...Oh, honestly."
  },
  {
   "id": "dg06_01:003:01",
   "speaker": "道佳",
   "jp": "そんな顔されたら、\nキュンってしちゃうでしょ☆",
-  "en": ""
+  "en": "If you make a face like that, my heart'll skip a beat~"
  },
  {
   "id": "dg06_01:003:02",
   "speaker": "道佳",
   "jp": "……アリガトね。",
-  "en": ""
+  "en": "...Thank you."
  },
  {
   "id": "dg06_01:004:00",
   "speaker": "道佳",
   "jp": "ふふッ、\nせっかくのムードが\n台無しだゾ☆",
-  "en": ""
+  "en": "Hehe, you've gone and ruined the mood~"
  },
  {
   "id": "dg06_01:004:01",
   "speaker": "道佳",
   "jp": "……でも、アリガトね。",
-  "en": ""
+  "en": "...But thank you."
  },
  {
   "id": "dg06_01:005:00",
   "speaker": "道佳",
   "jp": "やんもうッ、正直さん☆",
-  "en": ""
+  "en": "Oh, you, so honest~"
  },
  {
   "id": "dg06_01:005:01",
   "speaker": "道佳",
   "jp": "でも……清々しいわね。\nふふっ☆",
-  "en": ""
+  "en": "But... that's refreshing. Hehe~"
  },
  {
   "id": "dg06_01:006:00",
   "speaker": "道佳",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "dg06_01:006:01",
   "speaker": "道佳",
   "jp": "そんな風に言われるなんて、\n思ってもなかったわ。",
-  "en": ""
+  "en": "I never dreamed anyone would say something like\nthat to me."
  },
  {
   "id": "dg06_01:006:02",
   "speaker": "道佳",
   "jp": "{px}……アリガト。",
-  "en": ""
+  "en": "{px}... thank you."
  },
  {
   "id": "dg06_01:007:00",
   "speaker": "道佳",
   "jp": "もう、優し過ぎるのよ。\n{px}は……。",
-  "en": ""
+  "en": "Honestly, you're too kind, {px}..."
  },
  {
   "id": "dg06_01:007:01",
   "speaker": "道佳",
   "jp": "……うっかり\nトキめいちゃうじゃない。",
-  "en": ""
+  "en": "...You'll make my heart flutter before I know it."
  },
  {
   "id": "dg06_01:008:00",
   "speaker": "道佳",
   "jp": "……ごめんなさい。",
-  "en": ""
+  "en": "...I'm sorry."
  },
  {
   "id": "dg06_01:009:00",
   "speaker": "道佳",
   "jp": "ヤダ、\nそんな顔しないで？",
-  "en": ""
+  "en": "Oh no, please don't make that face."
  },
  {
   "id": "dg06_01:009:01",
   "speaker": "道佳",
   "jp": "……悪いミカみゅんね。\nごめんなさい。",
-  "en": ""
+  "en": "...Mikamyun's been bad. I'm sorry."
  },
  {
   "id": "dg06_01:010:00",
   "speaker": "道佳",
   "jp": "……そうよね。\nそれが当然だわ。",
-  "en": ""
+  "en": "...You're right. That's only natural."
  },
  {
   "id": "dg06_01:011:00",
   "speaker": "白",
   "jp": "く……\n揺れが酷くなっておる……。",
-  "en": ""
+  "en": "Ngh... The tremors are growing worse..."
  },
  {
   "id": "dg06_01:011:01",
   "speaker": "白",
   "jp": "ええい、下がらぬか。\nそこは危険じゃ！",
-  "en": ""
+  "en": "Enough, stand back! It is dangerous there!"
  },
  {
   "id": "dg06_01:011:02",
   "speaker": "道佳",
   "jp": "いいえ、退かないわ。",
-  "en": ""
+  "en": "No, I won't back down."
  },
  {
   "id": "dg06_01:011:03",
   "speaker": "道佳",
   "jp": "蒲生が秘術の全てを賭けてッ、\nあの方のために―――",
-  "en": ""
+  "en": "Staking every secret art of the Gamo, for that\nperson's sake--"
  },
  {
   "id": "dg06_01:011:04",
   "speaker": "道佳",
   "jp": "―――！？",
-  "en": ""
+  "en": "--!?"
  },
  {
   "id": "dg06_01:011:05",
   "speaker": "要",
   "jp": "―――ミカ！！",
-  "en": ""
+  "en": "--Mika!!"
  },
  {
   "id": "dg06_01:011:06",
   "speaker": "要",
   "jp": "天井がッ―――",
-  "en": ""
+  "en": "The ceiling--"
  },
  {
   "id": "dg06_01:012:00",
   "speaker": "道佳",
   "jp": "{px}……？",
-  "en": ""
+  "en": "{px}...?"
  },
  {
   "id": "dg06_01:012:01",
   "speaker": "道佳",
   "jp": "ミカみゅんは敵なのに、\nどうして……？",
-  "en": ""
+  "en": "Mikamyun's your enemy, so why...?"
  },
  {
   "id": "dg06_01:013:00",
   "speaker": "道佳",
   "jp": "…………ばか。",
-  "en": ""
+  "en": "......Dummy."
  },
  {
   "id": "dg06_01:014:00",
   "speaker": "道佳",
   "jp": "{px}……。",
-  "en": ""
+  "en": "{px}..."
  },
  {
   "id": "dg06_01:015:00",
   "speaker": "道佳",
   "jp": "あッ……。",
-  "en": ""
+  "en": "Ah..."
  },
  {
   "id": "dg06_01:015:01",
   "speaker": "道佳",
   "jp": "ふふっ、\n暑苦しいのも……\nこういう時は、悪くないのね。",
-  "en": ""
+  "en": "Hehe, being hot-blooded... isn't so bad at a time like\nthis."
  },
  {
   "id": "dg06_01:016:00",
   "speaker": "道佳",
   "jp": "{px}……。",
-  "en": ""
+  "en": "{px}..."
  },
  {
   "id": "dg06_01:017:00",
   "speaker": "道佳",
   "jp": "あッ……。",
-  "en": ""
+  "en": "Ah..."
  },
  {
   "id": "dg06_01:017:01",
   "speaker": "道佳",
   "jp": "{px}……\nアナタって、本当に素敵ね。",
-  "en": ""
+  "en": "{px}... You really are wonderful."
  },
  {
   "id": "dg06_01:018:00",
   "speaker": "道佳",
   "jp": "ンもう……\n今更照れてるの？",
-  "en": ""
+  "en": "Oh, honestly... Getting shy now, of all times?"
  },
  {
   "id": "dg06_01:019:00",
   "speaker": "道佳",
   "jp": "や、やだ……。\nそんなつもりじゃ……。",
-  "en": ""
+  "en": "O-oh no... I didn't mean it like that..."
  },
  {
   "id": "dg06_01:020:00",
   "speaker": "道佳",
   "jp": "ンもう……\n今更照れてるの？",
-  "en": ""
+  "en": "Oh, honestly... Getting shy now, of all times?"
  },
  {
   "id": "dg06_01:021:00",
   "speaker": "道佳",
   "jp": "ンもう……\n今更照れてるの？",
-  "en": ""
+  "en": "Oh, honestly... Getting shy now, of all times?"
  },
  {
   "id": "dg06_01:022:00",
   "speaker": "要",
   "jp": "ミカ……\n無事、やねんね……。",
-  "en": ""
+  "en": "Mika... You're all right..."
  },
  {
   "id": "dg06_01:022:01",
   "speaker": "要",
   "jp": "よかった……。",
-  "en": ""
+  "en": "Thank goodness..."
  },
  {
   "id": "dg06_01:022:02",
   "speaker": "道佳",
   "jp": "カナめんこそ……！\nどうして早く逃げなかったの！！",
-  "en": ""
+  "en": "Look who's talking, Kanamen...! Why didn't you run\naway sooner!!"
  },
  {
   "id": "dg06_01:022:03",
   "speaker": "道佳",
   "jp": "カナめんは女の子なんだから、\nこんな無茶したら―――",
-  "en": ""
+  "en": "You're a girl, Kanamen, so if you do something this\nreckless--"
  },
  {
   "id": "dg06_01:022:04",
   "speaker": "道佳",
   "jp": "―――おぶッ！",
-  "en": ""
+  "en": "--Oof!"
  },
  {
   "id": "dg06_01:022:05",
   "speaker": "要",
   "jp": "阿呆。",
-  "en": ""
+  "en": "Fool."
  },
  {
   "id": "dg06_01:022:06",
   "speaker": "要",
   "jp": "あんたかて、\n立派な女の子やないの。",
-  "en": ""
+  "en": "You're every bit as much a girl yourself."
  },
  {
   "id": "dg06_01:022:07",
   "speaker": "道佳",
   "jp": "カナめん……。",
-  "en": ""
+  "en": "Kanamen..."
  },
  {
   "id": "dg06_01:023:00",
   "speaker": "要",
   "jp": "あんさんかて、そう思うたから\n庇ってくれたんやろ？",
-  "en": ""
+  "en": "You thought the same, didn't you? That's why you\nshielded me."
  },
  {
   "id": "dg06_01:024:00",
   "speaker": "要",
   "jp": "……ほんま、頭が下がるわ。",
-  "en": ""
+  "en": "...Truly, I have to hand it to you."
  },
  {
   "id": "dg06_01:024:01",
   "speaker": "要",
   "jp": "聞いててこっちが\nこそばゆうなる。",
-  "en": ""
+  "en": "Just listening to it makes me feel all ticklish."
  },
  {
   "id": "dg06_01:025:00",
   "speaker": "要",
   "jp": "……ふふ。\nほんま、変わった人やわ。",
-  "en": ""
+  "en": "...Hehe. You really are a strange one."
  },
  {
   "id": "dg06_01:026:00",
   "speaker": "要",
   "jp": "……ふふ。\nほんま、変わった人やわ。",
-  "en": ""
+  "en": "...Hehe. You really are a strange one."
  },
  {
   "id": "dg06_01:027:00",
   "speaker": "要",
   "jp": "……そう言うてくれるんね。",
-  "en": ""
+  "en": "...So that's what you'd say to me."
  },
  {
   "id": "dg06_01:028:00",
   "speaker": "要",
   "jp": "ふうん……。",
-  "en": ""
+  "en": "Hmm..."
  },
  {
   "id": "dg06_01:028:01",
   "speaker": "要",
   "jp": "まあ別にうちは、\nどっちでも\n構しまへんけど。",
-  "en": ""
+  "en": "Well, it makes no difference to me either way."
  },
  {
   "id": "dg06_01:029:00",
   "speaker": "要",
   "jp": "何言うてはりますの。\nちゃんとミカを\n護ってくれたやない。",
-  "en": ""
+  "en": "Whatever are you saying? You protected Mika,\ndidn't you?"
  },
  {
   "id": "dg06_01:030:00",
   "speaker": "要",
   "jp": "……違いますの？",
-  "en": ""
+  "en": "...Isn't that so?"
  },
  {
   "id": "dg06_01:030:01",
   "speaker": "要",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "dg06_01:031:00",
   "speaker": "要",
   "jp": "そない言うて、しっかり手は\n蒲生を守ってるやない。",
-  "en": ""
+  "en": "You say that, and yet your hands are keeping Gamo\nsafe, aren't they?"
  },
  {
   "id": "dg06_01:031:01",
   "speaker": "要",
   "jp": "……変わった人やね、\nほんまに。",
-  "en": ""
+  "en": "...You really are a strange one."
  },
  {
   "id": "dg06_01:032:00",
   "speaker": "要",
   "jp": "……ほんま、変わった人やわ。",
-  "en": ""
+  "en": "...You really are a strange one."
  },
  {
   "id": "dg06_01:033:00",
   "speaker": "白",
   "jp": "{px}、\nいつまでも和んでおる\n場合ではないぞ。",
-  "en": ""
+  "en": "{px}, this is no time to be lounging about."
  },
  {
   "id": "dg06_01:034:00",
   "speaker": "要",
   "jp": "なッ―――！？",
-  "en": ""
+  "en": "Wha--!?"
  },
  {
   "id": "dg06_01:034:01",
   "speaker": "要",
   "jp": "何しはるの！！\nうちなんかより\nミカ……ミカが！！",
-  "en": ""
+  "en": "What are you doing!! Never mind me, Mika... Mika\nis...!!"
  },
  {
   "id": "dg06_01:034:02",
   "speaker": "白",
   "jp": "安心せい。\n此奴なら無事じゃ。",
-  "en": ""
+  "en": "Be at ease. This one is unharmed."
  },
  {
   "id": "dg06_01:034:03",
   "speaker": "道佳",
   "jp": "ふ～、乙女が圧死なんて\n死んでも死にきれない\nところだったわ。",
-  "en": ""
+  "en": "Phew~ A maiden crushed to death... I'd never have\nrested in peace."
  },
  {
   "id": "dg06_01:034:04",
   "speaker": "道佳",
   "jp": "ありがと、白札ちゃん。",
-  "en": ""
+  "en": "Thanks, little White Card."
  },
  {
   "id": "dg06_01:034:05",
   "speaker": "要",
   "jp": "ミカ……！？",
-  "en": ""
+  "en": "Mika...!?"
  },
  {
   "id": "dg06_01:034:06",
   "speaker": "道佳",
   "jp": "もう、カナめんたら。\n心配屋さんなんだから。",
-  "en": ""
+  "en": "Honestly, Kanamen. You're such a worrywart."
  },
  {
   "id": "dg06_01:034:07",
   "speaker": "道佳",
   "jp": "そういうところだけは\n昔から変わらないわね☆",
-  "en": ""
+  "en": "That's one thing about you that hasn't changed\nsince way back~"
  },
  {
   "id": "dg06_01:035:00",
   "speaker": "道佳",
   "jp": "ありがとう、{px}。\nカナめんを護ってくれて。",
-  "en": ""
+  "en": "Thank you, {px}. For protecting Kanamen."
  },
  {
   "id": "dg06_01:036:00",
   "speaker": "道佳",
   "jp": "カナめんって\nホント危なっかしいものね☆",
-  "en": ""
+  "en": "Kanamen really is a handful, isn't she~"
  },
  {
   "id": "dg06_01:036:01",
   "speaker": "道佳",
   "jp": "わかるわ、気持ち。",
-  "en": ""
+  "en": "I know just how you feel."
  },
  {
   "id": "dg06_01:037:00",
   "speaker": "道佳",
   "jp": "うふふッ、偉い偉い☆\nナデナデしてあげちゃう☆",
-  "en": ""
+  "en": "Ufufu, good boy, good boy~ I'll give you a little pat\non the head~"
  },
  {
   "id": "dg06_01:038:00",
   "speaker": "道佳",
   "jp": "やだ、もう……☆",
-  "en": ""
+  "en": "Oh, stop it...~"
  },
  {
   "id": "dg06_01:038:01",
   "speaker": "道佳",
   "jp": "ちょっとカッコいいかもって\n思っちゃった☆",
-  "en": ""
+  "en": "I kinda thought you looked a little cool just now~"
  },
  {
   "id": "dg06_01:039:00",
   "speaker": "道佳",
   "jp": "幼馴染みの役目、\n取られちゃったわね☆",
-  "en": ""
+  "en": "You went and stole the childhood friend's job~"
  },
  {
   "id": "dg06_01:040:00",
   "speaker": "道佳",
   "jp": "……{px}？",
-  "en": ""
+  "en": "...{px}?"
  },
  {
   "id": "dg06_01:041:00",
   "speaker": "道佳",
   "jp": "え……？",
-  "en": ""
+  "en": "Huh...?"
  },
  {
   "id": "dg06_01:042:00",
   "speaker": "道佳",
   "jp": "ど、どうしたの？",
-  "en": ""
+  "en": "Wh-what's wrong?"
  },
  {
   "id": "dg06_01:043:00",
   "speaker": "道佳",
   "jp": "{px}……？",
-  "en": ""
+  "en": "{px}...?"
  },
  {
   "id": "dg06_01:044:00",
   "speaker": "道佳",
   "jp": "{px}……？",
-  "en": ""
+  "en": "{px}...?"
  },
  {
   "id": "dg06_01:045:00",
   "speaker": "道佳",
   "jp": "え、や、やあね。\nアタシだったらほら、\nピンピンしてるわよ☆",
-  "en": ""
+  "en": "Oh, c-come on. Look, I'm perfectly fine and dandy~"
  },
  {
   "id": "dg06_01:045:01",
   "speaker": "道佳",
   "jp": "ほらほら、\nミカみゅん、\n元気ハツラツッ☆",
-  "en": ""
+  "en": "See, see? Mikamyun is full of pep~"
  },
  {
   "id": "dg06_01:045:02",
   "speaker": "要",
   "jp": "そない、{ruby:巫山戯|ふざけ}るんも\nいい加減にして！！",
-  "en": ""
+  "en": "That's enough of your fooling around!!"
  },
  {
   "id": "dg06_01:045:03",
   "speaker": "要",
   "jp": "もっと……\n自分の事も心配しぃ！！",
-  "en": ""
+  "en": "Worry about... yourself a bit more, too!!"
  },
  {
   "id": "dg06_01:045:04",
   "speaker": "道佳",
   "jp": "何言ってるのよぉ、\nこれでも頑丈なんだから☆",
-  "en": ""
+  "en": "What are you talking about? I'm sturdier than I\nlook~"
  },
  {
   "id": "dg06_01:045:05",
   "speaker": "道佳",
   "jp": "そ・れ・に！\nカナめんは女の子でしょう？",
-  "en": ""
+  "en": "A-n-d! You're a girl, aren't you, Kanamen?"
  },
  {
   "id": "dg06_01:045:06",
   "speaker": "道佳",
   "jp": "だから、カナめんを護るのが\n一番正しいの。",
-  "en": ""
+  "en": "So protecting Kanamen is the rightest thing to do."
  },
  {
   "id": "dg06_01:046:00",
   "speaker": "道佳",
   "jp": "でしょでしょ？\n{px}☆",
-  "en": ""
+  "en": "Right, right? {px}~"
  },
  {
   "id": "dg06_01:047:00",
   "speaker": "道佳",
   "jp": "うふふッ☆\nそうよね、愛よねッ☆",
-  "en": ""
+  "en": "Ufufu~ That's right, it's love~"
  },
  {
   "id": "dg06_01:048:00",
   "speaker": "道佳",
   "jp": "やんもう、\n無邪気に紳士サン☆",
-  "en": ""
+  "en": "Oh, stop it, you innocent little gentleman~"
  },
  {
   "id": "dg06_01:049:00",
   "speaker": "道佳",
   "jp": "ダメよ、紳士はもっと\n控えめに、よ？",
-  "en": ""
+  "en": "No, no, a gentleman should be more modest, you\nknow?"
  },
  {
   "id": "dg06_01:050:00",
   "speaker": "道佳",
   "jp": "きゃん☆\nサラッと言っちゃって☆",
-  "en": ""
+  "en": "Kyan~ You said that so smoothly~"
  },
  {
   "id": "dg06_01:051:00",
   "speaker": "道佳",
   "jp": "もう、ミカみゅんの事は\nいまはいいのッ☆",
-  "en": ""
+  "en": "Oh, never mind Mikamyun right now~"
  },
  {
   "id": "dg06_01:051:01",
   "speaker": "道佳",
   "jp": "……そう言ってくれるのは、\n嬉しいけどね☆",
-  "en": ""
+  "en": "...Though I'm glad you said that~"
  },
  {
   "id": "dg06_01:052:00",
   "speaker": "道佳",
   "jp": "……その気持ちだけ、\nいまは受け取っておくわん☆",
-  "en": ""
+  "en": "...For now, I'll just accept the thought~"
  },
  {
   "id": "dg06_01:053:00",
   "speaker": "道佳",
   "jp": "{px}……。",
-  "en": ""
+  "en": "{px}..."
  },
  {
   "id": "dg06_01:053:01",
   "speaker": "道佳",
   "jp": "……優しいのね。\nアリガト。",
-  "en": ""
+  "en": "...You're so kind. Thank you."
  },
  {
   "id": "dg06_01:054:00",
   "speaker": "道佳",
   "jp": "もう、ミカみゅんの事は\nいまはいいのッ☆",
-  "en": ""
+  "en": "Oh, never mind Mikamyun right now~"
  },
  {
   "id": "dg06_01:054:01",
   "speaker": "道佳",
   "jp": "……そう言ってくれるのは、\n嬉しいけどね☆",
-  "en": ""
+  "en": "...Though I'm glad you said that~"
  },
  {
   "id": "dg06_01:055:00",
   "speaker": "道佳",
   "jp": "ふふっ、男は背中で\n語るものよね☆",
-  "en": ""
+  "en": "Hehe, a man lets his back do the talking, right~"
  },
  {
   "id": "dg06_01:056:00",
   "speaker": "要",
   "jp": "{px}……\nミカ……。",
-  "en": ""
+  "en": "{px}... Mika..."
  },
  {
   "id": "dg06_01:056:01",
   "speaker": "要",
   "jp": "なんや……ずるいわ、\n男の子って……。",
-  "en": ""
+  "en": "Honestly... Boys are so unfair..."
  },
  {
   "id": "dg06_01:056:02",
   "speaker": "白",
   "jp": "{px}、\nいつまでも和んでおる\n場合ではないぞ。",
-  "en": ""
+  "en": "{px}, this is no time to be lounging about."
  },
  {
   "id": "dg06_01:057:00",
   "speaker": "白",
   "jp": "ええい、まったく―――",
-  "en": ""
+  "en": "Enough, honestly--"
  },
  {
   "id": "dg06_01:057:01",
   "speaker": "要",
   "jp": "え―――？",
-  "en": ""
+  "en": "Huh--?"
  },
  {
   "id": "dg06_01:057:02",
   "speaker": "道佳",
   "jp": "白札ちゃん……？",
-  "en": ""
+  "en": "Little White Card...?"
  },
  {
   "id": "dg06_01:057:03",
   "speaker": "白",
   "jp": "ふん……。\nこの程度の{ruby:瓦礫|がれき}を砕くくらい、\n妾の力でも事足りるわ。",
-  "en": ""
+  "en": "Hmph... Smashing rubble such as this is well within\nmy power."
  },
  {
   "id": "dg06_01:057:04",
   "speaker": "道佳",
   "jp": "ありがとう、\n白札ちゃん……。",
-  "en": ""
+  "en": "Thank you, little White Card..."
  },
  {
   "id": "dg06_01:057:05",
   "speaker": "要",
   "jp": "ミカ……\n無事、やねんね……。",
-  "en": ""
+  "en": "Mika... You're all right..."
  },
  {
   "id": "dg06_01:057:06",
   "speaker": "要",
   "jp": "よかった……。",
-  "en": ""
+  "en": "Thank goodness..."
  },
  {
   "id": "dg06_01:057:07",
   "speaker": "道佳",
   "jp": "もう、カナめんたら\nダメじゃない！",
-  "en": ""
+  "en": "Honestly, Kanamen, you shouldn't have!"
  },
  {
   "id": "dg06_01:057:08",
   "speaker": "道佳",
   "jp": "カナめんは女の子なんだから、\nこんな無茶したら―――",
-  "en": ""
+  "en": "You're a girl, Kanamen, so if you do something this\nreckless--"
  },
  {
   "id": "dg06_01:057:09",
   "speaker": "道佳",
   "jp": "―――おぶッ！",
-  "en": ""
+  "en": "--Oof!"
  },
  {
   "id": "dg06_01:057:10",
   "speaker": "要",
   "jp": "阿呆。",
-  "en": ""
+  "en": "Fool."
  },
  {
   "id": "dg06_01:057:11",
   "speaker": "要",
   "jp": "あんたかて、\n立派な女の子やないの。",
-  "en": ""
+  "en": "You're every bit as much a girl yourself."
  },
  {
   "id": "dg06_01:057:12",
   "speaker": "道佳",
   "jp": "カナめん……。",
-  "en": ""
+  "en": "Kanamen..."
  },
  {
   "id": "dg06_01:057:13",
   "speaker": "白",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "dg06_01:057:14",
   "speaker": "白",
   "jp": "……解せぬ。\nどうしてヒトというのはこう\n後先考えぬのじゃ。",
-  "en": ""
+  "en": "...I do not understand. Why must humans be so\nheedless of the consequences?"
  },
  {
   "id": "dg06_01:058:00",
   "speaker": "白",
   "jp": "愛情……\n情、か……。",
-  "en": ""
+  "en": "Affection... Feeling, is it...?"
  },
  {
   "id": "dg06_01:058:01",
   "speaker": "白",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "dg06_01:059:00",
   "speaker": "白",
   "jp": "……呑気な顔をしおって。",
-  "en": ""
+  "en": "...Such a carefree face."
  },
  {
   "id": "dg06_01:059:01",
   "speaker": "白",
   "jp": "其方を見ておると余計に\nわからなくなりおるわ。",
-  "en": ""
+  "en": "Watching you only makes it harder to understand."
  },
  {
   "id": "dg06_01:060:00",
   "speaker": "白",
   "jp": "……ええい、少しは\n落ち着かぬか。",
-  "en": ""
+  "en": "...Enough, compose yourself a little."
  },
  {
   "id": "dg06_01:060:01",
   "speaker": "白",
   "jp": "其方を見ておると余計に\nわからなくなりおるわ。",
-  "en": ""
+  "en": "Watching you only makes it harder to understand."
  },
  {
   "id": "dg06_01:061:00",
   "speaker": "白",
   "jp": "友情……\n情、か……。",
-  "en": ""
+  "en": "Friendship... Feeling, is it...?"
  },
  {
   "id": "dg06_01:061:01",
   "speaker": "白",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "dg06_01:062:00",
   "speaker": "白",
   "jp": "誰も其方の事とは\n言うておらぬじゃろう。",
-  "en": ""
+  "en": "No one said anything about you."
  },
  {
   "id": "dg06_01:062:01",
   "speaker": "白",
   "jp": "……とは言え、\n其方も十分に\n理解しがたい存在じゃがの。",
-  "en": ""
+  "en": "...That said, you too are a thoroughly baffling\ncreature."
  },
  {
   "id": "dg06_01:063:00",
   "speaker": "白",
   "jp": "……其方に聞くだけ\n無駄だったようじゃな。",
-  "en": ""
+  "en": "...It seems asking you was a waste of breath."
  },
  {
   "id": "dg06_01:064:00",
   "speaker": "白",
   "jp": "誰も其方の事とは\n言うておらぬじゃろう。",
-  "en": ""
+  "en": "No one said anything about you."
  },
  {
   "id": "dg06_01:064:01",
   "speaker": "白",
   "jp": "……とは言え、\n其方も十分に\n理解しがたい存在じゃがの。",
-  "en": ""
+  "en": "...That said, you too are a thoroughly baffling\ncreature."
  },
  {
   "id": "dg06_01:065:00",
   "speaker": "白",
   "jp": "……其方に聞くだけ\n無駄だったようじゃな。",
-  "en": ""
+  "en": "...It seems asking you was a waste of breath."
  },
  {
   "id": "dg06_01:066:00",
   "speaker": "白",
   "jp": "……其方に聞くだけ\n無駄だったようじゃな。",
-  "en": ""
+  "en": "...It seems asking you was a waste of breath."
  },
  {
   "id": "dg06_01:067:00",
   "speaker": "白",
   "jp": "さて、いつまでも\n和んでおる場合ではないぞ。",
-  "en": ""
+  "en": "Now then, this is no time to be lounging about."
  },
  {
   "id": "dg06_01:068:00",
   "speaker": "白",
   "jp": "光札の起動は時間の問題じゃ。\n収めに行かねばの。",
-  "en": ""
+  "en": "It is only a matter of time before the Bright card\nawakens. We must go and seal it."
  },
  {
   "id": "dg06_01:068:01",
   "speaker": "白",
   "jp": "……此度の光札は\n果たしてどれ程の力を\n得ておるやら。",
-  "en": ""
+  "en": "...I wonder just how much power this Bright card\nhas gained."
  },
  {
   "id": "dg06_01:068:02",
   "speaker": "白",
   "jp": "どうにもこの{ruby:洞|うろ}は妙じゃ。\n光札と{ruby:相性が良すぎる|・・・・・・・}。",
-  "en": ""
+  "en": "Something about this Hollow is strange. It is \"far too\ncompatible\" with the Bright card."
  },
  {
   "id": "dg06_01:068:03",
   "speaker": "白",
   "jp": "情報が許容量を超え、\n札が暴走するなど\n想定外の事じゃ。",
-  "en": ""
+  "en": "For the information to exceed its limit and send the\ncard out of control... that was never foreseen."
  },
  {
   "id": "dg06_01:068:04",
   "speaker": "白",
   "jp": "……{px}。\n頼りは其方だけじゃ。\nあまり無理はするでないぞ？",
-  "en": ""
+  "en": "...{px}. You are the only one I can rely on. Do not\npush yourself too hard, hear?"
  },
  {
   "id": "dg06_01:069:00",
   "speaker": "白",
   "jp": "な、なんじゃそれは……！",
-  "en": ""
+  "en": "Wh-what is that supposed to mean...!"
  },
  {
   "id": "dg06_01:069:01",
   "speaker": "白",
   "jp": "そのように醜態を{ruby:晒|さら}す故、\n{ruby:侮|あなど}られるのじゃ。\n少しは自戒せい！",
-  "en": ""
+  "en": "It is because you make such a spectacle of yourself\nthat you are looked down upon. Reflect a little!"
  },
  {
   "id": "dg06_01:070:00",
   "speaker": "白",
   "jp": "……浮かれている場合では\nなかろう。",
-  "en": ""
+  "en": "...This is hardly the time to be giddy."
  },
  {
   "id": "dg06_01:070:01",
   "speaker": "白",
   "jp": "そのように醜態を{ruby:晒|さら}す故、\n{ruby:侮|あなど}られるのじゃ。\n少しは自戒せい！",
-  "en": ""
+  "en": "It is because you make such a spectacle of yourself\nthat you are looked down upon. Reflect a little!"
  },
  {
   "id": "dg06_01:071:00",
   "speaker": "白",
   "jp": "それが不安要素じゃと\n言うておる。",
-  "en": ""
+  "en": "That is exactly what I am worried about."
  },
  {
   "id": "dg06_01:071:01",
   "speaker": "白",
   "jp": "まあ……いまとなっては\n其方らしいとも\n言えるがの。",
-  "en": ""
+  "en": "Well... by now, one might say that is just like you."
  },
  {
   "id": "dg06_01:072:00",
   "speaker": "白",
   "jp": "うむ。\nその言葉、忘れるでないぞ。",
-  "en": ""
+  "en": "Indeed. Do not forget those words."
  },
  {
   "id": "dg06_01:073:00",
   "speaker": "白",
   "jp": "それが不安要素じゃと\n言うておる。",
-  "en": ""
+  "en": "That is exactly what I am worried about."
  },
  {
   "id": "dg06_01:073:01",
   "speaker": "白",
   "jp": "まあ……いまとなっては\n其方らしいとも\n言えるがの。",
-  "en": ""
+  "en": "Well... by now, one might say that is just like you."
  },
  {
   "id": "dg06_01:074:00",
   "speaker": "白",
   "jp": "それが不安要素じゃと\n言うておる。",
-  "en": ""
+  "en": "That is exactly what I am worried about."
  },
  {
   "id": "dg06_01:074:01",
   "speaker": "白",
   "jp": "まあ……いまとなっては\n其方らしいとも\n言えるがの。",
-  "en": ""
+  "en": "Well... by now, one might say that is just like you."
  },
  {
   "id": "dg06_01:075:00",
   "speaker": "白",
   "jp": "なんじゃその\n情けない顔は……。",
-  "en": ""
+  "en": "What is that pitiful face...?"
  },
  {
   "id": "dg06_01:075:01",
   "speaker": "白",
   "jp": "そのように醜態を{ruby:晒|さら}す故、\n{ruby:侮|あなど}られるのじゃ。\n少しは自戒せい！",
-  "en": ""
+  "en": "It is because you make such a spectacle of yourself\nthat you are looked down upon. Reflect a little!"
  },
  {
   "id": "dg06_01:076:00",
   "speaker": "白",
   "jp": "下手な考えを巡らす前に、\n動けばよい。",
-  "en": ""
+  "en": "Rather than mulling over half-baked ideas, simply\nact."
  },
  {
   "id": "dg06_01:076:01",
   "speaker": "白",
   "jp": "―――其方には\nそれが似合いじゃ。",
-  "en": ""
+  "en": "--That suits you best."
  },
  {
   "id": "dg06_01:077:00",
   "speaker": "白",
   "jp": "まったく……。",
-  "en": ""
+  "en": "Honestly..."
  },
  {
   "id": "dg06_01:078:00",
   "speaker": "白",
   "jp": "―――来たか。",
-  "en": ""
+  "en": "--Here it comes."
  },
  {
   "id": "dg06_01:078:01",
   "speaker": "要",
   "jp": "くッ……。",
-  "en": ""
+  "en": "Ngh..."
  },
  {
   "id": "dg06_01:078:02",
   "speaker": "道佳",
   "jp": "きゃァん！\nまたよ！！",
-  "en": ""
+  "en": "Kyaaan! Not again!!"
  },
  {
   "id": "dg06_01:078:03",
   "speaker": "白",
   "jp": "其方たちは下がっておれ。\n参るぞ、{px}―――",
-  "en": ""
+  "en": "The rest of you, stand back. Let us go, {px}--"
  },
  {
   "id": "dg06_01:078:04",
   "speaker": "静かな声",
   "jp": "……まだ、早い。",
-  "en": ""
+  "en": "...It's still too early."
  },
  {
   "id": "dg06_01:078:05",
   "speaker": "白",
   "jp": "何……？",
-  "en": ""
+  "en": "What...?"
  },
  {
   "id": "dg06_01:078:06",
   "speaker": "零",
   "jp": "札よ、眠れ……\nいま{ruby:一度|ひとたび}―――",
-  "en": ""
+  "en": "Card, sleep... once more--"
  },
  {
   "id": "dg06_01:078:07",
   "speaker": "白",
   "jp": "札の力を\n押さえ込んだのか……。",
-  "en": ""
+  "en": "He suppressed the card's power..."
  },
  {
   "id": "dg06_01:078:08",
   "speaker": "白",
   "jp": "其方は何なのじゃ。\n何故、こんな事が―――",
-  "en": ""
+  "en": "What are you? How could you possibly--"
  },
  {
   "id": "dg06_01:078:09",
   "speaker": "白",
   "jp": "―――！！",
-  "en": ""
+  "en": "--!!"
  },
  {
   "id": "dg06_01:078:10",
   "speaker": "白",
   "jp": "其方……\nその札は……！！",
-  "en": ""
+  "en": "You... That card is...!!"
  },
  {
   "id": "dg06_01:078:11",
   "speaker": "白",
   "jp": "何故じゃ……\n何故、執行者でもない者が\nそれを持っておる！！",
-  "en": ""
+  "en": "Why...? Why does one who is not the Executor hold\nthat!!"
  },
  {
   "id": "dg06_01:078:12",
   "speaker": "白",
   "jp": "いかに封札師であろうと、\n{ruby:徒人|ただびと}が従えられる札ではない。",
-  "en": ""
+  "en": "Card Sealer or not, that is no card an ordinary\nperson can command."
  },
  {
   "id": "dg06_01:078:13",
   "speaker": "白",
   "jp": "その《黒き札》は、\n妾と対を成す花札が番人―――",
-  "en": ""
+  "en": "That Black Card is the guardian of the hanafuda,\nmy counterpart--"
  },
  {
   "id": "dg06_01:078:14",
   "speaker": "白",
   "jp": "―――《鬼札》。",
-  "en": ""
+  "en": "--the Demon Card."
  },
  {
   "id": "dg06_01:078:15",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "dg06_01:078:16",
   "speaker": "白",
   "jp": "応えよッ！！\n其方は何者じゃ！！",
-  "en": ""
+  "en": "Answer me!! What are you!!"
  },
  {
   "id": "dg06_01:078:17",
   "speaker": "零",
   "jp": "……いまのきみには、\nわからない。",
-  "en": ""
+  "en": "...You wouldn't understand, as you are now."
  },
  {
   "id": "dg06_01:078:18",
   "speaker": "零",
   "jp": "いまは……まだ。",
-  "en": ""
+  "en": "Not now... not yet."
  },
  {
   "id": "dg06_01:078:19",
   "speaker": "白",
   "jp": "何じゃと……？",
-  "en": ""
+  "en": "What did you say...?"
  },
  {
   "id": "dg06_01:078:20",
   "speaker": "零",
   "jp": "ひとの力に惹かれるが、\n道具の宿命……。",
-  "en": ""
+  "en": "To be drawn to human strength is the fate of a\ntool..."
  },
  {
   "id": "dg06_01:078:21",
   "speaker": "零",
   "jp": "だが{px}、\nいまこの札をきみに\n回収される訳にはいかない。",
-  "en": ""
+  "en": "But {px}, I can't let you recover this card now."
  },
  {
   "id": "dg06_01:079:00",
   "speaker": "零",
   "jp": "ここは大人しく\n退いて……欲しい。",
-  "en": ""
+  "en": "I'd like you to... quietly step back, here."
  },
  {
   "id": "dg06_01:080:00",
   "speaker": "零",
   "jp": "……そんな顔を、\nされるとは、思わなかった。",
-  "en": ""
+  "en": "...I didn't think you'd make that kind of face."
  },
  {
   "id": "dg06_01:080:01",
   "speaker": "零",
   "jp": "その……\nありがとう……。",
-  "en": ""
+  "en": "Um... thank you..."
  },
  {
   "id": "dg06_01:081:00",
   "speaker": "零",
   "jp": "……そんな顔を、\nされるとは、思わなかった。",
-  "en": ""
+  "en": "...I didn't think you'd make that kind of face."
  },
  {
   "id": "dg06_01:081:01",
   "speaker": "零",
   "jp": "その……\nありがとう……。",
-  "en": ""
+  "en": "Um... thank you..."
  },
  {
   "id": "dg06_01:082:00",
   "speaker": "零",
   "jp": "……そんな顔を、\nされるとは、思わなかった。",
-  "en": ""
+  "en": "...I didn't think you'd make that kind of face."
  },
  {
   "id": "dg06_01:082:01",
   "speaker": "零",
   "jp": "きみの言うことは、\n時々……難しい。",
-  "en": ""
+  "en": "What you say is sometimes... hard to understand."
  },
  {
   "id": "dg06_01:083:00",
   "speaker": "零",
   "jp": "おれを……\n信じてくれるんだな。",
-  "en": ""
+  "en": "You... trust me, then."
  },
  {
   "id": "dg06_01:083:01",
   "speaker": "零",
   "jp": "……すまない。",
-  "en": ""
+  "en": "...I'm sorry."
  },
  {
   "id": "dg06_01:084:00",
   "speaker": "零",
   "jp": "……きみと、\n戦いたくはない。",
-  "en": ""
+  "en": "...I don't want to fight you."
  },
  {
   "id": "dg06_01:084:01",
   "speaker": "零",
   "jp": "それに、まだ―――",
-  "en": ""
+  "en": "Besides, it's not yet--"
  },
  {
   "id": "dg06_01:084:02",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "dg06_01:085:00",
   "speaker": "零",
   "jp": "……きみと、\n戦いたくはない。",
-  "en": ""
+  "en": "...I don't want to fight you."
  },
  {
   "id": "dg06_01:085:01",
   "speaker": "零",
   "jp": "それに、まだ―――",
-  "en": ""
+  "en": "Besides, it's not yet--"
  },
  {
   "id": "dg06_01:085:02",
   "speaker": "零",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "dg06_01:086:00",
   "speaker": "零",
   "jp": "{px}……。",
-  "en": ""
+  "en": "{px}..."
  },
  {
   "id": "dg06_01:086:01",
   "speaker": "零",
   "jp": "……すまない。",
-  "en": ""
+  "en": "...I'm sorry."
  },
  {
   "id": "dg06_01:087:00",

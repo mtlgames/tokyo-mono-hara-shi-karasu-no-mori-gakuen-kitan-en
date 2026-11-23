@@ -3,157 +3,157 @@
   "id": "fn04_30:001:00",
   "speaker": "鎧の店員",
   "jp": "ここは、玩具と夢の{ruby:戦場|いくさば}、\nイエス！サブリミナルである。\nごゆるりと堪能あれ。",
-  "en": ""
+  "en": "This is the battlefield of toys and dreams: Yes!\nSubliminal. Pray, enjoy yourself at your leisure."
  },
  {
   "id": "fn04_30:002:00",
   "speaker": "鎧の店員",
   "jp": "何度もかたじけない。\nどうか、ごゆるりと。",
-  "en": ""
+  "en": "Much obliged for your repeated visits. Pray, take\nyour time."
  },
  {
   "id": "fn04_30:004:00",
   "speaker": "鎧の店員",
   "jp": "やれやれ、参った物である。\n女人が{ruby:某|それがし}を見てヒーローだ\nなんだと騒ぎおってな。",
-  "en": ""
+  "en": "Good grief, what a predicament. The womenfolk see\nthis one and make a fuss, calling me a hero and\nwhatnot."
  },
  {
   "id": "fn04_30:004:01",
   "speaker": "鎧の店員",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "fn04_30:004:02",
   "speaker": "鎧の店員",
   "jp": "えへへ、ローン組んでもう一組\n買っちゃおうかな～。\nそれともリースかな～。",
-  "en": ""
+  "en": "Ehehe, maybe I'll take out a loan and buy another\nset~. Or maybe lease one~."
  },
  {
   "id": "fn04_30:004:03",
   "speaker": "鎧の店員",
   "jp": "{ruby:赤糸威|あかいとおどし}も惹かれるが、\n男はやっぱり黙って鬼島津！",
-  "en": ""
+  "en": "The red-laced armor is tempting, but a real man\nsilently goes with Oni-Shimazu!"
  },
  {
   "id": "fn04_30:004:04",
   "speaker": "鎧の店員",
   "jp": "……ごふん。",
-  "en": ""
+  "en": "...*Ahem.*"
  },
  {
   "id": "fn04_30:004:05",
   "speaker": "鎧の店員",
   "jp": "別に、浮かれてなど\nござらんからな？",
-  "en": ""
+  "en": "Not that this one is getting carried away, mind you."
  },
  {
   "id": "fn04_30:005:00",
   "speaker": "鎧の店員",
   "jp": "他に御用がありましたら、\nなんなりとお申し付けあれ。",
-  "en": ""
+  "en": "Should you require anything else, pray, do not\nhesitate to ask."
  },
  {
   "id": "fn04_30:006:00",
   "speaker": "鎧の店員",
   "jp": "他に御用がありましたら、\nなんなりとお申し付けあれ。",
-  "en": ""
+  "en": "Should you require anything else, pray, do not\nhesitate to ask."
  },
  {
   "id": "fn04_30:007:00",
   "speaker": "鎧の店員",
   "jp": "またのお越しを\nお待ちしておりますぞ。",
-  "en": ""
+  "en": "We shall await your next visit."
  },
  {
   "id": "fn04_30:ksf:0121f",
   "kind": "choice",
   "jp": "買い物をする",
   "slot": 30,
-  "en": ""
+  "en": "Shop"
  },
  {
   "id": "fn04_30:ksf:0123e",
   "kind": "choice",
   "jp": "店員と話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to the clerk"
  },
  {
   "id": "fn04_30:ksf:0125d",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  },
  {
   "id": "fn04_30:ksf:01b89",
   "kind": "choice",
   "jp": "買い物をする",
   "slot": 30,
-  "en": ""
+  "en": "Shop"
  },
  {
   "id": "fn04_30:ksf:01ba8",
   "kind": "choice",
   "jp": "買い物をしない",
   "slot": 30,
-  "en": ""
+  "en": "Don't shop"
  },
  {
   "id": "fn04_30:ksf:024d5",
   "kind": "choice",
   "jp": "購入",
   "slot": 30,
-  "en": ""
+  "en": "Buy"
  },
  {
   "id": "fn04_30:ksf:024f4",
   "kind": "choice",
   "jp": "売却",
   "slot": 30,
-  "en": ""
+  "en": "Sell"
  },
  {
   "id": "fn04_30:ksf:02513",
   "kind": "choice",
   "jp": "やめる",
   "slot": 30,
-  "en": ""
+  "en": "Never mind"
  },
  {
   "id": "fn04_30:ksf:0374f",
   "kind": "choice",
   "jp": "買い物をする",
   "slot": 30,
-  "en": ""
+  "en": "Shop"
  },
  {
   "id": "fn04_30:ksf:0376e",
   "kind": "choice",
   "jp": "店員と話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to the clerk"
  },
  {
   "id": "fn04_30:ksf:0378d",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  },
  {
   "id": "fn04_30:ksf:040b9",
   "kind": "choice",
   "jp": "買い物をする",
   "slot": 30,
-  "en": ""
+  "en": "Shop"
  },
  {
   "id": "fn04_30:ksf:040d8",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  }
 ]
