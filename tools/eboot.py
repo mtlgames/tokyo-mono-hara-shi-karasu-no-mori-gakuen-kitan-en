@@ -43,6 +43,41 @@ def relocs(d):
     return out
 
 
+def pointers(d):
+    """{target vaddr: [(kind, site vaddr, addr-base vaddr, hi site or None)]}: every absolute address the loader
+    relocates. kind 'word' (R_MIPS_32: the word holds target - base) or 'lo' (R_MIPS_LO16 instruction; its lui is the
+    HI16 just before it, or the one of the previous LO16 when several LO16s share one lui)."""
+    seg = [s[0] for s in __import__("eboot_text").segments(d)]
+    shoff, = struct.unpack_from("<I", d, 0x20)
+    shnum, = struct.unpack_from("<H", d, 0x30)
+    word = lambda va: struct.unpack_from("<I", d, va + FILE0)[0]
+    out, his, last = {}, [], []
+    for i in range(shnum):
+        _, typ, _, _, off, size = struct.unpack_from("<6I", d, shoff + 40 * i)
+        if typ != 0x700000A0:
+            continue
+        for k in range(0, size, 8):
+            r_off, info = struct.unpack_from("<II", d, off + k)
+            t, site, base = info & 0xFF, seg[(info >> 8) & 0xFF] + r_off, seg[(info >> 16) & 0xFF]
+            if t == 2:
+                out.setdefault(word(site) + base, []).append(("word", site, base, None))
+            elif t == 5:
+                his.append(site)
+            elif t == 6:
+                last, his = (his or last), []
+                lo = word(site) & 0xFFFF
+                for a in {((word(h) & 0xFFFF) << 16) + lo - (0x10000 if lo & 0x8000 else 0) + base: h
+                          for h in last}.items():  # one entry per target even when several luis share a hi
+                    out.setdefault(a[0], []).append(("lo", site, base, a[1]))
+    return out
+
+
+def same_hi(a, b):
+    """True if a lui computed for address a also serves b once the module is loaded at LOAD (the loader carries the
+    low half of the load base into the HI16 word, so a lo16 may change only inside its rounded hi window)."""
+    return (a + LOAD + 0x8000) >> 16 == (b + LOAD + 0x8000) >> 16
+
+
 class Patcher:
     def __init__(self, d=None):
         self.d = d if d is not None else load()

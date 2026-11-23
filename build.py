@@ -85,11 +85,13 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--identity", action="store_true")
     ap.add_argument("--marker", action="store_true", help="every string -> #n + filler (work/marker_ids.tsv)")
+    ap.add_argument("--long", action="store_true", help="marker build with full-length table/EBOOT strings (widths)")
     ap.add_argument("--qa", help="TSV of id<TAB>text overrides (width tests); \\n = line break")
     ap.add_argument("--out", type=Path, default=None)
     a = ap.parse_args()
-    a.out = a.out or (OUT.with_name("karasu_marker.iso") if a.marker else OUT)
-    h = build(a.out, a.identity, "marker" if a.marker else "en", a.qa)
+    mode = "long" if a.long else "marker" if a.marker else "en"
+    a.out = a.out or (OUT if mode == "en" else OUT.with_name(f"karasu_{mode}.iso"))
+    h = build(a.out, a.identity, mode, a.qa)
     same = h == SHA1.lower()
     print(f"{a.out} sha1 {h}" + (" (identical to the original)" if same else ""))
     if a.identity and not same:

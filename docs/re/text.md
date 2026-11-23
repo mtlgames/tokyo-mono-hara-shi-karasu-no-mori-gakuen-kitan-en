@@ -84,5 +84,15 @@ original bytes + NUL, up to the next 4-byte boundary).
   comments, not shown.
 
 ## Free space
-File-based: CROW.PAK is rebuilt, so scripts and tables can grow (zdv recompressed). EBOOT: none found yet; strings
-are slot-bound until a relocation area is found (phase 5).
+File-based: CROW.PAK is rebuilt, so scripts and tables can grow (zdv recompressed); but text **buffers** are per
+screen and fixed: a string longer than the longest original in its table column can crash the game (a system notice
+holds 160 bytes, more crashes PPSSPP at the box; docs/re/engine.md §Width gate).
+EBOOT string pool (`insert.eboot_patch`, test `test_eboot_move`, verified in game: work/qa/eboot_move.tsv): a
+string that fits its room is written in place; a longer one moves into room freed by other moved strings and by the
+tails of shorter ones, and every pointer to it is retargeted. Pointers come from the module's relocations
+(`eboot.pointers`: R_MIPS_32 data words, R_MIPS_LO16 addiu with their HI16): every absolute address in a PRX is
+relocated, and none points inside a string. Data words take any address; a lo16 is changed only inside its
+lui's window (`eboot.same_hi`, load base 0x08804000 carries into the hi half), the lui is never touched. 948 of
+1,014 visible strings can move (13,032 bytes of room); the rest (refs 0: struct-array members, options table,
+nickname formats) are slot-bound. Pool total ~13.7 KB for ~10.8 KB of Japanese. If English outgrows it, next step:
+a new segment after .bss (not needed so far).

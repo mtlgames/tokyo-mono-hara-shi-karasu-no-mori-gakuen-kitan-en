@@ -104,6 +104,35 @@ def test_eboot_in_place(sc):
         insert.eboot_patch(bytearray(orig), Fixed({x["id"]: "x" * room}), {"eboot.json": [x]})
 
 
+def test_eboot_move(sc):
+    """A string longer than its slot moves into freed room; every relocated pointer (data word or lui/addiu lo16)
+    follows it and nothing else changes outside the string pool."""
+    import eboot
+    import eboot_text
+    if not eboot_text.ELF.exists():
+        pytest.skip("no decrypted EBOOT")
+    d = bytearray(eboot_text.ELF.read_bytes())
+    refs = eboot.pointers(d)
+    va = lambda x: int(x["id"].split(":")[1], 16) - eboot.FILE0
+    vis = [x for x in sc["eboot.json"] if not insert.non_text(x) and x["refs"] == len(refs.get(va(x), [1]))]
+    kinds = lambda x: {p[0] for p in refs[va(x)]}
+    data_x = next(x for x in vis if kinds(x) == {"word"})
+    code_x = next(x for x in vis if kinds(x) == {"lo"})
+    donors = [x for x in vis if x not in (data_x, code_x)][:40]  # shortened to free room
+    en = {data_x["id"]: "D" * 40, code_x["id"]: "Quest Complete!", **{x["id"]: "x" for x in donors}}
+    insert.eboot_patch(d, Fixed(en), {"eboot.json": [data_x, code_x] + donors})
+    new = eboot.pointers(d)
+    for x in (data_x, code_x):
+        sites = sorted(p[1] for p in refs[va(x)])
+        at = [a for a, ps in new.items() if sorted(p[1] for p in ps) == sites]
+        assert len(at) == 1, x["id"]
+        o = at[0] + eboot.FILE0
+        assert d[o:d.index(b"\0", o)] == en[x["id"]].encode()
+    with pytest.raises(ValueError):  # no room for this much
+        insert.eboot_patch(bytearray(eboot_text.ELF.read_bytes()), Fixed({data_x["id"]: "D" * 5000}),
+                           {"eboot.json": [data_x]})
+
+
 def test_non_text_never_marked(sc):
     t = insert.Text("marker")
     cells = [x for x in sc["eboot.json"] if insert.non_text(x)]

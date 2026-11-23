@@ -19,6 +19,7 @@ LINE_PITCH = 20.0   # px between ADV text lines
 NAME_XY = (8.0, 6.0)     # speaker name canvas (original 116, 8: right-hand column)
 TEXT_XY = (8.0, 28.0)    # dialogue line 0 canvas (original 84, 8)
 CAP_TEXT = (0.0, 32.0)    # location caption text (original 368, 32); insert.py right-aligns it to CAPTION_RIGHT
+CHOICE_PITCH = 20.0       # px between .ksf choice rows (original: columns 32 px apart)
 
 
 def hi(f):
@@ -57,6 +58,13 @@ def patch(p: Patcher):
     # graphic at the right. English: one horizontal line ending left of the strip (insert.py pads it with spaces).
     p.asm(0x089F12D8, f"lui $at, {hi(CAP_TEXT[0]):#x}", [0x3C0143B8])
     p.asm(0x089F12E0, f"lui $at, {hi(CAP_TEXT[1]):#x}", [0x3C014200])
+    # .ksf choice menu: the loop at 0x089F0DF4 makes one canvas per option at (x0 - 32 * i, y0), columns right to
+    # left. English: rows (x0, y0 + CHOICE_PITCH * i).
+    p.asm(0x089F0DE0, f"lui $at, {hi(CHOICE_PITCH):#x}", [0x3C01C200])
+    p.asm(0x089F0DF8, "mov.s $f12, $f22; cvt.s.w $f13, $f0", [0x4600AB46, 0x46800320])
+    p.asm(0x089F0E0C, "mul.s $f13, $f13, $f23", [0x46176302])
+    p.asm(0x089F0E1C, "add.s $f13, $f21, $f13", [0x460CB300])
+    # TODO choice cursor (vertical red bar, still at the original column) and keys (left/right): docs/re/engine.md
     return p.d
 
 

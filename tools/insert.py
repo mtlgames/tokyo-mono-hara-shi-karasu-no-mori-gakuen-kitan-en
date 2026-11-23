@@ -3,6 +3,8 @@
 Two modes:
   en      every entry with a non-empty `en` replaces its original (phase 7); the rest stays Japanese
   marker  every entry becomes `#n` + filler text (phase 5 marker build); n -> id in work/marker_ids.tsv
+  long    as marker, but every table line is as many chars as its column's longest line has bytes, capped at the
+          column's longest string, and EBOOT strings fill their slot (width stress)
 
 Encodings: .pwx spans are full-width stand-ins (fontpatch.to_sjis_text, ASCII bytes are commands there); .ksf
 choices, CSVB tables and EBOOT strings are C strings and get plain ASCII. Tables grow (new strings appended to the
@@ -64,6 +66,25 @@ def font_widths(name):
     return {c: f.metrics(f.codes[fontpatch.code(fontpatch.fw(chr(c)))])[0] for c in range(0x20, 0x7F)}
 
 
+def col_key(x):
+    """`stem:col` of a table entry id `stem:row:col`."""
+    stem, _, col = x["id"].split(":")
+    return f"{stem}:{col}"
+
+
+def table_max():
+    """{stem:col: (longest line, longest string) in SJIS bytes}. Text buffers are per screen and the game crashes
+    past them (a system notice holds 160 bytes: docs/re/engine.md §Width gate); a column's longest original string
+    is known to fit its buffers."""
+    out = {}
+    for path, es in scripts().items():
+        for x in es if path.startswith("tables/") else ():
+            b = x["jp"].encode("cp932")
+            line, total = out.get(col_key(x), (0, 0))
+            out[col_key(x)] = (max(line, *map(len, b.split(b"\n"))), max(total, len(b)))
+    return out
+
+
 class Text:
     """Replacement text per id for one mode: .get(entry) -> English str or None (keep the original)."""
 
@@ -73,6 +94,7 @@ class Text:
         self.ids = {x["id"]: n for n, x in enumerate(x for es in scripts().values() for x in es)}
         self.widths = font_widths("sysfont18")
         assert self.widths[0x20] == SPACE_PX
+        self.table_max = table_max()
 
     def px(self, s):
         """sysfont18 width of English text (ASCII; anything else counted as a full 18 px cell)."""
@@ -117,13 +139,20 @@ class Text:
             return self.fill(f"{tag} ", nbytes=NAME_CHARS)
         if kind == "caption":
             return self.fill(f"{tag} ", nbytes=max(len(tag), len(x["jp"].encode("cp932"))))
-        out = [self.fill(f"{tag} " if i == 0 else "", nbytes=max(len(tag) + 1, len(ln.encode("cp932"))))
-               for i, ln in enumerate(lines)]
+        if self.mode == "long" and kind == "table":  # width stress, inside the column's own longest line and string
+            line, total = self.table_max[col_key(x)]
+            out = "\n".join(self.fill(f"{tag} " if i == 0 else "", nbytes=line) for i in range(len(lines)))
+            return out[:max(total, len(tag) + 1)].rstrip()
+        if self.mode == "long" and kind == "eboot":  # EBOOT strings fill their slot
+            n = lambda ln: 999
+        else:
+            n = lambda ln: max(len(tag) + 1, len(ln.encode("cp932")))
+        out = [self.fill(f"{tag} " if i == 0 else "", nbytes=n(ln)) for i, ln in enumerate(lines)]
         s = "\n".join(out)
         return s[:room] if room is not None else s
 
     def save_ids(self):
-        if self.mode == "marker":
+        if self.mode != "en":
             IDS.parent.mkdir(parents=True, exist_ok=True)
             IDS.write_text("".join(f"{n}\t{i}\n" for i, n in self.ids.items()), encoding="utf-8")
 
@@ -246,17 +275,50 @@ def eboot_room(x):
 
 
 def eboot_patch(d, text, sc):
-    """Write replaced EBOOT strings in place into the ELF bytearray d."""
+    """Write replaced EBOOT strings into the ELF bytearray d: in place when they fit, else moved into the room freed
+    by moved strings and by the tails of shorter ones, every relocated pointer to them retargeted (docs/re/text.md
+    §Free space). A string moves only if the relocations account for at least the references eboot_text counted."""
+    import eboot
+    free, move = [], []
     for x in sc.get("eboot.json", []):
         room = eboot_room(x)
         en = text.get(x, "eboot", room - 1)
         if en is None:
             continue
-        raw = ascii_bytes(en, x["id"])
-        if len(raw) >= room:
-            raise ValueError(f"{x['id']}: {len(raw)} bytes, slot holds {room - 1}")
+        raw = ascii_bytes(en, x["id"]) + b"\0"
         off = int(x["id"].split(":")[1], 16)
-        d[off:off + room] = raw.ljust(room, b"\0")
+        if len(raw) <= room:
+            d[off:off + room] = raw.ljust(room, b"\0")
+            free.append([off + len(raw), off + room])
+        else:
+            move.append((x, raw, off, room))
+    if not move:
+        return d
+    refs = eboot.pointers(d)
+    for x, raw, off, room in move:
+        ps = refs.get(off - eboot.FILE0, [])
+        lo_ok = all(d[p[1] + eboot.FILE0 + 3] >> 2 != 0x0D for p in ps if p[0] == "lo")  # ori: unsigned lo, no move
+        if not ps or len(ps) < x["refs"] or not lo_ok:  # relocs may find more (eboot_text scans 12 insns)
+            raise ValueError(f"{x['id']}: {len(raw) - 1} bytes, slot holds {room - 1} and the string can't move "
+                             f"({len(ps)} relocated refs, {x['refs']} counted)")
+        d[off:off + room] = bytes(room)
+        free.append([off, off + room])
+    free.sort()
+    for x, raw, off, room in sorted(move, key=lambda m: -len(m[1])):
+        va, ps = off - eboot.FILE0, refs[off - eboot.FILE0]
+        fits = lambda a: ((a + 0x8000) >> 16 == (va + 0x8000) >> 16 and eboot.same_hi(va, a))
+        f = next((f for f in free if f[1] - f[0] >= len(raw)
+                  and (fits(f[0] - eboot.FILE0) or not any(p[0] == "lo" for p in ps))), None)
+        if f is None:
+            raise ValueError(f"{x['id']}: {len(raw) - 1} bytes, slot holds {room - 1}; no room left in the EBOOT "
+                             "string pool (shorten it or other EBOOT strings)")
+        a, f[0] = f[0], f[0] + len(raw)
+        d[a:a + len(raw)] = raw
+        for kind, site, base, _ in ps:
+            s = site + eboot.FILE0
+            w = struct.unpack_from("<I", d, s)[0]
+            new = a - eboot.FILE0 - base
+            struct.pack_into("<I", d, s, new if kind == "word" else (w & 0xFFFF0000) | (new & 0xFFFF))
     return d
 
 

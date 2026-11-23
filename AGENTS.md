@@ -3,7 +3,7 @@
 Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.json; other agents: `<SKILL_DIR>/SKILL.md`; `$SKILL` = the directory holding its SKILL.md, `python tools/skill.py` prints it). Read it before ROM, text or QA work.
 
 ## Commands (run from repo root)
-- Build:    `python -X utf8 build.py` -> build/karasu_en.iso (checks the dump against `rom.sha1` first); `--marker` -> build/karasu_marker.iso (`#n` ids, work/marker_ids.tsv); `--qa F.tsv` single-string overrides (width tests)
+- Build:    `python -X utf8 build.py` -> build/karasu_en.iso (checks the dump against `rom.sha1` first); `--marker` -> build/karasu_marker.iso (`#n` ids, work/marker_ids.tsv); `--long` -> build/karasu_long.iso (width stress; crash hunt: `tools/debug/longbisect.py`); `--qa F.tsv` single-string overrides (width tests)
 - Check:    `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs this; `git config core.hooksPath tools/hooks` once per clone)
 - Smoke:    `python -X utf8 $SKILL/scripts/emu.py build/karasu_en.iso --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:     `python -X utf8 tools/debug/warp.py build/karasu_en.iso <scene|MS03_00> [--shot-every 60]` -> `work/qa/warp/<scene>/final.png` + `work/states/<scene>.ppst`; `--all` regens every state (scenes: `tools/debug/scenes.txt`, notes `docs/re/debug.md`; never ask the user to play to a scene)

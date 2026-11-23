@@ -19,6 +19,9 @@ ch10       script=MS10_00 mash=900:circle
 ch11       script=MS11_00 mash=900:circle
 ch12       script=MS12_00 mash=900:circle
 ch13       script=MS13_00 mash=900:circle
+# .ksf choice menu (MS00_01 アンケートを覚えている / いない), open on screen at the end
+choice_pre script=MS00_01 mash=8330:up+circle,circle
+choice     from=choice_pre route=60 -
 
 # --- field (free movement on the school map) and the main menu, from chapter 1
 field_ch01 script=MS01_00 mash=50000:circle,circle,right,circle,cross route=60 -;6 cross;90 -;6 cross;150 -

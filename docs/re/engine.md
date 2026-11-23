@@ -74,12 +74,33 @@ lookup 0x08A01C38 (binary search by code), 0x08A01CB0/0x08A01D88 GetGlyph(font, 
 | ADV dialogue line | **464 px**, 3 lines per box | ruler lines at 454/466/476 px: `|` at 472 still draws, 476 clips at the screen edge (x 8 + 472 = 480); 464 keeps an 8 px right margin. work/qa/warp/wg/wg/f003160.png |
 | speaker name | **17 chars** (crash at 18), 306 px seen | 17 W shows with ❖ marks |
 | location caption | **336 px**, one line | 333 px ruler right-aligned beside the strip |
-| choice (.ksf) | 29 bytes ASCII | not yet seen on screen |
-| menus, tables, EBOOT strings | not measured | next: long-marker stress build + tour |
+| choice (.ksf) | 29 bytes ASCII; rows at x 116 (~364 px to the screen edge) | scene `choice` (MS00_01 握手する/しない), rows since `engine.CHOICE_PITCH` |
+| system notice (systemtext, boot autosave notes) | **160 bytes** total (161 crashes PPSSPP when the box opens), 4 lines of ~40 chars, ~420 px box | `--qa` byte tests on systemtext:0226:00, work/qa/buf160 |
+| city map destinations (EBOOT 2b1ec4..) | ~11 chars visible (list at x ~380, clipped by the screen edge) | work/qa/warp/emove/city_map |
+| other table strings | **byte cap = the column's longest original** (`insert.table_max`) until measured: buffers are per screen and fixed; longer crashes | long build tour (below) |
+
+**Long build** (`build.py --long` -> build/karasu_long.iso): every table line as many chars as its column's longest
+original line has bytes, capped at the column's longest string; EBOOT strings fill their slot. Boots (smoke ok), but
+`warp.py --all --tag long` crashes at `field_ch01` (school field, chapter 1): `tools/debug/longbisect.py` blames
+`systemtext`, rows 0278..0341 (bisect not finished: run `longbisect.py field_ch01 --stem systemtext`). So even the
+column's own maximum is too long for some systemtext rows: systemtext needs per-row caps (probably the original
+byte length of the row, or per screen). Fix that, then finish the long tour and read the menu budgets.
 
 ## Open (next steps)
 - Readability (polish): the left gradient panel (`adv/talk/adv_talk.g2d`, `adv_emotion2.gim`) covers only x 0-150;
   text has a dark outline and reads on bright backgrounds, so this is polish, not a blocker.
 - The page-wait icon now sits bottom-left (x = 116 - 32*n geometry of 0x089F0A1C): polish.
 - Other vertical drawer callers 0x0883CBCC / 0x088A69C8: not seen in the 53-scene tour yet.
+- **.ksf choice menu** (scenes `choice_pre` / `choice`; original look work/qa/warp/orig/choice/final.png: options
+  are vertical columns 32 px apart from x 116 leftwards, a vertical red bar sprite marks the selected one).
+  Text: `engine.patch` makes them rows (x 116, y 89 + 20*i; loop 0x089F0DF4, verified). Still to do:
+  (a) **cursor**: the red bar is made in 0x089F08C4 (case code 0x089F09B8: 0x89fed28(obj, &pos, len = ctx+0x668/2,
+  f12 63.0); obj +4 = a2, +8/+0xC = x/y, +0x20 = f12) and moved each frame by 0x089F0A1C: x = 116 - 32 * sel
+  (sel = ctx+0x39EC, count ctx+0x39EB) via 0x89fe7b0(obj, &{x, y}) (anim state 4 = move to target). Position
+  helper 0x89f04b0(116, 8, 2, 2, len/2, 14) -> v0/v1. Tried: a2 = 1 + x/y from sel*20: the bar stayed tall at the
+  original column (only one shot showed a short box), so length/position come from elsewhere too; reverted.
+  Ideas: a horizontal highlight sprite, or move the bar left of the rows and shrink it via 0x89f04b0's args.
+  (b) **keys**: 0x089F2A10 `andi 0x80` (LEFT) = next option, 0x089F2A2C `andi 0x20` (RIGHT) = previous; for rows
+  use 0x40 (DOWN) / 0x10 (UP). (In a test, DOWN also changed the cursor: check before patching.)
+  Graphics: the emotion-input wheel (愛喜悲困友燃嫌怒, MS00_01) is graphics text: check it is in docs/re/graphics.md.
 - Space width (sysfont18 9 px) looks wide; tune in the font patch if the width gate needs it.
