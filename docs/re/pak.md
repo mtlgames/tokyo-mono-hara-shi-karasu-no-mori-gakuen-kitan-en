@@ -18,12 +18,20 @@ LE. Header u32 ndirs (39), u32 nfiles (7343), u32 names_end, u32 data_start (0x3
 - name table: NUL-terminated ASCII, offsets relative to its start.
 - Data: each file 0x800-aligned, zero-padded; file order on disc is not index order (rebuild sorts by original
   offset). The archive ends with 0x3000 zero bytes past the last file (rebuild keeps the original length).
-- Nested `.pak` files (1401) use the same format with smaller alignment slack; `pak.is_pak()` detects them.
-  Alignment inside nested paks: guess 0x800 too - check in the identity build (phase 3).
+- Nested `.pak` files (1401, one level deep, no pak inside a nested pak) use the same format; `pak.is_pak()` detects
+  them. Their data_start is not aligned; members are 4-aligned and zero-padded in original offset order, which
+  repacks all 1401 byte-identical (`pak.repack`, verified phase 3).
 
 ## .zdv (verified: all 1793 + nested inflate to their stated size)
 LE u32 usize, u32 usize, u32 1, u32 csize, zlib stream. csize 0xFFFFFFFF = stored raw (108 nested files).
-`tools/zdv.py`. Compression level of the originals: unknown yet (phase 3: recompress and compare).
+`tools/zdv.py`. zlib level 6 recompresses all 11,283 compressed originals byte-identical (verified phase 3).
+
+## Identity build (phase 3, verified 2026-11-23)
+`build.py --identity` rebuilds CROW.PAK (every nested pak repacked, every zdv recompressed, no edits) and patches it
+into a copy of the ISO (`tools/iso9660.py`): sha1 equals `rom.sha1`. `tests/test_build.py::test_identity_build`
+keeps it green (~20 s). Edits for later phases: `build.edits()` returns {unpacked path: payload}, same paths as
+`unpack_all.py` writes; `pak.member` re-nests and recompresses. EBOOT.BIN is not rebuilt yet (needs re-signing
+once it is patched).
 
 ## Contents by folder (CROW.PAK top level)
 adv/ (bg, char, effect, scene = VN backgrounds/portraits/CG as GIM+g2d), dungeon/ (3D maps, per-dungeon paks with

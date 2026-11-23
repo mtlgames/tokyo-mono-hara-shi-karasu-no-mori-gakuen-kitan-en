@@ -14,6 +14,13 @@ def inflate(d):
     return out
 
 
-def deflate(u, level=9):
+def is_stored(d):
+    return struct.unpack_from("<I", d, 12)[0] == STORED
+
+
+def deflate(u, level=6, stored=False):
+    """Level 6 reproduces all 11,283 compressed originals byte for byte (phase 3 identity build)."""
+    if stored:
+        return struct.pack("<4I", len(u), len(u), 1, STORED) + u
     c = zlib.compress(u, level)
     return struct.pack("<4I", len(u), len(u), 1, len(c)) + c
