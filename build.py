@@ -22,11 +22,14 @@ SHA1, ISO_NAME = next(l for l in (ROOT / "rom.sha1").read_text(encoding="utf-8")
 ISO = ROOT / ISO_NAME.strip().lstrip("*")
 OUT = ROOT / "build" / "karasu_en.iso"
 CROW = "/PSP_GAME/USRDIR/CROW.PAK"
+EBOOT = "/PSP_GAME/SYSDIR/EBOOT.BIN"
 
 
 def edits():
-    """{unpacked CROW.PAK path: new payload}. Empty until text and graphics insertion (phase 7)."""
-    return {}
+    """{unpacked CROW.PAK path: new payload}: the fonts (tools/fontpatch.py); text and graphics come in phase 7."""
+    import fontpatch
+    from source import members
+    return {p: fontpatch.patch(d) for p, d in members(*fontpatch.FONTS)}
 
 
 def crow_pak(iso=ISO):
@@ -40,13 +43,24 @@ def sha1(path):
         return hashlib.file_digest(f, "sha1").hexdigest()
 
 
+def eboot():
+    """Patched EBOOT: the engine changes (tools/engine.py) in the decrypted ELF. shortcut: ships the plain ELF,
+    which only PPSSPP boots; re-sign it into a ~PSP EBOOT before release (docs/status.md)."""
+    import engine
+    from eboot import Patcher
+    return bytes(engine.patch(Patcher()))
+
+
 def build(out=OUT, force=False):
     check_rom.check()
     out.parent.mkdir(parents=True, exist_ok=True)
     pak = crow_pak()
-    tmp = out.with_name("CROW.PAK")
-    pak.rebuild(tmp, editor(pak, edits(), force))
-    iso9660.patch(str(ISO), str(out), {CROW: tmp.read_bytes()})
+    tmp = out.with_name(out.stem + ".CROW.PAK")
+    pak.rebuild(tmp, editor(pak, {} if force else edits(), force))
+    files = {CROW: tmp.read_bytes()}
+    if not force:
+        files[EBOOT] = eboot()
+    iso9660.patch(str(ISO), str(out), files)
     tmp.unlink()
     return sha1(out)
 

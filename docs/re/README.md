@@ -16,5 +16,6 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | text.md | SJIS encoding, .pwx script format and control codes, CSVB tables, EBOOT strings, free space | format verified, codes partly guessed |
 | graphics.md | graphics-text survey: GIM/g2d images, movies, XMB images | survey |
 | debug.md | script loader, warp hook, field/menu flow, save format (encrypted) | loader + warp verified |
+| engine.md | .ipk fonts, vertical/horizontal text drawers, ADV line canvases, English path + EBOOT patches | ADV horizontal text verified (spike) |
 
 Prior work: none found (web search 2026-11-23: no English or other fan patch for 東京鬼祓師 鴉乃杜學園奇譚).
