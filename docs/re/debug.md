@@ -66,4 +66,27 @@ class's vtable and constructor.
   by events/positions (help.bin); the tutorial battle has game over disabled (d100scr.bin). Not reached yet.
 - Endings: MS11_04 (bad end) and MS13_03 (true end) play the ending movie with the staff roll (scenes `badend`,
   `trueend`).
-- Probes: `bplog.py` (regs at code breakpoints), `watchw.py` (memory read/write breakpoints).
+- Probes: `bplog.py` (regs at code breakpoints), `watchw.py` (memory read/write breakpoints), `findval.py` (load a
+  state, find a u32 such as a vtable in RAM, or dump a range), `find_cmd.py` (which script/block holds a command),
+  `tools/csvb.py` (print CSVB table rows).
+- **dg01 / dun1_walk are the tutorial dungeon, not chapter 1** (verified 2026-11-23: same room as dun_tut, item
+  模擬演習用蝋燭, box 模擬演習用に作られた巨大な木箱). The dungeon a DG script ends in is not picked by the chapter
+  field; the real way in is unknown (field △探索 + circle moved to a classroom instead). Leads: d01scr.bin's SSCR
+  scripts, `dungeon/%s.ini` (a1_00.ini = section with start floor/pos), dungeonscenetable.bin (87 rows).
+- Dungeon controls: grid crawler. up = step forward, left/right = turn 90°, down = turn round; △ jump, □ investigate,
+  ○ palette action (取る take); R (`rtrigger`, not `r`) cycles 3 action palettes (empty in the tutorial until set from
+  the dungeon menu). Dungeon menu (start): アイテム 装備 札強化 マップ 携帯電話 成績表 セーブ・ロード 地上へ. Minimap
+  purple crosses = objects (statues). Tutorial so far (`_mv3` route from dun1_walk: left, up 1500, circle): take the
+  candle on the pedestal before the sealed door 封; next step not found (box 調べる loops its description).
+- Battles: the first chapter-1 enemy room plays DG01_11 (白: 隠人が湧いておるか, the season-aura lesson); DG01_01 is
+  after that fight, DG01_02 after the boss. d01scr.bin labels `:battlestart`, `:battle`, bosses `ene_b_dogu`,
+  `ene_b_aramitama` in `jyoumon_bossnoma`. enemyhaichi.bin (231 rows: chapter, room id, enemy ids, x/y bytes) places
+  enemies per room. CLDungeonBtlMgr: vtable 0x08AC2D20, instance 0x09DEAE74 in the dungeon (dun1_walk state).
+
+## Script blocks, shops (verified)
+- Start block: the loader reads s16 ctx+0x3850 right after the file loads (0x089F2394, s0 = ctx) as the first block.
+  warp.py `block=N` writes it there, so a warp can start mid-script.
+- `shop00` (情報屋 QUEST SHOP, the only shop command) sits alone in FNxx_26/27 blocks: scene `shop` = FN08_27 block 3.
+  `tradeNN` (15 item trades): scene `trade` = FN05_25 block 3; from a warp the item list is black and circle shows
+  its このアイテムを渡しますか？ dialog. FD-type trade scripts (FD03_06) stay black.
+- FN scripts run from block 0 are NPC talks with the emotion wheel (direction, then circle).
