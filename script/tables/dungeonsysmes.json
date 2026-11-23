@@ -3,1332 +3,1332 @@
   "id": "dungeonsysmes:0000:00",
   "jp": "クエスト達成",
   "refs": 1,
-  "en": ""
+  "en": "Quest Complete"
  },
  {
   "id": "dungeonsysmes:0001:00",
   "jp": "システムメッセージ０１",
   "refs": 1,
-  "en": ""
+  "en": "System Message 01"
  },
  {
   "id": "dungeonsysmes:0002:00",
   "jp": "システムメッセージ０２",
   "refs": 1,
-  "en": ""
+  "en": "System Message 02"
  },
  {
   "id": "dungeonsysmes:0003:00",
   "jp": "システムメッセージ０３",
   "refs": 1,
-  "en": ""
+  "en": "System Message 03"
  },
  {
   "id": "dungeonsysmes:0004:00",
   "jp": "システムメッセージ０４",
   "refs": 1,
-  "en": ""
+  "en": "System Message 04"
  },
  {
   "id": "dungeonsysmes:0005:00",
   "jp": "システムメッセージ０５",
   "refs": 1,
-  "en": ""
+  "en": "System Message 05"
  },
  {
   "id": "dungeonsysmes:0006:00",
   "jp": "システムメッセージ０６",
   "refs": 1,
-  "en": ""
+  "en": "System Message 06"
  },
  {
   "id": "dungeonsysmes:0007:00",
   "jp": "システムメッセージ０７",
   "refs": 1,
-  "en": ""
+  "en": "System Message 07"
  },
  {
   "id": "dungeonsysmes:0008:00",
   "jp": "システムメッセージ０８",
   "refs": 1,
-  "en": ""
+  "en": "System Message 08"
  },
  {
   "id": "dungeonsysmes:0009:00",
   "jp": "システムメッセージ０９",
   "refs": 1,
-  "en": ""
+  "en": "System Message 09"
  },
  {
   "id": "dungeonsysmes:0010:00",
   "jp": "システムメッセージ１０",
   "refs": 1,
-  "en": ""
+  "en": "System Message 10"
  },
  {
   "id": "dungeonsysmes:0011:00",
   "jp": "システムメッセージ１１",
   "refs": 1,
-  "en": ""
+  "en": "System Message 11"
  },
  {
   "id": "dungeonsysmes:0012:00",
   "jp": "システムメッセージ１２",
   "refs": 1,
-  "en": ""
+  "en": "System Message 12"
  },
  {
   "id": "dungeonsysmes:0013:00",
   "jp": "システムメッセージ１３",
   "refs": 1,
-  "en": ""
+  "en": "System Message 13"
  },
  {
   "id": "dungeonsysmes:0014:00",
   "jp": "システムメッセージ１４",
   "refs": 1,
-  "en": ""
+  "en": "System Message 14"
  },
  {
   "id": "dungeonsysmes:0015:00",
   "jp": "システムメッセージ１５",
   "refs": 1,
-  "en": ""
+  "en": "System Message 15"
  },
  {
   "id": "dungeonsysmes:0016:00",
   "jp": "システムメッセージ１６",
   "refs": 1,
-  "en": ""
+  "en": "System Message 16"
  },
  {
   "id": "dungeonsysmes:0017:00",
   "jp": "システムメッセージ１７",
   "refs": 1,
-  "en": ""
+  "en": "System Message 17"
  },
  {
   "id": "dungeonsysmes:0018:00",
   "jp": "システムメッセージ１８",
   "refs": 1,
-  "en": ""
+  "en": "System Message 18"
  },
  {
   "id": "dungeonsysmes:0019:00",
   "jp": "システムメッセージ１９",
   "refs": 1,
-  "en": ""
+  "en": "System Message 19"
  },
  {
   "id": "dungeonsysmes:0020:00",
   "jp": "システムメッセージ２０",
   "refs": 1,
-  "en": ""
+  "en": "System Message 20"
  },
  {
   "id": "dungeonsysmes:0021:00",
   "jp": "システムメッセージ２１",
   "refs": 1,
-  "en": ""
+  "en": "System Message 21"
  },
  {
   "id": "dungeonsysmes:0022:00",
   "jp": "システムメッセージ２２",
   "refs": 1,
-  "en": ""
+  "en": "System Message 22"
  },
  {
   "id": "dungeonsysmes:0023:00",
   "jp": "システムメッセージ２３",
   "refs": 1,
-  "en": ""
+  "en": "System Message 23"
  },
  {
   "id": "dungeonsysmes:0024:00",
   "jp": "システムメッセージ２４",
   "refs": 1,
-  "en": ""
+  "en": "System Message 24"
  },
  {
   "id": "dungeonsysmes:0025:00",
   "jp": "システムメッセージ２５",
   "refs": 1,
-  "en": ""
+  "en": "System Message 25"
  },
  {
   "id": "dungeonsysmes:0026:00",
   "jp": "システムメッセージ２６",
   "refs": 1,
-  "en": ""
+  "en": "System Message 26"
  },
  {
   "id": "dungeonsysmes:0027:00",
   "jp": "システムメッセージ２７",
   "refs": 1,
-  "en": ""
+  "en": "System Message 27"
  },
  {
   "id": "dungeonsysmes:0028:00",
   "jp": "システムメッセージ２８",
   "refs": 1,
-  "en": ""
+  "en": "System Message 28"
  },
  {
   "id": "dungeonsysmes:0029:00",
   "jp": "システムメッセージ２９",
   "refs": 1,
-  "en": ""
+  "en": "System Message 29"
  },
  {
   "id": "dungeonsysmes:0030:00",
   "jp": "システムメッセージ３０",
   "refs": 1,
-  "en": ""
+  "en": "System Message 30"
  },
  {
   "id": "dungeonsysmes:0031:00",
   "jp": "システムメッセージ３１",
   "refs": 1,
-  "en": ""
+  "en": "System Message 31"
  },
  {
   "id": "dungeonsysmes:0032:00",
   "jp": "システムメッセージ３２",
   "refs": 1,
-  "en": ""
+  "en": "System Message 32"
  },
  {
   "id": "dungeonsysmes:0033:00",
   "jp": "システムメッセージ３３",
   "refs": 1,
-  "en": ""
+  "en": "System Message 33"
  },
  {
   "id": "dungeonsysmes:0034:00",
   "jp": "システムメッセージ３４",
   "refs": 1,
-  "en": ""
+  "en": "System Message 34"
  },
  {
   "id": "dungeonsysmes:0035:00",
   "jp": "システムメッセージ３５",
   "refs": 1,
-  "en": ""
+  "en": "System Message 35"
  },
  {
   "id": "dungeonsysmes:0036:00",
   "jp": "システムメッセージ３６",
   "refs": 1,
-  "en": ""
+  "en": "System Message 36"
  },
  {
   "id": "dungeonsysmes:0037:00",
   "jp": "システムメッセージ３７",
   "refs": 1,
-  "en": ""
+  "en": "System Message 37"
  },
  {
   "id": "dungeonsysmes:0038:00",
   "jp": "システムメッセージ３８",
   "refs": 1,
-  "en": ""
+  "en": "System Message 38"
  },
  {
   "id": "dungeonsysmes:0039:00",
   "jp": "システムメッセージ３９",
   "refs": 1,
-  "en": ""
+  "en": "System Message 39"
  },
  {
   "id": "dungeonsysmes:0040:00",
   "jp": "システムメッセージ４０",
   "refs": 1,
-  "en": ""
+  "en": "System Message 40"
  },
  {
   "id": "dungeonsysmes:0041:00",
   "jp": "システムメッセージ４１",
   "refs": 1,
-  "en": ""
+  "en": "System Message 41"
  },
  {
   "id": "dungeonsysmes:0042:00",
   "jp": "システムメッセージ４２",
   "refs": 1,
-  "en": ""
+  "en": "System Message 42"
  },
  {
   "id": "dungeonsysmes:0043:00",
   "jp": "システムメッセージ４３",
   "refs": 1,
-  "en": ""
+  "en": "System Message 43"
  },
  {
   "id": "dungeonsysmes:0044:00",
   "jp": "システムメッセージ４４",
   "refs": 1,
-  "en": ""
+  "en": "System Message 44"
  },
  {
   "id": "dungeonsysmes:0045:00",
   "jp": "システムメッセージ４５",
   "refs": 1,
-  "en": ""
+  "en": "System Message 45"
  },
  {
   "id": "dungeonsysmes:0046:00",
   "jp": "【松の屑・壱】冬ダメージ",
   "refs": 1,
-  "en": ""
+  "en": "Pine Chaff I: Winter damage"
  },
  {
   "id": "dungeonsysmes:0047:00",
   "jp": "【松の屑・弐】冬ダメージ",
   "refs": 1,
-  "en": ""
+  "en": "Pine Chaff II: Winter damage"
  },
  {
   "id": "dungeonsysmes:0048:00",
   "jp": "【松にあかよろし】自分側へ１ノック",
   "refs": 1,
-  "en": ""
+  "en": "Pine Poetry Ribbon: Knock 1 to you"
  },
  {
   "id": "dungeonsysmes:0049:00",
   "jp": "【松に鶴】射撃攻撃が弱点必中",
   "refs": 1,
-  "en": ""
+  "en": "Pine and Crane: Shots hit weakness"
  },
  {
   "id": "dungeonsysmes:0050:00",
   "jp": "【梅の屑・壱】入手経験値増加",
   "refs": 1,
-  "en": ""
+  "en": "Plum Chaff I: More EXP gained"
  },
  {
   "id": "dungeonsysmes:0051:00",
   "jp": "【梅の屑・弐】敵アイテム確実入手",
   "refs": 1,
-  "en": ""
+  "en": "Plum Chaff II: Sure item drops"
  },
  {
   "id": "dungeonsysmes:0052:00",
   "jp": "【梅にあかよろし】移動禁止",
   "refs": 1,
-  "en": ""
+  "en": "Plum Poetry Ribbon: No movement"
  },
  {
   "id": "dungeonsysmes:0053:00",
   "jp": "【梅に鶯】全武器を範囲攻撃化",
   "refs": 1,
-  "en": ""
+  "en": "Plum Warbler: All weapons hit area"
  },
  {
   "id": "dungeonsysmes:0054:00",
   "jp": "【桜の屑・壱】敵からの状態異常予防",
   "refs": 1,
-  "en": ""
+  "en": "Cherry Chaff I: Wards off ailments"
  },
  {
   "id": "dungeonsysmes:0055:00",
   "jp": "【桜の屑・弐】秘法眼の使用無料",
   "refs": 1,
-  "en": ""
+  "en": "Cherry Chaff II: Free Arcane Eye"
  },
  {
   "id": "dungeonsysmes:0056:00",
   "jp": "【桜にみよしの】能力値が敵数分上昇",
   "refs": 1,
-  "en": ""
+  "en": "Cherry Poem: Stats up per enemy"
  },
  {
   "id": "dungeonsysmes:0057:00",
   "jp": "【桜に幕】消費百点以上の札配置割引",
   "refs": 1,
-  "en": ""
+  "en": "Cherry Curtain: 100+ cards cheaper"
  },
  {
   "id": "dungeonsysmes:0058:00",
   "jp": "【藤の屑・壱】装備属性補正＋２０％",
   "refs": 1,
-  "en": ""
+  "en": "Wisteria I: Gear element +20%"
  },
  {
   "id": "dungeonsysmes:0059:00",
   "jp": "【藤の屑・弐】敵を無属性にする",
   "refs": 1,
-  "en": ""
+  "en": "Wisteria II: Foes lose element"
  },
  {
   "id": "dungeonsysmes:0060:00",
   "jp": "【藤に赤短】飛行しない敵の前進禁止",
   "refs": 1,
-  "en": ""
+  "en": "Wisteria Red: Halts non-fliers"
  },
  {
   "id": "dungeonsysmes:0061:00",
   "jp": "【藤に時鳥】敵を洞の属性にする",
   "refs": 1,
-  "en": ""
+  "en": "Wisteria Cuckoo: Hollow-type foes"
  },
  {
   "id": "dungeonsysmes:0062:00",
   "jp": "【菖蒲の屑・壱】移動ＡＰ＋３０％",
   "refs": 1,
-  "en": ""
+  "en": "Iris Chaff I: Move AP +30%"
  },
  {
   "id": "dungeonsysmes:0063:00",
   "jp": "【菖蒲の屑・弐】攻撃ＡＰ＋３０％",
   "refs": 1,
-  "en": ""
+  "en": "Iris Chaff II: Attack AP +30%"
  },
  {
   "id": "dungeonsysmes:0064:00",
   "jp": "【菖蒲に赤短】回転禁止",
   "refs": 1,
-  "en": ""
+  "en": "Iris Red Ribbon: No turning"
  },
  {
   "id": "dungeonsysmes:0065:00",
   "jp": "【菖蒲に八橋】迎撃禁止・氷呪",
   "refs": 1,
-  "en": ""
+  "en": "Iris Bridge: No counter, Ice Curse"
  },
  {
   "id": "dungeonsysmes:0066:00",
   "jp": "【牡丹の屑・壱】松の屑・壱連動爆発",
   "refs": 1,
-  "en": ""
+  "en": "Peony Chaff I: Bursts with Pine I"
  },
  {
   "id": "dungeonsysmes:0067:00",
   "jp": "【牡丹の屑・弐】松の屑・弐連動爆発",
   "refs": 1,
-  "en": ""
+  "en": "Peony II: Bursts with Pine II"
  },
  {
   "id": "dungeonsysmes:0068:00",
   "jp": "【牡丹に青短】爆発・他札で連鎖爆発",
   "refs": 1,
-  "en": ""
+  "en": "Peony Blue: Burst, chain via cards"
  },
  {
   "id": "dungeonsysmes:0069:00",
   "jp": "【牡丹に蝶】敵を札に誘導",
   "refs": 1,
-  "en": ""
+  "en": "Peony Butterfly: Lure foes to card"
  },
  {
   "id": "dungeonsysmes:0070:00",
   "jp": "【萩の屑・壱】札方向へ２ノック爆発",
   "refs": 1,
-  "en": ""
+  "en": "Clover I: Knock 2 to card + burst"
  },
  {
   "id": "dungeonsysmes:0071:00",
   "jp": "【萩の屑・弐】札方向へ２ノック爆発",
   "refs": 1,
-  "en": ""
+  "en": "Clover II: Knock 2 to card + burst"
  },
  {
   "id": "dungeonsysmes:0072:00",
   "jp": "【萩に赤短】札方向へ４ノック",
   "refs": 1,
-  "en": ""
+  "en": "Clover Red Ribbon: Knock 4 to card"
  },
  {
   "id": "dungeonsysmes:0073:00",
   "jp": "【萩に猪】札中心に４ノック爆発",
   "refs": 1,
-  "en": ""
+  "en": "Clover Boar: Card burst, knock 4"
  },
  {
   "id": "dungeonsysmes:0074:00",
   "jp": "【芒の屑・壱】敵を捻挫状態にかける",
   "refs": 1,
-  "en": ""
+  "en": "Pampas Chaff I: Sprains foes"
  },
  {
   "id": "dungeonsysmes:0075:00",
   "jp": "【芒の屑・弐】敵を睡眠状態にかける",
   "refs": 1,
-  "en": ""
+  "en": "Pampas Chaff II: Puts foes asleep"
  },
  {
   "id": "dungeonsysmes:0076:00",
   "jp": "【芒に雁】敵を封呪状態にかける",
   "refs": 1,
-  "en": ""
+  "en": "Pampas and Geese: Inflicts Seal"
  },
  {
   "id": "dungeonsysmes:0077:00",
   "jp": "【芒に月】無差別範囲大ダメージ",
   "refs": 1,
-  "en": ""
+  "en": "Pampas Moon: Huge damage, hits all"
  },
  {
   "id": "dungeonsysmes:0078:00",
   "jp": "【菊の屑・壱】連続攻撃ダメージ軽減",
   "refs": 1,
-  "en": ""
+  "en": "Mum I: Cuts combo damage"
  },
  {
   "id": "dungeonsysmes:0079:00",
   "jp": "【菊の屑・弐】ＨＰ減少分攻撃力上昇",
   "refs": 1,
-  "en": ""
+  "en": "Mum II: Attack up as HP drops"
  },
  {
   "id": "dungeonsysmes:0080:00",
   "jp": "【菊に青短】札を中心に１ノック",
   "refs": 1,
-  "en": ""
+  "en": "Mum Blue: Knock 1 out from card"
  },
  {
   "id": "dungeonsysmes:0081:00",
   "jp": "【菊に盃】攻撃・防御力上昇・吐き気",
   "refs": 1,
-  "en": ""
+  "en": "Mum Cup: Attack/Defense up; Nausea"
  },
  {
   "id": "dungeonsysmes:0082:00",
   "jp": "【紅葉の屑・壱】北側へ３ノック",
   "refs": 1,
-  "en": ""
+  "en": "Maple Chaff I: Knock 3 north"
  },
  {
   "id": "dungeonsysmes:0083:00",
   "jp": "【紅葉の屑・弐】南側へ３ノック",
   "refs": 1,
-  "en": ""
+  "en": "Maple Chaff II: Knock 3 south"
  },
  {
   "id": "dungeonsysmes:0084:00",
   "jp": "【紅葉に青短】飛行敵の進入禁止",
   "refs": 1,
-  "en": ""
+  "en": "Maple Blue Ribbon: Bars fliers"
  },
  {
   "id": "dungeonsysmes:0085:00",
   "jp": "【紅葉に鹿】飛行敵への射撃ダメ倍増",
   "refs": 1,
-  "en": ""
+  "en": "Maple and Deer: Shots x2 vs fliers"
  },
  {
   "id": "dungeonsysmes:0086:00",
   "jp": "【鬼手に太鼓】秘法眼値回復量倍増",
   "refs": 1,
-  "en": ""
+  "en": "Demon Drum: Arcane Eye recovery x2"
  },
  {
   "id": "dungeonsysmes:0087:00",
   "jp": "【柳に赤短】敵を目潰し状態にかける",
   "refs": 1,
-  "en": ""
+  "en": "Willow Red Ribbon: Blinds foes"
  },
  {
   "id": "dungeonsysmes:0088:00",
   "jp": "【柳に燕】敵との位置を入れ替え",
   "refs": 1,
-  "en": ""
+  "en": "Willow and Swallow: Swap with foe"
  },
  {
   "id": "dungeonsysmes:0089:00",
   "jp": "【柳に雨】敵ターンを飛ばす",
   "refs": 1,
-  "en": ""
+  "en": "Willow and Rain: Skips enemy turn"
  },
  {
   "id": "dungeonsysmes:0090:00",
   "jp": "【桐に製造印】１ターン終了時即死",
   "refs": 1,
-  "en": ""
+  "en": "Paulownia Stamp: Death at turn end"
  },
  {
   "id": "dungeonsysmes:0091:00",
   "jp": "【桐の屑・壱】敵ＨＰ吸収",
   "refs": 1,
-  "en": ""
+  "en": "Paulownia Chaff I: Drains foe HP"
  },
  {
   "id": "dungeonsysmes:0092:00",
   "jp": "【桐の屑・弐】再装填ＡＰ消費無効",
   "refs": 1,
-  "en": ""
+  "en": "Paulownia II: Reload costs no AP"
  },
  {
   "id": "dungeonsysmes:0093:00",
   "jp": "【桐に鳳凰】自分の死亡時に復活",
   "refs": 1,
-  "en": ""
+  "en": "Paulownia Phoenix: Revive on death"
  },
  {
   "id": "dungeonsysmes:0094:00",
   "jp": "【特課試札】防御力上昇",
   "refs": 1,
-  "en": ""
+  "en": "Special Trial Card: Defense up"
  },
  {
   "id": "dungeonsysmes:0095:00",
   "jp": "%sの迎撃",
   "refs": 1,
-  "en": ""
+  "en": "%s Counter"
  },
  {
   "id": "dungeonsysmes:0096:00",
   "jp": "かーごーめ、かーごーめ…",
   "refs": 1,
-  "en": ""
+  "en": "Ka-go-me, ka-go-me..."
  },
  {
   "id": "dungeonsysmes:0097:00",
   "jp": "111011010010101011…",
   "refs": 1,
-  "en": ""
+  "en": "111011010010101011..."
  },
  {
   "id": "dungeonsysmes:0098:00",
   "jp": "0100111011010100…",
   "refs": 1,
-  "en": ""
+  "en": "0100111011010100..."
  },
  {
   "id": "dungeonsysmes:0099:00",
   "jp": "1101110101…",
   "refs": 1,
-  "en": ""
+  "en": "1101110101..."
  },
  {
   "id": "dungeonsysmes:0100:00",
   "jp": "1101011…",
   "refs": 1,
-  "en": ""
+  "en": "1101011..."
  },
  {
   "id": "dungeonsysmes:0101:00",
   "jp": "11111…",
   "refs": 1,
-  "en": ""
+  "en": "11111..."
  },
  {
   "id": "dungeonsysmes:0102:00",
   "jp": "オぉォおオオォおぉぉ…",
   "refs": 1,
-  "en": ""
+  "en": "OoOooOOooOoooo..."
  },
  {
   "id": "dungeonsysmes:0103:00",
   "jp": "【守りの土器】隠人召還",
   "refs": 1,
-  "en": ""
+  "en": "Guardian Pottery: Summons Oni"
  },
  {
   "id": "dungeonsysmes:0104:00",
   "jp": "【北王の柱】隠人召還",
   "refs": 1,
-  "en": ""
+  "en": "North King Pillar: Summons Oni"
  },
  {
   "id": "dungeonsysmes:0105:00",
   "jp": "【東王の柱】隠人召還",
   "refs": 1,
-  "en": ""
+  "en": "East King Pillar: Summons Oni"
  },
  {
   "id": "dungeonsysmes:0106:00",
   "jp": "【南王の柱】隠人召還",
   "refs": 1,
-  "en": ""
+  "en": "South King Pillar: Summons Oni"
  },
  {
   "id": "dungeonsysmes:0107:00",
   "jp": "【西王の柱】隠人召還",
   "refs": 1,
-  "en": ""
+  "en": "West King Pillar: Summons Oni"
  },
  {
   "id": "dungeonsysmes:0108:00",
   "jp": "【迎え火の間】炎ノ式出現",
   "refs": 1,
-  "en": ""
+  "en": "Counterfire: Fire Rite spawns"
  },
  {
   "id": "dungeonsysmes:0109:00",
   "jp": "【迎え火の間】炎ノ式発動（炎傷）",
   "refs": 1,
-  "en": ""
+  "en": "Counterfire: Fire Rite (Burn)"
  },
  {
   "id": "dungeonsysmes:0110:00",
   "jp": "【生口の間】怨霊ノ式出現",
   "refs": 1,
-  "en": ""
+  "en": "Captive: Wraith Rite spawns"
  },
  {
   "id": "dungeonsysmes:0111:00",
   "jp": "【生口の間】怨霊ノ式発動（即死）",
   "refs": 1,
-  "en": ""
+  "en": "Captive: Wraith Rite (Death)"
  },
  {
   "id": "dungeonsysmes:0112:00",
   "jp": "【穢れの間】怨霊ノ式出現",
   "refs": 1,
-  "en": ""
+  "en": "Impurity: Wraith Rite spawns"
  },
  {
   "id": "dungeonsysmes:0113:00",
   "jp": "【穢れの間】怨霊ノ式発動（即死）",
   "refs": 1,
-  "en": ""
+  "en": "Impurity: Wraith Rite (Death)"
  },
  {
   "id": "dungeonsysmes:0114:00",
   "jp": "【武人の柱】隠人召還",
   "refs": 1,
-  "en": ""
+  "en": "Warrior Pillar: Summons Oni"
  },
  {
   "id": "dungeonsysmes:0115:00",
   "jp": "【武人の柱】隠人攻撃力強化",
   "refs": 1,
-  "en": ""
+  "en": "Warrior Pillar: Oni attack up"
  },
  {
   "id": "dungeonsysmes:0116:00",
   "jp": "【伊賀の暗影】隠人体力回復",
   "refs": 1,
-  "en": ""
+  "en": "Shadow of Iga: Oni recover HP"
  },
  {
   "id": "dungeonsysmes:0117:00",
   "jp": "奈良該当ギミック無し",
   "refs": 1,
-  "en": ""
+  "en": "No gimmick for Nara"
  },
  {
   "id": "dungeonsysmes:0118:00",
   "jp": "【加持祈祷の間】炎ノ式出現",
   "refs": 1,
-  "en": ""
+  "en": "Incantation: Fire Rite spawns"
  },
  {
   "id": "dungeonsysmes:0119:00",
   "jp": "【加持祈祷の間】炎ノ式発動（炎傷）",
   "refs": 1,
-  "en": ""
+  "en": "Incantation: Fire Rite (Burn)"
  },
  {
   "id": "dungeonsysmes:0120:00",
   "jp": "【加持祈祷の間】炎ノ式発動（即死）",
   "refs": 1,
-  "en": ""
+  "en": "Incantation: Fire Rite (Death)"
  },
  {
   "id": "dungeonsysmes:0121:00",
   "jp": "【応天門の間】炎ノ式出現",
   "refs": 1,
-  "en": ""
+  "en": "Otenmon: Fire Rite spawns"
  },
  {
   "id": "dungeonsysmes:0122:00",
   "jp": "【応天門の間】炎ノ式発動（炎傷）",
   "refs": 1,
-  "en": ""
+  "en": "Otenmon: Fire Rite (Burn)"
  },
  {
   "id": "dungeonsysmes:0123:00",
   "jp": "【黄海の間】弓兵ノ式出現",
   "refs": 1,
-  "en": ""
+  "en": "Kinomi: Archer Rite spawns"
  },
  {
   "id": "dungeonsysmes:0124:00",
   "jp": "【黄海の間】弓兵ノ式発動",
   "refs": 1,
-  "en": ""
+  "en": "Kinomi: Archer Rite fires"
  },
  {
   "id": "dungeonsysmes:0125:00",
   "jp": "【源義家の間】怨霊ノ式出現",
   "refs": 1,
-  "en": ""
+  "en": "Yoshiie: Wraith Rite spawns"
  },
  {
   "id": "dungeonsysmes:0126:00",
   "jp": "【源義家の間】怨霊ノ式発動（即死）",
   "refs": 1,
-  "en": ""
+  "en": "Yoshiie: Wraith Rite (Death)"
  },
  {
   "id": "dungeonsysmes:0127:00",
   "jp": "【以仁王の間】弓兵ノ式出現",
   "refs": 1,
-  "en": ""
+  "en": "Mochihito: Archer Rite spawns"
  },
  {
   "id": "dungeonsysmes:0128:00",
   "jp": "【以仁王の間】弓兵ノ式発動",
   "refs": 1,
-  "en": ""
+  "en": "Mochihito: Archer Rite fires"
  },
  {
   "id": "dungeonsysmes:0129:00",
   "jp": "【富士川の間】隠人召還",
   "refs": 1,
-  "en": ""
+  "en": "Fujigawa: Summons Oni"
  },
  {
   "id": "dungeonsysmes:0130:00",
   "jp": "【争乱の踏み石】隠人召還",
   "refs": 1,
-  "en": ""
+  "en": "Strife Stepstone: Summons Oni"
  },
  {
   "id": "dungeonsysmes:0131:00",
   "jp": "【眩ましの赤旗】隠人行動力減少",
   "refs": 1,
-  "en": ""
+  "en": "Blinding Red Flag: Oni AP down"
  },
  {
   "id": "dungeonsysmes:0132:00",
   "jp": "【奥州の路】怨霊ノ式出現",
   "refs": 1,
-  "en": ""
+  "en": "Way of Oshu: Wraith Rite spawns"
  },
  {
   "id": "dungeonsysmes:0133:00",
   "jp": "【奥州の路】怨霊ノ式発動（即死）",
   "refs": 1,
-  "en": ""
+  "en": "Way of Oshu: Wraith Rite (Death)"
  },
  {
   "id": "dungeonsysmes:0134:00",
   "jp": "【衣川の間】弓兵ノ式出現",
   "refs": 1,
-  "en": ""
+  "en": "Koromogawa: Archer Rite spawns"
  },
  {
   "id": "dungeonsysmes:0135:00",
   "jp": "【衣川の間】弓兵ノ式発動",
   "refs": 1,
-  "en": ""
+  "en": "Koromogawa: Archer Rite fires"
  },
  {
   "id": "dungeonsysmes:0136:00",
   "jp": "【姉川の間】怨霊ノ式出現",
   "refs": 1,
-  "en": ""
+  "en": "Anegawa: Wraith Rite spawns"
  },
  {
   "id": "dungeonsysmes:0137:00",
   "jp": "【姉川の間】怨霊ノ式発動（即死）",
   "refs": 1,
-  "en": ""
+  "en": "Anegawa: Wraith Rite (Death)"
  },
  {
   "id": "dungeonsysmes:0138:00",
   "jp": "【長篠の間】騎馬ノ式出現",
   "refs": 1,
-  "en": ""
+  "en": "Nagashino: Cavalry Rite spawns"
  },
  {
   "id": "dungeonsysmes:0139:00",
   "jp": "【長篠の間】騎馬ノ式発動",
   "refs": 1,
-  "en": ""
+  "en": "Nagashino: Cavalry Rite charges"
  },
  {
   "id": "dungeonsysmes:0140:00",
   "jp": "【手取川の間】急流発生",
   "refs": 1,
-  "en": ""
+  "en": "Tedorigawa: Rapids surge"
  },
  {
   "id": "dungeonsysmes:0141:00",
   "jp": "【修羅の風穴】隠人召還",
   "refs": 1,
-  "en": ""
+  "en": "Asura Wind Cave: Summons Oni"
  },
  {
   "id": "dungeonsysmes:0142:00",
   "jp": "【出城の間】銃兵ノ式発動",
   "refs": 1,
-  "en": ""
+  "en": "Outpost: Gunner Rite fires"
  },
  {
   "id": "dungeonsysmes:0143:00",
   "jp": "【強兵の間】騎馬ノ式出現",
   "refs": 1,
-  "en": ""
+  "en": "Elite Troop: Cavalry Rite spawns"
  },
  {
   "id": "dungeonsysmes:0144:00",
   "jp": "【強兵の間】騎馬ノ式発動",
   "refs": 1,
-  "en": ""
+  "en": "Elite Troop: Cavalry Rite charges"
  },
  {
   "id": "dungeonsysmes:0145:00",
   "jp": "【義賊の間】捕縛ノ式出現",
   "refs": 1,
-  "en": ""
+  "en": "Noble Thief: Capture Rite spawns"
  },
  {
   "id": "dungeonsysmes:0146:00",
   "jp": "【義賊の間】捕縛ノ式発動",
   "refs": 1,
-  "en": ""
+  "en": "Noble Thief: Capture Rite strikes"
  },
  {
   "id": "dungeonsysmes:0147:00",
   "jp": "【義士の間】天命檄再出現",
   "refs": 1,
-  "en": ""
+  "en": "Loyalist: Heaven's Call reappears"
  },
  {
   "id": "dungeonsysmes:0148:00",
   "jp": "【条約の間】封札制限",
   "refs": 1,
-  "en": ""
+  "en": "Treaty: Card Sealing restricted"
  },
  {
   "id": "dungeonsysmes:0149:00",
   "jp": "【条約の間】隠人攻撃力強化",
   "refs": 1,
-  "en": ""
+  "en": "Treaty: Oni attack up"
  },
  {
   "id": "dungeonsysmes:0150:00",
   "jp": "【無血の間】流血ノ錠、起動",
   "refs": 1,
-  "en": ""
+  "en": "Bloodless: Blood Lock activates"
  },
  {
   "id": "dungeonsysmes:0151:00",
   "jp": "【変革の時計】強兵ノ門、一時開門",
   "refs": 1,
-  "en": ""
+  "en": "Era Clock: Elite Gate opens awhile"
  },
  {
   "id": "dungeonsysmes:0152:00",
   "jp": "【汚毒の間】呪水ノ式発動",
   "refs": 1,
-  "en": ""
+  "en": "Pollution: Cursed Water Rite hits"
  },
  {
   "id": "dungeonsysmes:0153:00",
   "jp": "【誘惑】周囲の隠人の攻撃力上昇",
   "refs": 1,
-  "en": ""
+  "en": "Temptation: Nearby Oni attack up"
  },
  {
   "id": "dungeonsysmes:0154:00",
   "jp": "【暗闇】視界が狭くなる",
   "refs": 1,
-  "en": ""
+  "en": "Darkness: Vision narrows"
  },
  {
   "id": "dungeonsysmes:0155:00",
   "jp": "【回復】自分のＨＰを回復",
   "refs": 1,
-  "en": ""
+  "en": "Recovery: Restores own HP"
  },
  {
   "id": "dungeonsysmes:0156:00",
   "jp": "【魅了】姿を見た相手を麻痺させる",
   "refs": 1,
-  "en": ""
+  "en": "Charm: Seeing it causes Paralysis"
  },
  {
   "id": "dungeonsysmes:0157:00",
   "jp": "【集中】次の攻撃の攻撃力倍増",
   "refs": 1,
-  "en": ""
+  "en": "Focus: Next attack doubled"
  },
  {
   "id": "dungeonsysmes:0158:00",
   "jp": "【封呪】花札解除・封札強化無効",
   "refs": 1,
-  "en": ""
+  "en": "Seal: Hanafuda off; no seal boost"
  },
  {
   "id": "dungeonsysmes:0159:00",
   "jp": "【骨折】最大ＡＰ１/５に減少",
   "refs": 1,
-  "en": ""
+  "en": "Fracture: Max AP cut to 1/5"
  },
  {
   "id": "dungeonsysmes:0160:00",
   "jp": "【捻挫】最大ＡＰ１/２に減少",
   "refs": 1,
-  "en": ""
+  "en": "Sprain: Max AP cut to 1/2"
  },
  {
   "id": "dungeonsysmes:0161:00",
   "jp": "【麻痺】攻撃行動不能",
   "refs": 1,
-  "en": ""
+  "en": "Paralysis: Can't attack"
  },
  {
   "id": "dungeonsysmes:0162:00",
   "jp": "【睡眠】全移動・パレット使用不可",
   "refs": 1,
-  "en": ""
+  "en": "Sleep: Can't move or use palette"
  },
  {
   "id": "dungeonsysmes:0163:00",
   "jp": "【目潰し】視認不可",
   "refs": 1,
-  "en": ""
+  "en": "Blind: Can't see"
  },
  {
   "id": "dungeonsysmes:0164:00",
   "jp": "【悪寒】射撃能力低下",
   "refs": 1,
-  "en": ""
+  "en": "Chills: Weaker shooting"
  },
  {
   "id": "dungeonsysmes:0165:00",
   "jp": "【吐き気】食品アイテムの使用不可",
   "refs": 1,
-  "en": ""
+  "en": "Nausea: Can't use food items"
  },
  {
   "id": "dungeonsysmes:0166:00",
   "jp": "【頭痛】学科値無効",
   "refs": 1,
-  "en": ""
+  "en": "Headache: Subject stats nullified"
  },
  {
   "id": "dungeonsysmes:0167:00",
   "jp": "状態異常から回復しました",
   "refs": 1,
-  "en": ""
+  "en": "Recovered from ailment"
  },
  {
   "id": "dungeonsysmes:0168:00",
   "jp": "【黒の封焔】焔をまとった攻撃",
   "refs": 1,
-  "en": ""
+  "en": "Black Sealfire: Flame-clad attack"
  },
  {
   "id": "dungeonsysmes:0169:00",
   "jp": "【猿王拳】雁の札の力をまとった攻撃",
   "refs": 1,
-  "en": ""
+  "en": "Ape King Fist: Geese-card attack"
  },
  {
   "id": "dungeonsysmes:0170:00",
   "jp": "【吟風】水の力をまとった攻撃",
   "refs": 1,
-  "en": ""
+  "en": "Singing Wind: Water-clad attack"
  },
  {
   "id": "dungeonsysmes:0171:00",
   "jp": "【鳥歌】ＨＰを回復",
   "refs": 1,
-  "en": ""
+  "en": "Birdsong: Restores HP"
  },
  {
   "id": "dungeonsysmes:0172:00",
   "jp": "【胴斬り】居合の攻撃",
   "refs": 1,
-  "en": ""
+  "en": "Body Slash: Quick-draw attack"
  },
  {
   "id": "dungeonsysmes:0173:00",
   "jp": "【一撃必殺】弱点への投擲攻撃",
   "refs": 1,
-  "en": ""
+  "en": "One-Hit Kill: Throw at weak point"
  },
  {
   "id": "dungeonsysmes:0174:00",
   "jp": "【表裏】カードを投げる術攻撃",
   "refs": 1,
-  "en": ""
+  "en": "Heads or Tails: Thrown-card spell"
  },
  {
   "id": "dungeonsysmes:0175:00",
   "jp": "【国士無双】衝撃波を伴った攻撃",
   "refs": 1,
-  "en": ""
+  "en": "Peerless Hero: Shockwave attack"
  },
  {
   "id": "dungeonsysmes:0176:00",
   "jp": "【インビジブル】敵の弱点が見える術",
   "refs": 1,
-  "en": ""
+  "en": "Invisible: Reveals foe weak spots"
  },
  {
   "id": "dungeonsysmes:0177:00",
   "jp": "【マリポーザ】蝶の燐粉による術攻撃",
   "refs": 1,
-  "en": ""
+  "en": "Mariposa: Butterfly dust spell"
  },
  {
   "id": "dungeonsysmes:0178:00",
   "jp": "【北斗雷震】退摩札による術攻撃",
   "refs": 1,
-  "en": ""
+  "en": "Dipper Thunder: Talisman spell"
  },
  {
   "id": "dungeonsysmes:0179:00",
   "jp": "【ミラクル★ラブ】氣による攻撃",
   "refs": 1,
-  "en": ""
+  "en": "Miracle Love: Ki attack"
  },
  {
   "id": "dungeonsysmes:0180:00",
   "jp": "【英雄大解砲】ノックバック攻撃",
   "refs": 1,
-  "en": ""
+  "en": "Hero Cannon: Knockback attack"
  },
  {
   "id": "dungeonsysmes:0181:00",
   "jp": "【天橋立】防御力・攻撃力強化の術",
   "refs": 1,
-  "en": ""
+  "en": "Heaven's Bridge: Attack/defense up"
  },
  {
   "id": "dungeonsysmes:0182:00",
   "jp": "【空蝉の術】攻撃回避の術",
   "refs": 1,
-  "en": ""
+  "en": "Cicada Husk: Evades attacks"
  },
  {
   "id": "dungeonsysmes:0183:00",
   "jp": "【華剣舞】剣による攻撃",
   "refs": 1,
-  "en": ""
+  "en": "Flower Sword Dance: Sword attack"
  },
  {
   "id": "dungeonsysmes:0184:00",
   "jp": "【回し蹴り】周囲の敵にダメージ",
   "refs": 1,
-  "en": ""
+  "en": "Roundhouse Kick: Hits nearby foes"
  },
  {
   "id": "dungeonsysmes:0185:00",
   "jp": "【正拳突き】正面の敵にダメージ",
   "refs": 1,
-  "en": ""
+  "en": "Straight Punch: Hits foe in front"
  },
  {
   "id": "dungeonsysmes:0186:00",
   "jp": "【気合いの鉄拳】前方の敵にダメージ",
   "refs": 1,
-  "en": ""
+  "en": "Spirited Fist: Hits foes ahead"
  },
  {
   "id": "dungeonsysmes:0187:00",
   "jp": "【手持ちの絆創膏】ＨＰを少し回復",
   "refs": 1,
-  "en": ""
+  "en": "Handy Bandage: Restores some HP"
  },
  {
   "id": "dungeonsysmes:0188:00",
   "jp": "ダミー。",
   "refs": 1,
-  "en": ""
+  "en": "Dummy."
  },
  {
   "id": "dungeonsysmes:0189:00",
   "jp": "【チョーク投げ】文房具の投擲攻撃",
   "refs": 1,
-  "en": ""
+  "en": "Chalk Throw: Throws stationery"
  },
  {
   "id": "dungeonsysmes:0190:00",
   "jp": "【防具効果】敵を味方につける",
   "refs": 1,
-  "en": ""
+  "en": "Armor Effect: Turns foe to ally"
  },
  {
   "id": "dungeonsysmes:0191:00",
   "jp": "拳型武器即死効果",
   "refs": 1,
-  "en": ""
+  "en": "Fist weapon instant-kill effect"
  },
  {
   "id": "dungeonsysmes:0192:00",
   "jp": "【花札解呪】範囲内花札の設置解除",
   "refs": 1,
-  "en": ""
+  "en": "Hanafuda Dispel: Clears area cards"
  },
  {
   "id": "dungeonsysmes:0193:00",
   "jp": "【高密度侵蝕域】強化隠人の出現",
   "refs": 1,
-  "en": ""
+  "en": "Dense Erosion Zone: Strong Oni"
  },
  {
   "id": "dungeonsysmes:0194:00",
   "jp": "【呪言花札】実体の再構成",
   "refs": 1,
-  "en": ""
+  "en": "Curse Hanafuda: Body reconstructed"
  },
  {
   "id": "dungeonsysmes:0195:00",
   "jp": "【表裏】の効果が切れた",
   "refs": 1,
-  "en": ""
+  "en": "Heads or Tails wore off"
  },
  {
   "id": "dungeonsysmes:0196:00",
   "jp": "【表裏】発動・敵から見えなくなる",
   "refs": 1,
-  "en": ""
+  "en": "Heads or Tails: Foes can't see you"
  },
  {
   "id": "dungeonsysmes:0197:00",
   "jp": "【表裏】発動失敗",
   "refs": 1,
-  "en": ""
+  "en": "Heads or Tails failed"
  },
  {
   "id": "dungeonsysmes:0198:00",
   "jp": "【インビジブル】の効果が切れた",
   "refs": 1,
-  "en": ""
+  "en": "Invisible wore off"
  },
  {
   "id": "dungeonsysmes:0199:00",
   "jp": "【ミラクル★ラブ】敵のＨＰ吸収",
   "refs": 1,
-  "en": ""
+  "en": "Miracle Love: Drains foe HP"
  },
  {
   "id": "dungeonsysmes:0200:00",
   "jp": "【空蝉の術】回避成功・カウンター",
   "refs": 1,
-  "en": ""
+  "en": "Cicada Husk: Dodged! Counter!"
  },
  {
   "id": "dungeonsysmes:0201:00",
   "jp": "【松にあかよろし】ターン内発動限界",
   "refs": 1,
-  "en": ""
+  "en": "Pine Poem: Max uses this turn"
  },
  {
   "id": "dungeonsysmes:0202:00",
   "jp": "【萩の屑・壱】ターン内発動限界",
   "refs": 1,
-  "en": ""
+  "en": "Clover Chaff I: Max uses this turn"
  },
  {
   "id": "dungeonsysmes:0203:00",
   "jp": "【萩の屑・弐】ターン内発動限界",
   "refs": 1,
-  "en": ""
+  "en": "Clover II: Max uses this turn"
  },
  {
   "id": "dungeonsysmes:0204:00",
   "jp": "【萩に猪】ターン内発動限界",
   "refs": 1,
-  "en": ""
+  "en": "Clover Boar: Max uses this turn"
  },
  {
   "id": "dungeonsysmes:0205:00",
   "jp": "【紅葉の屑・壱】ターン内発動限界",
   "refs": 1,
-  "en": ""
+  "en": "Maple Chaff I: Max uses this turn"
  },
  {
   "id": "dungeonsysmes:0206:00",
   "jp": "【紅葉の屑・弐】ターン内発動限界",
   "refs": 1,
-  "en": ""
+  "en": "Maple Chaff II: Max uses this turn"
  },
  {
   "id": "dungeonsysmes:0207:00",
   "jp": "【怨霊ノ式】桐に鳳凰　発動抑制",
   "refs": 1,
-  "en": ""
+  "en": "Wraith Rite: No Paulownia Phoenix"
  },
  {
   "id": "dungeonsysmes:0208:00",
   "jp": "【炎ノ式】桐に鳳凰　発動抑制",
   "refs": 1,
-  "en": ""
+  "en": "Fire Rite: No Paulownia Phoenix"
  },
  {
   "id": "dungeonsysmes:0209:00",
   "jp": "【松の屑・壱】冬ダメージ・弐連動",
   "refs": 1,
-  "en": ""
+  "en": "Pine I: Winter damage + Pine II"
  },
  {
   "id": "dungeonsysmes:0210:00",
   "jp": "【金烏の大岩】隠人により着地不能",
   "refs": 1,
-  "en": ""
+  "en": "Gold Crow Rock: Oni block landing"
  },
  {
   "id": "dungeonsysmes:0211:00",
   "jp": "【政変の間】弓兵ノ式出現",
   "refs": 1,
-  "en": ""
+  "en": "Coup: Archer Rite spawns"
  },
  {
   "id": "dungeonsysmes:0212:00",
   "jp": "【政変の間】弓兵ノ式発動",
   "refs": 1,
-  "en": ""
+  "en": "Coup: Archer Rite fires"
  },
  {
   "id": "dungeonsysmes:0213:00",
   "jp": "【天之瓊矛】体力損耗",
   "refs": 1,
-  "en": ""
+  "en": "Ame-no-Nuboko: Wears down HP"
  },
  {
   "id": "dungeonsysmes:0214:00",
   "jp": "【天羽々矢】弱点必中・封呪",
   "refs": 1,
-  "en": ""
+  "en": "Ame-no-Habaya: Weakness hit, Seal"
  },
  {
   "id": "dungeonsysmes:0215:00",
   "jp": "【柳に燕】現在位置には転送できない",
   "refs": 1,
-  "en": ""
+  "en": "Willow Swallow: Can't warp here"
  },
  {
   "id": "dungeonsysmes:0216:00",
   "jp": "【三乗ノ王】迎撃禁止無効",
   "refs": 1,
-  "en": ""
+  "en": "King of Three: Counter ban void"
  },
  {
   "id": "dungeonsysmes:0217:00",
   "jp": "【怨霊ノ式】花札配置無効",
   "refs": 1,
-  "en": ""
+  "en": "Wraith Rite: Can't place hanafuda"
  },
  {
   "id": "dungeonsysmes:0218:00",
   "jp": "【風呪】防具が春属性に変化",
   "refs": 1,
-  "en": ""
+  "en": "Wind Curse: Armor turns Spring"
  },
  {
   "id": "dungeonsysmes:0219:00",
   "jp": "【炎呪】防具が夏属性に変化",
   "refs": 1,
-  "en": ""
+  "en": "Fire Curse: Armor turns Summer"
  },
  {
   "id": "dungeonsysmes:0220:00",
   "jp": "【土呪】防具が秋属性に変化",
   "refs": 1,
-  "en": ""
+  "en": "Earth Curse: Armor turns Autumn"
  },
  {
   "id": "dungeonsysmes:0221:00",
   "jp": "【氷呪】防具が冬属性に変化",
   "refs": 1,
-  "en": ""
+  "en": "Ice Curse: Armor turns Winter"
  }
 ]

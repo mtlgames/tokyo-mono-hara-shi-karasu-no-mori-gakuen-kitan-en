@@ -3,264 +3,264 @@
   "id": "questplayerview:0000:00",
   "jp": "学生服",
   "refs": 1,
-  "en": ""
+  "en": "Uniform"
  },
  {
   "id": "questplayerview:0000:04",
   "jp": "白",
   "refs": 1,
-  "en": ""
+  "en": "White"
  },
  {
   "id": "questplayerview:0000:08",
   "jp": "なし",
   "refs": 2,
-  "en": ""
+  "en": "None"
  },
  {
   "id": "questplayerview:0001:00",
   "jp": "スーツ",
   "refs": 1,
-  "en": ""
+  "en": "Suit"
  },
  {
   "id": "questplayerview:0001:04",
   "jp": "水色",
   "refs": 1,
-  "en": ""
+  "en": "Sky Blue"
  },
  {
   "id": "questplayerview:0001:08",
   "jp": "メガネ",
   "refs": 1,
-  "en": ""
+  "en": "Glasses"
  },
  {
   "id": "questplayerview:0001:0c",
   "jp": "狐面",
   "refs": 1,
-  "en": ""
+  "en": "Fox Mask"
  },
  {
   "id": "questplayerview:0002:00",
   "jp": "Ｔシャツ",
   "refs": 1,
-  "en": ""
+  "en": "T-Shirt"
  },
  {
   "id": "questplayerview:0002:04",
   "jp": "青",
   "refs": 1,
-  "en": ""
+  "en": "Blue"
  },
  {
   "id": "questplayerview:0002:08",
   "jp": "一輪の薔薇",
   "refs": 1,
-  "en": ""
+  "en": "Single Rose"
  },
  {
   "id": "questplayerview:0002:0c",
   "jp": "ターバン",
   "refs": 1,
-  "en": ""
+  "en": "Turban"
  },
  {
   "id": "questplayerview:0003:00",
   "jp": "コート",
   "refs": 1,
-  "en": ""
+  "en": "Coat"
  },
  {
   "id": "questplayerview:0003:04",
   "jp": "緑",
   "refs": 1,
-  "en": ""
+  "en": "Green"
  },
  {
   "id": "questplayerview:0003:08",
   "jp": "眼帯",
   "refs": 1,
-  "en": ""
+  "en": "Eyepatch"
  },
  {
   "id": "questplayerview:0003:0c",
   "jp": "猫耳",
   "refs": 1,
-  "en": ""
+  "en": "Cat Ears"
  },
  {
   "id": "questplayerview:0004:00",
   "jp": "バーテンダー",
   "refs": 1,
-  "en": ""
+  "en": "Bartender"
  },
  {
   "id": "questplayerview:0004:04",
   "jp": "黄色",
   "refs": 1,
-  "en": ""
+  "en": "Yellow"
  },
  {
   "id": "questplayerview:0004:08",
   "jp": "隈取り模様",
   "refs": 1,
-  "en": ""
+  "en": "Kabuki Paint"
  },
  {
   "id": "questplayerview:0004:0c",
   "jp": "ヘッドフォン",
   "refs": 1,
-  "en": ""
+  "en": "Headphones"
  },
  {
   "id": "questplayerview:0005:00",
   "jp": "パーカー",
   "refs": 1,
-  "en": ""
+  "en": "Hoodie"
  },
  {
   "id": "questplayerview:0005:04",
   "jp": "オレンジ",
   "refs": 1,
-  "en": ""
+  "en": "Orange"
  },
  {
   "id": "questplayerview:0005:08",
   "jp": "サングラス",
   "refs": 1,
-  "en": ""
+  "en": "Sunglasses"
  },
  {
   "id": "questplayerview:0005:0c",
   "jp": "着ぐるみの頭",
   "refs": 1,
-  "en": ""
+  "en": "Mascot Head"
  },
  {
   "id": "questplayerview:0006:00",
   "jp": "和服",
   "refs": 1,
-  "en": ""
+  "en": "Kimono"
  },
  {
   "id": "questplayerview:0006:04",
   "jp": "赤",
   "refs": 1,
-  "en": ""
+  "en": "Red"
  },
  {
   "id": "questplayerview:0006:08",
   "jp": "アイマスク",
   "refs": 1,
-  "en": ""
+  "en": "Sleep Mask"
  },
  {
   "id": "questplayerview:0006:0c",
   "jp": "テンガロンハット",
   "refs": 1,
-  "en": ""
+  "en": "Ten-Gallon Hat"
  },
  {
   "id": "questplayerview:0007:00",
   "jp": "コック服",
   "refs": 1,
-  "en": ""
+  "en": "Chef's Coat"
  },
  {
   "id": "questplayerview:0007:04",
   "jp": "紫",
   "refs": 1,
-  "en": ""
+  "en": "Purple"
  },
  {
   "id": "questplayerview:0007:08",
   "jp": "衛生マスク",
   "refs": 1,
-  "en": ""
+  "en": "Surgical Mask"
  },
  {
   "id": "questplayerview:0007:0c",
   "jp": "王冠",
   "refs": 1,
-  "en": ""
+  "en": "Crown"
  },
  {
   "id": "questplayerview:0008:00",
   "jp": "軍隊風コート",
   "refs": 1,
-  "en": ""
+  "en": "Army Coat"
  },
  {
   "id": "questplayerview:0008:04",
   "jp": "ピンク",
   "refs": 1,
-  "en": ""
+  "en": "Pink"
  },
  {
   "id": "questplayerview:0008:08",
   "jp": "タバコ風お菓子",
   "refs": 1,
-  "en": ""
+  "en": "Candy Smokes"
  },
  {
   "id": "questplayerview:0008:0c",
   "jp": "ベレー帽",
   "refs": 1,
-  "en": ""
+  "en": "Beret"
  },
  {
   "id": "questplayerview:0009:08",
   "jp": "つけひげ",
   "refs": 1,
-  "en": ""
+  "en": "Fake Mustache"
  },
  {
   "id": "questplayerview:0009:0c",
   "jp": "シルクハット",
   "refs": 1,
-  "en": ""
+  "en": "Top Hat"
  },
  {
   "id": "questplayerview:0010:08",
   "jp": "ピエロ鼻",
   "refs": 1,
-  "en": ""
+  "en": "Clown Nose"
  },
  {
   "id": "questplayerview:0010:0c",
   "jp": "コック帽",
   "refs": 1,
-  "en": ""
+  "en": "Chef's Hat"
  },
  {
   "id": "questplayerview:0011:08",
   "jp": "鼻メガネ",
   "refs": 1,
-  "en": ""
+  "en": "Nose Glasses"
  },
  {
   "id": "questplayerview:0011:0c",
   "jp": "麦藁帽子",
   "refs": 1,
-  "en": ""
+  "en": "Straw Hat"
  },
  {
   "id": "questplayerview:0012:0c",
   "jp": "サンタ帽子",
   "refs": 1,
-  "en": ""
+  "en": "Santa Hat"
  },
  {
   "id": "questplayerview:0013:0c",
   "jp": "ウィッチハット",
   "refs": 1,
-  "en": ""
+  "en": "Witch Hat"
  },
  {
   "id": "questplayerview:0014:0c",
   "jp": "海賊帽子",
   "refs": 1,
-  "en": ""
+  "en": "Pirate Hat"
  }
 ]

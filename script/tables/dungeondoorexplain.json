@@ -9,48 +9,48 @@
   "id": "dungeondoorexplain:0000:0c",
   "jp": "実体化した扉。\nこの洞窟の第一階層へと\n繋がっている。\n鍵はかかっていない。",
   "refs": 4,
-  "en": ""
+  "en": "A materialized door\nleading to 1F of this\ncave. It is unlocked."
  },
  {
   "id": "dungeondoorexplain:0000:10",
   "jp": "実体化した扉。\nこの洞窟の第一階層へと\n繋がっている。\n施錠されており開かない。",
   "refs": 4,
-  "en": ""
+  "en": "A materialized door\nleading to 1F of this\ncave. It is locked shut."
  },
  {
   "id": "dungeondoorexplain:0001:0c",
   "jp": "実体化した扉。\nこの洞窟の第二階層へと\n繋がっている。\n鍵はかかっていない。",
   "refs": 4,
-  "en": ""
+  "en": "A materialized door\nleading to 2F of this\ncave. It is unlocked."
  },
  {
   "id": "dungeondoorexplain:0001:10",
   "jp": "実体化した扉。\nこの洞窟の第二階層へと\n繋がっている。\n施錠されており開かない。",
   "refs": 4,
-  "en": ""
+  "en": "A materialized door\nleading to 2F of this\ncave. It is locked shut."
  },
  {
   "id": "dungeondoorexplain:0002:0c",
   "jp": "実体化した扉。\nこの洞窟の第三階層へと\n繋がっている。\n鍵はかかっていない。",
   "refs": 4,
-  "en": ""
+  "en": "A materialized door\nleading to 3F of this\ncave. It is unlocked."
  },
  {
   "id": "dungeondoorexplain:0002:10",
   "jp": "実体化した扉。\nこの洞窟の第三階層へと\n繋がっている。\n施錠されており開かない。",
   "refs": 4,
-  "en": ""
+  "en": "A materialized door\nleading to 3F of this\ncave. It is locked shut."
  },
  {
   "id": "dungeondoorexplain:0004:0c",
   "jp": "実体化した扉。\nこの洞窟の第四階層へと\n繋がっている。\n鍵はかかっていない。",
   "refs": 1,
-  "en": ""
+  "en": "A materialized door\nleading to 4F of this\ncave. It is unlocked."
  },
  {
   "id": "dungeondoorexplain:0004:10",
   "jp": "実体化した扉。\nこの洞窟の第四階層へと\n繋がっている。\n施錠されており開かない。",
   "refs": 1,
-  "en": ""
+  "en": "A materialized door\nleading to 4F of this\ncave. It is locked shut."
  }
 ]

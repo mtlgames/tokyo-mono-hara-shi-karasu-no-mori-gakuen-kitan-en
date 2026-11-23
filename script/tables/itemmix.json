@@ -3,648 +3,648 @@
   "id": "itemmix:0000:0c",
   "jp": "itm_retortcurry",
   "refs": 2,
-  "en": ""
+  "en": "itm_retortcurry"
  },
  {
   "id": "itemmix:0000:10",
   "jp": "itm_currysauce",
   "refs": 1,
-  "en": ""
+  "en": "itm_currysauce"
  },
  {
   "id": "itemmix:0000:14",
   "jp": "itm_noodle",
   "refs": 2,
-  "en": ""
+  "en": "itm_noodle"
  },
  {
   "id": "itemmix:0000:18",
   "jp": "itm_sauceyakisoba",
   "refs": 3,
-  "en": ""
+  "en": "itm_sauceyakisoba"
  },
  {
   "id": "itemmix:0000:1c",
   "jp": "・・・",
   "refs": 792,
-  "en": ""
+  "en": "..."
  },
  {
   "id": "itemmix:0001:0c",
   "jp": "itm_tomato",
   "refs": 2,
-  "en": ""
+  "en": "itm_tomato"
  },
  {
   "id": "itemmix:0001:10",
   "jp": "itm_ichigo",
   "refs": 1,
-  "en": ""
+  "en": "itm_ichigo"
  },
  {
   "id": "itemmix:0001:14",
   "jp": "itm_wagomu",
   "refs": 2,
-  "en": ""
+  "en": "itm_wagomu"
  },
  {
   "id": "itemmix:0001:18",
   "jp": "itm_gum",
   "refs": 2,
-  "en": ""
+  "en": "itm_gum"
  },
  {
   "id": "itemmix:0003:0c",
   "jp": "itm_bread",
   "refs": 2,
-  "en": ""
+  "en": "itm_bread"
  },
  {
   "id": "itemmix:0003:10",
   "jp": "itm_currybread",
   "refs": 1,
-  "en": ""
+  "en": "itm_currybread"
  },
  {
   "id": "itemmix:0003:14",
   "jp": "itm_rice",
   "refs": 2,
-  "en": ""
+  "en": "itm_rice"
  },
  {
   "id": "itemmix:0003:18",
   "jp": "itm_curryrice",
   "refs": 3,
-  "en": ""
+  "en": "itm_curryrice"
  },
  {
   "id": "itemmix:0003:20",
   "jp": "itm_currynoodle",
   "refs": 1,
-  "en": ""
+  "en": "itm_currynoodle"
  },
  {
   "id": "itemmix:0003:28",
   "jp": "itm_currygum",
   "refs": 1,
-  "en": ""
+  "en": "itm_currygum"
  },
  {
   "id": "itemmix:0004:10",
   "jp": "itm_sandwich",
   "refs": 2,
-  "en": ""
+  "en": "itm_sandwich"
  },
  {
   "id": "itemmix:0004:14",
   "jp": "itm_frankfurter",
   "refs": 2,
-  "en": ""
+  "en": "itm_frankfurter"
  },
  {
   "id": "itemmix:0004:18",
   "jp": "itm_hotdog",
   "refs": 1,
-  "en": ""
+  "en": "itm_hotdog"
  },
  {
   "id": "itemmix:0004:20",
   "jp": "itm_yakisobapan",
   "refs": 1,
-  "en": ""
+  "en": "itm_yakisobapan"
  },
  {
   "id": "itemmix:0004:24",
   "jp": "itm_umaibou",
   "refs": 1,
-  "en": ""
+  "en": "itm_umaibou"
  },
  {
   "id": "itemmix:0004:28",
   "jp": "itm_umaiboubread",
   "refs": 1,
-  "en": ""
+  "en": "itm_umaiboubread"
  },
  {
   "id": "itemmix:0005:0c",
   "jp": "itm_bakingsoda",
   "refs": 4,
-  "en": ""
+  "en": "itm_bakingsoda"
  },
  {
   "id": "itemmix:0005:10",
   "jp": "itm_tofu",
   "refs": 1,
-  "en": ""
+  "en": "itm_tofu"
  },
  {
   "id": "itemmix:0005:14",
   "jp": "itm_coffee",
   "refs": 2,
-  "en": ""
+  "en": "itm_coffee"
  },
  {
   "id": "itemmix:0005:18",
   "jp": "itm_kuromamecoffee",
   "refs": 2,
-  "en": ""
+  "en": "itm_kuromamecoffee"
  },
  {
   "id": "itemmix:0006:0c",
   "jp": "itm_wiener",
   "refs": 3,
-  "en": ""
+  "en": "itm_wiener"
  },
  {
   "id": "itemmix:0006:18",
   "jp": "itm_chickenrice",
   "refs": 2,
-  "en": ""
+  "en": "itm_chickenrice"
  },
  {
   "id": "itemmix:0007:14",
   "jp": "itm_soup",
   "refs": 1,
-  "en": ""
+  "en": "itm_soup"
  },
  {
   "id": "itemmix:0007:18",
   "jp": "itm_minestrone",
   "refs": 1,
-  "en": ""
+  "en": "itm_minestrone"
  },
  {
   "id": "itemmix:0008:0c",
   "jp": "itm_redpepper",
   "refs": 2,
-  "en": ""
+  "en": "itm_redpepper"
  },
  {
   "id": "itemmix:0008:10",
   "jp": "itm_chorizo",
   "refs": 2,
-  "en": ""
+  "en": "itm_chorizo"
  },
  {
   "id": "itemmix:0008:18",
   "jp": "itm_wienercofee",
   "refs": 2,
-  "en": ""
+  "en": "itm_wienercofee"
  },
  {
   "id": "itemmix:0010:10",
   "jp": "itm_hotmilk",
   "refs": 1,
-  "en": ""
+  "en": "itm_hotmilk"
  },
  {
   "id": "itemmix:0010:14",
   "jp": "itm_chocolate",
   "refs": 2,
-  "en": ""
+  "en": "itm_chocolate"
  },
  {
   "id": "itemmix:0010:18",
   "jp": "itm_cocoa",
   "refs": 2,
-  "en": ""
+  "en": "itm_cocoa"
  },
  {
   "id": "itemmix:0010:1c",
   "jp": "itm_yogurt",
   "refs": 1,
-  "en": ""
+  "en": "itm_yogurt"
  },
  {
   "id": "itemmix:0010:20",
   "jp": "itm_lassi",
   "refs": 1,
-  "en": ""
+  "en": "itm_lassi"
  },
  {
   "id": "itemmix:0011:14",
   "jp": "itm_beans",
   "refs": 1,
-  "en": ""
+  "en": "itm_beans"
  },
  {
   "id": "itemmix:0011:20",
   "jp": "itm_coffeebeans",
   "refs": 1,
-  "en": ""
+  "en": "itm_coffeebeans"
  },
  {
   "id": "itemmix:0012:14",
   "jp": "itm_wood",
   "refs": 5,
-  "en": ""
+  "en": "itm_wood"
  },
  {
   "id": "itemmix:0012:18",
   "jp": "itm_kiritanpo",
   "refs": 1,
-  "en": ""
+  "en": "itm_kiritanpo"
  },
  {
   "id": "itemmix:0012:1c",
   "jp": "itm_vinegar",
   "refs": 1,
-  "en": ""
+  "en": "itm_vinegar"
  },
  {
   "id": "itemmix:0012:20",
   "jp": "itm_sumeshi",
   "refs": 2,
-  "en": ""
+  "en": "itm_sumeshi"
  },
  {
   "id": "itemmix:0015:0c",
   "jp": "itm_egg",
   "refs": 1,
-  "en": ""
+  "en": "itm_egg"
  },
  {
   "id": "itemmix:0015:10",
   "jp": "itm_omusoba",
   "refs": 1,
-  "en": ""
+  "en": "itm_omusoba"
  },
  {
   "id": "itemmix:0018:0c",
   "jp": "itm_an",
   "refs": 1,
-  "en": ""
+  "en": "itm_an"
  },
  {
   "id": "itemmix:0018:10",
   "jp": "itm_manjyu",
   "refs": 1,
-  "en": ""
+  "en": "itm_manjyu"
  },
  {
   "id": "itemmix:0018:14",
   "jp": "itm_satsumaimo",
   "refs": 1,
-  "en": ""
+  "en": "itm_satsumaimo"
  },
  {
   "id": "itemmix:0018:18",
   "jp": "itm_yasaiten",
   "refs": 1,
-  "en": ""
+  "en": "itm_yasaiten"
  },
  {
   "id": "itemmix:0021:0c",
   "jp": "itm_fish",
   "refs": 4,
-  "en": ""
+  "en": "itm_fish"
  },
  {
   "id": "itemmix:0021:10",
   "jp": "itm_sushi",
   "refs": 2,
-  "en": ""
+  "en": "itm_sushi"
  },
  {
   "id": "itemmix:0022:0c",
   "jp": "itm_water",
   "refs": 2,
-  "en": ""
+  "en": "itm_water"
  },
  {
   "id": "itemmix:0022:10",
   "jp": "itm_mizuyoukan",
   "refs": 1,
-  "en": ""
+  "en": "itm_mizuyoukan"
  },
  {
   "id": "itemmix:0022:14",
   "jp": "itm_gelatin",
   "refs": 3,
-  "en": ""
+  "en": "itm_gelatin"
  },
  {
   "id": "itemmix:0022:18",
   "jp": "itm_youkan",
   "refs": 1,
-  "en": ""
+  "en": "itm_youkan"
  },
  {
   "id": "itemmix:0023:10",
   "jp": "itm_sodawater",
   "refs": 2,
-  "en": ""
+  "en": "itm_sodawater"
  },
  {
   "id": "itemmix:0023:14",
   "jp": "itm_lime",
   "refs": 2,
-  "en": ""
+  "en": "itm_lime"
  },
  {
   "id": "itemmix:0023:18",
   "jp": "itm_heating",
   "refs": 1,
-  "en": ""
+  "en": "itm_heating"
  },
  {
   "id": "itemmix:0024:0c",
   "jp": "itm_sauce",
   "refs": 1,
-  "en": ""
+  "en": "itm_sauce"
  },
  {
   "id": "itemmix:0026:10",
   "jp": "itm_horeizai",
   "refs": 2,
-  "en": ""
+  "en": "itm_horeizai"
  },
  {
   "id": "itemmix:0026:14",
   "jp": "itm_charcoal",
   "refs": 3,
-  "en": ""
+  "en": "itm_charcoal"
  },
  {
   "id": "itemmix:0026:18",
   "jp": "itm_rousoku",
   "refs": 2,
-  "en": ""
+  "en": "itm_rousoku"
  },
  {
   "id": "itemmix:0027:0c",
   "jp": "itm_chicken",
   "refs": 2,
-  "en": ""
+  "en": "itm_chicken"
  },
  {
   "id": "itemmix:0027:10",
   "jp": "itm_samgyetang",
   "refs": 1,
-  "en": ""
+  "en": "itm_samgyetang"
  },
  {
   "id": "itemmix:0028:0c",
   "jp": "itm_hotarukusa",
   "refs": 1,
-  "en": ""
+  "en": "itm_hotarukusa"
  },
  {
   "id": "itemmix:0028:10",
   "jp": "itm_umaiboukusaaji",
   "refs": 1,
-  "en": ""
+  "en": "itm_umaiboukusaaji"
  },
  {
   "id": "itemmix:0029:0c",
   "jp": "itm_milk",
   "refs": 1,
-  "en": ""
+  "en": "itm_milk"
  },
  {
   "id": "itemmix:0030:10",
   "jp": "itm_smokechicken",
   "refs": 2,
-  "en": ""
+  "en": "itm_smokechicken"
  },
  {
   "id": "itemmix:0030:18",
   "jp": "itm_sumibichicken",
   "refs": 1,
-  "en": ""
+  "en": "itm_sumibichicken"
  },
  {
   "id": "itemmix:0031:0c",
   "jp": "itm_sake",
   "refs": 2,
-  "en": ""
+  "en": "itm_sake"
  },
  {
   "id": "itemmix:0031:10",
   "jp": "itm_hiresake",
   "refs": 1,
-  "en": ""
+  "en": "itm_hiresake"
  },
  {
   "id": "itemmix:0031:20",
   "jp": "itm_sazae",
   "refs": 2,
-  "en": ""
+  "en": "itm_sazae"
  },
  {
   "id": "itemmix:0031:24",
   "jp": "itm_4paper",
   "refs": 3,
-  "en": ""
+  "en": "itm_4paper"
  },
  {
   "id": "itemmix:0031:28",
   "jp": "itm_tutumiyaki",
   "refs": 2,
-  "en": ""
+  "en": "itm_tutumiyaki"
  },
  {
   "id": "itemmix:0031:30",
   "jp": "itm_hiiragi",
   "refs": 2,
-  "en": ""
+  "en": "itm_hiiragi"
  },
  {
   "id": "itemmix:0033:0c",
   "jp": "itm_ammonia",
   "refs": 2,
-  "en": ""
+  "en": "itm_ammonia"
  },
  {
   "id": "itemmix:0033:10",
   "jp": "itm_kitsuke",
   "refs": 1,
-  "en": ""
+  "en": "itm_kitsuke"
  },
  {
   "id": "itemmix:0033:18",
   "jp": "itm_disinfectant",
   "refs": 2,
-  "en": ""
+  "en": "itm_disinfectant"
  },
  {
   "id": "itemmix:0034:0c",
   "jp": "itm_hotaruishi",
   "refs": 2,
-  "en": ""
+  "en": "itm_hotaruishi"
  },
  {
   "id": "itemmix:0034:10",
   "jp": "itm_ishiyakiimo",
   "refs": 1,
-  "en": ""
+  "en": "itm_ishiyakiimo"
  },
  {
   "id": "itemmix:0035:10",
   "jp": "itm_omrice",
   "refs": 1,
-  "en": ""
+  "en": "itm_omrice"
  },
  {
   "id": "itemmix:0037:0c",
   "jp": "itim_aroma",
   "refs": 1,
-  "en": ""
+  "en": "itim_aroma"
  },
  {
   "id": "itemmix:0037:10",
   "jp": "itm_hanafuda02",
   "refs": 1,
-  "en": ""
+  "en": "itm_hanafuda02"
  },
  {
   "id": "itemmix:0038:10",
   "jp": "itm_hotarukusacurry",
   "refs": 1,
-  "en": ""
+  "en": "itm_hotarukusacurry"
  },
  {
   "id": "itemmix:0039:0c",
   "jp": "itm_chlorine",
   "refs": 1,
-  "en": ""
+  "en": "itm_chlorine"
  },
  {
   "id": "itemmix:0039:10",
   "jp": "itm_incendiary",
   "refs": 1,
-  "en": ""
+  "en": "itm_incendiary"
  },
  {
   "id": "itemmix:0039:14",
   "jp": "itim_concrete",
   "refs": 2,
-  "en": ""
+  "en": "itim_concrete"
  },
  {
   "id": "itemmix:0039:18",
   "jp": "itm_sekibutsu",
   "refs": 1,
-  "en": ""
+  "en": "itm_sekibutsu"
  },
  {
   "id": "itemmix:0039:1c",
   "jp": "itm_soccerball",
   "refs": 1,
-  "en": ""
+  "en": "itm_soccerball"
  },
  {
   "id": "itemmix:0039:20",
   "jp": "itm_houjyu",
   "refs": 1,
-  "en": ""
+  "en": "itm_houjyu"
  },
  {
   "id": "itemmix:0039:24",
   "jp": "itm_clay",
   "refs": 2,
-  "en": ""
+  "en": "itm_clay"
  },
  {
   "id": "itemmix:0039:28",
   "jp": "itm_magatama",
   "refs": 1,
-  "en": ""
+  "en": "itm_magatama"
  },
  {
   "id": "itemmix:0039:30",
   "jp": "itm_jyuzu",
   "refs": 2,
-  "en": ""
+  "en": "itm_jyuzu"
  },
  {
   "id": "itemmix:0042:14",
   "jp": "itm_shimenawa",
   "refs": 1,
-  "en": ""
+  "en": "itm_shimenawa"
  },
  {
   "id": "itemmix:0042:18",
   "jp": "itm_hyoshigi",
   "refs": 1,
-  "en": ""
+  "en": "itm_hyoshigi"
  },
  {
   "id": "itemmix:0042:1c",
   "jp": "itm_suzu",
   "refs": 3,
-  "en": ""
+  "en": "itm_suzu"
  },
  {
   "id": "itemmix:0042:20",
   "jp": "itm_mokugyo",
   "refs": 2,
-  "en": ""
+  "en": "itm_mokugyo"
  },
  {
   "id": "itemmix:0042:28",
   "jp": "itm_taihei",
   "refs": 2,
-  "en": ""
+  "en": "itm_taihei"
  },
  {
   "id": "itemmix:0043:10",
   "jp": "itm_cement",
   "refs": 3,
-  "en": ""
+  "en": "itm_cement"
  },
  {
   "id": "itemmix:0043:18",
   "jp": "itm_katashiro",
   "refs": 1,
-  "en": ""
+  "en": "itm_katashiro"
  },
  {
   "id": "itemmix:0047:0c",
   "jp": "itm_oxydol",
   "refs": 1,
-  "en": ""
+  "en": "itm_oxydol"
  },
  {
   "id": "itemmix:0047:10",
   "jp": "itm_kinkan",
   "refs": 2,
-  "en": ""
+  "en": "itm_kinkan"
  },
  {
   "id": "itemmix:0051:0c",
   "jp": "itm_triangle",
   "refs": 2,
-  "en": ""
+  "en": "itm_triangle"
  },
  {
   "id": "itemmix:0051:10",
   "jp": "itm_rin",
   "refs": 1,
-  "en": ""
+  "en": "itm_rin"
  },
  {
   "id": "itemmix:0051:18",
   "jp": "itm_mikosuzu",
   "refs": 1,
-  "en": ""
+  "en": "itm_mikosuzu"
  },
  {
   "id": "itemmix:0055:0c",
   "jp": "itm_encyclopaedia",
   "refs": 1,
-  "en": ""
+  "en": "itm_encyclopaedia"
  },
  {
   "id": "itemmix:0055:10",
   "jp": "itm_senjiryakketsu",
   "refs": 1,
-  "en": ""
+  "en": "itm_senjiryakketsu"
  },
  {
   "id": "itemmix:0061:10",
   "jp": "itm_furin",
   "refs": 2,
-  "en": ""
+  "en": "itm_furin"
  }
 ]

@@ -3,78 +3,78 @@
   "id": "keymessage:0000:00",
   "jp": "化学実験室の鍵を入手しました",
   "refs": 1,
-  "en": ""
+  "en": "Got the Chem Lab Key."
  },
  {
   "id": "keymessage:0001:00",
   "jp": "生徒会室の鍵を入手しました",
   "refs": 1,
-  "en": ""
+  "en": "Got the Student Council Key."
  },
  {
   "id": "keymessage:0002:00",
   "jp": "武道場の鍵を入手しました",
   "refs": 1,
-  "en": ""
+  "en": "Got the Dojo Key."
  },
  {
   "id": "keymessage:0003:00",
   "jp": "視聴覚室の鍵を入手しました",
   "refs": 1,
-  "en": ""
+  "en": "Got the AV Room Key."
  },
  {
   "id": "keymessage:0004:00",
   "jp": "司書室の鍵を入手しました",
   "refs": 1,
-  "en": ""
+  "en": "Got the Librarian's Key."
  },
  {
   "id": "keymessage:0005:00",
   "jp": "校長室の鍵を入手しました",
   "refs": 1,
-  "en": ""
+  "en": "Got the Principal's Key."
  },
  {
   "id": "keymessage:0006:00",
   "jp": "放送室の鍵を入手しました",
   "refs": 1,
-  "en": ""
+  "en": "Got the Broadcast Room Key."
  },
  {
   "id": "keymessage:0007:00",
   "jp": "情報実習室の鍵を入手しました",
   "refs": 1,
-  "en": ""
+  "en": "Got the Computer Lab Key."
  },
  {
   "id": "keymessage:0008:00",
   "jp": "四角研究会の鍵を入手しました",
   "refs": 1,
-  "en": ""
+  "en": "Got the Square Club Key."
  },
  {
   "id": "keymessage:0009:00",
   "jp": "事務室の鍵を入手しました",
   "refs": 1,
-  "en": ""
+  "en": "Got the Office Key."
  },
  {
   "id": "keymessage:0010:00",
   "jp": "校務員室の鍵を入手しました",
   "refs": 1,
-  "en": ""
+  "en": "Got the Custodian's Key."
  },
  {
   "id": "keymessage:0011:00",
   "jp": "家庭科室の鍵を入手しました",
   "refs": 1,
-  "en": ""
+  "en": "Got the Home Ec Room Key."
  },
  {
   "id": "keymessage:0012:00",
   "jp": "○○の鍵を入手しました",
   "refs": 14,
-  "en": ""
+  "en": "Got the ** Key."
  }
 ]

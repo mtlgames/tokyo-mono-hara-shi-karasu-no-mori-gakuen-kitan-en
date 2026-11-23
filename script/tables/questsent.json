@@ -3,3978 +3,3978 @@
   "id": "questsent:0000:00",
   "jp": "召喚",
   "refs": 76,
-  "en": ""
+  "en": "Summoning"
  },
  {
   "id": "questsent:0000:08",
   "jp": "お忍びで来ている",
   "refs": 1,
-  "en": ""
+  "en": "Here incognito,"
  },
  {
   "id": "questsent:0000:0c",
   "jp": "代議士の先生が",
   "refs": 1,
-  "en": ""
+  "en": "a politician"
  },
  {
   "id": "questsent:0000:10",
   "jp": "密会で使う",
   "refs": 1,
-  "en": ""
+  "en": "wants, for trysts:"
  },
  {
   "id": "questsent:0000:14",
   "jp": "ご所望なの。",
   "refs": 16,
-  "en": ""
+  "en": "If you please."
  },
  {
   "id": "questsent:0001:08",
   "jp": "さる有名な",
   "refs": 1,
-  "en": ""
+  "en": "A certain famous"
  },
  {
   "id": "questsent:0001:0c",
   "jp": "華族のお嬢様が",
   "refs": 1,
-  "en": ""
+  "en": "noble's daughter"
  },
  {
   "id": "questsent:0001:10",
   "jp": "縁起を担ぐ",
   "refs": 1,
-  "en": ""
+  "en": "wants, for luck:"
  },
  {
   "id": "questsent:0002:08",
   "jp": "ご紹介いただいた",
   "refs": 1,
-  "en": ""
+  "en": "Introduced to us,"
  },
  {
   "id": "questsent:0002:0c",
   "jp": "財閥のご当主様が",
   "refs": 1,
-  "en": ""
+  "en": "a zaibatsu head"
  },
  {
   "id": "questsent:0002:10",
   "jp": "次の選挙で使う",
   "refs": 1,
-  "en": ""
+  "en": "wants, for polls:"
  },
  {
   "id": "questsent:0003:08",
   "jp": "旦那の親戚筋の",
   "refs": 1,
-  "en": ""
+  "en": "Kin of my husband,"
  },
  {
   "id": "questsent:0003:0c",
   "jp": "外交官のご子息が",
   "refs": 1,
-  "en": ""
+  "en": "a diplomat's son"
  },
  {
   "id": "questsent:0003:10",
   "jp": "贈りものとして",
   "refs": 1,
-  "en": ""
+  "en": "wants as a gift:"
  },
  {
   "id": "questsent:0004:08",
   "jp": "取材でいらした",
   "refs": 1,
-  "en": ""
+  "en": "Here for a story,"
  },
  {
   "id": "questsent:0004:0c",
   "jp": "先生のお知り合いが",
   "refs": 1,
-  "en": ""
+  "en": "a sensei's friend"
  },
  {
   "id": "questsent:0004:10",
   "jp": "愛用している",
   "refs": 1,
-  "en": ""
+  "en": "wants their usual:"
  },
  {
   "id": "questsent:0005:08",
   "jp": "お世話になってる",
   "refs": 1,
-  "en": ""
+  "en": "A patron of ours,"
  },
  {
   "id": "questsent:0005:0c",
   "jp": "大病院の院長様が",
   "refs": 1,
-  "en": ""
+  "en": "a hospital chief"
  },
  {
   "id": "questsent:0005:10",
   "jp": "結納品として",
   "refs": 1,
-  "en": ""
+  "en": "needs for a dowry:"
  },
  {
   "id": "questsent:0006:08",
   "jp": "ご贔屓頂いてる",
   "refs": 1,
-  "en": ""
+  "en": "A loyal patron,"
  },
  {
   "id": "questsent:0006:0c",
   "jp": "作家先生が",
   "refs": 1,
-  "en": ""
+  "en": "a famed author"
  },
  {
   "id": "questsent:0006:10",
   "jp": "芸を磨くため",
   "refs": 1,
-  "en": ""
+  "en": "wants for his art:"
  },
  {
   "id": "questsent:0007:08",
   "jp": "ちょっとね、",
   "refs": 1,
-  "en": ""
+  "en": "Well, between us,"
  },
  {
   "id": "questsent:0007:0c",
   "jp": "人間国宝の先生が",
   "refs": 1,
-  "en": ""
+  "en": "a Living Treasure"
  },
  {
   "id": "questsent:0007:10",
   "jp": "趣味の",
   "refs": 1,
-  "en": ""
+  "en": "wants for a hobby:"
  },
  {
   "id": "questsent:0008:08",
   "jp": "てんぷら好きな",
   "refs": 1,
-  "en": ""
+  "en": "A tempura-loving"
  },
  {
   "id": "questsent:0008:0c",
   "jp": "官庁にお勤めの方が",
   "refs": 1,
-  "en": ""
+  "en": "civil servant"
  },
  {
   "id": "questsent:0008:10",
   "jp": "宴会で使う",
   "refs": 1,
-  "en": ""
+  "en": "wants for a party:"
  },
  {
   "id": "questsent:0009:08",
   "jp": "お刺身好きな",
   "refs": 1,
-  "en": ""
+  "en": "A sashimi-loving"
  },
  {
   "id": "questsent:0009:0c",
   "jp": "美食家が",
   "refs": 1,
-  "en": ""
+  "en": "gourmet wants"
  },
  {
   "id": "questsent:0009:10",
   "jp": "新番組で使う",
   "refs": 1,
-  "en": ""
+  "en": "for a new show:"
  },
  {
   "id": "questsent:0010:08",
   "jp": "うちの料理が好きな",
   "refs": 1,
-  "en": ""
+  "en": "A fan of our food,"
  },
  {
   "id": "questsent:0010:0c",
   "jp": "旅行者が",
   "refs": 1,
-  "en": ""
+  "en": "a traveler wants"
  },
  {
   "id": "questsent:0010:10",
   "jp": "今度の作品に",
   "refs": 1,
-  "en": ""
+  "en": "for a new work:"
  },
  {
   "id": "questsent:0011:08",
   "jp": "いつも乱痴気騒ぎの",
   "refs": 1,
-  "en": ""
+  "en": "An always-rowdy"
  },
  {
   "id": "questsent:0011:0c",
   "jp": "ＴＶ局の偉い方が",
   "refs": 1,
-  "en": ""
+  "en": "TV network bigwig"
  },
  {
   "id": "questsent:0011:10",
   "jp": "来客用の品として",
   "refs": 1,
-  "en": ""
+  "en": "wants, for guests:"
  },
  {
   "id": "questsent:0012:08",
   "jp": "座敷に居座っている",
   "refs": 1,
-  "en": ""
+  "en": "Hogging a room,"
  },
  {
   "id": "questsent:0012:0c",
   "jp": "ご近所の奥様が",
   "refs": 1,
-  "en": ""
+  "en": "a neighbor lady"
  },
  {
   "id": "questsent:0012:10",
   "jp": "ご入用だそうで、",
   "refs": 4,
-  "en": ""
+  "en": "needs, I'm told:"
  },
  {
   "id": "questsent:0013:08",
   "jp": "いつも来てくれる",
   "refs": 1,
-  "en": ""
+  "en": "A frequent guest,"
  },
  {
   "id": "questsent:0013:0c",
   "jp": "俳優さんが",
   "refs": 1,
-  "en": ""
+  "en": "an actor"
  },
  {
   "id": "questsent:0014:08",
   "jp": "海外からやってきた",
   "refs": 1,
-  "en": ""
+  "en": "From overseas,"
  },
  {
   "id": "questsent:0014:0c",
   "jp": "覆面調査員が",
   "refs": 1,
-  "en": ""
+  "en": "a secret inspector"
  },
  {
   "id": "questsent:0015:08",
   "jp": "常連客の",
   "refs": 1,
-  "en": ""
+  "en": "Our regular's"
  },
  {
   "id": "questsent:0015:0c",
   "jp": "出入りの業者さんが",
   "refs": 1,
-  "en": ""
+  "en": "trusted supplier"
  },
  {
   "id": "questsent:0030:00",
   "jp": "特別依頼１",
   "refs": 20,
-  "en": ""
+  "en": "Bonus Quest 1"
  },
  {
   "id": "questsent:0030:08",
   "jp": "特別依頼１の",
   "refs": 20,
-  "en": ""
+  "en": "Bonus Quest 1's"
  },
  {
   "id": "questsent:0030:0c",
   "jp": "特別依頼１で",
   "refs": 10,
-  "en": ""
+  "en": "in Bonus Quest 1"
  },
  {
   "id": "questsent:0031:00",
   "jp": "わらべ歌の儀",
   "refs": 1,
-  "en": ""
+  "en": "Rite of Rhymes"
  },
  {
   "id": "questsent:0031:08",
   "jp": "１００年前にうちで",
   "refs": 1,
-  "en": ""
+  "en": "Find the child who"
  },
  {
   "id": "questsent:0031:0c",
   "jp": "神隠しにあった子を",
   "refs": 1,
-  "en": ""
+  "en": "was spirited away"
  },
  {
   "id": "questsent:0031:10",
   "jp": "探しておくれ。",
   "refs": 1,
-  "en": ""
+  "en": "here 100 years ago"
  },
  {
   "id": "questsent:0031:14",
   "jp": "かごめかごめ…",
   "refs": 1,
-  "en": ""
+  "en": "Kagome, kagome..."
  },
  {
   "id": "questsent:0031:18",
   "jp": "手がかりは童謡の、",
   "refs": 1,
-  "en": ""
+  "en": "The clue: a rhyme,"
  },
  {
   "id": "questsent:0032:00",
   "jp": "儀式",
   "refs": 105,
-  "en": ""
+  "en": "Ritual"
  },
  {
   "id": "questsent:0032:08",
   "jp": "野菜を刻むための",
   "refs": 1,
-  "en": ""
+  "en": "To dice veggies,"
  },
  {
   "id": "questsent:0032:0c",
   "jp": "斬馬刀が",
   "refs": 1,
-  "en": ""
+  "en": "a zanbato,"
  },
  {
   "id": "questsent:0032:10",
   "jp": "無事に作れるよう",
   "refs": 4,
-  "en": ""
+  "en": "for a safe forging"
  },
  {
   "id": "questsent:0032:14",
   "jp": "して祈ってくれ！",
   "refs": 16,
-  "en": ""
+  "en": "perform and pray!"
  },
  {
   "id": "questsent:0033:08",
   "jp": "世界平和に貢献する",
   "refs": 1,
-  "en": ""
+  "en": "For world peace,"
  },
  {
   "id": "questsent:0033:0c",
   "jp": "牛刀が",
   "refs": 1,
-  "en": ""
+  "en": "a chef's knife,"
  },
  {
   "id": "questsent:0034:08",
   "jp": "最高の切れ味の",
   "refs": 1,
-  "en": ""
+  "en": "The keenest-edged"
  },
  {
   "id": "questsent:0034:0c",
   "jp": "刺身包丁が",
   "refs": 1,
-  "en": ""
+  "en": "sashimi knife,"
  },
  {
   "id": "questsent:0035:08",
   "jp": "深夜番組で使う",
   "refs": 1,
-  "en": ""
+  "en": "For a late show,"
  },
  {
   "id": "questsent:0035:0c",
   "jp": "彫刻刀が",
   "refs": 1,
-  "en": ""
+  "en": "a carving chisel,"
  },
  {
   "id": "questsent:0036:08",
   "jp": "一流料理人の",
   "refs": 1,
-  "en": ""
+  "en": "A top chef's"
  },
  {
   "id": "questsent:0036:0c",
   "jp": "チェーンソーが",
   "refs": 1,
-  "en": ""
+  "en": "chainsaw,"
  },
  {
   "id": "questsent:0036:10",
   "jp": "よく切れるよう",
   "refs": 4,
-  "en": ""
+  "en": "for a keen edge,"
  },
  {
   "id": "questsent:0037:08",
   "jp": "神社に奉納する",
   "refs": 1,
-  "en": ""
+  "en": "To offer a shrine,"
  },
  {
   "id": "questsent:0037:0c",
   "jp": "小太刀が",
   "refs": 1,
-  "en": ""
+  "en": "a kodachi,"
  },
  {
   "id": "questsent:0038:08",
   "jp": "大工仕事のための",
   "refs": 1,
-  "en": ""
+  "en": "For carpentry,"
  },
  {
   "id": "questsent:0038:0c",
   "jp": "脇差が",
   "refs": 1,
-  "en": ""
+  "en": "a wakizashi,"
  },
  {
   "id": "questsent:0039:08",
   "jp": "庭仕事のための",
   "refs": 1,
-  "en": ""
+  "en": "For gardening,"
  },
  {
   "id": "questsent:0039:0c",
   "jp": "長ドスが",
   "refs": 1,
-  "en": ""
+  "en": "a yakuza blade,"
  },
  {
   "id": "questsent:0040:08",
   "jp": "捨ててあった",
   "refs": 1,
-  "en": ""
+  "en": "A discarded"
  },
  {
   "id": "questsent:0040:0c",
   "jp": "スペツナズナイフが",
   "refs": 1,
-  "en": ""
+  "en": "Spetsnaz knife,"
  },
  {
   "id": "questsent:0040:10",
   "jp": "いい人に渡るよう",
   "refs": 4,
-  "en": ""
+  "en": "for a good owner,"
  },
  {
   "id": "questsent:0041:08",
   "jp": "時代劇の名優に",
   "refs": 1,
-  "en": ""
+  "en": "For a film legend,"
  },
  {
   "id": "questsent:0041:0c",
   "jp": "剃刀が",
   "refs": 1,
-  "en": ""
+  "en": "a razor,"
  },
  {
   "id": "questsent:0042:08",
   "jp": "武士への供養として",
   "refs": 1,
-  "en": ""
+  "en": "For samurai souls,"
  },
  {
   "id": "questsent:0042:0c",
   "jp": "長枝鋏が",
   "refs": 1,
-  "en": ""
+  "en": "pruning shears,"
  },
  {
   "id": "questsent:0043:08",
   "jp": "呪いがかけられた",
   "refs": 1,
-  "en": ""
+  "en": "A cursed"
  },
  {
   "id": "questsent:0043:0c",
   "jp": "陸奥守忠吉が",
   "refs": 1,
-  "en": ""
+  "en": "Tadayoshi sword,"
  },
  {
   "id": "questsent:0044:08",
   "jp": "古墳から出土した",
   "refs": 1,
-  "en": ""
+  "en": "From an old tomb,"
  },
  {
   "id": "questsent:0044:0c",
   "jp": "和泉守兼定が",
   "refs": 1,
-  "en": ""
+  "en": "Izumi Kanesada,"
  },
  {
   "id": "questsent:0044:10",
   "jp": "うまく砥げるよう",
   "refs": 4,
-  "en": ""
+  "en": "to hone it well,"
  },
  {
   "id": "questsent:0045:08",
   "jp": "故人から譲られた",
   "refs": 1,
-  "en": ""
+  "en": "Bequeathed,"
  },
  {
   "id": "questsent:0045:0c",
   "jp": "同田貫正国が",
   "refs": 1,
-  "en": ""
+  "en": "Dotanuki Masakuni,"
  },
  {
   "id": "questsent:0046:08",
   "jp": "コレクション用の",
   "refs": 1,
-  "en": ""
+  "en": "A collector's"
  },
  {
   "id": "questsent:0046:0c",
   "jp": "備前長船が",
   "refs": 1,
-  "en": ""
+  "en": "a Bizen Osafune,"
  },
  {
   "id": "questsent:0047:08",
   "jp": "渡世人のための",
   "refs": 1,
-  "en": ""
+  "en": "For a drifter,"
  },
  {
   "id": "questsent:0047:0c",
   "jp": "忍者刀が",
   "refs": 1,
-  "en": ""
+  "en": "a ninja sword,"
  },
  {
   "id": "questsent:0063:00",
   "jp": "刀清めの儀",
   "refs": 1,
-  "en": ""
+  "en": "Blade Cleanse"
  },
  {
   "id": "questsent:0063:08",
   "jp": "俺が砥いだ刀は",
   "refs": 1,
-  "en": ""
+  "en": "The blade I honed"
  },
  {
   "id": "questsent:0063:0c",
   "jp": "妖刀だったらしい…",
   "refs": 1,
-  "en": ""
+  "en": "seems cursed..."
  },
  {
   "id": "questsent:0063:10",
   "jp": "呪いを上回る力を",
   "refs": 1,
-  "en": ""
+  "en": "Where power beyond"
  },
  {
   "id": "questsent:0063:14",
   "jp": "百回祈願してくれ！",
   "refs": 1,
-  "en": ""
+  "en": "pray 100 times!"
  },
  {
   "id": "questsent:0063:18",
   "jp": "発揮する場所で、",
   "refs": 1,
-  "en": ""
+  "en": "the curse prevails"
  },
  {
   "id": "questsent:0064:00",
   "jp": "退魔",
   "refs": 44,
-  "en": ""
+  "en": "Exorcism"
  },
  {
   "id": "questsent:0064:08",
   "jp": "シキノホラっていう",
   "refs": 1,
-  "en": ""
+  "en": "Shikinohora info:"
  },
  {
   "id": "questsent:0064:0c",
   "jp": "情報をハックしたら",
   "refs": 1,
-  "en": ""
+  "en": "I hacked it, and"
  },
  {
   "id": "questsent:0064:10",
   "jp": "…くそっ！",
   "refs": 1,
-  "en": ""
+  "en": "...damn!"
  },
  {
   "id": "questsent:0064:14",
   "jp": "なんとかしてくれ！",
   "refs": 11,
-  "en": ""
+  "en": "Handle it, man!"
  },
  {
   "id": "questsent:0065:08",
   "jp": "ハナフダっていう",
   "refs": 1,
-  "en": ""
+  "en": "A Hanafuda file:"
  },
  {
   "id": "questsent:0065:0c",
   "jp": "ファイルを解凍して",
   "refs": 1,
-  "en": ""
+  "en": "I unzipped it and"
  },
  {
   "id": "questsent:0065:10",
   "jp": "黒い影が…くそっ！",
   "refs": 1,
-  "en": ""
+  "en": "Dark shadow! Damn!"
  },
  {
   "id": "questsent:0066:08",
   "jp": "オニっていう",
   "refs": 1,
-  "en": ""
+  "en": "An Oni website:"
  },
  {
   "id": "questsent:0066:0c",
   "jp": "サイトを閲覧したら",
   "refs": 1,
-  "en": ""
+  "en": "I browsed it and"
  },
  {
   "id": "questsent:0066:10",
   "jp": "ミスっちまった…",
   "refs": 1,
-  "en": ""
+  "en": "I messed up..."
  },
  {
   "id": "questsent:0067:08",
   "jp": "カミフダっていう",
   "refs": 1,
-  "en": ""
+  "en": "ORDS data:"
  },
  {
   "id": "questsent:0067:0c",
   "jp": "データをＤＬしたら",
   "refs": 1,
-  "en": ""
+  "en": "I downloaded it,"
  },
  {
   "id": "questsent:0067:10",
   "jp": "えらいことに…",
   "refs": 1,
-  "en": ""
+  "en": "it's a disaster..."
  },
  {
   "id": "questsent:0068:08",
   "jp": "トウキョウっていう",
   "refs": 1,
-  "en": ""
+  "en": "A Tokyo program:"
  },
  {
   "id": "questsent:0068:0c",
   "jp": "プログラムを見たら",
   "refs": 1,
-  "en": ""
+  "en": "I opened it and"
  },
  {
   "id": "questsent:0068:10",
   "jp": "何かが来やがった…",
   "refs": 1,
-  "en": ""
+  "en": "something came..."
  },
  {
   "id": "questsent:0069:08",
   "jp": "ガクエンっていう",
   "refs": 1,
-  "en": ""
+  "en": "An Academy server:"
  },
  {
   "id": "questsent:0069:0c",
   "jp": "サーバーに入ったら",
   "refs": 1,
-  "en": ""
+  "en": "I got in, and"
  },
  {
   "id": "questsent:0069:10",
   "jp": "ピザ食う暇もねぇ！",
   "refs": 1,
-  "en": ""
+  "en": "No time for pizza!"
  },
  {
   "id": "questsent:0070:08",
   "jp": "オクサスっていう",
   "refs": 1,
-  "en": ""
+  "en": "An OXAS game:"
  },
  {
   "id": "questsent:0070:0c",
   "jp": "ゲームを起動したら",
   "refs": 1,
-  "en": ""
+  "en": "I booted it, and"
  },
  {
   "id": "questsent:0070:10",
   "jp": "ヤバイのが見える…",
   "refs": 1,
-  "en": ""
+  "en": "I see bad stuff..."
  },
  {
   "id": "questsent:0071:08",
   "jp": "オーズっていう",
   "refs": 1,
-  "en": ""
+  "en": "Board called ORDS:"
  },
  {
   "id": "questsent:0071:0c",
   "jp": "掲示板を覗いたら",
   "refs": 1,
-  "en": ""
+  "en": "I peeked in and"
  },
  {
   "id": "questsent:0071:10",
   "jp": "狙われてるんだ…",
   "refs": 1,
-  "en": ""
+  "en": "they're onto me..."
  },
  {
   "id": "questsent:0072:08",
   "jp": "フウサツシっていう",
   "refs": 1,
-  "en": ""
+  "en": "Card Sealer stuff:"
  },
  {
   "id": "questsent:0072:0c",
   "jp": "発信源を辿ったら",
   "refs": 1,
-  "en": ""
+  "en": "traced the source,"
  },
  {
   "id": "questsent:0072:10",
   "jp": "大さわぎなんだよ！",
   "refs": 1,
-  "en": ""
+  "en": "it's total chaos!"
  },
  {
   "id": "questsent:0073:08",
   "jp": "ＪＥＭＡっていう",
   "refs": 1,
-  "en": ""
+  "en": "Talk about JEMA:"
  },
  {
   "id": "questsent:0073:0c",
   "jp": "会話を盗み聴いたら",
   "refs": 1,
-  "en": ""
+  "en": "I eavesdropped,"
  },
  {
   "id": "questsent:0073:10",
   "jp": "地獄を見たぜ…",
   "refs": 1,
-  "en": ""
+  "en": "and saw hell..."
  },
  {
   "id": "questsent:0074:08",
   "jp": "ダイスっていう",
   "refs": 1,
-  "en": ""
+  "en": "Dice, a cipher:"
  },
  {
   "id": "questsent:0074:0c",
   "jp": "暗号を解析したら",
   "refs": 1,
-  "en": ""
+  "en": "I cracked it and"
  },
  {
   "id": "questsent:0074:10",
   "jp": "なんだか変なんだ！",
   "refs": 1,
-  "en": ""
+  "en": "it's all weird!"
  },
  {
   "id": "questsent:0075:08",
   "jp": "ライバル",
   "refs": 1,
-  "en": ""
+  "en": "My rival's"
  },
  {
   "id": "questsent:0075:0c",
   "jp": "の情報、本当か？",
   "refs": 1,
-  "en": ""
+  "en": "info--is it true?"
  },
  {
   "id": "questsent:0075:10",
   "jp": "現物が欲しいねぇ…",
   "refs": 8,
-  "en": ""
+  "en": "Want the goods..."
  },
  {
   "id": "questsent:0075:14",
   "jp": "手に入れてくれよ！",
   "refs": 8,
-  "en": ""
+  "en": "Get it for me!"
  },
  {
   "id": "questsent:0076:08",
   "jp": "他のハッカー",
   "refs": 1,
-  "en": ""
+  "en": "Other hackers'"
  },
  {
   "id": "questsent:0076:0c",
   "jp": "の情報が本当なら",
   "refs": 1,
-  "en": ""
+  "en": "info, if it's true"
  },
  {
   "id": "questsent:0077:08",
   "jp": "ネット",
   "refs": 1,
-  "en": ""
+  "en": "Before the Net"
  },
  {
   "id": "questsent:0077:0c",
   "jp": "に先を越される前に",
   "refs": 1,
-  "en": ""
+  "en": "beats me to it,"
  },
  {
   "id": "questsent:0078:08",
   "jp": "裏サイト",
   "refs": 1,
-  "en": ""
+  "en": "On dark sites,"
  },
  {
   "id": "questsent:0078:0c",
   "jp": "に自慢できる",
   "refs": 1,
-  "en": ""
+  "en": "it's brag-worthy!"
  },
  {
   "id": "questsent:0079:08",
   "jp": "ギーク連中",
   "refs": 1,
-  "en": ""
+  "en": "The geeks'"
  },
  {
   "id": "questsent:0079:0c",
   "jp": "の情報を裏付けする",
   "refs": 1,
-  "en": ""
+  "en": "intel needs proof."
  },
  {
   "id": "questsent:0080:08",
   "jp": "ニッポン人",
   "refs": 1,
-  "en": ""
+  "en": "Make the Japanese"
  },
  {
   "id": "questsent:0080:0c",
   "jp": "に降参って言わせる",
   "refs": 1,
-  "en": ""
+  "en": "say \"I give up!\""
  },
  {
   "id": "questsent:0081:08",
   "jp": "秘密教団",
   "refs": 1,
-  "en": ""
+  "en": "The secret cult"
  },
  {
   "id": "questsent:0081:0c",
   "jp": "は持ってないはずの",
   "refs": 1,
-  "en": ""
+  "en": "shouldn't have it."
  },
  {
   "id": "questsent:0082:08",
   "jp": "ハックしたトレマガ",
   "refs": 1,
-  "en": ""
+  "en": "A mag I hacked:"
  },
  {
   "id": "questsent:0082:0c",
   "jp": "の噂が本当かどうか",
   "refs": 1,
-  "en": ""
+  "en": "is the rumor true?"
  },
  {
   "id": "questsent:0083:08",
   "jp": "オイラの超テクで",
   "refs": 1,
-  "en": ""
+  "en": "With my mad tech,"
  },
  {
   "id": "questsent:0083:0c",
   "jp": "シキノホラの情報を",
   "refs": 4,
-  "en": ""
+  "en": "Shikinohora intel:"
  },
  {
   "id": "questsent:0083:10",
   "jp": "ハックするために",
   "refs": 3,
-  "en": ""
+  "en": "to hack it, try"
  },
  {
   "id": "questsent:0083:14",
   "jp": "試してくれよ！",
   "refs": 11,
-  "en": ""
+  "en": "for me, man!"
  },
  {
   "id": "questsent:0084:08",
   "jp": "オイラの狙ってる",
   "refs": 1,
-  "en": ""
+  "en": "The one I'm after:"
  },
  {
   "id": "questsent:0085:08",
   "jp": "ネットにあがってる",
   "refs": 1,
-  "en": ""
+  "en": "Posted on the Net:"
  },
  {
   "id": "questsent:0086:08",
   "jp": "裏サイトにある",
   "refs": 1,
-  "en": ""
+  "en": "On a dark site:"
  },
  {
   "id": "questsent:0086:10",
   "jp": "手に入れるために",
   "refs": 3,
-  "en": ""
+  "en": "to get it, try"
  },
  {
   "id": "questsent:0087:08",
   "jp": "アキハバラで",
   "refs": 1,
-  "en": ""
+  "en": "In Akihabara,"
  },
  {
   "id": "questsent:0087:0c",
   "jp": "ハナフダの情報を",
   "refs": 4,
-  "en": ""
+  "en": "Hanafuda intel:"
  },
  {
   "id": "questsent:0088:08",
   "jp": "すごいネタだぜ！",
   "refs": 1,
-  "en": ""
+  "en": "Hot scoop, man!"
  },
  {
   "id": "questsent:0089:08",
   "jp": "こりゃ国家機密？",
   "refs": 1,
-  "en": ""
+  "en": "A state secret?!"
  },
  {
   "id": "questsent:0089:10",
   "jp": "裏付けするために",
   "refs": 3,
-  "en": ""
+  "en": "to verify it, try"
  },
  {
   "id": "questsent:0090:08",
   "jp": "噂のデータ…",
   "refs": 1,
-  "en": ""
+  "en": "Rumored data..."
  },
  {
   "id": "questsent:0091:08",
   "jp": "もぐもぐ…ゲプッ！",
   "refs": 1,
-  "en": ""
+  "en": "*munch*...*burp*!"
  },
  {
   "id": "questsent:0091:0c",
   "jp": "オニって奴の情報を",
   "refs": 1,
-  "en": ""
+  "en": "Oni intel, dude:"
  },
  {
   "id": "questsent:0092:08",
   "jp": "プロテクトされてる",
   "refs": 1,
-  "en": ""
+  "en": "Some protected"
  },
  {
   "id": "questsent:0092:0c",
   "jp": "トラップの情報を",
   "refs": 1,
-  "en": ""
+  "en": "trap intel:"
  },
  {
   "id": "questsent:0092:10",
   "jp": "知るために",
   "refs": 2,
-  "en": ""
+  "en": "to learn it, try"
  },
  {
   "id": "questsent:0093:08",
   "jp": "厳重に管理されてる",
   "refs": 1,
-  "en": ""
+  "en": "Tightly guarded"
  },
  {
   "id": "questsent:0093:0c",
   "jp": "安売りの情報を",
   "refs": 1,
-  "en": ""
+  "en": "discount intel:"
  },
  {
   "id": "questsent:0095:00",
   "jp": "情報破砕の儀",
   "refs": 1,
-  "en": ""
+  "en": "Data Shredding"
  },
  {
   "id": "questsent:0095:08",
   "jp": "ヤベェんだ！洞に",
   "refs": 1,
-  "en": ""
+  "en": "Crap! The Hollow--"
  },
  {
   "id": "questsent:0095:0c",
   "jp": "アクセスしてたら",
   "refs": 1,
-  "en": ""
+  "en": "while I was in it,"
  },
  {
   "id": "questsent:0095:10",
   "jp": "逆ハックされた！",
   "refs": 1,
-  "en": ""
+  "en": "it hacked me back!"
  },
  {
   "id": "questsent:0095:14",
   "jp": "破壊してくれ！",
   "refs": 1,
-  "en": ""
+  "en": "destroy it all!"
  },
  {
   "id": "questsent:0095:18",
   "jp": "盗まれた情報ごと",
   "refs": 1,
-  "en": ""
+  "en": "Stolen data too--"
  },
  {
   "id": "questsent:0096:08",
   "jp": "あんちゃ、",
   "refs": 1,
-  "en": ""
+  "en": "Listen, lad,"
  },
  {
   "id": "questsent:0096:0c",
   "jp": "聖徳太子の",
   "refs": 1,
-  "en": ""
+  "en": "Prince Shotoku's"
  },
  {
   "id": "questsent:0096:10",
   "jp": "霊さ口寄せるがら",
   "refs": 17,
-  "en": ""
+  "en": "spirit I'll call--"
  },
  {
   "id": "questsent:0096:14",
   "jp": "してけさまい。",
   "refs": 17,
-  "en": ""
+  "en": "do it fer me."
  },
  {
   "id": "questsent:0097:08",
   "jp": "そごのニッチャ、",
   "refs": 1,
-  "en": ""
+  "en": "You there, sonny,"
  },
  {
   "id": "questsent:0097:0c",
   "jp": "卑弥呼の",
   "refs": 1,
-  "en": ""
+  "en": "Himiko's"
  },
  {
   "id": "questsent:0098:08",
   "jp": "あのにし、",
   "refs": 1,
-  "en": ""
+  "en": "Hey, you there,"
  },
  {
   "id": "questsent:0098:0c",
   "jp": "浮かばれない武士の",
   "refs": 1,
-  "en": ""
+  "en": "a lost samurai's"
  },
  {
   "id": "questsent:0099:08",
   "jp": "そごの、",
   "refs": 1,
-  "en": ""
+  "en": "You, yonder,"
  },
  {
   "id": "questsent:0099:0c",
   "jp": "獄死した罪人の",
   "refs": 1,
-  "en": ""
+  "en": "a jailed convict's"
  },
  {
   "id": "questsent:0100:08",
   "jp": "わいが、",
   "refs": 1,
-  "en": ""
+  "en": "Oh my, oh my,"
  },
  {
   "id": "questsent:0100:0c",
   "jp": "恋する死者の",
   "refs": 1,
-  "en": ""
+  "en": "a dead lover's"
  },
  {
   "id": "questsent:0101:08",
   "jp": "せば、",
   "refs": 1,
-  "en": ""
+  "en": "Well then,"
  },
  {
   "id": "questsent:0101:0c",
   "jp": "おめの背中にいる",
   "refs": 1,
-  "en": ""
+  "en": "on yer back, that"
  },
  {
   "id": "questsent:0102:08",
   "jp": "のぉ、",
   "refs": 1,
-  "en": ""
+  "en": "Say now,"
  },
  {
   "id": "questsent:0102:0c",
   "jp": "おめのご先祖様の",
   "refs": 1,
-  "en": ""
+  "en": "yer ancestor's"
  },
  {
   "id": "questsent:0103:08",
   "jp": "あんだ、",
   "refs": 1,
-  "en": ""
+  "en": "Ye there,"
  },
  {
   "id": "questsent:0103:0c",
   "jp": "イケメン戦国武将の",
   "refs": 1,
-  "en": ""
+  "en": "a hunky warlord's"
  },
  {
   "id": "questsent:0104:08",
   "jp": "どい、",
   "refs": 1,
-  "en": ""
+  "en": "Whoa, now,"
  },
  {
   "id": "questsent:0104:0c",
   "jp": "織田信長の",
   "refs": 1,
-  "en": ""
+  "en": "Oda Nobunaga's"
  },
  {
   "id": "questsent:0105:08",
   "jp": "さぁさ 、",
   "refs": 1,
-  "en": ""
+  "en": "Come, come,"
  },
  {
   "id": "questsent:0105:0c",
   "jp": "伊達政宗の",
   "refs": 1,
-  "en": ""
+  "en": "Date Masamune's"
  },
  {
   "id": "questsent:0106:08",
   "jp": "わがね、",
   "refs": 1,
-  "en": ""
+  "en": "Can't be helped,"
  },
  {
   "id": "questsent:0106:0c",
   "jp": "直江兼続の",
   "refs": 1,
-  "en": ""
+  "en": "Naoe Kanetsugu's"
  },
  {
   "id": "questsent:0107:08",
   "jp": "わんか、",
   "refs": 1,
-  "en": ""
+  "en": "Just a wee bit,"
  },
  {
   "id": "questsent:0107:0c",
   "jp": "明智光秀の",
   "refs": 1,
-  "en": ""
+  "en": "Akechi Mitsuhide's"
  },
  {
   "id": "questsent:0108:08",
   "jp": "ふるしい、",
   "refs": 1,
-  "en": ""
+  "en": "Mercy me,"
  },
  {
   "id": "questsent:0108:0c",
   "jp": "真田幸村の",
   "refs": 1,
-  "en": ""
+  "en": "Sanada Yukimura's"
  },
  {
   "id": "questsent:0109:08",
   "jp": "べっとに、",
   "refs": 1,
-  "en": ""
+  "en": "Quietly now,"
  },
  {
   "id": "questsent:0109:0c",
   "jp": "土方歳三の",
   "refs": 1,
-  "en": ""
+  "en": "Hijikata Toshizo's"
  },
  {
   "id": "questsent:0110:08",
   "jp": "なんたかた、",
   "refs": 1,
-  "en": ""
+  "en": "No matter what,"
  },
  {
   "id": "questsent:0110:0c",
   "jp": "芥川龍之介の",
   "refs": 1,
-  "en": ""
+  "en": "Akutagawa's"
  },
  {
   "id": "questsent:0111:08",
   "jp": "たんだでね、",
   "refs": 1,
-  "en": ""
+  "en": "Ain't it a wonder,"
  },
  {
   "id": "questsent:0111:0c",
   "jp": "リンカーン大統領の",
   "refs": 1,
-  "en": ""
+  "en": "Abe Lincoln's"
  },
  {
   "id": "questsent:0112:08",
   "jp": "ややど、",
   "refs": 1,
-  "en": ""
+  "en": "Oh, goodness,"
  },
  {
   "id": "questsent:0112:0c",
   "jp": "おめほの犬の",
   "refs": 1,
-  "en": ""
+  "en": "yer dog's"
  },
  {
   "id": "questsent:0127:00",
   "jp": "死霊捜索の儀",
   "refs": 1,
-  "en": ""
+  "en": "Ghost Search"
  },
  {
   "id": "questsent:0127:08",
   "jp": "わいの大切なふとば",
   "refs": 1,
-  "en": ""
+  "en": "My dear one's soul"
  },
  {
   "id": "questsent:0127:0c",
   "jp": "口寄せたい。",
   "refs": 1,
-  "en": ""
+  "en": "I wanna call up."
  },
  {
   "id": "questsent:0127:10",
   "jp": "おめの目で",
   "refs": 1,
-  "en": ""
+  "en": "With yer eyes,"
  },
  {
   "id": "questsent:0127:14",
   "jp": "とっけすてけろ。",
   "refs": 1,
-  "en": ""
+  "en": "an' fetch it back."
  },
  {
   "id": "questsent:0127:18",
   "jp": "探し当てて、遺品ば",
   "refs": 1,
-  "en": ""
+  "en": "find the keepsake"
  },
  {
   "id": "questsent:0128:08",
   "jp": "最近眠れないのは",
   "refs": 1,
-  "en": ""
+  "en": "I can't sleep, and"
  },
  {
   "id": "questsent:0128:0c",
   "jp": "憑物が",
   "refs": 2,
-  "en": ""
+  "en": "an evil spirit"
  },
  {
   "id": "questsent:0128:10",
   "jp": "原因らしいのです。",
   "refs": 3,
-  "en": ""
+  "en": "seems to be why."
  },
  {
   "id": "questsent:0128:14",
   "jp": "退治してください…",
   "refs": 11,
-  "en": ""
+  "en": "Please slay it..."
  },
  {
   "id": "questsent:0129:08",
   "jp": "屋敷の異変は",
   "refs": 1,
-  "en": ""
+  "en": "Odd stuff at home,"
  },
  {
   "id": "questsent:0130:08",
   "jp": "僕に起こる異変は",
   "refs": 1,
-  "en": ""
+  "en": "My odd troubles,"
  },
  {
   "id": "questsent:0130:0c",
   "jp": "動物の霊が",
   "refs": 2,
-  "en": ""
+  "en": "an animal spirit"
  },
  {
   "id": "questsent:0131:08",
   "jp": "変な物が見えるのは",
   "refs": 1,
-  "en": ""
+  "en": "I see odd things;"
  },
  {
   "id": "questsent:0131:10",
   "jp": "あるからみたいで…",
   "refs": 8,
-  "en": ""
+  "en": "may be why..."
  },
  {
   "id": "questsent:0132:08",
   "jp": "闇から声がするのは",
   "refs": 1,
-  "en": ""
+  "en": "Voices in the dark"
  },
  {
   "id": "questsent:0132:0c",
   "jp": "なにかの呪いが",
   "refs": 2,
-  "en": ""
+  "en": "some curse"
  },
  {
   "id": "questsent:0133:08",
   "jp": "夜、厠が怖いのは",
   "refs": 1,
-  "en": ""
+  "en": "Night toilet fear:"
  },
  {
   "id": "questsent:0134:08",
   "jp": "僕が夜を怖がるのは",
   "refs": 1,
-  "en": ""
+  "en": "I fear the night;"
  },
  {
   "id": "questsent:0134:0c",
   "jp": "代々の因縁が",
   "refs": 2,
-  "en": ""
+  "en": "ancestral karma"
  },
  {
   "id": "questsent:0135:08",
   "jp": "僕が怪我したのは",
   "refs": 1,
-  "en": ""
+  "en": "I got hurt, and"
  },
  {
   "id": "questsent:0136:08",
   "jp": "記憶が曖昧なのは",
   "refs": 1,
-  "en": ""
+  "en": "My memory's hazy;"
  },
  {
   "id": "questsent:0136:0c",
   "jp": "一族の秘密が",
   "refs": 2,
-  "en": ""
+  "en": "a family secret"
  },
  {
   "id": "questsent:0137:08",
   "jp": "昼間に眠いのは",
   "refs": 1,
-  "en": ""
+  "en": "I'm sleepy by day;"
  },
  {
   "id": "questsent:0138:08",
   "jp": "家の空気が変なのは",
   "refs": 1,
-  "en": ""
+  "en": "Home feels wrong;"
  },
  {
   "id": "questsent:0138:0c",
   "jp": "亡き祖父の式神が",
   "refs": 1,
-  "en": ""
+  "en": "Grandpa's familiar"
  },
  {
   "id": "questsent:0139:08",
   "jp": "蔵で見つけた日記に",
   "refs": 1,
-  "en": ""
+  "en": "A diary I found"
  },
  {
   "id": "questsent:0139:0c",
   "jp": "あった話",
   "refs": 1,
-  "en": ""
+  "en": "tells a story;"
  },
  {
   "id": "questsent:0139:10",
   "jp": "の真意を知るために",
   "refs": 1,
-  "en": ""
+  "en": "to know its truth,"
  },
  {
   "id": "questsent:0139:14",
   "jp": "見つけてください…",
   "refs": 8,
-  "en": ""
+  "en": "please find it..."
  },
  {
   "id": "questsent:0140:08",
   "jp": "祖父の話に",
   "refs": 1,
-  "en": ""
+  "en": "Grandpa's tales"
  },
  {
   "id": "questsent:0140:0c",
   "jp": "出てきた秘密",
   "refs": 1,
-  "en": ""
+  "en": "told a secret;"
  },
  {
   "id": "questsent:0140:10",
   "jp": "の禍を防ぐために",
   "refs": 1,
-  "en": ""
+  "en": "to stop its curse,"
  },
  {
   "id": "questsent:0141:08",
   "jp": "父の話に",
   "refs": 1,
-  "en": ""
+  "en": "Dad's stories"
  },
  {
   "id": "questsent:0141:0c",
   "jp": "あるもの",
   "refs": 1,
-  "en": ""
+  "en": "mention a thing;"
  },
  {
   "id": "questsent:0141:10",
   "jp": "の謎をとくために",
   "refs": 2,
-  "en": ""
+  "en": "to unravel it,"
  },
  {
   "id": "questsent:0142:08",
   "jp": "代々の言い伝えに",
   "refs": 1,
-  "en": ""
+  "en": "Family legends"
  },
  {
   "id": "questsent:0142:0c",
   "jp": "興奮した瞬間",
   "refs": 1,
-  "en": ""
+  "en": "thrilled me once;"
  },
  {
   "id": "questsent:0143:08",
   "jp": "僕が子供の頃に",
   "refs": 1,
-  "en": ""
+  "en": "As a kid, I was"
  },
  {
   "id": "questsent:0143:0c",
   "jp": "教えられた過去",
   "refs": 1,
-  "en": ""
+  "en": "told of the past;"
  },
  {
   "id": "questsent:0143:10",
   "jp": "のことを知るために",
   "refs": 2,
-  "en": ""
+  "en": "to learn about it,"
  },
  {
   "id": "questsent:0144:08",
   "jp": "床下に刻まれて",
   "refs": 1,
-  "en": ""
+  "en": "Under our floor,"
  },
  {
   "id": "questsent:0144:0c",
   "jp": "出てた奇妙な言葉",
   "refs": 1,
-  "en": ""
+  "en": "odd words carved;"
  },
  {
   "id": "questsent:0145:08",
   "jp": "闇から聞こえる声に",
   "refs": 1,
-  "en": ""
+  "en": "Voices in the dark"
  },
  {
   "id": "questsent:0145:0c",
   "jp": "隠された事実",
   "refs": 1,
-  "en": ""
+  "en": "hide a truth;"
  },
  {
   "id": "questsent:0145:10",
   "jp": "を確かめるために",
   "refs": 2,
-  "en": ""
+  "en": "to confirm it,"
  },
  {
   "id": "questsent:0146:08",
   "jp": "古くから続く家業に",
   "refs": 1,
-  "en": ""
+  "en": "The family trade"
  },
  {
   "id": "questsent:0146:0c",
   "jp": "嫌になった気持ち",
   "refs": 1,
-  "en": ""
+  "en": "I've come to hate;"
  },
  {
   "id": "questsent:0147:08",
   "jp": "蔵にあった手記",
   "refs": 1,
-  "en": ""
+  "en": "An old journal--"
  },
  {
   "id": "questsent:0147:0c",
   "jp": "を見てから",
   "refs": 1,
-  "en": ""
+  "en": "since I read it,"
  },
  {
   "id": "questsent:0147:10",
   "jp": "悪いことが起きて…",
   "refs": 1,
-  "en": ""
+  "en": "bad things happen."
  },
  {
   "id": "questsent:0147:14",
   "jp": "してほしいんです…",
   "refs": 11,
-  "en": ""
+  "en": "Please perform it."
  },
  {
   "id": "questsent:0148:08",
   "jp": "桐箪笥のお金",
   "refs": 1,
-  "en": ""
+  "en": "The dresser money"
  },
  {
   "id": "questsent:0148:0c",
   "jp": "がなくなってから",
   "refs": 1,
-  "en": ""
+  "en": "went missing, and"
  },
  {
   "id": "questsent:0148:10",
   "jp": "ツイてないんです。",
   "refs": 1,
-  "en": ""
+  "en": "I've had no luck."
  },
  {
   "id": "questsent:0149:08",
   "jp": "あの日、黒い式神",
   "refs": 1,
-  "en": ""
+  "en": "That day I saw a"
  },
  {
   "id": "questsent:0149:0c",
   "jp": "を見てしまってから",
   "refs": 1,
-  "en": ""
+  "en": "black shikigami;"
  },
  {
   "id": "questsent:0149:10",
   "jp": "家が暗い気がして…",
   "refs": 1,
-  "en": ""
+  "en": "home feels dark..."
  },
  {
   "id": "questsent:0150:08",
   "jp": "僕の記憶",
   "refs": 1,
-  "en": ""
+  "en": "My memory"
  },
  {
   "id": "questsent:0150:0c",
   "jp": "が失われてから",
   "refs": 1,
-  "en": ""
+  "en": "has gone, and"
  },
  {
   "id": "questsent:0150:10",
   "jp": "不安なんです。",
   "refs": 1,
-  "en": ""
+  "en": "I feel uneasy."
  },
  {
   "id": "questsent:0151:08",
   "jp": "玄関に貼られたお札",
   "refs": 1,
-  "en": ""
+  "en": "The door talisman"
  },
  {
   "id": "questsent:0151:0c",
   "jp": "が部屋に来てから",
   "refs": 1,
-  "en": ""
+  "en": "came to my room;"
  },
  {
   "id": "questsent:0151:10",
   "jp": "何か記念として",
   "refs": 1,
-  "en": ""
+  "en": "as a memento,"
  },
  {
   "id": "questsent:0152:08",
   "jp": "時々現れる獣",
   "refs": 1,
-  "en": ""
+  "en": "A beast I'd see"
  },
  {
   "id": "questsent:0152:0c",
   "jp": "が消えてから",
   "refs": 1,
-  "en": ""
+  "en": "has vanished;"
  },
  {
   "id": "questsent:0152:10",
   "jp": "がんばれるように",
   "refs": 1,
-  "en": ""
+  "en": "so I can carry on,"
  },
  {
   "id": "questsent:0153:08",
   "jp": "守り神の動物",
   "refs": 1,
-  "en": ""
+  "en": "Our guardian beast"
  },
  {
   "id": "questsent:0153:0c",
   "jp": "を捨ててから",
   "refs": 1,
-  "en": ""
+  "en": "I abandoned it;"
  },
  {
   "id": "questsent:0153:10",
   "jp": "感謝の印として",
   "refs": 1,
-  "en": ""
+  "en": "as a thank-you,"
  },
  {
   "id": "questsent:0154:08",
   "jp": "庭に植えた芋",
   "refs": 1,
-  "en": ""
+  "en": "Garden potatoes"
  },
  {
   "id": "questsent:0154:0c",
   "jp": "に落書きしてから",
   "refs": 1,
-  "en": ""
+  "en": "I drew on them;"
  },
  {
   "id": "questsent:0154:10",
   "jp": "１人が怖いんです…",
   "refs": 1,
-  "en": ""
+  "en": "I fear being alone"
  },
  {
   "id": "questsent:0155:08",
   "jp": "代々伝わるお守り",
   "refs": 1,
-  "en": ""
+  "en": "Our heirloom charm"
  },
  {
   "id": "questsent:0155:0c",
   "jp": "に水をこぼしてから",
   "refs": 1,
-  "en": ""
+  "en": "got water spilled;"
  },
  {
   "id": "questsent:0155:10",
   "jp": "何か起こる前に、",
   "refs": 1,
-  "en": ""
+  "en": "before harm comes,"
  },
  {
   "id": "questsent:0156:08",
   "jp": "祖父の日記",
   "refs": 1,
-  "en": ""
+  "en": "Grandpa's diary"
  },
  {
   "id": "questsent:0156:0c",
   "jp": "を取り戻してから",
   "refs": 1,
-  "en": ""
+  "en": "I got it back, and"
  },
  {
   "id": "questsent:0156:10",
   "jp": "妙にみんな親切で…",
   "refs": 1,
-  "en": ""
+  "en": "all are oddly nice"
  },
  {
   "id": "questsent:0157:08",
   "jp": "三本足のカラス",
   "refs": 1,
-  "en": ""
+  "en": "The three-legged"
  },
  {
   "id": "questsent:0157:0c",
   "jp": "が盗まれてから",
   "refs": 1,
-  "en": ""
+  "en": "crow was stolen;"
  },
  {
   "id": "questsent:0157:10",
   "jp": "変なものが見えて…",
   "refs": 1,
-  "en": ""
+  "en": "now I see things.."
  },
  {
   "id": "questsent:0159:00",
   "jp": "憑物落としの儀",
   "refs": 1,
-  "en": ""
+  "en": "Exorcism"
  },
  {
   "id": "questsent:0159:08",
   "jp": "僕の血筋の秘密…",
   "refs": 1,
-  "en": ""
+  "en": "My line's secret.."
  },
  {
   "id": "questsent:0159:0c",
   "jp": "先祖が契約した品を",
   "refs": 1,
-  "en": ""
+  "en": "Find the pact item"
  },
  {
   "id": "questsent:0159:10",
   "jp": "洞から手に入れて、",
   "refs": 1,
-  "en": ""
+  "en": "in the Hollow, and"
  },
  {
   "id": "questsent:0159:14",
   "jp": "解除してください…",
   "refs": 1,
-  "en": ""
+  "en": "please undo it..."
  },
  {
   "id": "questsent:0159:18",
   "jp": "呪われた契約を",
   "refs": 1,
-  "en": ""
+  "en": "the cursed pact,"
  },
  {
   "id": "questsent:0160:08",
   "jp": "わたしのねこが",
   "refs": 1,
-  "en": ""
+  "en": "So my kitty can"
  },
  {
   "id": "questsent:0160:0c",
   "jp": "しゅっせする",
   "refs": 1,
-  "en": ""
+  "en": "get promoted,"
  },
  {
   "id": "questsent:0160:10",
   "jp": "ために、",
   "refs": 1,
-  "en": ""
+  "en": "please,"
  },
  {
   "id": "questsent:0160:14",
   "jp": "やっつけて。",
   "refs": 11,
-  "en": ""
+  "en": "go beat it up!"
  },
  {
   "id": "questsent:0161:08",
   "jp": "だいじなねこが",
   "refs": 1,
-  "en": ""
+  "en": "So my dear kitty"
  },
  {
   "id": "questsent:0161:0c",
   "jp": "びょうきをなおす",
   "refs": 1,
-  "en": ""
+  "en": "can get better,"
  },
  {
   "id": "questsent:0161:10",
   "jp": "ために、じゃまな",
   "refs": 1,
-  "en": ""
+  "en": "that pesky"
  },
  {
   "id": "questsent:0162:08",
   "jp": "あずかってるねこが",
   "refs": 1,
-  "en": ""
+  "en": "So the kitty I sit"
  },
  {
   "id": "questsent:0162:0c",
   "jp": "さんぽする",
   "refs": 1,
-  "en": ""
+  "en": "can go for walks,"
  },
  {
   "id": "questsent:0162:10",
   "jp": "ために、なんとか",
   "refs": 1,
-  "en": ""
+  "en": "somehow,"
  },
  {
   "id": "questsent:0163:08",
   "jp": "まいごのねこが",
   "refs": 1,
-  "en": ""
+  "en": "So the lost kitty"
  },
  {
   "id": "questsent:0163:0c",
   "jp": "ごはんたべる",
   "refs": 1,
-  "en": ""
+  "en": "can eat dinner,"
  },
  {
   "id": "questsent:0163:10",
   "jp": "ために、にくい",
   "refs": 1,
-  "en": ""
+  "en": "that mean old"
  },
  {
   "id": "questsent:0164:08",
   "jp": "うちのねこが",
   "refs": 2,
-  "en": ""
+  "en": "So our kitty can"
  },
  {
   "id": "questsent:0164:0c",
   "jp": "さかなをとる",
   "refs": 1,
-  "en": ""
+  "en": "catch fishies,"
  },
  {
   "id": "questsent:0164:10",
   "jp": "ために、あの",
   "refs": 1,
-  "en": ""
+  "en": "that"
  },
  {
   "id": "questsent:0165:08",
   "jp": "うらののらねこが",
   "refs": 1,
-  "en": ""
+  "en": "So the alley stray"
  },
  {
   "id": "questsent:0165:0c",
   "jp": "ボスのざをいじする",
   "refs": 1,
-  "en": ""
+  "en": "stays top cat,"
  },
  {
   "id": "questsent:0165:10",
   "jp": "ために、いんねんの",
   "refs": 1,
-  "en": ""
+  "en": "that rival"
  },
  {
   "id": "questsent:0166:08",
   "jp": "となりのボスねこが",
   "refs": 1,
-  "en": ""
+  "en": "Next door boss cat"
  },
  {
   "id": "questsent:0166:0c",
   "jp": "ひるねできない",
   "refs": 1,
-  "en": ""
+  "en": "can't nap, due to"
  },
  {
   "id": "questsent:0166:10",
   "jp": "ために、うらみある",
   "refs": 1,
-  "en": ""
+  "en": "that hated"
  },
  {
   "id": "questsent:0167:08",
   "jp": "こどものいるねこが",
   "refs": 1,
-  "en": ""
+  "en": "So the mama cat"
  },
  {
   "id": "questsent:0167:0c",
   "jp": "ざんぱんをあさる",
   "refs": 1,
-  "en": ""
+  "en": "can dig in scraps,"
  },
  {
   "id": "questsent:0167:10",
   "jp": "ために、あいつ…",
   "refs": 1,
-  "en": ""
+  "en": "that guy..."
  },
  {
   "id": "questsent:0168:08",
   "jp": "かりてきたねこが",
   "refs": 1,
-  "en": ""
+  "en": "So my borrowed cat"
  },
  {
   "id": "questsent:0168:0c",
   "jp": "あんぜんにかえる",
   "refs": 1,
-  "en": ""
+  "en": "gets home safe,"
  },
  {
   "id": "questsent:0168:10",
   "jp": "ために、ちょっと",
   "refs": 1,
-  "en": ""
+  "en": "um, just"
  },
  {
   "id": "questsent:0169:08",
   "jp": "ひろったねこが",
   "refs": 1,
-  "en": ""
+  "en": "The cat I found"
  },
  {
   "id": "questsent:0169:0c",
   "jp": "ストレスをかんじる",
   "refs": 1,
-  "en": ""
+  "en": "feels stressed, so"
  },
  {
   "id": "questsent:0169:10",
   "jp": "ために、できれば",
   "refs": 1,
-  "en": ""
+  "en": "if you can,"
  },
  {
   "id": "questsent:0170:08",
   "jp": "おおきなねこが",
   "refs": 1,
-  "en": ""
+  "en": "The big cat is in"
  },
  {
   "id": "questsent:0170:0c",
   "jp": "こいをした",
   "refs": 1,
-  "en": ""
+  "en": "love, so"
  },
  {
   "id": "questsent:0170:10",
   "jp": "ために、おねがい…",
   "refs": 1,
-  "en": ""
+  "en": "please..."
  },
  {
   "id": "questsent:0171:08",
   "jp": "うちのみけねこの",
   "refs": 1,
-  "en": ""
+  "en": "So my calico's"
  },
  {
   "id": "questsent:0171:0c",
   "jp": "しっぽが",
   "refs": 1,
-  "en": ""
+  "en": "tail"
  },
  {
   "id": "questsent:0171:10",
   "jp": "つよくなるように",
   "refs": 1,
-  "en": ""
+  "en": "gets strong,"
  },
  {
   "id": "questsent:0171:14",
   "jp": "さがしてください。",
   "refs": 8,
-  "en": ""
+  "en": "please find it."
  },
  {
   "id": "questsent:0172:08",
   "jp": "うちのトラねこの",
   "refs": 1,
-  "en": ""
+  "en": "So my tabby's"
  },
  {
   "id": "questsent:0172:0c",
   "jp": "ひたいが",
   "refs": 1,
-  "en": ""
+  "en": "forehead"
  },
  {
   "id": "questsent:0172:10",
   "jp": "ひろくなるように",
   "refs": 1,
-  "en": ""
+  "en": "gets wider,"
  },
  {
   "id": "questsent:0173:08",
   "jp": "うちのブチねこの",
   "refs": 1,
-  "en": ""
+  "en": "So my spotty cat's"
  },
  {
   "id": "questsent:0173:0c",
   "jp": "おひげが",
   "refs": 1,
-  "en": ""
+  "en": "whiskers"
  },
  {
   "id": "questsent:0173:10",
   "jp": "うるおうように",
   "refs": 1,
-  "en": ""
+  "en": "stay moist,"
  },
  {
   "id": "questsent:0174:08",
   "jp": "うちのくろねこの",
   "refs": 1,
-  "en": ""
+  "en": "So my black cat's"
  },
  {
   "id": "questsent:0174:0c",
   "jp": "のどが",
   "refs": 1,
-  "en": ""
+  "en": "throat"
  },
  {
   "id": "questsent:0174:10",
   "jp": "ゴロゴロするように",
   "refs": 1,
-  "en": ""
+  "en": "purrs and purrs,"
  },
  {
   "id": "questsent:0175:08",
   "jp": "うちのまねきねこの",
   "refs": 1,
-  "en": ""
+  "en": "So my waving cat's"
  },
  {
   "id": "questsent:0175:0c",
   "jp": "おなかが",
   "refs": 1,
-  "en": ""
+  "en": "tummy"
  },
  {
   "id": "questsent:0175:10",
   "jp": "ひえないように",
   "refs": 1,
-  "en": ""
+  "en": "stays warm,"
  },
  {
   "id": "questsent:0176:08",
   "jp": "きんじょのねこの",
   "refs": 1,
-  "en": ""
+  "en": "So the local cat's"
  },
  {
   "id": "questsent:0176:0c",
   "jp": "にくきゅうが",
   "refs": 1,
-  "en": ""
+  "en": "paw pads"
  },
  {
   "id": "questsent:0176:10",
   "jp": "ふかふかするように",
   "refs": 1,
-  "en": ""
+  "en": "get all squishy,"
  },
  {
   "id": "questsent:0177:08",
   "jp": "となりのねこの",
   "refs": 1,
-  "en": ""
+  "en": "So next door cat's"
  },
  {
   "id": "questsent:0177:0c",
   "jp": "みみが",
   "refs": 1,
-  "en": ""
+  "en": "ears"
  },
  {
   "id": "questsent:0177:10",
   "jp": "ピクピクするように",
   "refs": 1,
-  "en": ""
+  "en": "go twitch-twitch,"
  },
  {
   "id": "questsent:0178:08",
   "jp": "まよいねこの",
   "refs": 1,
-  "en": ""
+  "en": "So the stray cat's"
  },
  {
   "id": "questsent:0178:0c",
   "jp": "つめが",
   "refs": 1,
-  "en": ""
+  "en": "claws"
  },
  {
   "id": "questsent:0178:10",
   "jp": "ながくなるように",
   "refs": 1,
-  "en": ""
+  "en": "grow long,"
  },
  {
   "id": "questsent:0179:08",
   "jp": "ひとみしりのねこが",
   "refs": 1,
-  "en": ""
+  "en": "So my shy kitty"
  },
  {
   "id": "questsent:0179:0c",
   "jp": "きのぼりがうまく",
   "refs": 1,
-  "en": ""
+  "en": "can climb trees"
  },
  {
   "id": "questsent:0179:10",
   "jp": "なれるように",
   "refs": 11,
-  "en": ""
+  "en": "someday,"
  },
  {
   "id": "questsent:0179:14",
   "jp": "してください。",
   "refs": 11,
-  "en": ""
+  "en": "please perform it."
  },
  {
   "id": "questsent:0180:08",
   "jp": "こわがりのねこが",
   "refs": 1,
-  "en": ""
+  "en": "So my scaredy-cat"
  },
  {
   "id": "questsent:0180:0c",
   "jp": "しゃべるねこに",
   "refs": 1,
-  "en": ""
+  "en": "can learn to talk"
  },
  {
   "id": "questsent:0181:08",
   "jp": "らんぼうなねこが",
   "refs": 1,
-  "en": ""
+  "en": "So my wild kitty"
  },
  {
   "id": "questsent:0181:0c",
   "jp": "かりがうまく",
   "refs": 1,
-  "en": ""
+  "en": "can hunt better"
  },
  {
   "id": "questsent:0182:08",
   "jp": "びょうきのねこが",
   "refs": 1,
-  "en": ""
+  "en": "So my sick kitty"
  },
  {
   "id": "questsent:0182:0c",
   "jp": "とてもけんこうに",
   "refs": 1,
-  "en": ""
+  "en": "can be all healthy"
  },
  {
   "id": "questsent:0183:08",
   "jp": "ちいさなこねこが",
   "refs": 1,
-  "en": ""
+  "en": "So my tiny kitten"
  },
  {
   "id": "questsent:0183:0c",
   "jp": "きれいなけなみに",
   "refs": 1,
-  "en": ""
+  "en": "gets pretty fur"
  },
  {
   "id": "questsent:0184:08",
   "jp": "おとなしいねこが",
   "refs": 1,
-  "en": ""
+  "en": "So my gentle kitty"
  },
  {
   "id": "questsent:0184:0c",
   "jp": "きんじょのボスに",
   "refs": 1,
-  "en": ""
+  "en": "can be local boss"
  },
  {
   "id": "questsent:0185:08",
   "jp": "やせっぽちのねこが",
   "refs": 1,
-  "en": ""
+  "en": "So my skinny kitty"
  },
  {
   "id": "questsent:0185:0c",
   "jp": "みんなとなかよく",
   "refs": 1,
-  "en": ""
+  "en": "makes lots of pals"
  },
  {
   "id": "questsent:0186:08",
   "jp": "かわいそうなねこが",
   "refs": 1,
-  "en": ""
+  "en": "So my poor kitty"
  },
  {
   "id": "questsent:0186:0c",
   "jp": "はやくげんきに",
   "refs": 1,
-  "en": ""
+  "en": "gets well soon"
  },
  {
   "id": "questsent:0187:08",
   "jp": "いとしいねこが",
   "refs": 1,
-  "en": ""
+  "en": "So my dear kitty"
  },
  {
   "id": "questsent:0187:0c",
   "jp": "あらしをよぶねこに",
   "refs": 1,
-  "en": ""
+  "en": "can summon storms"
  },
  {
   "id": "questsent:0188:08",
   "jp": "ねてばかりのねこが",
   "refs": 1,
-  "en": ""
+  "en": "So my sleepy kitty"
  },
  {
   "id": "questsent:0188:0c",
   "jp": "ふとっぱらに",
   "refs": 1,
-  "en": ""
+  "en": "can be big-hearted"
  },
  {
   "id": "questsent:0189:0c",
   "jp": "チャンピオンに",
   "refs": 1,
-  "en": ""
+  "en": "be champion"
  },
  {
   "id": "questsent:0191:00",
   "jp": "化猫捕物の儀",
   "refs": 1,
-  "en": ""
+  "en": "Ghost Cat Hunt"
  },
  {
   "id": "questsent:0191:08",
   "jp": "あそびずきのねこ",
   "refs": 1,
-  "en": ""
+  "en": "My playful kitty"
  },
  {
   "id": "questsent:0191:0c",
   "jp": "かいぶつになった…",
   "refs": 1,
-  "en": ""
+  "en": "turned monster..."
  },
  {
   "id": "questsent:0191:10",
   "jp": "きっとはなふだで",
   "refs": 1,
-  "en": ""
+  "en": "I bet hanafuda"
  },
  {
   "id": "questsent:0191:14",
   "jp": "ころさずたすけて！",
   "refs": 1,
-  "en": ""
+  "en": "Spare it! Save it!"
  },
  {
   "id": "questsent:0191:18",
   "jp": "もとにもどるはず。",
   "refs": 1,
-  "en": ""
+  "en": "can turn it back."
  },
  {
   "id": "questsent:0192:08",
   "jp": "私自身の",
   "refs": 1,
-  "en": ""
+  "en": "My own"
  },
  {
   "id": "questsent:0192:0c",
   "jp": "徳を",
   "refs": 1,
-  "en": ""
+  "en": "virtue"
  },
  {
   "id": "questsent:0192:10",
   "jp": "高めるために",
   "refs": 1,
-  "en": ""
+  "en": "to elevate,"
  },
  {
   "id": "questsent:0192:14",
   "jp": "用意してくれぬか。",
   "refs": 12,
-  "en": ""
+  "en": "Pray, prepare it."
  },
  {
   "id": "questsent:0193:08",
   "jp": "愛する国民の",
   "refs": 1,
-  "en": ""
+  "en": "My dear people's"
  },
  {
   "id": "questsent:0193:0c",
   "jp": "安全を",
   "refs": 1,
-  "en": ""
+  "en": "safety"
  },
  {
   "id": "questsent:0193:10",
   "jp": "祈るために",
   "refs": 1,
-  "en": ""
+  "en": "to pray for,"
  },
  {
   "id": "questsent:0194:08",
   "jp": "愛する家族の",
   "refs": 1,
-  "en": ""
+  "en": "My dear family's"
  },
  {
   "id": "questsent:0194:0c",
   "jp": "幸せを",
   "refs": 1,
-  "en": ""
+  "en": "happiness"
  },
  {
   "id": "questsent:0194:10",
   "jp": "守るために",
   "refs": 1,
-  "en": ""
+  "en": "to protect,"
  },
  {
   "id": "questsent:0195:08",
   "jp": "罪を犯した者の",
   "refs": 1,
-  "en": ""
+  "en": "Sinners'"
  },
  {
   "id": "questsent:0195:0c",
   "jp": "命を",
   "refs": 1,
-  "en": ""
+  "en": "lives"
  },
  {
   "id": "questsent:0195:10",
   "jp": "分け与えるために",
   "refs": 1,
-  "en": ""
+  "en": "to share out,"
  },
  {
   "id": "questsent:0196:08",
   "jp": "貧しき者の",
   "refs": 1,
-  "en": ""
+  "en": "The poor folk's"
  },
  {
   "id": "questsent:0196:0c",
   "jp": "無念を",
   "refs": 1,
-  "en": ""
+  "en": "regrets"
  },
  {
   "id": "questsent:0196:10",
   "jp": "忘れないために",
   "refs": 1,
-  "en": ""
+  "en": "to never forget,"
  },
  {
   "id": "questsent:0197:08",
   "jp": "富める者の",
   "refs": 1,
-  "en": ""
+  "en": "The wealthy's"
  },
  {
   "id": "questsent:0197:0c",
   "jp": "財産を",
   "refs": 1,
-  "en": ""
+  "en": "fortunes"
  },
  {
   "id": "questsent:0197:10",
   "jp": "寄付するために",
   "refs": 1,
-  "en": ""
+  "en": "to donate,"
  },
  {
   "id": "questsent:0198:08",
   "jp": "旅行者たちの",
   "refs": 1,
-  "en": ""
+  "en": "The travelers'"
  },
  {
   "id": "questsent:0198:0c",
   "jp": "感謝の気持ちを",
   "refs": 1,
-  "en": ""
+  "en": "gratitude"
  },
  {
   "id": "questsent:0198:10",
   "jp": "保管するために",
   "refs": 1,
-  "en": ""
+  "en": "to keep safe,"
  },
  {
   "id": "questsent:0199:08",
   "jp": "虐げられた者の",
   "refs": 1,
-  "en": ""
+  "en": "The oppressed's"
  },
  {
   "id": "questsent:0199:0c",
   "jp": "希望を",
   "refs": 1,
-  "en": ""
+  "en": "hopes"
  },
  {
   "id": "questsent:0199:10",
   "jp": "献上するため",
   "refs": 1,
-  "en": ""
+  "en": "to offer up,"
  },
  {
   "id": "questsent:0200:08",
   "jp": "苦難に遭った者の",
   "refs": 1,
-  "en": ""
+  "en": "The suffering's"
  },
  {
   "id": "questsent:0200:0c",
   "jp": "勇敢な行為を",
   "refs": 1,
-  "en": ""
+  "en": "brave deeds"
  },
  {
   "id": "questsent:0200:10",
   "jp": "来世に捧げるため",
   "refs": 1,
-  "en": ""
+  "en": "for the next life,"
  },
  {
   "id": "questsent:0201:08",
   "jp": "戦場に散った部下の",
   "refs": 1,
-  "en": ""
+  "en": "My fallen men's"
  },
  {
   "id": "questsent:0201:0c",
   "jp": "大事なものを",
   "refs": 1,
-  "en": ""
+  "en": "treasures"
  },
  {
   "id": "questsent:0201:10",
   "jp": "清めるため",
   "refs": 1,
-  "en": ""
+  "en": "to purify,"
  },
  {
   "id": "questsent:0202:08",
   "jp": "罪なき動物たちの",
   "refs": 1,
-  "en": ""
+  "en": "Innocent beasts'"
  },
  {
   "id": "questsent:0202:0c",
   "jp": "無垢の魂を",
   "refs": 1,
-  "en": ""
+  "en": "pure souls"
  },
  {
   "id": "questsent:0202:10",
   "jp": "称えるため",
   "refs": 1,
-  "en": ""
+  "en": "to honor,"
  },
  {
   "id": "questsent:0203:08",
   "jp": "某国の",
   "refs": 1,
-  "en": ""
+  "en": "A certain nation's"
  },
  {
   "id": "questsent:0203:0c",
   "jp": "不浄の行いを",
   "refs": 1,
-  "en": ""
+  "en": "foul deeds"
  },
  {
   "id": "questsent:0203:10",
   "jp": "カレーにするため",
   "refs": 1,
-  "en": ""
+  "en": "to make curry of,"
  },
  {
   "id": "questsent:0204:08",
   "jp": "近々、我が国では",
   "refs": 1,
-  "en": ""
+  "en": "Soon, my nation"
  },
  {
   "id": "questsent:0204:0c",
   "jp": "総選挙が行われる。",
   "refs": 1,
-  "en": ""
+  "en": "holds an election."
  },
  {
   "id": "questsent:0204:10",
   "jp": "無事に終わるように",
   "refs": 1,
-  "en": ""
+  "en": "That it end well,"
  },
  {
   "id": "questsent:0204:14",
   "jp": "執り行ってほしい。",
   "refs": 12,
-  "en": ""
+  "en": "I bid you perform."
  },
  {
   "id": "questsent:0205:08",
   "jp": "近々、王宮にて",
   "refs": 1,
-  "en": ""
+  "en": "Soon, the palace"
  },
  {
   "id": "questsent:0205:0c",
   "jp": "結婚式が行われる。",
   "refs": 1,
-  "en": ""
+  "en": "hosts a wedding."
  },
  {
   "id": "questsent:0205:10",
   "jp": "不正がないように",
   "refs": 1,
-  "en": ""
+  "en": "Free of foul play,"
  },
  {
   "id": "questsent:0206:08",
   "jp": "近々、国の首都にて",
   "refs": 1,
-  "en": ""
+  "en": "Soon, our capital"
  },
  {
   "id": "questsent:0206:0c",
   "jp": "除幕式が行われる。",
   "refs": 1,
-  "en": ""
+  "en": "has an unveiling."
  },
  {
   "id": "questsent:0206:10",
   "jp": "混乱がないように",
   "refs": 1,
-  "en": ""
+  "en": "Lest chaos arise,"
  },
  {
   "id": "questsent:0207:08",
   "jp": "近々、親族による",
   "refs": 1,
-  "en": ""
+  "en": "Soon, my kin grant"
  },
  {
   "id": "questsent:0207:0c",
   "jp": "恩赦がある。",
   "refs": 1,
-  "en": ""
+  "en": "an amnesty."
  },
  {
   "id": "questsent:0207:10",
   "jp": "怪我人のないように",
   "refs": 1,
-  "en": ""
+  "en": "Lest any be hurt,"
  },
  {
   "id": "questsent:0208:08",
   "jp": "近々、王族による",
   "refs": 1,
-  "en": ""
+  "en": "Soon, the royals"
  },
  {
   "id": "questsent:0208:0c",
   "jp": "記念式典がある。",
   "refs": 1,
-  "en": ""
+  "en": "hold a ceremony."
  },
  {
   "id": "questsent:0208:10",
   "jp": "滞りないように",
   "refs": 1,
-  "en": ""
+  "en": "That all go well,"
  },
  {
   "id": "questsent:0209:08",
   "jp": "近々、僧たちによる",
   "refs": 1,
-  "en": ""
+  "en": "Soon, our monks"
  },
  {
   "id": "questsent:0209:0c",
   "jp": "還俗式がある。",
   "refs": 1,
-  "en": ""
+  "en": "return to lay life"
  },
  {
   "id": "questsent:0209:10",
   "jp": "秘密が漏れぬように",
   "refs": 1,
-  "en": ""
+  "en": "Lest secrets leak,"
  },
  {
   "id": "questsent:0210:08",
   "jp": "近々、国民のための",
   "refs": 1,
-  "en": ""
+  "en": "Soon, for my folk,"
  },
  {
   "id": "questsent:0210:0c",
   "jp": "伝統的儀式がある。",
   "refs": 1,
-  "en": ""
+  "en": "an ancient rite."
  },
  {
   "id": "questsent:0210:10",
   "jp": "国民の安全のために",
   "refs": 1,
-  "en": ""
+  "en": "For public safety,"
  },
  {
   "id": "questsent:0211:08",
   "jp": "近々、動物のための",
   "refs": 1,
-  "en": ""
+  "en": "Soon, for animals,"
  },
  {
   "id": "questsent:0211:0c",
   "jp": "国際会議がある。",
   "refs": 1,
-  "en": ""
+  "en": "a world summit."
  },
  {
   "id": "questsent:0211:10",
   "jp": "国家の発展のために",
   "refs": 1,
-  "en": ""
+  "en": "For national gain,"
  },
  {
   "id": "questsent:0212:08",
   "jp": "近々、環境のための",
   "refs": 1,
-  "en": ""
+  "en": "Soon, for nature,"
  },
  {
   "id": "questsent:0212:0c",
   "jp": "大型連休がある。",
   "refs": 1,
-  "en": ""
+  "en": "a long holiday."
  },
  {
   "id": "questsent:0212:10",
   "jp": "敵に気取られぬよう",
   "refs": 1,
-  "en": ""
+  "en": "Hidden from foes,"
  },
  {
   "id": "questsent:0213:08",
   "jp": "近々、軍人のための",
   "refs": 1,
-  "en": ""
+  "en": "Soon, for troops,"
  },
  {
   "id": "questsent:0213:0c",
   "jp": "カレー祭りがある。",
   "refs": 1,
-  "en": ""
+  "en": "a curry festival."
  },
  {
   "id": "questsent:0213:10",
   "jp": "某国に配慮して",
   "refs": 1,
-  "en": ""
+  "en": "Mindful of a land,"
  },
  {
   "id": "questsent:0214:08",
   "jp": "近々、古き時代の",
   "refs": 1,
-  "en": ""
+  "en": "Soon, an olden-day"
  },
  {
   "id": "questsent:0214:0c",
   "jp": "裁判がある。",
   "refs": 1,
-  "en": ""
+  "en": "trial takes place."
  },
  {
   "id": "questsent:0214:10",
   "jp": "公平に行われるよう",
   "refs": 1,
-  "en": ""
+  "en": "That it be fair,"
  },
  {
   "id": "questsent:0215:08",
   "jp": "友好国からの勧めで",
   "refs": 1,
-  "en": ""
+  "en": "As an ally urged,"
  },
  {
   "id": "questsent:0215:0c",
   "jp": "大宴会がある。",
   "refs": 1,
-  "en": ""
+  "en": "we hold a banquet."
  },
  {
   "id": "questsent:0215:10",
   "jp": "念のために",
   "refs": 1,
-  "en": ""
+  "en": "Just to be safe,"
  },
  {
   "id": "questsent:0223:00",
   "jp": "心霊念写の儀",
   "refs": 1,
-  "en": ""
+  "en": "Psychic Photo"
  },
  {
   "id": "questsent:0223:08",
   "jp": "私は、前世の弟を",
   "refs": 1,
-  "en": ""
+  "en": "I seek my brother"
  },
  {
   "id": "questsent:0223:0c",
   "jp": "探しているのだ…",
   "refs": 1,
-  "en": ""
+  "en": "of a past life..."
  },
  {
   "id": "questsent:0223:10",
   "jp": "どこかで彷徨う",
   "refs": 1,
-  "en": ""
+  "en": "Somewhere, adrift,"
  },
  {
   "id": "questsent:0223:14",
   "jp": "写真に撮れないか。",
   "refs": 1,
-  "en": ""
+  "en": "Might you film it?"
  },
  {
   "id": "questsent:0223:18",
   "jp": "前世の因縁を",
   "refs": 1,
-  "en": ""
+  "en": "our past-life tie:"
  },
  {
   "id": "questsent:0224:08",
   "jp": "カレー好きの奴に",
   "refs": 1,
-  "en": ""
+  "en": "For a curry fan,"
  },
  {
   "id": "questsent:0224:0c",
   "jp": "うまいカレーを",
   "refs": 1,
-  "en": ""
+  "en": "a tasty curry"
  },
  {
   "id": "questsent:0224:10",
   "jp": "食わせたくてな、",
   "refs": 1,
-  "en": ""
+  "en": "I wanna cook, so"
  },
  {
   "id": "questsent:0224:14",
   "jp": "ひとつ、頼むぜ。",
   "refs": 4,
-  "en": ""
+  "en": "Help me out, eh?"
  },
  {
   "id": "questsent:0225:08",
   "jp": "食品サンプルの",
   "refs": 1,
-  "en": ""
+  "en": "Food-sample makers"
  },
  {
   "id": "questsent:0225:0c",
   "jp": "激辛のカレーを",
   "refs": 1,
-  "en": ""
+  "en": "a fiery curry"
  },
  {
   "id": "questsent:0225:10",
   "jp": "教えたくてな、",
   "refs": 1,
-  "en": ""
+  "en": "I wanna show, so"
  },
  {
   "id": "questsent:0226:08",
   "jp": "俺の好きな",
   "refs": 1,
-  "en": ""
+  "en": "The kind I love,"
  },
  {
   "id": "questsent:0226:0c",
   "jp": "本格的なカレーを",
   "refs": 1,
-  "en": ""
+  "en": "an authentic curry"
  },
  {
   "id": "questsent:0226:10",
   "jp": "必要とされてな、",
   "refs": 1,
-  "en": ""
+  "en": "is in demand, so"
  },
  {
   "id": "questsent:0227:08",
   "jp": "さっき食った",
   "refs": 1,
-  "en": ""
+  "en": "Just had one:"
  },
  {
   "id": "questsent:0227:0c",
   "jp": "驚きのカレーを",
   "refs": 1,
-  "en": ""
+  "en": "a stunning curry"
  },
  {
   "id": "questsent:0227:10",
   "jp": "お願いされてな、",
   "refs": 1,
-  "en": ""
+  "en": "folks want it, so"
  },
  {
   "id": "questsent:0228:08",
   "jp": "仲間に",
   "refs": 1,
-  "en": ""
+  "en": "My pals ordered"
  },
  {
   "id": "questsent:0228:0c",
   "jp": "最先端のカレーを",
   "refs": 1,
-  "en": ""
+  "en": "a high-tech curry"
  },
  {
   "id": "questsent:0228:10",
   "jp": "注文されたんでな、",
   "refs": 1,
-  "en": ""
+  "en": "from me, so"
  },
  {
   "id": "questsent:0228:14",
   "jp": "持ってきてくれ。",
   "refs": 4,
-  "en": ""
+  "en": "bring it here."
  },
  {
   "id": "questsent:0229:08",
   "jp": "ネットで見た",
   "refs": 1,
-  "en": ""
+  "en": "Saw it online:"
  },
  {
   "id": "questsent:0229:0c",
   "jp": "究極のカレーを",
   "refs": 1,
-  "en": ""
+  "en": "the ultimate curry"
  },
  {
   "id": "questsent:0229:10",
   "jp": "届けたいんでな、",
   "refs": 1,
-  "en": ""
+  "en": "I wanna deliver,"
  },
  {
   "id": "questsent:0230:08",
   "jp": "親友の好きな",
   "refs": 1,
-  "en": ""
+  "en": "My best bud loves"
  },
  {
   "id": "questsent:0230:0c",
   "jp": "すげぇカレーを",
   "refs": 1,
-  "en": ""
+  "en": "a killer curry;"
  },
  {
   "id": "questsent:0230:10",
   "jp": "堪能させたくてな、",
   "refs": 1,
-  "en": ""
+  "en": "I wanna treat him,"
  },
  {
   "id": "questsent:0231:08",
   "jp": "宝探し屋に",
   "refs": 1,
-  "en": ""
+  "en": "I want a treasure"
  },
  {
   "id": "questsent:0231:0c",
   "jp": "超古代のカレーを",
   "refs": 1,
-  "en": ""
+  "en": "hunter to respect"
  },
  {
   "id": "questsent:0231:10",
   "jp": "認めさせたくてな、",
   "refs": 1,
-  "en": ""
+  "en": "my ancient curry,"
  },
  {
   "id": "questsent:0232:08",
   "jp": "研究中の",
   "refs": 1,
-  "en": ""
+  "en": "In development:"
  },
  {
   "id": "questsent:0232:0c",
   "jp": "純和風カレーを",
   "refs": 1,
-  "en": ""
+  "en": "a pure-Japan curry"
  },
  {
   "id": "questsent:0232:10",
   "jp": "自慢したくてな、",
   "refs": 1,
-  "en": ""
+  "en": "I wanna show off,"
  },
  {
   "id": "questsent:0232:14",
   "jp": "探してきてくれ。",
   "refs": 4,
-  "en": ""
+  "en": "go find it for me."
  },
  {
   "id": "questsent:0233:08",
   "jp": "今では失われた",
   "refs": 1,
-  "en": ""
+  "en": "Now long lost:"
  },
  {
   "id": "questsent:0233:0c",
   "jp": "儀式用カレーを",
   "refs": 1,
-  "en": ""
+  "en": "a ritual curry"
  },
  {
   "id": "questsent:0233:10",
   "jp": "見せたいんでな、",
   "refs": 1,
-  "en": ""
+  "en": "I wanna show it,"
  },
  {
   "id": "questsent:0234:08",
   "jp": "突然、ひらめいた",
   "refs": 1,
-  "en": ""
+  "en": "A sudden idea:"
  },
  {
   "id": "questsent:0234:0c",
   "jp": "アロマカレーを",
   "refs": 1,
-  "en": ""
+  "en": "an aroma curry"
  },
  {
   "id": "questsent:0234:10",
   "jp": "投げつけたくてな、",
   "refs": 1,
-  "en": ""
+  "en": "I wanna throw it,"
  },
  {
   "id": "questsent:0235:08",
   "jp": "本屋で立ち読みした",
   "refs": 1,
-  "en": ""
+  "en": "Skimmed at a shop:"
  },
  {
   "id": "questsent:0235:0c",
   "jp": "幻のカレーを",
   "refs": 1,
-  "en": ""
+  "en": "a phantom curry"
  },
  {
   "id": "questsent:0235:10",
   "jp": "作りたくてな、",
   "refs": 1,
-  "en": ""
+  "en": "I wanna make it,"
  },
  {
   "id": "questsent:0236:08",
   "jp": "やる気のあるうちに",
   "refs": 1,
-  "en": ""
+  "en": "While I'm pumped,"
  },
  {
   "id": "questsent:0236:0c",
   "jp": "自慢のカレーを",
   "refs": 1,
-  "en": ""
+  "en": "my prize curry"
  },
  {
   "id": "questsent:0236:10",
   "jp": "実験したくてな、",
   "refs": 1,
-  "en": ""
+  "en": "I wanna test out,"
  },
  {
   "id": "questsent:0236:14",
   "jp": "取ってきてくれ。",
   "refs": 4,
-  "en": ""
+  "en": "go grab it for me."
  },
  {
   "id": "questsent:0237:08",
   "jp": "眠くなる前に",
   "refs": 1,
-  "en": ""
+  "en": "Before I nod off,"
  },
  {
   "id": "questsent:0237:0c",
   "jp": "スパイシーカレーを",
   "refs": 1,
-  "en": ""
+  "en": "a spicy curry"
  },
  {
   "id": "questsent:0237:10",
   "jp": "公開したくてな、",
   "refs": 1,
-  "en": ""
+  "en": "I wanna unveil,"
  },
  {
   "id": "questsent:0238:08",
   "jp": "なんとかして",
   "refs": 1,
-  "en": ""
+  "en": "Somehow or other,"
  },
  {
   "id": "questsent:0238:0c",
   "jp": "カレーっぽい汁を",
   "refs": 1,
-  "en": ""
+  "en": "curry-ish soup"
  },
  {
   "id": "questsent:0238:10",
   "jp": "差し出したくてな、",
   "refs": 1,
-  "en": ""
+  "en": "I wanna serve up,"
  },
  {
   "id": "questsent:0239:08",
   "jp": "すまんが…",
   "refs": 1,
-  "en": ""
+  "en": "Sorry, but..."
  },
  {
   "id": "questsent:0239:0c",
   "jp": "闇鍋カレーを",
   "refs": 1,
-  "en": ""
+  "en": "mystery-pot curry"
  },
  {
   "id": "questsent:0239:10",
   "jp": "再現したくてな、",
   "refs": 1,
-  "en": ""
+  "en": "I wanna recreate,"
  },
  {
   "id": "questsent:0255:00",
   "jp": "魔神召喚の儀",
   "refs": 1,
-  "en": ""
+  "en": "Summon a Demon"
  },
  {
   "id": "questsent:0255:08",
   "jp": "伝説のレシピを",
   "refs": 1,
-  "en": ""
+  "en": "The fabled recipe:"
  },
  {
   "id": "questsent:0255:0c",
   "jp": "手に入れる方法を",
   "refs": 1,
-  "en": ""
+  "en": "how to get it, I"
  },
  {
   "id": "questsent:0255:10",
   "jp": "ついに突き止めた。",
   "refs": 1,
-  "en": ""
+  "en": "finally found out."
  },
  {
   "id": "questsent:0255:14",
   "jp": "洞に隠されてるぜ。",
   "refs": 1,
-  "en": ""
+  "en": "it's in the Hollow"
  },
  {
   "id": "questsent:0255:18",
   "jp": "俺の睨んだとおり、",
   "refs": 1,
-  "en": ""
+  "en": "Just as I figured,"
  },
  {
   "id": "questsent:0256:08",
   "jp": "遠い大地",
   "refs": 1,
-  "en": ""
+  "en": "Faraway land."
  },
  {
   "id": "questsent:0256:0c",
   "jp": "人々、苦しむ。",
   "refs": 1,
-  "en": ""
+  "en": "People suffer."
  },
  {
   "id": "questsent:0256:10",
   "jp": "精霊、鎮めるため",
   "refs": 4,
-  "en": ""
+  "en": "To calm spirits,"
  },
  {
   "id": "questsent:0256:14",
   "jp": "お前に頼む。",
   "refs": 6,
-  "en": ""
+  "en": "I ask you."
  },
  {
   "id": "questsent:0257:08",
   "jp": "極東の島国",
   "refs": 1,
-  "en": ""
+  "en": "Far East island."
  },
  {
   "id": "questsent:0257:0c",
   "jp": "高い山、火を吹く。",
   "refs": 1,
-  "en": ""
+  "en": "Peak spits fire."
  },
  {
   "id": "questsent:0258:08",
   "jp": "大いなる山々",
   "refs": 1,
-  "en": ""
+  "en": "Great mountains."
  },
  {
   "id": "questsent:0258:0c",
   "jp": "木々、枯れ果てる。",
   "refs": 1,
-  "en": ""
+  "en": "Trees wither, die."
  },
  {
   "id": "questsent:0259:08",
   "jp": "精霊住む大地",
   "refs": 1,
-  "en": ""
+  "en": "Land of spirits."
  },
  {
   "id": "questsent:0259:0c",
   "jp": "乾いた砂に埋まる。",
   "refs": 1,
-  "en": ""
+  "en": "Sunk in dry sand."
  },
  {
   "id": "questsent:0260:08",
   "jp": "実り多き平原",
   "refs": 1,
-  "en": ""
+  "en": "Fruitful plains."
  },
  {
   "id": "questsent:0260:0c",
   "jp": "悪い夢、見た。",
   "refs": 1,
-  "en": ""
+  "en": "Saw bad dreams."
  },
  {
   "id": "questsent:0260:10",
   "jp": "大地の呪い、祓う。",
   "refs": 3,
-  "en": ""
+  "en": "Purge land curse."
  },
  {
   "id": "questsent:0261:08",
   "jp": "風薫る草原",
   "refs": 1,
-  "en": ""
+  "en": "Breezy grassland."
  },
  {
   "id": "questsent:0261:0c",
   "jp": "空から蛙、降る。",
   "refs": 1,
-  "en": ""
+  "en": "Frogs rain down."
  },
  {
   "id": "questsent:0262:08",
   "jp": "豊饒の海原",
   "refs": 1,
-  "en": ""
+  "en": "Rich, fertile sea."
  },
  {
   "id": "questsent:0262:0c",
   "jp": "すべてが骨になる。",
   "refs": 1,
-  "en": ""
+  "en": "All turns to bone."
  },
  {
   "id": "questsent:0262:14",
   "jp": "お前、やる運命。",
   "refs": 5,
-  "en": ""
+  "en": "You, fated to do."
  },
  {
   "id": "questsent:0263:08",
   "jp": "南国の楽園",
   "refs": 1,
-  "en": ""
+  "en": "Southern paradise."
  },
  {
   "id": "questsent:0263:0c",
   "jp": "邪悪な魚、釣れる。",
   "refs": 1,
-  "en": ""
+  "en": "Evil fish caught."
  },
  {
   "id": "questsent:0263:10",
   "jp": "戦いの儀式、必要。",
   "refs": 3,
-  "en": ""
+  "en": "Need battle rite."
  },
  {
   "id": "questsent:0264:08",
   "jp": "馬走る荒野",
   "refs": 1,
-  "en": ""
+  "en": "Wild horse plains."
  },
  {
   "id": "questsent:0264:0c",
   "jp": "灼熱の吐息が襲う。",
   "refs": 1,
-  "en": ""
+  "en": "Fiery breath hits."
  },
  {
   "id": "questsent:0265:08",
   "jp": "コヨーテの聖地",
   "refs": 1,
-  "en": ""
+  "en": "Coyote holy land."
  },
  {
   "id": "questsent:0265:0c",
   "jp": "トーテム、失う。",
   "refs": 1,
-  "en": ""
+  "en": "Totem, lost."
  },
  {
   "id": "questsent:0266:08",
   "jp": "熊の眠る深き森",
   "refs": 1,
-  "en": ""
+  "en": "Where bears sleep."
  },
  {
   "id": "questsent:0266:0c",
   "jp": "すべて凍り付く。",
   "refs": 1,
-  "en": ""
+  "en": "All freezes over."
  },
  {
   "id": "questsent:0266:10",
   "jp": "精霊に力、借りる。",
   "refs": 3,
-  "en": ""
+  "en": "Spirits lend might"
  },
  {
   "id": "questsent:0267:08",
   "jp": "精霊が教えた",
   "refs": 1,
-  "en": ""
+  "en": "Spirits told:"
  },
  {
   "id": "questsent:0267:0c",
   "jp": "毒虫、大地を覆う。",
   "refs": 1,
-  "en": ""
+  "en": "Toxic bugs swarm."
  },
  {
   "id": "questsent:0267:14",
   "jp": "やらねばならない。",
   "refs": 5,
-  "en": ""
+  "en": "It must be done."
  },
  {
   "id": "questsent:0268:08",
   "jp": "予言が伝える",
   "refs": 1,
-  "en": ""
+  "en": "Prophecy tells:"
  },
  {
   "id": "questsent:0268:0c",
   "jp": "千本の稲妻が襲う。",
   "refs": 1,
-  "en": ""
+  "en": "1,000 bolts hit."
  },
  {
   "id": "questsent:0269:08",
   "jp": "約束の地",
   "refs": 1,
-  "en": ""
+  "en": "Promised land."
  },
  {
   "id": "questsent:0269:0c",
   "jp": "戦いが始まる。",
   "refs": 1,
-  "en": ""
+  "en": "War begins."
  },
  {
   "id": "questsent:0269:10",
   "jp": "先祖が怒る、怖い。",
   "refs": 3,
-  "en": ""
+  "en": "Fear ancestor ire."
  },
  {
   "id": "questsent:0270:08",
   "jp": "世界の中心",
   "refs": 1,
-  "en": ""
+  "en": "Center of world."
  },
  {
   "id": "questsent:0270:0c",
   "jp": "災いの人、来たる。",
   "refs": 1,
-  "en": ""
+  "en": "Man of ruin comes."
  },
  {
   "id": "questsent:0271:08",
   "jp": "未知なる地",
   "refs": 1,
-  "en": ""
+  "en": "Unknown land."
  },
  {
   "id": "questsent:0271:0c",
   "jp": "黒き雨、降る。",
   "refs": 1,
-  "en": ""
+  "en": "Black rain falls."
  },
  {
   "id": "questsent:0287:00",
   "jp": "精霊鎮魂の儀",
   "refs": 1,
-  "en": ""
+  "en": "Sprite Requiem"
  },
  {
   "id": "questsent:0287:08",
   "jp": "見えぬものを見る",
   "refs": 1,
-  "en": ""
+  "en": "Sees the unseen,"
  },
  {
   "id": "questsent:0287:0c",
   "jp": "大いなる瞳…",
   "refs": 1,
-  "en": ""
+  "en": "the great eye..."
  },
  {
   "id": "questsent:0287:10",
   "jp": "最後の儀式、",
   "refs": 1,
-  "en": ""
+  "en": "Final ritual."
  },
  {
   "id": "questsent:0287:14",
   "jp": "先祖は知っていた。",
   "refs": 1,
-  "en": ""
+  "en": "ancestors knew."
  },
  {
   "id": "questsent:0287:18",
   "jp": "お前ならできると",
   "refs": 1,
-  "en": ""
+  "en": "You can do it--"
  },
  {
   "id": "questsent:0288:08",
   "jp": "我らを",
   "refs": 1,
-  "en": ""
+  "en": "Us,"
  },
  {
   "id": "questsent:0288:0c",
   "jp": "征服せんと",
   "refs": 1,
-  "en": ""
+  "en": "they'd conquer,"
  },
  {
   "id": "questsent:0288:10",
   "jp": "する不遜の輩",
   "refs": 1,
-  "en": ""
+  "en": "insolent rabble:"
  },
  {
   "id": "questsent:0288:14",
   "jp": "殲滅して頂けぬか。",
   "refs": 11,
-  "en": ""
+  "en": "Pray, annihilate."
  },
  {
   "id": "questsent:0289:08",
   "jp": "我らが帝都を",
   "refs": 1,
-  "en": ""
+  "en": "Our capital"
  },
  {
   "id": "questsent:0289:0c",
   "jp": "奪わんと",
   "refs": 1,
-  "en": ""
+  "en": "they'd seize,"
  },
  {
   "id": "questsent:0289:10",
   "jp": "考える不遜の輩",
   "refs": 1,
-  "en": ""
+  "en": "scheming rabble:"
  },
  {
   "id": "questsent:0290:08",
   "jp": "黄泉の国から",
   "refs": 1,
-  "en": ""
+  "en": "From the afterlife"
  },
  {
   "id": "questsent:0290:0c",
   "jp": "攻め入らんと",
   "refs": 1,
-  "en": ""
+  "en": "they'd invade,"
  },
  {
   "id": "questsent:0290:10",
   "jp": "企む不遜の輩",
   "refs": 1,
-  "en": ""
+  "en": "plotting rabble:"
  },
  {
   "id": "questsent:0291:08",
   "jp": "人々の大事なものを",
   "refs": 1,
-  "en": ""
+  "en": "People's treasures"
  },
  {
   "id": "questsent:0291:0c",
   "jp": "守らんと",
   "refs": 1,
-  "en": ""
+  "en": "they'd protect,"
  },
  {
   "id": "questsent:0291:10",
   "jp": "日々願う侮れぬ輩",
   "refs": 1,
-  "en": ""
+  "en": "earnest, tough lot"
  },
  {
   "id": "questsent:0292:08",
   "jp": "帝都の秘密を",
   "refs": 1,
-  "en": ""
+  "en": "Capital secrets"
  },
  {
   "id": "questsent:0292:0c",
   "jp": "ひと目見んと",
   "refs": 1,
-  "en": ""
+  "en": "they'd glimpse,"
  },
  {
   "id": "questsent:0292:10",
   "jp": "唆された不運な輩",
   "refs": 1,
-  "en": ""
+  "en": "misled, luckless:"
  },
  {
   "id": "questsent:0293:08",
   "jp": "門外不出の名品を",
   "refs": 1,
-  "en": ""
+  "en": "Our secret relic"
  },
  {
   "id": "questsent:0293:0c",
   "jp": "いつか盗まんと",
   "refs": 1,
-  "en": ""
+  "en": "to steal someday,"
  },
  {
   "id": "questsent:0293:10",
   "jp": "予告した不遜の輩",
   "refs": 1,
-  "en": ""
+  "en": "they warned, curs!"
  },
  {
   "id": "questsent:0294:08",
   "jp": "栄えある帝都軍を",
   "refs": 1,
-  "en": ""
+  "en": "Our glorious army"
  },
  {
   "id": "questsent:0294:0c",
   "jp": "葬り去ろうと",
   "refs": 1,
-  "en": ""
+  "en": "they'd bury,"
  },
  {
   "id": "questsent:0294:10",
   "jp": "暗躍する異端の輩",
   "refs": 1,
-  "en": ""
+  "en": "scheming heretics:"
  },
  {
   "id": "questsent:0295:08",
   "jp": "人々を",
   "refs": 1,
-  "en": ""
+  "en": "The people"
  },
  {
   "id": "questsent:0295:0c",
   "jp": "混乱させんと",
   "refs": 1,
-  "en": ""
+  "en": "they'd confuse,"
  },
  {
   "id": "questsent:0295:10",
   "jp": "噂された注目の輩",
   "refs": 1,
-  "en": ""
+  "en": "notorious rabble:"
  },
  {
   "id": "questsent:0296:08",
   "jp": "長年の研究成果を",
   "refs": 1,
-  "en": ""
+  "en": "Years of research"
  },
  {
   "id": "questsent:0296:0c",
   "jp": "取り戻さんと",
   "refs": 1,
-  "en": ""
+  "en": "they'd reclaim,"
  },
  {
   "id": "questsent:0296:10",
   "jp": "検討中の気弱な輩",
   "refs": 1,
-  "en": ""
+  "en": "timid ditherers:"
  },
  {
   "id": "questsent:0297:08",
   "jp": "不要な廃棄物を",
   "refs": 1,
-  "en": ""
+  "en": "Unwanted waste"
  },
  {
   "id": "questsent:0297:0c",
   "jp": "運び去ろうと",
   "refs": 1,
-  "en": ""
+  "en": "they'd haul off,"
  },
  {
   "id": "questsent:0297:10",
   "jp": "集結する迷惑な輩",
   "refs": 1,
-  "en": ""
+  "en": "massing nuisances:"
  },
  {
   "id": "questsent:0298:08",
   "jp": "とこしえの帝都を",
   "refs": 1,
-  "en": ""
+  "en": "Our eternal city"
  },
  {
   "id": "questsent:0298:0c",
   "jp": "呪わんと",
   "refs": 1,
-  "en": ""
+  "en": "they tried cursing"
  },
  {
   "id": "questsent:0298:10",
   "jp": "試した不遜の輩",
   "refs": 1,
-  "en": ""
+  "en": "insolent rabble:"
  },
  {
   "id": "questsent:0299:08",
   "jp": "偉大なる帝都軍を",
   "refs": 1,
-  "en": ""
+  "en": "Our great army"
  },
  {
   "id": "questsent:0299:0c",
   "jp": "称えるために",
   "refs": 1,
-  "en": ""
+  "en": "to honor,"
  },
  {
   "id": "questsent:0299:10",
   "jp": "君の力が必要だ。",
   "refs": 2,
-  "en": ""
+  "en": "we need your help."
  },
  {
   "id": "questsent:0299:14",
   "jp": "用意して頂けぬか。",
   "refs": 8,
-  "en": ""
+  "en": "Pray, procure it."
  },
  {
   "id": "questsent:0300:08",
   "jp": "我が帝都軍の力を",
   "refs": 1,
-  "en": ""
+  "en": "Our army's might"
  },
  {
   "id": "questsent:0300:0c",
   "jp": "回復するために",
   "refs": 1,
-  "en": ""
+  "en": "to restore,"
  },
  {
   "id": "questsent:0301:08",
   "jp": "乱れ切った秩序を",
   "refs": 1,
-  "en": ""
+  "en": "Our broken order"
  },
  {
   "id": "questsent:0301:0c",
   "jp": "維持するために",
   "refs": 1,
-  "en": ""
+  "en": "to maintain,"
  },
  {
   "id": "questsent:0301:10",
   "jp": "儀式に使う",
   "refs": 2,
-  "en": ""
+  "en": "for a ritual:"
  },
  {
   "id": "questsent:0302:08",
   "jp": "薄汚れた土地を",
   "refs": 1,
-  "en": ""
+  "en": "The sullied land"
  },
  {
   "id": "questsent:0302:0c",
   "jp": "鼓舞するために",
   "refs": 1,
-  "en": ""
+  "en": "to rouse,"
  },
  {
   "id": "questsent:0303:08",
   "jp": "神聖な霊場を",
   "refs": 1,
-  "en": ""
+  "en": "The holy grounds"
  },
  {
   "id": "questsent:0303:0c",
   "jp": "美しく飾るために",
   "refs": 1,
-  "en": ""
+  "en": "to adorn,"
  },
  {
   "id": "questsent:0303:10",
   "jp": "奉納すべき",
   "refs": 2,
-  "en": ""
+  "en": "as an offering:"
  },
  {
   "id": "questsent:0304:08",
   "jp": "危険な歓楽街を",
   "refs": 1,
-  "en": ""
+  "en": "Dangerous downtown"
  },
  {
   "id": "questsent:0304:0c",
   "jp": "静寂で満たすために",
   "refs": 1,
-  "en": ""
+  "en": "to fill with calm,"
  },
  {
   "id": "questsent:0305:08",
   "jp": "怒れる土地神を",
   "refs": 1,
-  "en": ""
+  "en": "The angry land god"
  },
  {
   "id": "questsent:0305:0c",
   "jp": "宥めるために",
   "refs": 1,
-  "en": ""
+  "en": "to appease,"
  },
  {
   "id": "questsent:0305:10",
   "jp": "かつて失われた",
   "refs": 2,
-  "en": ""
+  "en": "the long-lost"
  },
  {
   "id": "questsent:0306:08",
   "jp": "増え過ぎた地域猫を",
   "refs": 1,
-  "en": ""
+  "en": "Excess local cats"
  },
  {
   "id": "questsent:0306:0c",
   "jp": "移動させるために",
   "refs": 1,
-  "en": ""
+  "en": "to relocate,"
  },
  {
   "id": "questsent:0307:08",
   "jp": "邪悪な意識が",
   "refs": 1,
-  "en": ""
+  "en": "An evil will"
  },
  {
   "id": "questsent:0307:0c",
   "jp": "復活してしまう。",
   "refs": 1,
-  "en": ""
+  "en": "is reviving."
  },
  {
   "id": "questsent:0307:10",
   "jp": "帝都防衛のため",
   "refs": 4,
-  "en": ""
+  "en": "To guard the city,"
  },
  {
   "id": "questsent:0307:14",
   "jp": "執り行いたいのだ。",
   "refs": 11,
-  "en": ""
+  "en": "we would hold it."
  },
  {
   "id": "questsent:0308:08",
   "jp": "邪な輩が",
   "refs": 1,
-  "en": ""
+  "en": "Vile rogues"
  },
  {
   "id": "questsent:0308:0c",
   "jp": "海を越えてきた。",
   "refs": 1,
-  "en": ""
+  "en": "crossed the sea."
  },
  {
   "id": "questsent:0309:08",
   "jp": "浮かばれぬ魂が",
   "refs": 1,
-  "en": ""
+  "en": "Restless souls"
  },
  {
   "id": "questsent:0309:0c",
   "jp": "街を漂っている。",
   "refs": 1,
-  "en": ""
+  "en": "drift in the city."
  },
  {
   "id": "questsent:0310:08",
   "jp": "霊的な存在が",
   "refs": 1,
-  "en": ""
+  "en": "Ghostly beings"
  },
  {
   "id": "questsent:0310:0c",
   "jp": "人心を堕落させる。",
   "refs": 1,
-  "en": ""
+  "en": "corrupt hearts."
  },
  {
   "id": "questsent:0311:08",
   "jp": "悪しきものどもが",
   "refs": 1,
-  "en": ""
+  "en": "Evil things"
  },
  {
   "id": "questsent:0311:0c",
   "jp": "経済を混乱させる。",
   "refs": 1,
-  "en": ""
+  "en": "ruin the economy."
  },
  {
   "id": "questsent:0311:10",
   "jp": "霊魂を鎮めるため",
   "refs": 4,
-  "en": ""
+  "en": "To calm the souls,"
  },
  {
   "id": "questsent:0312:08",
   "jp": "恐ろしい存在が",
   "refs": 1,
-  "en": ""
+  "en": "Fearsome beings"
  },
  {
   "id": "questsent:0312:0c",
   "jp": "人々を不安にする。",
   "refs": 1,
-  "en": ""
+  "en": "unsettle people."
  },
  {
   "id": "questsent:0313:08",
   "jp": "何者かが",
   "refs": 1,
-  "en": ""
+  "en": "Someone"
  },
  {
   "id": "questsent:0313:0c",
   "jp": "食事を不味くする。",
   "refs": 1,
-  "en": ""
+  "en": "ruins our meals."
  },
  {
   "id": "questsent:0314:08",
   "jp": "罪深きものが",
   "refs": 1,
-  "en": ""
+  "en": "Before sinners"
  },
  {
   "id": "questsent:0314:0c",
   "jp": "不幸を呼ぶ前に",
   "refs": 1,
-  "en": ""
+  "en": "bring misfortune,"
  },
  {
   "id": "questsent:0315:08",
   "jp": "巨大なネズミが",
   "refs": 1,
-  "en": ""
+  "en": "Lest giant rats"
  },
  {
   "id": "questsent:0315:0c",
   "jp": "溢れ出さぬよう",
   "refs": 1,
-  "en": ""
+  "en": "overrun us,"
  },
  {
   "id": "questsent:0315:10",
   "jp": "この地を清めるため",
   "refs": 3,
-  "en": ""
+  "en": "To purify the land"
  },
  {
   "id": "questsent:0316:08",
   "jp": "澱んだ風が",
   "refs": 1,
-  "en": ""
+  "en": "Lest stale winds"
  },
  {
   "id": "questsent:0316:0c",
   "jp": "増えぬよう",
   "refs": 1,
-  "en": ""
+  "en": "multiply,"
  },
  {
   "id": "questsent:0317:08",
   "jp": "ぬめぬめした触手が",
   "refs": 1,
-  "en": ""
+  "en": "Slimy tentacles"
  },
  {
   "id": "questsent:0317:0c",
   "jp": "我らを悩ます…",
   "refs": 1,
-  "en": ""
+  "en": "plague us..."
  },
  {
   "id": "questsent:0319:00",
   "jp": "青大邪の討",
   "refs": 1,
-  "en": ""
+  "en": "Slay Blue Evil"
  },
  {
   "id": "questsent:0319:08",
   "jp": "洞に入れぬ我ら",
   "refs": 1,
-  "en": ""
+  "en": "The Hollow bars us"
  },
  {
   "id": "questsent:0319:0c",
   "jp": "帝都軍に代わって、",
   "refs": 1,
-  "en": ""
+  "en": "the Army. For us,"
  },
  {
   "id": "questsent:0319:10",
   "jp": "霊道を辿り",
   "refs": 1,
-  "en": ""
+  "en": "via the spirit way"
  },
  {
   "id": "questsent:0319:14",
   "jp": "討って頂きたい。",
   "refs": 1,
-  "en": ""
+  "en": "please slay it."
  },
  {
   "id": "questsent:0319:18",
   "jp": "宿敵の大怨霊を",
   "refs": 1,
-  "en": ""
+  "en": "our nemesis wraith"
  }
 ]

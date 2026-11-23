@@ -3,1152 +3,1152 @@
   "id": "enemy:0000:04",
   "jp": "甲型狗児十六號",
   "refs": 3,
-  "en": ""
+  "en": "Type-A Enokoro #16"
  },
  {
   "id": "enemy:0000:08",
   "jp": "研究用にＯＸＡＳで生み出された、\n人工的な隠人。\n闘争、防衛本能を残しつつ、研究用\nに戦闘力が削がれている。",
   "refs": 3,
-  "en": ""
+  "en": "An artificial Oni made by OXAS\nfor research. Its fight and\ndefense instincts remain, but\nits power is cut for study."
  },
  {
   "id": "enemy:0001:04",
   "jp": "甲型目脹十號",
   "refs": 3,
-  "en": ""
+  "en": "Type-A Mebari #10"
  },
  {
   "id": "enemy:0001:08",
   "jp": "研究用にＯＸＡＳで生み出された、\n人工的な隠人。\n隠人の構造研究のため、意図的に\n弱点の耐久力が低く作られている。",
   "refs": 3,
-  "en": ""
+  "en": "An artificial Oni made by OXAS\nfor research. To study Oni\nstructure, its weak point was\nmade frail on purpose."
  },
  {
   "id": "enemy:0002:04",
   "jp": "甲型嚔八號",
   "refs": 3,
-  "en": ""
+  "en": "Type-A Kusame #8"
  },
  {
   "id": "enemy:0002:08",
   "jp": "研究用にＯＸＡＳで生み出された、\n人工的な隠人。\n初期に作られた試験体のため、\n安定しておらず体力が少ない。",
   "refs": 3,
-  "en": ""
+  "en": "An artificial Oni made by OXAS\nfor research. An early test\nsubject, it is unstable and has\nlow Stamina."
  },
  {
   "id": "enemy:0003:04",
   "jp": "狗児",
   "refs": 5,
-  "en": ""
+  "en": "Enokoro"
  },
  {
   "id": "enemy:0003:08",
   "jp": "迷い込んだ野犬が隠人化した\nもの。近くにいる生物に噛み\n付こうとする。",
   "refs": 28,
-  "en": ""
+  "en": "A stray dog that wandered in and\nbecame an Oni. It tries to bite\nany living thing nearby."
  },
  {
   "id": "enemy:0004:04",
   "jp": "狗児(春の洞)",
   "refs": 7,
-  "en": ""
+  "en": "Enokoro (Spring)"
  },
  {
   "id": "enemy:0005:04",
   "jp": "狗児(冬の洞)",
   "refs": 6,
-  "en": ""
+  "en": "Enokoro (Winter)"
  },
  {
   "id": "enemy:0006:04",
   "jp": "狗児(夏の洞)",
   "refs": 5,
-  "en": ""
+  "en": "Enokoro (Summer)"
  },
  {
   "id": "enemy:0007:04",
   "jp": "狗児(龍珠堂)",
   "refs": 5,
-  "en": ""
+  "en": "Enokoro (Ryujudo)"
  },
  {
   "id": "enemy:0008:04",
   "jp": "目脹",
   "refs": 5,
-  "en": ""
+  "en": "Mebari"
  },
  {
   "id": "enemy:0008:08",
   "jp": "隠人化した蜥蜴。尾に浮き出た\n模様で威嚇しながら、侵入者を\n攻撃してくる。",
   "refs": 26,
-  "en": ""
+  "en": "A lizard turned Oni. It attacks\nintruders while threatening them\nwith the pattern on its tail."
  },
  {
   "id": "enemy:0009:04",
   "jp": "目脹(春の洞)",
   "refs": 5,
-  "en": ""
+  "en": "Mebari (Spring)"
  },
  {
   "id": "enemy:0010:04",
   "jp": "目脹(冬の洞)",
   "refs": 5,
-  "en": ""
+  "en": "Mebari (Winter)"
  },
  {
   "id": "enemy:0011:04",
   "jp": "目脹(夏の洞)",
   "refs": 6,
-  "en": ""
+  "en": "Mebari (Summer)"
  },
  {
   "id": "enemy:0012:04",
   "jp": "目脹(龍珠堂)",
   "refs": 5,
-  "en": ""
+  "en": "Mebari (Ryujudo)"
  },
  {
   "id": "enemy:0013:04",
   "jp": "嚔",
   "refs": 5,
-  "en": ""
+  "en": "Kusame"
  },
  {
   "id": "enemy:0013:08",
   "jp": "洞穴に巣くう蝙蝠が隠人化した\nもの。地下から出ようとせず、\n迷い込んだ生物を片っ端から\n襲う。",
   "refs": 27,
-  "en": ""
+  "en": "Cave bats turned Oni. They never\nleave the underground, attacking\nevery creature that strays in."
  },
  {
   "id": "enemy:0014:04",
   "jp": "嚔(春の洞)",
   "refs": 6,
-  "en": ""
+  "en": "Kusame (Spring)"
  },
  {
   "id": "enemy:0015:04",
   "jp": "嚔(冬の洞)",
   "refs": 5,
-  "en": ""
+  "en": "Kusame (Winter)"
  },
  {
   "id": "enemy:0016:04",
   "jp": "嚔(夏の洞)",
   "refs": 6,
-  "en": ""
+  "en": "Kusame (Summer)"
  },
  {
   "id": "enemy:0017:04",
   "jp": "嚔(龍珠堂)",
   "refs": 5,
-  "en": ""
+  "en": "Kusame (Ryujudo)"
  },
  {
   "id": "enemy:0018:04",
   "jp": "茴香",
   "refs": 5,
-  "en": ""
+  "en": "Uikyo"
  },
  {
   "id": "enemy:0018:08",
   "jp": "死体から生えた茸が隠人化した\nもの。人間に見えるのは\nまやかしで、本体は茸。",
   "refs": 25,
-  "en": ""
+  "en": "A mushroom grown from a corpse,\nturned Oni. Its human look is a\ntrick; its true body is the\nmushroom."
  },
  {
   "id": "enemy:0019:04",
   "jp": "茴香(春の洞)",
   "refs": 5,
-  "en": ""
+  "en": "Uikyo (Spring)"
  },
  {
   "id": "enemy:0020:04",
   "jp": "茴香(冬の洞)",
   "refs": 5,
-  "en": ""
+  "en": "Uikyo (Winter)"
  },
  {
   "id": "enemy:0021:04",
   "jp": "茴香(夏の洞)",
   "refs": 5,
-  "en": ""
+  "en": "Uikyo (Summer)"
  },
  {
   "id": "enemy:0022:04",
   "jp": "茴香(龍珠堂)",
   "refs": 5,
-  "en": ""
+  "en": "Uikyo (Ryujudo)"
  },
  {
   "id": "enemy:0023:04",
   "jp": "石斛",
   "refs": 5,
-  "en": ""
+  "en": "Sekkoku"
  },
  {
   "id": "enemy:0023:08",
   "jp": "古代の土器や遺跡の一部が変異\nした隠人。周囲にある泥や岩\nなどと融合している。",
   "refs": 26,
-  "en": ""
+  "en": "An Oni mutated from ancient\npottery or bits of ruins. It has\nfused with the mud and rock\naround it."
  },
  {
   "id": "enemy:0024:04",
   "jp": "石斛(春の洞)",
   "refs": 5,
-  "en": ""
+  "en": "Sekkoku (Spring)"
  },
  {
   "id": "enemy:0025:04",
   "jp": "石斛(冬の洞)",
   "refs": 6,
-  "en": ""
+  "en": "Sekkoku (Winter)"
  },
  {
   "id": "enemy:0026:04",
   "jp": "石斛(夏の洞)",
   "refs": 5,
-  "en": ""
+  "en": "Sekkoku (Summer)"
  },
  {
   "id": "enemy:0027:04",
   "jp": "石斛(龍珠堂)",
   "refs": 5,
-  "en": ""
+  "en": "Sekkoku (Ryujudo)"
  },
  {
   "id": "enemy:0028:04",
   "jp": "火棘",
   "refs": 6,
-  "en": ""
+  "en": "Kakyoku"
  },
  {
   "id": "enemy:0028:08",
   "jp": "古代に使われた祭具が変異した\n隠人。それ自体に意思のような\nものはないが、近づくものは\nすべて攻撃してくる。",
   "refs": 6,
-  "en": ""
+  "en": "An Oni mutated from an ancient\nritual tool. It has no will of\nits own, but attacks all that\ncome near."
  },
  {
   "id": "enemy:0029:04",
   "jp": "筮萩",
   "refs": 6,
-  "en": ""
+  "en": "Medohagi"
  },
  {
   "id": "enemy:0029:08",
   "jp": "古代の巫女の情報が、花札に\nよって実体化された隠人。\n神に捧げていた剣舞を使い、\n攻撃してくる。",
   "refs": 6,
-  "en": ""
+  "en": "An ancient shrine maiden's data\nmade real as an Oni by hanafuda.\nIt attacks with sword dances\nonce offered to the gods."
  },
  {
   "id": "enemy:0030:04",
   "jp": "皀莢",
   "refs": 5,
-  "en": ""
+  "en": "Saikachi"
  },
  {
   "id": "enemy:0030:08",
   "jp": "蝉の抜け殻に何者かの魂が入り\n込み、隠人となったもの。",
   "refs": 5,
-  "en": ""
+  "en": "A cicada's shed shell that\nsomeone's soul crept into,\nturning it into an Oni."
  },
  {
   "id": "enemy:0031:04",
   "jp": "加籃",
   "refs": 5,
-  "en": ""
+  "en": "Karan"
  },
  {
   "id": "enemy:0031:08",
   "jp": "遮光器土偶が隠人化したもの。\nどのような情報が取り込まれた\nのか、非常に戦闘的な兵器と\nなっている。",
   "refs": 5,
-  "en": ""
+  "en": "A goggle-eyed dogu figurine\nturned Oni. Whatever data it\ntook in made it a fiercely\nwarlike weapon."
  },
  {
   "id": "enemy:0032:04",
   "jp": "羅摩",
   "refs": 5,
-  "en": ""
+  "en": "Gagaimo"
  },
  {
   "id": "enemy:0032:08",
   "jp": "洞に潜むナメクジが隠人化した\nもの。銅鐸を住みかとし、片時も\n離れない。",
   "refs": 5,
-  "en": ""
+  "en": "A slug lurking in the Hollow,\nturned Oni. It lives in a bronze\ndotaku bell and never leaves it."
  },
  {
   "id": "enemy:0033:04",
   "jp": "木令",
   "refs": 5,
-  "en": ""
+  "en": "Mokurei"
  },
  {
   "id": "enemy:0033:08",
   "jp": "古代に作られた埴輪が隠人化した\nもの。外見の通り、侵入者を攻撃\nする戦士である。",
   "refs": 5,
-  "en": ""
+  "en": "An ancient haniwa figure turned\nOni. Just as it looks, it is a\nwarrior that attacks intruders."
  },
  {
   "id": "enemy:0034:04",
   "jp": "笑靨",
   "refs": 5,
-  "en": ""
+  "en": "Ekubo"
  },
  {
   "id": "enemy:0034:08",
   "jp": "捨てられた招き猫が変化して隠人\nとなったもの。捨てられた恨みが\nあるのか、禍を招く猫になって\nいる。",
   "refs": 5,
-  "en": ""
+  "en": "A discarded beckoning cat turned\nOni. Bitter at being thrown\naway, perhaps, it now beckons\ndisaster."
  },
  {
   "id": "enemy:0035:04",
   "jp": "御形",
   "refs": 6,
-  "en": ""
+  "en": "Gogyo"
  },
  {
   "id": "enemy:0035:08",
   "jp": "陰陽師の使う式神が隠人化した\nもの。上に乗った人型が肉体美を\n誇示しようとするが、常人には\n気色悪い。",
   "refs": 6,
-  "en": ""
+  "en": "An onmyoji's shikigami turned\nOni. The figure on top flaunts\nits physique, but most people\nfind it gross."
  },
  {
   "id": "enemy:0036:04",
   "jp": "著莪",
   "refs": 5,
-  "en": ""
+  "en": "Shaga"
  },
  {
   "id": "enemy:0036:08",
   "jp": "楽器の琵琶が隠人化したもの。\n洞を徘徊し、自らが奏でる\n怪音波を聴かせようとする。",
   "refs": 5,
-  "en": ""
+  "en": "A biwa lute turned Oni. It roams\nthe Hollow, trying to make\nothers hear its eerie sound\nwaves."
  },
  {
   "id": "enemy:0037:04",
   "jp": "素馨",
   "refs": 6,
-  "en": ""
+  "en": "Sokei"
  },
  {
   "id": "enemy:0037:08",
   "jp": "神社に祀られた狐が隠人化した\nもの。八つに分かたれた尾を\n使って攻撃してくる。",
   "refs": 6,
-  "en": ""
+  "en": "A fox enshrined at a shrine,\nturned Oni. It attacks with its\ntail, which is split into eight."
  },
  {
   "id": "enemy:0038:04",
   "jp": "華鬘",
   "refs": 5,
-  "en": ""
+  "en": "Keman"
  },
  {
   "id": "enemy:0038:08",
   "jp": "仏像の情報が実体化し、隠人と\nなったもの。レーザーのような\n光線を放つ。",
   "refs": 5,
-  "en": ""
+  "en": "A Buddha statue's data made real\nas an Oni. It fires laser-like\nbeams."
  },
  {
   "id": "enemy:0039:04",
   "jp": "傾籠",
   "refs": 6,
-  "en": ""
+  "en": "Keiro"
  },
  {
   "id": "enemy:0039:08",
   "jp": "牛車の情報が実体化し、隠人と\nなったもの。籠で人を運ぶような\n優雅さはなくなり、猛牛のごとく\n襲いかかってくる。",
   "refs": 6,
-  "en": ""
+  "en": "An ox cart's data made real as\nan Oni. With none of a\ncarriage's grace, it charges\nlike a raging bull."
  },
  {
   "id": "enemy:0040:04",
   "jp": "鳶尾",
   "refs": 5,
-  "en": ""
+  "en": "Ichihatsu"
  },
  {
   "id": "enemy:0040:08",
   "jp": "陰陽師の骸が隠人化したもの。\n生者を憎み、見つけ次第滅さんと\n執拗に後を追ってくる。",
   "refs": 5,
-  "en": ""
+  "en": "An onmyoji's corpse turned Oni.\nHating the living, it hounds\nthem, set on destroying any it\nfinds."
  },
  {
   "id": "enemy:0041:04",
   "jp": "比佐岐",
   "refs": 5,
-  "en": ""
+  "en": "Hisagi"
  },
  {
   "id": "enemy:0041:08",
   "jp": "冬山で死んだ女たちの霊が\n集まり、隠人となったもの。\n凍てついた心を氷と変えて\n攻撃してくる。",
   "refs": 5,
-  "en": ""
+  "en": "Spirits of women who died on\nwinter mountains, gathered as an\nOni. It attacks with frozen\nhearts turned to ice."
  },
  {
   "id": "enemy:0042:04",
   "jp": "福寿",
   "refs": 5,
-  "en": ""
+  "en": "Fukuju"
  },
  {
   "id": "enemy:0042:08",
   "jp": "梟が隠人となったもの。洞を\n騒がすものを撃退せんと\n襲ってくる。",
   "refs": 5,
-  "en": ""
+  "en": "An owl turned Oni. It attacks to\ndrive off any who disturb the\nHollow."
  },
  {
   "id": "enemy:0043:04",
   "jp": "越天",
   "refs": 6,
-  "en": ""
+  "en": "Etten"
  },
  {
   "id": "enemy:0043:08",
   "jp": "錦鯉が隠人化したもの。空中を\n泳ぎながら、餌になる生物を\n待ち構えている。",
   "refs": 6,
-  "en": ""
+  "en": "A fancy koi turned Oni. Swimming\nthrough the air, it lies in wait\nfor living prey."
  },
  {
   "id": "enemy:0044:04",
   "jp": "鬼目突",
   "refs": 5,
-  "en": ""
+  "en": "Onimetsuki"
  },
  {
   "id": "enemy:0044:08",
   "jp": "かつて戦で死んだ寺の僧兵が\n花札により再構築された隠人。\n飛び六法で動きつつ、\n大きな槌を振り回す。",
   "refs": 5,
-  "en": ""
+  "en": "Warrior monks who died in\nbattle, rebuilt as an Oni by\nhanafuda. It swings a big mallet\nas it leaps about."
  },
  {
   "id": "enemy:0045:04",
   "jp": "鍔木",
   "refs": 6,
-  "en": ""
+  "en": "Tsubaki"
  },
  {
   "id": "enemy:0045:08",
   "jp": "蠢く虫の大群がまとまって\n隠人化したもの。落ち武者の\n遺した武器を振るってくる。",
   "refs": 6,
-  "en": ""
+  "en": "A swarm of writhing bugs massed\ninto an Oni. It swings weapons\nleft by fallen warriors."
  },
  {
   "id": "enemy:0046:04",
   "jp": "虎杖",
   "refs": 6,
-  "en": ""
+  "en": "Itadori"
  },
  {
   "id": "enemy:0046:08",
   "jp": "古い金屏風が隠人となったもの。\n描かれた虎が一部実体化して、\n襲い掛かってくる。",
   "refs": 6,
-  "en": ""
+  "en": "An old gold folding screen\nturned Oni. The tiger painted on\nit partly takes form and\nattacks."
  },
  {
   "id": "enemy:0047:04",
   "jp": "擬宝珠",
   "refs": 6,
-  "en": ""
+  "en": "Giboshi"
  },
  {
   "id": "enemy:0047:08",
   "jp": "骨董品の蛙の彫刻が隠人化した\nもの。一風変わった、忍術の\nような攻撃をしてくる。",
   "refs": 6,
-  "en": ""
+  "en": "An antique frog carving turned\nOni. It uses odd attacks a lot\nlike ninjutsu."
  },
  {
   "id": "enemy:0048:04",
   "jp": "凌霄",
   "refs": 7,
-  "en": ""
+  "en": "Ryosho"
  },
  {
   "id": "enemy:0048:08",
   "jp": "深海魚のリュウグウノツカイが\n隠人化したもの。鋭利な鰭を\n刀のように使い、攻撃してくる。",
   "refs": 7,
-  "en": ""
+  "en": "A deep-sea oarfish turned Oni.\nIt attacks with sharp fins it\nuses like swords."
  },
  {
   "id": "enemy:0049:04",
   "jp": "呵梨靱",
   "refs": 5,
-  "en": ""
+  "en": "Kariroku"
  },
  {
   "id": "enemy:0049:08",
   "jp": "上等な反物が隠人となったもの。\n複数の反物から成るが、群体と\n同じで、これで一体の隠人として\n行動する。",
   "refs": 5,
-  "en": ""
+  "en": "Fine bolts of cloth turned Oni.\nMade of many bolts, it acts as a\nsingle Oni, like a colony."
  },
  {
   "id": "enemy:0050:04",
   "jp": "蔓荊",
   "refs": 5,
-  "en": ""
+  "en": "Hamago"
  },
  {
   "id": "enemy:0050:08",
   "jp": "江戸時代に使われた火消しの道具\n「纏」が隠人化したもの。\nクラゲのような質感を持ち、\n触手で攻撃してくる。",
   "refs": 5,
-  "en": ""
+  "en": "A matoi, an Edo fire brigade's\nstandard, turned Oni.\nJellyfish-like in texture, it\nattacks with tentacles."
  },
  {
   "id": "enemy:0051:04",
   "jp": "銀泥",
   "refs": 7,
-  "en": ""
+  "en": "Gindei"
  },
  {
   "id": "enemy:0051:08",
   "jp": "からくり人形が隠人化したもの。\nガトリング砲の情報が付加されて\nおり、強力な自走兵器となって\n洞を彷徨っている。",
   "refs": 7,
-  "en": ""
+  "en": "A karakuri doll turned Oni.\nFused with Gatling gun data, it\nroams the Hollow as a mighty\nself-propelled weapon."
  },
  {
   "id": "enemy:0052:04",
   "jp": "萱草",
   "refs": 6,
-  "en": ""
+  "en": "Kanzo"
  },
  {
   "id": "enemy:0052:08",
   "jp": "狸が隠人化したもの。帝国軍人を\n真似た姿をしている。",
   "refs": 6,
-  "en": ""
+  "en": "A tanuki turned Oni. It is\ndressed like an imperial army\nsoldier."
  },
  {
   "id": "enemy:0053:04",
   "jp": "駆不須",
   "refs": 3,
-  "en": ""
+  "en": "Kufusu"
  },
  {
   "id": "enemy:0053:08",
   "jp": "兵器の情報が隠人化したもの。\n完全なる自動攻撃兵器として、\n侵入者を索敵・攻撃してくる。",
   "refs": 3,
-  "en": ""
+  "en": "Weapon data turned Oni. A fully\nautomatic attack weapon, it\nseeks out and attacks intruders."
  },
  {
   "id": "enemy:0054:04",
   "jp": "掛羅身",
   "refs": 3,
-  "en": ""
+  "en": "Karami"
  },
  {
   "id": "enemy:0054:08",
   "jp": "絶滅したドードー鳥が隠人と\nなったもの。騎士のような甲冑を\n着けて、深部を防衛する。",
   "refs": 3,
-  "en": ""
+  "en": "An extinct dodo turned Oni. Clad\nin knightly armor, it guards the\ndepths."
  },
  {
   "id": "enemy:0055:04",
   "jp": "阿琉孵",
   "refs": 3,
-  "en": ""
+  "en": "Arufu"
  },
  {
   "id": "enemy:0055:08",
   "jp": "動物の胎児が隠人となったもの。\n他の生物を極度に恐れており、\n叫び声のようなものを発する。",
   "refs": 3,
-  "en": ""
+  "en": "An animal fetus turned Oni.\nTerrified of other creatures, it\nlets out something like a\nscream."
  },
  {
   "id": "enemy:0056:04",
   "jp": "禮徒",
   "refs": 3,
-  "en": ""
+  "en": "Reito"
  },
  {
   "id": "enemy:0056:08",
   "jp": "百足が隠人化したもの。防衛の\nためではなく、破壊衝動を満たす\nために襲ってくる。",
   "refs": 3,
-  "en": ""
+  "en": "A centipede turned Oni. It\nattacks not to defend, but to\nsate its urge to destroy."
  },
  {
   "id": "enemy:0107:04",
   "jp": "乙型遠呂智七號",
   "refs": 1,
-  "en": ""
+  "en": "Type-B Orochi #7"
  },
  {
   "id": "enemy:0107:08",
   "jp": "人工的に作られた隠人。蛇が\nベースになっており、同様の\n攻撃を仕掛けてくる。",
   "refs": 1,
-  "en": ""
+  "en": "An artificial Oni. It is based\non a snake, and attacks like\none."
  },
  {
   "id": "enemy:0108:04",
   "jp": "白面",
   "refs": 1,
-  "en": ""
+  "en": "Hakumen"
  },
  {
   "id": "enemy:0108:08",
   "jp": "正体不明の敵。\nカミフダに似た力で動く。\n洞の氣にあてられ、\n秋の属性を帯びている。",
   "refs": 1,
-  "en": ""
+  "en": "An unknown enemy. It moves by a\npower like ORDS's. Touched by\nthe Hollow's ki, it bears the\nAutumn element."
  },
  {
   "id": "enemy:0109:04",
   "jp": "宍戸　長英",
   "refs": 1,
-  "en": ""
+  "en": "Nagahide Shishido"
  },
  {
   "id": "enemy:0109:08",
   "jp": "宍戸長英が隠人と化した姿。\n理性は既になく凶暴化している。\n花の咲いている部分は特に花札の\n浸食が激しい。",
   "refs": 1,
-  "en": ""
+  "en": "Nagahide Shishido turned Oni.\nHis reason is gone; he has gone\nberserk. Erosion is worst where\nthe flowers bloom."
  },
  {
   "id": "enemy:0110:04",
   "jp": "香ノ巣　絢人",
   "refs": 1,
-  "en": ""
+  "en": "Ayahito Konosu"
  },
  {
   "id": "enemy:0110:08",
   "jp": "日向輪を支援する情報屋。札の力\nを扱うが、浸食自体は浅い。\n具現化させた華を飾って、身体を\n護っている。",
   "refs": 1,
-  "en": ""
+  "en": "An informant aiding Rin Himukai.\nUses card power, but is only\nlightly eroded. Guards himself\nwith flowers made real."
  },
  {
   "id": "enemy:0111:04",
   "jp": "日向　輪",
   "refs": 1,
-  "en": ""
+  "en": "Rin Himukai"
  },
  {
   "id": "enemy:0111:08",
   "jp": "花札奪還を狙う旋火流忍者。札の\n力を扱うが、浸食自体は浅い。\n胸元で印を組む事で、氣を集中し\nている。",
   "refs": 1,
-  "en": ""
+  "en": "A Senka-ryu ninja out to retake\nthe hanafuda. Uses card power,\nbut is only lightly eroded.\nForms signs to focus ki."
  },
  {
   "id": "enemy:0112:04",
   "jp": "アンジー・D",
   "refs": 1,
-  "en": ""
+  "en": "Angie D."
  },
  {
   "id": "enemy:0112:08",
   "jp": "花札を狙う鬼印盗賊団幹部。\n強い精神力で札の浸食に抗い、\n力を使役する。魔術を行う際は\n腹部に氣を集中している。",
   "refs": 2,
-  "en": ""
+  "en": "Oni Mark Bandits officer after\nthe hanafuda. Willpower lets her\ndefy erosion and wield cards. Ki\nin her belly fuels magic."
  },
  {
   "id": "enemy:0113:04",
   "jp": "鬼丸　義王(盗賊団)",
   "refs": 1,
-  "en": ""
+  "en": "Gio Onimaru(Gang)"
  },
  {
   "id": "enemy:0113:08",
   "jp": "花札を狙う鬼印盗賊団頭目。\n強い精神力で札の浸食に抗い、\n力を使役する。構えを取るときは\n額に氣を集中している。",
   "refs": 2,
-  "en": ""
+  "en": "Oni Mark Bandits boss after the\nhanafuda. Willpower lets him\ndefy erosion and wield cards. In\na stance, ki fills his brow."
  },
  {
   "id": "enemy:0114:04",
   "jp": "鹿島　御霧(盗賊団)",
   "refs": 1,
-  "en": ""
+  "en": "Migiri Kashima(Gang)"
  },
  {
   "id": "enemy:0114:08",
   "jp": "花札を狙う鬼印盗賊団幹部。\n強い精神力で札の浸食に抗い、\n力を使役する。札の力をつがえる\n弓の持ち手に氣を集中している。",
   "refs": 1,
-  "en": ""
+  "en": "Oni Mark Bandits officer after\nthe hanafuda. Willpower lets her\ndefy erosion and wield cards. Ki\nfills her bow hand."
  },
  {
   "id": "enemy:0115:04",
   "jp": "アンジー・D(盗賊団)",
   "refs": 1,
-  "en": ""
+  "en": "Angie D.(Gang)"
  },
  {
   "id": "enemy:0116:04",
   "jp": "桜ニ幕",
   "refs": 1,
-  "en": ""
+  "en": "Cherry and Curtain"
  },
  {
   "id": "enemy:0116:08",
   "jp": "強力な光札が、自己を防衛する\nために実体化した隠人。桜の花と\n幕の意匠がそのまま現れている。",
   "refs": 1,
-  "en": ""
+  "en": "A powerful Bright card made real\nas an Oni to defend itself. It\nbears the cherry blossom and\ncurtain design as is."
  },
  {
   "id": "enemy:0117:04",
   "jp": "蒲生　道佳",
   "refs": 1,
-  "en": ""
+  "en": "Dokai Gamo"
  },
  {
   "id": "enemy:0117:08",
   "jp": "花札を狙う天才密教僧。\n強い精神力で札の浸食に抗い、\n力を使役する。真言を発する唇に\n氣を集中している。",
   "refs": 1,
-  "en": ""
+  "en": "A genius esoteric monk after the\nhanafuda. Willpower lets him\ndefy erosion and wield cards. Ki\nfills his chanting lips."
  },
  {
   "id": "enemy:0118:04",
   "jp": "鹿島　御霧(隠人化)",
   "refs": 1,
-  "en": ""
+  "en": "Migiri Kashima(Oni)"
  },
  {
   "id": "enemy:0118:08",
   "jp": "鹿島御霧が隠人と化した姿。\n花札を求めて凶暴化している。\n頭部に生えた角は、特に花札の\n浸食が激しい。",
   "refs": 1,
-  "en": ""
+  "en": "Migiri Kashima turned Oni. She\nhas gone berserk seeking the\nhanafuda. Erosion is worst in\nthe horns on her head."
  },
  {
   "id": "enemy:0119:04",
   "jp": "アンジー・D(隠人化)",
   "refs": 1,
-  "en": ""
+  "en": "Angie D (Oni)"
  },
  {
   "id": "enemy:0119:08",
   "jp": "アンジー・Ｄが隠人と化した姿。\n花札を求めて凶暴化している。\n鞭と化した指先は、特に花札の\n浸食が激しい。",
   "refs": 1,
-  "en": ""
+  "en": "Angie D turned Oni, driven wild\nby her hunger for hanafuda. Her\nwhip-like fingertips are the\nmost corroded."
  },
  {
   "id": "enemy:0120:04",
   "jp": "松ニ鶴",
   "refs": 1,
-  "en": ""
+  "en": "Pine and Crane"
  },
  {
   "id": "enemy:0120:08",
   "jp": "強力な光札が、自己を防衛する\nために実体化した隠人。鶴と松の\n意匠がそのまま現れている。",
   "refs": 1,
-  "en": ""
+  "en": "An Oni made flesh by a mighty\nBright card to defend itself. It\nbears the crane and pine design."
  },
  {
   "id": "enemy:0121:04",
   "jp": "武藤　いちる",
   "refs": 1,
-  "en": ""
+  "en": "Ichiru Muto"
  },
  {
   "id": "enemy:0121:08",
   "jp": "花札を賭けて闘いを挑む封札師。\n札の情報を自らに取り込み、力と\nしている。構えに隙はなく、髪が\n視界に入らない様まとめている。",
   "refs": 1,
-  "en": ""
+  "en": "A Card Sealer who duels for\nhanafuda, taking card data into\nherself as power. Flawless\nstance; hair tied back."
  },
  {
   "id": "enemy:0122:04",
   "jp": "筑紫　信維",
   "refs": 1,
-  "en": ""
+  "en": "Nobuyuki Chikushi"
  },
  {
   "id": "enemy:0122:08",
   "jp": "筑紫信維が隠人と化した姿。《隠\n者の杖》を媒介にした為、意識を\n保っている。柳と化した後頭部は\n特に花札の浸食が激しい。",
   "refs": 1,
-  "en": ""
+  "en": "Chikushi turned Oni. The\nHermit's Staff as medium keeps\nhim lucid. His willowed nape is\nthe most corroded."
  },
  {
   "id": "enemy:0123:04",
   "jp": "芒ニ月・壱式",
   "refs": 1,
-  "en": ""
+  "en": "Pampas and Moon I"
  },
  {
   "id": "enemy:0123:08",
   "jp": "強力な光札が、自己を防衛する\nために実体化した隠人。広範囲に\n影響を及ぼす力を持つ。",
   "refs": 1,
-  "en": ""
+  "en": "An Oni made flesh by a mighty\nBright card to defend itself.\nIts power reaches over a wide\narea."
  },
  {
   "id": "enemy:0124:04",
   "jp": "芒ニ月・分ケ身",
   "refs": 2,
-  "en": ""
+  "en": "Pampas and Moon Twin"
  },
  {
   "id": "enemy:0124:08",
   "jp": "強力な光札が、自らの手足として\n生み出した仮初めの隠人。",
   "refs": 1,
-  "en": ""
+  "en": "A makeshift Oni spawned by a\nmighty Bright card to serve as\nits own hands and feet."
  },
  {
   "id": "enemy:0125:08",
   "jp": "強力な光札が、追い詰められた際に\n生み出した仮初めの隠人。\n通常の「分ケ身」よりも、強力な\n力を持っている。",
   "refs": 1,
-  "en": ""
+  "en": "A makeshift Oni spawned by a\nmighty Bright card when\ncornered. Stronger than a normal\nClone."
  },
  {
   "id": "enemy:0126:04",
   "jp": "鬼丸　義王",
   "refs": 1,
-  "en": ""
+  "en": "Gio Onimaru"
  },
  {
   "id": "enemy:0127:04",
   "jp": "佐波守　紅緒",
   "refs": 1,
-  "en": ""
+  "en": "Benio Sawakami"
  },
  {
   "id": "enemy:0127:08",
   "jp": "謎の目的を持つ居合の達人。\n強い精神力で札の浸食に抗い、\n力を使役する。距離を読んで刀を\n構えるその姿に隙はない。",
   "refs": 1,
-  "en": ""
+  "en": "An iaido master with unknown\naims. Her Willpower resists card\nerosion as she wields its power.\nHer stance is flawless."
  },
  {
   "id": "enemy:0128:04",
   "jp": "芒ニ月・弐式",
   "refs": 1,
-  "en": ""
+  "en": "Pampas and Moon II"
  },
  {
   "id": "enemy:0128:08",
   "jp": "強力な光札が、自己を防衛する\nために実体化した隠人。月の\n意匠がそのまま現れている。",
   "refs": 1,
-  "en": ""
+  "en": "An Oni made flesh by a mighty\nBright card to defend itself. It\nbears the moon design."
  },
  {
   "id": "enemy:0129:04",
   "jp": "雉明　零",
   "refs": 1,
-  "en": ""
+  "en": "Rei Chiaki"
  },
  {
   "id": "enemy:0129:08",
   "jp": "封札師として自らの力を使役する\n鬼札の化身。活性化した札の力を\n余す事なく振るう。胸元に特殊な\n力場を形成している。",
   "refs": 1,
-  "en": ""
+  "en": "The Demon Card incarnate, a Card\nSealer wielding his own power to\nthe full. A special force field\nforms at his chest."
  },
  {
   "id": "enemy:0130:04",
   "jp": "五光ノ獣",
   "refs": 2,
-  "en": ""
+  "en": "Five Brights Beast"
  },
  {
   "id": "enemy:0130:08",
   "jp": "五枚の光札が鬼札に融合した\n隠人。もはや人の姿を留めず、\n巨大な獣の姿となっている。",
   "refs": 2,
-  "en": ""
+  "en": "An Oni of five Bright cards\nfused with the Demon Card. No\nlonger human, it has become a\ngiant beast."
  },
  {
   "id": "enemy:0131:04",
   "jp": "佐波守　紅緒(隠人化)",
   "refs": 1,
-  "en": ""
+  "en": "Benio Sawakami (Oni)"
  },
  {
   "id": "enemy:0131:08",
   "jp": "佐波守紅緒が隠人と化した姿。\n氣の流れを自在に操る事で、花札\nに侵食されて尚、その力を自らの\n意志で余す事なく振るう。",
   "refs": 1,
-  "en": ""
+  "en": "Benio Sawakami turned Oni.\nMastering the flow of ki, she\nwields her full power by her own\nwill, though corroded."
  },
  {
   "id": "enemy:0133:04",
   "jp": "楼　万黎",
   "refs": 1,
-  "en": ""
+  "en": "Banri Takadono"
  },
  {
   "id": "enemy:0133:08",
   "jp": "定められし未来の姿を知る男。\n花札の力を遙かに凌駕する氣を\nまとう。眉間に特殊な力場を形成\nしている。",
   "refs": 1,
-  "en": ""
+  "en": "A man who knows the fated\nfuture. His ki far surpasses the\ncards' power. A special force\nfield forms at his brow."
  },
  {
   "id": "enemy:0134:04",
   "jp": "三乗ノ王",
   "refs": 2,
-  "en": ""
+  "en": "Cubed King"
  },
  {
   "id": "enemy:0134:08",
   "jp": "情報化されていた超古代の存在が\n実体化したもの。想像を絶する\n力を秘めている。",
   "refs": 2,
-  "en": ""
+  "en": "An ancient being once stored as\ndata, now made flesh. It holds\nunimaginable power."
  },
  {
   "id": "enemy:0135:04",
   "jp": "柳ニ雨",
   "refs": 1,
-  "en": ""
+  "en": "Willow and Rain"
  },
  {
   "id": "enemy:0135:08",
   "jp": "強力な光札の影響が場に残り、\nコピーのような実体を持って\nしまった隠人。巨大な柳が\nイメージの中心となっている。",
   "refs": 1,
-  "en": ""
+  "en": "An Oni given copy-like form by a\nBright card's lingering\ninfluence. Its image centers on\na huge willow."
  },
  {
   "id": "enemy:0136:04",
   "jp": "桐ニ鳳凰",
   "refs": 1,
-  "en": ""
+  "en": "Paulownia Phoenix"
  },
  {
   "id": "enemy:0136:08",
   "jp": "強力な光札の影響が場に残り、\nコピーのような実体を持って\nしまった隠人。巨大な鳳凰が\nイメージの中心となっている。",
   "refs": 1,
-  "en": ""
+  "en": "An Oni given copy-like form by a\nBright card's lingering\ninfluence. Its image centers on\na huge phoenix."
  },
  {
   "id": "enemy:0137:04",
   "jp": "春秋ノ連",
   "refs": 1,
-  "en": ""
+  "en": "Spring-Autumn Link"
  },
  {
   "id": "enemy:0137:08",
   "jp": "春と秋の札の影響が場に残り、\nコピーのような実体を持って\nしまった隠人。月と鹿が\nイメージの中心となっている。",
   "refs": 1,
-  "en": ""
+  "en": "An Oni given copy-like form by\nspring and autumn cards'\nlingering influence. Its image\ncenters on moon and deer."
  },
  {
   "id": "enemy:0138:04",
   "jp": "冬夏ノ理",
   "refs": 1,
-  "en": ""
+  "en": "Winter-Summer Law"
  },
  {
   "id": "enemy:0138:08",
   "jp": "夏と冬の札の影響が場に残り、\nコピーのような実体を持って\nしまった隠人。猪と牡丹が\nイメージの中心となっている。",
   "refs": 1,
-  "en": ""
+  "en": "An Oni given copy-like form by\nsummer and winter cards'\nlingering influence. Its image\ncenters on boar and peony."
  },
  {
   "id": "enemy:0140:04",
   "jp": "大隠人 加籃",
   "refs": 1,
-  "en": ""
+  "en": "Great Oni Karan"
  },
  {
   "id": "enemy:0140:08",
   "jp": "複数の隠人の情報を取り込み、\n《大隠人》と化した加籃。\nより強力な光を放つ。",
   "refs": 1,
-  "en": ""
+  "en": "Karan, become a Great Oni by\nabsorbing the data of many Oni.\nIt emits an even stronger light."
  },
  {
   "id": "enemy:0141:04",
   "jp": "大隠人 皀莢",
   "refs": 1,
-  "en": ""
+  "en": "Great Oni Saikachi"
  },
  {
   "id": "enemy:0141:08",
   "jp": "複数の隠人の情報を取り込み、\n《大隠人》と化した皀莢。\nより強力な拳撃を放つ。",
   "refs": 1,
-  "en": ""
+  "en": "Saikachi, become a Great Oni by\nabsorbing the data of many Oni.\nIt throws even stronger punches."
  },
  {
   "id": "enemy:0142:04",
   "jp": "大隠人 素馨",
   "refs": 1,
-  "en": ""
+  "en": "Great Oni Sokei"
  },
  {
   "id": "enemy:0142:08",
   "jp": "複数の隠人の情報を取り込み、\n《大隠人》と化した素馨。\n堅固な肉体から、強力な攻撃を\n繰り出す。",
   "refs": 1,
-  "en": ""
+  "en": "Sokei, become a Great Oni by\nabsorbing the data of many Oni.\nIts sturdy body unleashes mighty\nattacks."
  },
  {
   "id": "enemy:0143:04",
   "jp": "大隠人 華鬘",
   "refs": 1,
-  "en": ""
+  "en": "Great Oni Keman"
  },
  {
   "id": "enemy:0143:08",
   "jp": "複数の隠人の情報を取り込み、\n《大隠人》と化した華鬘。\n堅固な肉体から、強力な攻撃を\n繰り出す。",
   "refs": 1,
-  "en": ""
+  "en": "Keman, become a Great Oni by\nabsorbing the data of many Oni.\nIts sturdy body unleashes mighty\nattacks."
  },
  {
   "id": "enemy:0144:04",
   "jp": "大隠人 傾籠",
   "refs": 1,
-  "en": ""
+  "en": "Great Oni Katago"
  },
  {
   "id": "enemy:0144:08",
   "jp": "複数の隠人の情報を取り込み、\n《大隠人》と化した傾籠。\n強化された肉体による突撃は、\n必殺の威力を持つ。",
   "refs": 1,
-  "en": ""
+  "en": "Katago, become a Great Oni by\nabsorbing the data of many Oni.\nIts charge with a stronger body\nis lethal."
  },
  {
   "id": "enemy:0145:04",
   "jp": "大隠人 比佐岐",
   "refs": 1,
-  "en": ""
+  "en": "Great Oni Hisagi"
  },
  {
   "id": "enemy:0145:08",
   "jp": "複数の隠人の情報を取り込み、\n《大隠人》と化した比佐岐。\n硬度の上がった氷塊により、\n攻守両面において強化された。",
   "refs": 1,
-  "en": ""
+  "en": "Hisagi, become a Great Oni by\nabsorbing the data of many Oni.\nHarder ice boosts its attack and\ndefense."
  },
  {
   "id": "enemy:0146:04",
   "jp": "大隠人 鍔木",
   "refs": 1,
-  "en": ""
+  "en": "Great Oni Tsubaki"
  },
  {
   "id": "enemy:0146:08",
   "jp": "複数の隠人の情報を取り込み、\n《大隠人》と化した鍔木。\n高密度な武者の情報により、\n剣捌きは達人の域となった。",
   "refs": 1,
-  "en": ""
+  "en": "Tsubaki, become a Great Oni by\nabsorbing the data of many Oni.\nDense warrior data makes it a\nmaster swordsman."
  },
  {
   "id": "enemy:0147:04",
   "jp": "大隠人 蔓荊",
   "refs": 1,
-  "en": ""
+  "en": "Great Oni Hamago"
  },
  {
   "id": "enemy:0147:08",
   "jp": "複数の隠人の情報を取り込み、\n《大隠人》と化した蔓荊。\n強靭さを増した触手をしならせ、\n近づく者を薙ぎ払う。",
   "refs": 1,
-  "en": ""
+  "en": "Hamago, become a Great Oni by\nabsorbing the data of many Oni.\nIts tougher tentacles sweep away\nall who near."
  },
  {
   "id": "enemy:0148:04",
   "jp": "大隠人 凌霄",
   "refs": 1,
-  "en": ""
+  "en": "Great Oni Nozen"
  },
  {
   "id": "enemy:0148:08",
   "jp": "複数の隠人の情報を取り込み、\n《大隠人》と化した凌霄。\n強化された肉体は、妖刀の如き\n斬れ味を持つに至った。",
   "refs": 1,
-  "en": ""
+  "en": "Nozen, become a Great Oni by\nabsorbing the data of many Oni.\nIts stronger body now cuts like\na cursed blade."
  },
  {
   "id": "enemy:0149:04",
   "jp": "金雀児",
   "refs": 1,
-  "en": ""
+  "en": "Enishida"
  },
  {
   "id": "enemy:0149:08",
   "jp": "愛猫家に飼われていた猫。\n洞に迷い込み呪言花札の\n影響を受けている。",
   "refs": 1,
-  "en": ""
+  "en": "A cat kept by a cat lover. It\nstrayed into the Hollow and fell\nunder the Curse Hanafuda's\ninfluence."
  },
  {
   "id": "enemy:0150:04",
   "jp": "元型遠呂智零號",
   "refs": 1,
-  "en": ""
+  "en": "Archetype Orochi 0"
  },
  {
   "id": "enemy:0150:08",
   "jp": "龍脈に巣食う隠人。\n洞を通る霊力を喰らう。\nＯＸＡＳの人工隠人は\nこの種の模倣にすぎない。",
   "refs": 1,
-  "en": ""
+  "en": "Oni nesting in the dragon vein,\neating spirit power passing the\nHollow. OXAS's man-made Oni only\ncopy it."
  },
  {
   "id": "enemy:0335:04",
   "jp": "ＯＲＤＳ封印体",
   "refs": 1,
-  "en": ""
+  "en": "Sealed ORDS"
  },
  {
   "id": "enemy:0335:08",
   "jp": "三乗ノ王の依代として封じられた、\nＯＲＤＳそのもの。\n蓄積された力は、球状の結界にて\n内側に凝縮されている。",
   "refs": 1,
-  "en": ""
+  "en": "ORDS itself, sealed as the\nvessel of the Cubed King. Its\nstored power is condensed inside\na spherical barrier."
  },
  {
   "id": "enemy:0336:04",
   "jp": "三乗ノ王・断片体",
   "refs": 10,
-  "en": ""
+  "en": "Cubed King Fragment"
  },
  {
   "id": "enemy:0336:08",
   "jp": "？？？",
   "refs": 10,
-  "en": ""
+  "en": "???"
  },
  {
   "id": "enemy:0347:04",
   "jp": "ダミー領域８８",
   "refs": 2,
-  "en": ""
+  "en": "Dummy Area 88"
  },
  {
   "id": "enemy:0348:04",
   "jp": "ダミー領域８９",
   "refs": 2,
-  "en": ""
+  "en": "Dummy Area 89"
  },
  {
   "id": "enemy:0349:04",
   "jp": "ダミー領域９０",
   "refs": 2,
-  "en": ""
+  "en": "Dummy Area 90"
  },
  {
   "id": "enemy:0350:04",
   "jp": "ダミー領域９１",
   "refs": 2,
-  "en": ""
+  "en": "Dummy Area 91"
  },
  {
   "id": "enemy:0351:04",
   "jp": "ダミー領域９２",
   "refs": 2,
-  "en": ""
+  "en": "Dummy Area 92"
  },
  {
   "id": "enemy:0352:04",
   "jp": "ダミー領域９３",
   "refs": 2,
-  "en": ""
+  "en": "Dummy Area 93"
  },
  {
   "id": "enemy:0353:04",
   "jp": "ダミー領域９４",
   "refs": 2,
-  "en": ""
+  "en": "Dummy Area 94"
  },
  {
   "id": "enemy:0354:04",
   "jp": "ダミー領域９５",
   "refs": 2,
-  "en": ""
+  "en": "Dummy Area 95"
  },
  {
   "id": "enemy:0355:04",
   "jp": "ダミー領域９６",
   "refs": 2,
-  "en": ""
+  "en": "Dummy Area 96"
  },
  {
   "id": "enemy:0356:04",
   "jp": "ダミー領域９７",
   "refs": 2,
-  "en": ""
+  "en": "Dummy Area 97"
  },
  {
   "id": "enemy:0357:04",
   "jp": "ダミー領域９８",
   "refs": 2,
-  "en": ""
+  "en": "Dummy Area 98"
  },
  {
   "id": "enemy:0358:04",
   "jp": "ダミー領域９９",
   "refs": 2,
-  "en": ""
+  "en": "Dummy Area 99"
  },
  {
   "id": "enemy:0359:04",
   "jp": "ダミー領域１００",
   "refs": 2,
-  "en": ""
+  "en": "Dummy Area 100"
  }
 ]

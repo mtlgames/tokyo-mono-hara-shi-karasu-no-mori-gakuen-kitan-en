@@ -3,3774 +3,3774 @@
   "id": "obj:0000:04",
   "jp": "タカミムスビの像",
   "refs": 1,
-  "en": ""
+  "en": "Statue of Takamimusubi"
  },
  {
   "id": "obj:0000:08",
   "jp": "タカミムスビはイワレヒコの\n先達としてヤタガラスを\n遣わせた",
   "refs": 1,
-  "en": ""
+  "en": "Takamimusubi sent the\nYatagarasu to guide Iwarehiko."
  },
  {
   "id": "obj:0001:04",
   "jp": "カモタケツノミの像",
   "refs": 1,
-  "en": ""
+  "en": "Statue of Kamotaketsunomi"
  },
  {
   "id": "obj:0001:08",
   "jp": "タカミムスビの命を受け、\nカモタケツノミはその身を\nヤタガラスに変じると\nイワレヒコのもとへ向かった",
   "refs": 1,
-  "en": ""
+  "en": "At Takamimusubi's command,\nKamotaketsunomi became the\nYatagarasu and went to\nIwarehiko."
  },
  {
   "id": "obj:0002:04",
   "jp": "イワレヒコ像",
   "refs": 1,
-  "en": ""
+  "en": "Statue of Iwarehiko"
  },
  {
   "id": "obj:0002:08",
   "jp": "ヤタガラスに導かれた\nイワレヒコは熊野の森を抜け、\nヤマトへ至り、日を背負いて\nナガスネヒコと相対した",
   "refs": 1,
-  "en": ""
+  "en": "Led by the Yatagarasu,\nIwarehiko crossed Kumano to\nYamato and, sun at his back,\nfaced Nagasunehiko."
  },
  {
   "id": "obj:0003:04",
   "jp": "呪言花札【菊ノ屑・壱】",
   "refs": 1,
-  "en": ""
+  "en": "Curse Hanafuda:\nChrysanthemum Chaff 1"
  },
  {
   "id": "obj:0003:08",
   "jp": "顕現した呪言花札。\n絵柄から菊ノ屑・壱と分かる",
   "refs": 1,
-  "en": ""
+  "en": "A manifested Curse Hanafuda.\nIts art marks it as\nChrysanthemum Chaff 1."
  },
  {
   "id": "obj:0004:04",
   "jp": "ナガスネヒコの像",
   "refs": 1,
-  "en": ""
+  "en": "Statue of Nagasunehiko"
  },
  {
   "id": "obj:0004:08",
   "jp": "ヤマトの豪族、\nナガスネヒコの像",
   "refs": 1,
-  "en": ""
+  "en": "Statue of Nagasunehiko, a\npowerful clan lord of Yamato."
  },
  {
   "id": "obj:0005:04",
   "jp": "日之出の壁",
   "refs": 1,
-  "en": ""
+  "en": "Wall of the Rising Sun"
  },
  {
   "id": "obj:0005:08",
   "jp": "東より出づる日を模した壁面",
   "refs": 1,
-  "en": ""
+  "en": "A wall modelled on the sun\nrising in the east."
  },
  {
   "id": "obj:0006:04",
   "jp": "扉",
   "refs": 5,
-  "en": ""
+  "en": "Door"
  },
  {
   "id": "obj:0006:08",
   "jp": "実体化した扉。\n鍵はかかっていない",
   "refs": 1,
-  "en": ""
+  "en": "A materialised door. It isn't\nlocked."
  },
  {
   "id": "obj:0007:08",
   "jp": "実体化した扉。\n施錠されており開かない",
   "refs": 1,
-  "en": ""
+  "en": "A materialised door. It's\nlocked and won't open."
  },
  {
   "id": "obj:0019:04",
   "jp": "砕火の大岩",
   "refs": 4,
-  "en": ""
+  "en": "Fire-Burst Boulder"
  },
  {
   "id": "obj:0019:08",
   "jp": "紅葉の屑から生み出された岩\n中から爆発してきそうな\n熱気を感じる",
   "refs": 4,
-  "en": ""
+  "en": "A rock born of the Maple\nChaff. It gives off heat, as\nif about to burst from within."
  },
  {
   "id": "obj:0020:04",
   "jp": "根縛りの柱",
   "refs": 4,
-  "en": ""
+  "en": "Root-Bound Pillar"
  },
  {
   "id": "obj:0020:08",
   "jp": "菖蒲の屑から生み出された柱\n根を取り除けば、\n動かすことができそうだ",
   "refs": 4,
-  "en": ""
+  "en": "A pillar born of the Iris\nChaff. Remove the roots and it\ncould be moved."
  },
  {
   "id": "obj:0023:04",
   "jp": "金烏の大岩",
   "refs": 1,
-  "en": ""
+  "en": "Golden Crow Boulder"
  },
  {
   "id": "obj:0023:08",
   "jp": "藤の屑から生み出された岩\n岩を吹き抜ける風を感じる",
   "refs": 1,
-  "en": ""
+  "en": "A rock born of the Wisteria\nChaff. You feel wind blowing\nthrough it."
  },
  {
   "id": "obj:0024:04",
   "jp": "風巻きの大岩",
   "refs": 6,
-  "en": ""
+  "en": "Whirlwind Boulder"
  },
  {
   "id": "obj:0024:08",
   "jp": "芒の屑から生み出された岩\n渦を巻く風の力を感じる",
   "refs": 6,
-  "en": ""
+  "en": "A rock born of the Pampas\nChaff. You feel the power of\nswirling wind."
  },
  {
   "id": "obj:0029:04",
   "jp": "地鎮の社",
   "refs": 5,
-  "en": ""
+  "en": "Earth-Calming Shrine"
  },
  {
   "id": "obj:0029:08",
   "jp": "松の屑から生み出された社\n地鎮の柱との繋がりを感じる\n",
   "refs": 5,
-  "en": ""
+  "en": "A shrine born of the Pine\nChaff. It feels linked to the\nEarth-Calming Pillar."
  },
  {
   "id": "obj:0030:04",
   "jp": "地鎮の柱",
   "refs": 5,
-  "en": ""
+  "en": "Earth-Calming Pillar"
  },
  {
   "id": "obj:0030:08",
   "jp": "松の屑から生み出された柱\n強固な結界で張られている",
   "refs": 5,
-  "en": ""
+  "en": "A pillar born of the Pine\nChaff. A strong barrier\nsurrounds it."
  },
  {
   "id": "obj:0031:04",
   "jp": "須佐の門",
   "refs": 2,
-  "en": ""
+  "en": "Gate of Susa"
  },
  {
   "id": "obj:0031:08",
   "jp": "梅の屑から生み出された門\n空間の歪みを感じる",
   "refs": 2,
-  "en": ""
+  "en": "A gate born of the Plum Chaff.\nYou sense a warp in space."
  },
  {
   "id": "obj:0032:04",
   "jp": "汎用梯子",
   "refs": 2,
-  "en": ""
+  "en": "Generic Ladder"
  },
  {
   "id": "obj:0034:04",
   "jp": "ダミー梯子",
   "refs": 1,
-  "en": ""
+  "en": "Dummy Ladder"
  },
  {
   "id": "obj:0035:04",
   "jp": "取手箱",
   "refs": 2,
-  "en": ""
+  "en": "Handle Box"
  },
  {
   "id": "obj:0035:08",
   "jp": "取手を回すことができる箱",
   "refs": 2,
-  "en": ""
+  "en": "A box with a handle you can\nturn."
  },
  {
   "id": "obj:0037:04",
   "jp": "神鏡ノ御堂",
   "refs": 2,
-  "en": ""
+  "en": "Hall of the Sacred Mirror"
  },
  {
   "id": "obj:0037:08",
   "jp": "龍脈の霊力を利用した、\n特殊な祭具を祀る堂",
   "refs": 2,
-  "en": ""
+  "en": "A hall enshrining a special\nritual tool that uses the\ndragon vein's spirit power."
  },
  {
   "id": "obj:0038:04",
   "jp": "封念ノ神鏡",
   "refs": 2,
-  "en": ""
+  "en": "Sealing Mirror"
  },
  {
   "id": "obj:0038:08",
   "jp": "自らの思念を封じ、\n記録することや、\n呼び出すことができる\n特殊な鏡",
   "refs": 2,
-  "en": ""
+  "en": "A special mirror that can seal\naway your thoughts, record\nthem, and call them back."
  },
  {
   "id": "obj:0039:04",
   "jp": "封具ノ器",
   "refs": 1,
-  "en": ""
+  "en": "Sealing Vessel"
  },
  {
   "id": "obj:0039:08",
   "jp": "封札した隠人の断片から道具を\n生み出す力を持った器",
   "refs": 1,
-  "en": ""
+  "en": "A vessel with the power to\ncreate tools from fragments of\nsealed Oni."
  },
  {
   "id": "obj:0040:04",
   "jp": "御蔵ノ器",
   "refs": 1,
-  "en": ""
+  "en": "Storehouse Vessel"
  },
  {
   "id": "obj:0040:08",
   "jp": "龍脈の力を利用し、\n自らが望む場所から、\n自由に道具を出し入れできる\n特殊な器",
   "refs": 1,
-  "en": ""
+  "en": "A special vessel using the\ndragon vein's power to store\nand take out tools from\nanywhere."
  },
  {
   "id": "obj:0045:04",
   "jp": "誘導用オーラ",
   "refs": 9,
-  "en": ""
+  "en": "Guide Aura"
  },
  {
   "id": "obj:0045:08",
   "jp": "マス全体に表示する専用サイズ",
   "refs": 9,
-  "en": ""
+  "en": "Dedicated size shown over a\nwhole tile"
  },
  {
   "id": "obj:0054:04",
   "jp": "誘導用オーラ・ポイント",
   "refs": 9,
-  "en": ""
+  "en": "Guide Aura Point"
  },
  {
   "id": "obj:0054:08",
   "jp": "アタッチメント接続場所に表示用",
   "refs": 9,
-  "en": ""
+  "en": "For display at attachment\npoints"
  },
  {
   "id": "obj:0063:04",
   "jp": "龍気の柱",
   "refs": 11,
-  "en": ""
+  "en": "Dragon Qi Pillar"
  },
  {
   "id": "obj:0063:08",
   "jp": "地面を貫き迸る、濃密な龍気\n立ち入ることはできそうにない",
   "refs": 10,
-  "en": ""
+  "en": "Dense dragon qi surging up\nthrough the ground. There's no\nway in."
  },
  {
   "id": "obj:0072:04",
   "jp": "隠気の柱",
   "refs": 6,
-  "en": ""
+  "en": "Oni Qi Pillar"
  },
  {
   "id": "obj:0072:08",
   "jp": "隠人に引き寄せられ出現した\n情報の奔流\n付近の隠人を倒さない限り、\n消えることはない\n",
   "refs": 4,
-  "en": ""
+  "en": "A torrent of data drawn out by\nOni. It won't vanish until the\nnearby Oni are defeated."
  },
  {
   "id": "obj:0074:04",
   "jp": "ドアロック",
   "refs": 38,
-  "en": ""
+  "en": "Door Lock"
  },
  {
   "id": "obj:0083:04",
   "jp": "ドアロックエントランス",
   "refs": 2,
-  "en": ""
+  "en": "Door Lock Entrance"
  },
  {
   "id": "obj:0085:04",
   "jp": "秘宝眼ドアロック",
   "refs": 2,
-  "en": ""
+  "en": "Arcane Eye Door Lock"
  },
  {
   "id": "obj:0088:04",
   "jp": "ドアガイド",
   "refs": 2,
-  "en": ""
+  "en": "Door Guide"
  },
  {
   "id": "obj:0089:04",
   "jp": "操脈珠",
   "refs": 23,
-  "en": ""
+  "en": "Vein-Control Orb"
  },
  {
   "id": "obj:0089:08",
   "jp": "龍脈の力の一部を制御する宝珠",
   "refs": 23,
-  "en": ""
+  "en": "A jewel that controls part of\nthe dragon vein's power."
  },
  {
   "id": "obj:0098:04",
   "jp": "箱",
   "refs": 1,
-  "en": ""
+  "en": "Box"
  },
  {
   "id": "obj:0098:08",
   "jp": "おたのしみ箱",
   "refs": 1,
-  "en": ""
+  "en": "A surprise box"
  },
  {
   "id": "obj:0099:04",
   "jp": "調べるとエントランスへ",
   "refs": 2,
-  "en": ""
+  "en": "Examine to go to entrance"
  },
  {
   "id": "obj:0100:04",
   "jp": "体力のあるオブジェクト",
   "refs": 1,
-  "en": ""
+  "en": "Object with Stamina"
  },
  {
   "id": "obj:0100:08",
   "jp": "攻撃すると・・・",
   "refs": 1,
-  "en": ""
+  "en": "When attacked..."
  },
  {
   "id": "obj:0101:08",
   "jp": "実体化した扉\n施錠されており開かない",
   "refs": 1,
-  "en": ""
+  "en": "A materialised door. It's\nlocked and won't open."
  },
  {
   "id": "obj:0102:08",
   "jp": "実体化した扉\n鍵はかかっていない",
   "refs": 2,
-  "en": ""
+  "en": "A materialised door. It isn't\nlocked."
  },
  {
   "id": "obj:0103:04",
   "jp": "怨霊（骸骨）移動範囲",
   "refs": 1,
-  "en": ""
+  "en": "Ghost (Skeleton) Move Range"
  },
  {
   "id": "obj:0104:04",
   "jp": "見えない",
   "refs": 7,
-  "en": ""
+  "en": "Invisible"
  },
  {
   "id": "obj:0106:04",
   "jp": "模擬演習用台座",
   "refs": 3,
-  "en": ""
+  "en": "Training Pedestal"
  },
  {
   "id": "obj:0106:08",
   "jp": "模擬演習用に作られた\n頑丈な台座",
   "refs": 3,
-  "en": ""
+  "en": "A sturdy pedestal made for\ntraining drills."
  },
  {
   "id": "obj:0107:04",
   "jp": "模擬演習用松明",
   "refs": 2,
-  "en": ""
+  "en": "Training Torch"
  },
  {
   "id": "obj:0107:08",
   "jp": "模擬演習用のアイテム\n特殊な技術を使い\n消えることの無い炎を\n生み出す事に成功している",
   "refs": 2,
-  "en": ""
+  "en": "An item for training drills. A\nspecial technique gives it a\nflame that never dies."
  },
  {
   "id": "obj:0108:04",
   "jp": "松明エフェクト",
   "refs": 6,
-  "en": ""
+  "en": "Torch Effect"
  },
  {
   "id": "obj:0110:04",
   "jp": "導きのランタン",
   "refs": 2,
-  "en": ""
+  "en": "Guiding Lantern"
  },
  {
   "id": "obj:0110:08",
   "jp": "模擬演習用のアイテム\n先へ進む場所へ導く印の\nランタン",
   "refs": 2,
-  "en": ""
+  "en": "An item for training drills. A\nlantern marking the way\nforward."
  },
  {
   "id": "obj:0116:04",
   "jp": "扉の封印",
   "refs": 20,
-  "en": ""
+  "en": "Door Seal"
  },
  {
   "id": "obj:0123:04",
   "jp": "隠者の杖",
   "refs": 1,
-  "en": ""
+  "en": "Hermit's Staff"
  },
  {
   "id": "obj:0123:08",
   "jp": "真の封札師になるために必要な\n「刻印」を刻む特殊な祭具\n見たことのない物質を成形し\n作られている",
   "refs": 1,
-  "en": ""
+  "en": "A ritual tool that carves the\nMark a true Card Sealer needs.\nShaped from an unknown\nsubstance."
  },
  {
   "id": "obj:0125:04",
   "jp": "イベント発生場所01(仮",
   "refs": 1,
-  "en": ""
+  "en": "Event Location 01 (temp)"
  },
  {
   "id": "obj:0125:08",
   "jp": "現状イベントがおきる場所に\n仮に配置しております",
   "refs": 11,
-  "en": ""
+  "en": "Placed for now where events\ncurrently occur."
  },
  {
   "id": "obj:0126:04",
   "jp": "イベント発生場所02(仮",
   "refs": 1,
-  "en": ""
+  "en": "Event Location 02 (temp)"
  },
  {
   "id": "obj:0127:04",
   "jp": "イベント発生場所03(仮",
   "refs": 1,
-  "en": ""
+  "en": "Event Location 03 (temp)"
  },
  {
   "id": "obj:0128:04",
   "jp": "イベント発生場所04(仮",
   "refs": 1,
-  "en": ""
+  "en": "Event Location 04 (temp)"
  },
  {
   "id": "obj:0129:04",
   "jp": "イベント発生場所05(仮",
   "refs": 1,
-  "en": ""
+  "en": "Event Location 05 (temp)"
  },
  {
   "id": "obj:0130:04",
   "jp": "イベント発生場所06(仮",
   "refs": 1,
-  "en": ""
+  "en": "Event Location 06 (temp)"
  },
  {
   "id": "obj:0131:04",
   "jp": "イベント発生場所07(仮",
   "refs": 1,
-  "en": ""
+  "en": "Event Location 07 (temp)"
  },
  {
   "id": "obj:0132:04",
   "jp": "イベント発生場所08(仮",
   "refs": 1,
-  "en": ""
+  "en": "Event Location 08 (temp)"
  },
  {
   "id": "obj:0133:04",
   "jp": "イベント発生場所09(仮",
   "refs": 1,
-  "en": ""
+  "en": "Event Location 09 (temp)"
  },
  {
   "id": "obj:0134:04",
   "jp": "イベント発生場所10(仮",
   "refs": 1,
-  "en": ""
+  "en": "Event Location 10 (temp)"
  },
  {
   "id": "obj:0135:04",
   "jp": "イベント発生場所11(仮",
   "refs": 1,
-  "en": ""
+  "en": "Event Location 11 (temp)"
  },
  {
   "id": "obj:0136:04",
   "jp": "闘争の石",
   "refs": 4,
-  "en": ""
+  "en": "Stone of Strife"
  },
  {
   "id": "obj:0136:08",
   "jp": "戦いの為の武器を\n象徴した石像",
   "refs": 4,
-  "en": ""
+  "en": "A stone statue symbolising\nweapons of war."
  },
  {
   "id": "obj:0141:04",
   "jp": "？？？",
   "refs": 47,
-  "en": ""
+  "en": "???"
  },
  {
   "id": "obj:0141:08",
   "jp": "条件を満たせば壊れる障害物",
   "refs": 1,
-  "en": ""
+  "en": "An obstacle that breaks once\nconditions are met."
  },
  {
   "id": "obj:0142:04",
   "jp": "栗木の像",
   "refs": 4,
-  "en": ""
+  "en": "Chestnut Tree Statue"
  },
  {
   "id": "obj:0142:08",
   "jp": "住居を造る為の\n栗の木を象徴した像",
   "refs": 4,
-  "en": ""
+  "en": "A statue symbolising the\nchestnut trees used to build\nhomes."
  },
  {
   "id": "obj:0146:04",
   "jp": "守りの土器",
   "refs": 4,
-  "en": ""
+  "en": "Guardian Earthenware"
  },
  {
   "id": "obj:0146:08",
   "jp": "人々の平和を祈る為の\n儀式の壷を象徴した像",
   "refs": 3,
-  "en": ""
+  "en": "A statue symbolising a ritual\npot used to pray for the\npeople's peace."
  },
  {
   "id": "obj:0149:08",
   "jp": "人々の平和を祈る為の\n儀式の壷を象徴とした像",
   "refs": 1,
-  "en": ""
+  "en": "A statue symbolising a ritual\npot used to pray for the\npeople's peace."
  },
  {
   "id": "obj:0152:04",
   "jp": "宝具の櫃",
   "refs": 44,
-  "en": ""
+  "en": "Relic Coffer"
  },
  {
   "id": "obj:0152:08",
   "jp": "特殊な情報体を防衛するため\n実体化したもの",
   "refs": 87,
-  "en": ""
+  "en": "Materialised to guard a\nspecial data entity."
  },
  {
   "id": "obj:0160:04",
   "jp": "恵水の柱",
   "refs": 1,
-  "en": ""
+  "en": "Pillar of Blessed Water"
  },
  {
   "id": "obj:0160:08",
   "jp": "命を育む水の恵みが描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting water's\nblessing, which nurtures life."
  },
  {
   "id": "obj:0161:04",
   "jp": "満地の印",
   "refs": 2,
-  "en": ""
+  "en": "Fertile Land Seal"
  },
  {
   "id": "obj:0161:08",
   "jp": "肥沃な土地に満ちた水気が\n円盤として実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "The moisture filling fertile\nland, materialised as a disc."
  },
  {
   "id": "obj:0162:04",
   "jp": "水蓋の櫃",
   "refs": 4,
-  "en": ""
+  "en": "Water-Lid Coffer"
  },
  {
   "id": "obj:0162:08",
   "jp": "水気を操り、周囲の水量を\n変化させる力を持つ石櫃",
   "refs": 4,
-  "en": ""
+  "en": "A stone coffer that controls\nmoisture to change the water\nlevel around it."
  },
  {
   "id": "obj:0163:04",
   "jp": "水",
   "refs": 1,
-  "en": ""
+  "en": "Water"
  },
  {
   "id": "obj:0163:08",
   "jp": "オブジェ",
   "refs": 1,
-  "en": ""
+  "en": "Object"
  },
  {
   "id": "obj:0164:04",
   "jp": "浮いてくる足場",
   "refs": 1,
-  "en": ""
+  "en": "Rising Platform"
  },
  {
   "id": "obj:0164:08",
   "jp": "木製の板\n水に浮きそう",
   "refs": 1,
-  "en": ""
+  "en": "A wooden board. Looks like\nit'd float."
  },
  {
   "id": "obj:0165:04",
   "jp": "水が張る前の一番したの\nジャンプ（水）コリジョン。",
   "refs": 2,
-  "en": ""
+  "en": "Lowest jump (water)\ncollision before flooding."
  },
  {
   "id": "obj:0165:08",
   "jp": "表示されてはいけない",
   "refs": 7,
-  "en": ""
+  "en": "Must not be displayed"
  },
  {
   "id": "obj:0166:04",
   "jp": "デフォルトコリジョン",
   "refs": 1,
-  "en": ""
+  "en": "Default Collision"
  },
  {
   "id": "obj:0167:04",
   "jp": "水上昇時ジャンプコリジョン",
   "refs": 1,
-  "en": ""
+  "en": "Jump collision when water\nrises"
  },
  {
   "id": "obj:0168:04",
   "jp": "水の表示",
   "refs": 1,
-  "en": ""
+  "en": "Water Display"
  },
  {
   "id": "obj:0169:04",
   "jp": "埋め立て用地面の表示",
   "refs": 1,
-  "en": ""
+  "en": "Landfill ground display"
  },
  {
   "id": "obj:0170:04",
   "jp": "埋め立て後稲の表示",
   "refs": 1,
-  "en": ""
+  "en": "Rice display after landfill"
  },
  {
   "id": "obj:0172:04",
   "jp": "富の壇",
   "refs": 1,
-  "en": ""
+  "en": "Altar of Wealth"
  },
  {
   "id": "obj:0172:08",
   "jp": "農耕による貧富の差の出現が\n描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting how farming\ngave rise to rich and poor."
  },
  {
   "id": "obj:0173:08",
   "jp": "円盤状のものをはめこむ\n穴が見える",
   "refs": 1,
-  "en": ""
+  "en": "There's a hole where something\ndisc-shaped fits."
  },
  {
   "id": "obj:0175:04",
   "jp": "籾の印",
   "refs": 2,
-  "en": ""
+  "en": "Rice Seed Seal"
  },
  {
   "id": "obj:0175:08",
   "jp": "人々の豊穣への歓喜の念が\n木板として実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "The people's joy at a rich\nharvest, materialised as a\nwooden board."
  },
  {
   "id": "obj:0176:04",
   "jp": "収穫の柱",
   "refs": 1,
-  "en": ""
+  "en": "Harvest Pillar"
  },
  {
   "id": "obj:0176:08",
   "jp": "豊穣を願う神への祈りが\n描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting prayers to\nthe gods for a rich harvest."
  },
  {
   "id": "obj:0177:08",
   "jp": "板状のものをはめこむ\n穴が見える",
   "refs": 1,
-  "en": ""
+  "en": "There's a hole where something\nboard-shaped fits."
  },
  {
   "id": "obj:0179:04",
   "jp": "斎庭穂の鍵",
   "refs": 2,
-  "en": ""
+  "en": "Key of Sacred Rice"
  },
  {
   "id": "obj:0179:08",
   "jp": "地に満ちる稲穂と、\n太陽神への祈りが\n鍵として実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "Rice ears filling the land and\nprayers to the sun god,\nmaterialised as a key."
  },
  {
   "id": "obj:0180:08",
   "jp": "鍵状の物がはまりそうに見える",
   "refs": 1,
-  "en": ""
+  "en": "Looks like something\nkey-shaped would fit."
  },
  {
   "id": "obj:0183:04",
   "jp": "巫女の草冠",
   "refs": 5,
-  "en": ""
+  "en": "Shrine Maiden's Grass Crown"
  },
  {
   "id": "obj:0183:08",
   "jp": "巫女の霊力が草の冠として\n実体化したもの\n邪気に覆われており、\n触れることができない",
   "refs": 1,
-  "en": ""
+  "en": "A shrine maiden's spirit power\nmade into a grass crown.\nShrouded in evil; it can't be\ntouched."
  },
  {
   "id": "obj:0184:08",
   "jp": "巫女の霊力が草の冠として\n実体化したもの",
   "refs": 4,
-  "en": ""
+  "en": "A shrine maiden's spirit power\nmade into a grass crown."
  },
  {
   "id": "obj:0187:04",
   "jp": "祓の霊風",
   "refs": 1,
-  "en": ""
+  "en": "Exorcising Holy Wind"
  },
  {
   "id": "obj:0187:08",
   "jp": "地下より吹き上げる突風\n龍気を帯びており、\n邪気を弱める力を持つ",
   "refs": 1,
-  "en": ""
+  "en": "A gust blowing up from below,\ncharged with dragon qi. It can\nweaken evil."
  },
  {
   "id": "obj:0189:04",
   "jp": "戦士の銅冠",
   "refs": 1,
-  "en": ""
+  "en": "Warrior's Bronze Crown"
  },
  {
   "id": "obj:0189:08",
   "jp": "戦士の闘志が銅の冠として\n実体化したもの\n邪気に覆われており、\n触れることができない",
   "refs": 1,
-  "en": ""
+  "en": "A warrior's fighting spirit\nmade into a bronze crown.\nShrouded in evil; it can't be\ntouched."
  },
  {
   "id": "obj:0190:04",
   "jp": "戦士の銅冠装飾",
   "refs": 1,
-  "en": ""
+  "en": "Warrior's Bronze Crown Trim"
  },
  {
   "id": "obj:0190:08",
   "jp": "装飾",
   "refs": 3,
-  "en": ""
+  "en": "Decoration"
  },
  {
   "id": "obj:0191:04",
   "jp": "童子の土冠",
   "refs": 1,
-  "en": ""
+  "en": "Child's Clay Crown"
  },
  {
   "id": "obj:0191:08",
   "jp": "童子の清らかさが\n土の冠として実体化したもの\n邪気に覆われており、\n触れることができない",
   "refs": 1,
-  "en": ""
+  "en": "A child's purity made into a\nclay crown. Shrouded in evil;\nit can't be touched."
  },
  {
   "id": "obj:0192:04",
   "jp": "童子の土冠装飾",
   "refs": 1,
-  "en": ""
+  "en": "Child's Clay Crown Trim"
  },
  {
   "id": "obj:0193:04",
   "jp": "賢者の石冠",
   "refs": 1,
-  "en": ""
+  "en": "Sage's Stone Crown"
  },
  {
   "id": "obj:0193:08",
   "jp": "賢者の知恵が石冠として\n実体化したもの\n邪気に覆われており、\n触れることができない",
   "refs": 1,
-  "en": ""
+  "en": "A sage's wisdom made into a\nstone crown. Shrouded in evil;\nit can't be touched."
  },
  {
   "id": "obj:0194:04",
   "jp": "賢者の石冠装飾",
   "refs": 1,
-  "en": ""
+  "en": "Sage's Stone Crown Trim"
  },
  {
   "id": "obj:0195:04",
   "jp": "扉錠",
   "refs": 1,
-  "en": ""
+  "en": "Door Lock"
  },
  {
   "id": "obj:0195:08",
   "jp": "輪状の物がはまりそうだ",
   "refs": 1,
-  "en": ""
+  "en": "Looks like something\nring-shaped would fit."
  },
  {
   "id": "obj:0197:04",
   "jp": "北王の柱",
   "refs": 2,
-  "en": ""
+  "en": "North King's Pillar"
  },
  {
   "id": "obj:0197:08",
   "jp": "北の国の兵を司る、\n王の権威を表した柱",
   "refs": 2,
-  "en": ""
+  "en": "A pillar showing the authority\nof the king who commands the\narmies of the north."
  },
  {
   "id": "obj:0198:04",
   "jp": "西王の柱",
   "refs": 2,
-  "en": ""
+  "en": "West King's Pillar"
  },
  {
   "id": "obj:0198:08",
   "jp": "西の国の兵を司る、\n王の権威を表した柱",
   "refs": 2,
-  "en": ""
+  "en": "A pillar showing the authority\nof the king who commands the\narmies of the west."
  },
  {
   "id": "obj:0199:04",
   "jp": "東王の柱",
   "refs": 2,
-  "en": ""
+  "en": "East King's Pillar"
  },
  {
   "id": "obj:0199:08",
   "jp": "東の国の兵を司る、\n王の権威を表した柱",
   "refs": 2,
-  "en": ""
+  "en": "A pillar showing the authority\nof the king who commands the\narmies of the east."
  },
  {
   "id": "obj:0200:04",
   "jp": "南王の柱",
   "refs": 2,
-  "en": ""
+  "en": "South King's Pillar"
  },
  {
   "id": "obj:0200:08",
   "jp": "南の国の兵を司る、\n王の権威を表した柱",
   "refs": 2,
-  "en": ""
+  "en": "A pillar showing the authority\nof the king who commands the\narmies of the south."
  },
  {
   "id": "obj:0201:04",
   "jp": "親魏倭王の金印",
   "refs": 7,
-  "en": ""
+  "en": "Gold Seal of the King of Wa"
  },
  {
   "id": "obj:0201:08",
   "jp": "大国の威信と友好の念が\n金印として実体化したもの",
   "refs": 7,
-  "en": ""
+  "en": "A great nation's prestige and\ngoodwill, materialised as a\ngold seal."
  },
  {
   "id": "obj:0206:04",
   "jp": "鬼道の祭壇",
   "refs": 4,
-  "en": ""
+  "en": "Altar of the Ghost Way"
  },
  {
   "id": "obj:0206:08",
   "jp": "人心を操る力を秘めた祭壇\n輪状の物をかけられそうだ",
   "refs": 4,
-  "en": ""
+  "en": "An altar with the hidden power\nto sway hearts. Something\nring-shaped could hang on it."
  },
  {
   "id": "obj:0215:08",
   "jp": "何かをはめ込む為の穴が見える",
   "refs": 5,
-  "en": ""
+  "en": "There's a hole for fitting\nsomething into."
  },
  {
   "id": "obj:0217:04",
   "jp": "華帝の壇",
   "refs": 2,
-  "en": ""
+  "en": "Foreign Emperor Altar"
  },
  {
   "id": "obj:0217:08",
   "jp": "異国の皇帝との謁見の様子が\n描かれた壇",
   "refs": 2,
-  "en": ""
+  "en": "An altar depicting an audience\nwith a foreign emperor."
  },
  {
   "id": "obj:0220:04",
   "jp": "貴具の瓶",
   "refs": 45,
-  "en": ""
+  "en": "Jar of Treasures"
  },
  {
   "id": "obj:0230:04",
   "jp": "鍵穴",
   "refs": 4,
-  "en": ""
+  "en": "Keyhole"
  },
  {
   "id": "obj:0230:08",
   "jp": "鍵をはめ込むことができそうだ",
   "refs": 3,
-  "en": ""
+  "en": "Looks like a key would fit."
  },
  {
   "id": "obj:0234:04",
   "jp": "雨呼びの祭壇",
   "refs": 1,
-  "en": ""
+  "en": "Rain-Calling Altar"
  },
  {
   "id": "obj:0234:08",
   "jp": "祈雨の儀式に使用する祭器を、\n祀るための祭壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar for enshrining the\nritual tool used in rites to\npray for rain."
  },
  {
   "id": "obj:0236:04",
   "jp": "雨呼びの神鐸",
   "refs": 2,
-  "en": ""
+  "en": "Rain-Calling Bell"
  },
  {
   "id": "obj:0236:08",
   "jp": "祈雨の祈りが銅鐸として\n実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "Prayers for rain, materialised\nas a bronze bell."
  },
  {
   "id": "obj:0240:04",
   "jp": "祭器の壇",
   "refs": 1,
-  "en": ""
+  "en": "Ritual Tool Altar"
  },
  {
   "id": "obj:0240:08",
   "jp": "祭器を祀るための壇\n祭器を用いて儀式を執り行う\n巫女の姿が描かれている",
   "refs": 1,
-  "en": ""
+  "en": "An altar for ritual tools. It\nshows a shrine maiden\nperforming a rite with them."
  },
  {
   "id": "obj:0247:04",
   "jp": "信仰の壇",
   "refs": 2,
-  "en": ""
+  "en": "Altar of Faith"
  },
  {
   "id": "obj:0247:08",
   "jp": "女王に敬服する\n民の姿が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting people\nbowing in awe to their queen."
  },
  {
   "id": "obj:0249:04",
   "jp": "女王の鍵",
   "refs": 1,
-  "en": ""
+  "en": "Queen's Key"
  },
  {
   "id": "obj:0249:08",
   "jp": "卑弥呼の鬼道の力が\n鍵として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The power of Himiko's Ghost\nWay, materialised as a key."
  },
  {
   "id": "obj:0250:04",
   "jp": "亀卜の壇",
   "refs": 1,
-  "en": ""
+  "en": "Turtle Oracle Altar"
  },
  {
   "id": "obj:0250:08",
   "jp": "火にくべられた\n亀の甲羅が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting a turtle\nshell cast into a fire."
  },
  {
   "id": "obj:0252:04",
   "jp": "占竜骨",
   "refs": 1,
-  "en": ""
+  "en": "Oracle Bone"
  },
  {
   "id": "obj:0252:08",
   "jp": "古い亀の甲羅の骨\n火にくべて、ひび割れを見て\n吉兆を占った",
   "refs": 1,
-  "en": ""
+  "en": "An old turtle shell. People\nburned it and read omens from\nthe cracks."
  },
  {
   "id": "obj:0253:04",
   "jp": "神意火",
   "refs": 1,
-  "en": ""
+  "en": "Divine Fire"
  },
  {
   "id": "obj:0253:08",
   "jp": "亀の甲羅を使い、\n占いを行うための火",
   "refs": 1,
-  "en": ""
+  "en": "A fire for divining with\nturtle shells."
  },
  {
   "id": "obj:0257:04",
   "jp": "男返しの柱",
   "refs": 1,
-  "en": ""
+  "en": "Pillar of Disguise"
  },
  {
   "id": "obj:0257:08",
   "jp": "女装した日本武尊が、\n熊襲建の宴に忍び込む様子が\n描かれた柱",
   "refs": 1,
-  "en": ""
+  "en": "A pillar showing Yamato\nTakeru, dressed as a woman,\nslipping into Kumaso Takeru's\nfeast."
  },
  {
   "id": "obj:0258:04",
   "jp": "熊襲の柱",
   "refs": 1,
-  "en": ""
+  "en": "Kumaso Pillar"
  },
  {
   "id": "obj:0258:08",
   "jp": "熊襲建の武威が込められた柱\nヒビが入っており、\n衝撃を与え破壊する事が\nできそうだ",
   "refs": 1,
-  "en": ""
+  "en": "A pillar filled with Kumaso\nTakeru's might. It's cracked;\na hard blow could break it."
  },
  {
   "id": "obj:0259:04",
   "jp": "八重垣の壇",
   "refs": 1,
-  "en": ""
+  "en": "Yaegaki Altar"
  },
  {
   "id": "obj:0259:08",
   "jp": "飛び去って行く、\n神々しい白鳥の姿が\n描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting a majestic\nwhite swan flying away."
  },
  {
   "id": "obj:0261:04",
   "jp": "武尊の鍵",
   "refs": 1,
-  "en": ""
+  "en": "Takeru's Key"
  },
  {
   "id": "obj:0261:08",
   "jp": "日本武尊が変化した\n白鳥を模った鍵",
   "refs": 1,
-  "en": ""
+  "en": "A key shaped like the white\nswan Yamato Takeru became."
  },
  {
   "id": "obj:0262:04",
   "jp": "水月の壇",
   "refs": 2,
-  "en": ""
+  "en": "Water Moon Altar"
  },
  {
   "id": "obj:0262:08",
   "jp": "三日月の印が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar marked with a\ncrescent."
  },
  {
   "id": "obj:0264:04",
   "jp": "三日月の印章",
   "refs": 2,
-  "en": ""
+  "en": "Crescent Seal"
  },
  {
   "id": "obj:0264:08",
   "jp": "三日月の装飾が施された印章",
   "refs": 2,
-  "en": ""
+  "en": "A seal decorated with a\ncrescent moon."
  },
  {
   "id": "obj:0265:04",
   "jp": "醜女の壇",
   "refs": 1,
-  "en": ""
+  "en": "Shikome Altar"
  },
  {
   "id": "obj:0265:08",
   "jp": "地から這い上がろうとする、\n黄泉醜女が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar showing a\nYomotsu-shikome crawling up\nfrom the earth."
  },
  {
   "id": "obj:0267:04",
   "jp": "道返しの岩",
   "refs": 1,
-  "en": ""
+  "en": "Road-Turning Rock"
  },
  {
   "id": "obj:0267:08",
   "jp": "黄泉路を塞ぐ大岩の欠片",
   "refs": 1,
-  "en": ""
+  "en": "A shard of the boulder that\nblocks the road to Yomi."
  },
  {
   "id": "obj:0269:08",
   "jp": "岩をはめ込むことができそうだ",
   "refs": 1,
-  "en": ""
+  "en": "Looks like a rock would fit\nhere."
  },
  {
   "id": "obj:0272:04",
   "jp": "生贄の壇",
   "refs": 1,
-  "en": ""
+  "en": "Sacrifice Altar"
  },
  {
   "id": "obj:0272:08",
   "jp": "生贄として地に埋められる\n奴隷達の姿が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting slaves\nburied in the earth as\nsacrifices."
  },
  {
   "id": "obj:0274:04",
   "jp": "黄泉路の鍵",
   "refs": 1,
-  "en": ""
+  "en": "Key of the Yomi Road"
  },
  {
   "id": "obj:0274:08",
   "jp": "黄泉の穢れが鍵として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The defilement of Yomi,\nmaterialised as a key."
  },
  {
   "id": "obj:0275:04",
   "jp": "封鍵の壇",
   "refs": 2,
-  "en": ""
+  "en": "Seal Key Altar"
  },
  {
   "id": "obj:0275:08",
   "jp": "桐の葉が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar with paulownia\nleaves."
  },
  {
   "id": "obj:0277:04",
   "jp": "封鍵の右片",
   "refs": 2,
-  "en": ""
+  "en": "Seal Key, Right Half"
  },
  {
   "id": "obj:0277:08",
   "jp": "桐と鳳凰が彫られた\nメダルの右半分",
   "refs": 2,
-  "en": ""
+  "en": "The right half of a medal\ncarved with a paulownia and a\nphoenix."
  },
  {
   "id": "obj:0287:04",
   "jp": "悪霊",
   "refs": 1,
-  "en": ""
+  "en": "Evil Ghost"
  },
  {
   "id": "obj:0287:08",
   "jp": "触れたら死ぬ",
   "refs": 1,
-  "en": ""
+  "en": "Touch it and you die"
  },
  {
   "id": "obj:0288:04",
   "jp": "炎",
   "refs": 3,
-  "en": ""
+  "en": "Flame"
  },
  {
   "id": "obj:0288:08",
   "jp": "触れたら痛い",
   "refs": 1,
-  "en": ""
+  "en": "Touching it hurts"
  },
  {
   "id": "obj:0289:04",
   "jp": "請願の坐像・壱",
   "refs": 1,
-  "en": ""
+  "en": "Seated Petitioner 1"
  },
  {
   "id": "obj:0289:08",
   "jp": "願いを請う民の姿を表した像\n正面から動かせそうだ",
   "refs": 10,
-  "en": ""
+  "en": "A statue of a person begging\nfor a wish. It can be moved\nfrom the front."
  },
  {
   "id": "obj:0290:04",
   "jp": "請願の坐像・弐",
   "refs": 1,
-  "en": ""
+  "en": "Seated Petitioner 2"
  },
  {
   "id": "obj:0291:04",
   "jp": "請願の坐像・参",
   "refs": 1,
-  "en": ""
+  "en": "Seated Petitioner 3"
  },
  {
   "id": "obj:0292:04",
   "jp": "請願の坐像・四",
   "refs": 1,
-  "en": ""
+  "en": "Seated Petitioner 4"
  },
  {
   "id": "obj:0293:04",
   "jp": "請願の坐像・伍",
   "refs": 1,
-  "en": ""
+  "en": "Seated Petitioner 5"
  },
  {
   "id": "obj:0294:04",
   "jp": "請願の坐像・六",
   "refs": 1,
-  "en": ""
+  "en": "Seated Petitioner 6"
  },
  {
   "id": "obj:0295:04",
   "jp": "請願の坐像・七",
   "refs": 1,
-  "en": ""
+  "en": "Seated Petitioner 7"
  },
  {
   "id": "obj:0296:04",
   "jp": "請願の坐像・八",
   "refs": 1,
-  "en": ""
+  "en": "Seated Petitioner 8"
  },
  {
   "id": "obj:0297:04",
   "jp": "請願の坐像・九",
   "refs": 1,
-  "en": ""
+  "en": "Seated Petitioner 9"
  },
  {
   "id": "obj:0298:04",
   "jp": "請願の坐像・拾",
   "refs": 1,
-  "en": ""
+  "en": "Seated Petitioner 10"
  },
  {
   "id": "obj:0299:08",
   "jp": "信仰の力を集める壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar that gathers the\npower of faith."
  },
  {
   "id": "obj:0300:04",
   "jp": "聖像の松明",
   "refs": 2,
-  "en": ""
+  "en": "Holy Statue Torch"
  },
  {
   "id": "obj:0300:08",
   "jp": "信仰の力が集まり\n戦勝を呼び込む松明として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The gathered power of faith,\nmaterialised as a torch that\nbrings victory."
  },
  {
   "id": "obj:0301:04",
   "jp": "加護の祭壇",
   "refs": 1,
-  "en": ""
+  "en": "Altar of Protection"
  },
  {
   "id": "obj:0301:08",
   "jp": "戦勝を祈り加護を願う祭壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar to pray for victory\nand protection."
  },
  {
   "id": "obj:0302:08",
   "jp": "配置用",
   "refs": 1,
-  "en": ""
+  "en": "For placement"
  },
  {
   "id": "obj:0303:04",
   "jp": "木柵",
   "refs": 4,
-  "en": ""
+  "en": "Wooden Fence"
  },
  {
   "id": "obj:0305:04",
   "jp": "武人の像",
   "refs": 1,
-  "en": ""
+  "en": "Warrior Statue"
  },
  {
   "id": "obj:0305:08",
   "jp": "禍々しい気を放つ像\nヒビが入っており、衝撃を与え\n破壊する事ができそうだ",
   "refs": 1,
-  "en": ""
+  "en": "A statue giving off a sinister\naura. It's cracked; a hard\nblow could break it."
  },
  {
   "id": "obj:0306:04",
   "jp": "智冠の柱",
   "refs": 2,
-  "en": ""
+  "en": "Wisdom Cap Pillar"
  },
  {
   "id": "obj:0306:08",
   "jp": "太古の位階を表した柱",
   "refs": 12,
-  "en": ""
+  "en": "A pillar showing an ancient\ncourt rank."
  },
  {
   "id": "obj:0307:04",
   "jp": "仁冠の柱",
   "refs": 2,
-  "en": ""
+  "en": "Benevolence Cap Pillar"
  },
  {
   "id": "obj:0308:04",
   "jp": "信冠の柱",
   "refs": 2,
-  "en": ""
+  "en": "Faith Cap Pillar"
  },
  {
   "id": "obj:0309:04",
   "jp": "礼冠の柱",
   "refs": 2,
-  "en": ""
+  "en": "Propriety Cap Pillar"
  },
  {
   "id": "obj:0310:04",
   "jp": "徳冠の柱",
   "refs": 2,
-  "en": ""
+  "en": "Virtue Cap Pillar"
  },
  {
   "id": "obj:0311:04",
   "jp": "義冠の柱",
   "refs": 2,
-  "en": ""
+  "en": "Justice Cap Pillar"
  },
  {
   "id": "obj:0312:04",
   "jp": "武人の怨念",
   "refs": 1,
-  "en": ""
+  "en": "Warrior's Grudge"
  },
  {
   "id": "obj:0312:08",
   "jp": "険しい顔をしている武人の怨念\n念の元から絶たない限り、\n消える事はない",
   "refs": 1,
-  "en": ""
+  "en": "The grudge of a grim-faced\nwarrior. It won't vanish\nunless its source is cut off."
  },
  {
   "id": "obj:0313:04",
   "jp": "取手箱\nスイッチオブジェクト",
   "refs": 1,
-  "en": ""
+  "en": "Handle Box\nSwitch Object"
  },
  {
   "id": "obj:0314:04",
   "jp": "礼：穴",
   "refs": 2,
-  "en": ""
+  "en": "Propriety: Hole"
  },
  {
   "id": "obj:0315:04",
   "jp": "義：穴",
   "refs": 2,
-  "en": ""
+  "en": "Justice: Hole"
  },
  {
   "id": "obj:0316:04",
   "jp": "信：穴",
   "refs": 2,
-  "en": ""
+  "en": "Faith: Hole"
  },
  {
   "id": "obj:0317:04",
   "jp": "仁：穴",
   "refs": 2,
-  "en": ""
+  "en": "Benevolence: Hole"
  },
  {
   "id": "obj:0318:04",
   "jp": "智：穴",
   "refs": 2,
-  "en": ""
+  "en": "Wisdom: Hole"
  },
  {
   "id": "obj:0319:04",
   "jp": "徳：穴",
   "refs": 2,
-  "en": ""
+  "en": "Virtue: Hole"
  },
  {
   "id": "obj:0320:04",
   "jp": "俳優の碑",
   "refs": 1,
-  "en": ""
+  "en": "Jester's Stele"
  },
  {
   "id": "obj:0320:08",
   "jp": "太古の道化が描かれた石碑\nおどけながらも、武器を持つ者\nが入らぬよう監視する様子が\n描かれている",
   "refs": 1,
-  "en": ""
+  "en": "A stele of an ancient jester,\nclowning while watching that\nno one armed gets in."
  },
  {
   "id": "obj:0321:04",
   "jp": "大嘗の壇",
   "refs": 1,
-  "en": ""
+  "en": "Daijo Altar"
  },
  {
   "id": "obj:0321:08",
   "jp": "天皇の即位を祝福する壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar celebrating an\nemperor's enthronement."
  },
  {
   "id": "obj:0322:04",
   "jp": "即位の証",
   "refs": 3,
-  "en": ""
+  "en": "Proof of Enthronement"
  },
  {
   "id": "obj:0322:08",
   "jp": "天皇の即位の証たる\n大嘗の祭具が実体化したもの",
   "refs": 3,
-  "en": ""
+  "en": "The Daijo ritual tool, proof\nof an emperor's enthronement,\nmaterialised."
  },
  {
   "id": "obj:0324:04",
   "jp": "智皇の柱",
   "refs": 1,
-  "en": ""
+  "en": "Tenji Pillar"
  },
  {
   "id": "obj:0324:08",
   "jp": "天智天皇の即位と、\nその政りを表した柱",
   "refs": 1,
-  "en": ""
+  "en": "A pillar showing Emperor\nTenji's enthronement and his\nrule."
  },
  {
   "id": "obj:0325:04",
   "jp": "アタッチメント",
   "refs": 5,
-  "en": ""
+  "en": "Attachment"
  },
  {
   "id": "obj:0326:08",
   "jp": "アタッチメント用",
   "refs": 1,
-  "en": ""
+  "en": "For attachments"
  },
  {
   "id": "obj:0330:04",
   "jp": "武皇の柱",
   "refs": 2,
-  "en": ""
+  "en": "Tenmu Pillar"
  },
  {
   "id": "obj:0330:08",
   "jp": "天武天皇の即位と、\nその政りを表した柱",
   "refs": 1,
-  "en": ""
+  "en": "A pillar showing Emperor\nTenmu's enthronement and his\nrule."
  },
  {
   "id": "obj:0334:04",
   "jp": "邪悪オーラ",
   "refs": 2,
-  "en": ""
+  "en": "Evil Aura"
  },
  {
   "id": "obj:0335:08",
   "jp": "天武天皇の即位と、\nその政りを表した柱\n禍々しい怒気に阻まれ\n触れることができない",
   "refs": 1,
-  "en": ""
+  "en": "A pillar showing Emperor\nTenmu's enthronement and rule.\nSinister rage keeps you from\ntouching it."
  },
  {
   "id": "obj:0336:04",
   "jp": "大友の刺客",
   "refs": 1,
-  "en": ""
+  "en": "Otomo's Assassin"
  },
  {
   "id": "obj:0336:08",
   "jp": "禍々しい怒気を放つ像\nヒビが入っており、衝撃を与え\n破壊する事ができそうだ",
   "refs": 1,
-  "en": ""
+  "en": "A statue giving off sinister\nrage. It's cracked; a hard\nblow could break it."
  },
  {
   "id": "obj:0341:08",
   "jp": "死者の残留思念が\n洞の影響で強く残っている。\n姿は女の子のように見える",
   "refs": 1,
-  "en": ""
+  "en": "A dead person's lingering\nthoughts, kept strong by the\nHollow. It looks like a girl."
  },
  {
   "id": "obj:0351:04",
   "jp": "門オブジェクト",
   "refs": 4,
-  "en": ""
+  "en": "Gate Object"
  },
  {
   "id": "obj:0352:04",
   "jp": "律令選定の像",
   "refs": 1,
-  "en": ""
+  "en": "Ritsuryo Drafters Statue"
  },
  {
   "id": "obj:0352:08",
   "jp": "国内の律令制を定める為に\n内容を選定し律令制度を\n作成した人物達の像",
   "refs": 1,
-  "en": ""
+  "en": "A statue of the people who\nchose the content of the\nnation's legal codes and drew\nthem up."
  },
  {
   "id": "obj:0353:04",
   "jp": "道作りの木簡",
   "refs": 2,
-  "en": ""
+  "en": "Wooden Slip of the Way"
  },
  {
   "id": "obj:0353:08",
   "jp": "行政を定める為に\n選定された者達の知識が\n木簡として実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "The knowledge of those chosen\nto set up government,\nmaterialised as a wooden slip."
  },
  {
   "id": "obj:0355:04",
   "jp": "編纂の祭壇",
   "refs": 1,
-  "en": ""
+  "en": "Altar of Compilation"
  },
  {
   "id": "obj:0355:08",
   "jp": "行政法を定める為の\n道具などが描かれた祭壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting tools and\nsuch for setting down\nadministrative law."
  },
  {
   "id": "obj:0357:04",
   "jp": "令の書",
   "refs": 2,
-  "en": ""
+  "en": "Civil Law Scroll"
  },
  {
   "id": "obj:0357:08",
   "jp": "古代の行政法が\n書簡として実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "Ancient administrative law,\nmaterialised as a document."
  },
  {
   "id": "obj:0361:04",
   "jp": "遣唐の潮風",
   "refs": 1,
-  "en": ""
+  "en": "Envoy's Sea Breeze"
  },
  {
   "id": "obj:0361:08",
   "jp": "大海を超え、\n異国へと向かうための\n潮風の力を秘めた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar holding the power of\nthe sea breeze, to cross the\nocean to foreign lands."
  },
  {
   "id": "obj:0362:04",
   "jp": "唐の祭壇",
   "refs": 1,
-  "en": ""
+  "en": "Tang Altar"
  },
  {
   "id": "obj:0362:08",
   "jp": "唐三彩の彩色が\n施されている壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar painted in Tang\nthree-colour glaze."
  },
  {
   "id": "obj:0364:04",
   "jp": "律の書",
   "refs": 2,
-  "en": ""
+  "en": "Penal Law Scroll"
  },
  {
   "id": "obj:0364:08",
   "jp": "異国の刑法が\n書簡として実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "A foreign penal code,\nmaterialised as a document."
  },
  {
   "id": "obj:0365:04",
   "jp": "帰還の潮風",
   "refs": 1,
-  "en": ""
+  "en": "Homeward Sea Breeze"
  },
  {
   "id": "obj:0365:08",
   "jp": "大海を超え、\n故郷へと戻るための\n潮風の力を秘めた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar holding the power of\nthe sea breeze, to cross the\nocean back home."
  },
  {
   "id": "obj:0366:04",
   "jp": "内政の祭壇",
   "refs": 2,
-  "en": ""
+  "en": "Altar of Governance"
  },
  {
   "id": "obj:0366:08",
   "jp": "民を律する為の\n書簡を納める為の祭壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar for storing the\ndocuments that govern the\npeople."
  },
  {
   "id": "obj:0367:08",
   "jp": "四角い物を取り付ける事の\nできそうな穴がある",
   "refs": 4,
-  "en": ""
+  "en": "There's a hole that something\nsquare could attach to."
  },
  {
   "id": "obj:0369:04",
   "jp": "律の像",
   "refs": 1,
-  "en": ""
+  "en": "Penal Law Statue"
  },
  {
   "id": "obj:0369:08",
   "jp": "定められた刑法に抗する\n民の意思が具現化した像",
   "refs": 1,
-  "en": ""
+  "en": "A statue embodying the\npeople's will to resist the\nset penal code."
  },
  {
   "id": "obj:0370:04",
   "jp": "選定の祭壇",
   "refs": 2,
-  "en": ""
+  "en": "Altar of Selection"
  },
  {
   "id": "obj:0370:08",
   "jp": "行政を定める人材を\n選定している模様が\n描かれた祭壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting the\nselection of people to run the\ngovernment."
  },
  {
   "id": "obj:0373:04",
   "jp": "治安の祭壇",
   "refs": 2,
-  "en": ""
+  "en": "Altar of Order"
  },
  {
   "id": "obj:0373:08",
   "jp": "行政法を定める為の\n書簡を納める為の祭壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar for storing the\ndocuments that set down\nadministrative law."
  },
  {
   "id": "obj:0376:04",
   "jp": "令の像",
   "refs": 1,
-  "en": ""
+  "en": "Civil Law Statue"
  },
  {
   "id": "obj:0376:08",
   "jp": "定められた行政法に\n対して反対した人間の\n意志が具現化した像",
   "refs": 1,
-  "en": ""
+  "en": "A statue embodying the will of\nthose who opposed the set\nadministrative law."
  },
  {
   "id": "obj:0379:04",
   "jp": "四子の像",
   "refs": 4,
-  "en": ""
+  "en": "Four Sons Statue"
  },
  {
   "id": "obj:0379:08",
   "jp": "被っている帽子と牙笏に\n南家と書かれている像",
   "refs": 1,
-  "en": ""
+  "en": "A statue with \"Nanke\" written\non its cap and ivory tablet."
  },
  {
   "id": "obj:0380:08",
   "jp": "被っている帽子と牙笏に\n北家と書かれている像",
   "refs": 1,
-  "en": ""
+  "en": "A statue with \"Hokke\" written\non its cap and ivory tablet."
  },
  {
   "id": "obj:0381:08",
   "jp": "被っている帽子と牙笏に\n式家と書かれている像",
   "refs": 1,
-  "en": ""
+  "en": "A statue with \"Shikike\"\nwritten on its cap and ivory\ntablet."
  },
  {
   "id": "obj:0382:08",
   "jp": "被っている帽子と牙笏に\n京家と書かれている像",
   "refs": 1,
-  "en": ""
+  "en": "A statue with \"Kyoke\" written\non its cap and ivory tablet."
  },
  {
   "id": "obj:0384:04",
   "jp": "長屋王の祭壇",
   "refs": 1,
-  "en": ""
+  "en": "Prince Nagaya's Altar"
  },
  {
   "id": "obj:0384:08",
   "jp": "敵に追われ自害した貴人の\n怨念がこもった祭壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar steeped in the grudge\nof a noble who killed himself\nwhen hunted by enemies."
  },
  {
   "id": "obj:0386:04",
   "jp": "回転力の書",
   "refs": 2,
-  "en": ""
+  "en": "Scroll of Turning Force"
  },
  {
   "id": "obj:0386:08",
   "jp": "運命を変えられた人間の\n強烈な怨念が書簡として\n実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "The fierce grudge of one whose\nfate was changed, materialised\nas a document."
  },
  {
   "id": "obj:0389:04",
   "jp": "大宰少弐の台",
   "refs": 1,
-  "en": ""
+  "en": "Dazai-Shoni's Stand"
  },
  {
   "id": "obj:0402:04",
   "jp": "代用扉",
   "refs": 1,
-  "en": ""
+  "en": "Substitute Door"
  },
  {
   "id": "obj:0402:08",
   "jp": "操作できない扉の替わりに設置",
   "refs": 1,
-  "en": ""
+  "en": "Placed instead of a door that\ncan't be operated"
  },
  {
   "id": "obj:0403:08",
   "jp": "死者の残留思念が\n洞の影響で強く残っている。\n姿は男性のように見える",
   "refs": 1,
-  "en": ""
+  "en": "A dead person's lingering\nthoughts, kept strong by the\nHollow. It looks like a man."
  },
  {
   "id": "obj:0405:04",
   "jp": "恒貞親王像",
   "refs": 2,
-  "en": ""
+  "en": "Prince Tsunesada Statue"
  },
  {
   "id": "obj:0405:08",
   "jp": "ヒビ割れた貴人の像\n動かす事ができそうだ",
   "refs": 2,
-  "en": ""
+  "en": "A cracked statue of a noble.\nIt looks like it can be moved."
  },
  {
   "id": "obj:0406:08",
   "jp": "ヒビ割れた貴人の像\n今にも壊れそうだ",
   "refs": 2,
-  "en": ""
+  "en": "A cracked statue of a noble.\nIt looks ready to crumble."
  },
  {
   "id": "obj:0407:04",
   "jp": "源高明像",
   "refs": 2,
-  "en": ""
+  "en": "Takaakira Statue"
  },
  {
   "id": "obj:0410:04",
   "jp": "儀式の壇",
   "refs": 2,
-  "en": ""
+  "en": "Ritual Altar"
  },
  {
   "id": "obj:0410:08",
   "jp": "加持祈祷をする\n陰陽師達が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting onmyoji\nperforming esoteric prayer\nrites."
  },
  {
   "id": "obj:0411:08",
   "jp": "筒状の物を取り付ける事の\nできそうな穴がある",
   "refs": 1,
-  "en": ""
+  "en": "There is a hole that a\ntube-shaped object could fit\ninto."
  },
  {
   "id": "obj:0412:04",
   "jp": "儀式の炎",
   "refs": 1,
-  "en": ""
+  "en": "Ritual Flame"
  },
  {
   "id": "obj:0412:08",
   "jp": "加持祈祷をした\n人々の祈りの力が\n炎として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The prayers of those who\nperformed the rites, made\nmanifest as flame."
  },
  {
   "id": "obj:0413:04",
   "jp": "祈りの像",
   "refs": 1,
-  "en": ""
+  "en": "Statue of Prayer"
  },
  {
   "id": "obj:0413:08",
   "jp": "儀式を執り行う\n陰陽師を表した像",
   "refs": 1,
-  "en": ""
+  "en": "A statue depicting an onmyoji\nconducting a ritual."
  },
  {
   "id": "obj:0417:04",
   "jp": "加持祈祷の祭壇",
   "refs": 1,
-  "en": ""
+  "en": "Altar of Esoteric Rites"
  },
  {
   "id": "obj:0417:08",
   "jp": "炎による祈りの儀式が\n描かれた祭壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting a ritual of\nprayer by fire."
  },
  {
   "id": "obj:0419:04",
   "jp": "鎮炎の祈り",
   "refs": 1,
-  "en": ""
+  "en": "Prayer to Quell Flames"
  },
  {
   "id": "obj:0419:08",
   "jp": "災厄を払う力が金剛杵として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The power to ward off\ncalamity, made manifest as a\nvajra."
  },
  {
   "id": "obj:0420:04",
   "jp": "業火の壇",
   "refs": 2,
-  "en": ""
+  "en": "Hellfire Altar"
  },
  {
   "id": "obj:0420:08",
   "jp": "炎に巻き込まれた\n門が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting a gate\nengulfed in flames."
  },
  {
   "id": "obj:0421:08",
   "jp": "鍵状の物を取り付ける事の\nできそうな穴がある",
   "refs": 1,
-  "en": ""
+  "en": "There is a hole that a\nkey-shaped object could fit\ninto."
  },
  {
   "id": "obj:0424:04",
   "jp": "満干の壇",
   "refs": 1,
-  "en": ""
+  "en": "Tidal Altar"
  },
  {
   "id": "obj:0424:08",
   "jp": "潮風の力によって\n水の流れを操る力を秘めた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar hiding the power to\ncontrol the flow of water with\nthe sea wind."
  },
  {
   "id": "obj:0425:04",
   "jp": "移動オブジェクト",
   "refs": 2,
-  "en": ""
+  "en": "Moving Object"
  },
  {
   "id": "obj:0426:04",
   "jp": "饗応の壇",
   "refs": 1,
-  "en": ""
+  "en": "Banquet Altar"
  },
  {
   "id": "obj:0426:08",
   "jp": "武器を打ち捨てる、\n迎合の儀が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting a rite of\nsubmission, weapons cast\naside."
  },
  {
   "id": "obj:0428:04",
   "jp": "改名の証",
   "refs": 1,
-  "en": ""
+  "en": "Proof of Renaming"
  },
  {
   "id": "obj:0428:08",
   "jp": "戦禍を避ける為に\n自らの名前を変えた\n人間の強い意志が\n木簡として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "One man's strong will to\nchange his name to escape war,\nmade manifest as a wooden\ntablet."
  },
  {
   "id": "obj:0429:08",
   "jp": "薄い板状の物を取り付ける事の\nできそうな穴がある",
   "refs": 1,
-  "en": ""
+  "en": "There is a hole that a thin,\nplank-like object could fit\ninto."
  },
  {
   "id": "obj:0432:04",
   "jp": "陸奥守の宝箱",
   "refs": 2,
-  "en": ""
+  "en": "Mutsu Governor's Chest"
  },
  {
   "id": "obj:0432:08",
   "jp": "重厚な素材でできている箱\n衝撃を与える事で\n破壊する事ができそうだ",
   "refs": 2,
-  "en": ""
+  "en": "A box made of heavy material.\nA strong impact might break\nit."
  },
  {
   "id": "obj:0434:04",
   "jp": "怨恨の像",
   "refs": 1,
-  "en": ""
+  "en": "Statue of Grudges"
  },
  {
   "id": "obj:0434:08",
   "jp": "怨敵を処刑せんとする、\n激しい憎悪が具現化した像",
   "refs": 1,
-  "en": ""
+  "en": "A statue embodying fierce\nhatred, bent on executing a\nsworn foe."
  },
  {
   "id": "obj:0435:04",
   "jp": "血錆の斬首刀",
   "refs": 1,
-  "en": ""
+  "en": "Blood-Rusted Execution Sword"
  },
  {
   "id": "obj:0435:08",
   "jp": "深い恨みが血に錆びた\n刀剣として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "A deep grudge, made manifest\nas a sword rusted with blood."
  },
  {
   "id": "obj:0436:04",
   "jp": "避矢の戦馬",
   "refs": 2,
-  "en": ""
+  "en": "Arrow-Dodging Warhorse"
  },
  {
   "id": "obj:0436:08",
   "jp": "戦馬の魂が具現化したもの\n何かをはめる事で\n動かす事ができそうだ",
   "refs": 1,
-  "en": ""
+  "en": "A warhorse's soul made\nmanifest. Fitting something in\nmight let it move."
  },
  {
   "id": "obj:0437:08",
   "jp": "戦馬の魂が具現化したもの\n動かす事ができるようだ",
   "refs": 1,
-  "en": ""
+  "en": "A warhorse's soul made\nmanifest. It seems it can be\nmoved."
  },
  {
   "id": "obj:0443:04",
   "jp": "藤原経清の像",
   "refs": 1,
-  "en": ""
+  "en": "Fujiwara no Tsunekiyo Statue"
  },
  {
   "id": "obj:0443:08",
   "jp": "苦悶の形相の武士像\n棒状の物を差し込む事が\nできそうだ",
   "refs": 1,
-  "en": ""
+  "en": "A warrior statue with an\nagonized face. A rod-like\nobject could be inserted."
  },
  {
   "id": "obj:0445:04",
   "jp": "源頼義の像",
   "refs": 1,
-  "en": ""
+  "en": "Minamoto no Yoriyoshi Statue"
  },
  {
   "id": "obj:0445:08",
   "jp": "憤怒の形相で刀を振るう武士像",
   "refs": 1,
-  "en": ""
+  "en": "A warrior statue swinging a\nsword, its face full of rage."
  },
  {
   "id": "obj:0452:04",
   "jp": "光る床",
   "refs": 6,
-  "en": ""
+  "en": "Glowing Floor"
  },
  {
   "id": "obj:0463:04",
   "jp": "非礼の壇",
   "refs": 1,
-  "en": ""
+  "en": "Altar of Insolence"
  },
  {
   "id": "obj:0463:08",
   "jp": "客人を無視し\n碁に興じる非礼に対し\n投げつけられた供物が\n描かれている壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting offerings\nhurled at one who rudely\nignored his guest for a game\nof go."
  },
  {
   "id": "obj:0464:04",
   "jp": "反旗の志",
   "refs": 1,
-  "en": ""
+  "en": "Will to Rebel"
  },
  {
   "id": "obj:0464:08",
   "jp": "国の将に対して挙兵する\n強い意志が書簡として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "A strong will to raise arms\nagainst the realm's general,\nmade manifest as a letter."
  },
  {
   "id": "obj:0465:04",
   "jp": "怨霊",
   "refs": 7,
-  "en": ""
+  "en": "Vengeful Ghost"
  },
  {
   "id": "obj:0466:04",
   "jp": "不服の石版",
   "refs": 1,
-  "en": ""
+  "en": "Tablet of Discontent"
  },
  {
   "id": "obj:0466:08",
   "jp": "恩賞に対する不満が、\n新たな戦火となる様子が\n描かれている石版",
   "refs": 1,
-  "en": ""
+  "en": "A stone tablet depicting\ndiscontent over rewards\nsparking a new war."
  },
  {
   "id": "obj:0467:04",
   "jp": "敗走の書簡",
   "refs": 2,
-  "en": ""
+  "en": "Letter of Retreat"
  },
  {
   "id": "obj:0467:08",
   "jp": "一族を討たれてなお、\n逃げ延びた将の無念が\n書簡として実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "The regret of a general who\nfled though his clan was\nslain, made manifest as a\nletter."
  },
  {
   "id": "obj:0468:04",
   "jp": "オブジェクト配置場所",
   "refs": 2,
-  "en": ""
+  "en": "Object Placement Spot"
  },
  {
   "id": "obj:0470:04",
   "jp": "協議の壇",
   "refs": 2,
-  "en": ""
+  "en": "Council Altar"
  },
  {
   "id": "obj:0470:08",
   "jp": "再起をかけて\n挙兵を募る将の様子が\n描かれている壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting a general\nrallying troops in a bid to\nrise again."
  },
  {
   "id": "obj:0471:08",
   "jp": "何かをのせる事の\nできそうな台",
   "refs": 2,
-  "en": ""
+  "en": "A stand that something could\nbe placed on."
  },
  {
   "id": "obj:0473:04",
   "jp": "共闘の志",
   "refs": 2,
-  "en": ""
+  "en": "Allied Resolve"
  },
  {
   "id": "obj:0473:08",
   "jp": "共闘を誓う強い意志が\n書簡として実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "A strong vow to fight side by\nside, made manifest as a\nletter."
  },
  {
   "id": "obj:0475:04",
   "jp": "怨霊弓1",
   "refs": 1,
-  "en": ""
+  "en": "Ghost Bow 1"
  },
  {
   "id": "obj:0476:04",
   "jp": "矢",
   "refs": 5,
-  "en": ""
+  "en": "Arrow"
  },
  {
   "id": "obj:0477:04",
   "jp": "参戦の壇",
   "refs": 2,
-  "en": ""
+  "en": "Altar of Alliance"
  },
  {
   "id": "obj:0477:08",
   "jp": "共に戦う意志を持った\n武将同士が握手をしている\n様子が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting warlords\nwho share the will to fight\ntogether shaking hands."
  },
  {
   "id": "obj:0480:04",
   "jp": "隠人岩",
   "refs": 2,
-  "en": ""
+  "en": "Oni Rock"
  },
  {
   "id": "obj:0481:04",
   "jp": "怨霊弓2",
   "refs": 1,
-  "en": ""
+  "en": "Ghost Bow 2"
  },
  {
   "id": "obj:0483:04",
   "jp": "召集の法螺",
   "refs": 1,
-  "en": ""
+  "en": "Rallying Conch"
  },
  {
   "id": "obj:0483:08",
   "jp": "ホラ貝を吹き\n味方兵を呼んでいる姿の像\n衝撃を与え\n破壊する事ができそうだ",
   "refs": 1,
-  "en": ""
+  "en": "A statue blowing a conch to\nsummon allies. A strong impact\nmight break it."
  },
  {
   "id": "obj:0484:04",
   "jp": "疑心呼びの羽音",
   "refs": 1,
-  "en": ""
+  "en": "Wingbeats of Doubt"
  },
  {
   "id": "obj:0484:08",
   "jp": "水鳥が今にも羽ばたきそうな\n像が飾られている\n衝撃を与え\n破壊する事ができそうだ",
   "refs": 1,
-  "en": ""
+  "en": "A statue of waterfowl about to\ntake flight. A strong impact\nmight break it."
  },
  {
   "id": "obj:0485:08",
   "jp": "鹿の印が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar bearing a deer\nemblem."
  },
  {
   "id": "obj:0486:04",
   "jp": "牡鹿の印章",
   "refs": 2,
-  "en": ""
+  "en": "Stag Seal"
  },
  {
   "id": "obj:0486:08",
   "jp": "牡鹿の装飾が施された印章",
   "refs": 2,
-  "en": ""
+  "en": "A seal decorated with a stag."
  },
  {
   "id": "obj:0490:04",
   "jp": "眩ましの白旗",
   "refs": 1,
-  "en": ""
+  "en": "White Flag of Deceit"
  },
  {
   "id": "obj:0490:08",
   "jp": "敵の目を欺く力を持った旗",
   "refs": 1,
-  "en": ""
+  "en": "A flag with the power to\ndeceive enemy eyes."
  },
  {
   "id": "obj:0491:04",
   "jp": "火牛の石壇",
   "refs": 1,
-  "en": ""
+  "en": "Fire Ox Stone Altar"
  },
  {
   "id": "obj:0491:08",
   "jp": "燃え盛る火を焚きつけられた\n牛を表した石壇\n動かすことができそうだ",
   "refs": 1,
-  "en": ""
+  "en": "A stone altar showing oxen\ngoaded with blazing fire. It\nlooks movable."
  },
  {
   "id": "obj:0492:04",
   "jp": "木曽馬の石柱",
   "refs": 2,
-  "en": ""
+  "en": "Kiso Horse Pillar"
  },
  {
   "id": "obj:0492:08",
   "jp": "義仲に従う木曽衆の力が\n実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "The power of the Kiso band\nserving Yoshinaka, made\nmanifest."
  },
  {
   "id": "obj:0493:04",
   "jp": "佐久馬の石柱",
   "refs": 2,
-  "en": ""
+  "en": "Saku Horse Pillar"
  },
  {
   "id": "obj:0493:08",
   "jp": "義仲に従う佐久衆の力が\n実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "The power of the Saku band\nserving Yoshinaka, made\nmanifest."
  },
  {
   "id": "obj:0494:04",
   "jp": "上州馬の石柱",
   "refs": 2,
-  "en": ""
+  "en": "Joshu Horse Pillar"
  },
  {
   "id": "obj:0494:08",
   "jp": "義仲に従う上州衆の力が\n実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "The power of the Joshu band\nserving Yoshinaka, made\nmanifest."
  },
  {
   "id": "obj:0495:04",
   "jp": "北陸宮の像",
   "refs": 1,
-  "en": ""
+  "en": "Hokurikunomiya Statue"
  },
  {
   "id": "obj:0495:08",
   "jp": "新しい道を開く、\n高貴なる血脈の力が\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The power of a noble bloodline\nthat opens a new path, made\nmanifest."
  },
  {
   "id": "obj:0496:04",
   "jp": "穴をふさぐ",
   "refs": 2,
-  "en": ""
+  "en": "Plug the Hole"
  },
  {
   "id": "obj:0498:04",
   "jp": "縛鍵の上片",
   "refs": 2,
-  "en": ""
+  "en": "Bind Key, Top Half"
  },
  {
   "id": "obj:0498:08",
   "jp": "柳と雨が彫られた\nプレートの上半分",
   "refs": 2,
-  "en": ""
+  "en": "The upper half of a plate\nengraved with willow and rain."
  },
  {
   "id": "obj:0499:04",
   "jp": "縛鍵の壇",
   "refs": 2,
-  "en": ""
+  "en": "Bind Key Altar"
  },
  {
   "id": "obj:0499:08",
   "jp": "幾何学模様と柳が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar with geometric\npatterns and willows."
  },
  {
   "id": "obj:0507:08",
   "jp": "取手を回すことが出来る箱",
   "refs": 1,
-  "en": ""
+  "en": "A box with a handle that can\nbe turned."
  },
  {
   "id": "obj:0510:04",
   "jp": "勅命の壇",
   "refs": 1,
-  "en": ""
+  "en": "Altar of Decree"
  },
  {
   "id": "obj:0510:08",
   "jp": "平氏追討の命を下す、\n法皇の姿が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting the\ncloistered emperor ordering\nthe Taira hunted down."
  },
  {
   "id": "obj:0512:04",
   "jp": "追討の刺刀",
   "refs": 2,
-  "en": ""
+  "en": "Punitive Dagger"
  },
  {
   "id": "obj:0512:08",
   "jp": "平氏追討の任を受ける誉れが\n小型の刀として実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "The honor of being charged to\nhunt the Taira, made manifest\nas a short blade."
  },
  {
   "id": "obj:0513:04",
   "jp": "平将の面",
   "refs": 1,
-  "en": ""
+  "en": "Taira General Mask"
  },
  {
   "id": "obj:0513:08",
   "jp": "平家の将の姿を表した面\n禍々しい気を放っている",
   "refs": 1,
-  "en": ""
+  "en": "A mask of a Taira general. It\ngives off a sinister aura."
  },
  {
   "id": "obj:0514:08",
   "jp": "何かを差し込む穴が見える",
   "refs": 1,
-  "en": ""
+  "en": "A hole for inserting something\nis visible."
  },
  {
   "id": "obj:0517:04",
   "jp": "範頼の壇",
   "refs": 1,
-  "en": ""
+  "en": "Noriyori Altar"
  },
  {
   "id": "obj:0517:08",
   "jp": "源範頼に率いられた、\n源氏の水軍が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting the Genji\nfleet led by Minamoto no\nNoriyori."
  },
  {
   "id": "obj:0519:04",
   "jp": "潮変えの手回し",
   "refs": 3,
-  "en": ""
+  "en": "Tide-Turning Crank"
  },
  {
   "id": "obj:0519:08",
   "jp": "潮の流れを変える力が\n手回しとして実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "The power to change the tide's\nflow, made manifest as a\ncrank."
  },
  {
   "id": "obj:0520:04",
   "jp": "水軍の壇",
   "refs": 1,
-  "en": ""
+  "en": "Fleet Altar"
  },
  {
   "id": "obj:0520:08",
   "jp": "軍船を操る力を秘めた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar with the hidden power\nto steer warships."
  },
  {
   "id": "obj:0521:08",
   "jp": "潮の流れを変える力が\n手回しとして実体化したもの\n今は操作できないようだ",
   "refs": 1,
-  "en": ""
+  "en": "The power to change the tide's\nflow, made manifest as a\ncrank. It can't be used now."
  },
  {
   "id": "obj:0532:04",
   "jp": "神玉の壇",
   "refs": 1,
-  "en": ""
+  "en": "Sacred Jewel Altar"
  },
  {
   "id": "obj:0532:08",
   "jp": "月神の力が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting the moon\ngod's power."
  },
  {
   "id": "obj:0534:04",
   "jp": "八尺瓊勾玉",
   "refs": 2,
-  "en": ""
+  "en": "Yasakani no Magatama"
  },
  {
   "id": "obj:0534:08",
   "jp": "月神の力を象徴した、\n三種の神器の一つが\n実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "One of the Three Sacred\nTreasures, symbol of the moon\ngod's power, made manifest."
  },
  {
   "id": "obj:0535:04",
   "jp": "神鏡の壇",
   "refs": 1,
-  "en": ""
+  "en": "Sacred Mirror Altar"
  },
  {
   "id": "obj:0535:08",
   "jp": "日神の力が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting the sun\ngod's power."
  },
  {
   "id": "obj:0537:04",
   "jp": "八咫鏡",
   "refs": 2,
-  "en": ""
+  "en": "Yata no Kagami"
  },
  {
   "id": "obj:0537:08",
   "jp": "日神の力を象徴した、\n三種の神器の一つが\n実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "One of the Three Sacred\nTreasures, symbol of the sun\ngod's power, made manifest."
  },
  {
   "id": "obj:0538:04",
   "jp": "神器の壇",
   "refs": 1,
-  "en": ""
+  "en": "Treasure Altar"
  },
  {
   "id": "obj:0538:08",
   "jp": "神器を納める祭壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar to enshrine the\nsacred treasures."
  },
  {
   "id": "obj:0544:08",
   "jp": "はこ",
   "refs": 2,
-  "en": ""
+  "en": "Box"
  },
  {
   "id": "obj:0546:04",
   "jp": "関手の碑",
   "refs": 1,
-  "en": ""
+  "en": "Toll Monument"
  },
  {
   "id": "obj:0546:08",
   "jp": "関の通行料を記した碑\n三つの面それぞれに、\n通行するものに応じた銭が\n描かれている",
   "refs": 1,
-  "en": ""
+  "en": "A monument of barrier tolls.\nIts three faces each show the\ncoins due for a kind of\ntraveler."
  },
  {
   "id": "obj:0547:04",
   "jp": "関銭台",
   "refs": 4,
-  "en": ""
+  "en": "Toll Stand"
  },
  {
   "id": "obj:0547:08",
   "jp": "関の通行料を表す台\n何も置かれていない",
   "refs": 1,
-  "en": ""
+  "en": "A stand showing the barrier\ntoll. Nothing is on it."
  },
  {
   "id": "obj:0548:08",
   "jp": "関の通行料を表す台\n銅銭が一つ置かれている",
   "refs": 1,
-  "en": ""
+  "en": "A stand showing the barrier\ntoll. One copper coin is on\nit."
  },
  {
   "id": "obj:0549:08",
   "jp": "関の通行料を表す台\n銅銭が三つ置かれている",
   "refs": 1,
-  "en": ""
+  "en": "A stand showing the barrier\ntoll. Three copper coins are\non it."
  },
  {
   "id": "obj:0550:08",
   "jp": "関の通行料を表す台\n銅銭が五つ置かれている",
   "refs": 1,
-  "en": ""
+  "en": "A stand showing the barrier\ntoll. Five copper coins are on\nit."
  },
  {
   "id": "obj:0552:04",
   "jp": "関所・守り手",
   "refs": 1,
-  "en": ""
+  "en": "Barrier Guard"
  },
  {
   "id": "obj:0552:08",
   "jp": "関の通行料を改める番",
   "refs": 1,
-  "en": ""
+  "en": "The guard who checks barrier\ntolls."
  },
  {
   "id": "obj:0553:04",
   "jp": "忠心錫・台座",
   "refs": 1,
-  "en": ""
+  "en": "Loyal Staff Pedestal"
  },
  {
   "id": "obj:0553:08",
   "jp": "錫が乗せられた台座\n動かすことができそうだ",
   "refs": 1,
-  "en": ""
+  "en": "A pedestal holding a staff. It\nlooks like it can be moved."
  },
  {
   "id": "obj:0554:04",
   "jp": "忠心錫",
   "refs": 1,
-  "en": ""
+  "en": "Loyal Staff"
  },
  {
   "id": "obj:0554:08",
   "jp": "弁慶の忠義が実体化した錫\n行く手を遮るものを\n打ち砕く力を持つ",
   "refs": 1,
-  "en": ""
+  "en": "A staff embodying Benkei's\nloyalty. It can smash whatever\nblocks the way."
  },
  {
   "id": "obj:0557:08",
   "jp": "地面を貫き迸る、濃密な龍気\n立ち入ることは出来そうにない",
   "refs": 1,
-  "en": ""
+  "en": "Dense dragon energy surging up\nthrough the ground. There's no\nway in."
  },
  {
   "id": "obj:0558:04",
   "jp": "機知の壇",
   "refs": 1,
-  "en": ""
+  "en": "Altar of Wit"
  },
  {
   "id": "obj:0558:08",
   "jp": "弁慶の機転や知恵を表した壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar representing Benkei's\nquick wit and wisdom."
  },
  {
   "id": "obj:0560:04",
   "jp": "道開きの知恵",
   "refs": 1,
-  "en": ""
+  "en": "Path-Opening Wisdom"
  },
  {
   "id": "obj:0560:08",
   "jp": "困難な道行きを切り開く、\n弁慶の知恵が頭巾として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Benkei's wisdom for cutting\nthrough a hard road, made\nmanifest as a hood."
  },
  {
   "id": "obj:0561:08",
   "jp": "六角形の穴が空いている",
   "refs": 1,
-  "en": ""
+  "en": "There is a hexagonal hole."
  },
  {
   "id": "obj:0563:04",
   "jp": "ハシゴ",
   "refs": 1,
-  "en": ""
+  "en": "Ladder"
  },
  {
   "id": "obj:0566:04",
   "jp": "従者の灯篭",
   "refs": 1,
-  "en": ""
+  "en": "Retainer's Lantern"
  },
  {
   "id": "obj:0566:08",
   "jp": "義経と共に落ち延びた\n従者の念が篭った灯篭",
   "refs": 1,
-  "en": ""
+  "en": "A lantern holding the feelings\nof the retainers who fled with\nYoshitsune."
  },
  {
   "id": "obj:0582:04",
   "jp": "幽霊オブジェクト仮",
   "refs": 1,
-  "en": ""
+  "en": "Ghost Object (Temp)"
  },
  {
   "id": "obj:0582:08",
   "jp": "幽霊オブジェクト説明",
   "refs": 1,
-  "en": ""
+  "en": "Ghost object description"
  },
  {
   "id": "obj:0583:04",
   "jp": "征服の弩",
   "refs": 2,
-  "en": ""
+  "en": "Conquest Crossbow"
  },
  {
   "id": "obj:0583:08",
   "jp": "行く手を阻む障害を\n粉砕する力を秘めた弩",
   "refs": 2,
-  "en": ""
+  "en": "A crossbow with the hidden\npower to smash obstacles in\nyour path."
  },
  {
   "id": "obj:0585:08",
   "jp": "糸をかけることができる\n作りになっている",
   "refs": 1,
-  "en": ""
+  "en": "It's built so that a string\ncan be hooked onto it."
  },
  {
   "id": "obj:0586:08",
   "jp": "何かを取り付ける突起がある",
   "refs": 1,
-  "en": ""
+  "en": "There is a protrusion to\nattach something to."
  },
  {
   "id": "obj:0588:04",
   "jp": "浮く足場",
   "refs": 3,
-  "en": ""
+  "en": "Floating Platform"
  },
  {
   "id": "obj:0589:04",
   "jp": "浮く足場,起動後",
   "refs": 1,
-  "en": ""
+  "en": "Floating Platform, Active"
  },
  {
   "id": "obj:0590:04",
   "jp": "布武の梯車",
   "refs": 2,
-  "en": ""
+  "en": "Martial Ladder Wheel"
  },
  {
   "id": "obj:0590:08",
   "jp": "遥か高みを目指す意思が\n梯車として実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "A will reaching for distant\nheights, made manifest as a\nladder wheel."
  },
  {
   "id": "obj:0591:04",
   "jp": "上洛の歯車",
   "refs": 2,
-  "en": ""
+  "en": "March-on-Kyoto Gear"
  },
  {
   "id": "obj:0591:08",
   "jp": "上洛を目指す武将達の野心が\n歯車として実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "The ambition of warlords bent\non marching on Kyoto, made\nmanifest as a gear."
  },
  {
   "id": "obj:0593:04",
   "jp": "群雄門",
   "refs": 1,
-  "en": ""
+  "en": "Warlords' Gate"
  },
  {
   "id": "obj:0593:08",
   "jp": "覇を競う群雄達の武威が\n門として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The martial might of warlords\nvying for supremacy, made\nmanifest as a gate."
  },
  {
   "id": "obj:0596:04",
   "jp": "革新の鍵",
   "refs": 2,
-  "en": ""
+  "en": "Key of Innovation"
  },
  {
   "id": "obj:0596:08",
   "jp": "新しい価値を見出す\n信長の先見性が鍵として\n実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "Nobunaga's foresight in\nfinding new value, made\nmanifest as a key."
  },
  {
   "id": "obj:0597:04",
   "jp": "不和の鍵",
   "refs": 2,
-  "en": ""
+  "en": "Key of Discord"
  },
  {
   "id": "obj:0597:08",
   "jp": "人の負の感情が鍵として\n実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "People's negative emotions,\nmade manifest as a key."
  },
  {
   "id": "obj:0598:04",
   "jp": "東海守の壇",
   "refs": 1,
-  "en": ""
+  "en": "Tokai Lord's Altar"
  },
  {
   "id": "obj:0598:08",
   "jp": "今川義元が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting Imagawa\nYoshimoto."
  },
  {
   "id": "obj:0600:04",
   "jp": "見えないオブジェクト",
   "refs": 8,
-  "en": ""
+  "en": "Invisible Object"
  },
  {
   "id": "obj:0603:04",
   "jp": "死地の壇",
   "refs": 1,
-  "en": ""
+  "en": "Altar of Peril"
  },
  {
   "id": "obj:0603:08",
   "jp": "窮地に陥る将たちの姿が\n描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting generals\ndriven into a desperate\ncorner."
  },
  {
   "id": "obj:0604:04",
   "jp": "憤怒の弦",
   "refs": 1,
-  "en": ""
+  "en": "String of Fury"
  },
  {
   "id": "obj:0604:08",
   "jp": "憤怒を織り込んだような\n禍々しい気を放つ弦",
   "refs": 1,
-  "en": ""
+  "en": "A bowstring giving off a\nsinister aura, as if woven\nfrom fury."
  },
  {
   "id": "obj:0605:04",
   "jp": "裏切りの壇",
   "refs": 1,
-  "en": ""
+  "en": "Altar of Betrayal"
  },
  {
   "id": "obj:0605:08",
   "jp": "裏切られ背後から襲われる\n将の姿が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting a betrayed\ngeneral attacked from behind."
  },
  {
   "id": "obj:0606:04",
   "jp": "復讐の鏃",
   "refs": 1,
-  "en": ""
+  "en": "Arrowhead of Revenge"
  },
  {
   "id": "obj:0606:08",
   "jp": "黒い炎をまとった鏃",
   "refs": 1,
-  "en": ""
+  "en": "An arrowhead wreathed in black\nflame."
  },
  {
   "id": "obj:0609:04",
   "jp": "騎馬台座",
   "refs": 1,
-  "en": ""
+  "en": "Cavalry Pedestal"
  },
  {
   "id": "obj:0609:08",
   "jp": "騎馬",
   "refs": 1,
-  "en": ""
+  "en": "Cavalry"
  },
  {
   "id": "obj:0610:04",
   "jp": "騎馬兵",
   "refs": 2,
-  "en": ""
+  "en": "Cavalryman"
  },
  {
   "id": "obj:0611:04",
   "jp": "銃火の壇",
   "refs": 1,
-  "en": ""
+  "en": "Gunfire Altar"
  },
  {
   "id": "obj:0611:08",
   "jp": "銃に打ち破られる\n騎馬兵の姿が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting cavalrymen\ncut down by guns."
  },
  {
   "id": "obj:0613:04",
   "jp": "軍議の壇",
   "refs": 1,
-  "en": ""
+  "en": "War Council Altar"
  },
  {
   "id": "obj:0613:08",
   "jp": "対立しあう武将達の姿が\n描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting warlords at\nodds with one another."
  },
  {
   "id": "obj:0616:04",
   "jp": "龍脈",
   "refs": 1,
-  "en": ""
+  "en": "Dragon Vein"
  },
  {
   "id": "obj:0616:08",
   "jp": "龍脈１（南側）",
   "refs": 1,
-  "en": ""
+  "en": "Dragon vein 1 (south)"
  },
  {
   "id": "obj:0617:04",
   "jp": "寺オブジェクト",
   "refs": 2,
-  "en": ""
+  "en": "Temple Object"
  },
  {
   "id": "obj:0619:04",
   "jp": "本能寺梯子",
   "refs": 1,
-  "en": ""
+  "en": "Honnoji Ladder"
  },
  {
   "id": "obj:0630:04",
   "jp": "回転扉",
   "refs": 1,
-  "en": ""
+  "en": "Revolving Door"
  },
  {
   "id": "obj:0630:08",
   "jp": "周囲の壁と異なり\n回転させることができる",
   "refs": 1,
-  "en": ""
+  "en": "Unlike the walls around it,\nthis can be rotated."
  },
  {
   "id": "obj:0636:08",
   "jp": "鍵状の穴が開いている",
   "refs": 2,
-  "en": ""
+  "en": "There is a key-shaped hole."
  },
  {
   "id": "obj:0640:04",
   "jp": "掛け軸",
   "refs": 1,
-  "en": ""
+  "en": "Hanging Scroll"
  },
  {
   "id": "obj:0640:08",
   "jp": "動かすことができそうだ",
   "refs": 1,
-  "en": ""
+  "en": "It looks like it can be moved."
  },
  {
   "id": "obj:0641:04",
   "jp": "鎮護の壇",
   "refs": 1,
-  "en": ""
+  "en": "Guardian Altar"
  },
  {
   "id": "obj:0641:08",
   "jp": "鎮護の力が実体化した壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar of protective power\nmade manifest."
  },
  {
   "id": "obj:0642:08",
   "jp": "何かを置くことができそうだ",
   "refs": 1,
-  "en": ""
+  "en": "It looks like something could\nbe placed here."
  },
  {
   "id": "obj:0644:04",
   "jp": "神君の鍵",
   "refs": 1,
-  "en": ""
+  "en": "Divine Lord's Key"
  },
  {
   "id": "obj:0644:08",
   "jp": "神格化された家康の力が\n鍵として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The power of the deified\nIeyasu, made manifest as a\nkey."
  },
  {
   "id": "obj:0645:04",
   "jp": "敗軍の壇",
   "refs": 1,
-  "en": ""
+  "en": "Altar of Defeat"
  },
  {
   "id": "obj:0645:08",
   "jp": "敗走する武将の姿が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting a general\nin retreat."
  },
  {
   "id": "obj:0646:04",
   "jp": "忍耐の鍵",
   "refs": 1,
-  "en": ""
+  "en": "Key of Endurance"
  },
  {
   "id": "obj:0646:08",
   "jp": "大敗に耐える家康の精神が\n鍵として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Ieyasu's spirit in enduring a\ncrushing defeat, made manifest\nas a key."
  },
  {
   "id": "obj:0648:04",
   "jp": "忠誠の壇",
   "refs": 1,
-  "en": ""
+  "en": "Altar of Loyalty"
  },
  {
   "id": "obj:0648:08",
   "jp": "我が子を差し出す武将の姿が\n描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting a warlord\noffering up his own child."
  },
  {
   "id": "obj:0649:04",
   "jp": "血の証",
   "refs": 1,
-  "en": ""
+  "en": "Proof of Blood"
  },
  {
   "id": "obj:0649:08",
   "jp": "血脈や己の犠牲を厭わない、\n忠義の念が宝玉として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Loyalty that spares neither\nbloodline nor self, made\nmanifest as a jewel."
  },
  {
   "id": "obj:0650:04",
   "jp": "23：上",
   "refs": 2,
-  "en": ""
+  "en": "23: Up"
  },
  {
   "id": "obj:0651:04",
   "jp": "旗本の柱",
   "refs": 2,
-  "en": ""
+  "en": "Hatamoto Pillar"
  },
  {
   "id": "obj:0651:08",
   "jp": "守護の念が実体化した柱\nヒビが入っており、\n衝撃を与え破壊する事が\nできそうだ",
   "refs": 2,
-  "en": ""
+  "en": "A pillar of protective will\nmade manifest. It's cracked; a\nstrong impact might break it."
  },
  {
   "id": "obj:0653:04",
   "jp": "桃山梯子",
   "refs": 1,
-  "en": ""
+  "en": "Momoyama Ladder"
  },
  {
   "id": "obj:0654:04",
   "jp": "造反の風見矢",
   "refs": 1,
-  "en": ""
+  "en": "Rebel Weathervane"
  },
  {
   "id": "obj:0654:08",
   "jp": "武将の叛心が実体化した風見矢",
   "refs": 1,
-  "en": ""
+  "en": "A warlord's rebellious heart,\nmade manifest as a weathervane\narrow."
  },
  {
   "id": "obj:0655:04",
   "jp": "猪華の壇",
   "refs": 2,
-  "en": ""
+  "en": "Boar Altar"
  },
  {
   "id": "obj:0655:08",
   "jp": "猪の文様が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar bearing a boar\npattern."
  },
  {
   "id": "obj:0657:04",
   "jp": "猪牙の印章",
   "refs": 1,
-  "en": ""
+  "en": "Boar Tusk Seal"
  },
  {
   "id": "obj:0657:08",
   "jp": "猪の装飾が施された印章",
   "refs": 2,
-  "en": ""
+  "en": "A seal decorated with a boar."
  },
  {
   "id": "obj:0672:08",
   "jp": "幾何学模様と鳳凰が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar with geometric\npatterns and a phoenix."
  },
  {
   "id": "obj:0674:04",
   "jp": "封鍵の左片",
   "refs": 2,
-  "en": ""
+  "en": "Seal Key, Left Half"
  },
  {
   "id": "obj:0674:08",
   "jp": "桐と鳳凰が彫られた\nメダルの左半分",
   "refs": 2,
-  "en": ""
+  "en": "The left half of a medal\nengraved with paulownia and a\nphoenix."
  },
  {
   "id": "obj:0675:04",
   "jp": "破壊オブジェ",
   "refs": 2,
-  "en": ""
+  "en": "Breakable Object"
  },
  {
   "id": "obj:0675:08",
   "jp": "敵全滅で破壊",
   "refs": 2,
-  "en": ""
+  "en": "Breaks when all foes die"
  },
  {
   "id": "obj:0676:04",
   "jp": "狙撃兵",
   "refs": 1,
-  "en": ""
+  "en": "Sniper"
  },
  {
   "id": "obj:0676:08",
   "jp": "ターンの頭でランダム狙撃",
   "refs": 1,
-  "en": ""
+  "en": "Random snipe at start of turn"
  },
  {
   "id": "obj:0677:04",
   "jp": "掘埋めの大岩",
   "refs": 8,
-  "en": ""
+  "en": "Pit-Filling Boulder"
  },
  {
   "id": "obj:0677:08",
   "jp": "地を操り、\n穴を埋める力を持つ大岩\n対応する地の気が通じた\n場所に置く事で力を発揮する\n",
   "refs": 8,
-  "en": ""
+  "en": "A boulder that commands earth\nto fill pits. Set it where\nmatching earth energy flows."
  },
  {
   "id": "obj:0678:04",
   "jp": "足場",
   "refs": 13,
-  "en": ""
+  "en": "Platform"
  },
  {
   "id": "obj:0678:08",
   "jp": "●穴 2",
   "refs": 1,
-  "en": ""
+  "en": "Circle hole 2"
  },
  {
   "id": "obj:0679:08",
   "jp": "★穴 3",
   "refs": 1,
-  "en": ""
+  "en": "Star hole 3"
  },
  {
   "id": "obj:0680:08",
   "jp": "▲穴 1",
   "refs": 1,
-  "en": ""
+  "en": "Triangle hole 1"
  },
  {
   "id": "obj:0684:08",
   "jp": "■穴右 4",
   "refs": 1,
-  "en": ""
+  "en": "Square hole R 4"
  },
  {
   "id": "obj:0685:08",
   "jp": "■穴左 4",
   "refs": 1,
-  "en": ""
+  "en": "Square hole L 4"
  },
  {
   "id": "obj:0688:04",
   "jp": "調べられない",
   "refs": 8,
-  "en": ""
+  "en": "Cannot be examined"
  },
  {
   "id": "obj:0692:04",
   "jp": "水面",
   "refs": 2,
-  "en": ""
+  "en": "Water Surface"
  },
  {
   "id": "obj:0693:04",
   "jp": "床当たり判定",
   "refs": 2,
-  "en": ""
+  "en": "Floor Collision"
  },
  {
   "id": "obj:0694:04",
   "jp": "騎馬兵弾台座",
   "refs": 2,
-  "en": ""
+  "en": "Cavalry Shot Pedestal"
  },
  {
   "id": "obj:0695:04",
   "jp": "騎馬兵弾弾丸",
   "refs": 2,
-  "en": ""
+  "en": "Cavalry Shot Bullet"
  },
  {
   "id": "obj:0698:04",
   "jp": "神徒の壇",
   "refs": 1,
-  "en": ""
+  "en": "Believer's Altar"
  },
  {
   "id": "obj:0698:08",
   "jp": "神に祈りを捧げる男の姿が\n描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting a man\noffering prayers to his god."
  },
  {
   "id": "obj:0699:04",
   "jp": "聖刃",
   "refs": 2,
-  "en": ""
+  "en": "Holy Blade"
  },
  {
   "id": "obj:0699:08",
   "jp": "殉教した者達の魂が\n短刀として実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "The souls of martyrs, made\nmanifest as a dagger."
  },
  {
   "id": "obj:0700:04",
   "jp": "これは調べられないほうがいい",
   "refs": 2,
-  "en": ""
+  "en": "Better not to examine this"
  },
  {
   "id": "obj:0700:08",
   "jp": "妄信の鎖、本体は飾りで",
   "refs": 1,
-  "en": ""
+  "en": "Chain of Blind Faith; body is\ndecoration"
  },
  {
   "id": "obj:0701:08",
   "jp": "権威の鎖、本体は飾りで",
   "refs": 1,
-  "en": ""
+  "en": "Chain of Authority; body is\ndecoration"
  },
  {
   "id": "obj:0702:04",
   "jp": "妄信の鎖",
   "refs": 1,
-  "en": ""
+  "en": "Blind Faith Chain"
  },
  {
   "id": "obj:0702:08",
   "jp": "精神の進歩を阻む、\n人の妄信が実体化した鎖\n板状のものを差し込むための\n穴が見える",
   "refs": 1,
-  "en": ""
+  "en": "Blind faith that blocks\nspiritual progress, made\nmanifest as a chain. It has a\nslot for a plate."
  },
  {
   "id": "obj:0703:04",
   "jp": "権威の鎖",
   "refs": 1,
-  "en": ""
+  "en": "Authority Chain"
  },
  {
   "id": "obj:0703:08",
   "jp": "人々を縛り付ける、\n為政者の権威が実体化した鎖\n板状のものを差し込むための\n穴が見える",
   "refs": 1,
-  "en": ""
+  "en": "The authority of rulers that\nbinds the people, made\nmanifest as a chain. It has a\nslot for a plate."
  },
  {
   "id": "obj:0704:04",
   "jp": "義士刃",
   "refs": 2,
-  "en": ""
+  "en": "Righteous Blade"
  },
  {
   "id": "obj:0704:08",
   "jp": "義に殉じる心が\n短刀として実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "A heart willing to die for\njustice, made manifest as a\ndagger."
  },
  {
   "id": "obj:0706:04",
   "jp": "叛骨の炉",
   "refs": 2,
-  "en": ""
+  "en": "Rebel Furnace"
  },
  {
   "id": "obj:0706:08",
   "jp": "炎を燃焼させるための\n構造が見える",
   "refs": 1,
-  "en": ""
+  "en": "You can see a structure for\nstoking a fire."
  },
  {
   "id": "obj:0707:08",
   "jp": "円盤状のものをはめる穴が\n空いている",
   "refs": 1,
-  "en": ""
+  "en": "There is a hole to fit a\ndisc-shaped object into."
  },
  {
   "id": "obj:0708:04",
   "jp": "叛骨の炉炎",
   "refs": 2,
-  "en": ""
+  "en": "Rebel Furnace Flame"
  },
  {
   "id": "obj:0709:04",
   "jp": "鼠義銭",
   "refs": 2,
-  "en": ""
+  "en": "Rat Thief's Coin"
  },
  {
   "id": "obj:0709:08",
   "jp": "義賊の慈悲心が古銭として\n実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "A noble thief's compassion,\nmade manifest as an old coin."
  },
  {
   "id": "obj:0711:04",
   "jp": "富者の壇",
   "refs": 1,
-  "en": ""
+  "en": "Altar of the Rich"
  },
  {
   "id": "obj:0711:08",
   "jp": "義賊が裕福な家から、\n金品を盗み出す様子が\n描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting a noble\nthief stealing riches from a\nwealthy house."
  },
  {
   "id": "obj:0713:04",
   "jp": "捕物提灯",
   "refs": 1,
-  "en": ""
+  "en": "Constable Lantern"
  },
  {
   "id": "obj:0713:08",
   "jp": "逃亡者を阻む力が\n捕物提灯として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The power to stop fugitives,\nmade manifest as a constable's\nlantern."
  },
  {
   "id": "obj:0714:04",
   "jp": "天命檄",
   "refs": 2,
-  "en": ""
+  "en": "Mandate Manifesto"
  },
  {
   "id": "obj:0714:08",
   "jp": "悪政を正さんとする、\n義士の念が実体化した檄文",
   "refs": 1,
-  "en": ""
+  "en": "A patriot's will to right\nmisrule, made manifest as a\nmanifesto."
  },
  {
   "id": "obj:0715:08",
   "jp": "義士の念によって生まれた台座\nほのかに熱を持っている",
   "refs": 1,
-  "en": ""
+  "en": "A pedestal born of a patriot's\nwill. It's faintly warm."
  },
  {
   "id": "obj:0716:04",
   "jp": "炎の描かれたマス",
   "refs": 1,
-  "en": ""
+  "en": "Tile with Flame Drawn"
  },
  {
   "id": "obj:0716:08",
   "jp": "16：オブジェ",
   "refs": 1,
-  "en": ""
+  "en": "16: Object"
  },
  {
   "id": "obj:0717:04",
   "jp": "義心の炎",
   "refs": 1,
-  "en": ""
+  "en": "Righteous Flame"
  },
  {
   "id": "obj:0717:08",
   "jp": "燃えあがる義の心が\n炎を模した彫刻として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "A burning sense of justice,\nmade manifest as a carving\nshaped like flame."
  },
  {
   "id": "obj:0718:04",
   "jp": "ボスフロア天井コリジョン",
   "refs": 2,
-  "en": ""
+  "en": "Boss Floor Ceiling Collision"
  },
  {
   "id": "obj:0728:04",
   "jp": "強国の間、船",
   "refs": 4,
-  "en": ""
+  "en": "Great Power Room, Ship"
  },
  {
   "id": "obj:0732:04",
   "jp": "人心の柱",
   "refs": 2,
-  "en": ""
+  "en": "Pillar of Hearts"
  },
  {
   "id": "obj:0732:08",
   "jp": "何かを取り付ける穴がある",
   "refs": 2,
-  "en": ""
+  "en": "There is a hole to attach\nsomething to."
  },
  {
   "id": "obj:0733:04",
   "jp": "蜂起の舵",
   "refs": 2,
-  "en": ""
+  "en": "Uprising Helm"
  },
  {
   "id": "obj:0733:08",
   "jp": "権威の不条理に対する\n民の怒りが舵として\n実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "The people's anger at unjust\nauthority, made manifest as a\nship's helm."
  },
  {
   "id": "obj:0735:04",
   "jp": "攘夷の舵",
   "refs": 2,
-  "en": ""
+  "en": "Expulsion Helm"
  },
  {
   "id": "obj:0735:08",
   "jp": "異国の侵略に怯える\n民の畏怖が舵として\n実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "The people's dread of foreign\ninvasion, made manifest as a\nship's helm."
  },
  {
   "id": "obj:0736:04",
   "jp": "腐敗の壇",
   "refs": 1,
-  "en": ""
+  "en": "Altar of Corruption"
  },
  {
   "id": "obj:0736:08",
   "jp": "幕府の腐敗により苦しむ\n民の姿が描かれている壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting people\nsuffering under a corrupt\nshogunate."
  },
  {
   "id": "obj:0738:04",
   "jp": "不義の壇",
   "refs": 1,
-  "en": ""
+  "en": "Altar of Injustice"
  },
  {
   "id": "obj:0738:08",
   "jp": "黒船の襲来に狂乱する、\n民の姿が描かれている壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting people\nthrown into a frenzy by the\ncoming of the Black Ships."
  },
  {
   "id": "obj:0740:04",
   "jp": "改世の壇",
   "refs": 1,
-  "en": ""
+  "en": "Altar of New Era"
  },
  {
   "id": "obj:0740:08",
   "jp": "武器を取り、\n倒幕に立ち上がる\n志士の様子が描かれている壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting patriots\ntaking up arms to overthrow\nthe shogunate."
  },
  {
   "id": "obj:0741:04",
   "jp": "倒幕の砲鍵",
   "refs": 1,
-  "en": ""
+  "en": "Overthrow Cannon Key"
  },
  {
   "id": "obj:0741:08",
   "jp": "維新志士達の倒幕の念が\n大砲を模した鍵として\n実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "The Restoration patriots' will\nto topple the shogunate, made\nmanifest as a cannon-shaped\nkey."
  },
  {
   "id": "obj:0745:04",
   "jp": "橋渡しの壇",
   "refs": 2,
-  "en": ""
+  "en": "Bridging Altar"
  },
  {
   "id": "obj:0745:08",
   "jp": "二つの国の間を飛ぶ竜の姿が\n実体化した壇",
   "refs": 2,
-  "en": ""
+  "en": "An altar shaped from a dragon\nflying between two lands, made\nmanifest."
  },
  {
   "id": "obj:0747:04",
   "jp": "倒幕の鍵",
   "refs": 1,
-  "en": ""
+  "en": "Overthrow Key"
  },
  {
   "id": "obj:0748:04",
   "jp": "現れる床",
   "refs": 2,
-  "en": ""
+  "en": "Appearing Floor"
  },
  {
   "id": "obj:0749:04",
   "jp": "長傑の柱",
   "refs": 1,
-  "en": ""
+  "en": "Choshu Pillar"
  },
  {
   "id": "obj:0749:08",
   "jp": "長州の英傑を表した柱",
   "refs": 1,
-  "en": ""
+  "en": "A pillar representing Choshu's\nheroes."
  },
  {
   "id": "obj:0750:04",
   "jp": "薩傑の柱",
   "refs": 1,
-  "en": ""
+  "en": "Satsuma Pillar"
  },
  {
   "id": "obj:0750:08",
   "jp": "薩摩の英傑を表した柱",
   "refs": 1,
-  "en": ""
+  "en": "A pillar representing\nSatsuma's heroes."
  },
  {
   "id": "obj:0752:04",
   "jp": "政の壇",
   "refs": 1,
-  "en": ""
+  "en": "Rule Altar"
  },
  {
   "id": "obj:0752:08",
   "jp": "大政奉還の様子が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting the return\nof power to the emperor."
  },
  {
   "id": "obj:0753:04",
   "jp": "王政の証",
   "refs": 2,
-  "en": ""
+  "en": "Proof of Monarchy"
  },
  {
   "id": "obj:0753:08",
   "jp": "王政の再開が生み出す\n変革の力が杯状の鍵として\n実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "The power of change from\nrestored imperial rule, made\nmanifest as a cup-shaped key."
  },
  {
   "id": "obj:0755:08",
   "jp": "円形のはめこむ穴が開いている",
   "refs": 1,
-  "en": ""
+  "en": "There is a round hole to fit\nsomething into."
  },
  {
   "id": "obj:0762:04",
   "jp": "床",
   "refs": 2,
-  "en": ""
+  "en": "Floor"
  },
  {
   "id": "obj:0768:04",
   "jp": "変革の時計",
   "refs": 2,
-  "en": ""
+  "en": "Clock of Change"
  },
  {
   "id": "obj:0768:08",
   "jp": "刻一刻と近代化していく、\n日本国の変化を表す時計\n秒針が見当たらない",
   "refs": 1,
-  "en": ""
+  "en": "A clock showing Japan\nmodernizing moment by moment.\nIts second hand is missing."
  },
  {
   "id": "obj:0769:08",
   "jp": "刻一刻と近代化していく、\n日本国の変化を表す時計\n秒針を操作できそうだ",
   "refs": 1,
-  "en": ""
+  "en": "A clock showing Japan\nmodernizing moment by moment.\nThe second hand can be moved."
  },
  {
   "id": "obj:0771:04",
   "jp": "強兵の門",
   "refs": 1,
-  "en": ""
+  "en": "Gate of Might"
  },
  {
   "id": "obj:0771:08",
   "jp": "精強なる兵のみが\n通過を許される巨大な門",
   "refs": 1,
-  "en": ""
+  "en": "A huge gate that only the\nmightiest soldiers may pass."
  },
  {
   "id": "obj:0772:04",
   "jp": "強兵の門ブロック",
   "refs": 1,
-  "en": ""
+  "en": "Gate of Might Block"
  },
  {
   "id": "obj:0772:08",
   "jp": "透明な壁",
   "refs": 1,
-  "en": ""
+  "en": "Invisible wall"
  },
  {
   "id": "obj:0773:08",
   "jp": "棒状のものをはめ込むための\n穴が見える",
   "refs": 1,
-  "en": ""
+  "en": "There is a hole to fit a\nrod-shaped object into."
  },
  {
   "id": "obj:0774:04",
   "jp": "華族の矜持",
   "refs": 2,
-  "en": ""
+  "en": "Nobility's Pride"
  },
  {
   "id": "obj:0774:08",
   "jp": "華族の矜持と挫折の念が\n折れた日本刀として\n実体化したもの",
   "refs": 2,
-  "en": ""
+  "en": "The pride and broken hopes of\nthe nobility, made manifest as\na snapped katana."
  },
  {
   "id": "obj:0775:04",
   "jp": "廃刀の壇",
   "refs": 1,
-  "en": ""
+  "en": "Sword Ban Altar"
  },
  {
   "id": "obj:0775:08",
   "jp": "刀を奪われ絶望する\n武士の姿が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting samurai in\ndespair, stripped of their\nswords."
  },
  {
   "id": "obj:0776:04",
   "jp": "廃刀の壇アタッチメント",
   "refs": 1,
-  "en": ""
+  "en": "Sword Ban Altar Attachment"
  },
  {
   "id": "obj:0776:08",
   "jp": "　使わないオブジェクト",
   "refs": 1,
-  "en": ""
+  "en": "Unused object"
  },
  {
   "id": "obj:0778:04",
   "jp": "維新の壇",
   "refs": 1,
-  "en": ""
+  "en": "Restoration Altar"
  },
  {
   "id": "obj:0778:08",
   "jp": "近代化していく日本の様子が\n描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar depicting Japan as it\nmodernizes."
  },
  {
   "id": "obj:0779:04",
   "jp": "富国の秒針",
   "refs": 1,
-  "en": ""
+  "en": "Rich-Nation Second Hand"
  },
  {
   "id": "obj:0779:08",
   "jp": "近代化へ邁進する\n日本国の焦りが秒針として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Japan's haste to race toward\nmodernity, made manifest as a\nsecond hand."
  },
  {
   "id": "obj:0780:08",
   "jp": "牡丹の印が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar bearing a peony\nemblem."
  },
  {
   "id": "obj:0781:04",
   "jp": "牡丹の印章",
   "refs": 2,
-  "en": ""
+  "en": "Peony Seal"
  },
  {
   "id": "obj:0781:08",
   "jp": "牡丹の装飾が施された印章",
   "refs": 2,
-  "en": ""
+  "en": "A seal decorated with peonies."
  },
  {
   "id": "obj:0782:08",
   "jp": "幾何学模様と番傘が描かれた壇",
   "refs": 1,
-  "en": ""
+  "en": "An altar with geometric\npatterns and a paper umbrella."
  },
  {
   "id": "obj:0783:04",
   "jp": "縛鍵の下片",
   "refs": 2,
-  "en": ""
+  "en": "Bind Key, Bottom Half"
  },
  {
   "id": "obj:0783:08",
   "jp": "柳と雨が彫られた\nプレートの下半分",
   "refs": 2,
-  "en": ""
+  "en": "The lower half of a plate\nengraved with willow and rain."
  },
  {
   "id": "obj:0794:08",
   "jp": "隠人に引き寄せられ出現した\n情報の奔流\n付近の隠人を倒さない限り、\n消えることはない",
   "refs": 2,
-  "en": ""
+  "en": "A torrent of information drawn\nhere by the Oni. It won't\nvanish until nearby Oni are\ndefeated."
  },
  {
   "id": "obj:0795:04",
   "jp": "障害物",
   "refs": 1,
-  "en": ""
+  "en": "Obstacle"
  },
  {
   "id": "obj:0795:08",
   "jp": "指定のスイッチ押すと壊れる",
   "refs": 1,
-  "en": ""
+  "en": "Breaks when the set switch is\npressed"
  },
  {
   "id": "obj:0806:04",
   "jp": "謎の井戸",
   "refs": 1,
-  "en": ""
+  "en": "Mysterious Well"
  },
  {
   "id": "obj:0806:08",
   "jp": "井戸の底から声が聞こえる。\n「経典を読む者に応えん。\n我、辛きものを欲す……」",
   "refs": 1,
-  "en": ""
+  "en": "A voice from the well's\ndepths: \"I answer those who\nread the sutras. I crave\nsomething spicy...\""
  },
  {
   "id": "obj:0811:04",
   "jp": "箱船専用ワープ",
   "refs": 2,
-  "en": ""
+  "en": "Ark-Only Warp"
  },
  {
   "id": "obj:0812:08",
   "jp": "何かをはめ込むことができそうだ",
   "refs": 8,
-  "en": ""
+  "en": "It looks like something could\nbe fitted in here."
  },
  {
   "id": "obj:0832:04",
   "jp": "エレベータ",
   "refs": 2,
-  "en": ""
+  "en": "Elevator"
  },
  {
   "id": "obj:0833:08",
   "jp": "動力不明の機械\n操作することができそうだ",
   "refs": 2,
-  "en": ""
+  "en": "A machine with an unknown\npower source. It looks like it\ncan be operated."
  },
  {
   "id": "obj:0835:08",
   "jp": "未知の物質で出来たオブジェ",
   "refs": 1,
-  "en": ""
+  "en": "An object made of an unknown\nsubstance."
  },
  {
   "id": "obj:0836:08",
   "jp": "未知の物質で出来たオブジェ\n「封念ノ神鏡」と同様の\n構造が見られる",
   "refs": 1,
-  "en": ""
+  "en": "An object of unknown material.\nIts structure resembles the\n\"Sealing Mirror.\""
  },
  {
   "id": "obj:0837:08",
   "jp": "未知の物質で出来たオブジェ\n「封具ノ器」と同様の\n構造が見られる",
   "refs": 1,
-  "en": ""
+  "en": "An object of unknown material.\nIts structure resembles the\n\"Sealing Vessel.\""
  },
  {
   "id": "obj:0838:08",
   "jp": "未知の物質で出来たオブジェ\n「御蔵ノ器」と同様の\n構造が見られる",
   "refs": 1,
-  "en": ""
+  "en": "An object of unknown material.\nIts structure resembles the\n\"Storehouse Vessel.\""
  },
  {
   "id": "obj:0839:08",
   "jp": "オーラ",
   "refs": 1,
-  "en": ""
+  "en": "Aura"
  },
  {
   "id": "obj:0840:08",
   "jp": "未知の物質で出来た機械\n操作することは難しそうだ",
   "refs": 1,
-  "en": ""
+  "en": "A machine of unknown material.\nIt looks hard to operate."
  },
  {
   "id": "obj:0841:08",
   "jp": "未知の物質で出来たオブジェ\n操作することができそうだ",
   "refs": 1,
-  "en": ""
+  "en": "An object of unknown material.\nIt looks like it can be\noperated."
  },
  {
   "id": "obj:0842:08",
   "jp": "未知の物質で出来たオブジェ\n",
   "refs": 1,
-  "en": ""
+  "en": "An object made of an unknown\nsubstance."
  },
  {
   "id": "obj:0843:08",
   "jp": "何らかのスイッチ\n操作することができそうだ",
   "refs": 1,
-  "en": ""
+  "en": "Some kind of switch. It looks\nlike it can be operated."
  },
  {
   "id": "obj:0844:08",
   "jp": "？",
   "refs": 1,
-  "en": ""
+  "en": "?"
  },
  {
   "id": "obj:0845:08",
   "jp": "未知の物質で出来たオブジェ\n内側から爆発するような\nエネルギーを感じる",
   "refs": 1,
-  "en": ""
+  "en": "An object of unknown material.\nYou sense energy ready to\nburst from within."
  },
  {
   "id": "obj:0846:08",
   "jp": "未知の物質で出来たオブジェ\n空間の歪みを感じる",
   "refs": 1,
-  "en": ""
+  "en": "An object of unknown material.\nYou sense a distortion in\nspace."
  },
  {
   "id": "obj:0847:08",
   "jp": "未知の物質で出来たオブジェ\n渦を巻く風の力を感じる",
   "refs": 1,
-  "en": ""
+  "en": "An object of unknown material.\nYou sense the power of\nswirling wind."
  },
  {
   "id": "obj:0848:08",
   "jp": "未知の物質で出来たオブジェ\nエネルギーの力場を解除すれば\n前後に動かすことができそうだ",
   "refs": 1,
-  "en": ""
+  "en": "An object of unknown material.\nWith its energy field lifted,\nit could be moved back and\nforth."
  },
  {
   "id": "obj:0849:08",
   "jp": "未知の物質で出来たオブジェ\n開閉可能な構造になっている",
   "refs": 1,
-  "en": ""
+  "en": "An object of unknown material.\nIt's built to open and close."
  },
  {
   "id": "obj:0850:08",
   "jp": "硬質の膜で覆われたオブジェ",
   "refs": 1,
-  "en": ""
+  "en": "An object covered in a hard\nmembrane."
  }
 ]

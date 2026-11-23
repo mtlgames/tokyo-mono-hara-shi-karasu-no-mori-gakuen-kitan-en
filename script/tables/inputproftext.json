@@ -3,360 +3,360 @@
   "id": "inputproftext:0000:00",
   "jp": "日常と意識に関するアンケート",
   "refs": 1,
-  "en": ""
+  "en": "Survey on Daily Life and Attitudes"
  },
  {
   "id": "inputproftext:0001:00",
   "jp": "質問をよく読み、当てはまるものを答えてください。",
   "refs": 1,
-  "en": ""
+  "en": "Read each question carefully and answer the one that applies."
  },
  {
   "id": "inputproftext:0002:00",
   "jp": "フリガナ",
   "refs": 1,
-  "en": ""
+  "en": "Reading"
  },
  {
   "id": "inputproftext:0003:00",
   "jp": "氏名",
   "refs": 1,
-  "en": ""
+  "en": "Name"
  },
  {
   "id": "inputproftext:0004:00",
   "jp": "問１　勉強について",
   "refs": 1,
-  "en": ""
+  "en": "Q1  About Studying"
  },
  {
   "id": "inputproftext:0005:00",
   "jp": "あなたが興味を持っている科目はなんですか？\\n下記の中から1つ選んでください。",
   "refs": 1,
-  "en": ""
+  "en": "Which subject are you interested in? Choose one of the following."
  },
  {
   "id": "inputproftext:0006:00",
   "jp": "国語",
   "refs": 1,
-  "en": ""
+  "en": "Japanese"
  },
  {
   "id": "inputproftext:0007:00",
   "jp": "数学",
   "refs": 1,
-  "en": ""
+  "en": "Math"
  },
  {
   "id": "inputproftext:0008:00",
   "jp": "生物",
   "refs": 1,
-  "en": ""
+  "en": "Biology"
  },
  {
   "id": "inputproftext:0009:00",
   "jp": "現代社会",
   "refs": 1,
-  "en": ""
+  "en": "Social Studies"
  },
  {
   "id": "inputproftext:0010:00",
   "jp": "外国語",
   "refs": 1,
-  "en": ""
+  "en": "Languages"
  },
  {
   "id": "inputproftext:0011:00",
   "jp": "保健",
   "refs": 1,
-  "en": ""
+  "en": "Health"
  },
  {
   "id": "inputproftext:0012:00",
   "jp": "体育",
   "refs": 1,
-  "en": ""
+  "en": "P.E."
  },
  {
   "id": "inputproftext:0013:00",
   "jp": "問２　図書館について",
   "refs": 1,
-  "en": ""
+  "en": "Q2  About the Library"
  },
  {
   "id": "inputproftext:0014:00",
   "jp": "あなたは普段、どの程度図書館を利用していますか？\\n下記の中から当てはまる物を1つ選んでください。　",
   "refs": 1,
-  "en": ""
+  "en": "How often do you usually use the library? Choose the one that applies."
  },
  {
   "id": "inputproftext:0015:00",
   "jp": "よく利用する",
   "refs": 1,
-  "en": ""
+  "en": "Often"
  },
  {
   "id": "inputproftext:0016:00",
   "jp": "たまに利用する",
   "refs": 1,
-  "en": ""
+  "en": "Sometimes"
  },
  {
   "id": "inputproftext:0017:00",
   "jp": "あまり利用しない",
   "refs": 1,
-  "en": ""
+  "en": "Not much"
  },
  {
   "id": "inputproftext:0018:00",
   "jp": "ほとんど利用しない",
   "refs": 1,
-  "en": ""
+  "en": "Almost never"
  },
  {
   "id": "inputproftext:0019:00",
   "jp": "問３　アルバイトについて",
   "refs": 1,
-  "en": ""
+  "en": "Q3  About Part-Time Jobs"
  },
  {
   "id": "inputproftext:0020:00",
   "jp": "あなたはアルバイトをしたことがありますか？\\nあるいはしてみたいですか？\\nまた、それは何のためですか？\\n下記の中から当てはまる物を1つ選んでください。",
   "refs": 1,
-  "en": ""
+  "en": "Have you ever had a part-time job, or would you like to? And if so, why? Choose the one that applies."
  },
  {
   "id": "inputproftext:0021:00",
   "jp": "お金のため",
   "refs": 1,
-  "en": ""
+  "en": "For the money"
  },
  {
   "id": "inputproftext:0022:00",
   "jp": "視野を広げるため",
   "refs": 1,
-  "en": ""
+  "en": "To broaden my horizons"
  },
  {
   "id": "inputproftext:0023:00",
   "jp": "その他の理由",
   "refs": 1,
-  "en": ""
+  "en": "Some other reason"
  },
  {
   "id": "inputproftext:0024:00",
   "jp": "アルバイトはしない",
   "refs": 1,
-  "en": ""
+  "en": "I don't work part-time"
  },
  {
   "id": "inputproftext:0025:00",
   "jp": "回答が終わったら、用紙を裏返してください。",
   "refs": 1,
-  "en": ""
+  "en": "When you have finished, turn the sheet over."
  },
  {
   "id": "inputproftext:0026:00",
   "jp": "問４",
   "refs": 1,
-  "en": ""
+  "en": "Q4"
  },
  {
   "id": "inputproftext:0027:00",
   "jp": "あなたはこの質問文が見えますか？",
   "refs": 1,
-  "en": ""
+  "en": "Can you see this question?"
  },
  {
   "id": "inputproftext:0028:00",
   "jp": "はい",
   "refs": 1,
-  "en": ""
+  "en": "Yes"
  },
  {
   "id": "inputproftext:0029:00",
   "jp": "いいえ",
   "refs": 1,
-  "en": ""
+  "en": "No"
  },
  {
   "id": "inputproftext:0030:00",
   "jp": "帰宅部",
   "refs": 1,
-  "en": ""
+  "en": "Go-Home Club"
  },
  {
   "id": "inputproftext:0031:00",
   "jp": "野球部",
   "refs": 1,
-  "en": ""
+  "en": "Baseball Club"
  },
  {
   "id": "inputproftext:0032:00",
   "jp": "サッカー部",
   "refs": 1,
-  "en": ""
+  "en": "Soccer Club"
  },
  {
   "id": "inputproftext:0033:00",
   "jp": "バスケ部",
   "refs": 1,
-  "en": ""
+  "en": "Basketball Club"
  },
  {
   "id": "inputproftext:0034:00",
   "jp": "バレーボール部",
   "refs": 1,
-  "en": ""
+  "en": "Volleyball Club"
  },
  {
   "id": "inputproftext:0035:00",
   "jp": "テニス部",
   "refs": 1,
-  "en": ""
+  "en": "Tennis Club"
  },
  {
   "id": "inputproftext:0036:00",
   "jp": "バトミントン部",
   "refs": 1,
-  "en": ""
+  "en": "Badminton Club"
  },
  {
   "id": "inputproftext:0037:00",
   "jp": "陸上部",
   "refs": 1,
-  "en": ""
+  "en": "Track Club"
  },
  {
   "id": "inputproftext:0038:00",
   "jp": "水泳部",
   "refs": 1,
-  "en": ""
+  "en": "Swim Club"
  },
  {
   "id": "inputproftext:0039:00",
   "jp": "剣道部",
   "refs": 1,
-  "en": ""
+  "en": "Kendo Club"
  },
  {
   "id": "inputproftext:0040:00",
   "jp": "柔道部",
   "refs": 1,
-  "en": ""
+  "en": "Judo Club"
  },
  {
   "id": "inputproftext:0041:00",
   "jp": "弓道部",
   "refs": 1,
-  "en": ""
+  "en": "Archery Club"
  },
  {
   "id": "inputproftext:0042:00",
   "jp": "美術部",
   "refs": 1,
-  "en": ""
+  "en": "Art Club"
  },
  {
   "id": "inputproftext:0043:00",
   "jp": "吹奏楽部",
   "refs": 1,
-  "en": ""
+  "en": "Brass Band"
  },
  {
   "id": "inputproftext:0044:00",
   "jp": "合唱部",
   "refs": 1,
-  "en": ""
+  "en": "Chorus Club"
  },
  {
   "id": "inputproftext:0045:00",
   "jp": "生物部",
   "refs": 1,
-  "en": ""
+  "en": "Biology Club"
  },
  {
   "id": "inputproftext:0046:00",
   "jp": "茶道部",
   "refs": 1,
-  "en": ""
+  "en": "Tea Club"
  },
  {
   "id": "inputproftext:0047:00",
   "jp": "覇道部",
   "refs": 1,
-  "en": ""
+  "en": "Conquest Club"
  },
  {
   "id": "inputproftext:0048:00",
   "jp": "美肌部",
   "refs": 1,
-  "en": ""
+  "en": "Skincare Club"
  },
  {
   "id": "inputproftext:0049:00",
   "jp": "生徒会",
   "refs": 1,
-  "en": ""
+  "en": "Student Council"
  },
  {
   "id": "inputproftext:0050:00",
   "jp": "漫画研究会",
   "refs": 1,
-  "en": ""
+  "en": "Manga Society"
  },
  {
   "id": "inputproftext:0051:00",
   "jp": "電脳研究会",
   "refs": 1,
-  "en": ""
+  "en": "Computer Society"
  },
  {
   "id": "inputproftext:0052:00",
   "jp": "落語研究会",
   "refs": 1,
-  "en": ""
+  "en": "Rakugo Society"
  },
  {
   "id": "inputproftext:0053:00",
   "jp": "ＭＭＡ研究会",
   "refs": 1,
-  "en": ""
+  "en": "MMA Society"
  },
  {
   "id": "inputproftext:0054:00",
   "jp": "仏道研究会",
   "refs": 1,
-  "en": ""
+  "en": "Buddhism Society"
  },
  {
   "id": "inputproftext:0055:00",
   "jp": "四角研究会",
   "refs": 1,
-  "en": ""
+  "en": "Squares Society"
  },
  {
   "id": "inputproftext:0056:00",
   "jp": "軽音同好会",
   "refs": 1,
-  "en": ""
+  "en": "Light Music Circle"
  },
  {
   "id": "inputproftext:0057:00",
   "jp": "時代劇同好会",
   "refs": 1,
-  "en": ""
+  "en": "Period Drama Circle"
  },
  {
   "id": "inputproftext:0058:00",
   "jp": "神秘術同好会",
   "refs": 1,
-  "en": ""
+  "en": "Mystic Arts Circle"
  },
  {
   "id": "inputproftext:0059:00",
   "jp": "英雄同好会",
   "refs": 1,
-  "en": ""
+  "en": "Hero Circle"
  }
 ]

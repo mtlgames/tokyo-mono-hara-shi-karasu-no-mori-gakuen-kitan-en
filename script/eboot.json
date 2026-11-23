@@ -5,7 +5,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": ".."
  },
  {
   "id": "eboot:2b06b4",
@@ -13,7 +13,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Rockford"
  },
  {
   "id": "eboot:2b06c4",
@@ -21,7 +21,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Dr. Jones"
  },
  {
   "id": "eboot:2b06d4",
@@ -29,7 +29,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "One-Eyed Willy"
  },
  {
   "id": "eboot:2b06e4",
@@ -37,7 +37,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Challenger"
  },
  {
   "id": "eboot:2b06f4",
@@ -45,7 +45,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Allan Q"
  },
  {
   "id": "eboot:2b0700",
@@ -53,7 +53,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "R. O'Connell"
  },
  {
   "id": "eboot:2b0710",
@@ -61,7 +61,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Suiin Emi"
  },
  {
   "id": "eboot:2b071c",
@@ -69,7 +69,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Big 8"
  },
  {
   "id": "eboot:2b0728",
@@ -77,7 +77,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Emperor Ines"
  },
  {
   "id": "eboot:2b0734",
@@ -85,7 +85,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Asian Hawk"
  },
  {
   "id": "eboot:2b0740",
@@ -93,7 +93,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Professor Fox"
  },
  {
   "id": "eboot:2b0750",
@@ -101,7 +101,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Corso the Bookhunter"
  },
  {
   "id": "eboot:2b0760",
@@ -109,7 +109,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Silver the Rogue"
  },
  {
   "id": "eboot:2b0770",
@@ -117,7 +117,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Morningstar Morgan"
  },
  {
   "id": "eboot:2b0780",
@@ -125,7 +125,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Garcia the Bearded"
  },
  {
   "id": "eboot:2b0790",
@@ -133,7 +133,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Nick the Appraiser"
  },
  {
   "id": "eboot:2b07a0",
@@ -141,7 +141,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Justine"
  },
  {
   "id": "eboot:2b07b0",
@@ -149,7 +149,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Jack the Prospector"
  },
  {
   "id": "eboot:2b07c0",
@@ -157,7 +157,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "N. Malone"
  },
  {
   "id": "eboot:2b07d0",
@@ -165,7 +165,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Fair Royan"
  },
  {
   "id": "eboot:2b07e0",
@@ -173,7 +173,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Sylvia the Hairdresser"
  },
  {
   "id": "eboot:2b07f0",
@@ -181,7 +181,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "J. O'Connell"
  },
  {
   "id": "eboot:2b0800",
@@ -189,7 +189,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "23"
  },
  {
   "id": "eboot:2b0808",
@@ -197,7 +197,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "24"
  },
  {
   "id": "eboot:2b0810",
@@ -205,7 +205,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Quest Complete"
  },
  {
   "id": "eboot:2b081c",
@@ -213,7 +213,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Owned: %d"
  },
  {
   "id": "eboot:2b0828",
@@ -221,7 +221,7 @@
   "slot": 12,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Bonus Quest"
  },
  {
   "id": "eboot:2b0848",
@@ -229,7 +229,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "%s Hunt"
  },
  {
   "id": "eboot:2b0850",
@@ -237,7 +237,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "%s Camp"
  },
  {
   "id": "eboot:2b0858",
@@ -245,7 +245,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "%s"
  },
  {
   "id": "eboot:2b08a0",
@@ -253,7 +253,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "BGM Unlocked"
  },
  {
   "id": "eboot:2b08ac",
@@ -261,7 +261,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ringtone Unlocked"
  },
  {
   "id": "eboot:2b08c0",
@@ -269,7 +269,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Obtained:\n%s"
  },
  {
   "id": "eboot:2b08d4",
@@ -277,7 +277,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hanafuda Obtained"
  },
  {
   "id": "eboot:2b0e08",
@@ -285,7 +285,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Close"
  },
  {
   "id": "eboot:2b0e10",
@@ -293,7 +293,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Yes"
  },
  {
   "id": "eboot:2b0e18",
@@ -301,7 +301,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "No"
  },
  {
   "id": "eboot:2b0e20",
@@ -309,7 +309,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Open Phone"
  },
  {
   "id": "eboot:2b0e90",
@@ -317,7 +317,7 @@
   "slot": 76,
   "refs": 7,
   "enc": "utf-8",
-  "en": ""
+  "en": "Tokyo Mono Hara Shi: Strange Tales of Karasu no Mori Academy - Download Quest"
  },
  {
   "id": "eboot:2b0edc",
@@ -325,7 +325,7 @@
   "slot": 16,
   "refs": 6,
   "enc": "utf-8",
-  "en": ""
+  "en": "Create New"
  },
  {
   "id": "eboot:2b0f88",
@@ -333,7 +333,7 @@
   "slot": 40,
   "refs": 2,
   "enc": "utf-8",
-  "en": ""
+  "en": "Tokyo Mono Hara Shi: Strange Tales of Karasu no Mori Academy"
  },
  {
   "id": "eboot:2b0fb8",
@@ -341,7 +341,7 @@
   "slot": 48,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Debug script data\nNot actually used"
  },
  {
   "id": "eboot:2b0ff4",
@@ -349,7 +349,7 @@
   "slot": 48,
   "refs": 4,
   "enc": "cp932",
-  "en": ""
+  "en": "Dummy download data\n(Placeholder message)"
  },
  {
   "id": "eboot:2b1024",
@@ -357,7 +357,7 @@
   "slot": 36,
   "refs": 2,
   "enc": "utf-8",
-  "en": ""
+  "en": "Save complete."
  },
  {
   "id": "eboot:2b1048",
@@ -365,7 +365,7 @@
   "slot": 36,
   "refs": 2,
   "enc": "utf-8",
-  "en": ""
+  "en": "Load complete."
  },
  {
   "id": "eboot:2b106c",
@@ -373,7 +373,7 @@
   "slot": 32,
   "refs": 2,
   "enc": "utf-8",
-  "en": ""
+  "en": "Delete complete."
  },
  {
   "id": "eboot:2b1154",
@@ -2301,7 +2301,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hiragana"
  },
  {
   "id": "eboot:2b1520",
@@ -2309,7 +2309,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Katakana"
  },
  {
   "id": "eboot:2b1528",
@@ -2317,7 +2317,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "ABC/123"
  },
  {
   "id": "eboot:2b1530",
@@ -2325,7 +2325,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Symbols"
  },
  {
   "id": "eboot:2b1538",
@@ -2333,7 +2333,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Triangle: Input Mode"
  },
  {
   "id": "eboot:2b154c",
@@ -2341,7 +2341,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Square: Convert"
  },
  {
   "id": "eboot:2b1554",
@@ -2349,7 +2349,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "START  Finish"
  },
  {
   "id": "eboot:2b1560",
@@ -2357,7 +2357,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Cross: Delete"
  },
  {
   "id": "eboot:2b1568",
@@ -2365,7 +2365,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Circle: OK"
  },
  {
   "id": "eboot:2b1570",
@@ -2373,7 +2373,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "L <-"
  },
  {
   "id": "eboot:2b1578",
@@ -2381,7 +2381,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "R ->"
  },
  {
   "id": "eboot:2b1cdc",
@@ -2389,7 +2389,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "%s:"
  },
  {
   "id": "eboot:2b1ce4",
@@ -2397,7 +2397,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "%s %s"
  },
  {
   "id": "eboot:2b1e34",
@@ -2405,7 +2405,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "West Exit Area"
  },
  {
   "id": "eboot:2b1e40",
@@ -2413,7 +2413,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "East Exit Area"
  },
  {
   "id": "eboot:2b1e4c",
@@ -2421,7 +2421,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "South Exit Area"
  },
  {
   "id": "eboot:2b1e58",
@@ -2429,7 +2429,7 @@
   "slot": 12,
   "refs": 3,
   "enc": "cp932",
-  "en": ""
+  "en": "Kabukicho"
  },
  {
   "id": "eboot:2b1e64",
@@ -2437,7 +2437,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Cafe"
  },
  {
   "id": "eboot:2b1e6c",
@@ -2445,7 +2445,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Hanazono Shrine"
  },
  {
   "id": "eboot:2b1e78",
@@ -2453,7 +2453,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Monument"
  },
  {
   "id": "eboot:2b1e80",
@@ -2461,7 +2461,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Kosei High"
  },
  {
   "id": "eboot:2b1e8c",
@@ -2469,7 +2469,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Shinjuku Gyoen"
  },
  {
   "id": "eboot:2b1e98",
@@ -2477,7 +2477,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Lantern"
  },
  {
   "id": "eboot:2b1ea0",
@@ -2485,7 +2485,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Station Plaza"
  },
  {
   "id": "eboot:2b1eac",
@@ -2493,7 +2493,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Station Mall"
  },
  {
   "id": "eboot:2b1eb4",
@@ -2501,7 +2501,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Toy Store"
  },
  {
   "id": "eboot:2b1ebc",
@@ -2509,7 +2509,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Shinjuku Station"
  },
  {
   "id": "eboot:2b1ec4",
@@ -2517,7 +2517,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Karasu no Mori Academy"
  },
  {
   "id": "eboot:2b1ed0",
@@ -2525,7 +2525,7 @@
   "slot": 8,
   "refs": 3,
   "enc": "cp932",
-  "en": ""
+  "en": "Incinerator"
  },
  {
   "id": "eboot:2b1ed8",
@@ -2533,7 +2533,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Karasuba Shrine"
  },
  {
   "id": "eboot:2b1ee4",
@@ -2541,7 +2541,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "My Room"
  },
  {
   "id": "eboot:2b1eec",
@@ -2549,7 +2549,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Curry Shop"
  },
  {
   "id": "eboot:2b1ef8",
@@ -2557,7 +2557,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Central Park"
  },
  {
   "id": "eboot:2b1f04",
@@ -2565,7 +2565,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Yahiro Academy"
  },
  {
   "id": "eboot:2b1f10",
@@ -2573,7 +2573,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Tea Room"
  },
  {
   "id": "eboot:2b1f18",
@@ -2581,7 +2581,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Shinjuku Police"
  },
  {
   "id": "eboot:2b1f20",
@@ -2589,7 +2589,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "City Hall"
  },
  {
   "id": "eboot:2b1f28",
@@ -2597,7 +2597,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Rooftop"
  },
  {
   "id": "eboot:2b1f30",
@@ -2605,7 +2605,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "4F"
  },
  {
   "id": "eboot:2b1f38",
@@ -2613,7 +2613,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "3F"
  },
  {
   "id": "eboot:2b1f40",
@@ -2621,7 +2621,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "2F"
  },
  {
   "id": "eboot:2b1f48",
@@ -2629,7 +2629,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "1F"
  },
  {
   "id": "eboot:2b1f50",
@@ -2637,7 +2637,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "School Gate"
  },
  {
   "id": "eboot:2b1f58",
@@ -2645,7 +2645,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Nurse's Office"
  },
  {
   "id": "eboot:2b1f60",
@@ -2653,7 +2653,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Broadcast Room"
  },
  {
   "id": "eboot:2b1f68",
@@ -2661,7 +2661,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Custodian's Room"
  },
  {
   "id": "eboot:2b1f74",
@@ -2669,7 +2669,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Admin Office"
  },
  {
   "id": "eboot:2b1f7c",
@@ -2677,7 +2677,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Cafeteria"
  },
  {
   "id": "eboot:2b1f84",
@@ -2685,7 +2685,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Martial Arts Hall"
  },
  {
   "id": "eboot:2b1f8c",
@@ -2693,7 +2693,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Sports Field"
  },
  {
   "id": "eboot:2b1f98",
@@ -2701,7 +2701,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Pool"
  },
  {
   "id": "eboot:2b1fa0",
@@ -2709,7 +2709,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Guidance Office"
  },
  {
   "id": "eboot:2b1fac",
@@ -2717,7 +2717,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Chemistry Lab"
  },
  {
   "id": "eboot:2b1fb8",
@@ -2725,7 +2725,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Computer Lab"
  },
  {
   "id": "eboot:2b1fc4",
@@ -2733,7 +2733,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Home Economics"
  },
  {
   "id": "eboot:2b1fd0",
@@ -2741,7 +2741,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Gymnasium"
  },
  {
   "id": "eboot:2b1fd8",
@@ -2749,7 +2749,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Faculty Room"
  },
  {
   "id": "eboot:2b1fe0",
@@ -2757,7 +2757,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Principal's Office"
  },
  {
   "id": "eboot:2b1fe8",
@@ -2765,7 +2765,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "2-2"
  },
  {
   "id": "eboot:2b1ff0",
@@ -2773,7 +2773,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Library"
  },
  {
   "id": "eboot:2b1ff8",
@@ -2781,7 +2781,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Librarian's Room"
  },
  {
   "id": "eboot:2b2000",
@@ -2789,7 +2789,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Square Research Club"
  },
  {
   "id": "eboot:2b200c",
@@ -2797,7 +2797,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "3-1"
  },
  {
   "id": "eboot:2b2014",
@@ -2805,7 +2805,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "3-2"
  },
  {
   "id": "eboot:2b201c",
@@ -2813,7 +2813,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Music Room"
  },
  {
   "id": "eboot:2b2024",
@@ -2821,7 +2821,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Audiovisual Room"
  },
  {
   "id": "eboot:2b2030",
@@ -2829,7 +2829,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Art Room"
  },
  {
   "id": "eboot:2b2038",
@@ -2837,7 +2837,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Student Council Room"
  },
  {
   "id": "eboot:2b2044",
@@ -2845,7 +2845,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Classmate"
  },
  {
   "id": "eboot:2b2054",
@@ -2853,7 +2853,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Valued Ally"
  },
  {
   "id": "eboot:2b2060",
@@ -2861,7 +2861,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Dear Friend"
  },
  {
   "id": "eboot:2b206c",
@@ -2869,7 +2869,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "One and Only"
  },
  {
   "id": "eboot:2b2078",
@@ -2877,7 +2877,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hard to Fathom"
  },
  {
   "id": "eboot:2b2088",
@@ -2885,7 +2885,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Can't Tell Yet"
  },
  {
   "id": "eboot:2b2098",
@@ -2893,7 +2893,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Can't Lose You"
  },
  {
   "id": "eboot:2b20a8",
@@ -2901,7 +2901,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Fellow Card Sealer"
  },
  {
   "id": "eboot:2b20b4",
@@ -2909,7 +2909,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Good Pals"
  },
  {
   "id": "eboot:2b20bc",
@@ -2917,7 +2917,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Best Duo Ever!"
  },
  {
   "id": "eboot:2b20cc",
@@ -2925,7 +2925,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Handsome?"
  },
  {
   "id": "eboot:2b20d8",
@@ -2933,7 +2933,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "So Cool!"
  },
  {
   "id": "eboot:2b20e8",
@@ -2941,7 +2941,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Together Forever!"
  },
  {
   "id": "eboot:2b20f8",
@@ -2949,7 +2949,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Weird New Kid"
  },
  {
   "id": "eboot:2b2104",
@@ -2957,7 +2957,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "We Click"
  },
  {
   "id": "eboot:2b2110",
@@ -2965,7 +2965,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Best Friend"
  },
  {
   "id": "eboot:2b2118",
@@ -2973,7 +2973,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Interesting Guy"
  },
  {
   "id": "eboot:2b2124",
@@ -2981,7 +2981,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Fiery Guy"
  },
  {
   "id": "eboot:2b212c",
@@ -2989,7 +2989,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Partner"
  },
  {
   "id": "eboot:2b2134",
@@ -2997,7 +2997,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Schoolmate"
  },
  {
   "id": "eboot:2b213c",
@@ -3005,7 +3005,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "I Can Tell You Anything"
  },
  {
   "id": "eboot:2b214c",
@@ -3013,7 +3013,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Someone to Rely On"
  },
  {
   "id": "eboot:2b2158",
@@ -3021,7 +3021,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Fun to Be With"
  },
  {
   "id": "eboot:2b2164",
@@ -3029,7 +3029,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "On My Mind"
  },
  {
   "id": "eboot:2b2170",
@@ -3037,7 +3037,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Don't Want to Part"
  },
  {
   "id": "eboot:2b2180",
@@ -3045,7 +3045,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Senpai!"
  },
  {
   "id": "eboot:2b2188",
@@ -3053,7 +3053,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Big Bro!"
  },
  {
   "id": "eboot:2b2190",
@@ -3061,7 +3061,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Master!"
  },
  {
   "id": "eboot:2b2198",
@@ -3069,7 +3069,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mighty Odd"
  },
  {
   "id": "eboot:2b21a4",
@@ -3077,7 +3077,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Full of Grit"
  },
  {
   "id": "eboot:2b21b0",
@@ -3085,7 +3085,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "True Son of Japan"
  },
  {
   "id": "eboot:2b21bc",
@@ -3093,7 +3093,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Seems Unreliable"
  },
  {
   "id": "eboot:2b21cc",
@@ -3101,7 +3101,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Surprisingly Reliable"
  },
  {
   "id": "eboot:2b21dc",
@@ -3109,7 +3109,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Comrade"
  },
  {
   "id": "eboot:2b21e4",
@@ -3117,7 +3117,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kinda Dumb"
  },
  {
   "id": "eboot:2b21f0",
@@ -3125,7 +3125,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Falling for You?"
  },
  {
   "id": "eboot:2b2200",
@@ -3133,7 +3133,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Want a Scolding"
  },
  {
   "id": "eboot:2b220c",
@@ -3141,7 +3141,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Parallelogram"
  },
  {
   "id": "eboot:2b2218",
@@ -3149,7 +3149,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Rectangle"
  },
  {
   "id": "eboot:2b2220",
@@ -3157,7 +3157,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Square"
  },
  {
   "id": "eboot:2b2228",
@@ -3165,7 +3165,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Weird Shape"
  },
  {
   "id": "eboot:2b2238",
@@ -3173,7 +3173,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Nice Shape"
  },
  {
   "id": "eboot:2b2244",
@@ -3181,7 +3181,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Golden Ratio"
  },
  {
   "id": "eboot:2b224c",
@@ -3189,7 +3189,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Lame Dude"
  },
  {
   "id": "eboot:2b2258",
@@ -3197,7 +3197,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Tough Dude"
  },
  {
   "id": "eboot:2b2260",
@@ -3205,7 +3205,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Awesome Dude"
  },
  {
   "id": "eboot:2b226c",
@@ -3213,7 +3213,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Lousy Punk"
  },
  {
   "id": "eboot:2b227c",
@@ -3221,7 +3221,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Crazy Bastard"
  },
  {
   "id": "eboot:2b228c",
@@ -3229,7 +3229,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "You've Earned It"
  },
  {
   "id": "eboot:2b229c",
@@ -3237,7 +3237,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Worthless Guy"
  },
  {
   "id": "eboot:2b22ac",
@@ -3245,7 +3245,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Not Bad"
  },
  {
   "id": "eboot:2b22b8",
@@ -3253,7 +3253,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Two of a Kind"
  },
  {
   "id": "eboot:2b22c4",
@@ -3261,7 +3261,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Eyesore"
  },
  {
   "id": "eboot:2b22d0",
@@ -3269,7 +3269,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "What an Idiot"
  },
  {
   "id": "eboot:2b22dc",
@@ -3277,7 +3277,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "High Maintenance"
  },
  {
   "id": "eboot:2b22ec",
@@ -3285,7 +3285,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Senor!"
  },
  {
   "id": "eboot:2b22fc",
@@ -3293,7 +3293,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Amigo!"
  },
  {
   "id": "eboot:2b2308",
@@ -3301,7 +3301,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hero!"
  },
  {
   "id": "eboot:2b2314",
@@ -3309,7 +3309,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Interested?"
  },
  {
   "id": "eboot:2b2320",
@@ -3317,7 +3317,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Must Steal"
  },
  {
   "id": "eboot:2b232c",
@@ -3325,7 +3325,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Steal Me Please"
  },
  {
   "id": "eboot:2b233c",
@@ -3333,7 +3333,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Not Acceptin' It"
  },
  {
   "id": "eboot:2b2348",
@@ -3341,7 +3341,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Can Be Honest"
  },
  {
   "id": "eboot:2b2358",
@@ -3349,7 +3349,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Friend and Equal"
  },
  {
   "id": "eboot:2b2364",
@@ -3357,7 +3357,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Exasperating Sir"
  },
  {
   "id": "eboot:2b2370",
@@ -3365,7 +3365,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kind Gentleman"
  },
  {
   "id": "eboot:2b237c",
@@ -3373,7 +3373,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "My First"
  },
  {
   "id": "eboot:2b2388",
@@ -3381,7 +3381,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Macho Type"
  },
  {
   "id": "eboot:2b2394",
@@ -3389,7 +3389,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Knows a Girl's Heart"
  },
  {
   "id": "eboot:2b23a4",
@@ -3397,7 +3397,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Maiden Alliance"
  },
  {
   "id": "eboot:2b23b0",
@@ -3405,7 +3405,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Playful-san"
  },
  {
   "id": "eboot:2b23c0",
@@ -3413,7 +3413,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ba-dump Ba-dump"
  },
  {
   "id": "eboot:2b23d0",
@@ -3421,7 +3421,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Head Over Heels"
  },
  {
   "id": "eboot:2b23dc",
@@ -3429,7 +3429,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hero in Training"
  },
  {
   "id": "eboot:2b23e8",
@@ -3437,7 +3437,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Local Hero"
  },
  {
   "id": "eboot:2b23f4",
@@ -3445,7 +3445,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "National Hero"
  },
  {
   "id": "eboot:2b2400",
@@ -3453,7 +3453,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Sidekick Material?"
  },
  {
   "id": "eboot:2b2410",
@@ -3461,7 +3461,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "More Passion!"
  },
  {
   "id": "eboot:2b2420",
@@ -3469,7 +3469,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Justice Fusion!"
  },
  {
   "id": "eboot:2b242c",
@@ -3477,7 +3477,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Sheltered"
  },
  {
   "id": "eboot:2b2438",
@@ -3485,7 +3485,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Has Potential"
  },
  {
   "id": "eboot:2b2448",
@@ -3493,7 +3493,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Masochist Buddy"
  },
  {
   "id": "eboot:2b2454",
@@ -3501,7 +3501,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Dangerous Person"
  },
  {
   "id": "eboot:2b2460",
@@ -3509,7 +3509,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Intriguing"
  },
  {
   "id": "eboot:2b246c",
@@ -3517,7 +3517,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hit Me, Please"
  },
  {
   "id": "eboot:2b2478",
@@ -3525,7 +3525,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ninjutsu Guinea Pig"
  },
  {
   "id": "eboot:2b2488",
@@ -3533,7 +3533,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Fellow Ninja"
  },
  {
   "id": "eboot:2b2494",
@@ -3541,7 +3541,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "My Lord!"
  },
  {
   "id": "eboot:2b249c",
@@ -3549,7 +3549,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Don't Mock Me"
  },
  {
   "id": "eboot:2b24ac",
@@ -3557,7 +3557,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Are You Serious?"
  },
  {
   "id": "eboot:2b24bc",
@@ -3565,7 +3565,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Um... Well..."
  },
  {
   "id": "eboot:2b24cc",
@@ -3573,7 +3573,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Like the Moon"
  },
  {
   "id": "eboot:2b24dc",
@@ -3581,7 +3581,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mysterious One"
  },
  {
   "id": "eboot:2b24e8",
@@ -3589,7 +3589,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "First Friend"
  },
  {
   "id": "eboot:2b24f8",
@@ -3597,7 +3597,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "eboot:2b2504",
@@ -3605,7 +3605,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Unknown Feeling"
  },
  {
   "id": "eboot:2b2510",
@@ -3613,7 +3613,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Please Teach Me"
  },
  {
   "id": "eboot:2b2520",
@@ -3621,7 +3621,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Unreliable"
  },
  {
   "id": "eboot:2b252c",
@@ -3629,7 +3629,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "My Master"
  },
  {
   "id": "eboot:2b2534",
@@ -3637,7 +3637,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Blockhead"
  },
  {
   "id": "eboot:2b2540",
@@ -3645,7 +3645,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hopeless Lout"
  },
  {
   "id": "eboot:2b254c",
@@ -3653,7 +3653,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Beloved Master"
  },
  {
   "id": "eboot:2b2558",
@@ -3661,7 +3661,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Spirited Young One"
  },
  {
   "id": "eboot:2b2564",
@@ -3669,7 +3669,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Dapper Fellow"
  },
  {
   "id": "eboot:2b2570",
@@ -3677,7 +3677,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Fine Gentleman"
  },
  {
   "id": "eboot:2b257c",
@@ -3685,7 +3685,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Dubious"
  },
  {
   "id": "eboot:2b2584",
@@ -3693,7 +3693,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Sly Fox"
  },
  {
   "id": "eboot:2b2590",
@@ -3701,7 +3701,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Master Trickster"
  },
  {
   "id": "eboot:2b259c",
@@ -3709,7 +3709,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "A Little Scary"
  },
  {
   "id": "eboot:2b25ac",
@@ -3717,7 +3717,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "I'll Do My Best"
  },
  {
   "id": "eboot:2b25b8",
@@ -3725,7 +3725,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "All Smiles!"
  },
  {
   "id": "eboot:2b25c8",
@@ -3733,7 +3733,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Eep..."
  },
  {
   "id": "eboot:2b25d4",
@@ -3741,7 +3741,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Heart's Racing!"
  },
  {
   "id": "eboot:2b25e4",
@@ -3749,7 +3749,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Warm and Fuzzy!"
  },
  {
   "id": "eboot:2b25f4",
@@ -3757,7 +3757,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Valued Student"
  },
  {
   "id": "eboot:2b2600",
@@ -3765,7 +3765,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Good Kid"
  },
  {
   "id": "eboot:2b2608",
@@ -3773,7 +3773,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Understands Me"
  },
  {
   "id": "eboot:2b2614",
@@ -3781,7 +3781,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Like a Little Bro"
  },
  {
   "id": "eboot:2b2620",
@@ -3789,7 +3789,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "A Bit Intrigued"
  },
  {
   "id": "eboot:2b2630",
@@ -3797,7 +3797,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Heart Aches"
  },
  {
   "id": "eboot:2b263c",
@@ -3805,7 +3805,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Little Punk"
  },
  {
   "id": "eboot:2b2644",
@@ -3813,7 +3813,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Eat Up!"
  },
  {
   "id": "eboot:2b264c",
@@ -3821,7 +3821,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Can Let Guard Down"
  },
  {
   "id": "eboot:2b2658",
@@ -3829,7 +3829,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Untrustworthy"
  },
  {
   "id": "eboot:2b2668",
@@ -3837,7 +3837,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mixed Feelings"
  },
  {
   "id": "eboot:2b2674",
@@ -3845,7 +3845,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Like a Son"
  },
  {
   "id": "eboot:2b2680",
@@ -3853,7 +3853,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Still Green"
  },
  {
   "id": "eboot:2b2690",
@@ -3861,7 +3861,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Has Backbone"
  },
  {
   "id": "eboot:2b269c",
@@ -3869,7 +3869,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Prized Pupil"
  },
  {
   "id": "eboot:2b26a4",
@@ -3877,7 +3877,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Wrong Pick?"
  },
  {
   "id": "eboot:2b26b4",
@@ -3885,7 +3885,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Headache"
  },
  {
   "id": "eboot:2b26c0",
@@ -3893,7 +3893,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "You Win This One"
  },
  {
   "id": "eboot:2b26cc",
@@ -3901,7 +3901,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Research Subject"
  },
  {
   "id": "eboot:2b26d8",
@@ -3909,7 +3909,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Good Friend"
  },
  {
   "id": "eboot:2b26e4",
@@ -3917,7 +3917,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Unpredictable"
  },
  {
   "id": "eboot:2b26f0",
@@ -3925,7 +3925,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Want to Talk"
  },
  {
   "id": "eboot:2b26fc",
@@ -3933,7 +3933,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Rude One"
  },
  {
   "id": "eboot:2b2708",
@@ -3941,7 +3941,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Favorite"
  },
  {
   "id": "eboot:2b2714",
@@ -3949,7 +3949,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Shameless"
  },
  {
   "id": "eboot:2b2720",
@@ -3957,7 +3957,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Cute One"
  },
  {
   "id": "eboot:2b272c",
@@ -3965,7 +3965,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Rare Treasure"
  },
  {
   "id": "eboot:2b2738",
@@ -3973,7 +3973,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Just Some Kid"
  },
  {
   "id": "eboot:2b2748",
@@ -3981,7 +3981,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Capable Guy"
  },
  {
   "id": "eboot:2b2754",
@@ -3989,7 +3989,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Recruit Material"
  },
  {
   "id": "eboot:2b2764",
@@ -3997,7 +3997,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Presumptuous"
  },
  {
   "id": "eboot:2b2774",
@@ -4005,7 +4005,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Want to Interrogate"
  },
  {
   "id": "eboot:2b2784",
@@ -4013,7 +4013,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Want to Catch"
  },
  {
   "id": "eboot:2b2790",
@@ -4021,7 +4021,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Just a Customer"
  },
  {
   "id": "eboot:2b279c",
@@ -4029,7 +4029,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Regular"
  },
  {
   "id": "eboot:2b27a4",
@@ -4037,7 +4037,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Promising"
  },
  {
   "id": "eboot:2b27b0",
@@ -4045,7 +4045,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Odd Customer"
  },
  {
   "id": "eboot:2b27b8",
@@ -4053,7 +4053,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "So Young"
  },
  {
   "id": "eboot:2b27c0",
@@ -4061,7 +4061,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Successor"
  },
  {
   "id": "eboot:2b27c8",
@@ -4069,7 +4069,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Weak Stomach"
  },
  {
   "id": "eboot:2b27d4",
@@ -4077,7 +4077,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Discerning Diner"
  },
  {
   "id": "eboot:2b27e4",
@@ -4085,7 +4085,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Blending Buddy"
  },
  {
   "id": "eboot:2b27f0",
@@ -4093,7 +4093,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Boil-in-Bag Diner"
  },
  {
   "id": "eboot:2b2800",
@@ -4101,7 +4101,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Garam Masala"
  },
  {
   "id": "eboot:2b2810",
@@ -4109,7 +4109,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "He Is Curry"
  },
  {
   "id": "eboot:2b281c",
@@ -4117,7 +4117,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mere Dust"
  },
  {
   "id": "eboot:2b2828",
@@ -4125,7 +4125,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Obstacle in My Way"
  },
  {
   "id": "eboot:2b2834",
@@ -4133,7 +4133,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "My Destiny"
  },
  {
   "id": "eboot:2b2840",
@@ -4141,7 +4141,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Merely Human"
  },
  {
   "id": "eboot:2b284c",
@@ -4149,7 +4149,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Useless Data"
  },
  {
   "id": "eboot:2b2858",
@@ -4157,7 +4157,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "My Calling"
  },
  {
   "id": "eboot:2b2864",
@@ -4165,7 +4165,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Want to Be Friends"
  },
  {
   "id": "eboot:2b2874",
@@ -4173,7 +4173,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Cheeky"
  },
  {
   "id": "eboot:2b287c",
@@ -4181,7 +4181,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Dependable"
  },
  {
   "id": "eboot:2b2888",
@@ -4189,7 +4189,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Rooting for You"
  },
  {
   "id": "eboot:2b2894",
@@ -4197,7 +4197,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "I'll Look After Ya"
  },
  {
   "id": "eboot:2b28a4",
@@ -4205,7 +4205,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Good Person"
  },
  {
   "id": "eboot:2b28ac",
@@ -4213,7 +4213,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "I Respect You"
  },
  {
   "id": "eboot:2b28bc",
@@ -4221,7 +4221,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Can't Ignore You"
  },
  {
   "id": "eboot:2b28cc",
@@ -4229,7 +4229,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Can't Leave You Be"
  },
  {
   "id": "eboot:2b28dc",
@@ -4237,7 +4237,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "But I Refuse"
  },
  {
   "id": "eboot:2b28e8",
@@ -4245,7 +4245,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Dazzling Presence"
  },
  {
   "id": "eboot:2b28f8",
@@ -4253,7 +4253,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Old Acquaintance"
  },
  {
   "id": "eboot:2b2904",
@@ -4261,7 +4261,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Leave Me Be"
  },
  {
   "id": "eboot:2b290c",
@@ -4269,7 +4269,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Master"
  },
  {
   "id": "eboot:2b2918",
@@ -4277,7 +4277,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Sensei!"
  },
  {
   "id": "eboot:2b2924",
@@ -4285,7 +4285,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Muscle Head"
  },
  {
   "id": "eboot:2b2930",
@@ -4293,7 +4293,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Someone I Admire"
  },
  {
   "id": "eboot:2b293c",
@@ -4301,7 +4301,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Childhood Friend"
  },
  {
   "id": "eboot:2b2948",
@@ -4309,7 +4309,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hasn't Changed"
  },
  {
   "id": "eboot:2b2958",
@@ -4317,7 +4317,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Bring It On!"
  },
  {
   "id": "eboot:2b2964",
@@ -4325,7 +4325,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Full of Energy"
  },
  {
   "id": "eboot:2b2970",
@@ -4333,7 +4333,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "I'll Win Someday"
  },
  {
   "id": "eboot:2b297c",
@@ -4341,7 +4341,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Precious to Me"
  },
  {
   "id": "eboot:2b2988",
@@ -4349,7 +4349,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Heartwarming"
  },
  {
   "id": "eboot:2b2994",
@@ -4357,7 +4357,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Not My Type"
  },
  {
   "id": "eboot:2b299c",
@@ -4365,7 +4365,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Very Friendly"
  },
  {
   "id": "eboot:2b29a8",
@@ -4373,7 +4373,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Life Mentor"
  },
  {
   "id": "eboot:2b29b4",
@@ -4381,7 +4381,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Has My Respect"
  },
  {
   "id": "eboot:2b29c4",
@@ -4389,7 +4389,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "No Ordinary Kid"
  },
  {
   "id": "eboot:2b29d4",
@@ -4397,7 +4397,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hard to Handle"
  },
  {
   "id": "eboot:2b29e0",
@@ -4405,7 +4405,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Envious"
  },
  {
   "id": "eboot:2b29f0",
@@ -4413,7 +4413,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Gentle Aura"
  },
  {
   "id": "eboot:2b29fc",
@@ -4421,7 +4421,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Seconds!"
  },
  {
   "id": "eboot:2b2a08",
@@ -4429,7 +4429,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ace Secretary"
  },
  {
   "id": "eboot:2b2a14",
@@ -4437,7 +4437,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "I Trust You"
  },
  {
   "id": "eboot:2b2a24",
@@ -4445,7 +4445,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Too Intense"
  },
  {
   "id": "eboot:2b2a30",
@@ -4453,7 +4453,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Troublesome Junior"
  },
  {
   "id": "eboot:2b2a3c",
@@ -4461,7 +4461,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Fight Me!"
  },
  {
   "id": "eboot:2b2a44",
@@ -4469,7 +4469,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Square Novice"
  },
  {
   "id": "eboot:2b2a50",
@@ -4477,7 +4477,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kinda Square"
  },
  {
   "id": "eboot:2b2a5c",
@@ -4485,7 +4485,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Can't Stand You"
  },
  {
   "id": "eboot:2b2a6c",
@@ -4493,7 +4493,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "I'll Crush Ya"
  },
  {
   "id": "eboot:2b2a7c",
@@ -4501,7 +4501,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Useful Guy"
  },
  {
   "id": "eboot:2b2a88",
@@ -4509,7 +4509,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Dear Family"
  },
  {
   "id": "eboot:2b2a94",
@@ -4517,7 +4517,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Fellow Martial Artist"
  },
  {
   "id": "eboot:2b2aa0",
@@ -4525,7 +4525,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Idiot"
  },
  {
   "id": "eboot:2b2aa8",
@@ -4533,7 +4533,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Real Pain"
  },
  {
   "id": "eboot:2b2ab4",
@@ -4541,7 +4541,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Won't Lose!"
  },
  {
   "id": "eboot:2b2ac0",
@@ -4549,7 +4549,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Formidable"
  },
  {
   "id": "eboot:2b2ad0",
@@ -4557,7 +4557,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "You, Honestly..."
  },
  {
   "id": "eboot:2b2adc",
@@ -4565,7 +4565,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "The Win Is Mine"
  },
  {
   "id": "eboot:2b2ae8",
@@ -4573,7 +4573,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "I'm Sorry"
  },
  {
   "id": "eboot:2b2af8",
@@ -4581,7 +4581,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Can't Back Down"
  },
  {
   "id": "eboot:2b2b08",
@@ -4589,7 +4589,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Worthy Rival"
  },
  {
   "id": "eboot:2b2b10",
@@ -4597,7 +4597,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Stuck Together"
  },
  {
   "id": "eboot:2b2b18",
@@ -4605,7 +4605,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kendo Nut"
  },
  {
   "id": "eboot:2b2b24",
@@ -4613,7 +4613,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Whatever"
  },
  {
   "id": "eboot:2b2b34",
@@ -4621,7 +4621,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Needs Muscle"
  },
  {
   "id": "eboot:2b2b40",
@@ -4629,7 +4629,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Flower of Evil"
  },
  {
   "id": "eboot:2b2b48",
@@ -4637,7 +4637,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Natural Talent"
  },
  {
   "id": "eboot:2b2b54",
@@ -4645,7 +4645,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Just Be Honest"
  },
  {
   "id": "eboot:2b2b64",
@@ -4653,7 +4653,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Strange Guy"
  },
  {
   "id": "eboot:2b2b70",
@@ -4661,7 +4661,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Dandy?"
  },
  {
   "id": "eboot:2b2b80",
@@ -4669,7 +4669,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Intrigued!"
  },
  {
   "id": "eboot:2b2b8c",
@@ -4677,7 +4677,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Intrigued?"
  },
  {
   "id": "eboot:2b2b98",
@@ -4685,7 +4685,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hard Worker"
  },
  {
   "id": "eboot:2b2ba8",
@@ -4693,7 +4693,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Means a Lot"
  },
  {
   "id": "eboot:2b2bb4",
@@ -4701,7 +4701,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kind Senpai"
  },
  {
   "id": "eboot:2b2bc0",
@@ -4709,7 +4709,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Feel at Ease"
  },
  {
   "id": "eboot:2b2bcc",
@@ -4717,7 +4717,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Reckless"
  },
  {
   "id": "eboot:2b2bdc",
@@ -4725,7 +4725,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kinda Noisy"
  },
  {
   "id": "eboot:2b2bec",
@@ -4733,7 +4733,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ninja!"
  },
  {
   "id": "eboot:2b2bf8",
@@ -4741,7 +4741,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Love Rival"
  },
  {
   "id": "eboot:2b2c08",
@@ -4749,7 +4749,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Scatterbrain"
  },
  {
   "id": "eboot:2b2c18",
@@ -4757,7 +4757,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Square?"
  },
  {
   "id": "eboot:2b2c24",
@@ -4765,7 +4765,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Don't Say \"Men\""
  },
  {
   "id": "eboot:2b2c30",
@@ -4773,7 +4773,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Too Serious"
  },
  {
   "id": "eboot:2b2c40",
@@ -4781,7 +4781,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Burning Gaze"
  },
  {
   "id": "eboot:2b2c48",
@@ -4789,7 +4789,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Quit Starin'"
  },
  {
   "id": "eboot:2b2c58",
@@ -4797,7 +4797,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hats Off"
  },
  {
   "id": "eboot:2b2c64",
@@ -4805,7 +4805,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Sympathetic"
  },
  {
   "id": "eboot:2b2c70",
@@ -4813,7 +4813,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Curry Cop"
  },
  {
   "id": "eboot:2b2c7c",
@@ -4821,7 +4821,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Curry Princess"
  },
  {
   "id": "eboot:2b2c88",
@@ -4829,7 +4829,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Curry Prince"
  },
  {
   "id": "eboot:2b2c94",
@@ -4837,7 +4837,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Bottomless Stomach"
  },
  {
   "id": "eboot:2b2ca0",
@@ -4845,7 +4845,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Curry Samurai"
  },
  {
   "id": "eboot:2b2cac",
@@ -4853,7 +4853,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Shut Up"
  },
  {
   "id": "eboot:2b2cb8",
@@ -4861,7 +4861,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Well-Informed"
  },
  {
   "id": "eboot:2b2cc0",
@@ -4869,7 +4869,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Toy Store (Inside)"
  },
  {
   "id": "eboot:2b2cd0",
@@ -4877,7 +4877,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Outside Alta"
  },
  {
   "id": "eboot:2b2cdc",
@@ -4885,7 +4885,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Police Station"
  },
  {
   "id": "eboot:2b2ce4",
@@ -4893,7 +4893,7 @@
   "slot": 28,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Shinjuku Station (Lumine EST)"
  },
  {
   "id": "eboot:2b2d00",
@@ -4901,7 +4901,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "City Hall (Entrance)"
  },
  {
   "id": "eboot:2b2d14",
@@ -4909,7 +4909,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Science Room"
  },
  {
   "id": "eboot:2b2d1c",
@@ -4917,7 +4917,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Computer Science Room"
  },
  {
   "id": "eboot:2b2d2c",
@@ -4925,7 +4925,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Meeting Room"
  },
  {
   "id": "eboot:2b2d34",
@@ -4933,7 +4933,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Gym Storeroom"
  },
  {
   "id": "eboot:2b3708",
@@ -4941,7 +4941,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Exit"
  },
  {
   "id": "eboot:2b3e68",
@@ -4949,7 +4949,7 @@
   "slot": 44,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "_HSMoviePlayer_InitParam : memory allocation failed"
  },
  {
   "id": "eboot:2b3e94",
@@ -4957,7 +4957,7 @@
   "slot": 40,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "scePsmfPlayerCreate : creation failed 0x%08x"
  },
  {
   "id": "eboot:2b3fe4",
@@ -4965,7 +4965,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "%s %s"
  },
  {
   "id": "eboot:2b400c",
@@ -4973,7 +4973,7 @@
   "slot": 44,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "This hanafuda is currently\nin use in a hanafuda trap."
  },
  {
   "id": "eboot:2b4038",
@@ -4981,7 +4981,7 @@
   "slot": 88,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "This hanafuda is attached\nto an item you are not\ncarrying, so it can't\nbe used right now."
  },
  {
   "id": "eboot:2b4158",
@@ -4989,7 +4989,7 @@
   "slot": 4,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "-"
  },
  {
   "id": "eboot:2b4178",
@@ -4997,7 +4997,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "v"
  },
  {
   "id": "eboot:2b4190",
@@ -5005,7 +5005,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "\"%s"
  },
  {
   "id": "eboot:2b419c",
@@ -5013,7 +5013,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "\""
  },
  {
   "id": "eboot:2b41a4",
@@ -5021,7 +5021,7 @@
   "slot": 24,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": " info registered."
  },
  {
   "id": "eboot:2b4378",
@@ -5029,7 +5029,7 @@
   "slot": 8,
   "refs": 4,
   "enc": "cp932",
-  "en": ""
+  "en": "Unknown"
  },
  {
   "id": "eboot:2b4380",
@@ -5037,7 +5037,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Unread:%3d/%3d"
  },
  {
   "id": "eboot:2b439c",
@@ -5045,7 +5045,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "   %2d/%2d"
  },
  {
   "id": "eboot:2b43ac",
@@ -5053,7 +5053,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Received:%2d/%2d"
  },
  {
   "id": "eboot:2b43c0",
@@ -5061,7 +5061,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Subject:%s"
  },
  {
   "id": "eboot:2b43c8",
@@ -5069,7 +5069,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "From:%s"
  },
  {
   "id": "eboot:2b43d4",
@@ -5077,7 +5077,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Quest: %s"
  },
  {
   "id": "eboot:2b43e0",
@@ -5093,7 +5093,7 @@
   "slot": 12,
   "refs": 3,
   "enc": "cp932",
-  "en": ""
+  "en": "Weakness HP/%d"
  },
  {
   "id": "eboot:2b4404",
@@ -5101,7 +5101,7 @@
   "slot": 12,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Weakness HP/???"
  },
  {
   "id": "eboot:2b4410",
@@ -5109,7 +5109,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Chance %2d%%"
  },
  {
   "id": "eboot:2b441c",
@@ -5117,7 +5117,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "???"
  },
  {
   "id": "eboot:2b4424",
@@ -5125,7 +5125,7 @@
   "slot": 36,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "This enemy has no items."
  },
  {
   "id": "eboot:2b4470",
@@ -5133,7 +5133,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "%2d/%2d"
  },
  {
   "id": "eboot:2b45e4",
@@ -5141,7 +5141,7 @@
   "slot": 12,
   "refs": 3,
   "enc": "cp932",
-  "en": ""
+  "en": "Incinerator Basement"
  },
  {
   "id": "eboot:2b45f0",
@@ -5149,7 +5149,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Back"
  },
  {
   "id": "eboot:2b45f8",
@@ -5157,7 +5157,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Zoom In/Out"
  },
  {
   "id": "eboot:2b4604",
@@ -5165,7 +5165,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Change Depth"
  },
  {
   "id": "eboot:2b4610",
@@ -5173,7 +5173,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Confirm"
  },
  {
   "id": "eboot:2b47ec",
@@ -5181,7 +5181,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Lv%2d %s %s"
  },
  {
   "id": "eboot:2b47fc",
@@ -5189,7 +5189,7 @@
   "slot": 24,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "%s %03d:%02d:%02d"
  },
  {
   "id": "eboot:2b4814",
@@ -5197,7 +5197,7 @@
   "slot": 24,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "%s  %02d:%02d:%02d"
  },
  {
   "id": "eboot:2b4830",
@@ -5205,7 +5205,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Cleared Data"
  },
  {
   "id": "eboot:2b4844",
@@ -5213,7 +5213,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Money  %d yen"
  },
  {
   "id": "eboot:2b485c",
@@ -5221,7 +5221,7 @@
   "slot": 116,
   "refs": 1,
   "enc": "utf-8",
-  "en": ""
+  "en": "The save data version is invalid. This data cannot be used."
  },
  {
   "id": "eboot:2b4940",
@@ -5229,7 +5229,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Key Item Obtained"
  },
  {
   "id": "eboot:2b4bb4",
@@ -5237,7 +5237,7 @@
   "slot": 24,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Yes!! Subliminal"
  },
  {
   "id": "eboot:2b4d1c",
@@ -5245,7 +5245,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Current Cards %3d/%3d"
  },
  {
   "id": "eboot:2b4d34",
@@ -5253,7 +5253,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hanafuda Obtained"
  },
  {
   "id": "eboot:2b4d40",
@@ -5261,7 +5261,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Obtain"
  },
  {
   "id": "eboot:2b4e3c",
@@ -5269,7 +5269,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Quest: %s"
  },
  {
   "id": "eboot:2b4e48",
@@ -5285,7 +5285,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Acquire"
  },
  {
   "id": "eboot:2b4f64",
@@ -5293,7 +5293,7 @@
   "slot": 8,
   "refs": 6,
   "enc": "cp932",
-  "en": ""
+  "en": "Confirm"
  },
  {
   "id": "eboot:2b4ff0",
@@ -5301,7 +5301,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Line %d"
  },
  {
   "id": "eboot:2b5010",
@@ -5309,7 +5309,7 @@
   "slot": 8,
   "refs": 3,
   "enc": "cp932",
-  "en": ""
+  "en": "%s"
  },
  {
   "id": "eboot:2b512c",
@@ -5317,7 +5317,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hanafuda Obtained"
  },
  {
   "id": "eboot:2b5148",
@@ -5325,7 +5325,7 @@
   "slot": 24,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Attack       AP Cost"
  },
  {
   "id": "eboot:2b5168",
@@ -5333,7 +5333,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Defense"
  },
  {
   "id": "eboot:2b5174",
@@ -5341,7 +5341,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Reload AP: %3d"
  },
  {
   "id": "eboot:2b518c",
@@ -5349,7 +5349,7 @@
   "slot": 8,
   "refs": 5,
   "enc": "cp932",
-  "en": ""
+  "en": "%s: %s"
  },
  {
   "id": "eboot:2b5194",
@@ -5357,7 +5357,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "%s: %3d %s:"
  },
  {
   "id": "eboot:2b51a4",
@@ -5365,7 +5365,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "%s%s %s%3d%%"
  },
  {
   "id": "eboot:2b51b4",
@@ -5373,7 +5373,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "->"
  },
  {
   "id": "eboot:2b51c8",
@@ -5381,7 +5381,7 @@
   "slot": 12,
   "refs": 6,
   "enc": "cp932",
-  "en": ""
+  "en": "%s   %4d"
  },
  {
   "id": "eboot:2b51d4",
@@ -5389,7 +5389,7 @@
   "slot": 12,
   "refs": 6,
   "enc": "cp932",
-  "en": ""
+  "en": "%s  %4d"
  },
  {
   "id": "eboot:2b51e0",
@@ -5397,7 +5397,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "%s %2d%s"
  },
  {
   "id": "eboot:2b51ec",
@@ -5405,7 +5405,7 @@
   "slot": 16,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "%s   %s%3d%%"
  },
  {
   "id": "eboot:2b51fc",
@@ -5413,7 +5413,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "%s  %s%3d%%"
  },
  {
   "id": "eboot:2b5218",
@@ -5421,7 +5421,7 @@
   "slot": 32,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Carried Items  Free %2d/Max %2d"
  },
  {
   "id": "eboot:2b5238",
@@ -5429,7 +5429,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Carried Items    Free %2d/Max %2d"
  },
  {
   "id": "eboot:2b5258",
@@ -5437,7 +5437,7 @@
   "slot": 56,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Which will you do?\n\"Yes\" to save, \"No\" to load."
  },
  {
   "id": "eboot:2b5290",
@@ -5445,7 +5445,7 @@
   "slot": 112,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "No Memory Stick(TM) found.\nSaving data for this game requires\nat least 448KB of free space."
  },
  {
   "id": "eboot:2b5300",
@@ -5453,7 +5453,7 @@
   "slot": 120,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Not enough free space on the Memory Stick(TM).\nSaving data for this game requires\nat least 448KB of free space."
  },
  {
   "id": "eboot:2b5378",
@@ -5461,7 +5461,7 @@
   "slot": 104,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Without a Memory Stick(TM) inserted,\ngame data cannot be saved.\nStart the game anyway?"
  },
  {
   "id": "eboot:2b53e0",
@@ -5469,7 +5469,7 @@
   "slot": 52,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "The remaining items will be discarded.\nIs that OK?"
  },
  {
   "id": "eboot:2b5414",
@@ -5477,7 +5477,7 @@
   "slot": 28,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hand over this item?"
  },
  {
   "id": "eboot:2b5430",
@@ -5485,7 +5485,7 @@
   "slot": 64,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Your carried slots are full.\nSort them and store the item?"
  },
  {
   "id": "eboot:2b5470",
@@ -5493,7 +5493,7 @@
   "slot": 24,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Remove the hanafuda?"
  },
  {
   "id": "eboot:2b5488",
@@ -5501,7 +5501,7 @@
   "slot": 48,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Already enhanced.\nSwap the hanafuda?"
  },
  {
   "id": "eboot:2b54b8",
@@ -5509,7 +5509,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": " ->"
  },
  {
   "id": "eboot:2b54bc",
@@ -5517,7 +5517,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": " Complete!"
  },
  {
   "id": "eboot:2b54cc",
@@ -5525,7 +5525,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "!"
  },
  {
   "id": "eboot:2b54e0",
@@ -5533,7 +5533,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "--------"
  },
  {
   "id": "eboot:2b54f4",
@@ -5541,7 +5541,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "????????"
  },
  {
   "id": "eboot:2b5508",
@@ -5549,7 +5549,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Use"
  },
  {
   "id": "eboot:2b5510",
@@ -5557,7 +5557,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mix"
  },
  {
   "id": "eboot:2b5518",
@@ -5565,7 +5565,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Equip"
  },
  {
   "id": "eboot:2b5524",
@@ -5573,7 +5573,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Sort"
  },
  {
   "id": "eboot:2b5530",
@@ -5581,7 +5581,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Reload"
  },
  {
   "id": "eboot:2b553c",
@@ -5589,7 +5589,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Remove"
  },
  {
   "id": "eboot:2b5544",
@@ -5597,7 +5597,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Select Hanafuda"
  },
  {
   "id": "eboot:2b5550",
@@ -5605,7 +5605,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Change Hanafuda"
  },
  {
   "id": "eboot:2b555c",
@@ -5613,7 +5613,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Enhance Gear"
  },
  {
   "id": "eboot:2b5568",
@@ -5621,7 +5621,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Undo Enhancement"
  },
  {
   "id": "eboot:2b5574",
@@ -5629,7 +5629,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "HP"
  },
  {
   "id": "eboot:2b557c",
@@ -5637,7 +5637,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "AP"
  },
  {
   "id": "eboot:2b5584",
@@ -5645,7 +5645,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Add Element"
  },
  {
   "id": "eboot:2b5594",
@@ -5653,7 +5653,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Summer"
  },
  {
   "id": "eboot:2b55a0",
@@ -5661,7 +5661,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Owned"
  },
  {
   "id": "eboot:2b55a8",
@@ -5669,7 +5669,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "items"
  },
  {
   "id": "eboot:2b55ac",
@@ -5677,7 +5677,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Money"
  },
  {
   "id": "eboot:2b55b4",
@@ -5685,7 +5685,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Subtotal"
  },
  {
   "id": "eboot:2b55bc",
@@ -5693,7 +5693,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "After Purchase"
  },
  {
   "id": "eboot:2b55e4",
@@ -5701,7 +5701,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hanafuda Obtained"
  },
  {
   "id": "eboot:2b55f0",
@@ -5709,7 +5709,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Obtain"
  },
  {
   "id": "eboot:2b5658",
@@ -5717,7 +5717,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ichiru Muto"
  },
  {
   "id": "eboot:2b5668",
@@ -5725,7 +5725,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ichiru Muto"
  },
  {
   "id": "eboot:2b5678",
@@ -5733,7 +5733,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Training Course, Class 3-C"
  },
  {
   "id": "eboot:2b5688",
@@ -5741,7 +5741,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Toji Dan"
  },
  {
   "id": "eboot:2b5694",
@@ -5749,7 +5749,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Toji Dan"
  },
  {
   "id": "eboot:2b56a4",
@@ -5757,7 +5757,7 @@
   "slot": 12,
   "refs": 3,
   "enc": "cp932",
-  "en": ""
+  "en": "Class 3-2"
  },
  {
   "id": "eboot:2b56b0",
@@ -5765,7 +5765,7 @@
   "slot": 12,
   "refs": 4,
   "enc": "cp932",
-  "en": ""
+  "en": "Asako Hatori"
  },
  {
   "id": "eboot:2b56bc",
@@ -5773,7 +5773,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Minori Hosaka"
  },
  {
   "id": "eboot:2b56c8",
@@ -5781,7 +5781,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Minori Hosaka"
  },
  {
   "id": "eboot:2b56d8",
@@ -5789,7 +5789,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Nagahide Shishido"
  },
  {
   "id": "eboot:2b56e4",
@@ -5797,7 +5797,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Nagahide Shishido"
  },
  {
   "id": "eboot:2b56f8",
@@ -5805,7 +5805,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Class 2-2"
  },
  {
   "id": "eboot:2b5704",
@@ -5813,7 +5813,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Tsugio Yasuda"
  },
  {
   "id": "eboot:2b5710",
@@ -5821,7 +5821,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Tomoe Tobisaka"
  },
  {
   "id": "eboot:2b571c",
@@ -5829,7 +5829,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Tomoe Tobisaka"
  },
  {
   "id": "eboot:2b5730",
@@ -5837,7 +5837,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Class 3-1"
  },
  {
   "id": "eboot:2b573c",
@@ -5845,7 +5845,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Michiaki Ono"
  },
  {
   "id": "eboot:2b5748",
@@ -5853,7 +5853,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Shu Takarakata"
  },
  {
   "id": "eboot:2b5754",
@@ -5861,7 +5861,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Shu Takarakata"
  },
  {
   "id": "eboot:2b5768",
@@ -5869,7 +5869,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Gio Onimaru"
  },
  {
   "id": "eboot:2b5774",
@@ -5877,7 +5877,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Gio Onimaru"
  },
  {
   "id": "eboot:2b5788",
@@ -5885,7 +5885,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Emperor Course, Class 2-A"
  },
  {
   "id": "eboot:2b5798",
@@ -5893,7 +5893,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Genmon Yagyu"
  },
  {
   "id": "eboot:2b57a4",
@@ -5901,7 +5901,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Migiri Kashima"
  },
  {
   "id": "eboot:2b57b0",
@@ -5909,7 +5909,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Migiri Kashima"
  },
  {
   "id": "eboot:2b57c0",
@@ -5917,7 +5917,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Information Strategy Course, Class 3-B"
  },
  {
   "id": "eboot:2b57d4",
@@ -5925,7 +5925,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Motoharu Akashi"
  },
  {
   "id": "eboot:2b57e0",
@@ -5933,7 +5933,7 @@
   "slot": 28,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Angela D. Orphen"
  },
  {
   "id": "eboot:2b57fc",
@@ -5941,7 +5941,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Overseas Select Course, Class 3-A"
  },
  {
   "id": "eboot:2b5810",
@@ -5949,7 +5949,7 @@
   "slot": 24,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Olga Kresnik"
  },
  {
   "id": "eboot:2b5828",
@@ -5957,7 +5957,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kaname Kotokuji"
  },
  {
   "id": "eboot:2b5834",
@@ -5965,7 +5965,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kaname Kotokuji"
  },
  {
   "id": "eboot:2b5848",
@@ -5973,7 +5973,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Class 3-Rooster"
  },
  {
   "id": "eboot:2b5854",
@@ -5981,7 +5981,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Shinpo Edogawa"
  },
  {
   "id": "eboot:2b5864",
@@ -5989,7 +5989,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Dokai Gamo"
  },
  {
   "id": "eboot:2b5870",
@@ -5997,7 +5997,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Dokai Gamo"
  },
  {
   "id": "eboot:2b5884",
@@ -6005,7 +6005,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Class 3-Snake"
  },
  {
   "id": "eboot:2b5890",
@@ -6013,7 +6013,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Yuzuki Ashiya"
  },
  {
   "id": "eboot:2b589c",
@@ -6021,7 +6021,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hideo Kamon"
  },
  {
   "id": "eboot:2b58a8",
@@ -6029,7 +6029,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hideo Kamon"
  },
  {
   "id": "eboot:2b58b8",
@@ -6037,7 +6037,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Class 3-Boar"
  },
  {
   "id": "eboot:2b58c4",
@@ -6045,7 +6045,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Masayoshi Tsukayama"
  },
  {
   "id": "eboot:2b58d4",
@@ -6053,7 +6053,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ayahito Konosu"
  },
  {
   "id": "eboot:2b58e4",
@@ -6061,7 +6061,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ayahito Konosu"
  },
  {
   "id": "eboot:2b58f8",
@@ -6069,7 +6069,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "General Course, Class 3-E"
  },
  {
   "id": "eboot:2b5908",
@@ -6077,7 +6077,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Rihito Shirogane"
  },
  {
   "id": "eboot:2b5914",
@@ -6085,7 +6085,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Rin Himukai"
  },
  {
   "id": "eboot:2b5920",
@@ -6093,7 +6093,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Rin Himukai"
  },
  {
   "id": "eboot:2b5930",
@@ -6101,7 +6101,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Class 1-Rabbit"
  },
  {
   "id": "eboot:2b593c",
@@ -6109,7 +6109,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kyuzo Kazama"
  },
  {
   "id": "eboot:2b5948",
@@ -6117,7 +6117,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Benio Sawakami"
  },
  {
   "id": "eboot:2b5958",
@@ -6125,7 +6125,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Benio Sawakami"
  },
  {
   "id": "eboot:2b596c",
@@ -6133,7 +6133,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Class 2-Plum"
  },
  {
   "id": "eboot:2b5978",
@@ -6141,7 +6141,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Tenzen Ubayama"
  },
  {
   "id": "eboot:2b5984",
@@ -6149,7 +6149,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mao"
  },
  {
   "id": "eboot:2b5988",
@@ -6157,7 +6157,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mao"
  },
  {
   "id": "eboot:2b5994",
@@ -6165,7 +6165,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ken"
  },
  {
   "id": "eboot:2b5998",
@@ -6173,7 +6173,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ken"
  },
  {
   "id": "eboot:2b59a0",
@@ -6181,7 +6181,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Suzu"
  },
  {
   "id": "eboot:2b59a4",
@@ -6189,7 +6189,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Suzu"
  },
  {
   "id": "eboot:2b59ac",
@@ -6197,7 +6197,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Asako Hatori"
  },
  {
   "id": "eboot:2b59bc",
@@ -6205,7 +6205,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Seishiro Hatori"
  },
  {
   "id": "eboot:2b59cc",
@@ -6213,7 +6213,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Seishiro Hatori"
  },
  {
   "id": "eboot:2b59e0",
@@ -6221,7 +6221,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Daisuke Isachi"
  },
  {
   "id": "eboot:2b59f4",
@@ -6229,7 +6229,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Nobuyuki Chikushi"
  },
  {
   "id": "eboot:2b5a00",
@@ -6237,7 +6237,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Nobuyuki Chikushi"
  },
  {
   "id": "eboot:2b5a14",
@@ -6245,7 +6245,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hisae Makimura"
  },
  {
   "id": "eboot:2b5a20",
@@ -6253,7 +6253,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hisae Makimura"
  },
  {
   "id": "eboot:2b5a34",
@@ -6261,7 +6261,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hanako Togashi"
  },
  {
   "id": "eboot:2b5a40",
@@ -6269,7 +6269,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hanako Togashi"
  },
  {
   "id": "eboot:2b5a50",
@@ -6277,7 +6277,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Gengo Shibukawa"
  },
  {
   "id": "eboot:2b5a5c",
@@ -6285,7 +6285,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Gengo Shibukawa"
  },
  {
   "id": "eboot:2b5a70",
@@ -6293,7 +6293,7 @@
   "slot": 32,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kalpataru T. Shankar"
  },
  {
   "id": "eboot:2b5a90",
@@ -6309,7 +6309,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Banri Takadono"
  },
  {
   "id": "eboot:2b5aa0",
@@ -6317,7 +6317,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Banri Takadono"
  },
  {
   "id": "eboot:2b5ab4",
@@ -6325,7 +6325,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Restaurant Proprietress"
  },
  {
   "id": "eboot:2b5ac4",
@@ -6333,7 +6333,7 @@
   "slot": 84,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Eighth-generation proprietress\nof a storied old restaurant.\nUnknown to her, she descends\nfrom a famous line of psychics."
  },
  {
   "id": "eboot:2b5b18",
@@ -6341,7 +6341,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mutsu Swordsmith"
  },
  {
   "id": "eboot:2b5b28",
@@ -6349,7 +6349,7 @@
   "slot": 108,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "A young, gifted swordsmith with\na hermitage deep in the Mutsu\nmountains. His \"modern cursed\nblades\" now sell at a premium."
  },
  {
   "id": "eboot:2b5b94",
@@ -6357,7 +6357,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "North American Hacker"
  },
  {
   "id": "eboot:2b5ba4",
@@ -6365,7 +6365,7 @@
   "slot": 104,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Self-styled \"No. 1 genius hacker\nof cyberspace.\" Can break into\na supercomputer one-handed.\nWhereabouts currently unknown."
  },
  {
   "id": "eboot:2b5c0c",
@@ -6373,7 +6373,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mt. Osore Medium"
  },
  {
   "id": "eboot:2b5c1c",
@@ -6381,7 +6381,7 @@
   "slot": 84,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "A folk shrine maiden of the\nTohoku region. Having trained\nsince early childhood, she\nclings strongly to the past."
  },
  {
   "id": "eboot:2b5c70",
@@ -6389,7 +6389,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Boy of a Possessed Line"
  },
  {
   "id": "eboot:2b5c80",
@@ -6397,7 +6397,7 @@
   "slot": 100,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Heir of an old spirit-bound\nline who died young of illness.\nThrough an ancestral pact, a\nshikigami gave him borrowed life."
  },
  {
   "id": "eboot:2b5ce4",
@@ -6405,7 +6405,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Humble Cat Lover"
  },
  {
   "id": "eboot:2b5cf4",
@@ -6413,7 +6413,7 @@
   "slot": 88,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "A mysterious beauty of unknown\norigins who'd do anything for\nher beloved cat. She dotes on\nit as she would on a lover."
  },
  {
   "id": "eboot:2b5d4c",
@@ -6421,7 +6421,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Dark-Skinned Royal"
  },
  {
   "id": "eboot:2b5d5c",
@@ -6429,7 +6429,7 @@
   "slot": 96,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Royal of an Asian nation doing\nmany good deeds to gain virtue.\nHis brother from a past life\nis said to be in Shinjuku."
  },
  {
   "id": "eboot:2b5dbc",
@@ -6437,7 +6437,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mysterious Curry Sage"
  },
  {
   "id": "eboot:2b5dcc",
@@ -6445,7 +6445,7 @@
   "slot": 100,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "A man of unknown identity in\npursuit of the legendary curry.\nLately he obsesses over the\nratio of dill to star anise."
  },
  {
   "id": "eboot:2b5e30",
@@ -6453,7 +6453,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Native American Chief"
  },
  {
   "id": "eboot:2b5e44",
@@ -6461,7 +6461,7 @@
   "slot": 108,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "A medicine man whose calling\nis communing with totems. He\ncan share the will and heart\nof animals."
  },
  {
   "id": "eboot:2b5eb0",
@@ -6469,7 +6469,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Imperial Defense Force"
  },
  {
   "id": "eboot:2b5ebc",
@@ -6477,7 +6477,7 @@
   "slot": 104,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Officer of the Imperial Defense\nForce, guarding the capital from\nspirits since the Meiji era.\n...Will that introduction do?"
  },
  {
   "id": "eboot:2b5f24",
@@ -6485,7 +6485,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Zero Chiaki"
  },
  {
   "id": "eboot:2b5f30",
@@ -6493,7 +6493,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Zero Chiaki"
  },
  {
   "id": "eboot:2b5f40",
@@ -6501,7 +6501,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Class 3-A, Training Dept."
  },
  {
   "id": "eboot:2b5f50",
@@ -6509,7 +6509,7 @@
   "slot": 16,
   "refs": 3,
   "enc": "cp932",
-  "en": ""
+  "en": "Daisuke Isachi"
  },
  {
   "id": "eboot:2b5fd8",
@@ -6517,7 +6517,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "*****"
  },
  {
   "id": "eboot:2b68b0",
@@ -6525,7 +6525,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Reading"
  },
  {
   "id": "eboot:2b68b8",
@@ -6533,7 +6533,7 @@
   "slot": 8,
   "refs": 3,
   "enc": "cp932",
-  "en": ""
+  "en": "Surname"
  },
  {
   "id": "eboot:2b6a10",
@@ -6541,7 +6541,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ringtone Obtained"
  },
  {
   "id": "eboot:2b6a24",
@@ -6549,7 +6549,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "BGM Obtained"
  },
  {
   "id": "eboot:2b6a30",
@@ -6557,7 +6557,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Furniture Obtained"
  },
  {
   "id": "eboot:2b6a40",
@@ -6565,7 +6565,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Trial Card Obtained"
  },
  {
   "id": "eboot:2b6a50",
@@ -6573,7 +6573,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hanafuda Obtained"
  },
  {
   "id": "eboot:2b6a90",
@@ -6581,7 +6581,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Chiaki"
  },
  {
   "id": "eboot:2b6a98",
@@ -6589,7 +6589,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Zero"
  },
  {
   "id": "eboot:2b6a9c",
@@ -6597,7 +6597,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Chiaki"
  },
  {
   "id": "eboot:2b6aa4",
@@ -6605,7 +6605,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Zero"
  },
  {
   "id": "eboot:2b6aac",
@@ -6613,7 +6613,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Tall Schoolboy"
  },
  {
   "id": "eboot:2b6abc",
@@ -6621,7 +6621,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Quiet Voice"
  },
  {
   "id": "eboot:2b6ac8",
@@ -6629,7 +6629,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Five Brights Beast"
  },
  {
   "id": "eboot:2b6ad4",
@@ -6637,7 +6637,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Lanky Schoolboy"
  },
  {
   "id": "eboot:2b6ae4",
@@ -6645,7 +6645,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Muto"
  },
  {
   "id": "eboot:2b6aec",
@@ -6653,7 +6653,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Ichiru"
  },
  {
   "id": "eboot:2b6af4",
@@ -6661,7 +6661,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Muto"
  },
  {
   "id": "eboot:2b6afc",
@@ -6669,7 +6669,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Lively Voice"
  },
  {
   "id": "eboot:2b6b0c",
@@ -6677,7 +6677,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Peppy Schoolgirl"
  },
  {
   "id": "eboot:2b6b20",
@@ -6685,7 +6685,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Vibrant Voice"
  },
  {
   "id": "eboot:2b6b30",
@@ -6693,7 +6693,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ichiru's Voice"
  },
  {
   "id": "eboot:2b6b40",
@@ -6701,7 +6701,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Toji"
  },
  {
   "id": "eboot:2b6b48",
@@ -6709,7 +6709,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Dan"
  },
  {
   "id": "eboot:2b6b50",
@@ -6717,7 +6717,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Toji"
  },
  {
   "id": "eboot:2b6b58",
@@ -6725,7 +6725,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Burly Boy's Voice"
  },
  {
   "id": "eboot:2b6b6c",
@@ -6733,7 +6733,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Black-Haired Boy"
  },
  {
   "id": "eboot:2b6b7c",
@@ -6741,7 +6741,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Sturdy Voice"
  },
  {
   "id": "eboot:2b6b88",
@@ -6749,7 +6749,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Toji"
  },
  {
   "id": "eboot:2b6b90",
@@ -6757,7 +6757,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hosaka"
  },
  {
   "id": "eboot:2b6b98",
@@ -6765,7 +6765,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Minori"
  },
  {
   "id": "eboot:2b6ba0",
@@ -6773,7 +6773,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hosaka"
  },
  {
   "id": "eboot:2b6ba8",
@@ -6781,7 +6781,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Minori"
  },
  {
   "id": "eboot:2b6bb0",
@@ -6789,7 +6789,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Soft Girl's Voice"
  },
  {
   "id": "eboot:2b6bc4",
@@ -6797,7 +6797,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Gentle Schoolgirl"
  },
  {
   "id": "eboot:2b6bd8",
@@ -6805,7 +6805,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Soft Voice"
  },
  {
   "id": "eboot:2b6be4",
@@ -6813,7 +6813,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Minori's Voice"
  },
  {
   "id": "eboot:2b6bf0",
@@ -6821,7 +6821,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Shishido"
  },
  {
   "id": "eboot:2b6bf8",
@@ -6829,7 +6829,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Nagahide"
  },
  {
   "id": "eboot:2b6c00",
@@ -6837,7 +6837,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Shishido"
  },
  {
   "id": "eboot:2b6c08",
@@ -6845,7 +6845,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Nagahide"
  },
  {
   "id": "eboot:2b6c14",
@@ -6853,7 +6853,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Gruff Boy's Voice"
  },
  {
   "id": "eboot:2b6c28",
@@ -6861,7 +6861,7 @@
   "slot": 24,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Boy with Sword Bag"
  },
  {
   "id": "eboot:2b6c40",
@@ -6869,7 +6869,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Gruff Voice"
  },
  {
   "id": "eboot:2b6c4c",
@@ -6877,7 +6877,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Nagahide's Voice"
  },
  {
   "id": "eboot:2b6c58",
@@ -6885,7 +6885,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hot-Blooded Voice"
  },
  {
   "id": "eboot:2b6c64",
@@ -6893,7 +6893,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Tobisaka"
  },
  {
   "id": "eboot:2b6c70",
@@ -6901,7 +6901,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Tobisaka"
  },
  {
   "id": "eboot:2b6c7c",
@@ -6909,7 +6909,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Tomoe"
  },
  {
   "id": "eboot:2b6c84",
@@ -6917,7 +6917,7 @@
   "slot": 24,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Bold Girl's Voice"
  },
  {
   "id": "eboot:2b6c9c",
@@ -6925,7 +6925,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Girl in Glasses"
  },
  {
   "id": "eboot:2b6cac",
@@ -6933,7 +6933,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Intercom"
  },
  {
   "id": "eboot:2b6cb8",
@@ -6941,7 +6941,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Bold Voice"
  },
  {
   "id": "eboot:2b6cc8",
@@ -6949,7 +6949,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Tomoe's Voice"
  },
  {
   "id": "eboot:2b6cd0",
@@ -6957,7 +6957,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Takarakata"
  },
  {
   "id": "eboot:2b6cdc",
@@ -6965,7 +6965,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Takarakata"
  },
  {
   "id": "eboot:2b6ce8",
@@ -6973,7 +6973,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Shu"
  },
  {
   "id": "eboot:2b6cf0",
@@ -6981,7 +6981,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Bag-Headed Boy"
  },
  {
   "id": "eboot:2b6d04",
@@ -6989,7 +6989,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Muffled Voice"
  },
  {
   "id": "eboot:2b6d14",
@@ -6997,7 +6997,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Onimaru"
  },
  {
   "id": "eboot:2b6d1c",
@@ -7005,7 +7005,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Gio"
  },
  {
   "id": "eboot:2b6d24",
@@ -7013,7 +7013,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Onimaru"
  },
  {
   "id": "eboot:2b6d30",
@@ -7021,7 +7021,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Gio"
  },
  {
   "id": "eboot:2b6d38",
@@ -7029,7 +7029,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Confident Voice"
  },
  {
   "id": "eboot:2b6d48",
@@ -7037,7 +7037,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Red-Haired Man"
  },
  {
   "id": "eboot:2b6d54",
@@ -7045,7 +7045,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Figure in Shadow"
  },
  {
   "id": "eboot:2b6d60",
@@ -7053,7 +7053,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kashima"
  },
  {
   "id": "eboot:2b6d68",
@@ -7061,7 +7061,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Migiri"
  },
  {
   "id": "eboot:2b6d70",
@@ -7069,7 +7069,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kashima"
  },
  {
   "id": "eboot:2b6d78",
@@ -7077,7 +7077,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Migiri"
  },
  {
   "id": "eboot:2b6d80",
@@ -7085,7 +7085,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Icy Voice"
  },
  {
   "id": "eboot:2b6d8c",
@@ -7093,7 +7093,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Cold-Eyed Boy"
  },
  {
   "id": "eboot:2b6da0",
@@ -7101,7 +7101,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Neat Handwriting"
  },
  {
   "id": "eboot:2b6db0",
@@ -7109,7 +7109,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Angie D."
  },
  {
   "id": "eboot:2b6dc0",
@@ -7117,7 +7117,7 @@
   "slot": 36,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Angela Dorothy Orphen"
  },
  {
   "id": "eboot:2b6de4",
@@ -7125,7 +7125,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Angie"
  },
  {
   "id": "eboot:2b6df0",
@@ -7133,7 +7133,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Bubbly Voice"
  },
  {
   "id": "eboot:2b6e00",
@@ -7141,7 +7141,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Blonde Schoolgirl"
  },
  {
   "id": "eboot:2b6e10",
@@ -7149,7 +7149,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Angie's Voice"
  },
  {
   "id": "eboot:2b6e20",
@@ -7157,7 +7157,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Bubbly Voice"
  },
  {
   "id": "eboot:2b6e30",
@@ -7165,7 +7165,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Cheerful Voice"
  },
  {
   "id": "eboot:2b6e3c",
@@ -7173,7 +7173,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kotokuji"
  },
  {
   "id": "eboot:2b6e48",
@@ -7181,7 +7181,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kotokuji"
  },
  {
   "id": "eboot:2b6e54",
@@ -7189,7 +7189,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kaname"
  },
  {
   "id": "eboot:2b6e5c",
@@ -7197,7 +7197,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Aloof Schoolgirl"
  },
  {
   "id": "eboot:2b6e6c",
@@ -7205,7 +7205,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Haughty Voice"
  },
  {
   "id": "eboot:2b6e7c",
@@ -7213,7 +7213,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Aloof Schoolgirl"
  },
  {
   "id": "eboot:2b6e90",
@@ -7221,7 +7221,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Gamo"
  },
  {
   "id": "eboot:2b6e98",
@@ -7229,7 +7229,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Dokai"
  },
  {
   "id": "eboot:2b6ea0",
@@ -7237,7 +7237,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Gamo"
  },
  {
   "id": "eboot:2b6ea8",
@@ -7245,7 +7245,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Dokai"
  },
  {
   "id": "eboot:2b6eb4",
@@ -7253,7 +7253,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Schoolgirl?"
  },
  {
   "id": "eboot:2b6ec0",
@@ -7261,7 +7261,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Sweet Voice"
  },
  {
   "id": "eboot:2b6ecc",
@@ -7269,7 +7269,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Eerie Voice"
  },
  {
   "id": "eboot:2b6ed8",
@@ -7277,7 +7277,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Sweet Voice?"
  },
  {
   "id": "eboot:2b6ee4",
@@ -7285,7 +7285,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kamon"
  },
  {
   "id": "eboot:2b6eec",
@@ -7293,7 +7293,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hideo"
  },
  {
   "id": "eboot:2b6ef4",
@@ -7301,7 +7301,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kamon"
  },
  {
   "id": "eboot:2b6efc",
@@ -7309,7 +7309,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hideo"
  },
  {
   "id": "eboot:2b6f04",
@@ -7317,7 +7317,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Masked Man"
  },
  {
   "id": "eboot:2b6f10",
@@ -7325,7 +7325,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Brawny Schoolboy"
  },
  {
   "id": "eboot:2b6f20",
@@ -7333,7 +7333,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hearty Voice"
  },
  {
   "id": "eboot:2b6f2c",
@@ -7341,7 +7341,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hearty Voice"
  },
  {
   "id": "eboot:2b6f3c",
@@ -7349,7 +7349,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Konosu"
  },
  {
   "id": "eboot:2b6f44",
@@ -7357,7 +7357,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ayahito"
  },
  {
   "id": "eboot:2b6f4c",
@@ -7365,7 +7365,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Konosu"
  },
  {
   "id": "eboot:2b6f58",
@@ -7373,7 +7373,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ayahito"
  },
  {
   "id": "eboot:2b6f64",
@@ -7381,7 +7381,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Elegant Man"
  },
  {
   "id": "eboot:2b6f70",
@@ -7389,7 +7389,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Silken Voice"
  },
  {
   "id": "eboot:2b6f7c",
@@ -7397,7 +7397,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Himukai"
  },
  {
   "id": "eboot:2b6f84",
@@ -7405,7 +7405,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Rin"
  },
  {
   "id": "eboot:2b6f88",
@@ -7413,7 +7413,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Himukai"
  },
  {
   "id": "eboot:2b6f94",
@@ -7421,7 +7421,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Rin"
  },
  {
   "id": "eboot:2b6f9c",
@@ -7429,7 +7429,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Young Voice"
  },
  {
   "id": "eboot:2b6fa4",
@@ -7437,7 +7437,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Small Figure"
  },
  {
   "id": "eboot:2b6fb0",
@@ -7445,7 +7445,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Small Silhouette"
  },
  {
   "id": "eboot:2b6fbc",
@@ -7453,7 +7453,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Rin's Voice"
  },
  {
   "id": "eboot:2b6fc4",
@@ -7461,7 +7461,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Sawakami"
  },
  {
   "id": "eboot:2b6fcc",
@@ -7469,7 +7469,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Benio"
  },
  {
   "id": "eboot:2b6fd4",
@@ -7477,7 +7477,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Sawakami"
  },
  {
   "id": "eboot:2b6fe0",
@@ -7485,7 +7485,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Benio"
  },
  {
   "id": "eboot:2b6fe8",
@@ -7493,7 +7493,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Girl in Uniform"
  },
  {
   "id": "eboot:2b6ff8",
@@ -7501,7 +7501,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Mystery Girl"
  },
  {
   "id": "eboot:2b7004",
@@ -7509,7 +7509,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Emotionless Voice"
  },
  {
   "id": "eboot:2b7010",
@@ -7517,7 +7517,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Black-Haired Girl"
  },
  {
   "id": "eboot:2b701c",
@@ -7525,7 +7525,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mao"
  },
  {
   "id": "eboot:2b7020",
@@ -7533,7 +7533,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mao"
  },
  {
   "id": "eboot:2b7028",
@@ -7541,7 +7541,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Imperious Voice"
  },
  {
   "id": "eboot:2b7034",
@@ -7549,7 +7549,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "White Crow"
  },
  {
   "id": "eboot:2b703c",
@@ -7557,7 +7557,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mao's Voice"
  },
  {
   "id": "eboot:2b7044",
@@ -7565,7 +7565,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Voice from the Card"
  },
  {
   "id": "eboot:2b7058",
@@ -7573,7 +7573,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ken"
  },
  {
   "id": "eboot:2b705c",
@@ -7581,7 +7581,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ken"
  },
  {
   "id": "eboot:2b7064",
@@ -7589,7 +7589,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Breezy Voice"
  },
  {
   "id": "eboot:2b7074",
@@ -7597,7 +7597,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mystery Man"
  },
  {
   "id": "eboot:2b707c",
@@ -7605,7 +7605,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ken's Voice"
  },
  {
   "id": "eboot:2b7084",
@@ -7613,7 +7613,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Man in Kimono"
  },
  {
   "id": "eboot:2b7090",
@@ -7621,7 +7621,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Suzu"
  },
  {
   "id": "eboot:2b7094",
@@ -7629,7 +7629,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Suzu"
  },
  {
   "id": "eboot:2b709c",
@@ -7637,7 +7637,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Voice Like a Bell"
  },
  {
   "id": "eboot:2b70b0",
@@ -7645,7 +7645,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Suzu's Voice"
  },
  {
   "id": "eboot:2b70b8",
@@ -7653,7 +7653,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Girl in Kimono"
  },
  {
   "id": "eboot:2b70c4",
@@ -7661,7 +7661,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Hatori"
  },
  {
   "id": "eboot:2b70cc",
@@ -7669,7 +7669,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Asako"
  },
  {
   "id": "eboot:2b70d4",
@@ -7677,7 +7677,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": ""
+  "en": "Hatori"
  },
  {
   "id": "eboot:2b70dc",
@@ -7685,7 +7685,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Asako"
  },
  {
   "id": "eboot:2b70e4",
@@ -7693,7 +7693,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Flustered Teacher"
  },
  {
   "id": "eboot:2b70f8",
@@ -7701,7 +7701,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Young Woman's Voice"
  },
  {
   "id": "eboot:2b7108",
@@ -7709,7 +7709,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Asako's Voice"
  },
  {
   "id": "eboot:2b7114",
@@ -7717,7 +7717,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Seishiro"
  },
  {
   "id": "eboot:2b711c",
@@ -7725,7 +7725,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Seishiro"
  },
  {
   "id": "eboot:2b7128",
@@ -7733,7 +7733,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Rough Man's Voice"
  },
  {
   "id": "eboot:2b7138",
@@ -7741,7 +7741,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Man with a Cigarette"
  },
  {
   "id": "eboot:2b7148",
@@ -7749,7 +7749,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Gloomy Voice"
  },
  {
   "id": "eboot:2b7154",
@@ -7757,7 +7757,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Sonorous Voice"
  },
  {
   "id": "eboot:2b7164",
@@ -7765,7 +7765,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Seishiro's Voice"
  },
  {
   "id": "eboot:2b7170",
@@ -7773,7 +7773,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Isachi"
  },
  {
   "id": "eboot:2b7178",
@@ -7781,7 +7781,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Daisuke"
  },
  {
   "id": "eboot:2b7180",
@@ -7789,7 +7789,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Isachi"
  },
  {
   "id": "eboot:2b7188",
@@ -7797,7 +7797,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Daisuke"
  },
  {
   "id": "eboot:2b7194",
@@ -7805,7 +7805,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Deep Voice"
  },
  {
   "id": "eboot:2b71a0",
@@ -7813,7 +7813,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Scar-Faced Man"
  },
  {
   "id": "eboot:2b71b0",
@@ -7821,7 +7821,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Chikushi"
  },
  {
   "id": "eboot:2b71b8",
@@ -7829,7 +7829,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Nobuyuki"
  },
  {
   "id": "eboot:2b71c0",
@@ -7837,7 +7837,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Chikushi"
  },
  {
   "id": "eboot:2b71c8",
@@ -7845,7 +7845,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Nobuyuki"
  },
  {
   "id": "eboot:2b71d4",
@@ -7853,7 +7853,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Black-Haired Man"
  },
  {
   "id": "eboot:2b71e0",
@@ -7861,7 +7861,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Man in a Suit"
  },
  {
   "id": "eboot:2b71ec",
@@ -7869,7 +7869,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Resolute Voice"
  },
  {
   "id": "eboot:2b71fc",
@@ -7877,7 +7877,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Lean Man"
  },
  {
   "id": "eboot:2b7208",
@@ -7885,7 +7885,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Blank-Faced Man"
  },
  {
   "id": "eboot:2b7214",
@@ -7893,7 +7893,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Man in Black Coat"
  },
  {
   "id": "eboot:2b7224",
@@ -7901,7 +7901,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Makimura"
  },
  {
   "id": "eboot:2b722c",
@@ -7909,7 +7909,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hisae"
  },
  {
   "id": "eboot:2b7234",
@@ -7917,7 +7917,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Makimura"
  },
  {
   "id": "eboot:2b7240",
@@ -7925,7 +7925,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hisae"
  },
  {
   "id": "eboot:2b7248",
@@ -7933,7 +7933,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Languid Teacher"
  },
  {
   "id": "eboot:2b7258",
@@ -7941,7 +7941,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Languid Voice"
  },
  {
   "id": "eboot:2b7264",
@@ -7949,7 +7949,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hisae's Voice"
  },
  {
   "id": "eboot:2b7270",
@@ -7957,7 +7957,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Togashi"
  },
  {
   "id": "eboot:2b7278",
@@ -7965,7 +7965,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hanako"
  },
  {
   "id": "eboot:2b7280",
@@ -7973,7 +7973,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Togashi"
  },
  {
   "id": "eboot:2b7288",
@@ -7981,7 +7981,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hanako"
  },
  {
   "id": "eboot:2b7290",
@@ -7989,7 +7989,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Sharp-Eyed Woman"
  },
  {
   "id": "eboot:2b72a4",
@@ -7997,7 +7997,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Dignified Voice"
  },
  {
   "id": "eboot:2b72b0",
@@ -8005,7 +8005,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Dignified Voice"
  },
  {
   "id": "eboot:2b72bc",
@@ -8013,7 +8013,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Shibukawa"
  },
  {
   "id": "eboot:2b72c4",
@@ -8021,7 +8021,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Gengo"
  },
  {
   "id": "eboot:2b72cc",
@@ -8029,7 +8029,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Shibukawa"
  },
  {
   "id": "eboot:2b72d8",
@@ -8037,7 +8037,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Gengo"
  },
  {
   "id": "eboot:2b72e0",
@@ -8045,7 +8045,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "One-Eyed Old Man"
  },
  {
   "id": "eboot:2b72ec",
@@ -8053,7 +8053,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Low Voice"
  },
  {
   "id": "eboot:2b72f4",
@@ -8061,7 +8061,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kalpataru"
  },
  {
   "id": "eboot:2b7300",
@@ -8069,7 +8069,7 @@
   "slot": 28,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kalpataru T. Shankar"
  },
  {
   "id": "eboot:2b731c",
@@ -8077,7 +8077,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Glib Voice"
  },
  {
   "id": "eboot:2b732c",
@@ -8085,7 +8085,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mysterious Indian?"
  },
  {
   "id": "eboot:2b7340",
@@ -8093,7 +8093,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Banri"
  },
  {
   "id": "eboot:2b7348",
@@ -8101,7 +8101,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Takadono"
  },
  {
   "id": "eboot:2b7354",
@@ -8109,7 +8109,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Banri"
  },
  {
   "id": "eboot:2b735c",
@@ -8117,7 +8117,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Man in White Uniform"
  },
  {
   "id": "eboot:2b736c",
@@ -8125,7 +8125,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Grave Voice"
  },
  {
   "id": "eboot:2b7378",
@@ -8133,7 +8133,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Metallic Voice"
  },
  {
   "id": "eboot:2b7388",
@@ -8141,7 +8141,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Metallic Voice"
  },
  {
   "id": "eboot:2b7394",
@@ -8149,7 +8149,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "School Store"
  },
  {
   "id": "eboot:2b739c",
@@ -8157,7 +8157,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Toy Shop"
  },
  {
   "id": "eboot:2b73c8",
@@ -8165,7 +8165,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "North American Hacker's Voice"
  },
  {
   "id": "eboot:2b73dc",
@@ -8173,7 +8173,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mechanical Voice"
  },
  {
   "id": "eboot:2b73e8",
@@ -8181,7 +8181,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Black Shadow"
  },
  {
   "id": "eboot:2b73f0",
@@ -8189,7 +8189,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Young Detective"
  },
  {
   "id": "eboot:2b73fc",
@@ -8197,7 +8197,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Shop Lady"
  },
  {
   "id": "eboot:2b7410",
@@ -8205,7 +8205,7 @@
   "slot": 24,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Shikigami Bound to the Boy"
  },
  {
   "id": "eboot:2b7428",
@@ -8213,7 +8213,7 @@
   "slot": 24,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Customer Who Just Came In"
  },
  {
   "id": "eboot:2b7440",
@@ -8221,7 +8221,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Schoolboy A"
  },
  {
   "id": "eboot:2b744c",
@@ -8229,7 +8229,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Schoolboy B"
  },
  {
   "id": "eboot:2b7458",
@@ -8237,7 +8237,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Schoolboy C"
  },
  {
   "id": "eboot:2b7464",
@@ -8245,7 +8245,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Toy Shop Owner"
  },
  {
   "id": "eboot:2b7474",
@@ -8253,7 +8253,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Schoolboy D"
  },
  {
   "id": "eboot:2b7480",
@@ -8261,7 +8261,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Passerby's Voice"
  },
  {
   "id": "eboot:2b748c",
@@ -8269,7 +8269,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Tennis Club Member A"
  },
  {
   "id": "eboot:2b749c",
@@ -8277,7 +8277,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Tennis Club Member B"
  },
  {
   "id": "eboot:2b74ac",
@@ -8285,7 +8285,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Thief Gang Member"
  },
  {
   "id": "eboot:2b74b8",
@@ -8293,7 +8293,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Little Girl's Voice"
  },
  {
   "id": "eboot:2b74c8",
@@ -8301,7 +8301,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Voices of Men in Black"
  },
  {
   "id": "eboot:2b74d8",
@@ -8309,7 +8309,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Faint Sobbing"
  },
  {
   "id": "eboot:2b74e8",
@@ -8317,7 +8317,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Schoolgirl A"
  },
  {
   "id": "eboot:2b74f4",
@@ -8325,7 +8325,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Schoolgirl B"
  },
  {
   "id": "eboot:2b7500",
@@ -8333,7 +8333,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Schoolgirl C"
  },
  {
   "id": "eboot:2b750c",
@@ -8341,7 +8341,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Pained Man's Voice"
  },
  {
   "id": "eboot:2b7520",
@@ -8349,7 +8349,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Everyone"
  },
  {
   "id": "eboot:2b7528",
@@ -8357,7 +8357,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Newscaster's Voice"
  },
  {
   "id": "eboot:2b7538",
@@ -8365,7 +8365,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Vulgar Voice"
  },
  {
   "id": "eboot:2b7544",
@@ -8373,7 +8373,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Shady-Looking Men"
  },
  {
   "id": "eboot:2b7558",
@@ -8381,7 +8381,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Gym Teacher"
  },
  {
   "id": "eboot:2b7564",
@@ -8389,7 +8389,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Voice Like a Temple Bell"
  },
  {
   "id": "eboot:2b7574",
@@ -8397,7 +8397,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Stern Voice"
  },
  {
   "id": "eboot:2b7580",
@@ -8405,7 +8405,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Stern Voice"
  },
  {
   "id": "eboot:2b7590",
@@ -8413,7 +8413,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Schoolboy"
  },
  {
   "id": "eboot:2b759c",
@@ -8421,7 +8421,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Ugly Dog"
  },
  {
   "id": "eboot:2b75a8",
@@ -8429,7 +8429,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kanae"
  },
  {
   "id": "eboot:2b75b0",
@@ -8437,7 +8437,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Aromatic Voice"
  },
  {
   "id": "eboot:2b75bc",
@@ -8445,7 +8445,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Man in Black Suit A"
  },
  {
   "id": "eboot:2b75d0",
@@ -8453,7 +8453,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Man in Black Suit B"
  },
  {
   "id": "eboot:2b75e4",
@@ -8461,7 +8461,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Schoolgirl A"
  },
  {
   "id": "eboot:2b75f0",
@@ -8469,7 +8469,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Schoolgirl B"
  },
  {
   "id": "eboot:2b75fc",
@@ -8477,7 +8477,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Schoolgirl's Voice"
  },
  {
   "id": "eboot:2b760c",
@@ -8485,7 +8485,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Librarian"
  },
  {
   "id": "eboot:2b7618",
@@ -8493,7 +8493,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "JEMA Employee"
  },
  {
   "id": "eboot:2b7628",
@@ -8501,7 +8501,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Cat?"
  },
  {
   "id": "eboot:2b7630",
@@ -8509,7 +8509,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Thief Gang Member A"
  },
  {
   "id": "eboot:2b763c",
@@ -8517,7 +8517,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Thief Gang Member B"
  },
  {
   "id": "eboot:2b7648",
@@ -8525,7 +8525,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Thief Gang Member C"
  },
  {
   "id": "eboot:2b7654",
@@ -8533,7 +8533,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Girl in School Uniform"
  },
  {
   "id": "eboot:2b7664",
@@ -8541,7 +8541,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Men's Voices"
  },
  {
   "id": "eboot:2b7670",
@@ -8549,7 +8549,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Voice from Outside"
  },
  {
   "id": "eboot:2b767c",
@@ -8557,7 +8557,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Police Officer"
  },
  {
   "id": "eboot:2b7684",
@@ -8565,7 +8565,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Older Man's Voice"
  },
  {
   "id": "eboot:2b7694",
@@ -8573,7 +8573,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Math Teacher"
  },
  {
   "id": "eboot:2b76a0",
@@ -8581,7 +8581,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Man in Glasses"
  },
  {
   "id": "eboot:2b76ac",
@@ -8589,7 +8589,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Uniformed Men"
  },
  {
   "id": "eboot:2b76bc",
@@ -8597,7 +8597,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Thuggish Schoolboy"
  },
  {
   "id": "eboot:2b76d0",
@@ -8605,7 +8605,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kosei Schoolboy A"
  },
  {
   "id": "eboot:2b76e4",
@@ -8613,7 +8613,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kosei Schoolboy B"
  },
  {
   "id": "eboot:2b76f8",
@@ -8621,7 +8621,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kosei Schoolboy C"
  },
  {
   "id": "eboot:2b770c",
@@ -8629,7 +8629,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kanae-san"
  },
  {
   "id": "eboot:2b7718",
@@ -8637,7 +8637,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mystery Monk"
  },
  {
   "id": "eboot:2b7724",
@@ -8645,7 +8645,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Shady Bath Attendant"
  },
  {
   "id": "eboot:2b7734",
@@ -8653,7 +8653,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kendo Club Member A"
  },
  {
   "id": "eboot:2b7740",
@@ -8661,7 +8661,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kendo Club Member B"
  },
  {
   "id": "eboot:2b774c",
@@ -8669,7 +8669,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kendo Club Member C"
  },
  {
   "id": "eboot:2b7758",
@@ -8677,7 +8677,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Oni"
  },
  {
   "id": "eboot:2b7760",
@@ -8685,7 +8685,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mystery Object"
  },
  {
   "id": "eboot:2b776c",
@@ -8693,7 +8693,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Tsukifune"
  },
  {
   "id": "eboot:2b7774",
@@ -8701,7 +8701,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Restaurant Proprietress"
  },
  {
   "id": "eboot:2b7784",
@@ -8709,7 +8709,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mutsu Swordsmith"
  },
  {
   "id": "eboot:2b7794",
@@ -8717,7 +8717,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "North American Hacker"
  },
  {
   "id": "eboot:2b77a4",
@@ -8725,7 +8725,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mt. Osore Medium"
  },
  {
   "id": "eboot:2b77b4",
@@ -8733,7 +8733,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Boy of a Possessed Line"
  },
  {
   "id": "eboot:2b77c4",
@@ -8741,7 +8741,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Humble Cat Lover"
  },
  {
   "id": "eboot:2b77d4",
@@ -8749,7 +8749,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Dark-Skinned Royal"
  },
  {
   "id": "eboot:2b77e4",
@@ -8757,7 +8757,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Mysterious Curry Sage"
  },
  {
   "id": "eboot:2b77f4",
@@ -8765,7 +8765,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Native American Chief"
  },
  {
   "id": "eboot:2b7808",
@@ -8773,7 +8773,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Imperial Defense Force"
  },
  {
   "id": "eboot:2b7814",
@@ -8781,7 +8781,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Imperial Defense Officer"
  },
  {
   "id": "eboot:2b7824",
@@ -8789,7 +8789,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Drum in an Oni's Hand"
  },
  {
   "id": "eboot:2b7830",
@@ -8797,7 +8797,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Shichidai"
  },
  {
   "id": "eboot:2b7838",
@@ -8805,7 +8805,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kazuki"
  },
  {
   "id": "eboot:2b7840",
@@ -8813,7 +8813,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Shichidai"
  },
  {
   "id": "eboot:2b784c",
@@ -8821,7 +8821,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Kazuki"
  },
  {
   "id": "eboot:2b7854",
@@ -8829,7 +8829,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "No Command"
  },
  {
   "id": "eboot:2b7864",
@@ -8837,7 +8837,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "None"
  },
  {
   "id": "eboot:2b7868",
@@ -8845,7 +8845,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Love"
  },
  {
   "id": "eboot:2b786c",
@@ -8853,7 +8853,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Upset"
  },
  {
   "id": "eboot:2b7870",
@@ -8861,7 +8861,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Sad"
  },
  {
   "id": "eboot:2b7880",
@@ -8869,7 +8869,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Hate"
  },
  {
   "id": "eboot:2b7884",
@@ -8877,7 +8877,7 @@
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Joy"
  },
  {
   "id": "eboot:2b79a8",
@@ -9501,7 +9501,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Don't Buy Anything"
  },
  {
   "id": "eboot:2b7bb0",
@@ -9509,7 +9509,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Quit"
  },
  {
   "id": "eboot:2b7bb8",
@@ -9517,7 +9517,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Nothing"
  },
  {
   "id": "eboot:2b7bc4",
@@ -9525,7 +9525,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": ""
+  "en": "Do Nothing"
  },
  {
   "id": "eboot:2b7e28",
@@ -9677,7 +9677,7 @@
   "slot": 24,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Don't Keep"
  },
  {
   "id": "eboot:2d23a0",
@@ -9685,7 +9685,7 @@
   "slot": 24,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "On"
  },
  {
   "id": "eboot:2d23b8",
@@ -9693,7 +9693,7 @@
   "slot": 24,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Off"
  },
  {
   "id": "eboot:2d23d0",
@@ -9701,7 +9701,7 @@
   "slot": 24,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Long"
  },
  {
   "id": "eboot:2d23e8",
@@ -9709,7 +9709,7 @@
   "slot": 24,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Normal"
  },
  {
   "id": "eboot:2d2400",
@@ -9717,7 +9717,7 @@
   "slot": 24,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Short"
  },
  {
   "id": "eboot:2d2418",
@@ -9725,7 +9725,7 @@
   "slot": 24,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Fast"
  },
  {
   "id": "eboot:2d2430",
@@ -9733,7 +9733,7 @@
   "slot": 24,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Normal"
  },
  {
   "id": "eboot:2d2448",
@@ -9741,7 +9741,7 @@
   "slot": 24,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Slow"
  },
  {
   "id": "eboot:2d2460",
@@ -9749,7 +9749,7 @@
   "slot": 24,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "None"
  },
  {
   "id": "eboot:2d25b0",
@@ -9757,7 +9757,7 @@
   "slot": 16,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Autumn Hollow"
  },
  {
   "id": "eboot:2d25c0",
@@ -9765,7 +9765,7 @@
   "slot": 16,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Spring Hollow"
  },
  {
   "id": "eboot:2d25d0",
@@ -9773,7 +9773,7 @@
   "slot": 16,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Winter Hollow"
  },
  {
   "id": "eboot:2d25e0",
@@ -9781,7 +9781,7 @@
   "slot": 16,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Summer Hollow"
  },
  {
   "id": "eboot:2d25f0",
@@ -9789,7 +9789,7 @@
   "slot": 16,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Ryujudo"
  },
  {
   "id": "eboot:2d2600",
@@ -9797,7 +9797,7 @@
   "slot": 20,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "???"
  },
  {
   "id": "eboot:2d3a10",
@@ -9805,7 +9805,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pn-kun"
  },
  {
   "id": "eboot:2d3a34",
@@ -9813,7 +9813,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pm-kun"
  },
  {
   "id": "eboot:2d3ae0",
@@ -9821,7 +9821,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pn-kun"
  },
  {
   "id": "eboot:2d3b04",
@@ -9829,7 +9829,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pm-kun"
  },
  {
   "id": "eboot:2d3b24",
@@ -9837,7 +9837,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Big Bro pn"
  },
  {
   "id": "eboot:2d3b48",
@@ -9845,7 +9845,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pn-senpai"
  },
  {
   "id": "eboot:2d3b6c",
@@ -9853,7 +9853,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pm-senpai"
  },
  {
   "id": "eboot:2d3bf4",
@@ -9861,7 +9861,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "King"
  },
  {
   "id": "eboot:2d3c18",
@@ -9869,7 +9869,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pn-senpai"
  },
  {
   "id": "eboot:2d3c3c",
@@ -9877,7 +9877,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pm-senpai"
  },
  {
   "id": "eboot:2d3c5c",
@@ -9885,7 +9885,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Boss"
  },
  {
   "id": "eboot:2d3cc4",
@@ -9893,7 +9893,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pnyh-chan"
  },
  {
   "id": "eboot:2d3d2c",
@@ -9901,7 +9901,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Chief"
  },
  {
   "id": "eboot:2d3db8",
@@ -9909,7 +9909,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pn-han"
  },
  {
   "id": "eboot:2d3ddc",
@@ -9917,7 +9917,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pm-han"
  },
  {
   "id": "eboot:2d3dfc",
@@ -9925,7 +9925,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "My Rose"
  },
  {
   "id": "eboot:2d3e20",
@@ -9933,7 +9933,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pn-kyun"
  },
  {
   "id": "eboot:2d3e44",
@@ -9941,7 +9941,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pm-kyun"
  },
  {
   "id": "eboot:2d3e64",
@@ -9949,7 +9949,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Warrior pn"
  },
  {
   "id": "eboot:2d3ecc",
@@ -9957,7 +9957,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pn-kun"
  },
  {
   "id": "eboot:2d3f34",
@@ -9965,7 +9965,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pn-san"
  },
  {
   "id": "eboot:2d3fc0",
@@ -9973,7 +9973,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pn-san"
  },
  {
   "id": "eboot:2d3fe4",
@@ -9981,7 +9981,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pm-san"
  },
  {
   "id": "eboot:2d406c",
@@ -9989,7 +9989,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pn1-san"
  },
  {
   "id": "eboot:2d40d4",
@@ -9997,7 +9997,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Dear Brother"
  },
  {
   "id": "eboot:2d40f8",
@@ -10005,7 +10005,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pn-sama"
  },
  {
   "id": "eboot:2d411c",
@@ -10013,7 +10013,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pm-sama"
  },
  {
   "id": "eboot:2d4414",
@@ -10021,7 +10021,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "Ol' pnyh"
  },
  {
   "id": "eboot:2d4438",
@@ -10029,7 +10029,7 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pn-dono"
  },
  {
   "id": "eboot:2d445c",
@@ -10037,6 +10037,6 @@
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
-  "en": ""
+  "en": "pm-dono"
  }
 ]

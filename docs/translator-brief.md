@@ -49,7 +49,11 @@ OK. `python -X utf8 tools/batches.py fit "text"` shows how a dialogue box wraps.
 Never edit `glossary.md`. For a recurring name or term not in it, pick a form, use it consistently, and report it.
 
 ## Notes from earlier batches
-- (none yet)
+- Wave 0 (tables) settled the terms in glossary.md: read its "Decisions from earlier batches" (full names, historical
+  name order, hanafuda names, honorifics only after names). 鬼 alone is "demon"; 隠人 is "Oni".
+- Don't force an honorific or a glossary term the check demands when the JP doesn't mean it: report
+  `UNSURE: id - checker false positive` instead (the controller fixes the checker).
+- Toji (rough), Minori (assertive わよ/なさい), the retainer (坊 = "young master", やしょう): keep them distinct.
 
 ## Report (reply with only this)
 Batches done and entry counts; then any lines: `NEW TERM: jp -> en`, `UNSURE: id - note`, `LONG: id - note`.

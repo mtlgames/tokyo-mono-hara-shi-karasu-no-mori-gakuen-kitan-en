@@ -269,9 +269,11 @@ def problems(entry, en, terms):
         out.append('ordinal suffix after a variable (write "No. N")')
     en_terms = " ".join(en.replace(" / ", " ").replace("\n", " ").split()).lower()
     for jps, ens, avoid in terms:
+        present = any(has_term(jp, j.rstrip("\0")) for j in jps)
         if any(has_term(jp, j) for j in jps) and not any(" ".join(e.split()).lower() in en_terms for e in ens):
             out.append(f"glossary: {jps[0]} -> {ens[0]}")
-        out += [f"glossary Avoid: {a}" for a in avoid if re.search(rf"\b{re.escape(a)}\b", en)]
+        # only where the JP term is in the line: "spirit" in dialogue is fine, Spirit for 精神力 is not
+        out += [f"glossary Avoid: {a}" for a in avoid if present and re.search(rf"\b{re.escape(a)}\b", en)]
     # honorifics only after a glossary name or a player-name code: 同様, オレ様, 敵さん, 叩くん are not names
     names = "|".join(sorted({re.escape(j.rstrip("\0")) for jps, _, _ in terms for j in jps}, key=len, reverse=True))
     before = rf"(?:\{{p[xmn]\}}{'|' + names if names else ''})"

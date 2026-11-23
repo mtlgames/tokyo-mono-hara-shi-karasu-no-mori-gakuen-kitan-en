@@ -3,456 +3,456 @@
   "id": "dialogmessage:0000:00",
   "jp": "花札設置ガイド",
   "refs": 3,
-  "en": ""
+  "en": "Card Placement"
  },
  {
   "id": "dialogmessage:0000:04",
   "jp": "別の花札が設置されています",
   "refs": 1,
-  "en": ""
+  "en": "Another card is already placed there."
  },
  {
   "id": "dialogmessage:0001:04",
   "jp": "設置に必要な秘法眼値が足りません",
   "refs": 1,
-  "en": ""
+  "en": "Your Arcane Eye is too low to place this card."
  },
  {
   "id": "dialogmessage:0002:04",
   "jp": "その場所には設置できません",
   "refs": 1,
-  "en": ""
+  "en": "You can't place a card there."
  },
  {
   "id": "dialogmessage:0003:00",
   "jp": "確認",
   "refs": 34,
-  "en": ""
+  "en": "Confirm"
  },
  {
   "id": "dialogmessage:0003:04",
   "jp": "花札を回収します。",
   "refs": 1,
-  "en": ""
+  "en": "Retrieve the card."
  },
  {
   "id": "dialogmessage:0004:00",
   "jp": "花札設置確認",
   "refs": 4,
-  "en": ""
+  "en": "Confirm Cards"
  },
  {
   "id": "dialogmessage:0004:04",
   "jp": "　　　探索画面に戻ります\n※現在の設置内容は反映されません",
   "refs": 1,
-  "en": ""
+  "en": "Return to the exploration screen.\n*Current placements will not be applied."
  },
  {
   "id": "dialogmessage:0005:04",
   "jp": "　 花札の配置内容を\n現在の状態に更新します",
   "refs": 1,
-  "en": ""
+  "en": "Update the card layout to the current state."
  },
  {
   "id": "dialogmessage:0006:04",
   "jp": "この札を回収します。\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Retrieve this card.\nIs that OK?"
  },
  {
   "id": "dialogmessage:0007:04",
   "jp": "この札と置き換えます。\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Replace this card.\nIs that OK?"
  },
  {
   "id": "dialogmessage:0008:00",
   "jp": "進行確認",
   "refs": 1,
-  "en": ""
+  "en": "Progress"
  },
  {
   "id": "dialogmessage:0008:04",
   "jp": "昼休みの自由移動を\n終了しますか？",
   "refs": 1,
-  "en": ""
+  "en": "End free movement for lunch break?"
  },
  {
   "id": "dialogmessage:0009:04",
   "jp": "マップへ戻ります。\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Return to the map.\nIs that OK?"
  },
  {
   "id": "dialogmessage:0010:04",
   "jp": "ダンジョンへ進みます。\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Proceed to the dungeon.\nIs that OK?"
  },
  {
   "id": "dialogmessage:0011:04",
   "jp": "ダンジョンを脱出します。\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Escape from the dungeon.\nIs that OK?"
  },
  {
   "id": "dialogmessage:0012:04",
   "jp": "次の話へ進みます。\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Proceed to the next episode.\nIs that OK?"
  },
  {
   "id": "dialogmessage:0013:04",
   "jp": "学校を出ますか？",
   "refs": 1,
-  "en": ""
+  "en": "Leave school?"
  },
  {
   "id": "dialogmessage:0014:04",
   "jp": "この貴重品を使いますか？",
   "refs": 1,
-  "en": ""
+  "en": "Use this key item?"
  },
  {
   "id": "dialogmessage:0015:04",
   "jp": "情報料を払って情報を見ますか？",
   "refs": 1,
-  "en": ""
+  "en": "Pay the fee to view the info?"
  },
  {
   "id": "dialogmessage:0016:04",
   "jp": "このクエストを受けますか？",
   "refs": 1,
-  "en": ""
+  "en": "Accept this quest?"
  },
  {
   "id": "dialogmessage:0017:04",
   "jp": "この札を使いますか？",
   "refs": 1,
-  "en": ""
+  "en": "Use this card?"
  },
  {
   "id": "dialogmessage:0018:00",
   "jp": "チュートリアル用",
   "refs": 3,
-  "en": ""
+  "en": "Tutorial"
  },
  {
   "id": "dialogmessage:0018:04",
   "jp": "Ｒボタンを押して\n「武器」パレットに切り替え。",
   "refs": 1,
-  "en": ""
+  "en": "Press the R button to switch to the \"Weapon\" palette."
  },
  {
   "id": "dialogmessage:0019:04",
   "jp": "Ｒボタンを押して\n「特殊」パレットに切り替え。",
   "refs": 1,
-  "en": ""
+  "en": "Press the R button to switch to the \"Special\" palette."
  },
  {
   "id": "dialogmessage:0020:04",
   "jp": "○ボタンを押して\n花札配置を始める。",
   "refs": 1,
-  "en": ""
+  "en": "Press the Circle button to start placing cards."
  },
  {
   "id": "dialogmessage:0021:04",
   "jp": "次の目的地へ向かいますか？",
   "refs": 1,
-  "en": ""
+  "en": "Head to the next destination?"
  },
  {
   "id": "dialogmessage:0022:00",
   "jp": "エラー",
   "refs": 19,
-  "en": ""
+  "en": "Error"
  },
  {
   "id": "dialogmessage:0022:04",
   "jp": "依頼はこれ以上受けることができません",
   "refs": 1,
-  "en": ""
+  "en": "You can't accept any more requests."
  },
  {
   "id": "dialogmessage:0023:04",
   "jp": "依頼を一つも受けていません",
   "refs": 1,
-  "en": ""
+  "en": "You haven't accepted any requests."
  },
  {
   "id": "dialogmessage:0024:04",
   "jp": "所持金が足りません",
   "refs": 1,
-  "en": ""
+  "en": "You don't have enough money."
  },
  {
   "id": "dialogmessage:0025:04",
   "jp": "目的のアイテムを持っていません",
   "refs": 1,
-  "en": ""
+  "en": "You don't have the required item."
  },
  {
   "id": "dialogmessage:0026:04",
   "jp": "プロフィール帳が一杯です。\nプロフィールを削除して下さい。",
   "refs": 1,
-  "en": ""
+  "en": "The profile book is full.\nPlease delete a profile."
  },
  {
   "id": "dialogmessage:0027:04",
   "jp": "プロフィールを登録せずに終了しますか？",
   "refs": 1,
-  "en": ""
+  "en": "Quit without registering the profile?"
  },
  {
   "id": "dialogmessage:0028:04",
   "jp": "依頼人が誰もいませんでした",
   "refs": 1,
-  "en": ""
+  "en": "There were no clients."
  },
  {
   "id": "dialogmessage:0029:04",
   "jp": "受けられる依頼がありませんでした\n同じ場所のクエストは同時に受注できません。",
   "refs": 1,
-  "en": ""
+  "en": "No requests available.\nQuests at the same location can't be taken at once."
  },
  {
   "id": "dialogmessage:0030:04",
   "jp": "ダウンロードしたデータがありませんでした",
   "refs": 1,
-  "en": ""
+  "en": "No downloaded data was found."
  },
  {
   "id": "dialogmessage:0031:04",
   "jp": "依頼がありませんでした",
   "refs": 1,
-  "en": ""
+  "en": "There were no requests."
  },
  {
   "id": "dialogmessage:0032:04",
   "jp": "中断すると、依頼人の信頼度が下がります。\nこの依頼を断りますか？",
   "refs": 1,
-  "en": ""
+  "en": "Quitting will lower the client's trust.\nDecline this request?"
  },
  {
   "id": "dialogmessage:0033:04",
   "jp": "中断すると、再び通信するまで\nこのプレイヤーの依頼を受けられません。\nこの依頼を断りますか？",
   "refs": 1,
-  "en": ""
+  "en": "If you quit, you can't take this player's requests\nuntil you connect again.\nDecline this request?"
  },
  {
   "id": "dialogmessage:0034:04",
   "jp": "この依頼を断りますか？",
   "refs": 1,
-  "en": ""
+  "en": "Decline this request?"
  },
  {
   "id": "dialogmessage:0035:04",
   "jp": "依頼を断りました",
   "refs": 1,
-  "en": ""
+  "en": "Request declined."
  },
  {
   "id": "dialogmessage:0036:04",
   "jp": "依頼が完了しました",
   "refs": 1,
-  "en": ""
+  "en": "Request completed."
  },
  {
   "id": "dialogmessage:0037:04",
   "jp": "プレイヤーの依頼が完了しました",
   "refs": 1,
-  "en": ""
+  "en": "The player's request is complete."
  },
  {
   "id": "dialogmessage:0038:04",
   "jp": "ネットワークに接続します。\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Connect to the network.\nIs that OK?"
  },
  {
   "id": "dialogmessage:0039:04",
   "jp": "通信を開始します。\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Start communication.\nIs that OK?"
  },
  {
   "id": "dialogmessage:0040:04",
   "jp": "通信を終了します。\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "End communication.\nIs that OK?"
  },
  {
   "id": "dialogmessage:0041:04",
   "jp": "ダンジョンから出ますか？",
   "refs": 1,
-  "en": ""
+  "en": "Leave the dungeon?"
  },
  {
   "id": "dialogmessage:0042:04",
   "jp": "クエスト用のセーブデータを保存するには\nメモリースティック⑫に1376KB以上の空き容量が必要です。\nファイルを削除して容量を空けますか？",
   "refs": 1,
-  "en": ""
+  "en": "Saving quest data needs 1376KB free on the Memory\nStick. Delete files to free up space?"
  },
  {
   "id": "dialogmessage:0043:04",
   "jp": "クエストデータが破損しています",
   "refs": 1,
-  "en": ""
+  "en": "The quest data is corrupted."
  },
  {
   "id": "dialogmessage:0044:04",
   "jp": "既にダウンロードクエストを受けているため\nこれ以上受けることができません",
   "refs": 1,
-  "en": ""
+  "en": "You've already accepted a download quest and can't\naccept any more."
  },
  {
   "id": "dialogmessage:0045:04",
   "jp": "これ以上依頼を受けることができません",
   "refs": 1,
-  "en": ""
+  "en": "You can't accept any more requests."
  },
  {
   "id": "dialogmessage:0046:04",
   "jp": "依頼を受けるのを失敗しました",
   "refs": 1,
-  "en": ""
+  "en": "Failed to accept the request."
  },
  {
   "id": "dialogmessage:0047:04",
   "jp": "もう一度セーブを行いますか？",
   "refs": 1,
-  "en": ""
+  "en": "Try saving again?"
  },
  {
   "id": "dialogmessage:0048:04",
   "jp": "読み込みに失敗しました",
   "refs": 1,
-  "en": ""
+  "en": "Loading failed."
  },
  {
   "id": "dialogmessage:0049:04",
   "jp": "もう一度ロードしますか？",
   "refs": 1,
-  "en": ""
+  "en": "Try loading again?"
  },
  {
   "id": "dialogmessage:0050:04",
   "jp": "ファイルの保存に失敗しました",
   "refs": 1,
-  "en": ""
+  "en": "Failed to save the file."
  },
  {
   "id": "dialogmessage:0051:04",
   "jp": "これ以上ダウンロードできません。\nダウンロードファイルを整理しますか？",
   "refs": 1,
-  "en": ""
+  "en": "No more downloads possible.\nOrganize your downloaded files?"
  },
  {
   "id": "dialogmessage:0052:00",
   "jp": "探索エラー",
   "refs": 1,
-  "en": ""
+  "en": "Search Error"
  },
  {
   "id": "dialogmessage:0052:04",
   "jp": "なにもありませんでした",
   "refs": 1,
-  "en": ""
+  "en": "There was nothing there."
  },
  {
   "id": "dialogmessage:0053:04",
   "jp": "確定してよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Confirm this choice?"
  },
  {
   "id": "dialogmessage:0054:04",
   "jp": "中止してよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Cancel this?"
  },
  {
   "id": "dialogmessage:0055:00",
   "jp": "宅配便",
   "refs": 1,
-  "en": ""
+  "en": "Delivery"
  },
  {
   "id": "dialogmessage:0055:04",
   "jp": "荷物が届いています。",
   "refs": 1,
-  "en": ""
+  "en": "A package has arrived."
  },
  {
   "id": "dialogmessage:0056:00",
   "jp": "プロフィール削除",
   "refs": 2,
-  "en": ""
+  "en": "Delete Profile"
  },
  {
   "id": "dialogmessage:0056:04",
   "jp": "プロフィールを削除します。\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Delete this profile.\nIs that OK?"
  },
  {
   "id": "dialogmessage:0057:04",
   "jp": "クリアしたデータをセーブしますか？",
   "refs": 1,
-  "en": ""
+  "en": "Save your cleared data?"
  },
  {
   "id": "dialogmessage:0058:04",
   "jp": "クリアしたデータはセーブされていません。\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Your cleared data has not been saved.\nIs that OK?"
  },
  {
   "id": "dialogmessage:0059:04",
   "jp": "つづきからプレイしますか？",
   "refs": 1,
-  "en": ""
+  "en": "Continue playing from your save?"
  },
  {
   "id": "dialogmessage:0060:04",
   "jp": "STARTボタンを押して携帯電話を開いて下さい",
   "refs": 1,
-  "en": ""
+  "en": "Press the START button to open your cell phone."
  },
  {
   "id": "dialogmessage:0061:04",
   "jp": "ネットワークへの接続に失敗しました",
   "refs": 1,
-  "en": ""
+  "en": "Failed to connect to the network."
  },
  {
   "id": "dialogmessage:0062:04",
   "jp": "メモリースティック⑫が抜かれました\n処理を中断します",
   "refs": 1,
-  "en": ""
+  "en": "The Memory Stick was removed.\nAborting the operation."
  },
  {
   "id": "dialogmessage:0063:04",
   "jp": "スリープモードに切りかわったため処理を中断します",
   "refs": 1,
-  "en": ""
+  "en": "Aborted because the system entered sleep mode."
  },
  {
   "id": "dialogmessage:0064:04",
   "jp": "自分のターンを終了します。\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "End your turn.\nIs that OK?"
  },
  {
   "id": "dialogmessage:0065:04",
   "jp": "メールを受信しました。",
   "refs": 2,
-  "en": ""
+  "en": "You've received mail."
  },
  {
   "id": "dialogmessage:0067:04",
   "jp": "プロフィールを削除します。\n受注している依頼も破棄されます。\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Delete this profile.\nAccepted requests will also be discarded.\nIs that OK?"
  }
 ]

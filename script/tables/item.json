@@ -3,4063 +3,4063 @@
   "id": "item:0000:04",
   "jp": "未所持状態",
   "refs": 1,
-  "en": ""
+  "en": "(Not Owned)"
  },
  {
   "id": "item:0000:0c",
   "jp": "・・・",
   "refs": 2,
-  "en": ""
+  "en": "..."
  },
  {
   "id": "item:0001:04",
   "jp": "パチンコ",
   "refs": 1,
-  "en": ""
+  "en": "Slingshot"
  },
  {
   "id": "item:0001:0c",
   "jp": "木でできたパチンコ。",
   "refs": 1,
-  "en": ""
+  "en": "A slingshot made of wood."
  },
  {
   "id": "item:0001:10",
   "jp": "攻撃力43　消費ＡＰ5",
   "refs": 1,
-  "en": ""
+  "en": "Attack 43  AP Cost 5"
  },
  {
   "id": "item:0001:14",
   "jp": "弾数10　再装填消費AP15",
   "refs": 2,
-  "en": ""
+  "en": "Ammo 10  Reload AP 15"
  },
  {
   "id": "item:0002:04",
   "jp": "竹とんぼ",
   "refs": 1,
-  "en": ""
+  "en": "Bamboo Copter"
  },
  {
   "id": "item:0002:0c",
   "jp": "昔ながらの手作りの\n竹とんぼ。",
   "refs": 1,
-  "en": ""
+  "en": "An old-fashioned handmade\nbamboo copter."
  },
  {
   "id": "item:0002:10",
   "jp": "攻撃力125　消費ＡＰ12",
   "refs": 1,
-  "en": ""
+  "en": "Attack 125  AP Cost 12"
  },
  {
   "id": "item:0003:04",
   "jp": "カメラ",
   "refs": 1,
-  "en": ""
+  "en": "Camera"
  },
  {
   "id": "item:0003:0c",
   "jp": "メーカー不明の中古の\nデジタルカメラ。",
   "refs": 1,
-  "en": ""
+  "en": "A used digital camera of\nunknown make."
  },
  {
   "id": "item:0003:10",
   "jp": "攻撃力51　消費ＡＰ5",
   "refs": 1,
-  "en": ""
+  "en": "Attack 51  AP Cost 5"
  },
  {
   "id": "item:0003:14",
   "jp": "弾数3　再装填消費AP5",
   "refs": 4,
-  "en": ""
+  "en": "Ammo 3  Reload AP 5"
  },
  {
   "id": "item:0004:04",
   "jp": "縄跳び",
   "refs": 1,
-  "en": ""
+  "en": "Jump Rope"
  },
  {
   "id": "item:0004:0c",
   "jp": "運動に使われる\nビニル製の縄跳び。",
   "refs": 1,
-  "en": ""
+  "en": "A vinyl jump rope used for\nexercise."
  },
  {
   "id": "item:0004:10",
   "jp": "攻撃力258　消費ＡＰ15",
   "refs": 1,
-  "en": ""
+  "en": "Attack 258  AP Cost 15"
  },
  {
   "id": "item:0005:04",
   "jp": "年季の入った包丁",
   "refs": 1,
-  "en": ""
+  "en": "Well-Worn Knife"
  },
  {
   "id": "item:0005:0c",
   "jp": "清司郎の愛用している\n手入れの行き届いた\n使い古しの包丁。",
   "refs": 1,
-  "en": ""
+  "en": "Seishiro's beloved kitchen\nknife. Old, but well cared\nfor."
  },
  {
   "id": "item:0005:10",
   "jp": "攻撃力643　消費ＡＰ23",
   "refs": 1,
-  "en": ""
+  "en": "Attack 643  AP Cost 23"
  },
  {
   "id": "item:0005:14",
   "jp": "アイテム拾得率＋30％",
   "refs": 1,
-  "en": ""
+  "en": "Item find rate +30%"
  },
  {
   "id": "item:0006:04",
   "jp": "手鏡",
   "refs": 1,
-  "en": ""
+  "en": "Hand Mirror"
  },
  {
   "id": "item:0006:0c",
   "jp": "何か霊的な力を感じる\n古ぼけた手鏡。",
   "refs": 1,
-  "en": ""
+  "en": "A battered old hand mirror.\nIt gives off some spiritual\npower."
  },
  {
   "id": "item:0006:10",
   "jp": "攻撃力151　消費ＡＰ7",
   "refs": 1,
-  "en": ""
+  "en": "Attack 151  AP Cost 7"
  },
  {
   "id": "item:0007:04",
   "jp": "榊の枝",
   "refs": 1,
-  "en": ""
+  "en": "Sakaki Branch"
  },
  {
   "id": "item:0007:0c",
   "jp": "白の髪飾りでもある榊の枝。\n攻撃した敵を４０％の確率で\n封呪状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "A sakaki branch, also Mao's\nhair ornament. Seals enemies\nit hits (40%)."
  },
  {
   "id": "item:0007:10",
   "jp": "攻撃力29　消費ＡＰ5",
   "refs": 1,
-  "en": ""
+  "en": "Attack 29  AP Cost 5"
  },
  {
   "id": "item:0008:04",
   "jp": "木刀",
   "refs": 1,
-  "en": ""
+  "en": "Wooden Sword"
  },
  {
   "id": "item:0008:0c",
   "jp": "白樫で作られた木刀。\n土産物屋でよく売られる。",
   "refs": 1,
-  "en": ""
+  "en": "A white oak wooden sword.\nOften sold at souvenir\nshops."
  },
  {
   "id": "item:0008:10",
   "jp": "攻撃力310　消費ＡＰ18",
   "refs": 1,
-  "en": ""
+  "en": "Attack 310  AP Cost 18"
  },
  {
   "id": "item:0009:04",
   "jp": "エアガン",
   "refs": 1,
-  "en": ""
+  "en": "Air Gun"
  },
  {
   "id": "item:0009:0c",
   "jp": "ＢＢ弾を発射することの\nできる、おもちゃの空気銃。",
   "refs": 1,
-  "en": ""
+  "en": "A toy air gun that fires BB\npellets."
  },
  {
   "id": "item:0009:10",
   "jp": "攻撃力62　消費ＡＰ4",
   "refs": 1,
-  "en": ""
+  "en": "Attack 62  AP Cost 4"
  },
  {
   "id": "item:0009:14",
   "jp": "弾数6　再装填消費AP8",
   "refs": 2,
-  "en": ""
+  "en": "Ammo 6  Reload AP 8"
  },
  {
   "id": "item:0010:04",
   "jp": "特製呼び子",
   "refs": 1,
-  "en": ""
+  "en": "Custom Whistle"
  },
  {
   "id": "item:0010:0c",
   "jp": "鴉乃杜學園生徒会特務部の\n標準装備品。\n攻撃した敵を１５％の確率で\n麻痺状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "Standard gear of the Student\nCouncil Special Duties.\nParalyzes enemies it hits\n(15%)."
  },
  {
   "id": "item:0010:10",
   "jp": "攻撃力64　消費ＡＰ5",
   "refs": 1,
-  "en": ""
+  "en": "Attack 64  AP Cost 5"
  },
  {
   "id": "item:0011:04",
   "jp": "ボードマーカー",
   "refs": 1,
-  "en": ""
+  "en": "Board Marker"
  },
  {
   "id": "item:0011:0c",
   "jp": "黒いインクの入っている\nホワイトボード用の\nマーカー。",
   "refs": 1,
-  "en": ""
+  "en": "A whiteboard marker with\nblack ink."
  },
  {
   "id": "item:0011:10",
   "jp": "攻撃力121　消費ＡＰ10",
   "refs": 1,
-  "en": ""
+  "en": "Attack 121  AP Cost 10"
  },
  {
   "id": "item:0012:04",
   "jp": "ダーツセット",
   "refs": 1,
-  "en": ""
+  "en": "Darts Set"
  },
  {
   "id": "item:0012:0c",
   "jp": "ダーツボードとダーツの\nセット。先端が金属の\nハードダーツと呼ばれる型。",
   "refs": 1,
-  "en": ""
+  "en": "A dartboard and darts. The\nmetal-tipped type known as\nsteel-tip darts."
  },
  {
   "id": "item:0012:10",
   "jp": "攻撃力99　消費ＡＰ5",
   "refs": 1,
-  "en": ""
+  "en": "Attack 99  AP Cost 5"
  },
  {
   "id": "item:0012:14",
   "jp": "弾数5　再装填消費AP8",
   "refs": 3,
-  "en": ""
+  "en": "Ammo 5  Reload AP 8"
  },
  {
   "id": "item:0013:04",
   "jp": "クラブ",
   "refs": 1,
-  "en": ""
+  "en": "Clubs"
  },
  {
   "id": "item:0013:0c",
   "jp": "新体操の種目で使用される\n２本セットのクラブ。",
   "refs": 1,
-  "en": ""
+  "en": "A pair of clubs used in\nrhythmic gymnastics."
  },
  {
   "id": "item:0013:10",
   "jp": "攻撃力86　消費ＡＰ5",
   "refs": 1,
-  "en": ""
+  "en": "Attack 86  AP Cost 5"
  },
  {
   "id": "item:0014:04",
   "jp": "孔雀の扇",
   "refs": 1,
-  "en": ""
+  "en": "Peacock Fan"
  },
  {
   "id": "item:0014:0c",
   "jp": "孔雀の羽でできた\n貴婦人向けの豪華な扇子。\n攻撃した敵を３０％の確率で\n目潰し状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "A lavish lady's fan of\npeacock feathers. Blinds\nenemies it hits (30%)."
  },
  {
   "id": "item:0014:10",
   "jp": "攻撃力238　消費ＡＰ10",
   "refs": 1,
-  "en": ""
+  "en": "Attack 238  AP Cost 10"
  },
  {
   "id": "item:0015:04",
   "jp": "ブーメラン",
   "refs": 1,
-  "en": ""
+  "en": "Boomerang"
  },
  {
   "id": "item:0015:0c",
   "jp": "プラスチック製の\nブーメラン。",
   "refs": 1,
-  "en": ""
+  "en": "A plastic boomerang."
  },
  {
   "id": "item:0015:10",
   "jp": "攻撃力221　消費ＡＰ9",
   "refs": 1,
-  "en": ""
+  "en": "Attack 221  AP Cost 9"
  },
  {
   "id": "item:0016:04",
   "jp": "テニスラケット",
   "refs": 1,
-  "en": ""
+  "en": "Tennis Racket"
  },
  {
   "id": "item:0016:0c",
   "jp": "テニス部などが使用する\nカーボンフレームの\n硬式テニスラケット。",
   "refs": 1,
-  "en": ""
+  "en": "A carbon-frame tennis\nracket, as used by tennis\nclubs."
  },
  {
   "id": "item:0016:10",
   "jp": "攻撃力598　消費ＡＰ23",
   "refs": 1,
-  "en": ""
+  "en": "Attack 598  AP Cost 23"
  },
  {
   "id": "item:0017:04",
   "jp": "ヨーヨー",
   "refs": 1,
-  "en": ""
+  "en": "Yo-yo"
  },
  {
   "id": "item:0017:0c",
   "jp": "昔流行した、ベアリングを\n内蔵しスリープができる\n競技用ヨーヨー。",
   "refs": 1,
-  "en": ""
+  "en": "A once-popular competition\nyo-yo with a ball bearing\nfor sleeping."
  },
  {
   "id": "item:0017:10",
   "jp": "攻撃力124　消費ＡＰ8",
   "refs": 2,
-  "en": ""
+  "en": "Attack 124  AP Cost 8"
  },
  {
   "id": "item:0018:04",
   "jp": "３０センチ定規",
   "refs": 1,
-  "en": ""
+  "en": "30cm Ruler"
  },
  {
   "id": "item:0018:0c",
   "jp": "物の長さを測ったり\n線を引くために使う文具。",
   "refs": 1,
-  "en": ""
+  "en": "Stationery for measuring\nthings and drawing lines."
  },
  {
   "id": "item:0018:10",
   "jp": "攻撃力155　消費ＡＰ10",
   "refs": 1,
-  "en": ""
+  "en": "Attack 155  AP Cost 10"
  },
  {
   "id": "item:0019:04",
   "jp": "弓道弓",
   "refs": 1,
-  "en": ""
+  "en": "Kyudo Bow"
  },
  {
   "id": "item:0019:0c",
   "jp": "和弓と呼ばれる竹製の弓。\n弓道に用いられる。",
   "refs": 1,
-  "en": ""
+  "en": "A bamboo Japanese bow, as\nused in kyudo archery."
  },
  {
   "id": "item:0019:10",
   "jp": "攻撃力141　消費ＡＰ5",
   "refs": 1,
-  "en": ""
+  "en": "Attack 141  AP Cost 5"
  },
  {
   "id": "item:0020:04",
   "jp": "Gグローブ",
   "refs": 1,
-  "en": ""
+  "en": "G Gloves"
  },
  {
   "id": "item:0020:0c",
   "jp": "いちるが昔、伝説の格闘家に\n貰ったという、拳にはめる\nグラップラーグローブ。",
   "refs": 1,
-  "en": ""
+  "en": "Grappler gloves Ichiru says\nshe got from a legendary\nfighter long ago."
  },
  {
   "id": "item:0020:10",
   "jp": "攻撃力239　消費ＡＰ9",
   "refs": 1,
-  "en": ""
+  "en": "Attack 239  AP Cost 9"
  },
  {
   "id": "item:0020:14",
   "jp": "体力＋３　精神－２",
   "refs": 1,
-  "en": ""
+  "en": "Stamina +3  Willpower -2"
  },
  {
   "id": "item:0021:04",
   "jp": "うちわ",
   "refs": 1,
-  "en": ""
+  "en": "Paper Fan"
  },
  {
   "id": "item:0021:0c",
   "jp": "あおいで涼しい風を\n起こす、蒸し暑い日本\n独特の伝統品。",
   "refs": 1,
-  "en": ""
+  "en": "A traditional Japanese fan\nyou wave for a cool breeze\non muggy days."
  },
  {
   "id": "item:0021:10",
   "jp": "攻撃力270　消費ＡＰ11",
   "refs": 1,
-  "en": ""
+  "en": "Attack 270  AP Cost 11"
  },
  {
   "id": "item:0022:04",
   "jp": "ピコピコハンマー",
   "refs": 1,
-  "en": ""
+  "en": "Squeaky Hammer"
  },
  {
   "id": "item:0022:0c",
   "jp": "物をたたくと音がする\nおもちゃのハンマー。\n攻撃した敵を１０％の確率で\n麻痺状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "A toy hammer that squeaks\nwhen it hits. Paralyzes\nenemies it hits (10%)."
  },
  {
   "id": "item:0022:10",
   "jp": "攻撃力21　消費ＡＰ2",
   "refs": 1,
-  "en": ""
+  "en": "Attack 21  AP Cost 2"
  },
  {
   "id": "item:0023:04",
   "jp": "世界地図",
   "refs": 1,
-  "en": ""
+  "en": "World Map"
  },
  {
   "id": "item:0023:0c",
   "jp": "社会科の授業で使われる\n掛け軸式の世界地図。",
   "refs": 1,
-  "en": ""
+  "en": "A hanging-scroll world map\nused in social studies\nclass."
  },
  {
   "id": "item:0023:10",
   "jp": "攻撃力975　消費ＡＰ60",
   "refs": 1,
-  "en": ""
+  "en": "Attack 975  AP Cost 60"
  },
  {
   "id": "item:0024:04",
   "jp": "吹き矢",
   "refs": 1,
-  "en": ""
+  "en": "Blowgun"
  },
  {
   "id": "item:0024:0c",
   "jp": "針を息の圧力で飛ばす\n飛び道具。\n攻撃した敵を３０％の確率で\n麻痺状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "A weapon that shoots needles\nby breath. Paralyzes enemies\nit hits (30%)."
  },
  {
   "id": "item:0024:10",
   "jp": "攻撃力169　消費ＡＰ4",
   "refs": 1,
-  "en": ""
+  "en": "Attack 169  AP Cost 4"
  },
  {
   "id": "item:0024:14",
   "jp": "弾数12　再装填消費AP15",
   "refs": 2,
-  "en": ""
+  "en": "Ammo 12  Reload AP 15"
  },
  {
   "id": "item:0025:04",
   "jp": "宝珠鈴",
   "refs": 1,
-  "en": ""
+  "en": "Jewel Bell"
  },
  {
   "id": "item:0025:0c",
   "jp": "密教法具、金剛鈴のひとつ。\n先端に宝珠が付いている。",
   "refs": 1,
-  "en": ""
+  "en": "An esoteric Buddhist vajra\nbell, topped with a sacred\njewel."
  },
  {
   "id": "item:0025:10",
   "jp": "攻撃力400　消費ＡＰ10",
   "refs": 2,
-  "en": ""
+  "en": "Attack 400  AP Cost 10"
  },
  {
   "id": "item:0026:04",
   "jp": "ジャイアントクマ",
   "refs": 1,
-  "en": ""
+  "en": "Giant Bear"
  },
  {
   "id": "item:0026:0c",
   "jp": "持ち運ぶのも大変な\n巨大なクマのぬいぐるみ。\n攻撃した敵を１マス\nノックバックさせる。",
   "refs": 1,
-  "en": ""
+  "en": "A huge teddy bear that is a\npain to carry. Knocks\nenemies it hits back 1\nsquare."
  },
  {
   "id": "item:0026:10",
   "jp": "攻撃力433　消費ＡＰ34",
   "refs": 1,
-  "en": ""
+  "en": "Attack 433  AP Cost 34"
  },
  {
   "id": "item:0027:04",
   "jp": "最強のカレー鍋",
   "refs": 1,
-  "en": ""
+  "en": "Mighty Curry Pot"
  },
  {
   "id": "item:0027:0c",
   "jp": "幾多の戦場を駆けた鍋。\n傷ついた人々へカレーを\n振る舞いながら、時には\n盾や武器として使われた。",
   "refs": 1,
-  "en": ""
+  "en": "A pot of many battlefields.\nServed curry to the wounded;\nat times a shield or weapon."
  },
  {
   "id": "item:0027:10",
   "jp": "攻撃力539　消費ＡＰ40",
   "refs": 1,
-  "en": ""
+  "en": "Attack 539  AP Cost 40"
  },
  {
   "id": "item:0028:04",
   "jp": "射的ライフル",
   "refs": 1,
-  "en": ""
+  "en": "Cork Rifle"
  },
  {
   "id": "item:0028:0c",
   "jp": "縁日の射的で使われる\nコルク栓式の空気銃。",
   "refs": 1,
-  "en": ""
+  "en": "A cork-firing air gun from\nfestival shooting galleries."
  },
  {
   "id": "item:0028:10",
   "jp": "攻撃力218　消費ＡＰ6",
   "refs": 1,
-  "en": ""
+  "en": "Attack 218  AP Cost 6"
  },
  {
   "id": "item:0028:14",
   "jp": "弾数5　再装填消費AP9",
   "refs": 1,
-  "en": ""
+  "en": "Ammo 5  Reload AP 9"
  },
  {
   "id": "item:0029:04",
   "jp": "竹刀",
   "refs": 1,
-  "en": ""
+  "en": "Shinai"
  },
  {
   "id": "item:0029:0c",
   "jp": "剣道などで使われる\n練習用の竹刀。",
   "refs": 1,
-  "en": ""
+  "en": "A bamboo practice sword used\nin kendo and the like."
  },
  {
   "id": "item:0029:10",
   "jp": "攻撃力91　消費ＡＰ12",
   "refs": 1,
-  "en": ""
+  "en": "Attack 91  AP Cost 12"
  },
  {
   "id": "item:0030:04",
   "jp": "ダンベル",
   "refs": 1,
-  "en": ""
+  "en": "Dumbbell"
  },
  {
   "id": "item:0030:0c",
   "jp": "筋肉を鍛える際に使われる\nトレーニング器具のひとつ。",
   "refs": 1,
-  "en": ""
+  "en": "A piece of training\nequipment for building\nmuscle."
  },
  {
   "id": "item:0030:10",
   "jp": "攻撃力349　消費ＡＰ15",
   "refs": 1,
-  "en": ""
+  "en": "Attack 349  AP Cost 15"
  },
  {
   "id": "item:0031:04",
   "jp": "形見の指輪",
   "refs": 1,
-  "en": ""
+  "en": "Keepsake Ring"
  },
  {
   "id": "item:0031:0c",
   "jp": "朝子がいつも身に付けていた\n母親の形見の指輪。\n封呪と加護の力が込められて\nいたが封呪の力は失っている。",
   "refs": 1,
-  "en": ""
+  "en": "Asako's ever-worn keepsake\nof her mother. Once held\nsealing and warding power;\nthe sealing is gone."
  },
  {
   "id": "item:0031:10",
   "jp": "敵攻撃ダメージ１０％軽減",
   "refs": 1,
-  "en": ""
+  "en": "Enemy damage -10%"
  },
  {
   "id": "item:0031:14",
   "jp": "携行中、効果をおよぼす。",
   "refs": 1,
-  "en": ""
+  "en": "Works while carried."
  },
  {
   "id": "item:0032:04",
   "jp": "ビニル傘",
   "refs": 1,
-  "en": ""
+  "en": "Vinyl Umbrella"
  },
  {
   "id": "item:0032:0c",
   "jp": "６０センチサイズの\nよく売られているビニル傘。",
   "refs": 1,
-  "en": ""
+  "en": "A common 60cm vinyl\numbrella."
  },
  {
   "id": "item:0032:10",
   "jp": "攻撃力180　消費ＡＰ10",
   "refs": 1,
-  "en": ""
+  "en": "Attack 180  AP Cost 10"
  },
  {
   "id": "item:0033:04",
   "jp": "トンカチ",
   "refs": 1,
-  "en": ""
+  "en": "Hammer"
  },
  {
   "id": "item:0033:0c",
   "jp": "様々なものを叩くために\n使われる工具。",
   "refs": 1,
-  "en": ""
+  "en": "A tool for hitting all sorts\nof things."
  },
  {
   "id": "item:0033:10",
   "jp": "攻撃力74　消費ＡＰ5",
   "refs": 1,
-  "en": ""
+  "en": "Attack 74  AP Cost 5"
  },
  {
   "id": "item:0034:04",
   "jp": "ベーゴマ",
   "refs": 1,
-  "en": ""
+  "en": "Beigoma"
  },
  {
   "id": "item:0034:0c",
   "jp": "昭和時代に子供達の間で\n遊ばれていた鋳鉄製の\nコマの一種。",
   "refs": 1,
-  "en": ""
+  "en": "A cast-iron spinning top\nthat kids played with in the\nShowa era."
  },
  {
   "id": "item:0034:10",
   "jp": "攻撃力47　消費ＡＰ4",
   "refs": 1,
-  "en": ""
+  "en": "Attack 47  AP Cost 4"
  },
  {
   "id": "item:0035:04",
   "jp": "望遠鏡",
   "refs": 1,
-  "en": ""
+  "en": "Telescope"
  },
  {
   "id": "item:0035:0c",
   "jp": "天体観測をするための\nアマチュア向け望遠鏡。",
   "refs": 1,
-  "en": ""
+  "en": "An amateur telescope for\nstargazing."
  },
  {
   "id": "item:0035:10",
   "jp": "攻撃力1287　消費ＡＰ65",
   "refs": 1,
-  "en": ""
+  "en": "Attack 1287  AP Cost 65"
  },
  {
   "id": "item:0036:04",
   "jp": "ギター",
   "refs": 1,
-  "en": ""
+  "en": "Guitar"
  },
  {
   "id": "item:0036:0c",
   "jp": "初心者向けの\nアコースティックギター。\n攻撃した敵を１０％の確率で\n封呪状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "An acoustic guitar for\nbeginners. Seals enemies it\nhits (10%)."
  },
  {
   "id": "item:0036:10",
   "jp": "攻撃力320　消費ＡＰ30",
   "refs": 1,
-  "en": ""
+  "en": "Attack 320  AP Cost 30"
  },
  {
   "id": "item:0037:04",
   "jp": "ＳＭ本",
   "refs": 1,
-  "en": ""
+  "en": "SM Book"
  },
  {
   "id": "item:0037:0c",
   "jp": "絢人から貰った\n凄く目に良い本。\n略してＳＭ本。",
   "refs": 1,
-  "en": ""
+  "en": "A book from Ayahito that's\nSuper Marvelous for your\neyes. SM Book for short."
  },
  {
   "id": "item:0037:10",
   "jp": "攻撃力194　消費ＡＰ7",
   "refs": 1,
-  "en": ""
+  "en": "Attack 194  AP Cost 7"
  },
  {
   "id": "item:0037:14",
   "jp": "判断力－7　目潰し予防",
   "refs": 1,
-  "en": ""
+  "en": "Judgment -7  Blind-proof"
  },
  {
   "id": "item:0038:04",
   "jp": "指揮棒",
   "refs": 1,
-  "en": ""
+  "en": "Baton"
  },
  {
   "id": "item:0038:0c",
   "jp": "吹奏楽の演奏で\n指揮に使われる棒。",
   "refs": 1,
-  "en": ""
+  "en": "A stick used to conduct a\nbrass band."
  },
  {
   "id": "item:0038:10",
   "jp": "攻撃力104　消費ＡＰ8",
   "refs": 1,
-  "en": ""
+  "en": "Attack 104  AP Cost 8"
  },
  {
   "id": "item:0039:04",
   "jp": "デッキブラシ",
   "refs": 1,
-  "en": ""
+  "en": "Deck Brush"
  },
  {
   "id": "item:0039:0c",
   "jp": "プールの清掃用具。",
   "refs": 1,
-  "en": ""
+  "en": "For cleaning the pool."
  },
  {
   "id": "item:0039:10",
   "jp": "攻撃力95　消費ＡＰ10",
   "refs": 1,
-  "en": ""
+  "en": "Attack 95  AP Cost 10"
  },
  {
   "id": "item:0040:04",
   "jp": "特注カードケース",
   "refs": 1,
-  "en": ""
+  "en": "Custom Card Case"
  },
  {
   "id": "item:0040:0c",
   "jp": "蒐が愛用している\nカードケース。",
   "refs": 1,
-  "en": ""
+  "en": "Shu's beloved card case."
  },
  {
   "id": "item:0040:10",
   "jp": "攻撃力68　消費ＡＰ4",
   "refs": 1,
-  "en": ""
+  "en": "Attack 68  AP Cost 4"
  },
  {
   "id": "item:0041:04",
   "jp": "バドミントン柱",
   "refs": 1,
-  "en": ""
+  "en": "Badminton Pole"
  },
  {
   "id": "item:0041:0c",
   "jp": "体育館倉庫にしまわれている\nバドミントン用のポール。",
   "refs": 1,
-  "en": ""
+  "en": "A badminton net pole kept in\nthe gym storeroom."
  },
  {
   "id": "item:0041:10",
   "jp": "攻撃力470　消費ＡＰ30",
   "refs": 1,
-  "en": ""
+  "en": "Attack 470  AP Cost 30"
  },
  {
   "id": "item:0042:04",
   "jp": "バット",
   "refs": 1,
-  "en": ""
+  "en": "Bat"
  },
  {
   "id": "item:0042:0c",
   "jp": "野球で球を打つための道具。\nユニフォームと一緒に\n装備するとよりよい戦果を\nあげることができる。",
   "refs": 1,
-  "en": ""
+  "en": "For hitting balls in\nbaseball. Fights better when\nequipped with a uniform."
  },
  {
   "id": "item:0042:10",
   "jp": "攻撃力356　消費ＡＰ38",
   "refs": 1,
-  "en": ""
+  "en": "Attack 356  AP Cost 38"
  },
  {
   "id": "item:0043:04",
   "jp": "モップ",
   "refs": 1,
-  "en": ""
+  "en": "Mop"
  },
  {
   "id": "item:0043:0c",
   "jp": "床を拭くための掃除用具。",
   "refs": 1,
-  "en": ""
+  "en": "For wiping floors."
  },
  {
   "id": "item:0043:10",
   "jp": "攻撃力88　消費ＡＰ8",
   "refs": 2,
-  "en": ""
+  "en": "Attack 88  AP Cost 8"
  },
  {
   "id": "item:0044:04",
   "jp": "シャープペンシル",
   "refs": 1,
-  "en": ""
+  "en": "Sharp Pencil"
  },
  {
   "id": "item:0044:0c",
   "jp": "何の変哲もない\n銀色のシャープペンシル。",
   "refs": 1,
-  "en": ""
+  "en": "A perfectly ordinary silver\nmechanical pencil."
  },
  {
   "id": "item:0044:10",
   "jp": "攻撃力110　消費ＡＰ10",
   "refs": 1,
-  "en": ""
+  "en": "Attack 110  AP Cost 10"
  },
  {
   "id": "item:0045:04",
   "jp": "リコーダー",
   "refs": 1,
-  "en": ""
+  "en": "Recorder"
  },
  {
   "id": "item:0045:0c",
   "jp": "音楽で使うリコーダー。",
   "refs": 1,
-  "en": ""
+  "en": "A recorder for music class."
  },
  {
   "id": "item:0046:04",
   "jp": "物干しざお",
   "refs": 1,
-  "en": ""
+  "en": "Laundry Pole"
  },
  {
   "id": "item:0046:0c",
   "jp": "洗濯物を干すための竿。",
   "refs": 1,
-  "en": ""
+  "en": "A pole for hanging laundry."
  },
  {
   "id": "item:0046:10",
   "jp": "攻撃力855　消費ＡＰ30",
   "refs": 1,
-  "en": ""
+  "en": "Attack 855  AP Cost 30"
  },
  {
   "id": "item:0047:04",
   "jp": "シンバルモンキー",
   "refs": 1,
-  "en": ""
+  "en": "Cymbal Monkey"
  },
  {
   "id": "item:0047:0c",
   "jp": "頭を押すと\nシンバルを叩いて\n鳴き声をあげる\nサルのぬいぐるみ。",
   "refs": 1,
-  "en": ""
+  "en": "A toy monkey that bangs\ncymbals and screeches when\nyou press its head."
  },
  {
   "id": "item:0047:10",
   "jp": "攻撃力204　消費ＡＰ10",
   "refs": 1,
-  "en": ""
+  "en": "Attack 204  AP Cost 10"
  },
  {
   "id": "item:0048:04",
   "jp": "水鉄砲",
   "refs": 1,
-  "en": ""
+  "en": "Water Pistol"
  },
  {
   "id": "item:0048:0c",
   "jp": "水を発射できる\nウォーターガン。",
   "refs": 1,
-  "en": ""
+  "en": "A gun that shoots water."
  },
  {
   "id": "item:0048:10",
   "jp": "攻撃力127　消費ＡＰ5",
   "refs": 1,
-  "en": ""
+  "en": "Attack 127  AP Cost 5"
  },
  {
   "id": "item:0049:04",
   "jp": "弩",
   "refs": 1,
-  "en": ""
+  "en": "Crossbow"
  },
  {
   "id": "item:0049:0c",
   "jp": "弦を機械式で引き絞り\n矢を遠くまで飛ばせる武器。\n遠くまで正確に飛ばせるが、\n連射性能に乏しい。",
   "refs": 1,
-  "en": ""
+  "en": "Its string is drawn\nmechanically. Shoots far and\ntrue, but fires slowly."
  },
  {
   "id": "item:0049:10",
   "jp": "攻撃力450　消費ＡＰ30",
   "refs": 1,
-  "en": ""
+  "en": "Attack 450  AP Cost 30"
  },
  {
   "id": "item:0049:14",
   "jp": "弾数3　再装填消費AP27",
   "refs": 1,
-  "en": ""
+  "en": "Ammo 3  Reload AP 27"
  },
  {
   "id": "item:0050:04",
   "jp": "鎖鎌",
   "refs": 1,
-  "en": ""
+  "en": "Kusarigama"
  },
  {
   "id": "item:0050:0c",
   "jp": "鎌と分銅を鎖で繋いだ\n扱いの難しい隠し武器。",
   "refs": 1,
-  "en": ""
+  "en": "A sickle and weight joined\nby a chain. A hard-to-use\nhidden weapon."
  },
  {
   "id": "item:0050:10",
   "jp": "攻撃力720　消費ＡＰ25",
   "refs": 1,
-  "en": ""
+  "en": "Attack 720  AP Cost 25"
  },
  {
   "id": "item:0051:04",
   "jp": "菊輪灯",
   "refs": 1,
-  "en": ""
+  "en": "Kikurin Lamp"
  },
  {
   "id": "item:0051:0c",
   "jp": "浄土真宗で使われる仏具。\n攻撃した敵を２５％の確率で\n麻痺状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "A ritual lamp of Jodo\nShinshu Buddhism. Paralyzes\nenemies it hits (25%)."
  },
  {
   "id": "item:0051:10",
   "jp": "攻撃力333　消費ＡＰ25",
   "refs": 1,
-  "en": ""
+  "en": "Attack 333  AP Cost 25"
  },
  {
   "id": "item:0051:14",
   "jp": "体力－8",
   "refs": 1,
-  "en": ""
+  "en": "Stamina -8"
  },
  {
   "id": "item:0052:04",
   "jp": "流星錘",
   "refs": 1,
-  "en": ""
+  "en": "Meteor Hammer"
  },
  {
   "id": "item:0052:0c",
   "jp": "縄の先端に金属製の錘が\n付いていて、振り回した\n勢いで投擲する武器。",
   "refs": 1,
-  "en": ""
+  "en": "A metal weight on a rope,\nswung around and then\nhurled."
  },
  {
   "id": "item:0052:10",
   "jp": "攻撃力223　消費ＡＰ8",
   "refs": 1,
-  "en": ""
+  "en": "Attack 223  AP Cost 8"
  },
  {
   "id": "item:0052:14",
   "jp": "体力＋1",
   "refs": 2,
-  "en": ""
+  "en": "Stamina +1"
  },
  {
   "id": "item:0053:04",
   "jp": "小烏丸",
   "refs": 1,
-  "en": ""
+  "en": "Kogarasumaru"
  },
  {
   "id": "item:0053:0c",
   "jp": "桓武天皇の前に現れた\n八咫烏が残していった\n両刃造りの日本刀。",
   "refs": 1,
-  "en": ""
+  "en": "A double-edged sword left by\nYatagarasu, who appeared to\nEmperor Kanmu."
  },
  {
   "id": "item:0053:10",
   "jp": "攻撃力475　消費ＡＰ15",
   "refs": 1,
-  "en": ""
+  "en": "Attack 475  AP Cost 15"
  },
  {
   "id": "item:0053:14",
   "jp": "瞬発力＋4",
   "refs": 1,
-  "en": ""
+  "en": "Reflexes +4"
  },
  {
   "id": "item:0054:04",
   "jp": "浄玻璃鏡",
   "refs": 1,
-  "en": ""
+  "en": "Johari Mirror"
  },
  {
   "id": "item:0054:0c",
   "jp": "閻魔が亡者の善悪の\n見極めに使用する\n水晶製の鏡。",
   "refs": 1,
-  "en": ""
+  "en": "Enma's crystal mirror for\njudging the good and evil of\nthe dead."
  },
  {
   "id": "item:0054:10",
   "jp": "攻撃力144　消費ＡＰ5",
   "refs": 1,
-  "en": ""
+  "en": "Attack 144  AP Cost 5"
  },
  {
   "id": "item:0055:04",
   "jp": "戦斧",
   "refs": 1,
-  "en": ""
+  "en": "Battle Axe"
  },
  {
   "id": "item:0055:0c",
   "jp": "戦闘に用いられる\n広刃の手斧。\n攻撃した敵を１マス\nノックバックさせる。",
   "refs": 1,
-  "en": ""
+  "en": "A broad-bladed hand axe for\nbattle. Knocks enemies it\nhits back 1 square."
  },
  {
   "id": "item:0055:10",
   "jp": "攻撃力421　消費ＡＰ10",
   "refs": 1,
-  "en": ""
+  "en": "Attack 421  AP Cost 10"
  },
  {
   "id": "item:0056:04",
   "jp": "大般若長光",
   "refs": 1,
-  "en": ""
+  "en": "Daihannya"
  },
  {
   "id": "item:0056:0c",
   "jp": "足利義輝が所有していた\n非常に価値の高い名刀。",
   "refs": 1,
-  "en": ""
+  "en": "Daihannya Nagamitsu, a\npriceless famed sword once\nowned by Ashikaga Yoshiteru."
  },
  {
   "id": "item:0056:10",
   "jp": "攻撃力562　消費ＡＰ23",
   "refs": 1,
-  "en": ""
+  "en": "Attack 562  AP Cost 23"
  },
  {
   "id": "item:0056:14",
   "jp": "瞬発力＋3",
   "refs": 1,
-  "en": ""
+  "en": "Reflexes +3"
  },
  {
   "id": "item:0057:04",
   "jp": "種子島銃",
   "refs": 1,
-  "en": ""
+  "en": "Tanegashima Gun"
  },
  {
   "id": "item:0057:0c",
   "jp": "種子島に伝来した\n日本最初の鉄砲。\n火縄を挟んで使うため\nマッチロック式銃とも呼ぶ。",
   "refs": 1,
-  "en": ""
+  "en": "Japan's first firearm, from\nTanegashima. Held a lit\ncord: a matchlock."
  },
  {
   "id": "item:0057:10",
   "jp": "攻撃力135　消費ＡＰ5",
   "refs": 1,
-  "en": ""
+  "en": "Attack 135  AP Cost 5"
  },
  {
   "id": "item:0057:14",
   "jp": "弾数9　再装填消費AP14",
   "refs": 1,
-  "en": ""
+  "en": "Ammo 9  Reload AP 14"
  },
  {
   "id": "item:0058:04",
   "jp": "青葉の笛",
   "refs": 1,
-  "en": ""
+  "en": "Aoba Flute"
  },
  {
   "id": "item:0058:0c",
   "jp": "熊谷次郎直実に討たれた\n平敦盛が持っていた笛。\n攻撃した敵を２５％の確率で\n睡眠状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "Taira no Atsumori's flute;\nhe fell to Kumagai Naozane.\nSleeps enemies hit (25%)."
  },
  {
   "id": "item:0058:10",
   "jp": "攻撃力96　消費ＡＰ10",
   "refs": 1,
-  "en": ""
+  "en": "Attack 96  AP Cost 10"
  },
  {
   "id": "item:0059:04",
   "jp": "蜻蛉切",
   "refs": 1,
-  "en": ""
+  "en": "Tonbokiri"
  },
  {
   "id": "item:0059:0c",
   "jp": "天下三槍のひとつ。\n本多忠勝が使用していた槍。\n敵を攻撃すると自分が２０％\nの確率で麻痺状態になる。",
   "refs": 1,
-  "en": ""
+  "en": "One of the Three Great\nSpears; Honda Tadakatsu's.\nParalyzes you on attack\n(20%)."
  },
  {
   "id": "item:0059:10",
   "jp": "攻撃力668　消費ＡＰ30",
   "refs": 1,
-  "en": ""
+  "en": "Attack 668  AP Cost 30"
  },
  {
   "id": "item:0060:04",
   "jp": "雷上動",
   "refs": 1,
-  "en": ""
+  "en": "Raijodo"
  },
  {
   "id": "item:0060:0c",
   "jp": "源頼政が妖怪を射落とすのに\n用いた弓。\n攻撃した敵を５０％の確率で\n土呪状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "The bow Minamoto no Yorimasa\nshot a yokai with. Earth\nCurses enemies hit (50%)."
  },
  {
   "id": "item:0060:10",
   "jp": "攻撃力145　消費ＡＰ5",
   "refs": 1,
-  "en": ""
+  "en": "Attack 145  AP Cost 5"
  },
  {
   "id": "item:0061:04",
   "jp": "天叢雲剣",
   "refs": 1,
-  "en": ""
+  "en": "Ame-no-Murakumo"
  },
  {
   "id": "item:0061:0c",
   "jp": "八岐大蛇の尾から現れた\n三種の神器のひとつ。\n攻撃した敵を１０％の確率で\n風呪状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "Imperial Regalia, from the\nYamata no Orochi's tail.\nWind Curses enemies hit\n(10%)."
  },
  {
   "id": "item:0061:10",
   "jp": "攻撃力489　消費ＡＰ25",
   "refs": 1,
-  "en": ""
+  "en": "Attack 489  AP Cost 25"
  },
  {
   "id": "item:0062:04",
   "jp": "芭蕉扇",
   "refs": 1,
-  "en": ""
+  "en": "Banana-Leaf Fan"
  },
  {
   "id": "item:0062:0c",
   "jp": "西遊記に登場する\n芭蕉の葉を模した扇。\n攻撃した敵を３マス\nノックバックさせる。",
   "refs": 1,
-  "en": ""
+  "en": "A fan shaped like a banana\nleaf, from Journey to the\nWest. Knocks enemies back 3\nsquares."
  },
  {
   "id": "item:0062:10",
   "jp": "攻撃力589　消費ＡＰ40",
   "refs": 1,
-  "en": ""
+  "en": "Attack 589  AP Cost 40"
  },
  {
   "id": "item:0063:04",
   "jp": "風魔手裏剣",
   "refs": 1,
-  "en": ""
+  "en": "Fuma Shuriken"
  },
  {
   "id": "item:0063:0c",
   "jp": "風魔忍者が使ったとされる\n車剣型の手裏剣。",
   "refs": 1,
-  "en": ""
+  "en": "A wheel-shaped shuriken said\nto have been used by Fuma\nninja."
  },
  {
   "id": "item:0063:10",
   "jp": "攻撃力230　消費ＡＰ5",
   "refs": 1,
-  "en": ""
+  "en": "Attack 230  AP Cost 5"
  },
  {
   "id": "item:0064:04",
   "jp": "呉鉤",
   "refs": 1,
-  "en": ""
+  "en": "Wu Hook Sword"
  },
  {
   "id": "item:0064:0c",
   "jp": "古代の中国で使われていた\n片刃の曲刀。",
   "refs": 1,
-  "en": ""
+  "en": "A single-edged curved sword\nused in ancient China."
  },
  {
   "id": "item:0064:10",
   "jp": "攻撃力848　消費ＡＰ25",
   "refs": 1,
-  "en": ""
+  "en": "Attack 848  AP Cost 25"
  },
  {
   "id": "item:0064:14",
   "jp": "瞬発力－3",
   "refs": 1,
-  "en": ""
+  "en": "Reflexes -3"
  },
  {
   "id": "item:0065:04",
   "jp": "微塵",
   "refs": 1,
-  "en": ""
+  "en": "Mijin"
  },
  {
   "id": "item:0065:0c",
   "jp": "中央の輪に三本の分銅鎖が\n付いた暗器。\n敵を攻撃すると自分が２０％\nの確率で悪寒状態になる。",
   "refs": 1,
-  "en": ""
+  "en": "A hidden weapon: a ring with\nthree weighted chains.\nChills you on attack (20%)."
  },
  {
   "id": "item:0065:10",
   "jp": "攻撃力829　消費ＡＰ25",
   "refs": 1,
-  "en": ""
+  "en": "Attack 829  AP Cost 25"
  },
  {
   "id": "item:0066:04",
   "jp": "黒漆太刀",
   "refs": 1,
-  "en": ""
+  "en": "Lacquered Tachi"
  },
  {
   "id": "item:0066:0c",
   "jp": "金具に至るまで全て\n黒塗りに施された刀。\n武士や僧兵が使っていた。",
   "refs": 1,
-  "en": ""
+  "en": "A sword lacquered black down\nto its fittings, used by\nsamurai and warrior monks."
  },
  {
   "id": "item:0066:10",
   "jp": "攻撃力638　消費ＡＰ28",
   "refs": 1,
-  "en": ""
+  "en": "Attack 638  AP Cost 28"
  },
  {
   "id": "item:0067:04",
   "jp": "天の鹿児弓",
   "refs": 1,
-  "en": ""
+  "en": "Ame-no-Kagoyumi"
  },
  {
   "id": "item:0067:0c",
   "jp": "日本神話でアメノワカヒコが\n使った弓。天羽々矢という\n矢と対になっている。",
   "refs": 1,
-  "en": ""
+  "en": "The bow of Amenowakahiko in\nJapanese myth, paired with\nthe arrow Ame-no-Habaya."
  },
  {
   "id": "item:0067:10",
   "jp": "攻撃力231　消費ＡＰ5",
   "refs": 1,
-  "en": ""
+  "en": "Attack 231  AP Cost 5"
  },
  {
   "id": "item:0068:04",
   "jp": "霰の籠手",
   "refs": 1,
-  "en": ""
+  "en": "Hail Gauntlet"
  },
  {
   "id": "item:0068:0c",
   "jp": "源実朝が歌に詠んだとされる\n武士の籠手。\n攻撃した敵を１０％の確率で\n氷呪状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "A samurai gauntlet said to\nbe in a poem by Minamoto no\nSanetomo. Ice Curses foes\n(10%)."
  },
  {
   "id": "item:0068:10",
   "jp": "攻撃力171　消費ＡＰ5",
   "refs": 1,
-  "en": ""
+  "en": "Attack 171  AP Cost 5"
  },
  {
   "id": "item:0069:04",
   "jp": "皆紅の扇",
   "refs": 1,
-  "en": ""
+  "en": "Crimson Fan"
  },
  {
   "id": "item:0069:0c",
   "jp": "平家物語で那須与一が\n打ち落としたとされる扇。\n攻撃した敵を２５％の確率で\n目潰し状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "The fan Nasu no Yoichi shot\ndown in the Tale of the\nHeike. Blinds enemies hit\n(25%)."
  },
  {
   "id": "item:0069:10",
   "jp": "攻撃力139　消費ＡＰ8",
   "refs": 1,
-  "en": ""
+  "en": "Attack 139  AP Cost 8"
  },
  {
   "id": "item:0070:04",
   "jp": "玄翁",
   "refs": 1,
-  "en": ""
+  "en": "Genno Hammer"
  },
  {
   "id": "item:0070:0c",
   "jp": "玄翁和尚が殺生石を叩き割る\nのに使われたとされる金槌。\n攻撃した敵を４マス\nノックバックさせる。",
   "refs": 1,
-  "en": ""
+  "en": "The hammer Genno used to\nsmash the Killing Stone.\nKnocks enemies back 4\nsquares."
  },
  {
   "id": "item:0070:10",
   "jp": "攻撃力284　消費ＡＰ10",
   "refs": 2,
-  "en": ""
+  "en": "Attack 284  AP Cost 10"
  },
  {
   "id": "item:0071:04",
   "jp": "日本号",
   "refs": 1,
-  "en": ""
+  "en": "Nihongo"
  },
  {
   "id": "item:0071:0c",
   "jp": "天下三槍のひとつ。\n槍ながら正三位の官位を\n持つ。",
   "refs": 1,
-  "en": ""
+  "en": "One of the Three Great\nSpears. A spear, yet it\nholds Junior Third Court\nRank."
  },
  {
   "id": "item:0071:10",
   "jp": "攻撃力520　消費ＡＰ13",
   "refs": 1,
-  "en": ""
+  "en": "Attack 520  AP Cost 13"
  },
  {
   "id": "item:0072:04",
   "jp": "開国の銃",
   "refs": 1,
-  "en": ""
+  "en": "Restoration Gun"
  },
  {
   "id": "item:0072:0c",
   "jp": "坂本龍馬が所有していたと\nされるＳ＆Ｗモデル１拳銃。\n攻撃した敵を１０％の確率で\n目潰し状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "The S&W Model 1 pistol said\nto be Sakamoto Ryoma's.\nBlinds enemies it hits\n(10%)."
  },
  {
   "id": "item:0072:10",
   "jp": "攻撃力272　消費ＡＰ5",
   "refs": 1,
-  "en": ""
+  "en": "Attack 272  AP Cost 5"
  },
  {
   "id": "item:0072:14",
   "jp": "弾数7　再装填消費AP11",
   "refs": 1,
-  "en": ""
+  "en": "Ammo 7  Reload AP 11"
  },
  {
   "id": "item:0073:04",
   "jp": "弁天梵鐘",
   "refs": 1,
-  "en": ""
+  "en": "Benten Bell"
  },
  {
   "id": "item:0073:0c",
   "jp": "松尾芭蕉が句に詠んだと\nされる梵鐘。攻撃した際に\n敵を５０％、自分を３５％の\n確率で麻痺状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "A temple bell said to be in\na Basho haiku. On attack,\nParalyzes foes (50%) and you\n(35%)."
  },
  {
   "id": "item:0073:10",
   "jp": "攻撃力1158　消費ＡＰ50",
   "refs": 1,
-  "en": ""
+  "en": "Attack 1158  AP Cost 50"
  },
  {
   "id": "item:0074:04",
   "jp": "金剛力士像",
   "refs": 1,
-  "en": ""
+  "en": "Nio Statue"
  },
  {
   "id": "item:0074:0c",
   "jp": "金剛力士をかたどった仏像。",
   "refs": 1,
-  "en": ""
+  "en": "A Buddhist statue of a Nio\nguardian."
  },
  {
   "id": "item:0074:10",
   "jp": "攻撃力713　消費ＡＰ30",
   "refs": 1,
-  "en": ""
+  "en": "Attack 713  AP Cost 30"
  },
  {
   "id": "item:0074:14",
   "jp": "体力－10",
   "refs": 1,
-  "en": ""
+  "en": "Stamina -10"
  },
  {
   "id": "item:0075:04",
   "jp": "鎖玉",
   "refs": 1,
-  "en": ""
+  "en": "Chain Ball"
  },
  {
   "id": "item:0075:0c",
   "jp": "鎖の先に鉄球が付いており\n振り回して殴る打撃武器。",
   "refs": 1,
-  "en": ""
+  "en": "A blunt weapon: an iron ball\non a chain, swung to strike."
  },
  {
   "id": "item:0075:10",
   "jp": "攻撃力584　消費ＡＰ25",
   "refs": 1,
-  "en": ""
+  "en": "Attack 584  AP Cost 25"
  },
  {
   "id": "item:0075:14",
   "jp": "瞬発力－2　体力－7",
   "refs": 1,
-  "en": ""
+  "en": "Reflexes -2  Stamina -7"
  },
  {
   "id": "item:0076:04",
   "jp": "施条銃",
   "refs": 1,
-  "en": ""
+  "en": "Rifled Musket"
  },
  {
   "id": "item:0076:0c",
   "jp": "戊辰戦争で使用された\nライフル銃。",
   "refs": 1,
-  "en": ""
+  "en": "A rifle used in the Boshin\nWar."
  },
  {
   "id": "item:0076:10",
   "jp": "攻撃力385　消費ＡＰ7",
   "refs": 1,
-  "en": ""
+  "en": "Attack 385  AP Cost 7"
  },
  {
   "id": "item:0076:14",
   "jp": "弾数6　再装填消費AP13",
   "refs": 1,
-  "en": ""
+  "en": "Ammo 6  Reload AP 13"
  },
  {
   "id": "item:0077:04",
   "jp": "童子切安綱",
   "refs": 1,
-  "en": ""
+  "en": "Dojigiri"
  },
  {
   "id": "item:0077:0c",
   "jp": "天下五剣のひとつ。\n源頼光が酒呑童子の首を\n切り落とした事で有名。",
   "refs": 1,
-  "en": ""
+  "en": "Dojigiri Yasutsuna, one of\nthe Five Great Swords. Raiko\ncut off Shuten-doji's head\nwith it."
  },
  {
   "id": "item:0077:10",
   "jp": "攻撃力860　消費ＡＰ25",
   "refs": 1,
-  "en": ""
+  "en": "Attack 860  AP Cost 25"
  },
  {
   "id": "item:0078:04",
   "jp": "独鈷杵",
   "refs": 1,
-  "en": ""
+  "en": "Tokkosho"
  },
  {
   "id": "item:0078:0c",
   "jp": "金剛杵という密教法具の\nひとつ。\n攻撃した敵を３０％の確率で\n封呪状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "A type of vajra, an esoteric\nBuddhist ritual tool. Seals\nenemies it hits (30%)."
  },
  {
   "id": "item:0078:10",
   "jp": "攻撃力97　消費ＡＰ3",
   "refs": 1,
-  "en": ""
+  "en": "Attack 97  AP Cost 3"
  },
  {
   "id": "item:0079:04",
   "jp": "宇宙神の輪",
   "refs": 1,
-  "en": ""
+  "en": "Cosmic God Ring"
  },
  {
   "id": "item:0079:0c",
   "jp": "異国の神が持つとされる\n武器のひとつ。\n攻撃した敵を５０％の確率で\n氷呪状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "A weapon said to belong to a\nforeign god. Ice Curses\nenemies it hits (50%)."
  },
  {
   "id": "item:0079:10",
   "jp": "攻撃力359　消費ＡＰ25",
   "refs": 1,
-  "en": ""
+  "en": "Attack 359  AP Cost 25"
  },
  {
   "id": "item:0079:14",
   "jp": "防御力補正－10％",
   "refs": 1,
-  "en": ""
+  "en": "Defense bonus -10%"
  },
  {
   "id": "item:0080:04",
   "jp": "阿島傘",
   "refs": 1,
-  "en": ""
+  "en": "Ajima Umbrella"
  },
  {
   "id": "item:0080:0c",
   "jp": "江戸時代に知久氏が始め、\n作るようになった和傘。\n攻撃した敵を３０％の確率で\n封呪状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "A Japanese umbrella first\nmade by the Chiku clan in\nEdo times. Seals foes hit\n(30%)."
  },
  {
   "id": "item:0080:10",
   "jp": "攻撃力230　消費ＡＰ6",
   "refs": 1,
-  "en": ""
+  "en": "Attack 230  AP Cost 6"
  },
  {
   "id": "item:0080:14",
   "jp": "体力－5",
   "refs": 1,
-  "en": ""
+  "en": "Stamina -5"
  },
  {
   "id": "item:0081:04",
   "jp": "打ち出の小槌",
   "refs": 1,
-  "en": ""
+  "en": "Magic Mallet"
  },
  {
   "id": "item:0081:0c",
   "jp": "一寸法師を大きくしたと\nされる小槌。\n攻撃した敵を３マス\nノックバックさせる。",
   "refs": 1,
-  "en": ""
+  "en": "The mallet said to have made\nIssun-boshi big. Knocks\nenemies back 3 squares."
  },
  {
   "id": "item:0081:10",
   "jp": "攻撃力179　消費ＡＰ5",
   "refs": 1,
-  "en": ""
+  "en": "Attack 179  AP Cost 5"
  },
  {
   "id": "item:0082:04",
   "jp": "日月風火圏",
   "refs": 1,
-  "en": ""
+  "en": "Wind-Fire Rings"
  },
  {
   "id": "item:0082:0c",
   "jp": "投げる、切る、殴るなど\n様々な使い方ができる\n円形の刀。",
   "refs": 1,
-  "en": ""
+  "en": "A ring-shaped blade you can\nthrow, slash or bash with,\nand more."
  },
  {
   "id": "item:0083:04",
   "jp": "石火矢",
   "refs": 1,
-  "en": ""
+  "en": "Ishibiya Cannon"
  },
  {
   "id": "item:0083:0c",
   "jp": "国崩しとも呼ばれる大砲。\n弾と火薬が入った子砲を\n装填して発射する。",
   "refs": 1,
-  "en": ""
+  "en": "A cannon called the\nKuni-kuzushi. Fired by\nloading a chamber of shot\nand powder."
  },
  {
   "id": "item:0083:10",
   "jp": "攻撃力3150　消費ＡＰ60",
   "refs": 1,
-  "en": ""
+  "en": "Attack 3150  AP Cost 60"
  },
  {
   "id": "item:0083:14",
   "jp": "弾数2　再装填消費AP30",
   "refs": 1,
-  "en": ""
+  "en": "Ammo 2  Reload AP 30"
  },
  {
   "id": "item:0084:04",
   "jp": "螺鈿紫檀五絃琵琶",
   "refs": 1,
-  "en": ""
+  "en": "Five-String Biwa"
  },
  {
   "id": "item:0084:0c",
   "jp": "正倉院宝物の琵琶。\n攻撃した敵を１０％の確率で\n睡眠状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "A biwa lute from the Shosoin\ntreasures. Sleeps enemies it\nhits (10%)."
  },
  {
   "id": "item:0084:10",
   "jp": "攻撃力718　消費ＡＰ30",
   "refs": 1,
-  "en": ""
+  "en": "Attack 718  AP Cost 30"
  },
  {
   "id": "item:0085:04",
   "jp": "出陣の采配",
   "refs": 1,
-  "en": ""
+  "en": "Battle Saihai"
  },
  {
   "id": "item:0085:0c",
   "jp": "房のついた軍の指揮具。\n攻撃した敵を５０％の確率で\n炎呪状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "A tasseled baton for\ncommanding troops. Fire\nCurses enemies it hits\n(50%)."
  },
  {
   "id": "item:0085:10",
   "jp": "攻撃力173　消費ＡＰ5",
   "refs": 1,
-  "en": ""
+  "en": "Attack 173  AP Cost 5"
  },
  {
   "id": "item:0086:04",
   "jp": "連接棍",
   "refs": 1,
-  "en": ""
+  "en": "Flail"
  },
  {
   "id": "item:0086:0c",
   "jp": "柄の先に鎖などで\n打撃部を接合した\n打撃武器。",
   "refs": 1,
-  "en": ""
+  "en": "A blunt weapon with a\nstriking head joined to the\nhaft by a chain or such."
  },
  {
   "id": "item:0086:10",
   "jp": "攻撃力308　消費ＡＰ15",
   "refs": 1,
-  "en": ""
+  "en": "Attack 308  AP Cost 15"
  },
  {
   "id": "item:0086:14",
   "jp": "判断力－5　脚力－2",
   "refs": 1,
-  "en": ""
+  "en": "Judgment -5  Speed -2"
  },
  {
   "id": "item:0087:04",
   "jp": "方天戟",
   "refs": 1,
-  "en": ""
+  "en": "Sky Halberd"
  },
  {
   "id": "item:0087:0c",
   "jp": "矛の両側に月牙と呼ばれる\n刃がついた、中国発祥の\n槍の一種。",
   "refs": 1,
-  "en": ""
+  "en": "A Chinese spear with\ncrescent blades on both\nsides of the spearhead."
  },
  {
   "id": "item:0087:10",
   "jp": "攻撃力319　消費ＡＰ15",
   "refs": 1,
-  "en": ""
+  "en": "Attack 319  AP Cost 15"
  },
  {
   "id": "item:0087:14",
   "jp": "精神力－9",
   "refs": 1,
-  "en": ""
+  "en": "Willpower -9"
  },
  {
   "id": "item:0088:04",
   "jp": "軍配団扇",
   "refs": 1,
-  "en": ""
+  "en": "Gunbai Fan"
  },
  {
   "id": "item:0088:0c",
   "jp": "軍兵を指揮するための扇。\n装備中、封札システムによる\n秘法眼値回復率が減少する。",
   "refs": 1,
-  "en": ""
+  "en": "A fan for commanding troops.\nLowers Sealing System Arcane\nEye recovery."
  },
  {
   "id": "item:0088:10",
   "jp": "攻撃力1111　消費ＡＰ50",
   "refs": 1,
-  "en": ""
+  "en": "Attack 1111  AP Cost 50"
  },
  {
   "id": "item:0088:14",
   "jp": "秘法眼値回復率－50％",
   "refs": 1,
-  "en": ""
+  "en": "Arcane Eye recovery -50%"
  },
  {
   "id": "item:0089:04",
   "jp": "伊都之尾羽張",
   "refs": 1,
-  "en": ""
+  "en": "Itsu-no-Ohabari"
  },
  {
   "id": "item:0089:0c",
   "jp": "古事記で伊邪那岐命が、\n火之迦具土神を\n斬首したとされる剣。",
   "refs": 1,
-  "en": ""
+  "en": "The sword Izanagi used to\nbehead Kagutsuchi in the\nKojiki."
  },
  {
   "id": "item:0089:10",
   "jp": "攻撃力599　消費ＡＰ16",
   "refs": 1,
-  "en": ""
+  "en": "Attack 599  AP Cost 16"
  },
  {
   "id": "item:0089:14",
   "jp": "瞬発力－15",
   "refs": 1,
-  "en": ""
+  "en": "Reflexes -15"
  },
  {
   "id": "item:0090:04",
   "jp": "金砕棒",
   "refs": 1,
-  "en": ""
+  "en": "Kanasaibo"
  },
  {
   "id": "item:0090:0c",
   "jp": "鬼に金棒の原形である、\n鉄製の棒に鋲を打った\nとても重い打撃武器。",
   "refs": 1,
-  "en": ""
+  "en": "The origin of the oni's iron\nclub: a studded iron rod. A\nvery heavy blunt weapon."
  },
  {
   "id": "item:0090:10",
   "jp": "攻撃力591　消費ＡＰ50",
   "refs": 1,
-  "en": ""
+  "en": "Attack 591  AP Cost 50"
  },
  {
   "id": "item:0091:04",
   "jp": "薙刀",
   "refs": 1,
-  "en": ""
+  "en": "Naginata"
  },
  {
   "id": "item:0091:0c",
   "jp": "主に女性や仏僧に使われた\n長柄武器の一つ。\n攻撃した敵を１マス\nノックバックさせる。",
   "refs": 1,
-  "en": ""
+  "en": "A polearm used mainly by\nwomen and monks. Knocks\nenemies it hits back 1\nsquare."
  },
  {
   "id": "item:0092:04",
   "jp": "獅子王",
   "refs": 1,
-  "en": ""
+  "en": "Shishio"
  },
  {
   "id": "item:0092:0c",
   "jp": "源頼政が妖怪退治の褒美\nとして天皇より賜った太刀。\n敵を攻撃すると自分が２０％\nの確率で目潰し状態になる。",
   "refs": 1,
-  "en": ""
+  "en": "The Emperor's reward to\nYorimasa for slaying a\nyokai. Blinds you on attack\n(20%)."
  },
  {
   "id": "item:0092:10",
   "jp": "攻撃力1019　消費ＡＰ40",
   "refs": 1,
-  "en": ""
+  "en": "Attack 1019  AP Cost 40"
  },
  {
   "id": "item:0093:04",
   "jp": "片手剣",
   "refs": 1,
-  "en": ""
+  "en": "One-Handed Sword"
  },
  {
   "id": "item:0093:0c",
   "jp": "細い刀身で西洋風の意匠が\n施されている剣。",
   "refs": 1,
-  "en": ""
+  "en": "A slender-bladed sword of\nWestern design."
  },
  {
   "id": "item:0093:10",
   "jp": "攻撃力294　消費ＡＰ15",
   "refs": 1,
-  "en": ""
+  "en": "Attack 294  AP Cost 15"
  },
  {
   "id": "item:0094:04",
   "jp": "長巻",
   "refs": 1,
-  "en": ""
+  "en": "Nagamaki"
  },
  {
   "id": "item:0094:0c",
   "jp": "刀身と同じぐらいの長さの\n柄がついた太刀。",
   "refs": 1,
-  "en": ""
+  "en": "A sword with a hilt about as\nlong as its blade."
  },
  {
   "id": "item:0094:10",
   "jp": "攻撃力311　消費ＡＰ12",
   "refs": 1,
-  "en": ""
+  "en": "Attack 311  AP Cost 12"
  },
  {
   "id": "item:0094:14",
   "jp": "体力＋5",
   "refs": 2,
-  "en": ""
+  "en": "Stamina +5"
  },
  {
   "id": "item:0095:04",
   "jp": "天神筆",
   "refs": 1,
-  "en": ""
+  "en": "Tenjin Brush"
  },
  {
   "id": "item:0095:0c",
   "jp": "書の三聖とされる菅原道真の\n神通力が宿った霊筆。\n手先を意のままに動すことが\nできるようになる。",
   "refs": 1,
-  "en": ""
+  "en": "A brush holding the power of\nMichizane, a master\ncalligrapher. Hands move at\nwill."
  },
  {
   "id": "item:0095:10",
   "jp": "攻撃力341　消費ＡＰ8",
   "refs": 1,
-  "en": ""
+  "en": "Attack 341  AP Cost 8"
  },
  {
   "id": "item:0095:14",
   "jp": "悪寒予防",
   "refs": 2,
-  "en": ""
+  "en": "Chill-proof"
  },
  {
   "id": "item:0096:04",
   "jp": "伊波礼毘古命の弓",
   "refs": 1,
-  "en": ""
+  "en": "Iwarebiko's Bow"
  },
  {
   "id": "item:0096:0c",
   "jp": "伊波礼毘古命が使用した弓。\n攻撃した敵を１０％の確率で\n骨折状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "The bow used by Iwarebiko.\nFractures enemies it hits\n(10%)."
  },
  {
   "id": "item:0096:10",
   "jp": "攻撃力217　消費ＡＰ4",
   "refs": 1,
-  "en": ""
+  "en": "Attack 217  AP Cost 4"
  },
  {
   "id": "item:0097:04",
   "jp": "全身タイツ",
   "refs": 1,
-  "en": ""
+  "en": "Full Bodysuit"
  },
  {
   "id": "item:0097:0c",
   "jp": "頭からつま先まで\n全身を覆う怪しげなタイツ。",
   "refs": 1,
-  "en": ""
+  "en": "A suspicious bodysuit\ncovering you from head to\ntoe."
  },
  {
   "id": "item:0097:10",
   "jp": "防御力20",
   "refs": 3,
-  "en": ""
+  "en": "Defense 20"
  },
  {
   "id": "item:0097:14",
   "jp": "瞬発力＋8",
   "refs": 1,
-  "en": ""
+  "en": "Reflexes +8"
  },
  {
   "id": "item:0098:04",
   "jp": "木彫りの犬",
   "refs": 1,
-  "en": ""
+  "en": "Carved Wood Dog"
  },
  {
   "id": "item:0098:0c",
   "jp": "富士で拾った木片を使って\n零が作った小さな犬の像。",
   "refs": 1,
-  "en": ""
+  "en": "A small dog Rei carved from\nwood he picked up at Mt.\nFuji."
  },
  {
   "id": "item:0098:10",
   "jp": "防御力5",
   "refs": 7,
-  "en": ""
+  "en": "Defense 5"
  },
  {
   "id": "item:0098:14",
   "jp": "精神力＋20",
   "refs": 1,
-  "en": ""
+  "en": "Willpower +20"
  },
  {
   "id": "item:0099:04",
   "jp": "カツラ",
   "refs": 1,
-  "en": ""
+  "en": "Toupee"
  },
  {
   "id": "item:0099:0c",
   "jp": "薄くなった髪を隠すための\n男性用のカツラ。",
   "refs": 1,
-  "en": ""
+  "en": "A man's hairpiece to hide\nthinning hair."
  },
  {
   "id": "item:0099:10",
   "jp": "防御力25",
   "refs": 7,
-  "en": ""
+  "en": "Defense 25"
  },
  {
   "id": "item:0099:14",
   "jp": "精神力－10　国語＋3",
   "refs": 1,
-  "en": ""
+  "en": "Willpower -10  Japanese +3"
  },
  {
   "id": "item:0100:04",
   "jp": "鍋のフタ",
   "refs": 1,
-  "en": ""
+  "en": "Pot Lid"
  },
  {
   "id": "item:0100:0c",
   "jp": "寸胴鍋に使われる\nステンレス製の鍋のフタ。",
   "refs": 1,
-  "en": ""
+  "en": "A stainless steel lid for a\nstock pot."
  },
  {
   "id": "item:0100:10",
   "jp": "防御力50",
   "refs": 4,
-  "en": ""
+  "en": "Defense 50"
  },
  {
   "id": "item:0101:04",
   "jp": "団員バッジ",
   "refs": 1,
-  "en": ""
+  "en": "Member Badge"
  },
  {
   "id": "item:0101:0c",
   "jp": "鬼印盗賊団の\n下っ端が着けるバッジ。",
   "refs": 1,
-  "en": ""
+  "en": "A badge worn by the grunts\nof the Oni Mark Bandits."
  },
  {
   "id": "item:0101:14",
   "jp": "瞬発力＋20　判断力－20",
   "refs": 1,
-  "en": ""
+  "en": "Reflexes +20  Judgment -20"
  },
  {
   "id": "item:0102:04",
   "jp": "ベルト",
   "refs": 1,
-  "en": ""
+  "en": "Belt"
  },
  {
   "id": "item:0102:0c",
   "jp": "ズボンを着用する際に\n一緒に着けるベルト。",
   "refs": 1,
-  "en": ""
+  "en": "A belt worn with trousers."
  },
  {
   "id": "item:0102:14",
   "jp": "体力＋8",
   "refs": 1,
-  "en": ""
+  "en": "Stamina +8"
  },
  {
   "id": "item:0103:04",
   "jp": "野球グローブ",
   "refs": 1,
-  "en": ""
+  "en": "Baseball Glove"
  },
  {
   "id": "item:0103:0c",
   "jp": "野球をする際に手に着ける\n捕球用のグローブ。",
   "refs": 1,
-  "en": ""
+  "en": "A glove worn to catch the\nball in baseball."
  },
  {
   "id": "item:0103:10",
   "jp": "防御力45",
   "refs": 3,
-  "en": ""
+  "en": "Defense 45"
  },
  {
   "id": "item:0104:04",
   "jp": "魔女の人形",
   "refs": 1,
-  "en": ""
+  "en": "Witch Doll"
  },
  {
   "id": "item:0104:0c",
   "jp": "アンジーから貰った\nスペインの御守りである\n魔女の人形。",
   "refs": 1,
-  "en": ""
+  "en": "A witch doll from Angie, a\nSpanish good-luck charm."
  },
  {
   "id": "item:0104:14",
   "jp": "保健＋2　生物＋2",
   "refs": 1,
-  "en": ""
+  "en": "Health +2  Biology +2"
  },
  {
   "id": "item:0105:04",
   "jp": "バレッタ",
   "refs": 1,
-  "en": ""
+  "en": "Barrette"
  },
  {
   "id": "item:0105:0c",
   "jp": "髪の毛を留めるための\n女性用のアクセサリー。",
   "refs": 1,
-  "en": ""
+  "en": "A women's accessory for\nholding hair in place."
  },
  {
   "id": "item:0105:14",
   "jp": "判断力＋20",
   "refs": 1,
-  "en": ""
+  "en": "Judgment +20"
  },
  {
   "id": "item:0106:04",
   "jp": "手編みの腹巻",
   "refs": 1,
-  "en": ""
+  "en": "Knit Belly Band"
  },
  {
   "id": "item:0106:0c",
   "jp": "御霧が盗賊団員のために\n手編みで編んだらしい\nお腹が暖かくなる腹巻。",
   "refs": 1,
-  "en": ""
+  "en": "A belly warmer Migiri\napparently hand-knit for the\nthieves."
  },
  {
   "id": "item:0106:10",
   "jp": "防御力65",
   "refs": 5,
-  "en": ""
+  "en": "Defense 65"
  },
  {
   "id": "item:0106:14",
   "jp": "体力＋4",
   "refs": 1,
-  "en": ""
+  "en": "Stamina +4"
  },
  {
   "id": "item:0107:04",
   "jp": "弓掛け",
   "refs": 1,
-  "en": ""
+  "en": "Archery Glove"
  },
  {
   "id": "item:0107:0c",
   "jp": "弓を引く際につける\n鹿革製の手袋。",
   "refs": 1,
-  "en": ""
+  "en": "A deerskin glove worn to\ndraw a bow."
  },
  {
   "id": "item:0107:14",
   "jp": "判断力＋10　数学＋2",
   "refs": 1,
-  "en": ""
+  "en": "Judgment +10  Math +2"
  },
  {
   "id": "item:0108:04",
   "jp": "気合いバンダナ",
   "refs": 1,
-  "en": ""
+  "en": "Guts Bandana"
  },
  {
   "id": "item:0108:0c",
   "jp": "伊佐地が若い頃に\n使っていたバンダナ。\n装備すると、どこからか\n伊佐地の声が聞こえる。",
   "refs": 1,
-  "en": ""
+  "en": "Isachi wore it when he was\nyoung. Put it on and you\nhear his voice from\nsomewhere."
  },
  {
   "id": "item:0108:14",
   "jp": "脚力＋10　瞬発力＋10",
   "refs": 1,
-  "en": ""
+  "en": "Speed +10  Reflexes +10"
  },
  {
   "id": "item:0109:04",
   "jp": "スニーカー",
   "refs": 1,
-  "en": ""
+  "en": "Sneakers"
  },
  {
   "id": "item:0109:0c",
   "jp": "カジュアルなスニーカー。\nSKECHERSという\nブランドロゴが見える。",
   "refs": 1,
-  "en": ""
+  "en": "Casual sneakers. The\nSKECHERS brand logo is\nvisible."
  },
  {
   "id": "item:0109:10",
   "jp": "防御力40",
   "refs": 4,
-  "en": ""
+  "en": "Defense 40"
  },
  {
   "id": "item:0109:14",
   "jp": "脚力＋7",
   "refs": 1,
-  "en": ""
+  "en": "Speed +7"
  },
  {
   "id": "item:0110:04",
   "jp": "ウイッグ",
   "refs": 1,
-  "en": ""
+  "en": "Wig"
  },
  {
   "id": "item:0110:0c",
   "jp": "ファッション用に作られた\n女性用かつら。",
   "refs": 1,
-  "en": ""
+  "en": "A women's wig made for\nfashion."
  },
  {
   "id": "item:0110:10",
   "jp": "防御力43",
   "refs": 1,
-  "en": ""
+  "en": "Defense 43"
  },
  {
   "id": "item:0110:14",
   "jp": "精神力＋7",
   "refs": 1,
-  "en": ""
+  "en": "Willpower +7"
  },
  {
   "id": "item:0111:04",
   "jp": "サインボール",
   "refs": 1,
-  "en": ""
+  "en": "Signed Ball"
  },
  {
   "id": "item:0111:0c",
   "jp": "燈治が小学生のときに\n自分で書いた\nサイン入り野球ボール。",
   "refs": 1,
-  "en": ""
+  "en": "A baseball Toji signed\nhimself back in grade\nschool."
  },
  {
   "id": "item:0111:14",
   "jp": "体育＋2　精神力＋10",
   "refs": 1,
-  "en": ""
+  "en": "P.E. +2  Willpower +10"
  },
  {
   "id": "item:0112:04",
   "jp": "スカーフ",
   "refs": 1,
-  "en": ""
+  "en": "Scarf"
  },
  {
   "id": "item:0112:0c",
   "jp": "女子制服に付属している\nシンプルなスカーフ。",
   "refs": 1,
-  "en": ""
+  "en": "A simple scarf that comes\nwith the girls' uniform."
  },
  {
   "id": "item:0112:14",
   "jp": "脚力＋10　判断力＋10",
   "refs": 1,
-  "en": ""
+  "en": "Speed +10  Judgment +10"
  },
  {
   "id": "item:0113:04",
   "jp": "カーテン",
   "refs": 1,
-  "en": ""
+  "en": "Curtain"
  },
  {
   "id": "item:0113:0c",
   "jp": "窓際にかけて光をさえぎる\nカーテン。",
   "refs": 1,
-  "en": ""
+  "en": "A curtain hung by a window\nto block the light."
  },
  {
   "id": "item:0113:14",
   "jp": "体力＋3　脚力－1",
   "refs": 1,
-  "en": ""
+  "en": "Stamina +3  Speed -1"
  },
  {
   "id": "item:0114:04",
   "jp": "ケンカカバン",
   "refs": 1,
-  "en": ""
+  "en": "Brawler's Bag"
  },
  {
   "id": "item:0114:0c",
   "jp": "学生カバンを潰して\n薄くして鉄板を仕込んだ、\n不良が使う改造カバン。",
   "refs": 1,
-  "en": ""
+  "en": "A delinquent's modded school\nbag, crushed flat with an\niron plate inside."
  },
  {
   "id": "item:0114:10",
   "jp": "防御力75",
   "refs": 2,
-  "en": ""
+  "en": "Defense 75"
  },
  {
   "id": "item:0115:04",
   "jp": "スポーツタオル",
   "refs": 1,
-  "en": ""
+  "en": "Sports Towel"
  },
  {
   "id": "item:0115:0c",
   "jp": "汗をよく吸収する\n大判の運動用タオル。",
   "refs": 1,
-  "en": ""
+  "en": "A large athletic towel that\nsoaks up sweat well."
  },
  {
   "id": "item:0115:10",
   "jp": "防御力35",
   "refs": 1,
-  "en": ""
+  "en": "Defense 35"
  },
  {
   "id": "item:0115:14",
   "jp": "脚力＋5　体力＋7",
   "refs": 1,
-  "en": ""
+  "en": "Speed+5 Stamina+7"
  },
  {
   "id": "item:0116:04",
   "jp": "ダルマのかぶり物",
   "refs": 1,
-  "en": ""
+  "en": "Daruma Headgear"
  },
  {
   "id": "item:0116:0c",
   "jp": "体育祭の競技で使う\nダルマ形のかぶりもの。",
   "refs": 1,
-  "en": ""
+  "en": "A daruma-shaped headpiece\nused in a sports-day event."
  },
  {
   "id": "item:0116:14",
   "jp": "判断力－7　瞬発力－5",
   "refs": 1,
-  "en": ""
+  "en": "Judgment-7 Reflexes-5"
  },
  {
   "id": "item:0117:04",
   "jp": "ベスト",
   "refs": 1,
-  "en": ""
+  "en": "Vest"
  },
  {
   "id": "item:0117:0c",
   "jp": "シャツの上に着用する\n紳士用の袖のない胴着。",
   "refs": 1,
-  "en": ""
+  "en": "A sleeveless men's garment\nworn over a shirt."
  },
  {
   "id": "item:0117:10",
   "jp": "防御力95",
   "refs": 3,
-  "en": ""
+  "en": "Defense 95"
  },
  {
   "id": "item:0117:14",
   "jp": "瞬発力＋1",
   "refs": 2,
-  "en": ""
+  "en": "Reflexes+1"
  },
  {
   "id": "item:0118:04",
   "jp": "ダッフルコート",
   "refs": 1,
-  "en": ""
+  "en": "Duffel Coat"
  },
  {
   "id": "item:0118:0c",
   "jp": "フード付きの冬用コート。",
   "refs": 1,
-  "en": ""
+  "en": "A hooded winter coat."
  },
  {
   "id": "item:0118:10",
   "jp": "防御力70",
   "refs": 3,
-  "en": ""
+  "en": "Defense 70"
  },
  {
   "id": "item:0118:14",
   "jp": "体力＋3",
   "refs": 1,
-  "en": ""
+  "en": "Stamina+3"
  },
  {
   "id": "item:0119:04",
   "jp": "神楽面",
   "refs": 1,
-  "en": ""
+  "en": "Kagura Mask"
  },
  {
   "id": "item:0119:0c",
   "jp": "神楽を舞う際に\n着用するお面。",
   "refs": 1,
-  "en": ""
+  "en": "A mask worn when performing\nkagura dances."
  },
  {
   "id": "item:0119:14",
   "jp": "脚力＋4",
   "refs": 1,
-  "en": ""
+  "en": "Speed+4"
  },
  {
   "id": "item:0120:04",
   "jp": "レインコート",
   "refs": 1,
-  "en": ""
+  "en": "Raincoat"
  },
  {
   "id": "item:0120:0c",
   "jp": "上着の上から着て\n雨をしのぐ雨具。",
   "refs": 1,
-  "en": ""
+  "en": "Rain gear worn over your\njacket to keep off the rain."
  },
  {
   "id": "item:0120:14",
   "jp": "生物＋3",
   "refs": 1,
-  "en": ""
+  "en": "Biology+3"
  },
  {
   "id": "item:0121:04",
   "jp": "カイロ",
   "refs": 1,
-  "en": ""
+  "en": "Hand Warmer"
  },
  {
   "id": "item:0121:0c",
   "jp": "振ると暖かくなる\n市販のカイロ。",
   "refs": 1,
-  "en": ""
+  "en": "A store-bought hand warmer\nthat heats up when shaken."
  },
  {
   "id": "item:0121:10",
   "jp": "防御力21",
   "refs": 1,
-  "en": ""
+  "en": "Defense 21"
  },
  {
   "id": "item:0121:14",
   "jp": "体力＋2",
   "refs": 2,
-  "en": ""
+  "en": "Stamina+2"
  },
  {
   "id": "item:0122:04",
   "jp": "マフラー",
   "refs": 1,
-  "en": ""
+  "en": "Scarf"
  },
  {
   "id": "item:0122:0c",
   "jp": "首に巻く防寒具。",
   "refs": 1,
-  "en": ""
+  "en": "Cold-weather wear wrapped\naround the neck."
  },
  {
   "id": "item:0122:14",
   "jp": "体力＋7",
   "refs": 1,
-  "en": ""
+  "en": "Stamina+7"
  },
  {
   "id": "item:0123:04",
   "jp": "ネックレス",
   "refs": 1,
-  "en": ""
+  "en": "Necklace"
  },
  {
   "id": "item:0123:0c",
   "jp": "綺麗な石がついた\nネックレス。",
   "refs": 1,
-  "en": ""
+  "en": "A necklace with a pretty\nstone on it."
  },
  {
   "id": "item:0123:10",
   "jp": "防御力15",
   "refs": 4,
-  "en": ""
+  "en": "Defense 15"
  },
  {
   "id": "item:0123:14",
   "jp": "現代社会＋4",
   "refs": 1,
-  "en": ""
+  "en": "Social Studies+4"
  },
  {
   "id": "item:0124:04",
   "jp": "短ラン",
   "refs": 1,
-  "en": ""
+  "en": "Short Gakuran"
  },
  {
   "id": "item:0124:0c",
   "jp": "いわゆる不良が好んで着る\n丈の短い改造学生服。",
   "refs": 1,
-  "en": ""
+  "en": "A cut-short, modified school\njacket, the kind delinquents\nlove."
  },
  {
   "id": "item:0124:10",
   "jp": "防御力90",
   "refs": 6,
-  "en": ""
+  "en": "Defense 90"
  },
  {
   "id": "item:0124:14",
   "jp": "瞬発力＋2",
   "refs": 1,
-  "en": ""
+  "en": "Reflexes+2"
  },
  {
   "id": "item:0125:04",
   "jp": "柔道着",
   "refs": 1,
-  "en": ""
+  "en": "Judo Gi"
  },
  {
   "id": "item:0125:0c",
   "jp": "柔道を行う際に着用する\n道着。",
   "refs": 1,
-  "en": ""
+  "en": "A uniform worn when doing\njudo."
  },
  {
   "id": "item:0125:14",
   "jp": "脚力＋2",
   "refs": 1,
-  "en": ""
+  "en": "Speed+2"
  },
  {
   "id": "item:0126:04",
   "jp": "鴉乃杜男子制服",
   "refs": 1,
-  "en": ""
+  "en": "Boys' Uniform"
  },
  {
   "id": "item:0126:0c",
   "jp": "鴉乃杜學園の男子制服である\n冬服の学ラン。",
   "refs": 1,
-  "en": ""
+  "en": "The Karasu no Mori Academy\nboys' uniform: a winter\ngakuran."
  },
  {
   "id": "item:0126:10",
   "jp": "防御力100",
   "refs": 2,
-  "en": ""
+  "en": "Defense 100"
  },
  {
   "id": "item:0127:04",
   "jp": "狐の前掛け",
   "refs": 1,
-  "en": ""
+  "en": "Fox Statue Bib"
  },
  {
   "id": "item:0127:0c",
   "jp": "鍵が昔使っていた\n狐の像に着ける前掛け。",
   "refs": 1,
-  "en": ""
+  "en": "A bib for a fox statue, once\nused by Ken."
  },
  {
   "id": "item:0127:14",
   "jp": "精神力＋10　体力－10",
   "refs": 1,
-  "en": ""
+  "en": "Willpower+10 Stamina-10"
  },
  {
   "id": "item:0128:04",
   "jp": "手編みのセーター",
   "refs": 1,
-  "en": ""
+  "en": "Knit Sweater"
  },
  {
   "id": "item:0128:0c",
   "jp": "誰かが手編みで作った\n暖かそうなセーター。",
   "refs": 1,
-  "en": ""
+  "en": "A warm-looking sweater\nsomeone knitted by hand."
  },
  {
   "id": "item:0128:14",
   "jp": "体力＋3　精神－3",
   "refs": 1,
-  "en": ""
+  "en": "Stamina+3 Willpower-3"
  },
  {
   "id": "item:0129:04",
   "jp": "野球帽",
   "refs": 1,
-  "en": ""
+  "en": "Baseball Cap"
  },
  {
   "id": "item:0129:0c",
   "jp": "野球部が頭に被る帽子。",
   "refs": 1,
-  "en": ""
+  "en": "A cap worn by the baseball\nteam."
  },
  {
   "id": "item:0129:14",
   "jp": "判断力＋10",
   "refs": 1,
-  "en": ""
+  "en": "Judgment+10"
  },
  {
   "id": "item:0130:04",
   "jp": "ヘルメット",
   "refs": 1,
-  "en": ""
+  "en": "Helmet"
  },
  {
   "id": "item:0130:0c",
   "jp": "自転車で通学する際に使う\n学生向けヘルメット。",
   "refs": 1,
-  "en": ""
+  "en": "A student helmet worn when\nbiking to school."
  },
  {
   "id": "item:0130:10",
   "jp": "防御力80",
   "refs": 2,
-  "en": ""
+  "en": "Defense 80"
  },
  {
   "id": "item:0130:14",
   "jp": "判断力－3",
   "refs": 1,
-  "en": ""
+  "en": "Judgment-3"
  },
  {
   "id": "item:0131:04",
   "jp": "制帽",
   "refs": 1,
-  "en": ""
+  "en": "School Cap"
  },
  {
   "id": "item:0131:0c",
   "jp": "古い型の学生帽。",
   "refs": 1,
-  "en": ""
+  "en": "An old-style student cap."
  },
  {
   "id": "item:0131:10",
   "jp": "防御力10",
   "refs": 1,
-  "en": ""
+  "en": "Defense 10"
  },
  {
   "id": "item:0131:14",
   "jp": "瞬発力＋10　脚力＋5",
   "refs": 1,
-  "en": ""
+  "en": "Reflexes+10 Speed+5"
  },
  {
   "id": "item:0132:04",
   "jp": "捕手マスク",
   "refs": 1,
-  "en": ""
+  "en": "Catcher's Mask"
  },
  {
   "id": "item:0132:0c",
   "jp": "野球で捕手が顔面を\n保護するためのマスク。",
   "refs": 1,
-  "en": ""
+  "en": "A mask that protects a\nbaseball catcher's face."
  },
  {
   "id": "item:0132:14",
   "jp": "判断力＋4",
   "refs": 1,
-  "en": ""
+  "en": "Judgment+4"
  },
  {
   "id": "item:0133:04",
   "jp": "ジャージ",
   "refs": 1,
-  "en": ""
+  "en": "Tracksuit"
  },
  {
   "id": "item:0133:0c",
   "jp": "鴉乃杜學園の体育用に\n使われる男子用ジャージ。",
   "refs": 1,
-  "en": ""
+  "en": "Boys' tracksuit used for\nP.E. at Karasu no Mori\nAcademy."
  },
  {
   "id": "item:0133:14",
   "jp": "体育＋1",
   "refs": 2,
-  "en": ""
+  "en": "P.E.+1"
  },
  {
   "id": "item:0134:04",
   "jp": "セーラー服",
   "refs": 1,
-  "en": ""
+  "en": "Sailor Uniform"
  },
  {
   "id": "item:0134:0c",
   "jp": "一般的な学校制服用の\n夏用のセーラー服。",
   "refs": 1,
-  "en": ""
+  "en": "A summer sailor uniform, a\ncommon school uniform style."
  },
  {
   "id": "item:0134:14",
   "jp": "脚力＋30　体力－20",
   "refs": 1,
-  "en": ""
+  "en": "Speed+30 Stamina-20"
  },
  {
   "id": "item:0135:04",
   "jp": "手袋",
   "refs": 1,
-  "en": ""
+  "en": "Gloves"
  },
  {
   "id": "item:0135:0c",
   "jp": "白い手袋。\nグローブタイプの武器使用時\n攻撃力が１５％増加して、\n脚力が１０減少する。",
   "refs": 1,
-  "en": ""
+  "en": "White gloves. With a\nglove-type weapon, attack\nrises 15% and Speed falls by\n10."
  },
  {
   "id": "item:0135:14",
   "jp": "脚力＋５",
   "refs": 1,
-  "en": ""
+  "en": "Speed+5"
  },
  {
   "id": "item:0136:04",
   "jp": "腕時計",
   "refs": 1,
-  "en": ""
+  "en": "Wristwatch"
  },
  {
   "id": "item:0136:0c",
   "jp": "シンプルなデザインの\n電池式腕時計。",
   "refs": 1,
-  "en": ""
+  "en": "A simple battery-powered\nwristwatch."
  },
  {
   "id": "item:0137:04",
   "jp": "水着",
   "refs": 1,
-  "en": ""
+  "en": "Swimsuit"
  },
  {
   "id": "item:0137:0c",
   "jp": "学校指定の男子用水着。",
   "refs": 1,
-  "en": ""
+  "en": "School-issue boys' swimsuit."
  },
  {
   "id": "item:0137:14",
   "jp": "脚力＋20　体力－10",
   "refs": 1,
-  "en": ""
+  "en": "Speed+20 Stamina-10"
  },
  {
   "id": "item:0138:04",
   "jp": "野球ユニフォーム",
   "refs": 1,
-  "en": ""
+  "en": "Baseball Uniform"
  },
  {
   "id": "item:0138:0c",
   "jp": "野球部のユニフォーム。\nバットと一緒に\n装備するとよりよい戦果を\nあげることができる。",
   "refs": 1,
-  "en": ""
+  "en": "Baseball team uniform. Equip\nit with a bat for better\nresults in battle."
  },
  {
   "id": "item:0138:14",
   "jp": "判断力＋2",
   "refs": 2,
-  "en": ""
+  "en": "Judgment+2"
  },
  {
   "id": "item:0139:04",
   "jp": "鴉乃杜女子制服",
   "refs": 1,
-  "en": ""
+  "en": "Girls' Uniform"
  },
  {
   "id": "item:0139:0c",
   "jp": "鴉乃杜學園の女子制服である\n冬服のセーラー服。",
   "refs": 1,
-  "en": ""
+  "en": "The Karasu no Mori Academy\ngirls' uniform: a winter\nsailor suit."
  },
  {
   "id": "item:0139:14",
   "jp": "脚力＋30　精神力－30",
   "refs": 1,
-  "en": ""
+  "en": "Speed+30 Willpower-30"
  },
  {
   "id": "item:0140:04",
   "jp": "ブレザー",
   "refs": 1,
-  "en": ""
+  "en": "Blazer"
  },
  {
   "id": "item:0140:0c",
   "jp": "一般的な学校制服用の\n紺色のブレザー。",
   "refs": 1,
-  "en": ""
+  "en": "A navy blazer, a common\nschool uniform style."
  },
  {
   "id": "item:0140:14",
   "jp": "外国語＋4　国語－4",
   "refs": 1,
-  "en": ""
+  "en": "Languages+4 Japanese-4"
  },
  {
   "id": "item:0141:04",
   "jp": "白衣",
   "refs": 1,
-  "en": ""
+  "en": "Lab Coat"
  },
  {
   "id": "item:0141:0c",
   "jp": "保健室や理科室で目にする\n一般的な白衣。",
   "refs": 1,
-  "en": ""
+  "en": "A standard lab coat, as seen\nin nurse's offices and\nscience labs."
  },
  {
   "id": "item:0141:14",
   "jp": "保健＋3",
   "refs": 1,
-  "en": ""
+  "en": "Health+3"
  },
  {
   "id": "item:0142:04",
   "jp": "弓道衣",
   "refs": 1,
-  "en": ""
+  "en": "Kyudo Garb"
  },
  {
   "id": "item:0142:0c",
   "jp": "弓道をする際に着用する\n白筒袖、黒袴、白足袋から\nなる道衣。",
   "refs": 1,
-  "en": ""
+  "en": "Kyudo wear: white\ntube-sleeved top, black\nhakama and white tabi."
  },
  {
   "id": "item:0143:04",
   "jp": "剣道具",
   "refs": 1,
-  "en": ""
+  "en": "Kendo Armor"
  },
  {
   "id": "item:0143:0c",
   "jp": "剣道をする際に着用する\n胴の防具。",
   "refs": 1,
-  "en": ""
+  "en": "Torso armor worn when doing\nkendo."
  },
  {
   "id": "item:0143:10",
   "jp": "防御力110",
   "refs": 1,
-  "en": ""
+  "en": "Defense 110"
  },
  {
   "id": "item:0143:14",
   "jp": "判断力－2",
   "refs": 1,
-  "en": ""
+  "en": "Judgment-2"
  },
  {
   "id": "item:0144:04",
   "jp": "ヘアバンド",
   "refs": 1,
-  "en": ""
+  "en": "Hairband"
  },
  {
   "id": "item:0144:0c",
   "jp": "髪の毛を上げるための\nバンド。",
   "refs": 1,
-  "en": ""
+  "en": "A band to hold your hair up."
  },
  {
   "id": "item:0144:14",
   "jp": "瞬発力＋10　判断力＋10",
   "refs": 1,
-  "en": ""
+  "en": "Reflexes+10 Judgment+10"
  },
  {
   "id": "item:0145:04",
   "jp": "愛の字雲前立兜",
   "refs": 1,
-  "en": ""
+  "en": "Love Crest Helm"
  },
  {
   "id": "item:0145:0c",
   "jp": "直江兼続の兜。\n愛の字の前立てが特徴。",
   "refs": 1,
-  "en": ""
+  "en": "Naoe Kanetsugu's helmet,\nfamous for its crest bearing\nthe kanji \"love.\""
  },
  {
   "id": "item:0145:10",
   "jp": "防御力38",
   "refs": 1,
-  "en": ""
+  "en": "Defense 38"
  },
  {
   "id": "item:0145:14",
   "jp": "精神力＋5",
   "refs": 1,
-  "en": ""
+  "en": "Willpower+5"
  },
  {
   "id": "item:0146:04",
   "jp": "佩楯",
   "refs": 1,
-  "en": ""
+  "en": "Haidate"
  },
  {
   "id": "item:0146:0c",
   "jp": "腿部を保護する脛当て。\n槍タイプの武器使用時\n攻撃力が３０％増加する。",
   "refs": 1,
-  "en": ""
+  "en": "Armor that guards the\nthighs. With a spear-type\nweapon, attack rises 30%."
  },
  {
   "id": "item:0146:10",
   "jp": "防御力57",
   "refs": 1,
-  "en": ""
+  "en": "Defense 57"
  },
  {
   "id": "item:0147:04",
   "jp": "美豆良",
   "refs": 1,
-  "en": ""
+  "en": "Mizura"
  },
  {
   "id": "item:0147:0c",
   "jp": "天照命が弟を迎え撃つ際に\n結った髪型。\n敵から攻撃を受けるごとに\n自分のＨＰが５回復する。",
   "refs": 1,
-  "en": ""
+  "en": "The hairstyle Amaterasu tied\nto face her brother. Each\nhit taken restores 5 HP."
  },
  {
   "id": "item:0147:10",
   "jp": "防御力71",
   "refs": 1,
-  "en": ""
+  "en": "Defense 71"
  },
  {
   "id": "item:0148:04",
   "jp": "円形銅器付盾",
   "refs": 1,
-  "en": ""
+  "en": "Disc Shield"
  },
  {
   "id": "item:0148:0c",
   "jp": "スイジガイを模したものを\nとりつけた呪力がある盾。\n防御迎撃型の敵からの攻撃を\n５０％の確率で反射する。",
   "refs": 1,
-  "en": ""
+  "en": "A charmed shield with a\nspider conch replica. Chance\nto reflect guard-type foes:\n50%."
  },
  {
   "id": "item:0148:10",
   "jp": "防御力42",
   "refs": 1,
-  "en": ""
+  "en": "Defense 42"
  },
  {
   "id": "item:0149:04",
   "jp": "天之日影の襷",
   "refs": 1,
-  "en": ""
+  "en": "Hikage Sash"
  },
  {
   "id": "item:0149:0c",
   "jp": "天の宇受売が天照を\n岩戸から呼び出す際に\n着用した襷。",
   "refs": 1,
-  "en": ""
+  "en": "The sash Ame-no-Uzume wore\nto lure Amaterasu out of the\nRock Cave."
  },
  {
   "id": "item:0149:10",
   "jp": "防御力60",
   "refs": 4,
-  "en": ""
+  "en": "Defense 60"
  },
  {
   "id": "item:0149:14",
   "jp": "脚力＋８",
   "refs": 1,
-  "en": ""
+  "en": "Speed+8"
  },
  {
   "id": "item:0150:04",
   "jp": "道之長乳歯神の帯",
   "refs": 1,
-  "en": ""
+  "en": "Road God's Obi"
  },
  {
   "id": "item:0150:0c",
   "jp": "道之長乳歯神が\n生まれたとされる帯。",
   "refs": 1,
-  "en": ""
+  "en": "An obi said to have given\nbirth to the god\nMichi-no-Nagachiha."
  },
  {
   "id": "item:0150:10",
   "jp": "防御力27",
   "refs": 1,
-  "en": ""
+  "en": "Defense 27"
  },
  {
   "id": "item:0150:14",
   "jp": "封呪予防",
   "refs": 2,
-  "en": ""
+  "en": "Prevents Seal"
  },
  {
   "id": "item:0151:04",
   "jp": "毘沙門籠手",
   "refs": 1,
-  "en": ""
+  "en": "Bishamon Bracers"
  },
  {
   "id": "item:0151:0c",
   "jp": "毘沙門天のつけている\n籠手を模したもの。\nグローブタイプの武器使用時\n攻撃力が２５％増加する。",
   "refs": 1,
-  "en": ""
+  "en": "A replica of Bishamonten's\nbracers. With a glove-type\nweapon, attack rises 25%."
  },
  {
   "id": "item:0151:10",
   "jp": "防御力68",
   "refs": 6,
-  "en": ""
+  "en": "Defense 68"
  },
  {
   "id": "item:0152:04",
   "jp": "神功皇后の二重織",
   "refs": 1,
-  "en": ""
+  "en": "Jingu's Brocade"
  },
  {
   "id": "item:0152:0c",
   "jp": "神功皇后の神服五領の\nうちのひとつ。",
   "refs": 1,
-  "en": ""
+  "en": "One of Empress Jingu's five\nsacred robes."
  },
  {
   "id": "item:0152:10",
   "jp": "防御力88",
   "refs": 2,
-  "en": ""
+  "en": "Defense 88"
  },
  {
   "id": "item:0152:14",
   "jp": "春属性＋５％　夏属性－３％",
   "refs": 1,
-  "en": ""
+  "en": "Spring+5% Summer-3%"
  },
  {
   "id": "item:0153:04",
   "jp": "湯津津間櫛",
   "refs": 1,
-  "en": ""
+  "en": "Yutsutsuma Comb"
  },
  {
   "id": "item:0153:0c",
   "jp": "イザナギの櫛。\n戦闘開始直後、春属性の\n敵を睡眠状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "Izanagi's comb. Puts\nSpring-type foes to sleep at\nbattle start."
  },
  {
   "id": "item:0154:04",
   "jp": "腰裳",
   "refs": 1,
-  "en": ""
+  "en": "Waist Cloth"
  },
  {
   "id": "item:0154:0c",
   "jp": "腰から下を覆うための\n仏像が身につけている布。\n遠距離型の敵からの攻撃を\n２０％の確率で無効化する。",
   "refs": 1,
-  "en": ""
+  "en": "Cloth a Buddha statue wears\nbelow the waist. Chance to\nnegate ranged attacks: 20%."
  },
  {
   "id": "item:0154:10",
   "jp": "防御力74",
   "refs": 1,
-  "en": ""
+  "en": "Defense 74"
  },
  {
   "id": "item:0155:04",
   "jp": "高鞆",
   "refs": 1,
-  "en": ""
+  "en": "Takatomo Guard"
  },
  {
   "id": "item:0155:0c",
   "jp": "弓を射る際、\n高い音を発する鞆。",
   "refs": 1,
-  "en": ""
+  "en": "An archer's arm guard that\nrings out high when a bow is\nshot."
  },
  {
   "id": "item:0156:04",
   "jp": "星甲",
   "refs": 1,
-  "en": ""
+  "en": "Star Helm"
  },
  {
   "id": "item:0156:0c",
   "jp": "源頼光が酒天童子退治にと\n神仙から譲り受けた兜。\n状態異常中に攻撃する際\n攻撃力が２０％増加する。",
   "refs": 1,
-  "en": ""
+  "en": "Helm Raiko got from the\nimmortals to slay\nShuten-doji. Under ailments,\nattack +20%."
  },
  {
   "id": "item:0157:04",
   "jp": "一本下駄",
   "refs": 1,
-  "en": ""
+  "en": "One-Tooth Geta"
  },
  {
   "id": "item:0157:0c",
   "jp": "鞍馬天狗が履いていたと\nされる下駄。",
   "refs": 1,
-  "en": ""
+  "en": "Geta said to have been worn\nby Kurama Tengu."
  },
  {
   "id": "item:0157:14",
   "jp": "判断力＋３０　体力－２５",
   "refs": 1,
-  "en": ""
+  "en": "Judgment+30 Stamina-25"
  },
  {
   "id": "item:0158:04",
   "jp": "髪華",
   "refs": 1,
-  "en": ""
+  "en": "Flower Hairpin"
  },
  {
   "id": "item:0158:0c",
   "jp": "花や青葉の枝でできた簪。\n戦闘開始直後、秋属性の\n敵を睡眠状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "A hairpin of flowers and\ngreen sprigs. Puts\nAutumn-type foes to sleep at\nbattle start."
  },
  {
   "id": "item:0158:10",
   "jp": "防御力51",
   "refs": 1,
-  "en": ""
+  "en": "Defense 51"
  },
  {
   "id": "item:0159:04",
   "jp": "海老籠手",
   "refs": 1,
-  "en": ""
+  "en": "Shrimp Bracers"
  },
  {
   "id": "item:0159:0c",
   "jp": "毘沙門天がまとっていると\nされる籠手。\nナイフタイプの武器使用時\n攻撃力が３０％増加する。",
   "refs": 1,
-  "en": ""
+  "en": "Bracers said to be worn by\nBishamonten. With a\nknife-type weapon, attack\nrises 30%."
  },
  {
   "id": "item:0159:10",
   "jp": "防御力76",
   "refs": 2,
-  "en": ""
+  "en": "Defense 76"
  },
  {
   "id": "item:0160:04",
   "jp": "蛇比礼",
   "refs": 1,
-  "en": ""
+  "en": "Serpent Scarf"
  },
  {
   "id": "item:0160:0c",
   "jp": "十種神宝のひとつで、\n古代の女性のスカーフ。",
   "refs": 1,
-  "en": ""
+  "en": "One of the Ten Sacred\nTreasures: an ancient\nwoman's scarf."
  },
  {
   "id": "item:0160:14",
   "jp": "頭痛予防",
   "refs": 1,
-  "en": ""
+  "en": "Prevents Headache"
  },
  {
   "id": "item:0161:04",
   "jp": "混天綾",
   "refs": 1,
-  "en": ""
+  "en": "Huntian Ling"
  },
  {
   "id": "item:0161:0c",
   "jp": "毘沙門天の息子、\n太子元帥の持つ\n魔力を秘めた布。",
   "refs": 1,
-  "en": ""
+  "en": "A cloth of hidden magic\nowned by Nezha, son of\nBishamonten."
  },
  {
   "id": "item:0161:10",
   "jp": "防御力48",
   "refs": 1,
-  "en": ""
+  "en": "Defense 48"
  },
  {
   "id": "item:0161:14",
   "jp": "吐き気予防　睡眠予防",
   "refs": 1,
-  "en": ""
+  "en": "Prevents Nausea, Sleep"
  },
  {
   "id": "item:0162:04",
   "jp": "膝丸",
   "refs": 1,
-  "en": ""
+  "en": "Hizamaru"
  },
  {
   "id": "item:0162:0c",
   "jp": "牛千頭の膝の皮を\n取って威した鎧。\n源家八領のひとつ。",
   "refs": 1,
-  "en": ""
+  "en": "Armor laced with knee hide\nfrom a thousand oxen. One of\nthe Genji's Eight Armors."
  },
  {
   "id": "item:0163:04",
   "jp": "天女の羽衣",
   "refs": 1,
-  "en": ""
+  "en": "Celestial Robe"
  },
  {
   "id": "item:0163:0c",
   "jp": "民話に出てくる\n豊宇賀能売神の羽衣。",
   "refs": 1,
-  "en": ""
+  "en": "The feather robe of the\ngoddess Toyoukanome, from\nfolklore."
  },
  {
   "id": "item:0163:14",
   "jp": "攻撃ＡＰ消費－１０％",
   "refs": 1,
-  "en": ""
+  "en": "Attack AP Cost-10%"
  },
  {
   "id": "item:0164:04",
   "jp": "金鐘行者の法衣",
   "refs": 1,
-  "en": ""
+  "en": "Golden Bell Robe"
  },
  {
   "id": "item:0164:0c",
   "jp": "金鐘行者こと、良弁僧正が\n弥陀如来から授かった\n金銀の宝服。",
   "refs": 1,
-  "en": ""
+  "en": "Gold-and-silver vestments\nRoben, the Golden Bell\nAscetic, got from Amida\nBuddha."
  },
  {
   "id": "item:0164:14",
   "jp": "骨折予防",
   "refs": 1,
-  "en": ""
+  "en": "Prevents Fracture"
  },
  {
   "id": "item:0165:04",
   "jp": "浦島太郎の蓑",
   "refs": 1,
-  "en": ""
+  "en": "Urashima's Cloak"
  },
  {
   "id": "item:0165:0c",
   "jp": "浦島太郎が\n着ていたとされる蓑。\n敵ターン経過ごとに、\n自分のＨＰが５％減少する。",
   "refs": 1,
-  "en": ""
+  "en": "A straw cloak said to be\nworn by Urashima Taro. Each\nenemy turn costs you 5% HP."
  },
  {
   "id": "item:0165:14",
   "jp": "最大ＨＰ＋20％",
   "refs": 1,
-  "en": ""
+  "en": "Max HP+20%"
  },
  {
   "id": "item:0166:04",
   "jp": "五色乱星陣羽織",
   "refs": 1,
-  "en": ""
+  "en": "Starry Jinbaori"
  },
  {
   "id": "item:0166:0c",
   "jp": "伊達政宗所用と伝えられる\n陣羽織。\n敵からの攻撃によるすべての\n状態異常を無効にする。",
   "refs": 1,
-  "en": ""
+  "en": "A jinbaori said to be Date\nMasamune's. Nullifies all\nailments from enemy attacks."
  },
  {
   "id": "item:0166:10",
   "jp": "防御力59",
   "refs": 1,
-  "en": ""
+  "en": "Defense 59"
  },
  {
   "id": "item:0166:14",
   "jp": "国語－3",
   "refs": 1,
-  "en": ""
+  "en": "Japanese-3"
  },
  {
   "id": "item:0167:04",
   "jp": "飽咋之宇斯能神冠",
   "refs": 1,
-  "en": ""
+  "en": "Akiguhi Crown"
  },
  {
   "id": "item:0167:0c",
   "jp": "飽咋之宇斯能神が\n生まれたとされている冠。\n戦闘開始直後、冬属性の\n敵を睡眠状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "The crown that birthed the\ngod Akiguhi-no-Ushi.\nWinter-type foes sleep at\nbattle start."
  },
  {
   "id": "item:0167:10",
   "jp": "防御力69",
   "refs": 1,
-  "en": ""
+  "en": "Defense 69"
  },
  {
   "id": "item:0168:04",
   "jp": "煩神の衣",
   "refs": 1,
-  "en": ""
+  "en": "Wazurai Robe"
  },
  {
   "id": "item:0168:0c",
   "jp": "和豆良比能宇斯能神が\n生まれた衣。\n小型サイズの敵からの攻撃を\n５０％の確率で無効化する",
   "refs": 1,
-  "en": ""
+  "en": "The robe that birthed the\ngod Wazurai-no-Ushi. Chance\nto negate small foes: 50%."
  },
  {
   "id": "item:0168:10",
   "jp": "防御力81",
   "refs": 2,
-  "en": ""
+  "en": "Defense 81"
  },
  {
   "id": "item:0169:04",
   "jp": "火鼠の皮衣",
   "refs": 1,
-  "en": ""
+  "en": "Fire-Rat Robe"
  },
  {
   "id": "item:0169:0c",
   "jp": "かぐや姫が求めた５つの\n宝の１つ。燃える事のない\n皮で出来ている。",
   "refs": 1,
-  "en": ""
+  "en": "One of Kaguya-hime's five\ntreasures, made of hide that\nnever burns."
  },
  {
   "id": "item:0169:10",
   "jp": "防御力62",
   "refs": 1,
-  "en": ""
+  "en": "Defense 62"
  },
  {
   "id": "item:0169:14",
   "jp": "瞬発力＋７",
   "refs": 1,
-  "en": ""
+  "en": "Reflexes+7"
  },
  {
   "id": "item:0170:04",
   "jp": "蛙袈裟",
   "refs": 1,
-  "en": ""
+  "en": "Frog Kesa"
  },
  {
   "id": "item:0170:0c",
   "jp": "蛙が恩返しに和尚に\n渡したとされる袈裟。",
   "refs": 1,
-  "en": ""
+  "en": "A kesa robe a frog gave a\npriest to repay his\nkindness."
  },
  {
   "id": "item:0170:14",
   "jp": "アイテム拾得率＋50％",
   "refs": 1,
-  "en": ""
+  "en": "Item Find Rate+50%"
  },
  {
   "id": "item:0171:04",
   "jp": "玉の御統",
   "refs": 1,
-  "en": ""
+  "en": "Misumaru Beads"
  },
  {
   "id": "item:0171:0c",
   "jp": "玉を緒で繋げて首などに\n巻いた飾り。",
   "refs": 1,
-  "en": ""
+  "en": "Beads strung on a cord and\nworn around the neck."
  },
  {
   "id": "item:0172:04",
   "jp": "短甲",
   "refs": 1,
-  "en": ""
+  "en": "Tanko Armor"
  },
  {
   "id": "item:0172:0c",
   "jp": "弥生から古墳時代にかけて\n用いられた胴を守る鎧。\n飛行タイプの敵からの攻撃を\n５０％の確率で反射する。",
   "refs": 1,
-  "en": ""
+  "en": "Torso armor of the Yayoi to\nKofun eras. Chance to\nreflect flying foes: 50%."
  },
  {
   "id": "item:0173:04",
   "jp": "聖の衣",
   "refs": 1,
-  "en": ""
+  "en": "Saint's Robe"
  },
  {
   "id": "item:0173:0c",
   "jp": "聖徳太子が餓えた聖者に\n与えた衣。",
   "refs": 1,
-  "en": ""
+  "en": "The robe Prince Shotoku gave\na starving holy man."
  },
  {
   "id": "item:0173:14",
   "jp": "麻痺予防　悪寒予防",
   "refs": 1,
-  "en": ""
+  "en": "Prevents Paralysis, Chills"
  },
  {
   "id": "item:0174:04",
   "jp": "金鎖甲",
   "refs": 1,
-  "en": ""
+  "en": "Gold Chain Armor"
  },
  {
   "id": "item:0174:0c",
   "jp": "毘沙門天が\nまとっているとされる鎧。\n攻撃してきたザコ敵を\n１マスノックバックさせる。",
   "refs": 1,
-  "en": ""
+  "en": "Armor said to be worn by\nBishamonten. Knocks\nsmall-fry attackers back 1\nsquare."
  },
  {
   "id": "item:0175:04",
   "jp": "飯綱権現前立兜",
   "refs": 1,
-  "en": ""
+  "en": "Izuna Crest Helm"
  },
  {
   "id": "item:0175:0c",
   "jp": "白狐に乗る烏天狗姿の\n前立を付けた上杉謙信の兜。\n攻撃してきたザコ敵を\n２０％の確率で味方にする。",
   "refs": 1,
-  "en": ""
+  "en": "Uesugi Kenshin's helm,\ncrested with a crow tengu on\na white fox. Recruits\nsmall-fry attackers (20%)."
  },
  {
   "id": "item:0175:10",
   "jp": "防御力86",
   "refs": 1,
-  "en": ""
+  "en": "Defense 86"
  },
  {
   "id": "item:0176:04",
   "jp": "鎖帷子",
   "refs": 1,
-  "en": ""
+  "en": "Chain Mail"
  },
  {
   "id": "item:0176:0c",
   "jp": "金属の輪で作った服。\n主に忍者などが\n着用したとされる。",
   "refs": 1,
-  "en": ""
+  "en": "Clothing of metal rings,\nsaid to be worn mainly by\nninja."
  },
  {
   "id": "item:0177:04",
   "jp": "諏訪法性の兜",
   "refs": 1,
-  "en": ""
+  "en": "Suwa Hossho Helm"
  },
  {
   "id": "item:0177:0c",
   "jp": "武田信玄の兜。\n諏訪大明神より授けられた\nとされる秘宝。",
   "refs": 1,
-  "en": ""
+  "en": "Takeda Shingen's helm, a\ntreasure said to be a gift\nfrom the great god of Suwa."
  },
  {
   "id": "item:0177:14",
   "jp": "攻撃力＋３０％",
   "refs": 1,
-  "en": ""
+  "en": "Attack+30%"
  },
  {
   "id": "item:0178:04",
   "jp": "星兜",
   "refs": 1,
-  "en": ""
+  "en": "Hoshi Kabuto"
  },
  {
   "id": "item:0178:0c",
   "jp": "鋲頭を星と呼ばれる\n突起物で装飾した兜。\n戦闘開始直後、夏属性の\n敵を睡眠状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "A helm with its rivets\nstudded like stars.\nSummer-type foes sleep at\nbattle start."
  },
  {
   "id": "item:0178:10",
   "jp": "防御力85",
   "refs": 2,
-  "en": ""
+  "en": "Defense 85"
  },
  {
   "id": "item:0179:04",
   "jp": "陣笠",
   "refs": 1,
-  "en": ""
+  "en": "Jingasa"
  },
  {
   "id": "item:0179:0c",
   "jp": "足軽、雑兵などに使われた\n頭に被る防具。",
   "refs": 1,
-  "en": ""
+  "en": "Head armor used by ashigaru\nand common foot soldiers."
  },
  {
   "id": "item:0180:04",
   "jp": "面具",
   "refs": 1,
-  "en": ""
+  "en": "Face Guard"
  },
  {
   "id": "item:0180:0c",
   "jp": "着用者の顔を保護する面。\n小型サイズの敵へ攻撃した際\n３マスノックバックさせる。",
   "refs": 1,
-  "en": ""
+  "en": "A mask that guards the\nwearer's face. Knocks small\nfoes back 3 squares on hit."
  },
  {
   "id": "item:0180:10",
   "jp": "防御力55",
   "refs": 1,
-  "en": ""
+  "en": "Defense 55"
  },
  {
   "id": "item:0181:04",
   "jp": "唐皮",
   "refs": 1,
-  "en": ""
+  "en": "Karakawa"
  },
  {
   "id": "item:0181:0c",
   "jp": "桓武天皇が名付けた鎧。\n不動明王の七つの鎧の一つ。",
   "refs": 1,
-  "en": ""
+  "en": "Armor named by Emperor\nKanmu, one of Fudo Myoo's\nseven armors."
  },
  {
   "id": "item:0181:14",
   "jp": "最大ＨＰ＋10％",
   "refs": 1,
-  "en": ""
+  "en": "Max HP+10%"
  },
  {
   "id": "item:0182:04",
   "jp": "生絹",
   "refs": 1,
-  "en": ""
+  "en": "Suzushi"
  },
  {
   "id": "item:0182:0c",
   "jp": "義朝の息子、頼朝の鎧。\n長剣タイプの武器使用時\n攻撃力が２０％増加する。",
   "refs": 1,
-  "en": ""
+  "en": "Armor of Yoritomo,\nYoshitomo's son. With a\nlongsword-type weapon,\nattack rises 20%."
  },
  {
   "id": "item:0182:10",
   "jp": "防御力84",
   "refs": 2,
-  "en": ""
+  "en": "Defense 84"
  },
  {
   "id": "item:0183:04",
   "jp": "鞆",
   "refs": 1,
-  "en": ""
+  "en": "Tomo"
  },
  {
   "id": "item:0183:0c",
   "jp": "弓を射る時、\n左の肘に装着する武具。",
   "refs": 1,
-  "en": ""
+  "en": "Gear worn on the left elbow\nwhen shooting a bow."
  },
  {
   "id": "item:0183:14",
   "jp": "判断力＋６",
   "refs": 1,
-  "en": ""
+  "en": "Judgment+6"
  },
  {
   "id": "item:0184:04",
   "jp": "避来矢",
   "refs": 1,
-  "en": ""
+  "en": "Hiraishi"
  },
  {
   "id": "item:0184:0c",
   "jp": "藤原秀郷が百足退治の礼に\n龍宮王から授かった大鎧。\n攻撃してきた大型の敵を\n１マスノックバックさせる。",
   "refs": 1,
-  "en": ""
+  "en": "The Dragon King's gift to\nHidesato for slaying a\ncentipede. Knocks big\nattackers back 1 square."
  },
  {
   "id": "item:0184:14",
   "jp": "脚力－10",
   "refs": 1,
-  "en": ""
+  "en": "Speed-10"
  },
  {
   "id": "item:0185:04",
   "jp": "建稲種命の衣",
   "refs": 1,
-  "en": ""
+  "en": "Inadane Robe"
  },
  {
   "id": "item:0185:0c",
   "jp": "建稲種が海に飛び込んだ際、\n海に浮かんだという衣。",
   "refs": 1,
-  "en": ""
+  "en": "A robe that floated up when\nTakeinadane leapt into the\nsea."
  },
  {
   "id": "item:0185:14",
   "jp": "冬氷属性＋１０％",
   "refs": 1,
-  "en": ""
+  "en": "Winter Ice+10%"
  },
  {
   "id": "item:0186:04",
   "jp": "八艘飛びの鎧",
   "refs": 1,
-  "en": ""
+  "en": "Eight-Boat Armor"
  },
  {
   "id": "item:0186:0c",
   "jp": "源義経が壇ノ浦にて\n舟八艘を飛び越えた際に\n身に付けていた鎧。",
   "refs": 1,
-  "en": ""
+  "en": "The armor Yoshitsune wore\nleaping across eight boats\nat Dan-no-ura."
  },
  {
   "id": "item:0186:10",
   "jp": "防御力87",
   "refs": 1,
-  "en": ""
+  "en": "Defense 87"
  },
  {
   "id": "item:0187:04",
   "jp": "神衣",
   "refs": 1,
-  "en": ""
+  "en": "Divine Robe"
  },
  {
   "id": "item:0187:0c",
   "jp": "天照大神が織った\nとされる衣服。",
   "refs": 1,
-  "en": ""
+  "en": "Clothing said to be woven by\nAmaterasu."
  },
  {
   "id": "item:0187:14",
   "jp": "精神力＋３",
   "refs": 1,
-  "en": ""
+  "en": "Willpower+3"
  },
  {
   "id": "item:0188:04",
   "jp": "楯無",
   "refs": 1,
-  "en": ""
+  "en": "Tatenashi"
  },
  {
   "id": "item:0188:0c",
   "jp": "平治の乱で\n源義朝が使用した鎧。\n源家八領のひとつ。",
   "refs": 1,
-  "en": ""
+  "en": "Armor Minamoto no Yoshitomo\nused in the Heiji Rebellion.\nOne of the Genji's Eight\nArmors."
  },
  {
   "id": "item:0188:14",
   "jp": "瞬発力－2",
   "refs": 1,
-  "en": ""
+  "en": "Reflexes-2"
  },
  {
   "id": "item:0189:04",
   "jp": "襲",
   "refs": 1,
-  "en": ""
+  "en": "Overrobe"
  },
  {
   "id": "item:0189:0c",
   "jp": "着衣の上に羽織った\n古代の衣装。",
   "refs": 1,
-  "en": ""
+  "en": "An ancient garment worn over\nother clothes."
  },
  {
   "id": "item:0189:10",
   "jp": "防御力96",
   "refs": 1,
-  "en": ""
+  "en": "Defense 96"
  },
  {
   "id": "item:0189:14",
   "jp": "瞬発力－4",
   "refs": 1,
-  "en": ""
+  "en": "Reflexes-4"
  },
  {
   "id": "item:0190:04",
   "jp": "葛の衣",
   "refs": 1,
-  "en": ""
+  "en": "Kudzu Robe"
  },
  {
   "id": "item:0190:0c",
   "jp": "役小角が修行中に身に着けて\nいたとされる衣服。",
   "refs": 1,
-  "en": ""
+  "en": "Clothing said to be worn by\nEn no Ozunu during his\ntraining."
  },
  {
   "id": "item:0190:14",
   "jp": "秘法眼コスト＋40％",
   "refs": 1,
-  "en": ""
+  "en": "Arcane Eye Cost+40%"
  },
  {
   "id": "item:0191:04",
   "jp": "八龍",
   "refs": 1,
-  "en": ""
+  "en": "Hachiryu"
  },
  {
   "id": "item:0191:0c",
   "jp": "源義家が後三年の役の際、\n八大龍王の形を型取った鎧。\n源家八領のひとつ。",
   "refs": 1,
-  "en": ""
+  "en": "Yoshiie's Later Three-Year\nWar armor, modeled on the\nEight Dragon Kings. One of\nthe Genji's Eight."
  },
  {
   "id": "item:0191:14",
   "jp": "全状態異常防御",
   "refs": 1,
-  "en": ""
+  "en": "Blocks All Ailments"
  },
  {
   "id": "item:0192:04",
   "jp": "縵",
   "refs": 1,
-  "en": ""
+  "en": "Kazura"
  },
  {
   "id": "item:0192:0c",
   "jp": "蔓草を輪にして\n頭髪にまく装飾・呪物。\n装備中、設置した花札による\nダメージが１.５倍となる。",
   "refs": 1,
-  "en": ""
+  "en": "A vine loop worn in the hair\nas ornament and charm.\nPlaced hanafuda deal 1.5x\ndamage."
  },
  {
   "id": "item:0192:10",
   "jp": "防御力30",
   "refs": 1,
-  "en": ""
+  "en": "Defense 30"
  },
  {
   "id": "item:0193:04",
   "jp": "たこやき飴",
   "refs": 1,
-  "en": ""
+  "en": "Takoyaki Candy"
  },
  {
   "id": "item:0193:0c",
   "jp": "たこやきの風味のする飴。",
   "refs": 1,
-  "en": ""
+  "en": "Candy with a takoyaki\nflavor."
  },
  {
   "id": "item:0193:10",
   "jp": "HP85回復",
   "refs": 5,
-  "en": ""
+  "en": "Restores 85 HP"
  },
  {
   "id": "item:0193:14",
   "jp": "20％の確率で麻痺を回復",
   "refs": 1,
-  "en": ""
+  "en": "Cures Paralysis (20%)"
  },
  {
   "id": "item:0194:04",
   "jp": "カレーソース",
   "refs": 1,
-  "en": ""
+  "en": "Curry Sauce"
  },
  {
   "id": "item:0194:0c",
   "jp": "カレー風味の調味料\nとして作られたソース。",
   "refs": 1,
-  "en": ""
+  "en": "A sauce made as a\ncurry-flavored seasoning."
  },
  {
   "id": "item:0194:10",
   "jp": "AP40回復",
   "refs": 11,
-  "en": ""
+  "en": "Restores 40 AP"
  },
  {
   "id": "item:0194:14",
   "jp": "20％の確率で頭痛を回復",
   "refs": 2,
-  "en": ""
+  "en": "Cures Headache (20%)"
  },
  {
   "id": "item:0195:04",
   "jp": "カレーパン",
   "refs": 1,
-  "en": ""
+  "en": "Curry Bread"
  },
  {
   "id": "item:0195:0c",
   "jp": "カレールーを包んで\n油で揚げたパン。",
   "refs": 1,
-  "en": ""
+  "en": "Bread stuffed with curry and\ndeep-fried."
  },
  {
   "id": "item:0195:10",
   "jp": "HP180回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 180 HP"
  },
  {
   "id": "item:0196:04",
   "jp": "サンドイッチ",
   "refs": 1,
-  "en": ""
+  "en": "Sandwich"
  },
  {
   "id": "item:0196:0c",
   "jp": "野菜の入った\nサンドイッチ。",
   "refs": 1,
-  "en": ""
+  "en": "A sandwich with vegetables."
  },
  {
   "id": "item:0196:10",
   "jp": "AP20回復",
   "refs": 2,
-  "en": ""
+  "en": "Restores 20 AP"
  },
  {
   "id": "item:0197:04",
   "jp": "苺風味のなにか",
   "refs": 1,
-  "en": ""
+  "en": "Strawberry-ish"
  },
  {
   "id": "item:0197:0c",
   "jp": "トマトと砂糖を混ぜた\n苺の風味がするような\n気のするもの。",
   "refs": 1,
-  "en": ""
+  "en": "Tomato mixed with sugar. It\nsort of seems to taste like\nstrawberry."
  },
  {
   "id": "item:0197:10",
   "jp": "HP110回復",
   "refs": 3,
-  "en": ""
+  "en": "Restores 110 HP"
  },
  {
   "id": "item:0197:14",
   "jp": "20％の確率で捻挫を回復",
   "refs": 1,
-  "en": ""
+  "en": "Cures Sprain (20%)"
  },
  {
   "id": "item:0198:04",
   "jp": "きりたんぽ",
   "refs": 1,
-  "en": ""
+  "en": "Kiritanpo"
  },
  {
   "id": "item:0198:0c",
   "jp": "秋田の郷土料理。\nつぶしたご飯を木の棒に\n巻き付けて焼いたもの。",
   "refs": 1,
-  "en": ""
+  "en": "An Akita local dish: mashed\nrice wrapped on a stick and\ngrilled."
  },
  {
   "id": "item:0199:04",
   "jp": "ケチャップ豆",
   "refs": 1,
-  "en": ""
+  "en": "Ketchup Beans"
  },
  {
   "id": "item:0199:0c",
   "jp": "炒めた大豆にケチャップを\n加え、軽く煮込んだもの。\nご飯に良く合う。",
   "refs": 1,
-  "en": ""
+  "en": "Fried soybeans lightly\nsimmered with ketchup. Goes\ngreat with rice."
  },
  {
   "id": "item:0199:14",
   "jp": "20％の確率で悪寒を回復",
   "refs": 2,
-  "en": ""
+  "en": "Cures Chills (20%)"
  },
  {
   "id": "item:0200:04",
   "jp": "チキンライス",
   "refs": 1,
-  "en": ""
+  "en": "Chicken Rice"
  },
  {
   "id": "item:0200:0c",
   "jp": "ケチャップと白米を\n合わせて炒めたもの。",
   "refs": 1,
-  "en": ""
+  "en": "Ketchup and white rice\nstir-fried together."
  },
  {
   "id": "item:0200:10",
   "jp": "HP170回復",
   "refs": 3,
-  "en": ""
+  "en": "Restores 170 HP"
  },
  {
   "id": "item:0201:04",
   "jp": "カレーライス",
   "refs": 1,
-  "en": ""
+  "en": "Curry Rice"
  },
  {
   "id": "item:0201:0c",
   "jp": "ご飯にカレールーを\nかけた料理。\n様々なアレンジがある。",
   "refs": 1,
-  "en": ""
+  "en": "Rice topped with curry roux.\nComes in many variations."
  },
  {
   "id": "item:0201:14",
   "jp": "20％の確率で目潰しを回復",
   "refs": 1,
-  "en": ""
+  "en": "Cures Blind (20%)"
  },
  {
   "id": "item:0202:04",
   "jp": "ガム",
   "refs": 1,
-  "en": ""
+  "en": "Gum"
  },
  {
   "id": "item:0202:0c",
   "jp": "ボトルに入ったガム。\nパイン味。",
   "refs": 1,
-  "en": ""
+  "en": "Pineapple-flavored gum in a\nbottle."
  },
  {
   "id": "item:0202:10",
   "jp": "HP140回復",
   "refs": 3,
-  "en": ""
+  "en": "Restores 140 HP"
  },
  {
   "id": "item:0202:14",
   "jp": "15％の確率で麻痺を回復",
   "refs": 4,
-  "en": ""
+  "en": "Cures Paralysis (15%)"
  },
  {
   "id": "item:0203:04",
   "jp": "コーヒー牛乳",
   "refs": 1,
-  "en": ""
+  "en": "Coffee Milk"
  },
  {
   "id": "item:0203:0c",
   "jp": "紙パックに入った\nコーヒー牛乳。",
   "refs": 1,
-  "en": ""
+  "en": "Coffee milk in a paper\ncarton."
  },
  {
   "id": "item:0203:14",
   "jp": "15％の確率で目潰しを回復",
   "refs": 3,
-  "en": ""
+  "en": "Cures Blind (15%)"
  },
  {
   "id": "item:0204:04",
   "jp": "フランクフルト",
   "refs": 1,
-  "en": ""
+  "en": "Frankfurter"
  },
  {
   "id": "item:0204:0c",
   "jp": "串に刺して焼かれた\nソーセージ。",
   "refs": 1,
-  "en": ""
+  "en": "A sausage grilled on a\nskewer."
  },
  {
   "id": "item:0204:14",
   "jp": "15％の確率で捻挫を回復",
   "refs": 4,
-  "en": ""
+  "en": "Cures Sprain (15%)"
  },
  {
   "id": "item:0205:04",
   "jp": "油揚げ",
   "refs": 1,
-  "en": ""
+  "en": "Fried Tofu"
  },
  {
   "id": "item:0205:0c",
   "jp": "薄切りにした豆腐を\n油で揚げたもの。\n稲荷の好物として有名。",
   "refs": 1,
-  "en": ""
+  "en": "Thin-sliced tofu,\ndeep-fried. Famous as\nInari's favorite food."
  },
  {
   "id": "item:0205:10",
   "jp": "HP210回復",
   "refs": 2,
-  "en": ""
+  "en": "Restores 210 HP"
  },
  {
   "id": "item:0205:14",
   "jp": "15％の確率で封呪を回復",
   "refs": 1,
-  "en": ""
+  "en": "Cures Seal (15%)"
  },
  {
   "id": "item:0206:04",
   "jp": "豆腐",
   "refs": 1,
-  "en": ""
+  "en": "Tofu"
  },
  {
   "id": "item:0206:0c",
   "jp": "大豆を煮て絞り出した豆乳を\n固めて切り出したもの。\n絹ごし豆腐。",
   "refs": 1,
-  "en": ""
+  "en": "Soy milk from boiled\nsoybeans, set and cut into\nblocks. Silken tofu."
  },
  {
   "id": "item:0206:14",
   "jp": "15％の確率で頭痛を回復",
   "refs": 2,
-  "en": ""
+  "en": "Cures Headache (15%)"
  },
  {
   "id": "item:0207:04",
   "jp": "ホットドック",
   "refs": 1,
-  "en": ""
+  "en": "Hot Dog"
  },
  {
   "id": "item:0207:0c",
   "jp": "焼いたソーセージを\nパンに挟んだ料理。",
   "refs": 1,
-  "en": ""
+  "en": "A grilled sausage in a bun."
  },
  {
   "id": "item:0208:04",
   "jp": "饅頭",
   "refs": 1,
-  "en": ""
+  "en": "Manju"
  },
  {
   "id": "item:0208:0c",
   "jp": "伝統的な和菓子。\n白い生地で小豆の餡を包んで\n蒸し上げたもの。",
   "refs": 1,
-  "en": ""
+  "en": "A traditional sweet: red\nbean paste wrapped in white\ndough and steamed."
  },
  {
   "id": "item:0208:14",
   "jp": "15％の確率で悪寒を回復",
   "refs": 2,
-  "en": ""
+  "en": "Cures Chills (15%)"
  },
  {
   "id": "item:0209:04",
   "jp": "水羊羹",
   "refs": 1,
-  "en": ""
+  "en": "Mizu Yokan"
  },
  {
   "id": "item:0209:0c",
   "jp": "和菓子の羊羹の一種。\n砂糖と餡を寒天と共に煮て\n水分を多めに固めたもの。",
   "refs": 1,
-  "en": ""
+  "en": "A kind of yokan. Sugar and\nbean paste simmered with\nagar, set soft and moist."
  },
  {
   "id": "item:0209:10",
   "jp": "HP280回復",
   "refs": 3,
-  "en": ""
+  "en": "Restores 280 HP"
  },
  {
   "id": "item:0210:04",
   "jp": "ラッシー",
   "refs": 1,
-  "en": ""
+  "en": "Lassi"
  },
  {
   "id": "item:0210:0c",
   "jp": "ヨーグルトをベースに\n作られるインドの飲み物。",
   "refs": 1,
-  "en": ""
+  "en": "An Indian drink made from\nyogurt."
  },
  {
   "id": "item:0211:04",
   "jp": "ういろう",
   "refs": 1,
-  "en": ""
+  "en": "Uiro"
  },
  {
   "id": "item:0211:0c",
   "jp": "米粉と餡を混ぜて蒸した\nもちもちしたお菓子。",
   "refs": 1,
-  "en": ""
+  "en": "A chewy steamed sweet of\nrice flour and bean paste."
  },
  {
   "id": "item:0212:04",
   "jp": "酢飯",
   "refs": 1,
-  "en": ""
+  "en": "Sushi Rice"
  },
  {
   "id": "item:0212:0c",
   "jp": "酢とご飯を混ぜ合わせた\n寿司などに使われるもの。\nいわゆるシャリ。",
   "refs": 1,
-  "en": ""
+  "en": "Rice mixed with vinegar,\nused for sushi. Also called\nshari."
  },
  {
   "id": "item:0213:04",
@@ -4965,859 +4965,859 @@
   "id": "item:0268:10",
   "jp": "HP200回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 200 HP"
  },
  {
   "id": "item:0269:04",
   "jp": "鶏肉",
   "refs": 1,
-  "en": ""
+  "en": "Raw Chicken"
  },
  {
   "id": "item:0269:0c",
   "jp": "新鮮な鶏もも肉だが、\n生のまま食べると、\n吐き気を催すことがある。",
   "refs": 1,
-  "en": ""
+  "en": "Fresh chicken thigh, but\neating it raw can make you\nfeel sick."
  },
  {
   "id": "item:0269:14",
   "jp": "60％の確率で吐き気になる",
   "refs": 1,
-  "en": ""
+  "en": "Causes Nausea (60%)"
  },
  {
   "id": "item:0270:04",
   "jp": "さつまいも",
   "refs": 1,
-  "en": ""
+  "en": "Sweet Potato"
  },
  {
   "id": "item:0270:0c",
   "jp": "畑から採れたさつまいも。",
   "refs": 1,
-  "en": ""
+  "en": "A sweet potato dug from a\nfield."
  },
  {
   "id": "item:0271:04",
   "jp": "魚介類",
   "refs": 1,
-  "en": ""
+  "en": "Seafood"
  },
  {
   "id": "item:0271:0c",
   "jp": "新鮮な魚や貝などの魚介類。\n生のままでも食べられる。",
   "refs": 1,
-  "en": ""
+  "en": "Fresh fish, shellfish and\nother seafood. Can be eaten\nraw."
  },
  {
   "id": "item:0271:14",
   "jp": "50％の確率で悪寒になる",
   "refs": 1,
-  "en": ""
+  "en": "Causes Chills (50%)"
  },
  {
   "id": "item:0272:04",
   "jp": "ピザパン",
   "refs": 1,
-  "en": ""
+  "en": "Pizza Bread"
  },
  {
   "id": "item:0272:0c",
   "jp": "ピザ風味の総菜パン。",
   "refs": 1,
-  "en": ""
+  "en": "Pizza-flavored savory bread."
  },
  {
   "id": "item:0272:10",
   "jp": "HP130回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 130 HP"
  },
  {
   "id": "item:0273:04",
   "jp": "コロッケパン",
   "refs": 1,
-  "en": ""
+  "en": "Croquette Bread"
  },
  {
   "id": "item:0273:0c",
   "jp": "パンにコロッケを挟んだ\n総菜パン。",
   "refs": 1,
-  "en": ""
+  "en": "A savory bread roll with a\ncroquette inside."
  },
  {
   "id": "item:0273:10",
   "jp": "HP65回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 65 HP"
  },
  {
   "id": "item:0274:04",
   "jp": "蛍草",
   "refs": 1,
-  "en": ""
+  "en": "Dayflower"
  },
  {
   "id": "item:0274:0c",
   "jp": "不思議な力を持った草。\n味は苦いが健康に良い。\n他のものと組み合わせると\n強力な薬膳効果がある。",
   "refs": 1,
-  "en": ""
+  "en": "A plant with mysterious\npower. Bitter but healthy.\nCombined with others, it\nmakes potent remedies."
  },
  {
   "id": "item:0275:04",
   "jp": "カレーガム",
   "refs": 1,
-  "en": ""
+  "en": "Curry Gum"
  },
  {
   "id": "item:0275:0c",
   "jp": "カレー味のガム。\n美味しくはない。",
   "refs": 1,
-  "en": ""
+  "en": "Curry-flavored gum. Not\ntasty."
  },
  {
   "id": "item:0275:10",
   "jp": "AP70回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 70 AP"
  },
  {
   "id": "item:0276:04",
   "jp": "木の実ミックス",
   "refs": 1,
-  "en": ""
+  "en": "Mixed Nuts"
  },
  {
   "id": "item:0276:0c",
   "jp": "動物の餌となる木の実。\n人が食べても美味しい。",
   "refs": 1,
-  "en": ""
+  "en": "Nuts that animals feed on.\nTasty for people too."
  },
  {
   "id": "item:0276:10",
   "jp": "瞬発力＋5",
   "refs": 1,
-  "en": ""
+  "en": "Reflexes+5"
  },
  {
   "id": "item:0277:04",
   "jp": "手作り弁当",
   "refs": 1,
-  "en": ""
+  "en": "Homemade Bento"
  },
  {
   "id": "item:0277:0c",
   "jp": "弥紀の手作りのお弁当。\n重箱に入っていて\n様々な料理が詰まっている。",
   "refs": 1,
-  "en": ""
+  "en": "A bento Minori made herself.\nA tiered box packed with all\nkinds of dishes."
  },
  {
   "id": "item:0277:10",
   "jp": "HP全回復",
   "refs": 1,
-  "en": ""
+  "en": "Fully restores HP"
  },
  {
   "id": "item:0278:04",
   "jp": "お手製おむすび",
   "refs": 1,
-  "en": ""
+  "en": "Handmade Onigiri"
  },
  {
   "id": "item:0278:0c",
   "jp": "鈴がお清め塩で\n一生懸命握った\nいびつなおむすび。",
   "refs": 1,
-  "en": ""
+  "en": "A lopsided rice ball Suzu\nshaped with all her might,\nusing purifying salt."
  },
  {
   "id": "item:0278:10",
   "jp": "精神力＋3",
   "refs": 1,
-  "en": ""
+  "en": "Willpower+3"
  },
  {
   "id": "item:0279:04",
   "jp": "アンモニア",
   "refs": 1,
-  "en": ""
+  "en": "Ammonia"
  },
  {
   "id": "item:0279:0c",
   "jp": "水によく溶ける\n刺激臭のする薬品。",
   "refs": 1,
-  "en": ""
+  "en": "A pungent chemical that\ndissolves easily in water."
  },
  {
   "id": "item:0280:04",
   "jp": "オキシドール",
   "refs": 1,
-  "en": ""
+  "en": "Peroxide"
  },
  {
   "id": "item:0280:0c",
   "jp": "過酸化水素とも呼ばれる\n殺菌消毒剤。",
   "refs": 1,
-  "en": ""
+  "en": "A disinfectant, also known\nas hydrogen peroxide."
  },
  {
   "id": "item:0281:04",
   "jp": "気つけ薬",
   "refs": 1,
-  "en": ""
+  "en": "Smelling Salts"
  },
  {
   "id": "item:0281:0c",
   "jp": "ものすごい匂いの薬。\n麻痺の治療効果がある。",
   "refs": 1,
-  "en": ""
+  "en": "Medicine with an incredible\nsmell. Cures paralysis."
  },
  {
   "id": "item:0281:10",
   "jp": "麻痺治療効果",
   "refs": 1,
-  "en": ""
+  "en": "Cures Paralysis"
  },
  {
   "id": "item:0282:04",
   "jp": "ソーダ水",
   "refs": 1,
-  "en": ""
+  "en": "Soda Water"
  },
  {
   "id": "item:0282:0c",
   "jp": "さわやかな味がする\nソーダ水。\n吐き気の治療効果がある。",
   "refs": 1,
-  "en": ""
+  "en": "Refreshing-tasting soda\nwater. Cures nausea."
  },
  {
   "id": "item:0282:10",
   "jp": "吐き気治療効果",
   "refs": 1,
-  "en": ""
+  "en": "Cures Nausea"
  },
  {
   "id": "item:0283:04",
   "jp": "保湿ティッシュ",
   "refs": 1,
-  "en": ""
+  "en": "Wet Tissues"
  },
  {
   "id": "item:0283:0c",
   "jp": "水分を含んだティッシュ。\n目潰しの治療効果がある。",
   "refs": 1,
-  "en": ""
+  "en": "Moist tissues. Cures\nblindness."
  },
  {
   "id": "item:0283:10",
   "jp": "目潰し治療効果",
   "refs": 1,
-  "en": ""
+  "en": "Cures Blind"
  },
  {
   "id": "item:0284:04",
   "jp": "入浴剤",
   "refs": 1,
-  "en": ""
+  "en": "Bath Salts"
  },
  {
   "id": "item:0284:0c",
   "jp": "リラックス効果のある\nお風呂に入れて使う薬。\n頭痛の治療効果がある。",
   "refs": 1,
-  "en": ""
+  "en": "A relaxing additive for your\nbath. Cures headaches."
  },
  {
   "id": "item:0284:10",
   "jp": "頭痛治療効果",
   "refs": 1,
-  "en": ""
+  "en": "Cures Headache"
  },
  {
   "id": "item:0285:04",
   "jp": "焼夷剤",
   "refs": 1,
-  "en": ""
+  "en": "Incendiary"
  },
  {
   "id": "item:0285:0c",
   "jp": "散布すると激しく燃える\n薬品を詰めた、とても\n危険な代物。",
   "refs": 1,
-  "en": ""
+  "en": "Filled with chemicals that\nburn fiercely when\nscattered. Very dangerous\nstuff."
  },
  {
   "id": "item:0285:10",
   "jp": "HPに100ダメージ",
   "refs": 1,
-  "en": ""
+  "en": "Deals 100 HP damage"
  },
  {
   "id": "item:0286:04",
   "jp": "虫刺され薬",
   "refs": 1,
-  "en": ""
+  "en": "Bug Bite Cream"
  },
  {
   "id": "item:0286:0c",
   "jp": "虫刺されに良く効く\n水性の塗り薬。",
   "refs": 1,
-  "en": ""
+  "en": "A water-based ointment that\nworks well on bug bites."
  },
  {
   "id": "item:0286:10",
   "jp": "30％の確率で麻痺を回復",
   "refs": 1,
-  "en": ""
+  "en": "Cures Paralysis (30%)"
  },
  {
   "id": "item:0287:04",
   "jp": "ギプス",
   "refs": 1,
-  "en": ""
+  "en": "Cast"
  },
  {
   "id": "item:0287:0c",
   "jp": "骨が折れた箇所を固定する\n治療器具。石膏が塗られた\n布を巻いて固める。",
   "refs": 1,
-  "en": ""
+  "en": "Holds a broken bone in\nplace. Made by wrapping and\nsetting plaster-coated\ncloth."
  },
  {
   "id": "item:0287:10",
   "jp": "骨折治療効果",
   "refs": 1,
-  "en": ""
+  "en": "Cures Fracture"
  },
  {
   "id": "item:0288:04",
   "jp": "発熱剤",
   "refs": 1,
-  "en": ""
+  "en": "Heating Agent"
  },
  {
   "id": "item:0288:0c",
   "jp": "石灰と水が反応すると\n熱が生まれるのを利用して\n食べ物などを暖める薬剤。",
   "refs": 1,
-  "en": ""
+  "en": "Warms food and such using\nthe heat from lime reacting\nwith water."
  },
  {
   "id": "item:0289:04",
   "jp": "保冷剤",
   "refs": 1,
-  "en": ""
+  "en": "Ice Pack"
  },
  {
   "id": "item:0289:0c",
   "jp": "ジェル状の物質が熱を奪って\n冷ましてくれる薬剤。\n捻挫の治療効果がある。",
   "refs": 1,
-  "en": ""
+  "en": "A gel that draws away heat\nto cool things down. Cures\nsprains."
  },
  {
   "id": "item:0289:10",
   "jp": "捻挫治療効果",
   "refs": 1,
-  "en": ""
+  "en": "Cures Sprain"
  },
  {
   "id": "item:0290:04",
   "jp": "鈴",
   "refs": 1,
-  "en": ""
+  "en": "Bell"
  },
  {
   "id": "item:0290:0c",
   "jp": "清らかな音色を奏でる鈴。",
   "refs": 1,
-  "en": ""
+  "en": "A bell with a pure, clear\nring."
  },
  {
   "id": "item:0291:04",
   "jp": "地球儀",
   "refs": 1,
-  "en": ""
+  "en": "Globe"
  },
  {
   "id": "item:0291:0c",
   "jp": "いつ頃作られたのかも\n分からない、古い地球儀。",
   "refs": 1,
-  "en": ""
+  "en": "An old globe. No one knows\nwhen it was made."
  },
  {
   "id": "item:0292:04",
   "jp": "百科事典",
   "refs": 1,
-  "en": ""
+  "en": "Encyclopedia"
  },
  {
   "id": "item:0292:0c",
   "jp": "とても古い時代の百科事典。\n所々に見たことのない\n文字列が描かれている。",
   "refs": 1,
-  "en": ""
+  "en": "A very old encyclopedia.\nUnfamiliar strings of\nletters appear here and\nthere."
  },
  {
   "id": "item:0293:04",
   "jp": "暗幕",
   "refs": 1,
-  "en": ""
+  "en": "Blackout Curtain"
  },
  {
   "id": "item:0293:0c",
   "jp": "外からの光を遮るための\n黒い厚手のカーテン。",
   "refs": 1,
-  "en": ""
+  "en": "A thick black curtain that\nblocks out light from\noutside."
  },
  {
   "id": "item:0294:04",
   "jp": "トライアングル",
   "refs": 1,
-  "en": ""
+  "en": "Triangle"
  },
  {
   "id": "item:0294:0c",
   "jp": "吹奏楽部が使用する\nトライアングル。",
   "refs": 1,
-  "en": ""
+  "en": "A triangle used by the\nconcert band."
  },
  {
   "id": "item:0295:04",
   "jp": "国語辞典",
   "refs": 1,
-  "en": ""
+  "en": "Dictionary"
  },
  {
   "id": "item:0295:0c",
   "jp": "国語の授業で使う辞典。\n四角という単語が、誰かが\n描いた枠線で囲まれている。",
   "refs": 1,
-  "en": ""
+  "en": "A dictionary for Japanese\nclass. Someone drew a box\naround the word \"square.\""
  },
  {
   "id": "item:0296:04",
   "jp": "しめ縄",
   "refs": 1,
-  "en": ""
+  "en": "Shimenawa"
  },
  {
   "id": "item:0296:0c",
   "jp": "神社で張られている縄。\n境内の入り口と外とを\n隔絶させる結界に使われる。",
   "refs": 1,
-  "en": ""
+  "en": "A shrine's sacred rope. Used\nas a barrier sealing the\ngrounds off from outside."
  },
  {
   "id": "item:0297:04",
   "jp": "ピンセット",
   "refs": 1,
-  "en": ""
+  "en": "Tweezers"
  },
  {
   "id": "item:0297:0c",
   "jp": "実験や医療で使われる、\n小さなものをつまみ取る\nための道具。",
   "refs": 1,
-  "en": ""
+  "en": "A tool for picking up small\nthings, used in labs and\nmedicine."
  },
  {
   "id": "item:0298:04",
   "jp": "出席簿",
   "refs": 1,
-  "en": ""
+  "en": "Attendance Book"
  },
  {
   "id": "item:0298:0c",
   "jp": "生徒の出席をとるための\n紐綴じされた黒い帳簿。",
   "refs": 1,
-  "en": ""
+  "en": "A string-bound black ledger\nfor taking student\nattendance."
  },
  {
   "id": "item:0299:04",
   "jp": "赤線付き教科書",
   "refs": 1,
-  "en": ""
+  "en": "Marked Textbook"
  },
  {
   "id": "item:0299:0c",
   "jp": "授業で教師が使うために\n赤線を引いた教科書。",
   "refs": 1,
-  "en": ""
+  "en": "A textbook a teacher\nunderlined in red for use in\nclass."
  },
  {
   "id": "item:0300:04",
   "jp": "サッカーボール",
   "refs": 1,
-  "en": ""
+  "en": "Soccer Ball"
  },
  {
   "id": "item:0300:0c",
   "jp": "サッカーに使われる\n一般的な競技用ボール。",
   "refs": 1,
-  "en": ""
+  "en": "A standard ball used for\nplaying soccer."
  },
  {
   "id": "item:0301:04",
   "jp": "文庫本",
   "refs": 1,
-  "en": ""
+  "en": "Paperback"
  },
  {
   "id": "item:0301:0c",
   "jp": "図書館で貸し出していた\nＳＦ小説の文庫本。",
   "refs": 1,
-  "en": ""
+  "en": "A sci-fi paperback that was\nchecked out from the\nlibrary."
  },
  {
   "id": "item:0302:04",
   "jp": "蛍石",
   "refs": 1,
-  "en": ""
+  "en": "Fluorite"
  },
  {
   "id": "item:0302:0c",
   "jp": "フッ素が主な成分の石。\n夜に光る。",
   "refs": 1,
-  "en": ""
+  "en": "A stone made mainly of\nfluorine. Glows at night."
  },
  {
   "id": "item:0303:04",
   "jp": "コンクリート",
   "refs": 1,
-  "en": ""
+  "en": "Concrete"
  },
  {
   "id": "item:0303:0c",
   "jp": "砂、砂利などをセメントで\n凝固させた人造石。",
   "refs": 1,
-  "en": ""
+  "en": "Artificial stone of sand,\ngravel and such bound with\ncement."
  },
  {
   "id": "item:0304:04",
   "jp": "セメント",
   "refs": 1,
-  "en": ""
+  "en": "Cement"
  },
  {
   "id": "item:0304:0c",
   "jp": "美術で使われる\n工作用セメント。",
   "refs": 1,
-  "en": ""
+  "en": "Craft cement used in art\nclass."
  },
  {
   "id": "item:0305:04",
   "jp": "塩素",
   "refs": 1,
-  "en": ""
+  "en": "Chlorine"
  },
  {
   "id": "item:0305:0c",
   "jp": "プールに入れて消毒する\n固形の塩素剤。",
   "refs": 1,
-  "en": ""
+  "en": "Chlorine tablets added to\npools to disinfect them."
  },
  {
   "id": "item:0306:04",
   "jp": "粘土",
   "refs": 1,
-  "en": ""
+  "en": "Clay"
  },
  {
   "id": "item:0306:0c",
   "jp": "図画工作や焼き物を\n作るための粘土。",
   "refs": 1,
-  "en": ""
+  "en": "Clay for arts and crafts or\npottery."
  },
  {
   "id": "item:0307:04",
   "jp": "石灰",
   "refs": 1,
-  "en": ""
+  "en": "Lime"
  },
  {
   "id": "item:0307:0c",
   "jp": "グラウンドなどに\n白線を引くのに使う粉。",
   "refs": 1,
-  "en": ""
+  "en": "Powder used to draw white\nlines on sports fields."
  },
  {
   "id": "item:0308:04",
   "jp": "合成樹脂",
   "refs": 1,
-  "en": ""
+  "en": "Synthetic Resin"
  },
  {
   "id": "item:0308:0c",
   "jp": "工作などに使われる\n充填剤。加熱すると固まる。",
   "refs": 1,
-  "en": ""
+  "en": "A filler used in crafts and\nsuch. Hardens when heated."
  },
  {
   "id": "item:0309:04",
   "jp": "木炭",
   "refs": 1,
-  "en": ""
+  "en": "Charcoal"
  },
  {
   "id": "item:0309:0c",
   "jp": "木を燃やして作った炭。\n燃料に使ったり、脱臭剤\nなど色々な用途がある。",
   "refs": 1,
-  "en": ""
+  "en": "Fuel made by burning wood.\nAlso used as a deodorizer,\namong other uses."
  },
  {
   "id": "item:0310:04",
   "jp": "輪ゴム",
   "refs": 1,
-  "en": ""
+  "en": "Rubber Band"
  },
  {
   "id": "item:0310:0c",
   "jp": "物を束ねるのに使われる\nどこにでもある輪ゴム。",
   "refs": 1,
-  "en": ""
+  "en": "An everyday rubber band for\nbundling things."
  },
  {
   "id": "item:0311:04",
   "jp": "砂",
   "refs": 1,
-  "en": ""
+  "en": "Sand"
  },
  {
   "id": "item:0311:0c",
   "jp": "どこにでもあるただの砂。",
   "refs": 1,
-  "en": ""
+  "en": "Just ordinary sand."
  },
  {
   "id": "item:0312:04",
   "jp": "重曹",
   "refs": 1,
-  "en": ""
+  "en": "Baking Soda"
  },
  {
   "id": "item:0312:0c",
   "jp": "料理などに使われる\nベーキングパウダー。",
   "refs": 1,
-  "en": ""
+  "en": "Baking powder used in\ncooking and such."
  },
  {
   "id": "item:0313:04",
   "jp": "木の棒",
   "refs": 1,
-  "en": ""
+  "en": "Stick"
  },
  {
   "id": "item:0313:0c",
   "jp": "何の変哲もない木の枝。",
   "refs": 1,
-  "en": ""
+  "en": "A perfectly ordinary tree\nbranch."
  },
  {
   "id": "item:0314:04",
   "jp": "ティッシュ",
   "refs": 1,
-  "en": ""
+  "en": "Tissues"
  },
  {
   "id": "item:0314:0c",
   "jp": "街中で配られている\nポケットティッシュ。",
   "refs": 1,
-  "en": ""
+  "en": "Pocket tissues handed out on\nthe street."
  },
  {
   "id": "item:0315:04",
   "jp": "シャープ芯",
   "refs": 1,
-  "en": ""
+  "en": "Pencil Lead"
  },
  {
   "id": "item:0315:0c",
   "jp": "ＨＢのシャープペンシルの\n芯が入ったケース。",
   "refs": 1,
-  "en": ""
+  "en": "A case of HB mechanical\npencil lead."
  },
  {
   "id": "item:0316:04",
   "jp": "Ａ４用紙",
   "refs": 1,
-  "en": ""
+  "en": "A4 Paper"
  },
  {
   "id": "item:0316:0c",
   "jp": "Ａ４サイズの\nコピー用紙の束。",
   "refs": 1,
-  "en": ""
+  "en": "A stack of A4-size copy\npaper."
  },
  {
   "id": "item:0317:04",
   "jp": "経典",
   "refs": 1,
-  "en": ""
+  "en": "Sutra"
  },
  {
   "id": "item:0317:0c",
   "jp": "釈迦が説いた教えを\n記録した書。",
   "refs": 1,
-  "en": ""
+  "en": "A text recording the\nBuddha's teachings."
  },
  {
   "id": "item:0317:10",
   "jp": "生物＋1　国語－1",
   "refs": 1,
-  "en": ""
+  "en": "Biology+1 Japanese-1"
  },
  {
   "id": "item:0317:14",
   "jp": "携行中、学科値が変化する。",
   "refs": 20,
-  "en": ""
+  "en": "Alters subjects while held"
  },
  {
   "id": "item:0318:04",
   "jp": "拍子木",
   "refs": 1,
-  "en": ""
+  "en": "Wooden Clappers"
  },
  {
   "id": "item:0318:0c",
   "jp": "拍子を取るために四角い\n木の棒を打ち鳴らす道具。",
   "refs": 1,
-  "en": ""
+  "en": "Square wooden sticks struck\ntogether to keep the beat."
  },
  {
   "id": "item:0318:10",
   "jp": "生物＋1　数学－1",
   "refs": 1,
-  "en": ""
+  "en": "Biology+1 Math-1"
  },
  {
   "id": "item:0319:04",
   "jp": "太陽の石",
   "refs": 1,
-  "en": ""
+  "en": "Sun Stone"
  },
  {
   "id": "item:0319:0c",
   "jp": "古代アステカ王朝が作った\nマヤ歴が刻まれた\nカレンダーストーン。",
   "refs": 1,
-  "en": ""
+  "en": "A calendar stone made by the\nancient Aztecs, carved with\nthe Mayan calendar."
  },
  {
   "id": "item:0319:10",
   "jp": "生物＋2",
   "refs": 1,
-  "en": ""
+  "en": "Biology+2"
  },
  {
   "id": "item:0320:04",
   "jp": "磬子",
   "refs": 1,
-  "en": ""
+  "en": "Singing Bowl"
  },
  {
   "id": "item:0320:0c",
   "jp": "読経のときに鳴らす\n銅製のお椀状の仏具。",
   "refs": 1,
-  "en": ""
+  "en": "A bronze, bowl-shaped\nBuddhist bell struck while\nchanting sutras."
  },
  {
   "id": "item:0320:10",
   "jp": "生物＋1　保健－1",
   "refs": 1,
-  "en": ""
+  "en": "Biology+1 Health-1"
  },
  {
   "id": "item:0321:04",
   "jp": "形代",
   "refs": 1,
-  "en": ""
+  "en": "Katashiro"
  },
  {
   "id": "item:0321:0c",
   "jp": "人型の紙で作られた\n神霊が依り憑く依り代。",
   "refs": 1,
-  "en": ""
+  "en": "A human-shaped paper vessel\nfor gods and spirits to\ndwell in."
  },
  {
   "id": "item:0321:10",
   "jp": "国語＋1　数学－1",
   "refs": 1,
-  "en": ""
+  "en": "Japanese+1 Math-1"
  },
  {
   "id": "item:0322:04",
   "jp": "陰陽霊符",
   "refs": 1,
-  "en": ""
+  "en": "Onmyo Talisman"
  },
  {
   "id": "item:0322:0c",
   "jp": "祝詞が書いてある\n霊的な力が込もった符。\n要のお手製。",
   "refs": 1,
-  "en": ""
+  "en": "A spiritually charged\ntalisman inscribed with a\nnorito prayer. Kaname's\nhandiwork."
  },
  {
   "id": "item:0322:10",
   "jp": "生物＋1",
   "refs": 1,
-  "en": ""
+  "en": "Biology+1"
  },
  {
   "id": "item:0323:04",
   "jp": "大幣",
   "refs": 1,
-  "en": ""
+  "en": "Onusa"
  },
  {
   "id": "item:0323:0c",
   "jp": "神道の祭祀において\n祓に使う道具の一つ。\n榊の枝の先に紙垂を\nつけたもの。",
   "refs": 1,
-  "en": ""
+  "en": "A Shinto ritual tool for\npurification: a sakaki\nbranch tipped with paper\nstreamers."
  },
  {
   "id": "item:0323:10",
   "jp": "数学＋2　外国語－2",
   "refs": 1,
-  "en": ""
+  "en": "Math+2 Languages-2"
  },
  {
   "id": "item:0324:04",
   "jp": "小さい藁人形",
   "refs": 1,
-  "en": ""
+  "en": "Small Straw Doll"
  },
  {
   "id": "item:0324:0c",
   "jp": "輪が首に下げている\n御守り代わりの\n手作り藁人形。",
   "refs": 1,
-  "en": ""
+  "en": "A handmade straw doll Rin\nwears on a cord as a\ngood-luck charm."
  },
  {
   "id": "item:0324:10",
   "jp": "国語＋2",
   "refs": 1,
-  "en": ""
+  "en": "Japanese+2"
  },
  {
   "id": "item:0325:04",
   "jp": "画図百鬼夜行",
   "refs": 1,
-  "en": ""
+  "en": "Hyakki Yagyo"
  },
  {
   "id": "item:0325:0c",
   "jp": "数々の妖怪が描かれた\n鳥山石燕の妖怪画集。",
   "refs": 1,
-  "en": ""
+  "en": "Toriyama Sekien's\nillustrated book of\ncountless yokai."
  },
  {
   "id": "item:0325:10",
   "jp": "数学＋2　現代社会－1",
   "refs": 1,
-  "en": ""
+  "en": "Math+2 Social Studies-1"
  },
  {
   "id": "item:0326:04",
   "jp": "式盤",
   "refs": 1,
-  "en": ""
+  "en": "Divination Board"
  },
  {
   "id": "item:0326:0c",
   "jp": "陰陽師が式占を行うために\n使っていた計算用の器具。\n干支などが刻まれている。",
   "refs": 1,
-  "en": ""
+  "en": "A calculating device onmyoji\nused for divination, carved\nwith the zodiac."
  },
  {
   "id": "item:0326:10",
@@ -5829,13 +5829,13 @@
   "id": "item:0327:04",
   "jp": "巫女鈴",
   "refs": 1,
-  "en": ""
+  "en": "Miko Bell"
  },
  {
   "id": "item:0327:0c",
   "jp": "神楽舞を巫女が舞うときに\n手に持って鳴らす鈴。",
   "refs": 1,
-  "en": ""
+  "en": "A bell a shrine maiden holds\nand rings while dancing\nkagura."
  },
  {
   "id": "item:0327:10",
@@ -5847,13 +5847,13 @@
   "id": "item:0328:04",
   "jp": "木魚",
   "refs": 1,
-  "en": ""
+  "en": "Mokugyo"
  },
  {
   "id": "item:0328:0c",
   "jp": "読経をするときに\n打ち鳴らす木製の仏具。",
   "refs": 1,
-  "en": ""
+  "en": "A wooden Buddhist instrument\nstruck while chanting\nsutras."
  },
  {
   "id": "item:0328:10",
@@ -5865,288 +5865,288 @@
   "id": "item:0329:04",
   "jp": "占事略决",
   "refs": 1,
-  "en": ""
+  "en": "Senji Ryakketsu"
  },
  {
   "id": "item:0329:0c",
   "jp": "安倍晴明が記したという\n陰陽道に関する書物。\n様々な占術が載っている。",
   "refs": 1,
-  "en": ""
+  "en": "A book on Onmyodo said to be\nwritten by Abe no Seimei. It\nlists many divination arts."
  },
  {
   "id": "item:0329:10",
   "jp": "現代社会＋1　数学－1",
   "refs": 1,
-  "en": ""
+  "en": "Social Studies+1 Math-1"
  },
  {
   "id": "item:0330:04",
   "jp": "風鐸",
   "refs": 1,
-  "en": ""
+  "en": "Wind Bell"
  },
  {
   "id": "item:0330:0c",
   "jp": "仏堂や塔などの軒の四方に\nつり下げられている魔除け。",
   "refs": 1,
-  "en": ""
+  "en": "A ward against evil hung\nfrom the four eave corners\nof temple halls and pagodas."
  },
  {
   "id": "item:0330:10",
   "jp": "保健＋1　生物－1",
   "refs": 1,
-  "en": ""
+  "en": "Health+1 Biology-1"
  },
  {
   "id": "item:0331:04",
   "jp": "宝珠",
   "refs": 1,
-  "en": ""
+  "en": "Hoju Jewel"
  },
  {
   "id": "item:0331:0c",
   "jp": "仏教において様々な霊験を\n表すとされる珠。",
   "refs": 1,
-  "en": ""
+  "en": "A jewel said in Buddhism to\nembody many kinds of\nmiraculous power."
  },
  {
   "id": "item:0331:10",
   "jp": "保健＋2　体育－1",
   "refs": 1,
-  "en": ""
+  "en": "Health+2 P.E.-1"
  },
  {
   "id": "item:0332:04",
   "jp": "数珠",
   "refs": 1,
-  "en": ""
+  "en": "Prayer Beads"
  },
  {
   "id": "item:0332:0c",
   "jp": "数珠穴が貫通した多くの\n珠に糸の束を通して\n輪にした法具。",
   "refs": 1,
-  "en": ""
+  "en": "A ritual tool: many pierced\nbeads strung on a bundle of\nthreads to form a loop."
  },
  {
   "id": "item:0332:10",
   "jp": "保健＋1　数学＋1",
   "refs": 1,
-  "en": ""
+  "en": "Health+1 Math+1"
  },
  {
   "id": "item:0333:04",
   "jp": "蝋燭",
   "refs": 1,
-  "en": ""
+  "en": "Candle"
  },
  {
   "id": "item:0333:0c",
   "jp": "植物から採取した油を\n使用している和蝋燭。",
   "refs": 1,
-  "en": ""
+  "en": "A Japanese candle made with\noil taken from plants."
  },
  {
   "id": "item:0333:10",
   "jp": "生物＋2　保健－1",
   "refs": 1,
-  "en": ""
+  "en": "Biology+2 Health-1"
  },
  {
   "id": "item:0334:04",
   "jp": "石仏",
   "refs": 1,
-  "en": ""
+  "en": "Stone Buddha"
  },
  {
   "id": "item:0334:0c",
   "jp": "道祖神や地蔵などの\n石に彫られた仏像。",
   "refs": 1,
-  "en": ""
+  "en": "A Buddhist figure carved in\nstone, such as a roadside\nguardian or Jizo."
  },
  {
   "id": "item:0334:10",
   "jp": "数学＋2　国語＋1",
   "refs": 1,
-  "en": ""
+  "en": "Math+2 Japanese+1"
  },
  {
   "id": "item:0335:04",
   "jp": "勾玉",
   "refs": 1,
-  "en": ""
+  "en": "Magatama"
  },
  {
   "id": "item:0335:0c",
   "jp": "古代の日本における\n装身具の一つ。\nヒスイで出来ている。",
   "refs": 1,
-  "en": ""
+  "en": "A kind of ornament from\nancient Japan, made of jade."
  },
  {
   "id": "item:0335:10",
   "jp": "国語＋2　保健－1",
   "refs": 1,
-  "en": ""
+  "en": "Japanese+2 Health-1"
  },
  {
   "id": "item:0336:04",
   "jp": "柊鰯",
   "refs": 1,
-  "en": ""
+  "en": "Hiiragi Iwashi"
  },
  {
   "id": "item:0336:0c",
   "jp": "魔除けとして\n柊の小枝と焼いた鰯の頭を\n門口に挿したもの。",
   "refs": 1,
-  "en": ""
+  "en": "A holly sprig and a grilled\nsardine head, stuck in a\ndoorway to ward off evil."
  },
  {
   "id": "item:0336:10",
   "jp": "数学＋2　外国語－1",
   "refs": 1,
-  "en": ""
+  "en": "Math+2 Languages-1"
  },
  {
   "id": "item:0337:04",
   "jp": "花の香料",
   "refs": 1,
-  "en": ""
+  "en": "Potpourri"
  },
  {
   "id": "item:0337:0c",
   "jp": "ラベンダーの香りのする\n花弁を乾燥させた香料。",
   "refs": 1,
-  "en": ""
+  "en": "Dried petals with a lavender\nscent."
  },
  {
   "id": "item:0338:04",
   "jp": "呪いのカード",
   "refs": 1,
-  "en": ""
+  "en": "Curse Card"
  },
  {
   "id": "item:0338:0c",
   "jp": "手に入れたものには\n厄災が降りかかるという\n呪いのカード。",
   "refs": 1,
-  "en": ""
+  "en": "A cursed card said to bring\ndisaster upon whoever\nobtains it."
  },
  {
   "id": "item:0338:10",
   "jp": "？？？",
   "refs": 2,
-  "en": ""
+  "en": "???"
  },
  {
   "id": "item:0339:04",
   "jp": "柳に赤短",
   "refs": 1,
-  "en": ""
+  "en": "Willow Ribbon"
  },
  {
   "id": "item:0339:0c",
   "jp": "説明は出ない",
   "refs": 1,
-  "en": ""
+  "en": "No description shown."
  },
  {
   "id": "item:0339:10",
   "jp": "柳に赤短の花札",
   "refs": 1,
-  "en": ""
+  "en": "Willow Red Ribbon card"
  },
  {
   "id": "item:0340:04",
   "jp": "謎のＣＤ",
   "refs": 1,
-  "en": ""
+  "en": "Mystery CD"
  },
  {
   "id": "item:0340:0c",
   "jp": "古いＣＤ。\n題名は読み取ることが\nできない。",
   "refs": 1,
-  "en": ""
+  "en": "An old CD. Its title can't\nbe made out."
  },
  {
   "id": "item:0341:04",
   "jp": "けん玉",
   "refs": 1,
-  "en": ""
+  "en": "Kendama"
  },
  {
   "id": "item:0341:0c",
   "jp": "木でできた\n昔ながらのけん玉。",
   "refs": 1,
-  "en": ""
+  "en": "An old-fashioned wooden\nkendama."
  },
  {
   "id": "item:0341:10",
   "jp": "攻撃力270　消費ＡＰ15",
   "refs": 1,
-  "en": ""
+  "en": "Attack 270 AP Cost 15"
  },
  {
   "id": "item:0342:04",
   "jp": "天照光",
   "refs": 1,
-  "en": ""
+  "en": "Amaterasu Ray"
  },
  {
   "id": "item:0342:0c",
   "jp": "執行者の力を全解放\nする白札憑きの器物。\n神属性をもつ敵へ\n＋３００％のダメージ。",
   "refs": 1,
-  "en": ""
+  "en": "A vessel bearing the White\nCard that frees all the\nExecutor's power. Damage to\ndivine foes: +300%."
  },
  {
   "id": "item:0342:10",
   "jp": "攻撃力888　消費ＡＰ0",
   "refs": 1,
-  "en": ""
+  "en": "Attack 888 AP Cost 0"
  },
  {
   "id": "item:0342:14",
   "jp": "弾数10　再装填消費AP150",
   "refs": 1,
-  "en": ""
+  "en": "Shots 10, Reload 150 AP"
  },
  {
   "id": "item:0343:04",
   "jp": "天之瓊矛",
   "refs": 1,
-  "en": ""
+  "en": "Ame-no-Nuboko"
  },
  {
   "id": "item:0343:0c",
   "jp": "強大な隠人の残留情報が\n実体化し生み出された、\n天地創造の力を秘めた神槍。\n人が振るえば命を削られる。",
   "refs": 1,
-  "en": ""
+  "en": "A divine spear of creation,\nborn from a mighty Oni's\nresidual data. It eats the\nwielder's life."
  },
  {
   "id": "item:0343:10",
   "jp": "攻撃力888　消費ＡＰ8",
   "refs": 1,
-  "en": ""
+  "en": "Attack 888 AP Cost 8"
  },
  {
   "id": "item:0343:14",
   "jp": "自動回復無効",
   "refs": 1,
-  "en": ""
+  "en": "Disables Auto-Regen"
  },
  {
   "id": "item:0344:04",
   "jp": "天羽々矢",
   "refs": 1,
-  "en": ""
+  "en": "Ame-no-Habaya"
  },
  {
   "id": "item:0344:0c",
   "jp": "強大な隠人の残留情報が\n実体化し生み出された、\n邪を感じ取り射抜く神矢。",
   "refs": 1,
-  "en": ""
+  "en": "A divine arrow born when a\nmighty Oni's residual data\ntook form. It senses evil\nand pierces it."
  },
  {
   "id": "item:0344:14",
   "jp": "弾数1　再装填消費AP0",
   "refs": 1,
-  "en": ""
+  "en": "Shots 1, Reload 0 AP"
  }
 ]

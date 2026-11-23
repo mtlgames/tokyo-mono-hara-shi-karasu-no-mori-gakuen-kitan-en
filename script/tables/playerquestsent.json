@@ -177,504 +177,504 @@
   "id": "playerquestsent:0005:00",
   "jp": "不倶戴天の敵を",
   "refs": 1,
-  "en": ""
+  "en": "My sworn enemy"
  },
  {
   "id": "playerquestsent:0005:04",
   "jp": "案内するために",
   "refs": 1,
-  "en": ""
+  "en": "needs guiding, so"
  },
  {
   "id": "playerquestsent:0005:08",
   "jp": "全てを失っても",
   "refs": 1,
-  "en": ""
+  "en": "though I lose all,"
  },
  {
   "id": "playerquestsent:0005:0c",
   "jp": "～してくれないか。",
   "refs": 1,
-  "en": ""
+  "en": "can you do ~?"
  },
  {
   "id": "playerquestsent:0005:10",
   "jp": "倒してくれないか。",
   "refs": 1,
-  "en": ""
+  "en": "can you defeat it?"
  },
  {
   "id": "playerquestsent:0005:14",
   "jp": "作ってくれないか。",
   "refs": 1,
-  "en": ""
+  "en": "can you make it?"
  },
  {
   "id": "playerquestsent:0005:18",
   "jp": "祈ってくれないか。",
   "refs": 1,
-  "en": ""
+  "en": "can you pray?"
  },
  {
   "id": "playerquestsent:0006:00",
   "jp": "裏切り者を",
   "refs": 1,
-  "en": ""
+  "en": "The traitor"
  },
  {
   "id": "playerquestsent:0006:04",
   "jp": "出し抜くために",
   "refs": 1,
-  "en": ""
+  "en": "needs tricking, so"
  },
  {
   "id": "playerquestsent:0006:08",
   "jp": "危険を伴うが、",
   "refs": 1,
-  "en": ""
+  "en": "risky as it is,"
  },
  {
   "id": "playerquestsent:0006:0c",
   "jp": "～れ。",
   "refs": 1,
-  "en": ""
+  "en": "do ~."
  },
  {
   "id": "playerquestsent:0006:10",
   "jp": "倒せ。",
   "refs": 1,
-  "en": ""
+  "en": "defeat it."
  },
  {
   "id": "playerquestsent:0006:14",
   "jp": "作れ。",
   "refs": 1,
-  "en": ""
+  "en": "make it."
  },
  {
   "id": "playerquestsent:0006:18",
   "jp": "祈れ。",
   "refs": 1,
-  "en": ""
+  "en": "pray."
  },
  {
   "id": "playerquestsent:0007:00",
   "jp": "許しがたい怨敵を",
   "refs": 1,
-  "en": ""
+  "en": "My hated nemesis"
  },
  {
   "id": "playerquestsent:0007:04",
   "jp": "飲みに誘うために",
   "refs": 1,
-  "en": ""
+  "en": "needs a drink, so"
  },
  {
   "id": "playerquestsent:0007:08",
   "jp": "報酬は用意する、",
   "refs": 1,
-  "en": ""
+  "en": "you'll be paid,"
  },
  {
   "id": "playerquestsent:0007:0c",
   "jp": "～するのだ！",
   "refs": 1,
-  "en": ""
+  "en": "do ~, I say!"
  },
  {
   "id": "playerquestsent:0007:10",
   "jp": "倒すのだ！",
   "refs": 1,
-  "en": ""
+  "en": "defeat it, I say!"
  },
  {
   "id": "playerquestsent:0007:14",
   "jp": "作るのだ！",
   "refs": 1,
-  "en": ""
+  "en": "make it, I say!"
  },
  {
   "id": "playerquestsent:0007:18",
   "jp": "祈るのだ！",
   "refs": 1,
-  "en": ""
+  "en": "pray, I say!"
  },
  {
   "id": "playerquestsent:0008:00",
   "jp": "大恩ある師を",
   "refs": 1,
-  "en": ""
+  "en": "My revered mentor"
  },
  {
   "id": "playerquestsent:0008:04",
   "jp": "奮い立たせるために",
   "refs": 1,
-  "en": ""
+  "en": "needs rousing, so"
  },
  {
   "id": "playerquestsent:0008:08",
   "jp": "唯一の方法がある。",
   "refs": 1,
-  "en": ""
+  "en": "one way remains:"
  },
  {
   "id": "playerquestsent:0008:0c",
   "jp": "～したまえ。",
   "refs": 1,
-  "en": ""
+  "en": "kindly do ~."
  },
  {
   "id": "playerquestsent:0008:10",
   "jp": "倒したまえ。",
   "refs": 1,
-  "en": ""
+  "en": "kindly defeat it."
  },
  {
   "id": "playerquestsent:0008:14",
   "jp": "作りたまえ。",
   "refs": 1,
-  "en": ""
+  "en": "kindly make it."
  },
  {
   "id": "playerquestsent:0008:18",
   "jp": "祈りたまえ。",
   "refs": 1,
-  "en": ""
+  "en": "kindly pray."
  },
  {
   "id": "playerquestsent:0009:00",
   "jp": "ターゲットを",
   "refs": 1,
-  "en": ""
+  "en": "The target"
  },
  {
   "id": "playerquestsent:0009:04",
   "jp": "牽制するために",
   "refs": 1,
-  "en": ""
+  "en": "needs checking, so"
  },
  {
   "id": "playerquestsent:0009:08",
   "jp": "古文書に記された、",
   "refs": 1,
-  "en": ""
+  "en": "as old texts say,"
  },
  {
   "id": "playerquestsent:0009:0c",
   "jp": "～してくれよ、な？",
   "refs": 1,
-  "en": ""
+  "en": "do ~, yeah?"
  },
  {
   "id": "playerquestsent:0009:10",
   "jp": "倒してくれよ、な？",
   "refs": 1,
-  "en": ""
+  "en": "defeat it, yeah?"
  },
  {
   "id": "playerquestsent:0009:14",
   "jp": "作ってくれよ、な？",
   "refs": 1,
-  "en": ""
+  "en": "make it, yeah?"
  },
  {
   "id": "playerquestsent:0009:18",
   "jp": "祈ってくれよ、な？",
   "refs": 1,
-  "en": ""
+  "en": "pray, yeah?"
  },
  {
   "id": "playerquestsent:0010:00",
   "jp": "好事家連中を",
   "refs": 1,
-  "en": ""
+  "en": "The collectors"
  },
  {
   "id": "playerquestsent:0010:04",
   "jp": "慌てさせるために",
   "refs": 1,
-  "en": ""
+  "en": "need rattling, so"
  },
  {
   "id": "playerquestsent:0010:08",
   "jp": "誰にも内緒で",
   "refs": 1,
-  "en": ""
+  "en": "in all secrecy,"
  },
  {
   "id": "playerquestsent:0010:0c",
   "jp": "～して頂きたく候。",
   "refs": 1,
-  "en": ""
+  "en": "do ~, I beg."
  },
  {
   "id": "playerquestsent:0010:10",
   "jp": "倒して頂きたく候。",
   "refs": 1,
-  "en": ""
+  "en": "defeat it, I beg."
  },
  {
   "id": "playerquestsent:0010:14",
   "jp": "作って頂きたく候。",
   "refs": 1,
-  "en": ""
+  "en": "make it, I beg."
  },
  {
   "id": "playerquestsent:0010:18",
   "jp": "祈って頂きたく候。",
   "refs": 1,
-  "en": ""
+  "en": "pray, I beg."
  },
  {
   "id": "playerquestsent:0011:00",
   "jp": "未熟な自分を",
   "refs": 1,
-  "en": ""
+  "en": "Inexperienced me"
  },
  {
   "id": "playerquestsent:0011:04",
   "jp": "激怒させるために",
   "refs": 1,
-  "en": ""
+  "en": "needs enraging, so"
  },
  {
   "id": "playerquestsent:0011:08",
   "jp": "力を貸してほしい、",
   "refs": 1,
-  "en": ""
+  "en": "lend me strength,"
  },
  {
   "id": "playerquestsent:0011:0c",
   "jp": "～してもらいたい。",
   "refs": 1,
-  "en": ""
+  "en": "I want ~ done."
  },
  {
   "id": "playerquestsent:0011:10",
   "jp": "倒してもらいたい。",
   "refs": 1,
-  "en": ""
+  "en": "I want it beaten."
  },
  {
   "id": "playerquestsent:0011:14",
   "jp": "作ってもらいたい。",
   "refs": 1,
-  "en": ""
+  "en": "I want it made."
  },
  {
   "id": "playerquestsent:0011:18",
   "jp": "祈ってもらいたい。",
   "refs": 1,
-  "en": ""
+  "en": "I'd like a prayer."
  },
  {
   "id": "playerquestsent:0012:00",
   "jp": "可愛がってる猫を",
   "refs": 1,
-  "en": ""
+  "en": "My beloved cat"
  },
  {
   "id": "playerquestsent:0012:04",
   "jp": "治療するために",
   "refs": 1,
-  "en": ""
+  "en": "needs treating, so"
  },
  {
   "id": "playerquestsent:0012:08",
   "jp": "慎重に考えたが、",
   "refs": 1,
-  "en": ""
+  "en": "I've thought hard:"
  },
  {
   "id": "playerquestsent:0012:0c",
   "jp": "～なさい。",
   "refs": 1,
-  "en": ""
+  "en": "now do ~."
  },
  {
   "id": "playerquestsent:0012:10",
   "jp": "倒しなさい。",
   "refs": 1,
-  "en": ""
+  "en": "now defeat it."
  },
  {
   "id": "playerquestsent:0012:14",
   "jp": "作りなさい。",
   "refs": 1,
-  "en": ""
+  "en": "now make it."
  },
  {
   "id": "playerquestsent:0012:18",
   "jp": "祈りなさい。",
   "refs": 1,
-  "en": ""
+  "en": "now pray."
  },
  {
   "id": "playerquestsent:0013:00",
   "jp": "我らが信奉する神を",
   "refs": 1,
-  "en": ""
+  "en": "The god we worship"
  },
  {
   "id": "playerquestsent:0013:04",
   "jp": "解放するために",
   "refs": 1,
-  "en": ""
+  "en": "needs freeing, so"
  },
  {
   "id": "playerquestsent:0013:08",
   "jp": "多くは語れないが、",
   "refs": 1,
-  "en": ""
+  "en": "I can't say much,"
  },
  {
   "id": "playerquestsent:0013:0c",
   "jp": "～してくれぇー！",
   "refs": 1,
-  "en": ""
+  "en": "do ~, pleeease!"
  },
  {
   "id": "playerquestsent:0013:10",
   "jp": "倒してくれぇー！",
   "refs": 1,
-  "en": ""
+  "en": "defeat it, pleeez!"
  },
  {
   "id": "playerquestsent:0013:14",
   "jp": "作ってくれぇー！",
   "refs": 1,
-  "en": ""
+  "en": "make it, pleeease!"
  },
  {
   "id": "playerquestsent:0013:18",
   "jp": "祈ってくれぇー！",
   "refs": 1,
-  "en": ""
+  "en": "pray, pleeeeease!"
  },
  {
   "id": "playerquestsent:0014:00",
   "jp": "取り憑かれた女を",
   "refs": 1,
-  "en": ""
+  "en": "A possessed woman"
  },
  {
   "id": "playerquestsent:0014:04",
   "jp": "羨ましがらせるのに",
   "refs": 1,
-  "en": ""
+  "en": "needs to envy, so"
  },
  {
   "id": "playerquestsent:0014:08",
   "jp": "手っ取り早く",
   "refs": 1,
-  "en": ""
+  "en": "real quick,"
  },
  {
   "id": "playerquestsent:0014:0c",
   "jp": "～してくれ、頼む！",
   "refs": 1,
-  "en": ""
+  "en": "do ~, I'm begging!"
  },
  {
   "id": "playerquestsent:0014:10",
   "jp": "倒してくれ、頼む！",
   "refs": 1,
-  "en": ""
+  "en": "defeat it, please!"
  },
  {
   "id": "playerquestsent:0014:14",
   "jp": "作ってくれ、頼む！",
   "refs": 1,
-  "en": ""
+  "en": "make it, please!"
  },
  {
   "id": "playerquestsent:0014:18",
   "jp": "祈ってくれ、頼む！",
   "refs": 1,
-  "en": ""
+  "en": "pray, please!"
  },
  {
   "id": "playerquestsent:0015:00",
   "jp": "人質に取られた女を",
   "refs": 1,
-  "en": ""
+  "en": "A hostage woman"
  },
  {
   "id": "playerquestsent:0015:04",
   "jp": "紹介する手土産に",
   "refs": 1,
-  "en": ""
+  "en": "needs a gift, so"
  },
  {
   "id": "playerquestsent:0015:08",
   "jp": "リスクはあるが、",
   "refs": 1,
-  "en": ""
+  "en": "there's risk, but"
  },
  {
   "id": "playerquestsent:0015:0c",
   "jp": "～して…くれ…。",
   "refs": 1,
-  "en": ""
+  "en": "do... ~..."
  },
  {
   "id": "playerquestsent:0015:10",
   "jp": "倒して…くれ…。",
   "refs": 1,
-  "en": ""
+  "en": "defeat... it..."
  },
  {
   "id": "playerquestsent:0015:14",
   "jp": "作って…くれ…。",
   "refs": 1,
-  "en": ""
+  "en": "make... it..."
  },
  {
   "id": "playerquestsent:0015:18",
   "jp": "祈って…くれ…。",
   "refs": 1,
-  "en": ""
+  "en": "pray... for me..."
  },
  {
   "id": "playerquestsent:0016:00",
   "jp": "俺を付け狙う刺客を",
   "refs": 1,
-  "en": ""
+  "en": "My stalking hitman"
  },
  {
   "id": "playerquestsent:0016:04",
   "jp": "世間に放逐するのに",
   "refs": 1,
-  "en": ""
+  "en": "needs exposing, so"
  },
  {
   "id": "playerquestsent:0016:08",
   "jp": "不可欠な要素、",
   "refs": 1,
-  "en": ""
+  "en": "a vital step,"
  },
  {
   "id": "playerquestsent:0016:0c",
   "jp": "～してほしいのさ…",
   "refs": 1,
-  "en": ""
+  "en": "do ~, see..."
  },
  {
   "id": "playerquestsent:0016:10",
   "jp": "倒してほしいのさ…",
   "refs": 1,
-  "en": ""
+  "en": "defeat it, see..."
  },
  {
   "id": "playerquestsent:0016:14",
   "jp": "作ってほしいのさ…",
   "refs": 1,
-  "en": ""
+  "en": "make it, see..."
  },
  {
   "id": "playerquestsent:0016:18",
   "jp": "祈ってほしいのさ…",
   "refs": 1,
-  "en": ""
+  "en": "pray, see..."
  }
 ]

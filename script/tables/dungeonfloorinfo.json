@@ -3,1374 +3,1374 @@
   "id": "dungeonfloorinfo:0000:00",
   "jp": "演習区画１",
   "refs": 1,
-  "en": ""
+  "en": "Drill Block 1"
  },
  {
   "id": "dungeonfloorinfo:0001:00",
   "jp": "演習区画２",
   "refs": 1,
-  "en": ""
+  "en": "Drill Block 2"
  },
  {
   "id": "dungeonfloorinfo:0002:00",
   "jp": "演習区画通路",
   "refs": 1,
-  "en": ""
+  "en": "Drill Corridor"
  },
  {
   "id": "dungeonfloorinfo:0003:00",
   "jp": "演習区画３",
   "refs": 1,
-  "en": ""
+  "en": "Drill Block 3"
  },
  {
   "id": "dungeonfloorinfo:0004:00",
   "jp": "演習区画４",
   "refs": 1,
-  "en": ""
+  "en": "Drill Block 4"
  },
  {
   "id": "dungeonfloorinfo:0005:00",
   "jp": "演習区画５",
   "refs": 1,
-  "en": ""
+  "en": "Drill Block 5"
  },
  {
   "id": "dungeonfloorinfo:0006:00",
   "jp": "隠者の間",
   "refs": 1,
-  "en": ""
+  "en": "Hermit's Room"
  },
  {
   "id": "dungeonfloorinfo:0007:00",
   "jp": "演習区画６",
   "refs": 1,
-  "en": ""
+  "en": "Drill Block 6"
  },
  {
   "id": "dungeonfloorinfo:0008:00",
   "jp": "演習区画７",
   "refs": 1,
-  "en": ""
+  "en": "Drill Block 7"
  },
  {
   "id": "dungeonfloorinfo:0009:00",
   "jp": "秋の洞最上層",
   "refs": 1,
-  "en": ""
+  "en": "Autumn Top"
  },
  {
   "id": "dungeonfloorinfo:0010:00",
   "jp": "開史の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Origins"
  },
  {
   "id": "dungeonfloorinfo:0011:00",
   "jp": "狩猟の間",
   "refs": 1,
-  "en": ""
+  "en": "Hunting Room"
  },
  {
   "id": "dungeonfloorinfo:0012:00",
   "jp": "遊動の間",
   "refs": 1,
-  "en": ""
+  "en": "Nomad Room"
  },
  {
   "id": "dungeonfloorinfo:0013:00",
   "jp": "貝塚の間",
   "refs": 1,
-  "en": ""
+  "en": "Shell Mound Room"
  },
  {
   "id": "dungeonfloorinfo:0014:00",
   "jp": "集落の間",
   "refs": 1,
-  "en": ""
+  "en": "Village Room"
  },
  {
   "id": "dungeonfloorinfo:0015:00",
   "jp": "祭壇の間",
   "refs": 1,
-  "en": ""
+  "en": "Altar Room"
  },
  {
   "id": "dungeonfloorinfo:0016:00",
   "jp": "遺跡の間",
   "refs": 1,
-  "en": ""
+  "en": "Ruins Room"
  },
  {
   "id": "dungeonfloorinfo:0017:00",
   "jp": "人龍の間",
   "refs": 9,
-  "en": ""
+  "en": "Man-Dragon Room"
  },
  {
   "id": "dungeonfloorinfo:0018:00",
   "jp": "血族の間",
   "refs": 1,
-  "en": ""
+  "en": "Kindred Room"
  },
  {
   "id": "dungeonfloorinfo:0019:00",
   "jp": "伝来の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Arrival"
  },
  {
   "id": "dungeonfloorinfo:0020:00",
   "jp": "豊土の間",
   "refs": 1,
-  "en": ""
+  "en": "Rich Soil Room"
  },
  {
   "id": "dungeonfloorinfo:0021:00",
   "jp": "引水の間",
   "refs": 1,
-  "en": ""
+  "en": "Irrigation Room"
  },
  {
   "id": "dungeonfloorinfo:0022:00",
   "jp": "収穫の間",
   "refs": 1,
-  "en": ""
+  "en": "Harvest Room"
  },
  {
   "id": "dungeonfloorinfo:0023:00",
   "jp": "貴者の間",
   "refs": 1,
-  "en": ""
+  "en": "Noble Room"
  },
  {
   "id": "dungeonfloorinfo:0024:00",
   "jp": "富の間",
   "refs": 1,
-  "en": ""
+  "en": "Wealth Room"
  },
  {
   "id": "dungeonfloorinfo:0025:00",
   "jp": "倭国の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Wa"
  },
  {
   "id": "dungeonfloorinfo:0026:00",
   "jp": "大乱の間",
   "refs": 1,
-  "en": ""
+  "en": "Great War Room"
  },
  {
   "id": "dungeonfloorinfo:0027:00",
   "jp": "倭王の間",
   "refs": 1,
-  "en": ""
+  "en": "King of Wa Room"
  },
  {
   "id": "dungeonfloorinfo:0028:00",
   "jp": "親魏の間",
   "refs": 1,
-  "en": ""
+  "en": "Wei Ally Room"
  },
  {
   "id": "dungeonfloorinfo:0029:00",
   "jp": "大和の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Yamato"
  },
  {
   "id": "dungeonfloorinfo:0031:00",
   "jp": "英傑の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Heroes"
  },
  {
   "id": "dungeonfloorinfo:0032:00",
   "jp": "王墓の間",
   "refs": 1,
-  "en": ""
+  "en": "Royal Tomb Room"
  },
  {
   "id": "dungeonfloorinfo:0033:00",
   "jp": "拝殿の間",
   "refs": 1,
-  "en": ""
+  "en": "Oratory Room"
  },
  {
   "id": "dungeonfloorinfo:0034:00",
   "jp": "祈雨の間",
   "refs": 1,
-  "en": ""
+  "en": "Rain Prayer Room"
  },
  {
   "id": "dungeonfloorinfo:0035:00",
   "jp": "夷術の間",
   "refs": 1,
-  "en": ""
+  "en": "Savage Arts Room"
  },
  {
   "id": "dungeonfloorinfo:0036:00",
   "jp": "卜占の間",
   "refs": 1,
-  "en": ""
+  "en": "Divination Room"
  },
  {
   "id": "dungeonfloorinfo:0037:00",
   "jp": "熊襲の間",
   "refs": 1,
-  "en": ""
+  "en": "Kumaso Room"
  },
  {
   "id": "dungeonfloorinfo:0038:00",
   "jp": "迎え火の間",
   "refs": 1,
-  "en": ""
+  "en": "Counterfire Room"
  },
  {
   "id": "dungeonfloorinfo:0039:00",
   "jp": "弟橘の路",
   "refs": 1,
-  "en": ""
+  "en": "Ototachibana Way"
  },
  {
   "id": "dungeonfloorinfo:0040:00",
   "jp": "白鳥の間",
   "refs": 1,
-  "en": ""
+  "en": "White Bird Room"
  },
  {
   "id": "dungeonfloorinfo:0041:00",
   "jp": "渡海の路",
   "refs": 1,
-  "en": ""
+  "en": "Sea Crossing Way"
  },
  {
   "id": "dungeonfloorinfo:0042:00",
   "jp": "新羅の間",
   "refs": 1,
-  "en": ""
+  "en": "Silla Room"
  },
  {
   "id": "dungeonfloorinfo:0043:00",
   "jp": "王権の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Kingship"
  },
  {
   "id": "dungeonfloorinfo:0044:00",
   "jp": "納棺の間",
   "refs": 1,
-  "en": ""
+  "en": "Coffin Room"
  },
  {
   "id": "dungeonfloorinfo:0045:00",
   "jp": "生口の間",
   "refs": 1,
-  "en": ""
+  "en": "Captive Room"
  },
  {
   "id": "dungeonfloorinfo:0046:00",
   "jp": "昇魂の間",
   "refs": 1,
-  "en": ""
+  "en": "Soul Rise Room"
  },
  {
   "id": "dungeonfloorinfo:0047:00",
   "jp": "殉葬の間",
   "refs": 1,
-  "en": ""
+  "en": "Sacrifice Room"
  },
  {
   "id": "dungeonfloorinfo:0048:00",
   "jp": "穢れの間",
   "refs": 1,
-  "en": ""
+  "en": "Impurity Room"
  },
  {
   "id": "dungeonfloorinfo:0049:00",
   "jp": "祓の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Cleansing"
  },
  {
   "id": "dungeonfloorinfo:0050:00",
   "jp": "春の洞最上層",
   "refs": 1,
-  "en": ""
+  "en": "Spring Top"
  },
  {
   "id": "dungeonfloorinfo:0051:00",
   "jp": "統一の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Unity"
  },
  {
   "id": "dungeonfloorinfo:0052:00",
   "jp": "飛鳥の間",
   "refs": 1,
-  "en": ""
+  "en": "Asuka Room"
  },
  {
   "id": "dungeonfloorinfo:0053:00",
   "jp": "豊聡耳の路",
   "refs": 1,
-  "en": ""
+  "en": "Toyotomimi Way"
  },
  {
   "id": "dungeonfloorinfo:0054:00",
   "jp": "御業の間",
   "refs": 1,
-  "en": ""
+  "en": "Holy Work Room"
  },
  {
   "id": "dungeonfloorinfo:0055:00",
   "jp": "鬼部の間",
   "refs": 1,
-  "en": ""
+  "en": "Demon Clan Room"
  },
  {
   "id": "dungeonfloorinfo:0056:00",
   "jp": "徳目の間",
   "refs": 1,
-  "en": ""
+  "en": "Virtues Room"
  },
  {
   "id": "dungeonfloorinfo:0057:00",
   "jp": "改新の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Reform"
  },
  {
   "id": "dungeonfloorinfo:0058:00",
   "jp": "板蓋の間",
   "refs": 1,
-  "en": ""
+  "en": "Itabuki Room"
  },
  {
   "id": "dungeonfloorinfo:0059:00",
   "jp": "大津の間",
   "refs": 1,
-  "en": ""
+  "en": "Otsu Room"
  },
  {
   "id": "dungeonfloorinfo:0060:00",
   "jp": "飛虎の路",
   "refs": 1,
-  "en": ""
+  "en": "Flying Tiger Way"
  },
  {
   "id": "dungeonfloorinfo:0061:00",
   "jp": "不破の間",
   "refs": 1,
-  "en": ""
+  "en": "Fuwa Room"
  },
  {
   "id": "dungeonfloorinfo:0062:00",
   "jp": "額田王の間",
   "refs": 1,
-  "en": ""
+  "en": "Nukata Room"
  },
  {
   "id": "dungeonfloorinfo:0063:00",
   "jp": "遷都の路",
   "refs": 1,
-  "en": ""
+  "en": "New Capital Way"
  },
  {
   "id": "dungeonfloorinfo:0065:00",
   "jp": "青龍大の路",
   "refs": 1,
-  "en": ""
+  "en": "Azure Dragon Way"
  },
  {
   "id": "dungeonfloorinfo:0066:00",
   "jp": "令の間",
   "refs": 1,
-  "en": ""
+  "en": "Civil Code Room"
  },
  {
   "id": "dungeonfloorinfo:0067:00",
   "jp": "律の間",
   "refs": 1,
-  "en": ""
+  "en": "Penal Code Room"
  },
  {
   "id": "dungeonfloorinfo:0068:00",
   "jp": "正倉院の間",
   "refs": 1,
-  "en": ""
+  "en": "Shosoin Room"
  },
  {
   "id": "dungeonfloorinfo:0069:00",
   "jp": "書記の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Records"
  },
  {
   "id": "dungeonfloorinfo:0070:00",
   "jp": "制定の間",
   "refs": 1,
-  "en": ""
+  "en": "Enactment Room"
  },
  {
   "id": "dungeonfloorinfo:0071:00",
   "jp": "朱雀の間",
   "refs": 1,
-  "en": ""
+  "en": "Suzaku Room"
  },
  {
   "id": "dungeonfloorinfo:0072:00",
   "jp": "興福の間",
   "refs": 1,
-  "en": ""
+  "en": "Kofuku Room"
  },
  {
   "id": "dungeonfloorinfo:0073:00",
   "jp": "藤原の間",
   "refs": 1,
-  "en": ""
+  "en": "Fujiwara Room"
  },
  {
   "id": "dungeonfloorinfo:0074:00",
   "jp": "長屋王の間",
   "refs": 1,
-  "en": ""
+  "en": "Nagaya Room"
  },
  {
   "id": "dungeonfloorinfo:0075:00",
   "jp": "広嗣の間",
   "refs": 1,
-  "en": ""
+  "en": "Hirotsugu Room"
  },
  {
   "id": "dungeonfloorinfo:0076:00",
   "jp": "遷都の間",
   "refs": 1,
-  "en": ""
+  "en": "New Capital Room"
  },
  {
   "id": "dungeonfloorinfo:0078:00",
   "jp": "羅生の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Rasho"
  },
  {
   "id": "dungeonfloorinfo:0079:00",
   "jp": "平安の間",
   "refs": 1,
-  "en": ""
+  "en": "Heian Room"
  },
  {
   "id": "dungeonfloorinfo:0080:00",
   "jp": "排斥の間",
   "refs": 1,
-  "en": ""
+  "en": "Expulsion Room"
  },
  {
   "id": "dungeonfloorinfo:0081:00",
   "jp": "加持祈祷の間",
   "refs": 1,
-  "en": ""
+  "en": "Incantation Room"
  },
  {
   "id": "dungeonfloorinfo:0082:00",
   "jp": "応天門の間",
   "refs": 1,
-  "en": ""
+  "en": "Otenmon Room"
  },
  {
   "id": "dungeonfloorinfo:0083:00",
   "jp": "平慶の間",
   "refs": 1,
-  "en": ""
+  "en": "Tengyo Room"
  },
  {
   "id": "dungeonfloorinfo:0084:00",
   "jp": "前九年の間",
   "refs": 1,
-  "en": ""
+  "en": "Zenkunen Room"
  },
  {
   "id": "dungeonfloorinfo:0085:00",
   "jp": "鬼切部の間",
   "refs": 1,
-  "en": ""
+  "en": "Onikiribe Room"
  },
  {
   "id": "dungeonfloorinfo:0086:00",
   "jp": "阿久利川の間",
   "refs": 1,
-  "en": ""
+  "en": "Akurigawa Room"
  },
  {
   "id": "dungeonfloorinfo:0087:00",
   "jp": "多賀城の間",
   "refs": 1,
-  "en": ""
+  "en": "Tagajo Room"
  },
  {
   "id": "dungeonfloorinfo:0088:00",
   "jp": "畔野営の間",
   "refs": 1,
-  "en": ""
+  "en": "Shore Camp Room"
  },
  {
   "id": "dungeonfloorinfo:0089:00",
   "jp": "黄海の間",
   "refs": 1,
-  "en": ""
+  "en": "Kinomi Room"
  },
  {
   "id": "dungeonfloorinfo:0090:00",
   "jp": "金沢の路",
   "refs": 1,
-  "en": ""
+  "en": "Kanezawa Way"
  },
  {
   "id": "dungeonfloorinfo:0092:00",
   "jp": "北方坊の路",
   "refs": 1,
-  "en": ""
+  "en": "North Lodge Way"
  },
  {
   "id": "dungeonfloorinfo:0093:00",
   "jp": "後三年の間",
   "refs": 1,
-  "en": ""
+  "en": "Gosannen Room"
  },
  {
   "id": "dungeonfloorinfo:0094:00",
   "jp": "大杯の間",
   "refs": 1,
-  "en": ""
+  "en": "Great Cup Room"
  },
  {
   "id": "dungeonfloorinfo:0095:00",
   "jp": "出羽国の間",
   "refs": 1,
-  "en": ""
+  "en": "Dewa Room"
  },
  {
   "id": "dungeonfloorinfo:0096:00",
   "jp": "国司の間",
   "refs": 1,
-  "en": ""
+  "en": "Governor Room"
  },
  {
   "id": "dungeonfloorinfo:0097:00",
   "jp": "敗走の間",
   "refs": 1,
-  "en": ""
+  "en": "Retreat Room"
  },
  {
   "id": "dungeonfloorinfo:0098:00",
   "jp": "秀武の間",
   "refs": 1,
-  "en": ""
+  "en": "Hidetake Room"
  },
  {
   "id": "dungeonfloorinfo:0099:00",
   "jp": "源義家の間",
   "refs": 1,
-  "en": ""
+  "en": "Yoshiie Room"
  },
  {
   "id": "dungeonfloorinfo:0100:00",
   "jp": "金沢柵の間",
   "refs": 1,
-  "en": ""
+  "en": "Kanezawa Fort"
  },
  {
   "id": "dungeonfloorinfo:0101:00",
   "jp": "以仁王の間",
   "refs": 1,
-  "en": ""
+  "en": "Mochihito Room"
  },
  {
   "id": "dungeonfloorinfo:0102:00",
   "jp": "石橋の路",
   "refs": 1,
-  "en": ""
+  "en": "Ishibashi Way"
  },
  {
   "id": "dungeonfloorinfo:0103:00",
   "jp": "富士川の間",
   "refs": 1,
-  "en": ""
+  "en": "Fujigawa Room"
  },
  {
   "id": "dungeonfloorinfo:0104:00",
   "jp": "墨俣川の間",
   "refs": 1,
-  "en": ""
+  "en": "Sunomata Room"
  },
  {
   "id": "dungeonfloorinfo:0105:00",
   "jp": "養和の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Yowa"
  },
  {
   "id": "dungeonfloorinfo:0106:00",
   "jp": "政変の間",
   "refs": 1,
-  "en": ""
+  "en": "Coup Room"
  },
  {
   "id": "dungeonfloorinfo:0107:00",
   "jp": "駒王の間",
   "refs": 1,
-  "en": ""
+  "en": "Komao Room"
  },
  {
   "id": "dungeonfloorinfo:0108:00",
   "jp": "地獄谷の間",
   "refs": 1,
-  "en": ""
+  "en": "Hell Valley Room"
  },
  {
   "id": "dungeonfloorinfo:0109:00",
   "jp": "橘の間",
   "refs": 1,
-  "en": ""
+  "en": "Tachibana Room"
  },
  {
   "id": "dungeonfloorinfo:0110:00",
   "jp": "挙兵の間",
   "refs": 1,
-  "en": ""
+  "en": "Uprising Room"
  },
  {
   "id": "dungeonfloorinfo:0111:00",
   "jp": "上洛の路",
   "refs": 1,
-  "en": ""
+  "en": "Way to Kyoto"
  },
  {
   "id": "dungeonfloorinfo:0112:00",
   "jp": "平安末期ボスの間",
   "refs": 1,
-  "en": ""
+  "en": "Late Heian Boss"
  },
  {
   "id": "dungeonfloorinfo:0113:00",
   "jp": "冬の洞最上層",
   "refs": 1,
-  "en": ""
+  "en": "Winter Top"
  },
  {
   "id": "dungeonfloorinfo:0114:00",
   "jp": "判官の間",
   "refs": 1,
-  "en": ""
+  "en": "Hogan Room"
  },
  {
   "id": "dungeonfloorinfo:0115:00",
   "jp": "武功の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Valor"
  },
  {
   "id": "dungeonfloorinfo:0116:00",
   "jp": "東洞の間",
   "refs": 1,
-  "en": ""
+  "en": "East Hollow Room"
  },
  {
   "id": "dungeonfloorinfo:0117:00",
   "jp": "一ノ谷の間",
   "refs": 1,
-  "en": ""
+  "en": "Ichinotani Room"
  },
  {
   "id": "dungeonfloorinfo:0118:00",
   "jp": "壇ノ浦の間",
   "refs": 1,
-  "en": ""
+  "en": "Dan-no-ura Room"
  },
  {
   "id": "dungeonfloorinfo:0119:00",
   "jp": "大橋の間",
   "refs": 1,
-  "en": ""
+  "en": "Ohashi Room"
  },
  {
   "id": "dungeonfloorinfo:0120:00",
   "jp": "奥州の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Oshu"
  },
  {
   "id": "dungeonfloorinfo:0121:00",
   "jp": "三口の間",
   "refs": 1,
-  "en": ""
+  "en": "Mikuchi Room"
  },
  {
   "id": "dungeonfloorinfo:0122:00",
   "jp": "亀割りの間",
   "refs": 1,
-  "en": ""
+  "en": "Kamewari Room"
  },
  {
   "id": "dungeonfloorinfo:0123:00",
   "jp": "如意渡の間",
   "refs": 1,
-  "en": ""
+  "en": "Nyoi Ferry Room"
  },
  {
   "id": "dungeonfloorinfo:0124:00",
   "jp": "衣川の間",
   "refs": 1,
-  "en": ""
+  "en": "Koromogawa Room"
  },
  {
   "id": "dungeonfloorinfo:0125:00",
   "jp": "竜飛の路",
   "refs": 1,
-  "en": ""
+  "en": "Tappi Way"
  },
  {
   "id": "dungeonfloorinfo:0127:00",
   "jp": "うつけの路",
   "refs": 1,
-  "en": ""
+  "en": "Way of the Fool"
  },
  {
   "id": "dungeonfloorinfo:0128:00",
   "jp": "合戦の間",
   "refs": 1,
-  "en": ""
+  "en": "Battle Room"
  },
  {
   "id": "dungeonfloorinfo:0129:00",
   "jp": "桶狭間の間",
   "refs": 1,
-  "en": ""
+  "en": "Okehazama Room"
  },
  {
   "id": "dungeonfloorinfo:0130:00",
   "jp": "敗将の間",
   "refs": 1,
-  "en": ""
+  "en": "Fallen Lord Room"
  },
  {
   "id": "dungeonfloorinfo:0131:00",
   "jp": "略取の間",
   "refs": 1,
-  "en": ""
+  "en": "Seizure Room"
  },
  {
   "id": "dungeonfloorinfo:0132:00",
   "jp": "金ヶ崎の間",
   "refs": 1,
-  "en": ""
+  "en": "Kanegasaki Room"
  },
  {
   "id": "dungeonfloorinfo:0133:00",
   "jp": "退き口の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Retreat"
  },
  {
   "id": "dungeonfloorinfo:0134:00",
   "jp": "姉川の間",
   "refs": 1,
-  "en": ""
+  "en": "Anegawa Room"
  },
  {
   "id": "dungeonfloorinfo:0135:00",
   "jp": "長篠の間",
   "refs": 1,
-  "en": ""
+  "en": "Nagashino Room"
  },
  {
   "id": "dungeonfloorinfo:0136:00",
   "jp": "手取川の間",
   "refs": 1,
-  "en": ""
+  "en": "Tedorigawa Room"
  },
  {
   "id": "dungeonfloorinfo:0137:00",
   "jp": "本能寺の間",
   "refs": 1,
-  "en": ""
+  "en": "Honnoji Room"
  },
  {
   "id": "dungeonfloorinfo:0138:00",
   "jp": "覇王の路",
   "refs": 1,
-  "en": ""
+  "en": "Overlord Way"
  },
  {
   "id": "dungeonfloorinfo:0140:00",
   "jp": "乱世の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Chaos"
  },
  {
   "id": "dungeonfloorinfo:0141:00",
   "jp": "覇者の間",
   "refs": 1,
-  "en": ""
+  "en": "Conqueror Room"
  },
  {
   "id": "dungeonfloorinfo:0142:00",
   "jp": "安土の間",
   "refs": 1,
-  "en": ""
+  "en": "Azuchi Room"
  },
  {
   "id": "dungeonfloorinfo:0143:00",
   "jp": "伊賀の間",
   "refs": 1,
-  "en": ""
+  "en": "Iga Room"
  },
  {
   "id": "dungeonfloorinfo:0144:00",
   "jp": "調略の間",
   "refs": 1,
-  "en": ""
+  "en": "Scheming Room"
  },
  {
   "id": "dungeonfloorinfo:0145:00",
   "jp": "大老の間",
   "refs": 1,
-  "en": ""
+  "en": "Grand Elder Room"
  },
  {
   "id": "dungeonfloorinfo:0146:00",
   "jp": "政争の間",
   "refs": 1,
-  "en": ""
+  "en": "Intrigue Room"
  },
  {
   "id": "dungeonfloorinfo:0147:00",
   "jp": "比興の間",
   "refs": 1,
-  "en": ""
+  "en": "Cunning Room"
  },
  {
   "id": "dungeonfloorinfo:0148:00",
   "jp": "讒言の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Slander"
  },
  {
   "id": "dungeonfloorinfo:0149:00",
   "jp": "評定の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Council"
  },
  {
   "id": "dungeonfloorinfo:0150:00",
   "jp": "関ヶ原の間",
   "refs": 1,
-  "en": ""
+  "en": "Sekigahara Room"
  },
  {
   "id": "dungeonfloorinfo:0151:00",
   "jp": "将軍の路",
   "refs": 1,
-  "en": ""
+  "en": "Shogun's Way"
  },
  {
   "id": "dungeonfloorinfo:0152:00",
   "jp": "雑兵の間",
   "refs": 1,
-  "en": ""
+  "en": "Footmen Room"
  },
  {
   "id": "dungeonfloorinfo:0153:00",
   "jp": "攻城の間",
   "refs": 1,
-  "en": ""
+  "en": "Siege Room"
  },
  {
   "id": "dungeonfloorinfo:0154:00",
   "jp": "干殺の間",
   "refs": 1,
-  "en": ""
+  "en": "Starvation Room"
  },
  {
   "id": "dungeonfloorinfo:0155:00",
   "jp": "大返しの間",
   "refs": 1,
-  "en": ""
+  "en": "Great Return"
  },
  {
   "id": "dungeonfloorinfo:0156:00",
   "jp": "賎ヶ岳の間",
   "refs": 1,
-  "en": ""
+  "en": "Shizugatake Room"
  },
  {
   "id": "dungeonfloorinfo:0157:00",
   "jp": "太閤の間",
   "refs": 1,
-  "en": ""
+  "en": "Taiko Room"
  },
  {
   "id": "dungeonfloorinfo:0158:00",
   "jp": "天下人の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of the Ruler"
  },
  {
   "id": "dungeonfloorinfo:0159:00",
   "jp": "夏の洞最上層",
   "refs": 1,
-  "en": ""
+  "en": "Summer Top"
  },
  {
   "id": "dungeonfloorinfo:0160:00",
   "jp": "泰平の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Peace"
  },
  {
   "id": "dungeonfloorinfo:0161:00",
   "jp": "梵鐘の間",
   "refs": 1,
-  "en": ""
+  "en": "Temple Bell Room"
  },
  {
   "id": "dungeonfloorinfo:0162:00",
   "jp": "難波の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Naniwa"
  },
  {
   "id": "dungeonfloorinfo:0163:00",
   "jp": "出城の間",
   "refs": 1,
-  "en": ""
+  "en": "Outpost Room"
  },
  {
   "id": "dungeonfloorinfo:0164:00",
   "jp": "和議の間",
   "refs": 1,
-  "en": ""
+  "en": "Peace Talks Room"
  },
  {
   "id": "dungeonfloorinfo:0165:00",
   "jp": "有楽の間",
   "refs": 1,
-  "en": ""
+  "en": "Uraku Room"
  },
  {
   "id": "dungeonfloorinfo:0166:00",
   "jp": "強兵の間",
   "refs": 1,
-  "en": ""
+  "en": "Elite Troop Room"
  },
  {
   "id": "dungeonfloorinfo:0167:00",
   "jp": "真田の間",
   "refs": 1,
-  "en": ""
+  "en": "Sanada Room"
  },
  {
   "id": "dungeonfloorinfo:0168:00",
   "jp": "神童の間",
   "refs": 1,
-  "en": ""
+  "en": "Prodigy Room"
  },
  {
   "id": "dungeonfloorinfo:0169:00",
   "jp": "間者の間",
   "refs": 1,
-  "en": ""
+  "en": "Spy Room"
  },
  {
   "id": "dungeonfloorinfo:0170:00",
   "jp": "神徒の間",
   "refs": 1,
-  "en": ""
+  "en": "Believer Room"
  },
  {
   "id": "dungeonfloorinfo:0171:00",
   "jp": "鎖の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Chains"
  },
  {
   "id": "dungeonfloorinfo:0172:00",
   "jp": "叛骨の間",
   "refs": 1,
-  "en": ""
+  "en": "Rebel Room"
  },
  {
   "id": "dungeonfloorinfo:0173:00",
   "jp": "義賊の間",
   "refs": 1,
-  "en": ""
+  "en": "Noble Thief Room"
  },
  {
   "id": "dungeonfloorinfo:0174:00",
   "jp": "義士の間",
   "refs": 1,
-  "en": ""
+  "en": "Loyalist Room"
  },
  {
   "id": "dungeonfloorinfo:0176:00",
   "jp": "幕末の路",
   "refs": 1,
-  "en": ""
+  "en": "Late Edo Way"
  },
  {
   "id": "dungeonfloorinfo:0177:00",
   "jp": "開国の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Opening"
  },
  {
   "id": "dungeonfloorinfo:0178:00",
   "jp": "強国の間",
   "refs": 1,
-  "en": ""
+  "en": "Great Power Room"
  },
  {
   "id": "dungeonfloorinfo:0179:00",
   "jp": "畏怖の間",
   "refs": 1,
-  "en": ""
+  "en": "Awe Room"
  },
  {
   "id": "dungeonfloorinfo:0180:00",
   "jp": "大獄の間",
   "refs": 1,
-  "en": ""
+  "en": "Purge Room"
  },
  {
   "id": "dungeonfloorinfo:0181:00",
   "jp": "条約の間",
   "refs": 1,
-  "en": ""
+  "en": "Treaty Room"
  },
  {
   "id": "dungeonfloorinfo:0182:00",
   "jp": "混迷の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Turmoil"
  },
  {
   "id": "dungeonfloorinfo:0183:00",
   "jp": "動乱の間",
   "refs": 1,
-  "en": ""
+  "en": "Upheaval Room"
  },
  {
   "id": "dungeonfloorinfo:0184:00",
   "jp": "天誅の間",
   "refs": 1,
-  "en": ""
+  "en": "Tenchu Room"
  },
  {
   "id": "dungeonfloorinfo:0185:00",
   "jp": "都落ちの路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Flight"
  },
  {
   "id": "dungeonfloorinfo:0186:00",
   "jp": "禁門の間",
   "refs": 1,
-  "en": ""
+  "en": "Kinmon Room"
  },
  {
   "id": "dungeonfloorinfo:0187:00",
   "jp": "同盟の間",
   "refs": 1,
-  "en": ""
+  "en": "Alliance Room"
  },
  {
   "id": "dungeonfloorinfo:0188:00",
   "jp": "奉還の間",
   "refs": 1,
-  "en": ""
+  "en": "Return Room"
  },
  {
   "id": "dungeonfloorinfo:0189:00",
   "jp": "密勅の間",
   "refs": 1,
-  "en": ""
+  "en": "Secret Edict"
  },
  {
   "id": "dungeonfloorinfo:0190:00",
   "jp": "御旗の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Banners"
  },
  {
   "id": "dungeonfloorinfo:0191:00",
   "jp": "死闘の間",
   "refs": 1,
-  "en": ""
+  "en": "Death Match Room"
  },
  {
   "id": "dungeonfloorinfo:0192:00",
   "jp": "維新の路",
   "refs": 1,
-  "en": ""
+  "en": "Restoration Way"
  },
  {
   "id": "dungeonfloorinfo:0193:00",
   "jp": "無血の間",
   "refs": 1,
-  "en": ""
+  "en": "Bloodless Room"
  },
  {
   "id": "dungeonfloorinfo:0194:00",
   "jp": "開城の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Surrender"
  },
  {
   "id": "dungeonfloorinfo:0196:00",
   "jp": "官軍の路",
   "refs": 1,
-  "en": ""
+  "en": "Imperial Way"
  },
  {
   "id": "dungeonfloorinfo:0197:00",
   "jp": "開化の間",
   "refs": 1,
-  "en": ""
+  "en": "Civilizing Room"
  },
  {
   "id": "dungeonfloorinfo:0198:00",
   "jp": "隠棲の間",
   "refs": 1,
-  "en": ""
+  "en": "Seclusion Room"
  },
  {
   "id": "dungeonfloorinfo:0199:00",
   "jp": "士魂の間",
   "refs": 1,
-  "en": ""
+  "en": "Samurai Soul"
  },
  {
   "id": "dungeonfloorinfo:0200:00",
   "jp": "西郷洞の間",
   "refs": 1,
-  "en": ""
+  "en": "Saigo Cave Room"
  },
  {
   "id": "dungeonfloorinfo:0201:00",
   "jp": "博愛の間",
   "refs": 1,
-  "en": ""
+  "en": "Charity Room"
  },
  {
   "id": "dungeonfloorinfo:0202:00",
   "jp": "脱亜の間",
   "refs": 1,
-  "en": ""
+  "en": "Leave Asia Room"
  },
  {
   "id": "dungeonfloorinfo:0203:00",
   "jp": "帝国の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Empire"
  },
  {
   "id": "dungeonfloorinfo:0204:00",
   "jp": "格差の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Disparity"
  },
  {
   "id": "dungeonfloorinfo:0205:00",
   "jp": "暗深の間",
   "refs": 1,
-  "en": ""
+  "en": "Dark Depths Room"
  },
  {
   "id": "dungeonfloorinfo:0206:00",
   "jp": "皇統の間",
   "refs": 1,
-  "en": ""
+  "en": "Imperial Line"
  },
  {
   "id": "dungeonfloorinfo:0207:00",
   "jp": "義和の間",
   "refs": 1,
-  "en": ""
+  "en": "Boxer Room"
  },
  {
   "id": "dungeonfloorinfo:0208:00",
   "jp": "激化の間",
   "refs": 1,
-  "en": ""
+  "en": "Escalation Room"
  },
  {
   "id": "dungeonfloorinfo:0209:00",
   "jp": "汚毒の間",
   "refs": 1,
-  "en": ""
+  "en": "Pollution Room"
  },
  {
   "id": "dungeonfloorinfo:0210:00",
   "jp": "思想の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Ideas"
  },
  {
   "id": "dungeonfloorinfo:0211:00",
   "jp": "入穴の間",
   "refs": 1,
-  "en": ""
+  "en": "Entry Pit Room"
  },
  {
   "id": "dungeonfloorinfo:0212:00",
   "jp": "降龍の間",
   "refs": 1,
-  "en": ""
+  "en": "Dragon Descent"
  },
  {
   "id": "dungeonfloorinfo:0213:00",
   "jp": "深淵の間",
   "refs": 1,
-  "en": ""
+  "en": "Abyss Room"
  },
  {
   "id": "dungeonfloorinfo:0214:00",
   "jp": "太気の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Great Ki"
  },
  {
   "id": "dungeonfloorinfo:0215:00",
   "jp": "水月の間",
   "refs": 1,
-  "en": ""
+  "en": "Water Moon Room"
  },
  {
   "id": "dungeonfloorinfo:0216:00",
   "jp": "忌避の路",
   "refs": 1,
-  "en": ""
+  "en": "Way of Avoidance"
  },
  {
   "id": "dungeonfloorinfo:0217:00",
   "jp": "獣華の間",
   "refs": 1,
-  "en": ""
+  "en": "Beast Bloom Room"
  },
  {
   "id": "dungeonfloorinfo:0218:00",
   "jp": "集気の路",
   "refs": 1,
-  "en": ""
+  "en": "Ki Gathering Way"
  },
  {
   "id": "dungeonfloorinfo:0219:00",
   "jp": "鹿呪の間",
   "refs": 1,
-  "en": ""
+  "en": "Deer Curse Room"
  },
  {
   "id": "dungeonfloorinfo:0220:00",
   "jp": "猪呪の間",
   "refs": 1,
-  "en": ""
+  "en": "Boar Curse Room"
  },
  {
   "id": "dungeonfloorinfo:0221:00",
   "jp": "転送室",
   "refs": 1,
-  "en": ""
+  "en": "Transfer Room"
  },
  {
   "id": "dungeonfloorinfo:0222:00",
   "jp": "操舵室",
   "refs": 1,
-  "en": ""
+  "en": "Helm Room"
  },
  {
   "id": "dungeonfloorinfo:0223:00",
   "jp": "右舷路",
   "refs": 1,
-  "en": ""
+  "en": "Starboard Aisle"
  },
  {
   "id": "dungeonfloorinfo:0224:00",
   "jp": "情報室",
   "refs": 1,
-  "en": ""
+  "en": "Data Room"
  },
  {
   "id": "dungeonfloorinfo:0225:00",
   "jp": "左舷路",
   "refs": 1,
-  "en": ""
+  "en": "Port Aisle"
  },
  {
   "id": "dungeonfloorinfo:0226:00",
   "jp": "研究室",
   "refs": 1,
-  "en": ""
+  "en": "Laboratory"
  },
  {
   "id": "dungeonfloorinfo:0227:00",
   "jp": "保管室",
   "refs": 1,
-  "en": ""
+  "en": "Storage Room"
  },
  {
   "id": "dungeonfloorinfo:0228:00",
   "jp": "中央路",
   "refs": 1,
-  "en": ""
+  "en": "Central Aisle"
  },
  {
   "id": "dungeonfloorinfo:0229:00",
   "jp": "緩衝部",
   "refs": 1,
-  "en": ""
+  "en": "Buffer Zone"
  },
  {
   "id": "dungeonfloorinfo:0230:00",
   "jp": "連絡路",
   "refs": 1,
-  "en": ""
+  "en": "Link Passage"
  },
  {
   "id": "dungeonfloorinfo:0231:00",
   "jp": "機関室",
   "refs": 1,
-  "en": ""
+  "en": "Engine Room"
  },
  {
   "id": "dungeonfloorinfo:0232:00",
   "jp": "方舟ボスフロア",
   "refs": 1,
-  "en": ""
+  "en": "Ark Boss Floor"
  },
  {
   "id": "dungeonfloorinfo:0233:00",
   "jp": "禁龍の間",
   "refs": 1,
-  "en": ""
+  "en": "Dragon Ban Room"
  },
  {
   "id": "dungeonfloorinfo:0234:00",
   "jp": "封呪の間",
   "refs": 1,
-  "en": ""
+  "en": "Sealing Room"
  },
  {
   "id": "dungeonfloorinfo:0235:00",
   "jp": "退人の間",
   "refs": 1,
-  "en": ""
+  "en": "Banishing Room"
  },
  {
   "id": "dungeonfloorinfo:0236:00",
   "jp": "縛呪の間",
   "refs": 1,
-  "en": ""
+  "en": "Binding Room"
  }
 ]

@@ -3,115 +3,115 @@
   "id": "systemtext:0000:00",
   "jp": "使う",
   "refs": 5,
-  "en": ""
+  "en": "Use"
  },
  {
   "id": "systemtext:0001:00",
   "jp": "戻る",
   "refs": 7,
-  "en": ""
+  "en": "Back"
  },
  {
   "id": "systemtext:0002:00",
   "jp": "入手",
   "refs": 2,
-  "en": ""
+  "en": "Get"
  },
  {
   "id": "systemtext:0003:00",
   "jp": "決定",
   "refs": 5,
-  "en": ""
+  "en": "Confirm"
  },
  {
   "id": "systemtext:0005:00",
   "jp": "相関図",
   "refs": 2,
-  "en": ""
+  "en": "Relations"
  },
  {
   "id": "systemtext:0006:00",
   "jp": "探索",
   "refs": 2,
-  "en": ""
+  "en": "Explore"
  },
  {
   "id": "systemtext:0007:00",
   "jp": "自由移動終了",
   "refs": 1,
-  "en": ""
+  "en": "End Free Move"
  },
  {
   "id": "systemtext:0008:00",
   "jp": "移動",
   "refs": 3,
-  "en": ""
+  "en": "Move"
  },
  {
   "id": "systemtext:0009:00",
   "jp": "開ける",
   "refs": 1,
-  "en": ""
+  "en": "Open"
  },
  {
   "id": "systemtext:0010:00",
   "jp": "ジャンプ",
   "refs": 1,
-  "en": ""
+  "en": "Jump"
  },
  {
   "id": "systemtext:0011:00",
   "jp": "調べる",
   "refs": 1,
-  "en": ""
+  "en": "Examine"
  },
  {
   "id": "systemtext:0012:00",
   "jp": "札配置",
   "refs": 2,
-  "en": ""
+  "en": "Place Card"
  },
  {
   "id": "systemtext:0013:00",
   "jp": "秘法眼",
   "refs": 1,
-  "en": ""
+  "en": "Arcane Eye"
  },
  {
   "id": "systemtext:0014:00",
   "jp": "仲間スキル",
   "refs": 1,
-  "en": ""
+  "en": "Partner Skill"
  },
  {
   "id": "systemtext:0015:00",
   "jp": "リロード",
   "refs": 1,
-  "en": ""
+  "en": "Reload"
  },
  {
   "id": "systemtext:0016:00",
   "jp": "目標の変更",
   "refs": 1,
-  "en": ""
+  "en": "Change Target"
  },
  {
   "id": "systemtext:0018:00",
   "jp": "なし",
   "refs": 1,
-  "en": ""
+  "en": "None"
  },
  {
   "id": "systemtext:0019:00",
   "jp": "扉を開く",
   "refs": 1,
-  "en": ""
+  "en": "Open Door"
  },
  {
   "id": "systemtext:0020:00",
   "jp": "梯子を使う",
   "refs": 1,
-  "en": ""
+  "en": "Use Ladder"
  },
  {
   "id": "systemtext:0021:00",
@@ -1017,1801 +1017,1801 @@
   "id": "systemtext:0180:00",
   "jp": "お金が足りません。",
   "refs": 1,
-  "en": ""
+  "en": "You don't have enough money."
  },
  {
   "id": "systemtext:0181:00",
   "jp": "この組み合わせで調合します。\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Mix using this combination. Is that okay?"
  },
  {
   "id": "systemtext:0182:00",
   "jp": "札強化は探索準備中か\n洞探索中でのみ行えます。",
   "refs": 1,
-  "en": ""
+  "en": "Card enhancement can only be done while preparing\nfor or exploring the Hollow."
  },
  {
   "id": "systemtext:0183:00",
   "jp": "現在この札は配置中です。\n札配置画面で回収して下さい。",
   "refs": 1,
-  "en": ""
+  "en": "This card is currently placed. Retrieve it on the\ncard placement screen."
  },
  {
   "id": "systemtext:0184:00",
   "jp": "同じ武器を複数装備できません。",
   "refs": 1,
-  "en": ""
+  "en": "You can't equip more than one of the same weapon."
  },
  {
   "id": "systemtext:0185:00",
   "jp": "同じ武器を複数装備できません。\n変化前の武器と同じ武器を装備しています。",
   "refs": 1,
-  "en": ""
+  "en": "You can't equip more than one of the same weapon.\nYou already have the pre-change weapon equipped."
  },
  {
   "id": "systemtext:0186:00",
   "jp": "同じ武器を複数装備できません。\n選択中の武器の強化後と同じ武器を装備しています。",
   "refs": 1,
-  "en": ""
+  "en": "You can't equip more than one of the same weapon.\nYou already have the enhanced version of this\nweapon equipped."
  },
  {
   "id": "systemtext:0187:00",
   "jp": "名前がデフォルトネームから変更されています。\nふりがなを空欄のまま決定はできません。",
   "refs": 1,
-  "en": ""
+  "en": "The name has been changed from the default. The\nreading can't be left blank."
  },
  {
   "id": "systemtext:0188:00",
   "jp": "回収していないアイテムの中に\n破棄できないものが含まれています。\nアイテムを回収して下さい。",
   "refs": 1,
-  "en": ""
+  "en": "Some of the items you haven't collected can't be\ndiscarded. Please collect those items."
  },
  {
   "id": "systemtext:0189:00",
   "jp": "このアイテムは譲渡できません。",
   "refs": 1,
-  "en": ""
+  "en": "This item can't be given away."
  },
  {
   "id": "systemtext:0190:00",
   "jp": "この空きスロットは携行品に使われています。\n装備する場合、「%s」を\n自室に戻します。よろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "This empty slot is used by your pack. To equip\nhere, \"%s\" will go back to your room. Is that\nokay?"
  },
  {
   "id": "systemtext:0193:00",
   "jp": "外す",
   "refs": 1,
-  "en": ""
+  "en": "Remove"
  },
  {
   "id": "systemtext:0194:00",
   "jp": "入替",
   "refs": 1,
-  "en": ""
+  "en": "Swap"
  },
  {
   "id": "systemtext:0195:00",
   "jp": "追加",
   "refs": 1,
-  "en": ""
+  "en": "Add"
  },
  {
   "id": "systemtext:0197:00",
   "jp": "簡易",
   "refs": 1,
-  "en": ""
+  "en": "Simple"
  },
  {
   "id": "systemtext:0199:00",
   "jp": "一覧",
   "refs": 1,
-  "en": ""
+  "en": "List"
  },
  {
   "id": "systemtext:0203:00",
   "jp": "全て入手",
   "refs": 1,
-  "en": ""
+  "en": "Take All"
  },
  {
   "id": "systemtext:0204:00",
   "jp": "渡す",
   "refs": 1,
-  "en": ""
+  "en": "Give"
  },
  {
   "id": "systemtext:0205:00",
   "jp": "購入",
   "refs": 1,
-  "en": ""
+  "en": "Buy"
  },
  {
   "id": "systemtext:0206:00",
   "jp": "売却",
   "refs": 1,
-  "en": ""
+  "en": "Sell"
  },
  {
   "id": "systemtext:0207:00",
   "jp": "強化効果",
   "refs": 2,
-  "en": ""
+  "en": "Enhance Effect"
  },
  {
   "id": "systemtext:0208:00",
   "jp": "貴重品を見る",
   "refs": 1,
-  "en": ""
+  "en": "View Valuables"
  },
  {
   "id": "systemtext:0209:00",
   "jp": "分類切替",
   "refs": 1,
-  "en": ""
+  "en": "Switch Type"
  },
  {
   "id": "systemtext:0210:00",
   "jp": "武器効果",
   "refs": 1,
-  "en": ""
+  "en": "Weapon Effect"
  },
  {
   "id": "systemtext:0211:00",
   "jp": "防具効果",
   "refs": 1,
-  "en": ""
+  "en": "Armor Effect"
  },
  {
   "id": "systemtext:0212:00",
   "jp": "装備詳細",
   "refs": 1,
-  "en": ""
+  "en": "Gear Details"
  },
  {
   "id": "systemtext:0214:00",
   "jp": "メモリースティック⑫が見つかりません。\nこのゲームのセーブデータを保存するには\n416KB以上の空き容量が必要です。",
   "refs": 1,
-  "en": ""
+  "en": "No Memory Stick was found. Saving data for this\ngame requires at least 416KB of free space."
  },
  {
   "id": "systemtext:0215:00",
   "jp": "メモリースティック⑫の空き容量が不足しています。\nこのゲームのセーブデータを保存するには\n416KB以上の空き容量が必要です。",
   "refs": 1,
-  "en": ""
+  "en": "There is not enough free space on the Memory\nStick. Saving data for this game requires at\nleast 416KB of free space."
  },
  {
   "id": "systemtext:0216:00",
   "jp": "このままゲームを開始すると \nゲームデータをセーブできません。 \nこのままゲームを始めますか？",
   "refs": 1,
-  "en": ""
+  "en": "If you start the game now, you will not be able\nto save your game data. Start the game anyway?"
  },
  {
   "id": "systemtext:0217:00",
   "jp": "セーブ中です。\nメモリースティック⑫を抜かないでください。",
   "refs": 1,
-  "en": ""
+  "en": "Saving. Do not remove the Memory Stick."
  },
  {
   "id": "systemtext:0218:00",
   "jp": "セーブが完了しました。",
   "refs": 1,
-  "en": ""
+  "en": "Save complete."
  },
  {
   "id": "systemtext:0219:00",
   "jp": "ロード中です。\nメモリースティック⑫を抜かないでください。",
   "refs": 1,
-  "en": ""
+  "en": "Loading. Do not remove the Memory Stick."
  },
  {
   "id": "systemtext:0220:00",
   "jp": "ロードが完了しました。",
   "refs": 1,
-  "en": ""
+  "en": "Load complete."
  },
  {
   "id": "systemtext:0221:00",
   "jp": "削除中です。\nメモリースティック⑫を抜かないでください。",
   "refs": 1,
-  "en": ""
+  "en": "Deleting. Do not remove the Memory Stick."
  },
  {
   "id": "systemtext:0222:00",
   "jp": "削除が完了しました。",
   "refs": 1,
-  "en": ""
+  "en": "Delete complete."
  },
  {
   "id": "systemtext:0223:00",
   "jp": "メモリースティック⑫を確認しています。",
   "refs": 1,
-  "en": ""
+  "en": "Checking the Memory Stick."
  },
  {
   "id": "systemtext:0224:00",
   "jp": "メモリースティック⑫の空き容量が不足しています。\nこのゲームのセーブデータを保存するには416KB以上の\n空き容量が必要です。不要なデータを削除しますか？",
   "refs": 1,
-  "en": ""
+  "en": "There is not enough free space on the Memory\nStick. Saving data for this game requires at\nleast 416KB of free space. Delete unneeded data?"
  },
  {
   "id": "systemtext:0225:00",
   "jp": "本ゲームはオートセーブ機能に対応しています。",
   "refs": 1,
-  "en": ""
+  "en": "This game supports autosave."
  },
  {
   "id": "systemtext:0226:00",
   "jp": "オートセーブ中にはメモリースティック⑫\nアクセスランプが点滅するので、\nその間はメモリースティック⑫を抜いたり、\n本体の電源を切ったりしないで下さい。",
   "refs": 1,
-  "en": ""
+  "en": "The Memory Stick access lamp blinks while\nautosaving. During that time, do not remove the\nMemory Stick or turn off the power."
  },
  {
   "id": "systemtext:0227:00",
   "jp": "メモリースティック⑫をチェックしています。\nメモリースティック⑫を抜かないでください。",
   "refs": 1,
-  "en": ""
+  "en": "Checking the Memory Stick. Do not remove the\nMemory Stick."
  },
  {
   "id": "systemtext:0228:00",
   "jp": "自由行動：午前",
   "refs": 1,
-  "en": ""
+  "en": "Free Time: Morning"
  },
  {
   "id": "systemtext:0229:00",
   "jp": "自由行動：午後",
   "refs": 1,
-  "en": ""
+  "en": "Free Time: Afternoon"
  },
  {
   "id": "systemtext:0230:00",
   "jp": "インターバル",
   "refs": 1,
-  "en": ""
+  "en": "Interval"
  },
  {
   "id": "systemtext:0231:00",
   "jp": "プレイタイム",
   "refs": 1,
-  "en": ""
+  "en": "Play Time"
  },
  {
   "id": "systemtext:0232:00",
   "jp": "かな",
   "refs": 1,
-  "en": ""
+  "en": "Hiragana"
  },
  {
   "id": "systemtext:0233:00",
   "jp": "カナ",
   "refs": 1,
-  "en": ""
+  "en": "Katakana"
  },
  {
   "id": "systemtext:0234:00",
   "jp": "英数",
   "refs": 1,
-  "en": ""
+  "en": "ABC/123"
  },
  {
   "id": "systemtext:0235:00",
   "jp": "記号",
   "refs": 1,
-  "en": ""
+  "en": "Symbols"
  },
  {
   "id": "systemtext:0236:00",
   "jp": "△入力変更",
   "refs": 1,
-  "en": ""
+  "en": "Triangle: Mode"
  },
  {
   "id": "systemtext:0237:00",
   "jp": "□変換",
   "refs": 1,
-  "en": ""
+  "en": "Square: Convert"
  },
  {
   "id": "systemtext:0238:00",
   "jp": "Ｌ移動",
   "refs": 1,
-  "en": ""
+  "en": "L: Move"
  },
  {
   "id": "systemtext:0239:00",
   "jp": "←",
   "refs": 1,
-  "en": ""
+  "en": "<-"
  },
  {
   "id": "systemtext:0240:00",
   "jp": "Ｒ移動",
   "refs": 1,
-  "en": ""
+  "en": "R: Move"
  },
  {
   "id": "systemtext:0241:00",
   "jp": "→",
   "refs": 1,
-  "en": ""
+  "en": "->"
  },
  {
   "id": "systemtext:0242:00",
   "jp": " ×\n削除",
   "refs": 1,
-  "en": ""
+  "en": "Cross\nDelete"
  },
  {
   "id": "systemtext:0243:00",
   "jp": " ○\n決定",
   "refs": 1,
-  "en": ""
+  "en": "Circle\nConfirm"
  },
  {
   "id": "systemtext:0244:00",
   "jp": "START\n  完了",
   "refs": 1,
-  "en": ""
+  "en": "START\nDone"
  },
  {
   "id": "systemtext:0245:00",
   "jp": "花札「%s」を\n手に入れました。",
   "refs": 1,
-  "en": ""
+  "en": "Obtained the hanafuda \"%s\"."
  },
  {
   "id": "systemtext:0246:00",
   "jp": "特課札「%s」を\n手に入れました。",
   "refs": 1,
-  "en": ""
+  "en": "Obtained the Division card \"%s\"."
  },
  {
   "id": "systemtext:0247:00",
   "jp": "特課試札を\n手に入れました。",
   "refs": 1,
-  "en": ""
+  "en": "Obtained a Division trial card."
  },
  {
   "id": "systemtext:0248:00",
   "jp": "コレクションＢＧＭ\n「%s」を\n手に入れました。\n自室の棚に配置します。",
   "refs": 1,
-  "en": ""
+  "en": "Obtained the BGM collection item \"%s\". It will be\nplaced on the shelf in your room."
  },
  {
   "id": "systemtext:0249:00",
   "jp": "着信メロディ\n「%s」を\n手に入れました。\n携帯設定から選択できます。",
   "refs": 1,
-  "en": ""
+  "en": "Obtained the ringtone \"%s\". You can select it\nfrom the phone settings."
  },
  {
   "id": "systemtext:0250:00",
   "jp": "インテリア「%s」を\n手に入れました。\n自室に配置します。",
   "refs": 1,
-  "en": ""
+  "en": "Obtained the interior item \"%s\". It will be\nplaced in your room."
  },
  {
   "id": "systemtext:0251:00",
   "jp": "貴重品「%s」を\n手に入れました。",
   "refs": 1,
-  "en": ""
+  "en": "Obtained the valuable \"%s\"."
  },
  {
   "id": "systemtext:0252:00",
   "jp": "貴重品「%s」を\n回収しました。",
   "refs": 1,
-  "en": ""
+  "en": "Retrieved the valuable \"%s\"."
  },
  {
   "id": "systemtext:0253:00",
   "jp": "近接武器",
   "refs": 1,
-  "en": ""
+  "en": "Melee Weapons"
  },
  {
   "id": "systemtext:0254:00",
   "jp": "射撃武器",
   "refs": 1,
-  "en": ""
+  "en": "Ranged Weapons"
  },
  {
   "id": "systemtext:0255:00",
   "jp": "防具",
   "refs": 1,
-  "en": ""
+  "en": "Armor"
  },
  {
   "id": "systemtext:0256:00",
   "jp": "呪具",
   "refs": 2,
-  "en": ""
+  "en": "Charms"
  },
  {
   "id": "systemtext:0257:00",
   "jp": "医療品",
   "refs": 1,
-  "en": ""
+  "en": "Medicine"
  },
  {
   "id": "systemtext:0258:00",
   "jp": "食品",
   "refs": 1,
-  "en": ""
+  "en": "Food"
  },
  {
   "id": "systemtext:0259:00",
   "jp": "素材",
   "refs": 1,
-  "en": ""
+  "en": "Materials"
  },
  {
   "id": "systemtext:0261:00",
   "jp": "全部",
   "refs": 1,
-  "en": ""
+  "en": "All"
  },
  {
   "id": "systemtext:0262:00",
   "jp": "携行",
   "refs": 1,
-  "en": ""
+  "en": "Pack"
  },
  {
   "id": "systemtext:0263:00",
   "jp": "武器全部",
   "refs": 1,
-  "en": ""
+  "en": "All Weapons"
  },
  {
   "id": "systemtext:0264:00",
   "jp": "取得アイテム",
   "refs": 1,
-  "en": ""
+  "en": "Items Obtained"
  },
  {
   "id": "systemtext:0265:00",
   "jp": "装備全部",
   "refs": 1,
-  "en": ""
+  "en": "All Gear"
  },
  {
   "id": "systemtext:0266:00",
   "jp": "【松の屑・壱】",
   "refs": 1,
-  "en": ""
+  "en": "[Pine Chaff I]"
  },
  {
   "id": "systemtext:0267:00",
   "jp": "【松の屑・弐】",
   "refs": 1,
-  "en": ""
+  "en": "[Pine Chaff II]"
  },
  {
   "id": "systemtext:0268:00",
   "jp": "【松にあかよろし】",
   "refs": 1,
-  "en": ""
+  "en": "[Pine Poetry Ribbon]"
  },
  {
   "id": "systemtext:0269:00",
   "jp": "【松に鶴】",
   "refs": 1,
-  "en": ""
+  "en": "[Pine and Crane]"
  },
  {
   "id": "systemtext:0270:00",
   "jp": "【梅の屑・壱】",
   "refs": 1,
-  "en": ""
+  "en": "[Plum Chaff I]"
  },
  {
   "id": "systemtext:0271:00",
   "jp": "【梅の屑・弐】",
   "refs": 1,
-  "en": ""
+  "en": "[Plum Chaff II]"
  },
  {
   "id": "systemtext:0272:00",
   "jp": "【梅にあかよろし】",
   "refs": 1,
-  "en": ""
+  "en": "[Plum Poetry Ribbon]"
  },
  {
   "id": "systemtext:0273:00",
   "jp": "【梅に鶯】",
   "refs": 1,
-  "en": ""
+  "en": "[Plum and Warbler]"
  },
  {
   "id": "systemtext:0274:00",
   "jp": "【桜の屑・壱】",
   "refs": 1,
-  "en": ""
+  "en": "[Cherry Chaff I]"
  },
  {
   "id": "systemtext:0275:00",
   "jp": "【桜の屑・弐】",
   "refs": 1,
-  "en": ""
+  "en": "[Cherry Chaff II]"
  },
  {
   "id": "systemtext:0276:00",
   "jp": "【桜にみよしの】",
   "refs": 1,
-  "en": ""
+  "en": "[Cherry Poetry Ribbon]"
  },
  {
   "id": "systemtext:0277:00",
   "jp": "【桜に幕】",
   "refs": 1,
-  "en": ""
+  "en": "[Cherry and Curtain]"
  },
  {
   "id": "systemtext:0278:00",
   "jp": "【藤の屑・壱】",
   "refs": 1,
-  "en": ""
+  "en": "[Wisteria Chaff I]"
  },
  {
   "id": "systemtext:0279:00",
   "jp": "【藤の屑・弐】",
   "refs": 1,
-  "en": ""
+  "en": "[Wisteria Chaff II]"
  },
  {
   "id": "systemtext:0280:00",
   "jp": "【藤に赤短】",
   "refs": 1,
-  "en": ""
+  "en": "[Wisteria Red Ribbon]"
  },
  {
   "id": "systemtext:0281:00",
   "jp": "【藤に時鳥】",
   "refs": 1,
-  "en": ""
+  "en": "[Wisteria and Cuckoo]"
  },
  {
   "id": "systemtext:0282:00",
   "jp": "【菖蒲の屑・壱】",
   "refs": 1,
-  "en": ""
+  "en": "[Iris Chaff I]"
  },
  {
   "id": "systemtext:0283:00",
   "jp": "【菖蒲の屑・弐】",
   "refs": 1,
-  "en": ""
+  "en": "[Iris Chaff II]"
  },
  {
   "id": "systemtext:0284:00",
   "jp": "【菖蒲に赤短】",
   "refs": 1,
-  "en": ""
+  "en": "[Iris Red Ribbon]"
  },
  {
   "id": "systemtext:0285:00",
   "jp": "【菖蒲に八橋】",
   "refs": 1,
-  "en": ""
+  "en": "[Iris and Bridge]"
  },
  {
   "id": "systemtext:0286:00",
   "jp": "【牡丹の屑・壱】",
   "refs": 1,
-  "en": ""
+  "en": "[Peony Chaff I]"
  },
  {
   "id": "systemtext:0287:00",
   "jp": "【牡丹の屑・弐】",
   "refs": 1,
-  "en": ""
+  "en": "[Peony Chaff II]"
  },
  {
   "id": "systemtext:0288:00",
   "jp": "【牡丹に青短】",
   "refs": 1,
-  "en": ""
+  "en": "[Peony Blue Ribbon]"
  },
  {
   "id": "systemtext:0289:00",
   "jp": "【牡丹に蝶】",
   "refs": 1,
-  "en": ""
+  "en": "[Peony and Butterflies]"
  },
  {
   "id": "systemtext:0290:00",
   "jp": "【萩の屑・壱】",
   "refs": 1,
-  "en": ""
+  "en": "[Clover Chaff I]"
  },
  {
   "id": "systemtext:0291:00",
   "jp": "【萩の屑・弐】",
   "refs": 1,
-  "en": ""
+  "en": "[Clover Chaff II]"
  },
  {
   "id": "systemtext:0292:00",
   "jp": "【萩に赤短】",
   "refs": 1,
-  "en": ""
+  "en": "[Clover Red Ribbon]"
  },
  {
   "id": "systemtext:0293:00",
   "jp": "【萩に猪】",
   "refs": 1,
-  "en": ""
+  "en": "[Clover and Boar]"
  },
  {
   "id": "systemtext:0294:00",
   "jp": "【芒の屑・壱】",
   "refs": 1,
-  "en": ""
+  "en": "[Pampas Chaff I]"
  },
  {
   "id": "systemtext:0295:00",
   "jp": "【芒の屑・弐】",
   "refs": 1,
-  "en": ""
+  "en": "[Pampas Chaff II]"
  },
  {
   "id": "systemtext:0296:00",
   "jp": "【芒に雁】",
   "refs": 1,
-  "en": ""
+  "en": "[Pampas and Geese]"
  },
  {
   "id": "systemtext:0297:00",
   "jp": "【芒に月】",
   "refs": 1,
-  "en": ""
+  "en": "[Pampas and Moon]"
  },
  {
   "id": "systemtext:0298:00",
   "jp": "【菊の屑・壱】",
   "refs": 1,
-  "en": ""
+  "en": "[Chrysanthemum Chaff I]"
  },
  {
   "id": "systemtext:0299:00",
   "jp": "【菊の屑・弐】",
   "refs": 1,
-  "en": ""
+  "en": "[Chrysanthemum Chaff II]"
  },
  {
   "id": "systemtext:0300:00",
   "jp": "【菊に青短】",
   "refs": 1,
-  "en": ""
+  "en": "[Chrysanthemum Blue Ribbon]"
  },
  {
   "id": "systemtext:0301:00",
   "jp": "【菊に盃】",
   "refs": 1,
-  "en": ""
+  "en": "[Chrysanthemum and Sake Cup]"
  },
  {
   "id": "systemtext:0302:00",
   "jp": "【紅葉の屑・壱】",
   "refs": 1,
-  "en": ""
+  "en": "[Maple Chaff I]"
  },
  {
   "id": "systemtext:0303:00",
   "jp": "【紅葉の屑・弐】",
   "refs": 1,
-  "en": ""
+  "en": "[Maple Chaff II]"
  },
  {
   "id": "systemtext:0304:00",
   "jp": "【紅葉に青短】",
   "refs": 1,
-  "en": ""
+  "en": "[Maple Blue Ribbon]"
  },
  {
   "id": "systemtext:0305:00",
   "jp": "【紅葉に鹿】",
   "refs": 1,
-  "en": ""
+  "en": "[Maple and Deer]"
  },
  {
   "id": "systemtext:0306:00",
   "jp": "【鬼手に太鼓】",
   "refs": 1,
-  "en": ""
+  "en": "[Oni Hand and Drum]"
  },
  {
   "id": "systemtext:0307:00",
   "jp": "【柳に赤短】目潰し：行動不可",
   "refs": 1,
-  "en": ""
+  "en": "[Willow Red Ribbon] Blinded: Can't act"
  },
  {
   "id": "systemtext:0308:00",
   "jp": "【柳に燕】",
   "refs": 1,
-  "en": ""
+  "en": "[Willow and Swallow]"
  },
  {
   "id": "systemtext:0309:00",
   "jp": "【柳に雨】",
   "refs": 1,
-  "en": ""
+  "en": "[Willow and Rain]"
  },
  {
   "id": "systemtext:0310:00",
   "jp": "【桐に製造印】",
   "refs": 1,
-  "en": ""
+  "en": "[Paulownia and Maker's Mark]"
  },
  {
   "id": "systemtext:0311:00",
   "jp": "【桐の屑・壱】",
   "refs": 1,
-  "en": ""
+  "en": "[Paulownia Chaff I]"
  },
  {
   "id": "systemtext:0312:00",
   "jp": "【桐の屑・弐】",
   "refs": 1,
-  "en": ""
+  "en": "[Paulownia Chaff II]"
  },
  {
   "id": "systemtext:0313:00",
   "jp": "【桐に鳳凰】",
   "refs": 1,
-  "en": ""
+  "en": "[Paulownia and Phoenix]"
  },
  {
   "id": "systemtext:0314:00",
   "jp": "【特課試札】",
   "refs": 1,
-  "en": ""
+  "en": "[Division Trial Card]"
  },
  {
   "id": "systemtext:0317:00",
   "jp": "出口",
   "refs": 4,
-  "en": ""
+  "en": "Exit"
  },
  {
   "id": "systemtext:0319:00",
   "jp": "雑貨を買う",
   "refs": 1,
-  "en": ""
+  "en": "Buy General Goods"
  },
  {
   "id": "systemtext:0320:00",
   "jp": "玩具を買う",
   "refs": 1,
-  "en": ""
+  "en": "Buy Toys"
  },
  {
   "id": "systemtext:0324:00",
   "jp": "雉明 零",
   "refs": 2,
-  "en": ""
+  "en": "Rei Chiaki"
  },
  {
   "id": "systemtext:0325:00",
   "jp": "武藤 いちる",
   "refs": 2,
-  "en": ""
+  "en": "Ichiru Muto"
  },
  {
   "id": "systemtext:0326:00",
   "jp": "壇 燈治",
   "refs": 2,
-  "en": ""
+  "en": "Toji Dan"
  },
  {
   "id": "systemtext:0327:00",
   "jp": "穂坂 弥紀",
   "refs": 2,
-  "en": ""
+  "en": "Minori Hosaka"
  },
  {
   "id": "systemtext:0328:00",
   "jp": "宍戸 長英",
   "refs": 2,
-  "en": ""
+  "en": "Nagahide Shishido"
  },
  {
   "id": "systemtext:0329:00",
   "jp": "飛坂 巴",
   "refs": 2,
-  "en": ""
+  "en": "Tomoe Tobisaka"
  },
  {
   "id": "systemtext:0330:00",
   "jp": "宝方 蒐",
   "refs": 2,
-  "en": ""
+  "en": "Shu Takarakata"
  },
  {
   "id": "systemtext:0331:00",
   "jp": "鬼丸 義王",
   "refs": 2,
-  "en": ""
+  "en": "Gio Onimaru"
  },
  {
   "id": "systemtext:0332:00",
   "jp": "鹿島 御霧",
   "refs": 2,
-  "en": ""
+  "en": "Migiri Kashima"
  },
  {
   "id": "systemtext:0333:00",
   "jp": "アンジー・D",
   "refs": 2,
-  "en": ""
+  "en": "Angie D."
  },
  {
   "id": "systemtext:0334:00",
   "jp": "幸徳路 要",
   "refs": 2,
-  "en": ""
+  "en": "Kaname Kotokuji"
  },
  {
   "id": "systemtext:0335:00",
   "jp": "蒲生 道佳",
   "refs": 2,
-  "en": ""
+  "en": "Dokai Gamo"
  },
  {
   "id": "systemtext:0336:00",
   "jp": "嘉門 英雄",
   "refs": 2,
-  "en": ""
+  "en": "Hideo Kamon"
  },
  {
   "id": "systemtext:0337:00",
   "jp": "香ノ巣 絢人",
   "refs": 2,
-  "en": ""
+  "en": "Ayahito Konosu"
  },
  {
   "id": "systemtext:0338:00",
   "jp": "日向 輪",
   "refs": 2,
-  "en": ""
+  "en": "Rin Himukai"
  },
  {
   "id": "systemtext:0339:00",
   "jp": "佐波守 紅緒",
   "refs": 2,
-  "en": ""
+  "en": "Benio Sawakami"
  },
  {
   "id": "systemtext:0340:00",
   "jp": "白",
   "refs": 2,
-  "en": ""
+  "en": "Mao"
  },
  {
   "id": "systemtext:0341:00",
   "jp": "鍵",
   "refs": 2,
-  "en": ""
+  "en": "Ken"
  },
  {
   "id": "systemtext:0342:00",
   "jp": "鈴",
   "refs": 2,
-  "en": ""
+  "en": "Suzu"
  },
  {
   "id": "systemtext:0343:00",
   "jp": "羽鳥 朝子",
   "refs": 2,
-  "en": ""
+  "en": "Asako Hatori"
  },
  {
   "id": "systemtext:0344:00",
   "jp": "羽鳥 清司郎",
   "refs": 2,
-  "en": ""
+  "en": "Seishiro Hatori"
  },
  {
   "id": "systemtext:0345:00",
   "jp": "伊佐地 大督",
   "refs": 2,
-  "en": ""
+  "en": "Daisuke Isachi"
  },
  {
   "id": "systemtext:0346:00",
   "jp": "筑紫 信維",
   "refs": 2,
-  "en": ""
+  "en": "Nobuyuki Chikushi"
  },
  {
   "id": "systemtext:0347:00",
   "jp": "牧村 久榮",
   "refs": 2,
-  "en": ""
+  "en": "Hisae Makimura"
  },
  {
   "id": "systemtext:0348:00",
   "jp": "富樫",
   "refs": 2,
-  "en": ""
+  "en": "Togashi"
  },
  {
   "id": "systemtext:0349:00",
   "jp": "澁川　源伍",
   "refs": 1,
-  "en": ""
+  "en": "Gengo Shibukawa"
  },
  {
   "id": "systemtext:0350:00",
   "jp": "カルパタル",
   "refs": 1,
-  "en": ""
+  "en": "Kalpataru"
  },
  {
   "id": "systemtext:0351:00",
   "jp": "楼 万黎",
   "refs": 2,
-  "en": ""
+  "en": "Banri Takadono"
  },
  {
   "id": "systemtext:0352:00",
   "jp": "購買",
   "refs": 2,
-  "en": ""
+  "en": "School Store"
  },
  {
   "id": "systemtext:0353:00",
   "jp": "玩具屋",
   "refs": 2,
-  "en": ""
+  "en": "Toy Shop"
  },
  {
   "id": "systemtext:0381:00",
   "jp": "隻眼の老人",
   "refs": 1,
-  "en": ""
+  "en": "One-Eyed Old Man"
  },
  {
   "id": "systemtext:0382:00",
   "jp": "謎のインド人？",
   "refs": 1,
-  "en": ""
+  "en": "Mysterious Indian?"
  },
  {
   "id": "systemtext:0387:00",
   "jp": "体力",
   "refs": 1,
-  "en": ""
+  "en": "Stamina"
  },
  {
   "id": "systemtext:0388:00",
   "jp": "瞬発力",
   "refs": 1,
-  "en": ""
+  "en": "Reflexes"
  },
  {
   "id": "systemtext:0389:00",
   "jp": "精神力",
   "refs": 1,
-  "en": ""
+  "en": "Willpower"
  },
  {
   "id": "systemtext:0390:00",
   "jp": "脚力",
   "refs": 1,
-  "en": ""
+  "en": "Speed"
  },
  {
   "id": "systemtext:0391:00",
   "jp": "判断力",
   "refs": 1,
-  "en": ""
+  "en": "Judgment"
  },
  {
   "id": "systemtext:0399:00",
   "jp": "ＨＰ 増加",
   "refs": 1,
-  "en": ""
+  "en": "HP Up"
  },
  {
   "id": "systemtext:0400:00",
   "jp": "物理ダメージ増加",
   "refs": 1,
-  "en": ""
+  "en": "Physical Damage Up"
  },
  {
   "id": "systemtext:0401:00",
   "jp": "秘法眼強化",
   "refs": 1,
-  "en": ""
+  "en": "Arcane Eye Boost"
  },
  {
   "id": "systemtext:0402:00",
   "jp": "ＡＰ 増加",
   "refs": 1,
-  "en": ""
+  "en": "AP Up"
  },
  {
   "id": "systemtext:0403:00",
   "jp": "弱点ダメージ増加",
   "refs": 1,
-  "en": ""
+  "en": "Weak Point Damage Up"
  },
  {
   "id": "systemtext:0404:00",
   "jp": "仲間スキル強化",
   "refs": 1,
-  "en": ""
+  "en": "Partner Skills Up"
  },
  {
   "id": "systemtext:0405:00",
   "jp": "射撃能力強化",
   "refs": 1,
-  "en": ""
+  "en": "Ranged Ability Up"
  },
  {
   "id": "systemtext:0406:00",
   "jp": "クエスト依頼人増",
   "refs": 1,
-  "en": ""
+  "en": "More Quest Clients"
  },
  {
   "id": "systemtext:0407:00",
   "jp": "跳躍＆打撃強化",
   "refs": 1,
-  "en": ""
+  "en": "Jump & Strike Up"
  },
  {
   "id": "systemtext:0408:00",
   "jp": "購入割引率上昇",
   "refs": 1,
-  "en": ""
+  "en": "Bigger Discounts"
  },
  {
   "id": "systemtext:0409:00",
   "jp": "自然回復力強化",
   "refs": 1,
-  "en": ""
+  "en": "Natural Recovery Up"
  },
  {
   "id": "systemtext:0410:00",
   "jp": "状態異常耐性強化",
   "refs": 1,
-  "en": ""
+  "en": "Status Resistance Up"
  },
  {
   "id": "systemtext:0411:00",
   "jp": "良好",
   "refs": 1,
-  "en": ""
+  "en": "Healthy"
  },
  {
   "id": "systemtext:0412:00",
   "jp": "頭痛",
   "refs": 1,
-  "en": ""
+  "en": "Headache"
  },
  {
   "id": "systemtext:0413:00",
   "jp": "吐き気",
   "refs": 1,
-  "en": ""
+  "en": "Nausea"
  },
  {
   "id": "systemtext:0414:00",
   "jp": "悪寒",
   "refs": 1,
-  "en": ""
+  "en": "Chills"
  },
  {
   "id": "systemtext:0415:00",
   "jp": "目潰し",
   "refs": 1,
-  "en": ""
+  "en": "Blinded"
  },
  {
   "id": "systemtext:0416:00",
   "jp": "睡眠",
   "refs": 1,
-  "en": ""
+  "en": "Sleep"
  },
  {
   "id": "systemtext:0417:00",
   "jp": "麻痺",
   "refs": 1,
-  "en": ""
+  "en": "Paralysis"
  },
  {
   "id": "systemtext:0418:00",
   "jp": "捻挫",
   "refs": 1,
-  "en": ""
+  "en": "Sprain"
  },
  {
   "id": "systemtext:0419:00",
   "jp": "骨折",
   "refs": 1,
-  "en": ""
+  "en": "Fracture"
  },
  {
   "id": "systemtext:0420:00",
   "jp": "封呪",
   "refs": 1,
-  "en": ""
+  "en": "Seal Curse"
  },
  {
   "id": "systemtext:0421:00",
   "jp": "風呪",
   "refs": 1,
-  "en": ""
+  "en": "Wind Curse"
  },
  {
   "id": "systemtext:0422:00",
   "jp": "炎呪",
   "refs": 1,
-  "en": ""
+  "en": "Fire Curse"
  },
  {
   "id": "systemtext:0423:00",
   "jp": "土呪",
   "refs": 1,
-  "en": ""
+  "en": "Earth Curse"
  },
  {
   "id": "systemtext:0424:00",
   "jp": "氷呪",
   "refs": 1,
-  "en": ""
+  "en": "Ice Curse"
  },
  {
   "id": "systemtext:0425:00",
   "jp": "鴉乃杜學園",
   "refs": 1,
-  "en": ""
+  "en": "Karasu no Mori Academy"
  },
  {
   "id": "systemtext:0426:00",
   "jp": "八汎學院",
   "refs": 1,
-  "en": ""
+  "en": "Yahiro Academy"
  },
  {
   "id": "systemtext:0427:00",
   "jp": "寇聖高校",
   "refs": 1,
-  "en": ""
+  "en": "Kosei High"
  },
  {
   "id": "systemtext:0428:00",
   "jp": "ＯＸＡＳ日本支部",
   "refs": 1,
-  "en": ""
+  "en": "OXAS Japan Branch"
  },
  {
   "id": "systemtext:0430:00",
   "jp": "黒の封焔",
   "refs": 1,
-  "en": ""
+  "en": "Black Seal Flame"
  },
  {
   "id": "systemtext:0431:00",
   "jp": "猿王拳",
   "refs": 1,
-  "en": ""
+  "en": "Monkey King Fist"
  },
  {
   "id": "systemtext:0432:00",
   "jp": "吟風",
   "refs": 1,
-  "en": ""
+  "en": "Singing Wind"
  },
  {
   "id": "systemtext:0433:00",
   "jp": "鳥歌",
   "refs": 1,
-  "en": ""
+  "en": "Birdsong"
  },
  {
   "id": "systemtext:0434:00",
   "jp": "胴斬り",
   "refs": 1,
-  "en": ""
+  "en": "Torso Slash"
  },
  {
   "id": "systemtext:0435:00",
   "jp": "一撃必殺",
   "refs": 1,
-  "en": ""
+  "en": "One-Hit Kill"
  },
  {
   "id": "systemtext:0436:00",
   "jp": "表裏",
   "refs": 1,
-  "en": ""
+  "en": "Heads/Tails"
  },
  {
   "id": "systemtext:0437:00",
   "jp": "国士無双",
   "refs": 1,
-  "en": ""
+  "en": "Unrivaled"
  },
  {
   "id": "systemtext:0438:00",
   "jp": "インビジブル",
   "refs": 1,
-  "en": ""
+  "en": "Invisible"
  },
  {
   "id": "systemtext:0439:00",
   "jp": "マリポーザ",
   "refs": 1,
-  "en": ""
+  "en": "Mariposa"
  },
  {
   "id": "systemtext:0440:00",
   "jp": "北斗雷震",
   "refs": 1,
-  "en": ""
+  "en": "Big Dipper Thunder"
  },
  {
   "id": "systemtext:0441:00",
   "jp": "ミラクル★ラブ",
   "refs": 1,
-  "en": ""
+  "en": "Miracle*Love"
  },
  {
   "id": "systemtext:0442:00",
   "jp": "英雄大解砲",
   "refs": 1,
-  "en": ""
+  "en": "Hero Mega Cannon"
  },
  {
   "id": "systemtext:0443:00",
   "jp": "天橋立",
   "refs": 1,
-  "en": ""
+  "en": "Amanohashidate"
  },
  {
   "id": "systemtext:0444:00",
   "jp": "空蝉の術",
   "refs": 1,
-  "en": ""
+  "en": "Cicada Husk Art"
  },
  {
   "id": "systemtext:0445:00",
   "jp": "華剣舞",
   "refs": 1,
-  "en": ""
+  "en": "Flower Blade Dance"
  },
  {
   "id": "systemtext:0446:00",
   "jp": "回し蹴り",
   "refs": 1,
-  "en": ""
+  "en": "Roundhouse Kick"
  },
  {
   "id": "systemtext:0447:00",
   "jp": "正拳突き",
   "refs": 1,
-  "en": ""
+  "en": "Straight Punch"
  },
  {
   "id": "systemtext:0462:00",
   "jp": "札の情報を封じる鬼札の焔。\n敵にダメージを与える。",
   "refs": 1,
-  "en": ""
+  "en": "The flame of the Demon Card, which seals a card's\npower. Damages enemies."
  },
  {
   "id": "systemtext:0463:00",
   "jp": "雁の風の力をまとった正拳突き。\n敵にダメージを与える。",
   "refs": 1,
-  "en": ""
+  "en": "A straight punch wrapped in the wind power of the\nGeese card. Damages enemies."
  },
  {
   "id": "systemtext:0464:00",
   "jp": "水のオーラをまとった拳による攻撃\n一定確率で麻痺状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "A punch wrapped in an aura of water. May\nparalyze."
  },
  {
   "id": "systemtext:0465:00",
   "jp": "札の力をこめて歌い傷を癒す。\nＨＰが回復する。",
   "refs": 1,
-  "en": ""
+  "en": "A song filled with a card's power that heals\nwounds. Restores HP."
  },
  {
   "id": "systemtext:0466:00",
   "jp": "札の加護をもつ刀による居合攻撃。\n仲間が秋の札憑きならば攻撃力増加",
   "refs": 1,
-  "en": ""
+  "en": "A quick-draw strike with a sword blessed by a\ncard. Attack up if a partner is Card-Possessed by\nAutumn."
  },
  {
   "id": "systemtext:0467:00",
   "jp": "札の加護をもつ文房具の投擲攻撃。\n必ず弱点に命中する。",
   "refs": 1,
-  "en": ""
+  "en": "Throws stationery blessed by a card. Always hits\na weak point."
  },
  {
   "id": "systemtext:0468:00",
   "jp": "札を投げて表が出たら攻撃するまで\n範囲内の敵に数ターン気づかれない",
   "refs": 1,
-  "en": ""
+  "en": "Tosses a card; on heads, enemies in range won't\nnotice you for a few turns, until you attack."
  },
  {
   "id": "systemtext:0469:00",
   "jp": "二本のトンファーを使った攻撃。\n衝撃波が一直線に伸びる。",
   "refs": 1,
-  "en": ""
+  "en": "An attack with twin tonfa. Sends a shockwave in a\nstraight line."
  },
  {
   "id": "systemtext:0470:00",
   "jp": "範囲内の敵へ攻撃し、当たった敵の\n弱点が数ターン見えるようになる。",
   "refs": 1,
-  "en": ""
+  "en": "Attacks enemies in range and reveals the weak\npoints of those hit for a few turns."
  },
  {
   "id": "systemtext:0471:00",
   "jp": "敵の体力を奪う鱗粉を撒く攻撃。\n一定確率で封呪状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "Scatters scales that sap enemy stamina. May\ninflict Seal Curse."
  },
  {
   "id": "systemtext:0472:00",
   "jp": "退魔札を無数の針に変えて攻撃。\n一定確率で麻痺状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "Turns exorcism talismans into countless needles.\nMay paralyze."
  },
  {
   "id": "systemtext:0473:00",
   "jp": "魅惑のオーラを放出し、一定確率で\n敵ＨＰの５％を吸収する。",
   "refs": 1,
-  "en": ""
+  "en": "Releases a bewitching aura. May drain 5% of an\nenemy's HP."
  },
  {
   "id": "systemtext:0474:00",
   "jp": "桜吹雪の衝撃波を起こす攻撃。\n敵を２マス吹き飛ばす。",
   "refs": 1,
-  "en": ""
+  "en": "A shockwave of swirling cherry blossoms. Knocks\nenemies back 2 squares."
  },
  {
   "id": "systemtext:0475:00",
   "jp": "ターン終了まで攻撃力・防御力強化\nＨＰ減少量に比例して強化率上昇",
   "refs": 1,
-  "en": ""
+  "en": "Raises Attack and Defense until the turn ends.\nThe lower your HP, the bigger the boost."
  },
  {
   "id": "systemtext:0476:00",
   "jp": "敵の攻撃を受ける際、１度だけ一定\n確率で回避してカウンター攻撃。",
   "refs": 1,
-  "en": ""
+  "en": "May dodge an enemy attack once and strike back\nwith a counter."
  },
  {
   "id": "systemtext:0477:00",
   "jp": "剣舞のような流麗な攻撃。\n一定確率で敵を睡眠状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "A graceful attack like a sword dance. May put\nenemies to sleep."
  },
  {
   "id": "systemtext:0478:00",
   "jp": "蹴りによる範囲攻撃。\n敵にダメージを与える。",
   "refs": 1,
-  "en": ""
+  "en": "An area attack with a kick. Damages enemies."
  },
  {
   "id": "systemtext:0479:00",
   "jp": "拳による単体攻撃。\n敵にダメージを与える。",
   "refs": 1,
-  "en": ""
+  "en": "A single-target punch. Damages an enemy."
  },
  {
   "id": "systemtext:0494:00",
   "jp": "攻撃力　%4d",
   "refs": 5,
-  "en": ""
+  "en": "Attack %4d"
  },
  {
   "id": "systemtext:0496:00",
   "jp": "攻撃力　%4d　発生率　%3d％",
   "refs": 5,
-  "en": ""
+  "en": "Attack %4d  Chance %3d%%"
  },
  {
   "id": "systemtext:0497:00",
   "jp": "ＨＰ回復量　%3d％",
   "refs": 1,
-  "en": ""
+  "en": "HP Restored %3d%%"
  },
  {
   "id": "systemtext:0498:00",
   "jp": "攻撃力　%4d　攻撃力増加量%3d％",
   "refs": 1,
-  "en": ""
+  "en": "Attack %4d  Attack Boost %3d%%"
  },
  {
   "id": "systemtext:0500:00",
   "jp": "ターン　%2d　発生率　%3d％",
   "refs": 1,
-  "en": ""
+  "en": "Turns %2d  Chance %3d%%"
  },
  {
   "id": "systemtext:0502:00",
   "jp": "ターン　%2d　攻撃力　%4d　",
   "refs": 1,
-  "en": ""
+  "en": "Turns %2d  Attack %4d"
  },
  {
   "id": "systemtext:0507:00",
   "jp": "最大強化率　%3d％",
   "refs": 1,
-  "en": ""
+  "en": "Max Boost %3d%%"
  },
  {
   "id": "systemtext:0508:00",
   "jp": "回避率　%3d％　攻撃力　%4d",
   "refs": 1,
-  "en": ""
+  "en": "Evasion %3d%%  Attack %4d"
  },
  {
   "id": "systemtext:0510:00",
   "jp": "攻撃力　180",
   "refs": 2,
-  "en": ""
+  "en": "Attack 180"
  },
  {
   "id": "systemtext:0512:00",
   "jp": "攻撃力　150",
   "refs": 1,
-  "en": ""
+  "en": "Attack 150"
  },
  {
   "id": "systemtext:0513:00",
   "jp": "ＨＰ回復量　20",
   "refs": 1,
-  "en": ""
+  "en": "HP Restored 20"
  },
  {
   "id": "systemtext:0515:00",
   "jp": "攻撃力　50",
   "refs": 1,
-  "en": ""
+  "en": "Attack 50"
  },
  {
   "id": "systemtext:0526:00",
   "jp": "Lv%d　%s",
   "refs": 1,
-  "en": ""
+  "en": "Lv%d %s"
  },
  {
   "id": "systemtext:0527:00",
   "jp": "回数　%2d",
   "refs": 1,
-  "en": ""
+  "en": "Uses %2d"
  },
  {
   "id": "systemtext:0528:00",
   "jp": "愛%d　友%d　Lv＝（愛＋友）÷ 2",
   "refs": 1,
-  "en": ""
+  "en": "Love %d  Friend %d  Lv = (Love + Friend)\n2"
  },
  {
   "id": "systemtext:0530:00",
   "jp": "健康状態",
   "refs": 1,
-  "en": ""
+  "en": "Condition"
  },
  {
   "id": "systemtext:0531:00",
   "jp": "現在ＬＶ",
   "refs": 1,
-  "en": ""
+  "en": "Current Lv"
  },
  {
   "id": "systemtext:0532:00",
   "jp": "ＨＰ 現在値/最大値",
   "refs": 1,
-  "en": ""
+  "en": "HP Current/Max"
  },
  {
   "id": "systemtext:0533:00",
   "jp": "ＡＰ 最大値",
   "refs": 1,
-  "en": ""
+  "en": "AP Max"
  },
  {
   "id": "systemtext:0534:00",
   "jp": "秘法眼 最大値",
   "refs": 1,
-  "en": ""
+  "en": "Arcane Eye Max"
  },
  {
   "id": "systemtext:0535:00",
   "jp": "次ＬＶまでの経験値",
   "refs": 1,
-  "en": ""
+  "en": "EXP to Next Lv"
  },
  {
   "id": "systemtext:0536:00",
   "jp": "得意科目",
   "refs": 1,
-  "en": ""
+  "en": "Best Subject"
  },
  {
   "id": "systemtext:0537:00",
   "jp": "能力",
   "refs": 1,
-  "en": ""
+  "en": "Stats"
  },
  {
   "id": "systemtext:0538:00",
   "jp": "数値",
   "refs": 1,
-  "en": ""
+  "en": "Value"
  },
  {
   "id": "systemtext:0539:00",
   "jp": "概要",
   "refs": 2,
-  "en": ""
+  "en": "Summary"
  },
  {
   "id": "systemtext:0540:00",
   "jp": "学科",
   "refs": 1,
-  "en": ""
+  "en": "Subjects"
  },
  {
   "id": "systemtext:0541:00",
   "jp": "評価",
   "refs": 1,
-  "en": ""
+  "en": "Grade"
  },
  {
   "id": "systemtext:0543:00",
   "jp": "/99",
   "refs": 1,
-  "en": ""
+  "en": "/99"
  },
  {
   "id": "systemtext:0544:00",
   "jp": "残ボーナス",
   "refs": 2,
-  "en": ""
+  "en": "Bonus Left"
  },
  {
   "id": "systemtext:0545:00",
   "jp": "/10",
   "refs": 1,
-  "en": ""
+  "en": "/10"
  },
  {
   "id": "systemtext:0548:00",
   "jp": "部活動",
   "refs": 2,
-  "en": ""
+  "en": "Club"
  },
  {
   "id": "systemtext:0549:00",
   "jp": "担任",
   "refs": 1,
-  "en": ""
+  "en": "Homeroom"
  },
  {
   "id": "systemtext:0550:00",
   "jp": "行動記録",
   "refs": 1,
-  "en": ""
+  "en": "Activity Log"
  },
  {
   "id": "systemtext:0551:00",
   "jp": "現在",
   "refs": 1,
-  "en": ""
+  "en": "Now"
  },
  {
   "id": "systemtext:0552:00",
   "jp": "前回",
   "refs": 1,
-  "en": ""
+  "en": "Last"
  },
  {
   "id": "systemtext:0553:00",
   "jp": "前々回",
   "refs": 1,
-  "en": ""
+  "en": "Before Last"
  },
  {
   "id": "systemtext:0554:00",
   "jp": "能力／学科 切り替え",
   "refs": 1,
-  "en": ""
+  "en": "Toggle Stats/Subjects"
  },
  {
   "id": "systemtext:0555:00",
   "jp": "表示キャラ切り替え",
   "refs": 1,
-  "en": ""
+  "en": "Switch Character"
  },
  {
   "id": "systemtext:0556:00",
   "jp": "ボーナス割り振り開始",
   "refs": 1,
-  "en": ""
+  "en": "Start Assigning Bonus"
  },
  {
   "id": "systemtext:0557:00",
   "jp": "ページ切り替え",
   "refs": 1,
-  "en": ""
+  "en": "Switch Page"
  },
  {
   "id": "systemtext:0558:00",
   "jp": "ボーナス割り振り確定",
   "refs": 1,
-  "en": ""
+  "en": "Confirm Bonus"
  },
  {
   "id": "systemtext:0559:00",
   "jp": "ボーナス割り振りキャンセル",
   "refs": 1,
-  "en": ""
+  "en": "Cancel Bonus"
  },
  {
   "id": "systemtext:0560:00",
   "jp": "成績表を閉じる",
   "refs": 1,
-  "en": ""
+  "en": "Close Report Card"
  },
  {
   "id": "systemtext:0561:00",
   "jp": "ボーナス値割り振り",
   "refs": 1,
-  "en": ""
+  "en": "Assign Bonus Points"
  },
  {
   "id": "systemtext:0563:00",
   "jp": "棚",
   "refs": 1,
-  "en": ""
+  "en": "Shelf"
  },
  {
   "id": "systemtext:0567:00",
   "jp": "再生",
   "refs": 1,
-  "en": ""
+  "en": "Play"
  },
  {
   "id": "systemtext:0568:00",
   "jp": "停止",
   "refs": 1,
-  "en": ""
+  "en": "Stop"
  },
  {
   "id": "systemtext:0569:00",
   "jp": "アルバム",
   "refs": 1,
-  "en": ""
+  "en": "Album"
  },
  {
   "id": "systemtext:0570:00",
   "jp": "これまでに見たイベントCGを \nもう一度見ることができます。 ",
   "refs": 1,
-  "en": ""
+  "en": "View the event CGs you have seen so far again."
  },
  {
   "id": "systemtext:0571:00",
   "jp": "依頼人",
   "refs": 1,
-  "en": ""
+  "en": "Client"
  },
  {
   "id": "systemtext:0572:00",
   "jp": "キャンプを開く",
   "refs": 1,
-  "en": ""
+  "en": "Open Camp"
  },
  {
   "id": "systemtext:0573:00",
   "jp": "プロローグ",
   "refs": 1,
-  "en": ""
+  "en": "Prologue"
  },
  {
   "id": "systemtext:0574:00",
   "jp": "第一話",
   "refs": 1,
-  "en": ""
+  "en": "Chapter 1"
  },
  {
   "id": "systemtext:0575:00",
   "jp": "第ニ話",
   "refs": 1,
-  "en": ""
+  "en": "Chapter 2"
  },
  {
   "id": "systemtext:0576:00",
   "jp": "第三話",
   "refs": 1,
-  "en": ""
+  "en": "Chapter 3"
  },
  {
   "id": "systemtext:0577:00",
   "jp": "第四話",
   "refs": 1,
-  "en": ""
+  "en": "Chapter 4"
  },
  {
   "id": "systemtext:0578:00",
   "jp": "第五話",
   "refs": 1,
-  "en": ""
+  "en": "Chapter 5"
  },
  {
   "id": "systemtext:0579:00",
   "jp": "第六話",
   "refs": 1,
-  "en": ""
+  "en": "Chapter 6"
  },
  {
   "id": "systemtext:0580:00",
   "jp": "第七話",
   "refs": 1,
-  "en": ""
+  "en": "Chapter 7"
  },
  {
   "id": "systemtext:0581:00",
   "jp": "第八話",
   "refs": 1,
-  "en": ""
+  "en": "Chapter 8"
  },
  {
   "id": "systemtext:0582:00",
   "jp": "第九話",
   "refs": 1,
-  "en": ""
+  "en": "Chapter 9"
  },
  {
   "id": "systemtext:0583:00",
   "jp": "第十話",
   "refs": 1,
-  "en": ""
+  "en": "Chapter 10"
  },
  {
   "id": "systemtext:0584:00",
   "jp": "エンディング",
   "refs": 1,
-  "en": ""
+  "en": "Ending"
  },
  {
   "id": "systemtext:0585:00",
   "jp": "その他",
   "refs": 1,
-  "en": ""
+  "en": "Other"
  },
  {
   "id": "systemtext:0586:00",
   "jp": "七代",
   "refs": 1,
-  "en": ""
+  "en": "Shichidai"
  },
  {
   "id": "systemtext:0587:00",
   "jp": "千馗",
   "refs": 1,
-  "en": ""
+  "en": "Kazuki"
  },
  {
   "id": "systemtext:0588:00",
   "jp": "しちだい",
   "refs": 1,
-  "en": ""
+  "en": "Shichidai"
  },
  {
   "id": "systemtext:0589:00",
   "jp": "かずき",
   "refs": 1,
-  "en": ""
+  "en": "Kazuki"
  },
  {
   "id": "systemtext:0590:00",

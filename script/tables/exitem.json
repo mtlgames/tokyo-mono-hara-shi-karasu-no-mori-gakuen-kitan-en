@@ -3,732 +3,732 @@
   "id": "exitem:0000:04",
   "jp": "模擬演習用松明",
   "refs": 1,
-  "en": ""
+  "en": "Drill Torch"
  },
  {
   "id": "exitem:0000:08",
   "jp": "模擬演習場内で\n使用可能な松明",
   "refs": 1,
-  "en": ""
+  "en": "A torch usable in the drill\ngrounds."
  },
  {
   "id": "exitem:0001:04",
   "jp": "満地の印",
   "refs": 1,
-  "en": ""
+  "en": "Full Earth Seal"
  },
  {
   "id": "exitem:0001:08",
   "jp": "肥沃な土地に満ちた水気が\n円盤として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Water filling fertile land,\ngiven form as a disc."
  },
  {
   "id": "exitem:0002:04",
   "jp": "籾の印",
   "refs": 1,
-  "en": ""
+  "en": "Paddy Seal"
  },
  {
   "id": "exitem:0002:08",
   "jp": "人々の豊穣への歓喜の念が\n木板として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "People's joy at a rich\nharvest, given form as a\nboard."
  },
  {
   "id": "exitem:0003:04",
   "jp": "斎庭穂の鍵",
   "refs": 1,
-  "en": ""
+  "en": "Sacred Ear Key"
  },
  {
   "id": "exitem:0003:08",
   "jp": "地に満ちる稲穂と、\n太陽神への祈りが\n鍵として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Rice ears filling the land and\nprayers to the sun god, given\nform as a key."
  },
  {
   "id": "exitem:0004:04",
   "jp": "巫女の草冠",
   "refs": 1,
-  "en": ""
+  "en": "Maiden's Wreath"
  },
  {
   "id": "exitem:0004:08",
   "jp": "巫女の霊力が草の冠として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "A shrine maiden's spirit power\ngiven form as a grass crown."
  },
  {
   "id": "exitem:0005:04",
   "jp": "親魏倭王の金印",
   "refs": 1,
-  "en": ""
+  "en": "Gold Seal of Wa"
  },
  {
   "id": "exitem:0005:08",
   "jp": "大国の威信と友好の念が\n金印として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "A great nation's prestige and\nfriendship given form as a\ngold seal."
  },
  {
   "id": "exitem:0006:04",
   "jp": "雨呼びの神鐸",
   "refs": 1,
-  "en": ""
+  "en": "Rainmaker Bell"
  },
  {
   "id": "exitem:0006:08",
   "jp": "祈雨の祈りが銅鐸として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Prayers for rain given form as\na bronze bell."
  },
  {
   "id": "exitem:0007:04",
   "jp": "占竜骨",
   "refs": 1,
-  "en": ""
+  "en": "Oracle Bone"
  },
  {
   "id": "exitem:0007:08",
   "jp": "古い亀の甲羅の骨\n火にくべて、ひび割れを見て\n吉兆を占った",
   "refs": 1,
-  "en": ""
+  "en": "Old tortoise shell. Put in a\nfire, its cracks were read for\nomens."
  },
  {
   "id": "exitem:0008:04",
   "jp": "女王の鍵",
   "refs": 1,
-  "en": ""
+  "en": "Queen's Key"
  },
  {
   "id": "exitem:0008:08",
   "jp": "卑弥呼の鬼道の力が\n鍵として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The power of Himiko's sorcery\ngiven form as a key."
  },
  {
   "id": "exitem:0009:04",
   "jp": "武尊の鍵",
   "refs": 1,
-  "en": ""
+  "en": "Takeru's Key"
  },
  {
   "id": "exitem:0009:08",
   "jp": "日本武尊が変化した\n白鳥を模った鍵",
   "refs": 1,
-  "en": ""
+  "en": "A key shaped like the swan\nYamato Takeru became."
  },
  {
   "id": "exitem:0010:04",
   "jp": "三日月の印章",
   "refs": 1,
-  "en": ""
+  "en": "Crescent Seal"
  },
  {
   "id": "exitem:0010:08",
   "jp": "三日月の装飾が施された印章",
   "refs": 1,
-  "en": ""
+  "en": "A seal decorated with a\ncrescent moon."
  },
  {
   "id": "exitem:0011:04",
   "jp": "道返しの岩",
   "refs": 1,
-  "en": ""
+  "en": "Chigaeshi Rock"
  },
  {
   "id": "exitem:0011:08",
   "jp": "黄泉路を塞ぐ大岩の欠片",
   "refs": 1,
-  "en": ""
+  "en": "A shard of the boulder\nblocking the road to Yomi."
  },
  {
   "id": "exitem:0012:04",
   "jp": "黄泉路の鍵",
   "refs": 1,
-  "en": ""
+  "en": "Yomi Road Key"
  },
  {
   "id": "exitem:0012:08",
   "jp": "黄泉の穢れが鍵として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The impurity of Yomi given\nform as a key."
  },
  {
   "id": "exitem:0013:04",
   "jp": "封鍵の右片",
   "refs": 1,
-  "en": ""
+  "en": "Seal Key (Right)"
  },
  {
   "id": "exitem:0013:08",
   "jp": "桐と鳳凰が彫られた\nメダルの右半分",
   "refs": 1,
-  "en": ""
+  "en": "Right half of a medal carved\nwith paulownia and phoenix."
  },
  {
   "id": "exitem:0014:04",
   "jp": "聖像の松明",
   "refs": 1,
-  "en": ""
+  "en": "Holy Icon Torch"
  },
  {
   "id": "exitem:0014:08",
   "jp": "信仰の力が集まり\n戦勝を呼び込む松明として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The gathered power of faith\ngiven form as a torch that\ncalls victory."
  },
  {
   "id": "exitem:0015:04",
   "jp": "即位の証",
   "refs": 1,
-  "en": ""
+  "en": "Coronation Proof"
  },
  {
   "id": "exitem:0015:08",
   "jp": "天皇の即位の証たる\n大嘗の祭具が実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Daijo rite tools, proof of an\nemperor's enthronement, given\nform."
  },
  {
   "id": "exitem:0016:04",
   "jp": "律の書",
   "refs": 1,
-  "en": ""
+  "en": "Penal Code"
  },
  {
   "id": "exitem:0016:08",
   "jp": "異国の刑法が\n書簡として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "A foreign penal code given\nform as a document."
  },
  {
   "id": "exitem:0017:04",
   "jp": "令の書",
   "refs": 1,
-  "en": ""
+  "en": "Civil Code"
  },
  {
   "id": "exitem:0017:08",
   "jp": "古代の行政法が\n書簡として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Ancient administrative law\ngiven form as a document."
  },
  {
   "id": "exitem:0018:04",
   "jp": "道作りの木簡",
   "refs": 1,
-  "en": ""
+  "en": "Statute Tablet"
  },
  {
   "id": "exitem:0018:08",
   "jp": "行政を定める為に\n選定された者達の知識が\n木簡として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The knowledge of those chosen\nto set up government, given\nform as a wooden slip."
  },
  {
   "id": "exitem:0019:04",
   "jp": "回転力の書",
   "refs": 1,
-  "en": ""
+  "en": "Turning Scroll"
  },
  {
   "id": "exitem:0019:08",
   "jp": "運命を変えられた人間の\n強烈な怨念が書簡として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The fierce grudge of one whose\nfate was changed, given form\nas a document."
  },
  {
   "id": "exitem:0020:04",
   "jp": "儀式の炎",
   "refs": 1,
-  "en": ""
+  "en": "Ritual Flame"
  },
  {
   "id": "exitem:0020:08",
   "jp": "加持祈祷をした\n人々の祈りの力が\n炎として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The power of people praying at\nrites, given form as fire."
  },
  {
   "id": "exitem:0021:04",
   "jp": "鎮炎の祈り",
   "refs": 1,
-  "en": ""
+  "en": "Flamebane Prayer"
  },
  {
   "id": "exitem:0021:08",
   "jp": "災厄を払う力が金剛杵として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Power that wards off calamity,\ngiven form as a vajra."
  },
  {
   "id": "exitem:0022:04",
   "jp": "改名の証",
   "refs": 1,
-  "en": ""
+  "en": "Renaming Proof"
  },
  {
   "id": "exitem:0022:08",
   "jp": "戦禍を避ける為に\n自らの名前を変えた\n人間の強い意志が\n木簡として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The will of one who changed\nhis name to escape war, given\nform as a slip."
  },
  {
   "id": "exitem:0023:04",
   "jp": "馬力の歯車",
   "refs": 1,
-  "en": ""
+  "en": "Horsepower Gear"
  },
  {
   "id": "exitem:0023:08",
   "jp": "巨大な力を生み出すための\n木製の歯車",
   "refs": 1,
-  "en": ""
+  "en": "A wooden gear for producing\ngreat power."
  },
  {
   "id": "exitem:0024:04",
   "jp": "血錆の斬首刀",
   "refs": 1,
-  "en": ""
+  "en": "Blood-Rust Sword"
  },
  {
   "id": "exitem:0024:08",
   "jp": "深い恨みが血に錆びた\n刀剣として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Deep hatred given form as a\nblood-rusted sword."
  },
  {
   "id": "exitem:0025:04",
   "jp": "反旗の志",
   "refs": 1,
-  "en": ""
+  "en": "Rebel's Resolve"
  },
  {
   "id": "exitem:0025:08",
   "jp": "国の将に対して挙兵する\n強い意志が書簡として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The firm will to raise arms\nagainst the realm's general,\ngiven form as a document."
  },
  {
   "id": "exitem:0026:04",
   "jp": "敗走の書簡",
   "refs": 1,
-  "en": ""
+  "en": "Retreat Letter"
  },
  {
   "id": "exitem:0026:08",
   "jp": "一族を討たれてなお、\n逃げ延びた将の無念が\n書簡として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The regret of a general who\nfled though his clan fell,\ngiven form as a letter."
  },
  {
   "id": "exitem:0027:04",
   "jp": "共闘の志",
   "refs": 1,
-  "en": ""
+  "en": "Allied Resolve"
  },
  {
   "id": "exitem:0027:08",
   "jp": "共闘を誓う強い意志が\n書簡として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "A firm vow to fight together,\ngiven form as a document."
  },
  {
   "id": "exitem:0028:04",
   "jp": "牡鹿の印章",
   "refs": 1,
-  "en": ""
+  "en": "Stag Seal"
  },
  {
   "id": "exitem:0028:08",
   "jp": "牡鹿の装飾が施された印章",
   "refs": 1,
-  "en": ""
+  "en": "A seal decorated with a stag."
  },
  {
   "id": "exitem:0029:04",
   "jp": "縛鍵の上片",
   "refs": 1,
-  "en": ""
+  "en": "Bind Key (Upper)"
  },
  {
   "id": "exitem:0029:08",
   "jp": "柳と雨が彫られた\nプレートの上半分",
   "refs": 1,
-  "en": ""
+  "en": "Top half of a plate carved\nwith willow and rain."
  },
  {
   "id": "exitem:0030:04",
   "jp": "潮変えの手回し",
   "refs": 1,
-  "en": ""
+  "en": "Tide-Turn Crank"
  },
  {
   "id": "exitem:0030:08",
   "jp": "潮の流れを変える力が\n手回しとして実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The power to change the tide's\nflow, given form as a crank."
  },
  {
   "id": "exitem:0031:04",
   "jp": "追討の刺刀",
   "refs": 1,
-  "en": ""
+  "en": "Pursuit Dirk"
  },
  {
   "id": "exitem:0031:08",
   "jp": "平氏追討の任を受ける誉れが\n小型の刀として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The honor of the order to hunt\nthe Taira, given form as a\nshort blade."
  },
  {
   "id": "exitem:0032:04",
   "jp": "八咫鏡",
   "refs": 1,
-  "en": ""
+  "en": "Yata Mirror"
  },
  {
   "id": "exitem:0032:08",
   "jp": "日神の力を象徴した、\n三種の神器の一つが\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "One of the Three Sacred\nTreasures, the sun god's\npower, given form."
  },
  {
   "id": "exitem:0033:04",
   "jp": "八尺瓊勾玉",
   "refs": 1,
-  "en": ""
+  "en": "Yasakani Jewel"
  },
  {
   "id": "exitem:0033:08",
   "jp": "月神の力を象徴した、\n三種の神器の一つが\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "One of the Three Sacred\nTreasures, the moon god's\npower, given form."
  },
  {
   "id": "exitem:0034:04",
   "jp": "道開きの知恵",
   "refs": 1,
-  "en": ""
+  "en": "Wisdom of Ways"
  },
  {
   "id": "exitem:0034:08",
   "jp": "困難な道行きを切り開く、\n弁慶の知恵が頭巾として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Benkei's wit for cutting\nthrough hard roads, given form\nas a hood."
  },
  {
   "id": "exitem:0035:04",
   "jp": "上洛の歯車",
   "refs": 1,
-  "en": ""
+  "en": "Kyoto March Gear"
  },
  {
   "id": "exitem:0035:08",
   "jp": "上洛を目指す武将達の野心が\n歯車として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Warlords' ambition to march on\nKyoto, given form as a gear."
  },
  {
   "id": "exitem:0036:04",
   "jp": "憤怒の弦",
   "refs": 1,
-  "en": ""
+  "en": "String of Wrath"
  },
  {
   "id": "exitem:0036:08",
   "jp": "憤怒を織り込んだような\n禍々しい気を放つ弦",
   "refs": 1,
-  "en": ""
+  "en": "A bowstring giving off an evil\naura, as if woven with wrath."
  },
  {
   "id": "exitem:0037:04",
   "jp": "復讐の火鏃",
   "refs": 1,
-  "en": ""
+  "en": "Vengeful Barb"
  },
  {
   "id": "exitem:0037:08",
   "jp": "黒い炎をまとった鏃",
   "refs": 1,
-  "en": ""
+  "en": "An arrowhead wreathed in black\nflame."
  },
  {
   "id": "exitem:0038:04",
   "jp": "革新の鍵",
   "refs": 1,
-  "en": ""
+  "en": "Key of Reform"
  },
  {
   "id": "exitem:0038:08",
   "jp": "新しい価値を見出す\n信長の先見性が鍵として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Nobunaga's foresight in\nfinding new value, given form\nas a key."
  },
  {
   "id": "exitem:0039:04",
   "jp": "不和の鍵",
   "refs": 1,
-  "en": ""
+  "en": "Key of Discord"
  },
  {
   "id": "exitem:0039:08",
   "jp": "人の負の感情が鍵として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "People's negative emotions\ngiven form as a key."
  },
  {
   "id": "exitem:0040:04",
   "jp": "血の証",
   "refs": 1,
-  "en": ""
+  "en": "Proof of Blood"
  },
  {
   "id": "exitem:0040:08",
   "jp": "血脈や己の犠牲を厭わない、\n忠義の念が宝玉として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Loyalty that spares neither\nkin nor self, given form as a\njewel."
  },
  {
   "id": "exitem:0041:04",
   "jp": "神君の鍵",
   "refs": 1,
-  "en": ""
+  "en": "Divine Lord Key"
  },
  {
   "id": "exitem:0041:08",
   "jp": "神格化された家康の力が\n鍵として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The power of the deified\nIeyasu given form as a key."
  },
  {
   "id": "exitem:0042:04",
   "jp": "忍耐の鍵",
   "refs": 1,
-  "en": ""
+  "en": "Key of Patience"
  },
  {
   "id": "exitem:0042:08",
   "jp": "大敗に耐える家康の精神が\n鍵として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Ieyasu's spirit that endured\ncrushing defeat, given form as\na key."
  },
  {
   "id": "exitem:0043:04",
   "jp": "猪牙の印章",
   "refs": 1,
-  "en": ""
+  "en": "Boar Tusk Seal"
  },
  {
   "id": "exitem:0043:08",
   "jp": "猪の装飾が施された印章",
   "refs": 1,
-  "en": ""
+  "en": "A seal decorated with a boar."
  },
  {
   "id": "exitem:0044:04",
   "jp": "封鍵の左片",
   "refs": 1,
-  "en": ""
+  "en": "Seal Key (Left)"
  },
  {
   "id": "exitem:0044:08",
   "jp": "桐と鳳凰が彫られた\nメダルの左半分",
   "refs": 1,
-  "en": ""
+  "en": "Left half of a medal carved\nwith paulownia and phoenix."
  },
  {
   "id": "exitem:0045:04",
   "jp": "聖刃",
   "refs": 1,
-  "en": ""
+  "en": "Holy Blade"
  },
  {
   "id": "exitem:0045:08",
   "jp": "殉教した者達の魂が\n短刀として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The souls of martyrs given\nform as a dagger."
  },
  {
   "id": "exitem:0046:04",
   "jp": "鼠義銭",
   "refs": 1,
-  "en": ""
+  "en": "Nezumi Coin"
  },
  {
   "id": "exitem:0046:08",
   "jp": "義賊の慈悲心が古銭として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "A noble thief's mercy given\nform as an old coin."
  },
  {
   "id": "exitem:0047:04",
   "jp": "義心の炎",
   "refs": 1,
-  "en": ""
+  "en": "Flame of Justice"
  },
  {
   "id": "exitem:0047:08",
   "jp": "燃えあがる義の心が\n炎を模した彫刻として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "A blazing heart of justice\ngiven form as a flame-shaped\ncarving."
  },
  {
   "id": "exitem:0048:04",
   "jp": "義士刃",
   "refs": 1,
-  "en": ""
+  "en": "Loyalist Blade"
  },
  {
   "id": "exitem:0048:08",
   "jp": "義に殉じる心が\n短刀として実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "A heart ready to die for\nhonor, given form as a dagger."
  },
  {
   "id": "exitem:0049:04",
   "jp": "蜂起の舵",
   "refs": 1,
-  "en": ""
+  "en": "Uprising Helm"
  },
  {
   "id": "exitem:0049:08",
   "jp": "権威の不条理に対する\n民の怒りが舵として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The people's anger at unjust\nauthority, given form as a\nship's helm."
  },
  {
   "id": "exitem:0050:04",
   "jp": "攘夷の舵",
   "refs": 1,
-  "en": ""
+  "en": "Expulsion Helm"
  },
  {
   "id": "exitem:0050:08",
   "jp": "異国の侵略に怯える\n民の畏怖が舵として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The people's dread of foreign\ninvasion, given form as a\nship's helm."
  },
  {
   "id": "exitem:0051:04",
   "jp": "倒幕の砲鍵",
   "refs": 1,
-  "en": ""
+  "en": "Rebel Cannon Key"
  },
  {
   "id": "exitem:0051:08",
   "jp": "維新志士達の倒幕の念が\n大砲を模した鍵として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Patriots' will to topple the\nshogunate, given form as a\ncannon key."
  },
  {
   "id": "exitem:0052:04",
   "jp": "王政の証",
   "refs": 1,
-  "en": ""
+  "en": "Imperial Mark"
  },
  {
   "id": "exitem:0052:08",
   "jp": "王政の再開が生み出す\n変革の力が杯状の鍵として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Change born of restored\nimperial rule, given form as a\ncup-shaped key."
  },
  {
   "id": "exitem:0053:04",
   "jp": "華族の矜持",
   "refs": 1,
-  "en": ""
+  "en": "Noble's Pride"
  },
  {
   "id": "exitem:0053:08",
   "jp": "華族の矜持と挫折の念が\n折れた日本刀として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "The pride and defeat of the\nnobility, given form as a\nbroken katana."
  },
  {
   "id": "exitem:0054:04",
   "jp": "富国の秒針",
   "refs": 1,
-  "en": ""
+  "en": "Prosperity Hand"
  },
  {
   "id": "exitem:0054:08",
   "jp": "近代化へ邁進する\n日本国の焦りが秒針として\n実体化したもの",
   "refs": 1,
-  "en": ""
+  "en": "Japan's haste to modernize,\ngiven form as a clock's second\nhand."
  },
  {
   "id": "exitem:0055:04",
   "jp": "牡丹の印章",
   "refs": 1,
-  "en": ""
+  "en": "Peony Seal"
  },
  {
   "id": "exitem:0055:08",
   "jp": "牡丹の装飾が施された印章",
   "refs": 1,
-  "en": ""
+  "en": "A seal decorated with a peony."
  },
  {
   "id": "exitem:0056:04",
   "jp": "縛鍵の下片",
   "refs": 1,
-  "en": ""
+  "en": "Bind Key (Lower)"
  },
  {
   "id": "exitem:0056:08",
   "jp": "柳と雨が彫られた\nプレートの下半分",
   "refs": 1,
-  "en": ""
+  "en": "Bottom half of a plate carved\nwith willow and rain."
  },
  {
   "id": "exitem:0057:04",
   "jp": "古びたお守り",
   "refs": 1,
-  "en": ""
+  "en": "Worn Charm"
  },
  {
   "id": "exitem:0057:08",
   "jp": "依頼主のイタコにとって\n大事な人の遺品。",
   "refs": 1,
-  "en": ""
+  "en": "A keepsake of someone dear to\nthe itako who made the\nrequest."
  },
  {
   "id": "exitem:0058:04",
   "jp": "封の剥がれた桐箱",
   "refs": 1,
-  "en": ""
+  "en": "Unsealed Box"
  },
  {
   "id": "exitem:0058:08",
   "jp": "依頼主の少年の家に伝わってきた\n契約の箱。封が剥がされていて\n正常に機能していない。",
   "refs": 1,
-  "en": ""
+  "en": "The boy client's family\ncovenant box. Its seal is torn\noff; it doesn't work right."
  },
  {
   "id": "exitem:0059:04",
   "jp": "心霊写真",
   "refs": 1,
-  "en": ""
+  "en": "Ghost Photo"
  },
  {
   "id": "exitem:0059:08",
   "jp": "依頼主の前世での弟の写真…？",
   "refs": 1,
-  "en": ""
+  "en": "A photo of the client's\nbrother from a past life...?"
  },
  {
   "id": "exitem:0060:04",
   "jp": "伝説のレシピ",
   "refs": 1,
-  "en": ""
+  "en": "Legendary Recipe"
  },
  {
   "id": "exitem:0060:08",
   "jp": "古代インドの伝承でのみ知られる\n究極のカレーのレシピが書かれた\n禁断の知識。",
   "refs": 1,
-  "en": ""
+  "en": "Forbidden lore: the ultimate\ncurry recipe, known only from\nancient Indian legend."
  }
 ]

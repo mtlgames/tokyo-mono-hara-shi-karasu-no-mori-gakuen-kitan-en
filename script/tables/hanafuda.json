@@ -3,7 +3,7 @@
   "id": "hanafuda:0000:04",
   "jp": "松の屑・壱",
   "refs": 1,
-  "en": ""
+  "en": "Pine Chaff I"
  },
  {
   "id": "hanafuda:0000:08",
@@ -15,19 +15,19 @@
   "id": "hanafuda:0000:10",
   "jp": "持続：２ターン\n範囲内に入った敵へ\n冬５０％中ダメージ。\n発動時に松の屑・弐\nも連動して発動する。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 2 turns\nMedium 50% Winter\ndamage to foes\nentering. Also sets\noff Pine Chaff II."
  },
  {
   "id": "hanafuda:0001:04",
   "jp": "松の屑・弐",
   "refs": 1,
-  "en": ""
+  "en": "Pine Chaff II"
  },
  {
   "id": "hanafuda:0001:10",
   "jp": "持続：２ターン\n範囲内に入った敵へ\n冬５０％中ダメージ。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 2 turns\nMedium 50% Winter\ndamage to foes\nentering the range."
  },
  {
   "id": "hanafuda:0002:04",
@@ -45,19 +45,19 @@
   "id": "hanafuda:0002:10",
   "jp": "持続：２ターン\n範囲内に入った敵を\n自分の居る方向へ\n１マス吹き飛ばす。\n冬５０％中ダメージ。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 2 turns\nKnocks foes entering\n1 square toward you.\nMedium 50% Winter\ndamage."
  },
  {
   "id": "hanafuda:0002:3c",
   "jp": "体育無効",
   "refs": 2,
-  "en": ""
+  "en": "No P.E."
  },
  {
   "id": "hanafuda:0003:04",
   "jp": "松に鶴",
   "refs": 1,
-  "en": ""
+  "en": "Pine and Crane"
  },
  {
   "id": "hanafuda:0003:08",
@@ -69,37 +69,37 @@
   "id": "hanafuda:0003:10",
   "jp": "持続：１ターン\n自分が範囲内にいる\n間、全射撃攻撃が\n弱点への攻撃となる。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 turn\nWhile you are in\nrange, all ranged\nattacks hit weak\npoints."
  },
  {
   "id": "hanafuda:0003:3c",
   "jp": "取得経験値　－ 40％",
   "refs": 2,
-  "en": ""
+  "en": "EXP Gained    -40%"
  },
  {
   "id": "hanafuda:0004:04",
   "jp": "梅の屑・壱",
   "refs": 1,
-  "en": ""
+  "en": "Plum Chaff I"
  },
  {
   "id": "hanafuda:0004:10",
   "jp": "持続：３ターン\n封札した敵が\n範囲内に居た場合\n経験値が＋５０％\n多く手に入る。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 3 turns\nSealing a foe in\nrange earns +50%\nmore EXP."
  },
  {
   "id": "hanafuda:0005:04",
   "jp": "梅の屑・弐",
   "refs": 1,
-  "en": ""
+  "en": "Plum Chaff II"
  },
  {
   "id": "hanafuda:0005:10",
   "jp": "持続：３ターン\n封札した敵が\n範囲内に居た場合\n敵の持つアイテムを\n確実に手に入れる。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 3 turns\nSealing a foe in\nrange always gets\nits item."
  },
  {
   "id": "hanafuda:0006:04",
@@ -111,13 +111,13 @@
   "id": "hanafuda:0006:10",
   "jp": "持続：２ターン\n範囲内に居る敵は\n移動できなくなる。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 2 turns\nFoes in range cannot\nmove."
  },
  {
   "id": "hanafuda:0006:3c",
   "jp": "数学無効",
   "refs": 2,
-  "en": ""
+  "en": "No Math"
  },
  {
   "id": "hanafuda:0007:04",
@@ -135,13 +135,13 @@
   "id": "hanafuda:0007:10",
   "jp": "持続：１ターン\n範囲内に居る間、\n自分の武器攻撃が\n全て周囲２マスの\n射程となる。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 turn\nWhile in range, all\nyour weapon attacks\nreach 2 squares\naround."
  },
  {
   "id": "hanafuda:0008:04",
   "jp": "桜の屑・壱",
   "refs": 1,
-  "en": ""
+  "en": "Cherry Chaff I"
  },
  {
   "id": "hanafuda:0008:08",
@@ -153,7 +153,7 @@
   "id": "hanafuda:0008:10",
   "jp": "持続：３ターン\n範囲内では敵からの\n状態異常効果無効。\n範囲が繋がった他の\n札の範囲でも発動。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 3 turns\nBlocks foes'\nailments in range.\nAlso works in linked\ncard ranges."
  },
  {
   "id": "hanafuda:0009:04",
@@ -165,7 +165,7 @@
   "id": "hanafuda:0009:10",
   "jp": "持続：３ターン\n範囲内に居る間、\n秘法眼コスト無料。\n範囲が繋がった他の\n札の範囲でも発動。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 3 turns\nArcane Eye costs\nnothing in range.\nAlso works in linked\ncard ranges."
  },
  {
   "id": "hanafuda:0010:04",
@@ -183,13 +183,13 @@
   "id": "hanafuda:0010:10",
   "jp": "持続：２ターン\nターン終了時、\n範囲内の敵１体に\nつき全ての能力値が\n＋１０％上昇。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 2 turns\nAt turn end, all\nstats +10% per foe\nin range."
  },
  {
   "id": "hanafuda:0010:3c",
   "jp": "生物無効",
   "refs": 2,
-  "en": ""
+  "en": "No Biology"
  },
  {
   "id": "hanafuda:0011:04",
@@ -207,19 +207,19 @@
   "id": "hanafuda:0011:10",
   "jp": "持続：１ターン\n範囲内に別の花札を\n配置する際、その\n秘法眼値消費が百点\n以上なら４割引する。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 turn\nCards placed in\nrange that cost 100+\nArcane Eye cost 40%\nless."
  },
  {
   "id": "hanafuda:0011:3c",
   "jp": "防御力　　　－ 50％",
   "refs": 1,
-  "en": ""
+  "en": "Defense       -50%"
  },
  {
   "id": "hanafuda:0011:58",
   "jp": "攻撃力　　　－ 50％",
   "refs": 1,
-  "en": ""
+  "en": "Attack        -50%"
  },
  {
   "id": "hanafuda:0012:04",
@@ -231,7 +231,7 @@
   "id": "hanafuda:0012:10",
   "jp": "持続：２ターン\n範囲内に居る間、\n装備品の属性補正を\n＋２０％上げる。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 2 turns\nWhile in range, gear\nelement bonus +20%."
  },
  {
   "id": "hanafuda:0013:04",
@@ -243,7 +243,7 @@
   "id": "hanafuda:0013:10",
   "jp": "持続：３ターン\n範囲内に居る敵の\n属性を無属性にする。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 3 turns\nFoes in range lose\ntheir element."
  },
  {
   "id": "hanafuda:0014:04",
@@ -255,13 +255,13 @@
   "id": "hanafuda:0014:10",
   "jp": "持続：３ターン\n蔓を絡ませて\n範囲内に入った敵は\n前進できなくなる。\n飛行する敵には無効。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 3 turns\nVines stop foes\nentering from moving\nforward. No effect\non fliers."
  },
  {
   "id": "hanafuda:0014:3c",
   "jp": "国語無効",
   "refs": 2,
-  "en": ""
+  "en": "No Japanese"
  },
  {
   "id": "hanafuda:0015:04",
@@ -279,43 +279,43 @@
   "id": "hanafuda:0015:10",
   "jp": "持続：２ターン\n範囲内に居る敵の\n属性を、現在居る\n洞の属性に変更。\n例：秋の洞→秋属性",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 2 turns\nFoes in range take\nthis Hollow's\nelement. Ex: Autumn\nHollow -> Autumn"
  },
  {
   "id": "hanafuda:0015:3c",
   "jp": "防御力　　　－ 30％",
   "refs": 1,
-  "en": ""
+  "en": "Defense       -30%"
  },
  {
   "id": "hanafuda:0015:58",
   "jp": "攻撃力　　　－ 30％",
   "refs": 1,
-  "en": ""
+  "en": "Attack        -30%"
  },
  {
   "id": "hanafuda:0016:04",
   "jp": "菖蒲の屑・壱",
   "refs": 1,
-  "en": ""
+  "en": "Iris Chaff I"
  },
  {
   "id": "hanafuda:0016:10",
   "jp": "持続：３ターン\n敵か自分が\n範囲内を移動する際\n移動ＡＰ消費が\n＋３０％増加する。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 3 turns\nMoving in range\ncosts foes or you\n+30% move AP."
  },
  {
   "id": "hanafuda:0017:04",
   "jp": "菖蒲の屑・弐",
   "refs": 1,
-  "en": ""
+  "en": "Iris Chaff II"
  },
  {
   "id": "hanafuda:0017:10",
   "jp": "持続：３ターン\n敵か自分が\n範囲内で攻撃する際\n攻撃ＡＰ消費が\n＋３０％増加する。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 3 turns\nAttacking in range\ncosts foes or you\n+30% attack AP."
  },
  {
   "id": "hanafuda:0018:04",
@@ -327,13 +327,13 @@
   "id": "hanafuda:0018:10",
   "jp": "持続：３ターン\n一方通行の道を作り\n範囲内に入った敵は\n範囲内で方向転換が\nできなくなる。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 3 turns\nMakes a one-way\npath. Foes entering\ncan't turn while in\nrange."
  },
  {
   "id": "hanafuda:0018:3c",
   "jp": "外国語無効",
   "refs": 2,
-  "en": ""
+  "en": "No Languages"
  },
  {
   "id": "hanafuda:0019:04",
@@ -345,19 +345,19 @@
   "id": "hanafuda:0019:10",
   "jp": "持続：３ターン\n範囲内に居る敵は\n氷呪状態となり\n迎撃できなくなる。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 3 turns\nFoes in range get\nIce Curse and cannot\ncounter."
  },
  {
   "id": "hanafuda:0019:58",
   "jp": "最大ＡＰ　　＋ 5％",
   "refs": 1,
-  "en": ""
+  "en": "Max AP         +5%"
  },
  {
   "id": "hanafuda:0020:04",
   "jp": "牡丹の屑・壱",
   "refs": 1,
-  "en": ""
+  "en": "Peony Chaff I"
  },
  {
   "id": "hanafuda:0020:08",
@@ -369,19 +369,19 @@
   "id": "hanafuda:0020:10",
   "jp": "持続：１回\n範囲が繋がっている\n松の屑・壱が起動\nしたら範囲内の敵へ\n夏５０％中ダメージ",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 use\nWhen linked Pine\nChaff I fires,\nmedium 50% Summer\ndamage to foes in\nrange."
  },
  {
   "id": "hanafuda:0021:04",
   "jp": "牡丹の屑・弐",
   "refs": 1,
-  "en": ""
+  "en": "Peony Chaff II"
  },
  {
   "id": "hanafuda:0021:10",
   "jp": "持続：１回\n範囲が繋がっている\n松の屑・弐が起動\nしたら範囲内の敵へ\n夏５０％中ダメージ",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 use\nWhen linked Pine\nChaff II fires,\nmedium 50% Summer\ndamage to foes in\nrange."
  },
  {
   "id": "hanafuda:0022:04",
@@ -399,13 +399,13 @@
   "id": "hanafuda:0022:10",
   "jp": "持続：１回\n範囲内に入った敵へ\n夏５０％中ダメージ。\n範囲が重なった他の\n札の範囲でも被弾。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 use\nMedium 50% Summer\ndamage to foes\nentering. Also hits\nin overlapping\nranges."
  },
  {
   "id": "hanafuda:0022:58",
   "jp": "最大ＡＰ　　－ 30％",
   "refs": 1,
-  "en": ""
+  "en": "Max AP        -30%"
  },
  {
   "id": "hanafuda:0023:04",
@@ -423,31 +423,31 @@
   "id": "hanafuda:0023:10",
   "jp": "持続：１ターン\n敵が自分の代わりに\n置いた札を狙う。\n札が３回攻撃を\n受けても終了する。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 turn\nFoes target your\nplaced card instead\nof you. Ends if it\ntakes 3 hits."
  },
  {
   "id": "hanafuda:0023:3c",
   "jp": "防御力　　　＋ 20％",
   "refs": 1,
-  "en": ""
+  "en": "Defense       +20%"
  },
  {
   "id": "hanafuda:0023:58",
   "jp": "攻撃力　　　＋ 5％",
   "refs": 1,
-  "en": ""
+  "en": "Attack         +5%"
  },
  {
   "id": "hanafuda:0024:04",
   "jp": "萩の屑・壱",
   "refs": 1,
-  "en": ""
+  "en": "Clover Chaff I"
  },
  {
   "id": "hanafuda:0024:10",
   "jp": "持続：１ターン\n範囲内に入った敵を\n札の向いている方へ\n２マス吹き飛ばす。\n夏５０％小ダメージ。",
   "refs": 2,
-  "en": ""
+  "en": "Duration: 1 turn\nFoes entering fly 2\nsquares the card's\nway. Small 50%\nSummer damage."
  },
  {
   "id": "hanafuda:0025:04",
@@ -465,13 +465,13 @@
   "id": "hanafuda:0026:10",
   "jp": "持続：１回\n敵ターン終了時\n範囲内に居る敵を\n札の向いている方へ\n４マス吹き飛ばす。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 use\nAt enemy turn end,\nknocks foes in range\n4 squares the way\nthe card faces."
  },
  {
   "id": "hanafuda:0026:3c",
   "jp": "現代社会無効",
   "refs": 2,
-  "en": ""
+  "en": "No Social Studies"
  },
  {
   "id": "hanafuda:0027:04",
@@ -483,25 +483,25 @@
   "id": "hanafuda:0027:10",
   "jp": "持続：１ターン\n範囲内に敵が３体\n入ったら札を中心に\n４マス吹き飛ばす。\n夏５０％大ダメージ。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 turn\nWhen 3 foes enter,\nblasts them 4\nsquares off the\ncard. Big 50% Summer\ndamage."
  },
  {
   "id": "hanafuda:0027:3c",
   "jp": "回転消費ＡＰ２倍",
   "refs": 2,
-  "en": ""
+  "en": "Turn AP Cost    x2"
  },
  {
   "id": "hanafuda:0028:04",
   "jp": "芒の屑・壱",
   "refs": 1,
-  "en": ""
+  "en": "Pampas Chaff I"
  },
  {
   "id": "hanafuda:0028:10",
   "jp": "持続：３ターン\n範囲内に入った敵を\n捻挫状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 3 turns\nFoes entering the\nrange get Sprain."
  },
  {
   "id": "hanafuda:0029:04",
@@ -513,7 +513,7 @@
   "id": "hanafuda:0029:10",
   "jp": "持続：３ターン\n範囲内に入った敵を\n睡眠状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 3 turns\nFoes entering the\nrange fall Asleep."
  },
  {
   "id": "hanafuda:0030:04",
@@ -525,13 +525,13 @@
   "id": "hanafuda:0030:10",
   "jp": "持続：３ターン\n範囲内に入った敵を\n封呪状態にする。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 3 turns\nFoes entering the\nrange get Seal\nCurse."
  },
  {
   "id": "hanafuda:0030:58",
   "jp": "最大ＡＰ　　＋ 30％",
   "refs": 1,
-  "en": ""
+  "en": "Max AP        +30%"
  },
  {
   "id": "hanafuda:0031:04",
@@ -549,13 +549,13 @@
   "id": "hanafuda:0031:10",
   "jp": "持続：１回\n自ターン終了時、\n空中から巨大な隕石\nを落とす。範囲内の\n全員に大ダメージ。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 use\nAt your turn end, a\nhuge meteor falls.\nLarge damage to all\nin range."
  },
  {
   "id": "hanafuda:0031:3c",
   "jp": "状態異常防御－ 90％",
   "refs": 2,
-  "en": ""
+  "en": "Ailment Resist-90%"
  },
  {
   "id": "hanafuda:0032:04",
@@ -573,7 +573,7 @@
   "id": "hanafuda:0032:10",
   "jp": "持続：２ターン\n範囲内に居る間、\n敵１体ごとの連続\n攻撃のダメージを\n１０％×回数分軽減。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 2 turns\nWhile in range, each\nfoe's combo damage\nis cut 10% per hit."
  },
  {
   "id": "hanafuda:0033:04",
@@ -585,7 +585,7 @@
   "id": "hanafuda:0033:10",
   "jp": "持続：１ターン\n範囲内に居る間、\n自分の現在ＨＰが\n２％減るごとに\n攻撃力＋１％増加。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 turn\nWhile in range, +1%\nAttack per 2% of\ncurrent HP lost."
  },
  {
   "id": "hanafuda:0034:04",
@@ -603,13 +603,13 @@
   "id": "hanafuda:0034:10",
   "jp": "持続：１回\n範囲内に自分が\n入ったら、範囲内の\n敵を自分を中心に\n１マス吹き飛ばす。\n",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 use\nWhen you enter the\nrange, knocks foes\nin it 1 square away\nfrom you."
  },
  {
   "id": "hanafuda:0034:58",
   "jp": "最大ＡＰ　　－ 10％",
   "refs": 1,
-  "en": ""
+  "en": "Max AP        -10%"
  },
  {
   "id": "hanafuda:0035:04",
@@ -627,37 +627,37 @@
   "id": "hanafuda:0035:10",
   "jp": "持続：３ターン\n範囲内に居る間、\n自分の攻撃力と\n防御力に＋３０％。\n吐き気状態となる。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 3 turns\nWhile in range, your\nAttack and Defense\n+30%. You get\nNausea."
  },
  {
   "id": "hanafuda:0035:58",
   "jp": "状態異常防御＋ 10％",
   "refs": 1,
-  "en": ""
+  "en": "Ailment Resist+10%"
  },
  {
   "id": "hanafuda:0036:04",
   "jp": "紅葉の屑・壱",
   "refs": 1,
-  "en": ""
+  "en": "Maple Chaff I"
  },
  {
   "id": "hanafuda:0036:10",
   "jp": "持続：１ターン\n強風を起こして、\n敵か自分が範囲内\nに入ったら北側へ\n３マス吹き飛ばす。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 turn\nA gale blows foes or\nyou entering the\nrange 3 squares\nnorth."
  },
  {
   "id": "hanafuda:0037:04",
   "jp": "紅葉の屑・弐",
   "refs": 1,
-  "en": ""
+  "en": "Maple Chaff II"
  },
  {
   "id": "hanafuda:0037:10",
   "jp": "持続：１ターン\n強風を起こして、\n敵か自分が範囲内\nに入ったら南側へ\n３マス吹き飛ばす。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 turn\nA gale blows foes or\nyou entering the\nrange 3 squares\nsouth."
  },
  {
   "id": "hanafuda:0038:04",
@@ -669,31 +669,31 @@
   "id": "hanafuda:0038:10",
   "jp": "持続：５ターン\n飛行する敵のみ\n進行できない壁\nを作る。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 5 turns\nMakes a wall that\nonly flying foes\ncannot pass."
  },
  {
   "id": "hanafuda:0038:58",
   "jp": "最大ＡＰ　　－ 5％",
   "refs": 1,
-  "en": ""
+  "en": "Max AP         -5%"
  },
  {
   "id": "hanafuda:0039:04",
   "jp": "紅葉に鹿",
   "refs": 1,
-  "en": ""
+  "en": "Maple and Deer"
  },
  {
   "id": "hanafuda:0039:10",
   "jp": "持続：３ターン\n範囲内に自分が居る\n間、空中に浮かび、\n飛行する敵への射撃\n攻撃のダメージ倍増。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 3 turns\nWhile you are in\nrange, you float and\nranged damage to\nfliers doubles."
  },
  {
   "id": "hanafuda:0039:3c",
   "jp": "移動消費ＡＰ２倍",
   "refs": 2,
-  "en": ""
+  "en": "Move AP Cost    x2"
  },
  {
   "id": "hanafuda:0040:04",
@@ -705,13 +705,13 @@
   "id": "hanafuda:0040:10",
   "jp": "持続：３ターン\n自分が範囲に入った\n状態で連続封札時に\n秘法眼回復量が倍増。\n攻撃速度が速くなる。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 3 turns\nIn range, chain\nseals double Arcane\nEye recovery. Attack\nspeed rises."
  },
  {
   "id": "hanafuda:0040:3c",
   "jp": "取得経験値　－ 90％",
   "refs": 2,
-  "en": ""
+  "en": "EXP Gained    -90%"
  },
  {
   "id": "hanafuda:0041:04",
@@ -723,13 +723,13 @@
   "id": "hanafuda:0041:10",
   "jp": "持続：１ターン\n重力の壁を作る。\n範囲内に入った敵は\n目潰し状態となる。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 turn\nMakes a gravity\nwall. Foes entering\nthe range are\nBlinded."
  },
  {
   "id": "hanafuda:0041:3c",
   "jp": "保健無効",
   "refs": 2,
-  "en": ""
+  "en": "No Health"
  },
  {
   "id": "hanafuda:0042:04",
@@ -741,13 +741,13 @@
   "id": "hanafuda:0042:10",
   "jp": "持続：１回\n敵ターン中に札を\n踏んでいた敵と\n自分の位置を入替え。\nボスには無効。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 use\nSwap places with a\nfoe on the card in\nits turn. No effect\non bosses."
  },
  {
   "id": "hanafuda:0042:58",
   "jp": "リロードＡＰ　－ 50％",
   "refs": 1,
-  "en": ""
+  "en": "Reload AP     -50%"
  },
  {
   "id": "hanafuda:0043:04",
@@ -765,13 +765,13 @@
   "id": "hanafuda:0043:10",
   "jp": "持続：１回\n時間をねじ曲げて\n札を貼った次の\n敵のターンを１回\n飛ばす。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 use\nBends time to skip\nthe next enemy turn\nafter the card is\nplaced."
  },
  {
   "id": "hanafuda:0043:3c",
   "jp": "アイテム入手率－ 90％",
   "refs": 2,
-  "en": ""
+  "en": "Item Drop Rate-90%"
  },
  {
   "id": "hanafuda:0044:04",
@@ -783,7 +783,7 @@
   "id": "hanafuda:0044:10",
   "jp": "持続：１回\n配置して１ターン後\n範囲内に居る全員が\n高確率で即死する。\nボスには無効。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 use\nA turn after\nplacing, all in\nrange likely die at\nonce. No effect on\nbosses."
  },
  {
   "id": "hanafuda:0045:04",
@@ -795,7 +795,7 @@
   "id": "hanafuda:0045:10",
   "jp": "持続：２ターン\n範囲内に居る敵が\n移動するたびＨＰを\n吸収し自分のＨＰを\n回復させる。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 2 turns\nEach time a foe in\nrange moves, drains\nits HP to heal you."
  },
  {
   "id": "hanafuda:0046:04",
@@ -807,7 +807,7 @@
   "id": "hanafuda:0046:10",
   "jp": "持続：１ターン\n範囲内にいる間、\n装備している武器の\n再装填APが無料。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 turn\nWhile in range,\nreloading your\nweapon costs no AP."
  },
  {
   "id": "hanafuda:0047:04",
@@ -819,36 +819,36 @@
   "id": "hanafuda:0047:10",
   "jp": "持続：１回\n範囲内で死亡した時\n復活して夏１００％\n中ダメージを周囲\n２マスの敵に与える。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 1 use\nDie in range to\nrevive, dealing\nmedium 100% Summer\ndamage 2 squares\naround."
  },
  {
   "id": "hanafuda:0047:3c",
   "jp": "リロードＡＰ２倍",
   "refs": 2,
-  "en": ""
+  "en": "Reload AP       x2"
  },
  {
   "id": "hanafuda:0048:04",
   "jp": "裏面用",
   "refs": 1,
-  "en": ""
+  "en": "Card Back"
  },
  {
   "id": "hanafuda:0049:04",
   "jp": "特課試札",
   "refs": 1,
-  "en": ""
+  "en": "Trial Card"
  },
  {
   "id": "hanafuda:0049:10",
   "jp": "持続：３ターン\n範囲内に居る間\n自分の防御力を\n＋５０％増加する。",
   "refs": 1,
-  "en": ""
+  "en": "Duration: 3 turns\nWhile in range,\nraises your DEF\nby +50%."
  },
  {
   "id": "hanafuda:0050:04",
   "jp": "白札",
   "refs": 1,
-  "en": ""
+  "en": "White Card"
  }
 ]

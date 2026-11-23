@@ -3,169 +3,169 @@
   "id": "questshoptext:0000:00",
   "jp": "依頼を探す",
   "refs": 2,
-  "en": ""
+  "en": "Find Requests"
  },
  {
   "id": "questshoptext:0001:00",
   "jp": "依頼を確認",
   "refs": 1,
-  "en": ""
+  "en": "Check Requests"
  },
  {
   "id": "questshoptext:0002:00",
   "jp": "説明を見る",
   "refs": 1,
-  "en": ""
+  "en": "Instructions"
  },
  {
   "id": "questshoptext:0003:00",
   "jp": "プレイヤー",
   "refs": 1,
-  "en": ""
+  "en": "Player"
  },
  {
   "id": "questshoptext:0004:00",
   "jp": "ダウンロード",
   "refs": 1,
-  "en": ""
+  "en": "Download"
  },
  {
   "id": "questshoptext:0005:00",
   "jp": "所持金",
   "refs": 1,
-  "en": ""
+  "en": "Money"
  },
  {
   "id": "questshoptext:0006:00",
   "jp": "円",
   "refs": 1,
-  "en": ""
+  "en": "yen"
  },
  {
   "id": "questshoptext:0007:00",
   "jp": "報酬",
   "refs": 1,
-  "en": ""
+  "en": "Reward"
  },
  {
   "id": "questshoptext:0008:00",
   "jp": "情報料",
   "refs": 1,
-  "en": ""
+  "en": "Info Fee"
  },
  {
   "id": "questshoptext:0009:00",
   "jp": "信頼度",
   "refs": 1,
-  "en": ""
+  "en": "Trust"
  },
  {
   "id": "questshoptext:0010:00",
   "jp": "カードをめくって依頼内容を確認します\n依頼を見るには情報料が必要です",
   "refs": 1,
-  "en": ""
+  "en": "Flip a card to check the request's details.\nViewing a request requires an info fee."
  },
  {
   "id": "questshoptext:0011:00",
   "jp": "カードをめくって依頼内容を確認します",
   "refs": 1,
-  "en": ""
+  "en": "Flip a card to check the request's details."
  },
  {
   "id": "questshoptext:0012:00",
   "jp": "特別無料",
   "refs": 1,
-  "en": ""
+  "en": "Special: Free"
  },
  {
   "id": "questshoptext:0013:00",
   "jp": "決定",
   "refs": 1,
-  "en": ""
+  "en": "Confirm"
  },
  {
   "id": "questshoptext:0014:00",
   "jp": "やめる",
   "refs": 1,
-  "en": ""
+  "en": "Quit"
  },
  {
   "id": "questshoptext:0015:00",
   "jp": "めくる",
   "refs": 1,
-  "en": ""
+  "en": "Flip"
  },
  {
   "id": "questshoptext:0016:00",
   "jp": "選択",
   "refs": 1,
-  "en": ""
+  "en": "Select"
  },
  {
   "id": "questshoptext:0017:00",
   "jp": "キャンセル",
   "refs": 1,
-  "en": ""
+  "en": "Cancel"
  },
  {
   "id": "questshoptext:0018:00",
   "jp": "変更",
   "refs": 1,
-  "en": ""
+  "en": "Change"
  },
  {
   "id": "questshoptext:0019:00",
   "jp": "ランダム選択",
   "refs": 1,
-  "en": ""
+  "en": "Random Pick"
  },
  {
   "id": "questshoptext:0020:00",
   "jp": "戻る",
   "refs": 1,
-  "en": ""
+  "en": "Back"
  },
  {
   "id": "questshoptext:0021:00",
   "jp": "中止",
   "refs": 1,
-  "en": ""
+  "en": "Stop"
  },
  {
   "id": "questshoptext:0022:00",
   "jp": "次へ",
   "refs": 1,
-  "en": ""
+  "en": "Next"
  },
  {
   "id": "questshoptext:0023:00",
   "jp": "削除",
   "refs": 1,
-  "en": ""
+  "en": "Delete"
  },
  {
   "id": "questshoptext:0024:00",
   "jp": "ネットワーク通信をする",
   "refs": 1,
-  "en": ""
+  "en": "Connect to Network"
  },
  {
   "id": "questshoptext:0026:00",
   "jp": "他の人と通信をする",
   "refs": 1,
-  "en": ""
+  "en": "Connect with Others"
  },
  {
   "id": "questshoptext:0027:00",
   "jp": "ダウンロードファイル整理（仮）",
   "refs": 1,
-  "en": ""
+  "en": "Manage Downloads (temp)"
  },
  {
   "id": "questshoptext:0028:00",
   "jp": "詳細を確認",
   "refs": 1,
-  "en": ""
+  "en": "View Details"
  },
  {
   "id": "questshoptext:0029:00",
