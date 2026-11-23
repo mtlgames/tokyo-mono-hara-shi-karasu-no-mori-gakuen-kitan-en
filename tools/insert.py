@@ -13,6 +13,7 @@ TblB pool, pointers repointed); .ksf choices and EBOOT strings are slot-bound (S
     python -X utf8 tools/insert.py          # self-test + counts per kind for both modes
 """
 import json
+import re
 import struct
 import sys
 from pathlib import Path
@@ -165,7 +166,31 @@ class Text:
             IDS.write_text("".join(f"{n}\t{i}\n" for i, n in self.ids.items()), encoding="utf-8")
 
 
+# Player names and nickname formats get spliced into .pwx text ({px}, pnクン), where ASCII bytes are commands (an
+# ASCII default name crashed the game at the first {px} line): they are full-width stand-ins like the script, and
+# the pwx name codes inside them (pn pm yh, a digit after pn) stay ASCII.
+NAME_IDS = {f"systemtext:{r:04d}:00" for r in range(586, 590)}  # default name 七代 千馗 + readings
+# character table (names, readings, speaker labels: the ADV matches the .pwx speaker against it to pick the record
+# {px} uses; an ASCII copy never matches the full-width speaker and crashes), default names, nickname formats
+NAME_EBOOT = [(0x2B6A90, 0x2B784C), (0x2D3A10, 0x2D445C)]
+NAME_CODE = re.compile(r"(pn\d?|pm|yh)")
+
+
+def is_name(what):
+    if what in NAME_IDS:
+        return True
+    stem, _, off = what.partition(":")
+    return stem == "eboot" and any(a <= int(off, 16) <= b for a, b in NAME_EBOOT)
+
+
+def name_bytes(s):
+    return b"".join(p.encode() if i % 2 else to_sjis_text(p).encode("cp932")
+                    for i, p in enumerate(NAME_CODE.split(s)))
+
+
 def ascii_bytes(s, what):
+    if is_name(what):
+        return name_bytes(s)
     try:
         return s.encode("ascii")
     except UnicodeEncodeError:
@@ -279,7 +304,7 @@ TABLE_DIRS = ("app_init.pak/table/", "table/", "dungeon/")
 # never move (moving the base would shift every other entry)
 FIXED = [
     (0x2D25B0, 0x2D2600, "dungeon names 秋の洞.., char[16] array (only the base is referenced)"),
-    (0x2D3A10, 0x2D411C, "nickname formats pnクン.., char[32] fields in per-character records (strides 0x20/0x24)"),
+    (0x2D3A10, 0x2D445C, "nickname formats pnクン.., char[32] fields in per-character records (strides 0x20/0x24)"),
 ]
 
 

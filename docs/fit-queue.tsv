@@ -1,5 +1,32 @@
 id	English	problem
-ms01_01:151:03	You're a Card Sealer, aren't you, Master? Then that / explains it!	honorific さま needs -sama
+item:0325:04	Gazu Hyakki Yagyo	over 16b (item name column): game shows "Hyakki Yagyo"
+item:0339:04	Willow Red Ribbon	over 16b (item name column): game shows "Willow Ribbon" (review g046 Important, open)
+dungeonsysmes:0056:00	Cherry Poetry Ribbon: Stats up per enemy	short card name: dungeonsysmes 34b column max, dungeon log buffer unmeasured
+dungeonsysmes:0057:00	Cherry and Curtain: 100+ cards cheaper	short card name: dungeonsysmes 34b
+dungeonsysmes:0058:00	Wisteria Chaff I: Gear element +20%	short card name: dungeonsysmes 34b
+dungeonsysmes:0059:00	Wisteria Chaff II: Foes lose element	short card name: dungeonsysmes 34b
+dungeonsysmes:0060:00	Wisteria Red Ribbon: Halts non-fliers	short card name: dungeonsysmes 34b
+dungeonsysmes:0061:00	Wisteria and Cuckoo: Hollow-type foes	short card name: dungeonsysmes 34b
+dungeonsysmes:0065:00	Iris and Bridge: No counter, Ice Curse	short card name: dungeonsysmes 34b
+dungeonsysmes:0067:00	Peony Chaff II: Bursts with Pine Chaff II	short card name: dungeonsysmes 34b
+dungeonsysmes:0068:00	Peony Blue Ribbon: Burst, chain via cards	short card name: dungeonsysmes 34b
+dungeonsysmes:0069:00	Peony and Butterflies: Lure foes to card	short card name: dungeonsysmes 34b
+dungeonsysmes:0070:00	Clover Chaff I: Knock 2 to card + burst	short card name: dungeonsysmes 34b
+dungeonsysmes:0071:00	Clover Chaff II: Knock 2 to card + burst	short card name: dungeonsysmes 34b
+dungeonsysmes:0073:00	Clover and Boar: Card burst, knock 4	short card name: dungeonsysmes 34b
+dungeonsysmes:0076:00	Pampas and Geese: Inflicts Seal Curse	short card name: dungeonsysmes 34b
+dungeonsysmes:0077:00	Pampas and Moon: Huge damage, hits all	short card name: dungeonsysmes 34b
+dungeonsysmes:0078:00	Chrysanthemum Chaff I: Cuts combo damage	short card name: dungeonsysmes 34b
+dungeonsysmes:0079:00	Chrysanthemum Chaff II: Attack up as HP drops	short card name + effect: dungeonsysmes 34b
+dungeonsysmes:0080:00	Chrysanthemum Blue Ribbon: Knock 1 out from card	short card name + effect: dungeonsysmes 34b
+dungeonsysmes:0081:00	Chrysanthemum and Sake Cup: Attack/Defense up; Nausea	short card name + effect: dungeonsysmes 34b
+dungeonsysmes:0086:00	Oni Hand and Drum: Arcane Eye recovery x2	short card name: dungeonsysmes 34b
+dungeonsysmes:0090:00	Paulownia and Maker's Mark: Death at turn end	short card name: dungeonsysmes 34b
+dungeonsysmes:0092:00	Paulownia Chaff II: Reload costs no AP	short card name: dungeonsysmes 34b
+dungeonsysmes:0093:00	Paulownia and Phoenix: Revive on death	short card name: dungeonsysmes 34b
+dungeonsysmes:0203:00	Clover Chaff II: Max uses this turn	short card name: dungeonsysmes 34b
+dungeonsysmes:0204:00	Clover and Boar: Max uses this turn	short card name: dungeonsysmes 34b
+dungeonsysmes:0209:00	Pine Chaff I: Winter damage + Pine Chaff II	short card name: dungeonsysmes 34b
 dictionary:0018:04	Yin-Yang and Five / Elements	over 20b / 1 lines of 20b: [17, 8]
 dictionary:0039:04	Karasu no Mori / Academy	over 20b / 1 lines of 20b: [14, 7]
 dungeondoorexplain:0000:04	Door	over 2b / 1 lines of 2b: [4]
@@ -8,7 +35,6 @@ item:0326:10	Social Studies +1  / Japanese -1	over 24b / 1 lines of 24b: [18, 11
 item:0327:10	Social Studies +1  / Health -1	over 24b / 1 lines of 24b: [18, 9]
 item:0328:10	Social Studies +1  / Biology -1	over 24b / 1 lines of 24b: [18, 10]
 item:0329:10	Social Studies +1  Math / -1	over 24b / 1 lines of 24b: [23, 2]
-item:0339:04	Willow Red / Ribbon	over 16b / 1 lines of 16b: [10, 6]
 eboot:pool	~206 EBOOT strings keep Japanese (build WARNING lists ids)	EBOOT string pool ~1.6 KB short: grow the data segment past .bss (docs/re/text.md Free space)
 hanafuda:0000:08	Winter / Chaff	over 7b / 1 lines of 7b: [6, 5]
 hanafuda:0002:04	Pine Poetry / Ribbon	over 14b / 1 lines of 14b: [11, 6]

@@ -239,6 +239,9 @@ separates alternatives) and the Avoid column.
 - wave 0: hanafuda card names are the systemtext list ("Pine and Crane", "Pine Poetry Ribbon", "Chrysanthemum Chaff
   I"); a shorter form only where a field can't hold it (listed in docs/fit-queue.tsv). 光札/種札/冊札/素札 Bright /
   Animal / Ribbon / Chaff cards; 屑 Chaff; 赤短/青短 Red/Blue Ribbon; あかよろし/みよしの Poetry Ribbon.
+  Short form (only where the full name can't fit; every such line in docs/fit-queue.tsv): drop "and", then
+  "Chaff" / "Ribbon" / "Maker's", in that order ("Cherry Curtain", "Wisteria I", "Peony Blue", "Paulownia Mark",
+  "Cherry Poetry"); the flower is always spelled out (Chrysanthemum, never "Mum": British readers read it as mother).
 - wave 0: honorifics only after names; 敵さん "the enemy", オレ様 "the great me" (not "-san"/"Ore-sama").
 - wave 0: ☆ -> `~`; button glyphs spelled (Triangle, Circle, Cross, Square); full-width ％ in a printf string -> `%%`.
 - review fixes: item stat lines use the b045 format "Stat +N  Stat -N" (two spaces between pairs); weapon ailment

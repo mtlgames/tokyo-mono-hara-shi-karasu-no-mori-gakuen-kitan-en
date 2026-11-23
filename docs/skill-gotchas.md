@@ -26,3 +26,5 @@
 - references/emulator-qa.md (Windows): a warp spec used as a scene name with ':' in it (mash=N:keys) becomes an NTFS alternate data stream when written as a state file name; name scenes, don't pass raw specs.
 - references/platform-psp.md: keystone (MIPS32) rejects absolute branch targets at 0x08xxxxxx ("Invalid operand") and pads `b` with a nop; encode `beq $0,$0` by hand (`.word 0x10000000 | (target - (pc+4)) >> 2`).
 - references/platform-psp.md: growable CSVB/system text columns mix short labels and long notices; a label's buffer can be ~40 bytes while its column max is 147: cap stress strings per row (here 3x the JP bytes, min 16), not per column.
+- references/pipeline.md (Marker): the marker/long builds replace whole spans incl. player-name codes ({px}), so name splicing is never exercised; an ASCII default name / EBOOT character table crashed the first {px} line only in the real English build. Warp a {px} line in the en build before phase 7 is called done.
+- references/emulator-qa.md: a full disk (many 1.3 GB test ISOs) made PPSSPP warps die with 'closed the WebSocket' and an empty log; check free space and delete probe ISOs after each run.

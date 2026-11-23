@@ -321,7 +321,7 @@
   "id": "dungeonsysmes:0053:00",
   "jp": "【梅に鶯】全武器を範囲攻撃化",
   "refs": 1,
-  "en": "Plum Warbler: All weapons hit area"
+  "en": "Plum and Warbler: All area attacks"
  },
  {
   "id": "dungeonsysmes:0054:00",
@@ -339,7 +339,7 @@
   "id": "dungeonsysmes:0056:00",
   "jp": "【桜にみよしの】能力値が敵数分上昇",
   "refs": 1,
-  "en": "Cherry Poem: Stats up per enemy"
+  "en": "Cherry Poetry: Stats up per enemy"
  },
  {
   "id": "dungeonsysmes:0057:00",
@@ -417,7 +417,7 @@
   "id": "dungeonsysmes:0069:00",
   "jp": "【牡丹に蝶】敵を札に誘導",
   "refs": 1,
-  "en": "Peony Butterfly: Lure foes to card"
+  "en": "Peony Butterflies: Lure to card"
  },
  {
   "id": "dungeonsysmes:0070:00",
@@ -471,25 +471,25 @@
   "id": "dungeonsysmes:0078:00",
   "jp": "【菊の屑・壱】連続攻撃ダメージ軽減",
   "refs": 1,
-  "en": "Mum I: Cuts combo damage"
+  "en": "Chrysanthemum I: Cuts combo damage"
  },
  {
   "id": "dungeonsysmes:0079:00",
   "jp": "【菊の屑・弐】ＨＰ減少分攻撃力上昇",
   "refs": 1,
-  "en": "Mum II: Attack up as HP drops"
+  "en": "Chrysanthemum II: Attack + HP lost"
  },
  {
   "id": "dungeonsysmes:0080:00",
   "jp": "【菊に青短】札を中心に１ノック",
   "refs": 1,
-  "en": "Mum Blue: Knock 1 out from card"
+  "en": "Chrysanthemum Blue: Card knocks 1"
  },
  {
   "id": "dungeonsysmes:0081:00",
   "jp": "【菊に盃】攻撃・防御力上昇・吐き気",
   "refs": 1,
-  "en": "Mum Cup: Attack/Defense up; Nausea"
+  "en": "Chrysanthemum Cup: Tougher; Nausea"
  },
  {
   "id": "dungeonsysmes:0082:00",
@@ -519,7 +519,7 @@
   "id": "dungeonsysmes:0086:00",
   "jp": "【鬼手に太鼓】秘法眼値回復量倍増",
   "refs": 1,
-  "en": "Oni Drum: Arcane Eye recovery x2"
+  "en": "Oni Hand Drum: Arcane Eye regen x2"
  },
  {
   "id": "dungeonsysmes:0087:00",
@@ -1209,7 +1209,7 @@
   "id": "dungeonsysmes:0201:00",
   "jp": "【松にあかよろし】ターン内発動限界",
   "refs": 1,
-  "en": "Pine Poem: Max uses this turn"
+  "en": "Pine Poetry Ribbon: Max uses/turn"
  },
  {
   "id": "dungeonsysmes:0202:00",
@@ -1293,7 +1293,7 @@
   "id": "dungeonsysmes:0215:00",
   "jp": "【柳に燕】現在位置には転送できない",
   "refs": 1,
-  "en": "Willow Swallow: Can't warp here"
+  "en": "Willow and Swallow: No warp here"
  },
  {
   "id": "dungeonsysmes:0216:00",

@@ -406,7 +406,7 @@ def merge(new, overwrite):
 
 
 def main(argv):
-    if not argv:
+    if not argv or {"-h", "--help"} & set(argv):
         sys.exit(__doc__)
     cmd, args = argv[0], argv[1:]
     if cmd == "split":

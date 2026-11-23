@@ -37,6 +37,14 @@ def test_no_en_no_edits(sc):
     assert insert.file_edits(Fixed({}), sc) == {}
 
 
+def test_names_full_width():
+    """Names spliced into .pwx text ({px}, nickname formats) must hold no ASCII but the pwx name codes."""
+    assert insert.ascii_bytes("Kazuki", "systemtext:0587:00") == to_sjis_text("Kazuki").encode("cp932")
+    assert insert.ascii_bytes("Big Bro pnyh", "eboot:2d3b24") == to_sjis_text("Big Bro ").encode("cp932") + b"pnyh"
+    assert insert.ascii_bytes("pn1-san", "eboot:2d406c") == b"pn1" + to_sjis_text("-san").encode("cp932")
+    assert insert.ascii_bytes("Kazuki", "systemtext:0590:00") == b"Kazuki"
+
+
 def test_pwx_span_and_speaker(sc):
     d = member("pw/ms/ms00_00.pwx")
     by = {x["id"]: x for x in sc["pw/ms/ms00_00.json"]}
