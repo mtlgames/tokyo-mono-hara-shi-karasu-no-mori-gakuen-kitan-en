@@ -77,14 +77,34 @@ lookup 0x08A01C38 (binary search by code), 0x08A01CB0/0x08A01D88 GetGlyph(font, 
 | choice (.ksf) | 29 bytes ASCII; rows at x 116 (~364 px to the screen edge) | scene `choice` (MS00_01 握手する/しない), rows since `engine.CHOICE_PITCH` |
 | system notice (systemtext, boot autosave notes) | **160 bytes** total (161 crashes PPSSPP when the box opens), 4 lines of ~40 chars, ~420 px box | `--qa` byte tests on systemtext:0226:00, work/qa/buf160 |
 | city map destinations (EBOOT 2b1ec4..) | ~11 chars visible (list at x ~380, clipped by the screen edge) | work/qa/warp/emove/city_map |
-| other table strings | **byte cap = the column's longest original** (`insert.table_max`) until measured: buffers are per screen and fixed; longer crashes | long build tour (below) |
+| choice cursor | highlight = len*18 px wide (bytes-based), one row | work/qa/choice_bar_zoom.png |
+| dungeon area label (EBOOT `%s　%s`) | ~370 px, one line at x 5 (to the minimap) | bpsweep + marker dun1 |
+| HUD label systemtext:0411 (良好, field status) | **40 bytes** ok, 48 crash | `--qa` byte tests, work/qa/buf0411.log |
+| other table strings (bytes) | **max(16, 3 x JP bytes), within the column max** (`insert.LONG_ROW/LONG_MIN`): the whole long tour passes with every row at that length | long build tour (below) |
 
-**Long build** (`build.py --long` -> build/karasu_long.iso): every table line as many chars as its column's longest
-original line has bytes, capped at the column's longest string; EBOOT strings fill their slot. Boots (smoke ok), but
-`warp.py --all --tag long` crashes at `field_ch01` (school field, chapter 1): `tools/debug/longbisect.py` blames
-`systemtext:0411:00` 良好 (4 bytes, a condition status shown in the field HUD; at 147 bytes it overflows a small
-buffer). systemtext mixes notices with short labels, so it needs per-row caps (probably the original byte length
-of short rows, the 160-byte notice cap for notices); other tables may hide the same mix. Fix that, then finish the long tour and read the menu budgets.
+**Menu pixel budgets** (long build vs original, `work/qa/wg_menus1.png` / `wg_menus2.png`, left = original;
+menu font ~8 px/char for ASCII, likely advfont14; measure with `insert.font_widths` once the font is confirmed).
+Text never wraps or shrinks: past the budget it overlaps the next element or the screen edge.
+| screen | element (source) | budget |
+|---|---|---|
+| every menu | bottom help bar labels (systemtext 0007-0011 etc.) | **fixed slots**: icons stay where the JP layout put them (verified: same x in orig and long); ~40-55 px per label (△/▢/✕/○), ~95 px for the SELECT label. Tight: candidate for engine work (lay icons out by text width) before abbreviating |
+| field | floor list right (EBOOT 2b1f28..) | ~90 px (x 384 to screen edge) |
+| main menu | items (systemtext 40500-40504, 40045, 40023) | start x fixed per item (JP right-aligned at 432, staggered); text may run to ~470: 90-130 px |
+| item list | item names (item.json) | ~145 px (x 62 to the count column ~210) |
+| item list | description line (x 260) | ~210 px |
+| equip | slot item names | ~150 px (x 92 to the panel edge 240) |
+| cards | card name / text | ~200 px (x 248-462), text box 2 lines |
+| save/load | help bar only | as above |
+| report card | grid cells | label cols ~58 px, value cols ~55 px, 概要 cols ~110 px, top-right labels ~136 px, bottom help lines ~188 px |
+| shop | left menu list | ~78 px (x 0-78, clipped); shop talk is the ADV path (464 px) |
+| city map | destinations | ~11 chars (above) |
+
+**Long build** (`build.py --long` -> build/karasu_long.iso): every table row max(16, 3 x its JP bytes) long, within
+its column's longest line/string; EBOOT strings fill their slot. The first version (column max for every row)
+crashed at `field_ch01`: `tools/debug/longbisect.py` blamed `systemtext:0411:00` 良好 (field HUD label; 40 bytes ok,
+48 crash). With per-row caps **`warp.py --all --tag long` passes all 52 scenes** (2026-11-24, work/qa/long_tour.log,
+shots work/qa/warp/long/). Screens the tour doesn't reach (battle menus beyond the first turn, quests in progress,
+album) are unmeasured: the same byte rule applies there unproven; check in phase 8.
 
 ## Open (next steps)
 - Readability (polish): the left gradient panel (`adv/talk/adv_talk.g2d`, `adv_emotion2.gim`) covers only x 0-150;
