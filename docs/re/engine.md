@@ -106,6 +106,12 @@ crashed at `field_ch01`: `tools/debug/longbisect.py` blamed `systemtext:0411:00`
 shots work/qa/warp/long/). Screens the tour doesn't reach (battle menus beyond the first turn, quests in progress,
 album) are unmeasured: the same byte rule applies there unproven; check in phase 8.
 
+**Fit probe (2026-11-24, `tools/fitprobe.py` -> build/karasu_fit.iso, shots work/qa/fit/):** item names (item:04) at
+32 bytes draw whole in the item list with no crash (they run over the count column at ~x 215: px budget ~145 holds);
+hanafuda / quest / dictionary columns at 2x also no crash in menu_cards, phone_qst, phone_oxas, but those screens
+showed no rows (no cards, quests or dictionary entries owned at field_ch01): a state with cards/quests is needed to
+see them. Other screens that print item names (shop, equip, battle/dungeon log `%s` buffers) are unmeasured.
+
 ## Name codes (verified 2026-11-24: `tools/debug/bpstr.py` breakpoints, warp field_ch01)
 - Codes (table 0x2D822C / 0x2D8380 -> strings 0x2B7878..): `pmyh pnyh pm1 pn1 pm pn` (6 name buffers of 161 bytes:
   first char of surname/given name or reading, full surname, given name) and `px` (full name from the speaker's
