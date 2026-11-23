@@ -117,901 +117,901 @@
   "id": "systemtext:0021:00",
   "jp": "取る",
   "refs": 1,
-  "en": ""
+  "en": "Take"
  },
  {
   "id": "systemtext:0023:00",
   "jp": "セーブ・ロード",
   "refs": 2,
-  "en": ""
+  "en": "Save/Load"
  },
  {
   "id": "systemtext:0024:00",
   "jp": "道具を取り出す",
   "refs": 1,
-  "en": ""
+  "en": "Take Out an Item"
  },
  {
   "id": "systemtext:0026:00",
   "jp": "動かす",
   "refs": 1,
-  "en": ""
+  "en": "Move"
  },
  {
   "id": "systemtext:0027:00",
   "jp": "回す",
   "refs": 2,
-  "en": ""
+  "en": "Turn"
  },
  {
   "id": "systemtext:0030:00",
   "jp": "藤の屑・壱",
   "refs": 1,
-  "en": ""
+  "en": "Wisteria Chaff I"
  },
  {
   "id": "systemtext:0031:00",
   "jp": "芒の屑・壱",
   "refs": 1,
-  "en": ""
+  "en": "Pampas Chaff I"
  },
  {
   "id": "systemtext:0032:00",
   "jp": "梅の屑・壱",
   "refs": 1,
-  "en": ""
+  "en": "Plum Chaff I"
  },
  {
   "id": "systemtext:0033:00",
   "jp": "松の屑・壱",
   "refs": 1,
-  "en": ""
+  "en": "Pine Chaff I"
  },
  {
   "id": "systemtext:0034:00",
   "jp": "菖蒲の屑・壱",
   "refs": 1,
-  "en": ""
+  "en": "Iris Chaff I"
  },
  {
   "id": "systemtext:0035:00",
   "jp": "紅葉の屑・壱",
   "refs": 1,
-  "en": ""
+  "en": "Maple Chaff I"
  },
  {
   "id": "systemtext:0036:00",
   "jp": "中身を取り出す",
   "refs": 1,
-  "en": ""
+  "en": "Take Out Contents"
  },
  {
   "id": "systemtext:0037:00",
   "jp": "花札を取る",
   "refs": 1,
-  "en": ""
+  "en": "Take the Hanafuda"
  },
  {
   "id": "systemtext:0038:00",
   "jp": "話す",
   "refs": 2,
-  "en": ""
+  "en": "Talk"
  },
  {
   "id": "systemtext:0039:00",
   "jp": "　　　消費",
   "refs": 1,
-  "en": ""
+  "en": "Cost"
  },
  {
   "id": "systemtext:0040:00",
   "jp": "　　秘法眼",
   "refs": 1,
-  "en": ""
+  "en": "Arcane Eye"
  },
  {
   "id": "systemtext:0041:00",
   "jp": "この札は現在\n所有していません。",
   "refs": 1,
-  "en": ""
+  "en": "You don't currently own this card."
  },
  {
   "id": "systemtext:0042:00",
   "jp": "秘法眼値が足りません。",
   "refs": 2,
-  "en": ""
+  "en": "Not enough Arcane Eye."
  },
  {
   "id": "systemtext:0043:00",
   "jp": "現在この札は強化中です。\n札強化画面ではがして下さい。",
   "refs": 1,
-  "en": ""
+  "en": "This card is currently in use as an enhancement.\nRemove it on the card enhancement screen."
  },
  {
   "id": "systemtext:0044:00",
   "jp": "自室のアイテムを\n強化中です",
   "refs": 1,
-  "en": ""
+  "en": "It is enhancing an item in your room."
  },
  {
   "id": "systemtext:0045:00",
   "jp": "入れ替える札を選んでください",
   "refs": 1,
-  "en": ""
+  "en": "Choose a card to swap in."
  },
  {
   "id": "systemtext:0046:00",
   "jp": "設置する場所を選んでください",
   "refs": 1,
-  "en": ""
+  "en": "Choose where to place it."
  },
  {
   "id": "systemtext:0047:00",
   "jp": "この札は現在配置されています",
   "refs": 1,
-  "en": ""
+  "en": "This card is currently placed."
  },
  {
   "id": "systemtext:0048:00",
   "jp": "？？？",
   "refs": 8,
-  "en": ""
+  "en": "???"
  },
  {
   "id": "systemtext:0049:00",
   "jp": "場所を変更する",
   "refs": 1,
-  "en": ""
+  "en": "Change Position"
  },
  {
   "id": "systemtext:0050:00",
   "jp": "花札を回収する",
   "refs": 1,
-  "en": ""
+  "en": "Retrieve Hanafuda"
  },
  {
   "id": "systemtext:0051:00",
   "jp": "設置場所を変更します",
   "refs": 1,
-  "en": ""
+  "en": "Change where it is placed."
  },
  {
   "id": "systemtext:0052:00",
   "jp": "花札を回収します",
   "refs": 1,
-  "en": ""
+  "en": "Retrieve the hanafuda."
  },
  {
   "id": "systemtext:0053:00",
   "jp": "射程",
   "refs": 2,
-  "en": ""
+  "en": "Range"
  },
  {
   "id": "systemtext:0054:00",
   "jp": "詳細",
   "refs": 2,
-  "en": ""
+  "en": "Details"
  },
  {
   "id": "systemtext:0057:00",
   "jp": "回収",
   "refs": 1,
-  "en": ""
+  "en": "Retrieve"
  },
  {
   "id": "systemtext:0058:00",
   "jp": "選択",
   "refs": 2,
-  "en": ""
+  "en": "Select"
  },
  {
   "id": "systemtext:0059:00",
   "jp": "配置",
   "refs": 1,
-  "en": ""
+  "en": "Place"
  },
  {
   "id": "systemtext:0060:00",
   "jp": "範囲を回転",
   "refs": 1,
-  "en": ""
+  "en": "Rotate Area"
  },
  {
   "id": "systemtext:0061:00",
   "jp": "日常と意識に関するアンケート",
   "refs": 1,
-  "en": ""
+  "en": "Survey on Daily Life and Awareness"
  },
  {
   "id": "systemtext:0062:00",
   "jp": "質問をよく読み、当てはまるものを答えてください。",
   "refs": 1,
-  "en": ""
+  "en": "Read each question carefully and choose the\nanswer that applies to you."
  },
  {
   "id": "systemtext:0063:00",
   "jp": "フリガナ",
   "refs": 1,
-  "en": ""
+  "en": "Reading"
  },
  {
   "id": "systemtext:0064:00",
   "jp": "氏名",
   "refs": 3,
-  "en": ""
+  "en": "Name"
  },
  {
   "id": "systemtext:0065:00",
   "jp": "問１　勉強について",
   "refs": 1,
-  "en": ""
+  "en": "Q1: Your Studies"
  },
  {
   "id": "systemtext:0066:00",
   "jp": "あなたが興味を持っている科目はなんですか？\n下記の中から1つ選んでください。",
   "refs": 1,
-  "en": ""
+  "en": "Which subject are you interested in? Choose one\nfrom the list below."
  },
  {
   "id": "systemtext:0067:00",
   "jp": "国語",
   "refs": 2,
-  "en": ""
+  "en": "Japanese"
  },
  {
   "id": "systemtext:0068:00",
   "jp": "数学",
   "refs": 2,
-  "en": ""
+  "en": "Math"
  },
  {
   "id": "systemtext:0069:00",
   "jp": "生物",
   "refs": 2,
-  "en": ""
+  "en": "Biology"
  },
  {
   "id": "systemtext:0070:00",
   "jp": "現代社会",
   "refs": 2,
-  "en": ""
+  "en": "Social Studies"
  },
  {
   "id": "systemtext:0071:00",
   "jp": "外国語",
   "refs": 2,
-  "en": ""
+  "en": "Foreign Languages"
  },
  {
   "id": "systemtext:0072:00",
   "jp": "保健",
   "refs": 2,
-  "en": ""
+  "en": "Health"
  },
  {
   "id": "systemtext:0073:00",
   "jp": "体育",
   "refs": 2,
-  "en": ""
+  "en": "P.E."
  },
  {
   "id": "systemtext:0074:00",
   "jp": "問２　図書館について",
   "refs": 1,
-  "en": ""
+  "en": "Q2: The Library"
  },
  {
   "id": "systemtext:0075:00",
   "jp": "あなたは普段、どの程度図書館を利用していますか？\n下記の中から当てはまる物を1つ選んでください。　",
   "refs": 1,
-  "en": ""
+  "en": "How often do you usually use the library? Choose\nthe one answer below that applies."
  },
  {
   "id": "systemtext:0076:00",
   "jp": "よく利用する",
   "refs": 1,
-  "en": ""
+  "en": "Often"
  },
  {
   "id": "systemtext:0077:00",
   "jp": "たまに利用する",
   "refs": 1,
-  "en": ""
+  "en": "Sometimes"
  },
  {
   "id": "systemtext:0078:00",
   "jp": "あまり利用しない",
   "refs": 1,
-  "en": ""
+  "en": "Not much"
  },
  {
   "id": "systemtext:0079:00",
   "jp": "ほとんど利用しない",
   "refs": 1,
-  "en": ""
+  "en": "Hardly ever"
  },
  {
   "id": "systemtext:0080:00",
   "jp": "問３　アルバイトについて",
   "refs": 1,
-  "en": ""
+  "en": "Q3: Part-Time Jobs"
  },
  {
   "id": "systemtext:0081:00",
   "jp": "あなたはアルバイトをしたことがありますか？\nあるいはしてみたいですか？\nまた、それは何のためですか？\n下記の中から当てはまる物を1つ選んでください。",
   "refs": 1,
-  "en": ""
+  "en": "Have you ever had a part-time job, or would you\nlike one? And if so, why? Choose the one answer\nbelow that applies."
  },
  {
   "id": "systemtext:0082:00",
   "jp": "お金のため",
   "refs": 1,
-  "en": ""
+  "en": "For the money"
  },
  {
   "id": "systemtext:0083:00",
   "jp": "視野を広げるため",
   "refs": 1,
-  "en": ""
+  "en": "To broaden my horizons"
  },
  {
   "id": "systemtext:0084:00",
   "jp": "その他の理由",
   "refs": 1,
-  "en": ""
+  "en": "Some other reason"
  },
  {
   "id": "systemtext:0085:00",
   "jp": "アルバイトはしない",
   "refs": 1,
-  "en": ""
+  "en": "I don't work part-time"
  },
  {
   "id": "systemtext:0086:00",
   "jp": "回答が終わったら、用紙を裏返してください。",
   "refs": 1,
-  "en": ""
+  "en": "When you have finished, turn the sheet over."
  },
  {
   "id": "systemtext:0087:00",
   "jp": "問４",
   "refs": 1,
-  "en": ""
+  "en": "Q4"
  },
  {
   "id": "systemtext:0088:00",
   "jp": "あなたはこの質問文が見えますか？",
   "refs": 1,
-  "en": ""
+  "en": "Can you see this question?"
  },
  {
   "id": "systemtext:0089:00",
   "jp": "はい",
   "refs": 2,
-  "en": ""
+  "en": "Yes"
  },
  {
   "id": "systemtext:0090:00",
   "jp": "いいえ",
   "refs": 2,
-  "en": ""
+  "en": "No"
  },
  {
   "id": "systemtext:0091:00",
   "jp": "帰宅部",
   "refs": 1,
-  "en": ""
+  "en": "Go-Home Club"
  },
  {
   "id": "systemtext:0092:00",
   "jp": "野球部",
   "refs": 1,
-  "en": ""
+  "en": "Baseball Club"
  },
  {
   "id": "systemtext:0093:00",
   "jp": "サッカー部",
   "refs": 1,
-  "en": ""
+  "en": "Soccer Club"
  },
  {
   "id": "systemtext:0094:00",
   "jp": "バスケ部",
   "refs": 1,
-  "en": ""
+  "en": "Basketball Club"
  },
  {
   "id": "systemtext:0095:00",
   "jp": "バレーボール部",
   "refs": 1,
-  "en": ""
+  "en": "Volleyball Club"
  },
  {
   "id": "systemtext:0096:00",
   "jp": "テニス部",
   "refs": 1,
-  "en": ""
+  "en": "Tennis Club"
  },
  {
   "id": "systemtext:0097:00",
   "jp": "バドミントン部",
   "refs": 1,
-  "en": ""
+  "en": "Badminton Club"
  },
  {
   "id": "systemtext:0098:00",
   "jp": "陸上部",
   "refs": 1,
-  "en": ""
+  "en": "Track Club"
  },
  {
   "id": "systemtext:0099:00",
   "jp": "水泳部",
   "refs": 1,
-  "en": ""
+  "en": "Swim Club"
  },
  {
   "id": "systemtext:0100:00",
   "jp": "剣道部",
   "refs": 1,
-  "en": ""
+  "en": "Kendo Club"
  },
  {
   "id": "systemtext:0101:00",
   "jp": "柔道部",
   "refs": 1,
-  "en": ""
+  "en": "Judo Club"
  },
  {
   "id": "systemtext:0102:00",
   "jp": "弓道部",
   "refs": 1,
-  "en": ""
+  "en": "Archery Club"
  },
  {
   "id": "systemtext:0103:00",
   "jp": "美術部",
   "refs": 1,
-  "en": ""
+  "en": "Art Club"
  },
  {
   "id": "systemtext:0104:00",
   "jp": "吹奏楽部",
   "refs": 1,
-  "en": ""
+  "en": "Brass Band"
  },
  {
   "id": "systemtext:0105:00",
   "jp": "合唱部",
   "refs": 1,
-  "en": ""
+  "en": "Chorus Club"
  },
  {
   "id": "systemtext:0106:00",
   "jp": "生物部",
   "refs": 1,
-  "en": ""
+  "en": "Biology Club"
  },
  {
   "id": "systemtext:0107:00",
   "jp": "茶道部",
   "refs": 1,
-  "en": ""
+  "en": "Tea Ceremony Club"
  },
  {
   "id": "systemtext:0108:00",
   "jp": "覇道部",
   "refs": 1,
-  "en": ""
+  "en": "Conquest Club"
  },
  {
   "id": "systemtext:0109:00",
   "jp": "美肌部",
   "refs": 1,
-  "en": ""
+  "en": "Skincare Club"
  },
  {
   "id": "systemtext:0110:00",
   "jp": "生徒会",
   "refs": 1,
-  "en": ""
+  "en": "Student Council"
  },
  {
   "id": "systemtext:0111:00",
   "jp": "漫画研究会",
   "refs": 1,
-  "en": ""
+  "en": "Manga Society"
  },
  {
   "id": "systemtext:0112:00",
   "jp": "電脳研究会",
   "refs": 1,
-  "en": ""
+  "en": "Computer Society"
  },
  {
   "id": "systemtext:0113:00",
   "jp": "落語研究会",
   "refs": 1,
-  "en": ""
+  "en": "Rakugo Society"
  },
  {
   "id": "systemtext:0114:00",
   "jp": "ＭＭＡ研究会",
   "refs": 1,
-  "en": ""
+  "en": "MMA Society"
  },
  {
   "id": "systemtext:0115:00",
   "jp": "仏道研究会",
   "refs": 1,
-  "en": ""
+  "en": "Buddhism Society"
  },
  {
   "id": "systemtext:0116:00",
   "jp": "四角研究会",
   "refs": 1,
-  "en": ""
+  "en": "Square Society"
  },
  {
   "id": "systemtext:0117:00",
   "jp": "軽音同好会",
   "refs": 1,
-  "en": ""
+  "en": "Light Music Circle"
  },
  {
   "id": "systemtext:0118:00",
   "jp": "時代劇同好会",
   "refs": 1,
-  "en": ""
+  "en": "Period Drama Circle"
  },
  {
   "id": "systemtext:0119:00",
   "jp": "神秘術同好会",
   "refs": 1,
-  "en": ""
+  "en": "Mysticism Circle"
  },
  {
   "id": "systemtext:0120:00",
   "jp": "英雄同好会",
   "refs": 1,
-  "en": ""
+  "en": "Hero Circle"
  },
  {
   "id": "systemtext:0121:00",
   "jp": "ＨＰ",
   "refs": 1,
-  "en": ""
+  "en": "HP"
  },
  {
   "id": "systemtext:0122:00",
   "jp": "ＡＰ",
   "refs": 1,
-  "en": ""
+  "en": "AP"
  },
  {
   "id": "systemtext:0123:00",
   "jp": "属性付与",
   "refs": 1,
-  "en": ""
+  "en": "Add Element"
  },
  {
   "id": "systemtext:0124:00",
   "jp": "春",
   "refs": 1,
-  "en": ""
+  "en": "Spring"
  },
  {
   "id": "systemtext:0125:00",
   "jp": "夏",
   "refs": 1,
-  "en": ""
+  "en": "Summer"
  },
  {
   "id": "systemtext:0126:00",
   "jp": "秋",
   "refs": 1,
-  "en": ""
+  "en": "Autumn"
  },
  {
   "id": "systemtext:0127:00",
   "jp": "冬",
   "refs": 1,
-  "en": ""
+  "en": "Winter"
  },
  {
   "id": "systemtext:0128:00",
   "jp": "所持数",
   "refs": 1,
-  "en": ""
+  "en": "Owned"
  },
  {
   "id": "systemtext:0129:00",
   "jp": "個",
   "refs": 1,
-  "en": ""
+  "en": "pcs"
  },
  {
   "id": "systemtext:0130:00",
   "jp": "所持金",
   "refs": 2,
-  "en": ""
+  "en": "Money"
  },
  {
   "id": "systemtext:0131:00",
   "jp": "小計",
   "refs": 1,
-  "en": ""
+  "en": "Subtotal"
  },
  {
   "id": "systemtext:0132:00",
   "jp": "購入後",
   "refs": 1,
-  "en": ""
+  "en": "After Buying"
  },
  {
   "id": "systemtext:0133:00",
   "jp": "秘法眼最大値",
   "refs": 1,
-  "en": ""
+  "en": "Arcane Eye Max"
  },
  {
   "id": "systemtext:0134:00",
   "jp": "消費",
   "refs": 1,
-  "en": ""
+  "en": "Cost"
  },
  {
   "id": "systemtext:0135:00",
   "jp": "武器強化",
   "refs": 1,
-  "en": ""
+  "en": "Enhance Weapon"
  },
  {
   "id": "systemtext:0136:00",
   "jp": "攻撃力",
   "refs": 1,
-  "en": ""
+  "en": "Attack"
  },
  {
   "id": "systemtext:0137:00",
   "jp": "消費ＡＰ",
   "refs": 1,
-  "en": ""
+  "en": "AP Cost"
  },
  {
   "id": "systemtext:0138:00",
   "jp": "防具強化",
   "refs": 1,
-  "en": ""
+  "en": "Enhance Armor"
  },
  {
   "id": "systemtext:0139:00",
   "jp": "防御力",
   "refs": 1,
-  "en": ""
+  "en": "Defense"
  },
  {
   "id": "systemtext:0140:00",
   "jp": "強化花札",
   "refs": 1,
-  "en": ""
+  "en": "Enhancing Hanafuda"
  },
  {
   "id": "systemtext:0141:00",
   "jp": "調合リスト",
   "refs": 1,
-  "en": ""
+  "en": "Mixing Recipes"
  },
  {
   "id": "systemtext:0142:00",
   "jp": "秘法眼最大値を50以下に\nする事はできません。",
   "refs": 1,
-  "en": ""
+  "en": "Your Arcane Eye max can't be lowered to 50 or\nbelow."
  },
  {
   "id": "systemtext:0143:00",
   "jp": "自室へ収納します",
   "refs": 1,
-  "en": ""
+  "en": "Store it in your room."
  },
  {
   "id": "systemtext:0144:00",
   "jp": "携行へ収納します",
   "refs": 1,
-  "en": ""
+  "en": "Store it in your pack."
  },
  {
   "id": "systemtext:0145:00",
   "jp": "＋",
   "refs": 1,
-  "en": ""
+  "en": "+"
  },
  {
   "id": "systemtext:0146:00",
   "jp": "－",
   "refs": 1,
-  "en": ""
+  "en": "-"
  },
  {
   "id": "systemtext:0147:00",
   "jp": "±",
   "refs": 1,
-  "en": ""
+  "en": "+/-"
  },
  {
   "id": "systemtext:0148:00",
   "jp": "強化武器",
   "refs": 1,
-  "en": ""
+  "en": "Enhanced Weapon"
  },
  {
   "id": "systemtext:0149:00",
   "jp": "強化防具",
   "refs": 1,
-  "en": ""
+  "en": "Enhanced Armor"
  },
  {
   "id": "systemtext:0150:00",
   "jp": "秘法眼最大値が50以下になりました。\n現在強化中の札を全てはがします。",
   "refs": 1,
-  "en": ""
+  "en": "Your Arcane Eye max has fallen to 50 or below.\nAll cards currently used as enhancements will be\nremoved."
  },
  {
   "id": "systemtext:0151:00",
   "jp": "携行品入れ替え",
   "refs": 1,
-  "en": ""
+  "en": "Swap Pack Items"
  },
  {
   "id": "systemtext:0152:00",
   "jp": "装備変更",
   "refs": 2,
-  "en": ""
+  "en": "Change Gear"
  },
  {
   "id": "systemtext:0153:00",
   "jp": "札強化変更",
   "refs": 1,
-  "en": ""
+  "en": "Change Enhancements"
  },
  {
   "id": "systemtext:0154:00",
   "jp": "仲間へ電話",
   "refs": 1,
-  "en": ""
+  "en": "Call a Partner"
  },
  {
   "id": "systemtext:0155:00",
   "jp": "成績表",
   "refs": 3,
-  "en": ""
+  "en": "Report Card"
  },
  {
   "id": "systemtext:0156:00",
   "jp": "準備完了",
   "refs": 1,
-  "en": ""
+  "en": "Ready"
  },
  {
   "id": "systemtext:0157:00",
   "jp": "同行中",
   "refs": 1,
-  "en": ""
+  "en": "With You"
  },
  {
   "id": "systemtext:0158:00",
   "jp": "同行者なし",
   "refs": 1,
-  "en": ""
+  "en": "No Partner"
  },
  {
   "id": "systemtext:0160:00",
   "jp": "調合",
   "refs": 2,
-  "en": ""
+  "en": "Mix"
  },
  {
   "id": "systemtext:0162:00",
   "jp": "並べ替え",
   "refs": 1,
-  "en": ""
+  "en": "Sort"
  },
  {
   "id": "systemtext:0163:00",
   "jp": "はずす",
   "refs": 1,
-  "en": ""
+  "en": "Remove"
  },
  {
   "id": "systemtext:0164:00",
   "jp": "AP10",
   "refs": 1,
-  "en": ""
+  "en": "AP10"
  },
  {
   "id": "systemtext:0165:00",
   "jp": "AP30",
   "refs": 1,
-  "en": ""
+  "en": "AP30"
  },
  {
   "id": "systemtext:0166:00",
   "jp": "？？？？？？？？",
   "refs": 1,
-  "en": ""
+  "en": "????????"
  },
  {
   "id": "systemtext:0167:00",
   "jp": "－－－－－－－－",
   "refs": 1,
-  "en": ""
+  "en": "--------"
  },
  {
   "id": "systemtext:0168:00",
   "jp": "が",
   "refs": 1,
-  "en": ""
+  "en": ":"
  },
  {
   "id": "systemtext:0169:00",
   "jp": "完成しました。",
   "refs": 1,
-  "en": ""
+  "en": "Created!"
  },
  {
   "id": "systemtext:0170:00",
   "jp": "に",
   "refs": 1,
-  "en": ""
+  "en": "->"
  },
  {
   "id": "systemtext:0171:00",
   "jp": "変化しました。",
   "refs": 1,
-  "en": ""
+  "en": "Transformed!"
  },
  {
   "id": "systemtext:0172:00",
   "jp": "残っているアイテムを破棄します。\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "The remaining items will be discarded. Is that\nokay?"
  },
  {
   "id": "systemtext:0173:00",
   "jp": "このアイテムを渡しますか？",
   "refs": 1,
-  "en": ""
+  "en": "Hand over this item?"
  },
  {
   "id": "systemtext:0174:00",
   "jp": "携行のスロットが一杯です。\n整理してアイテムを収納しますか？",
   "refs": 1,
-  "en": ""
+  "en": "Your pack is full. Sort it out and store the\nitem?"
  },
  {
   "id": "systemtext:0175:00",
   "jp": "強化中の札をはがしますか？",
   "refs": 1,
-  "en": ""
+  "en": "Remove the enhancing card?"
  },
  {
   "id": "systemtext:0176:00",
   "jp": "すでに強化されています。\n別の札に入れ替えますか？",
   "refs": 1,
-  "en": ""
+  "en": "This is already enhanced. Swap in a different\ncard?"
  },
  {
   "id": "systemtext:0178:00",
   "jp": "これでよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Is this okay?"
  },
  {
   "id": "systemtext:0179:00",
   "jp": "これ以上持てません。",
   "refs": 1,
-  "en": ""
+  "en": "You can't carry any more."
  },
  {
   "id": "systemtext:0180:00",
@@ -2817,288 +2817,288 @@
   "id": "systemtext:0590:00",
   "jp": "A",
   "refs": 1,
-  "en": ""
+  "en": "A"
  },
  {
   "id": "systemtext:0591:00",
   "jp": "B",
   "refs": 1,
-  "en": ""
+  "en": "B"
  },
  {
   "id": "systemtext:0592:00",
   "jp": "O",
   "refs": 1,
-  "en": ""
+  "en": "O"
  },
  {
   "id": "systemtext:0593:00",
   "jp": "AB",
   "refs": 1,
-  "en": ""
+  "en": "AB"
  },
  {
   "id": "systemtext:0594:00",
   "jp": "電話で呼ぶ",
   "refs": 1,
-  "en": ""
+  "en": "Call by Phone"
  },
  {
   "id": "systemtext:0595:00",
   "jp": "同行を断る",
   "refs": 1,
-  "en": ""
+  "en": "Decline to Join"
  },
  {
   "id": "systemtext:0596:00",
   "jp": "プロフィール",
   "refs": 1,
-  "en": ""
+  "en": "Profile"
  },
  {
   "id": "systemtext:0598:00",
   "jp": "削除",
   "refs": 1,
-  "en": ""
+  "en": "Delete"
  },
  {
   "id": "systemtext:0599:00",
   "jp": "特に無し",
   "refs": 1,
-  "en": ""
+  "en": "None"
  },
  {
   "id": "systemtext:0600:00",
   "jp": "変更不可",
   "refs": 1,
-  "en": ""
+  "en": "Can't Change"
  },
  {
   "id": "systemtext:0601:00",
   "jp": "誕生日",
   "refs": 1,
-  "en": ""
+  "en": "Birthday"
  },
  {
   "id": "systemtext:0602:00",
   "jp": "血液型",
   "refs": 1,
-  "en": ""
+  "en": "Blood Type"
  },
  {
   "id": "systemtext:0603:00",
   "jp": "身長",
   "refs": 1,
-  "en": ""
+  "en": "Height"
  },
  {
   "id": "systemtext:0604:00",
   "jp": "体重",
   "refs": 1,
-  "en": ""
+  "en": "Weight"
  },
  {
   "id": "systemtext:0606:00",
   "jp": "全ての項目を入力してください",
   "refs": 1,
-  "en": ""
+  "en": "Please fill in every field."
  },
  {
   "id": "systemtext:0607:00",
   "jp": "確定してよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Is this correct?"
  },
  {
   "id": "systemtext:0610:00",
   "jp": "「更新情報はありません」",
   "refs": 1,
-  "en": ""
+  "en": "\"No new updates.\""
  },
  {
   "id": "systemtext:0611:00",
   "jp": "「隠人情報が更新されました」",
   "refs": 1,
-  "en": ""
+  "en": "\"Oni info has been updated.\""
  },
  {
   "id": "systemtext:0612:00",
   "jp": "「用語辞典が更新されました」",
   "refs": 1,
-  "en": ""
+  "en": "\"The glossary has been updated.\""
  },
  {
   "id": "systemtext:0613:00",
   "jp": "「Ｑ＆Ａが更新されました」",
   "refs": 1,
-  "en": ""
+  "en": "\"The Q&A has been updated.\""
  },
  {
   "id": "systemtext:0614:00",
   "jp": "プロフィール、所持金、コレクションを\n引き継いで、はじめからスタートします。",
   "refs": 3,
-  "en": ""
+  "en": "Start over from the beginning, carrying over your\nprofile, money and collection."
  },
  {
   "id": "systemtext:0615:00",
   "jp": "１０話目の夕方に戻ります。\nエクストラダンジョンが解放されます。",
   "refs": 2,
-  "en": ""
+  "en": "Return to the evening of Chapter 10. The Extra\nDungeon will be unlocked."
  },
  {
   "id": "systemtext:0618:00",
   "jp": "属性なし",
   "refs": 1,
-  "en": ""
+  "en": "No Element"
  },
  {
   "id": "systemtext:0619:00",
   "jp": "属性：春",
   "refs": 1,
-  "en": ""
+  "en": "Element: Spring"
  },
  {
   "id": "systemtext:0620:00",
   "jp": "属性：夏",
   "refs": 1,
-  "en": ""
+  "en": "Element: Summer"
  },
  {
   "id": "systemtext:0621:00",
   "jp": "属性：秋",
   "refs": 1,
-  "en": ""
+  "en": "Element: Autumn"
  },
  {
   "id": "systemtext:0622:00",
   "jp": "属性：冬",
   "refs": 1,
-  "en": ""
+  "en": "Element: Winter"
  },
  {
   "id": "systemtext:0623:00",
   "jp": "属性：神",
   "refs": 1,
-  "en": ""
+  "en": "Element: Divine"
  },
  {
   "id": "systemtext:0624:00",
   "jp": "アイテム",
   "refs": 1,
-  "en": ""
+  "en": "Items"
  },
  {
   "id": "systemtext:0625:00",
   "jp": "装備",
   "refs": 1,
-  "en": ""
+  "en": "Equipment"
  },
  {
   "id": "systemtext:0626:00",
   "jp": "札強化",
   "refs": 2,
-  "en": ""
+  "en": "Card Enhance"
  },
  {
   "id": "systemtext:0627:00",
   "jp": "マップ",
   "refs": 1,
-  "en": ""
+  "en": "Map"
  },
  {
   "id": "systemtext:0628:00",
   "jp": "携帯電話",
   "refs": 1,
-  "en": ""
+  "en": "Cell Phone"
  },
  {
   "id": "systemtext:0631:00",
   "jp": "地上へ",
   "refs": 1,
-  "en": ""
+  "en": "To Surface"
  },
  {
   "id": "systemtext:0632:00",
   "jp": "ダンジョンヘ",
   "refs": 1,
-  "en": ""
+  "en": "To Dungeon"
  },
  {
   "id": "systemtext:0633:00",
   "jp": "次の話へ",
   "refs": 1,
-  "en": ""
+  "en": "Next Chapter"
  },
  {
   "id": "systemtext:0635:00",
   "jp": "？？？？",
   "refs": 3,
-  "en": ""
+  "en": "????"
  },
  {
   "id": "systemtext:0636:00",
   "jp": "？？",
   "refs": 1,
-  "en": ""
+  "en": "??"
  },
  {
   "id": "systemtext:0641:00",
   "jp": "？？？？？？",
   "refs": 2,
-  "en": ""
+  "en": "??????"
  },
  {
   "id": "systemtext:0647:00",
   "jp": "円",
   "refs": 1,
-  "en": ""
+  "en": "yen"
  },
  {
   "id": "systemtext:0650:00",
   "jp": "続きから再開します。",
   "refs": 1,
-  "en": ""
+  "en": "Continue from where you left off."
  },
  {
   "id": "systemtext:0651:00",
   "jp": "はじめからスタートします。\nよろしいですか？",
   "refs": 2,
-  "en": ""
+  "en": "Start from the beginning. Is that okay?"
  },
  {
   "id": "systemtext:0652:00",
   "jp": "１０話目の夕方に戻ります。\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Return to the evening of Chapter 10. Is that\nokay?"
  },
  {
   "id": "systemtext:0653:00",
   "jp": "続きから再開します。\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Continue from where you left off. Is that okay?"
  },
  {
   "id": "systemtext:0655:00",
   "jp": "９話目の夕方に戻ります。",
   "refs": 1,
-  "en": ""
+  "en": "Return to the evening of Chapter 9."
  },
  {
   "id": "systemtext:0657:00",
   "jp": "９話目の夕方に戻ります。\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Return to the evening of Chapter 9. Is that okay?"
  },
  {
   "id": "systemtext:0658:00",
   "jp": "タイトル画面へもどります。よろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Return to the title screen. Is that okay?"
  },
  {
   "id": "systemtext:0659:00",
   "jp": "ヘルプ表示",
   "refs": 1,
-  "en": ""
+  "en": "Show Help"
  }
 ]

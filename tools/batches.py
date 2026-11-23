@@ -2,7 +2,8 @@
 
     python -X utf8 tools/batches.py split [--size 3500]   work/tl/bNNN.tsv and work/tl/terms_bNNN.txt for untranslated JP
     python -X utf8 tools/batches.py check [bNNN ...]      a batch's .out.tsv; with no batch, all shipped English (check.py)
-    python -X utf8 tools/batches.py merge bNNN ... [--overwrite]   check, then write the English into script/
+    python -X utf8 tools/batches.py merge bNNN ... [--overwrite] [--partial]   check, then write the English into
+        script/; --partial merges a failing batch's clean rows and queues the failing ones in docs/fit-queue.tsv
     python -X utf8 tools/batches.py fit "text" [--form dlg]        dry-run: wrapped lines and px widths
 
 Copied from the skill's assets/batches.py; the ADAPTER section fits this game (script/ JSON, docs/re/text.md).
@@ -24,14 +25,13 @@ GLOSSARY = ROOT / "glossary.md"
 MAX_ENTRIES = 150
 
 # ---- ADAPTER: this game's text format ----
-TOKEN = re.compile(r"\{p[xmn]\}|%[-+ 0#]*\d*(?:\.\d+)?l?[sdiuxXcf]")  # player-name codes, printf formats
+TOKEN = re.compile(r"\{p[xmn]\}|%[-+0#]*\d*(?:\.\d+)?l?[sdiuxXcf]")  # no space flag: "40% of" is prose  # player-name codes, printf formats
 FREE = set()
 VARIABLE = r"(?:\{p[xmn]\}|%[-+ 0#]*\d*l?[du])"
 RUBY = re.compile(r"\{ruby:([^|}]*)\|([^}]*)\}")
 # honorific after a name (kanji/katakana run or a player-name code) -> required English form
 HONORIFICS = {"さん": "-san", "くん": "-kun", "君": "-kun", "ちゃん": "-chan", "先輩": "-senpai", "センパイ": "-senpai",
               "先生": "-sensei", "様": "-sama", "さま": "-sama"}
-HONOR_BEFORE = r"(?<=[一-龥々ァ-ヶー}])"
 LINE_PX, LINES, CAPTION_PX, CHOICE_B, NAME_CHARS = 464, 3, 336, 29, 17  # insert.LINE_PX etc.
 CHAPTER_ORDER = {"ms": 0, "dg": 1, "fd": 2, "fn": 3, "qs": 4, "in": 5}
 NO_BREAK = set("@_\\{}")  # in .pwx text (insert.SCRIPT_BAD + braces = markup)
@@ -52,8 +52,17 @@ def docs():
 
 def needs_english(entry):
     """Empty JP isn't "untranslated"; EBOOT data the build never replaces (insert.NON_TEXT) isn't either."""
+    return is_text(entry) and not entry.get("en")
+
+
+def is_text(entry):
+    """Not blank (a lone full-width space), not EBOOT data (insert.NON_TEXT), not a NON_TEXT_TABLES byte."""
     import insert
-    return bool(entry.get("jp")) and not entry.get("en") and not insert.non_text(entry)
+    return (bool(entry.get("jp", "").strip(" 　")) and not insert.non_text(entry)
+            and entry["id"].split(":")[0] not in NON_TEXT_TABLES)
+
+
+NON_TEXT_TABLES = {"objhaichi"}  # object placement bytes the extractor read as 1-char strings (b058/b059): never text
 
 
 def group_of(entry):
@@ -246,7 +255,8 @@ def problems(entry, en, terms):
     plain = TOKEN.sub("", en)
     if bad := sorted({c for c in plain if not encodable(c, entry) and c != "\n"}):
         out.append(f"unencodable characters {bad}")
-    if re.search(r"\\u[0-9a-fA-F]{4}|\\n", en) or "\t" in en:
+    lit_n = "\\n" in entry["jp"]  # inputproftext keeps literal backslash-n breaks the game expands
+    if re.search(r"\\u[0-9a-fA-F]{4}" + ("" if lit_n else r"|\\n"), en) or "\t" in en:
         out.append("escape sequence or tab in the English (use ' / ' for a forced break)")
     want, have = Counter(TOKEN.findall(jp)), Counter(TOKEN.findall(en))
     if form_of(entry) in ("dlg", "narr", "caption", "choice", "name"):  # name codes: same set, order free
@@ -262,8 +272,11 @@ def problems(entry, en, terms):
         if any(has_term(jp, j) for j in jps) and not any(" ".join(e.split()).lower() in en_terms for e in ens):
             out.append(f"glossary: {jps[0]} -> {ens[0]}")
         out += [f"glossary Avoid: {a}" for a in avoid if re.search(rf"\b{re.escape(a)}\b", en)]
+    # honorifics only after a glossary name or a player-name code: 同様, オレ様, 敵さん, 叩くん are not names
+    names = "|".join(sorted({re.escape(j.rstrip("\0")) for jps, _, _ in terms for j in jps}, key=len, reverse=True))
+    before = rf"(?:\{{p[xmn]\}}{'|' + names if names else ''})"
     for jp_form, en_form in HONORIFICS.items():
-        if re.search(HONOR_BEFORE + re.escape(jp_form), jp) and en_form.lower() not in en.lower():
+        if re.search(before + re.escape(jp_form), jp) and en_form.lower() not in en.lower():
             out.append(f"honorific {jp_form} needs {en_form}")
     return out + width_problems(entry, en)
 
@@ -330,11 +343,13 @@ def split(size, only=None):
 
 
 def check_batch(batch, entries, terms):
-    want = [r[0] for r in read_tsv(TL / f"{batch}.tsv")]
+    skip = lambda i: i in entries and not is_text(entries[i])
+    want = [r[0] for r in read_tsv(TL / f"{batch}.tsv") if not skip(r[0])]
     out = TL / f"{batch}.out.tsv"
     if not out.exists():
         return [f"{out.name} missing"], {}
-    rows = [(r[0], "\t".join(r[1:]).strip()) for r in read_tsv(out)]
+    # spaces kept: runtime-joined EBOOT fragments need their leading space (" info registered.")
+    rows = [(r[0], "\t".join(r[1:])) for r in read_tsv(out) if not skip(r[0])]
     bad = []
     if [r[0] for r in rows] != want:
         got = [r[0] for r in rows]
@@ -380,8 +395,8 @@ def main(argv):
         for s in shape(e, args[0]).split("\n"):
             print(f"{px(s):4d}px {len(s):3d}b  {s}")
         return 0
-    overwrite = "--overwrite" in args
-    names = [a for a in args if a != "--overwrite"]
+    overwrite, partial = "--overwrite" in args, "--partial" in args
+    names = [a for a in args if a not in ("--overwrite", "--partial")]
     entries, terms = index(), glossary()
     if cmd == "check" and not names:
         bad = [f"{i}: {p}: {e['en']!r}" for i, e in entries.items() if e.get("en") for p in problems(e, e["en"], terms)]
@@ -400,6 +415,20 @@ def main(argv):
             print("  " + line)
         if cmd == "merge" and not bad:
             merge(rows, overwrite)
+        elif cmd == "merge" and partial and rows:
+            # merge the clean rows; over-limit lines wait in docs/fit-queue.tsv for engine work / a fit pass
+            failed_ids = {line.split(": ", 1)[0] for line in bad}
+            if any(i not in rows for i in failed_ids):
+                print(f"{batch}: not merged: id set problems")
+                continue
+            queue = ROOT / "docs/fit-queue.tsv"
+            old = queue.read_text(encoding="utf-8") if queue.exists() else "id\tEnglish\tproblem\n"
+            keep = [ln for ln in old.splitlines()[1:] if ln.split("\t")[0] not in failed_ids]
+            new = [f"{i}\t{rows[i].replace(chr(10), ' / ')}\t{p.split(': ', 1)[1].rsplit(': ', 1)[0]}" for i, p in
+                   ((line.split(": ", 1)[0], line) for line in bad)]
+            queue.write_text("\n".join([old.splitlines()[0], *keep, *dict.fromkeys(new)]) + "\n",
+                             encoding="utf-8", newline="\n")
+            merge({i: e for i, e in rows.items() if i not in failed_ids}, overwrite)
     return 1 if failed else 0
 
 

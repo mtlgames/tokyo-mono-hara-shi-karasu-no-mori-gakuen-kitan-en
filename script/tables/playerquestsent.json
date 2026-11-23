@@ -3,175 +3,175 @@
   "id": "playerquestsent:0000:00",
   "jp": "[自分で入力する]",
   "refs": 4,
-  "en": ""
+  "en": "[Type it myself]"
  },
  {
   "id": "playerquestsent:0001:00",
   "jp": "傷ついた仲間を",
   "refs": 1,
-  "en": ""
+  "en": "My injured ally"
  },
  {
   "id": "playerquestsent:0001:04",
   "jp": "助けるために",
   "refs": 1,
-  "en": ""
+  "en": "needs saving, so"
  },
  {
   "id": "playerquestsent:0001:08",
   "jp": "なんとしてでも",
   "refs": 1,
-  "en": ""
+  "en": "no matter what,"
  },
  {
   "id": "playerquestsent:0001:0c",
   "jp": "～してくれ！",
   "refs": 1,
-  "en": ""
+  "en": "do ~ for me!"
  },
  {
   "id": "playerquestsent:0001:10",
   "jp": "倒してくれ！",
   "refs": 1,
-  "en": ""
+  "en": "defeat it for me!"
  },
  {
   "id": "playerquestsent:0001:14",
   "jp": "作ってくれ！",
   "refs": 1,
-  "en": ""
+  "en": "make it for me!"
  },
  {
   "id": "playerquestsent:0001:18",
   "jp": "祈ってくれ！",
   "refs": 1,
-  "en": ""
+  "en": "pray for me!"
  },
  {
   "id": "playerquestsent:0002:00",
   "jp": "裏稼業の仲間を",
   "refs": 1,
-  "en": ""
+  "en": "My shady partner"
  },
  {
   "id": "playerquestsent:0002:04",
   "jp": "満足させるために",
   "refs": 1,
-  "en": ""
+  "en": "needs pleasing, so"
  },
  {
   "id": "playerquestsent:0002:08",
   "jp": "自分の代わりに",
   "refs": 1,
-  "en": ""
+  "en": "in my place,"
  },
  {
   "id": "playerquestsent:0002:0c",
   "jp": "～してこい。",
   "refs": 1,
-  "en": ""
+  "en": "go do ~."
  },
  {
   "id": "playerquestsent:0002:10",
   "jp": "倒してこい。",
   "refs": 1,
-  "en": ""
+  "en": "go defeat it."
  },
  {
   "id": "playerquestsent:0002:14",
   "jp": "作ってこい。",
   "refs": 1,
-  "en": ""
+  "en": "go make it."
  },
  {
   "id": "playerquestsent:0002:18",
   "jp": "祈ってこい。",
   "refs": 1,
-  "en": ""
+  "en": "go pray."
  },
  {
   "id": "playerquestsent:0003:00",
   "jp": "廃業した同業者を",
   "refs": 1,
-  "en": ""
+  "en": "My retired peer"
  },
  {
   "id": "playerquestsent:0003:04",
   "jp": "興奮させるために",
   "refs": 1,
-  "en": ""
+  "en": "needs a thrill, so"
  },
  {
   "id": "playerquestsent:0003:08",
   "jp": "どんな手を使っても",
   "refs": 1,
-  "en": ""
+  "en": "by any means,"
  },
  {
   "id": "playerquestsent:0003:0c",
   "jp": "～してきてくれ。",
   "refs": 1,
-  "en": ""
+  "en": "go and do ~."
  },
  {
   "id": "playerquestsent:0003:10",
   "jp": "倒してきてくれ。",
   "refs": 1,
-  "en": ""
+  "en": "go and defeat it."
  },
  {
   "id": "playerquestsent:0003:14",
   "jp": "作ってきてくれ。",
   "refs": 1,
-  "en": ""
+  "en": "go and make it."
  },
  {
   "id": "playerquestsent:0003:18",
   "jp": "祈ってきてくれ。",
   "refs": 1,
-  "en": ""
+  "en": "go and pray."
  },
  {
   "id": "playerquestsent:0004:00",
   "jp": "死の縁を彷徨う友を",
   "refs": 1,
-  "en": ""
+  "en": "My dying friend"
  },
  {
   "id": "playerquestsent:0004:04",
   "jp": "フォローするために",
   "refs": 1,
-  "en": ""
+  "en": "needs support, so"
  },
  {
   "id": "playerquestsent:0004:08",
   "jp": "大変だと思うけど、",
   "refs": 1,
-  "en": ""
+  "en": "I know it's hard,"
  },
  {
   "id": "playerquestsent:0004:0c",
   "jp": "～してください。",
   "refs": 1,
-  "en": ""
+  "en": "please do ~."
  },
  {
   "id": "playerquestsent:0004:10",
   "jp": "倒してください。",
   "refs": 1,
-  "en": ""
+  "en": "please defeat it."
  },
  {
   "id": "playerquestsent:0004:14",
   "jp": "作ってください。",
   "refs": 1,
-  "en": ""
+  "en": "please make it."
  },
  {
   "id": "playerquestsent:0004:18",
   "jp": "祈ってください。",
   "refs": 1,
-  "en": ""
+  "en": "please pray."
  },
  {
   "id": "playerquestsent:0005:00",

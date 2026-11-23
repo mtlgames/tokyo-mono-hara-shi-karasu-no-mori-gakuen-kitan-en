@@ -29,7 +29,7 @@ separates alternatives) and the Avoid column.
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
 | 燈治 | Toji | | Toji Dan (壇燈治), the hero's hot-blooded classmate and partner; rough male speech (ぜ/ねぇ) | Touji |
-| 壇 | Dan | | Toji's surname | |
+| 壇 | Dan | | (not enforced) Toji's surname; 壇 alone can be an altar/platform | |
 | 弥紀 | Minori | | Minori Hosaka (穂坂弥紀), cheerful classmate | Yaki |
 | 穂坂 | Hosaka | | | |
 | 雉明 | Chiaki | | Rei Chiaki (雉明零) | |
@@ -40,7 +40,7 @@ separates alternatives) and the Avoid column.
 | 長英 | Nagahide | | | |
 | 久榮 | Hisae | | | |
 | 義王 | Gio | | ruby ぎおう | Giou |
-| 絢人 | Ayato | | | |
+| 絢人 | Ayahito | | ruby あやひと; Ayahito Konosu (香ノ巣絢人) | Ayato |
 | 蒐 | Shu | | ruby しゅう | Shuu |
 | アンジー | Angie | | | |
 | 鍵 | Ken | | (not enforced) the name (ruby けん); a key (かぎ) is "key" | |
@@ -64,6 +64,9 @@ separates alternatives) and the Avoid column.
 | 蒲生 | Gamo | | | Gamou |
 | 嘉門 | Kamon | | | |
 | 幸徳路 | Kotokuji | | | |
+| 日向輪 / 日向 輪 | Rin Himukai | | profile reading ひむかい | Hyuga / Hinata |
+| 宝方蒐 / 宝方 蒐 / 宝方 | Takarakata | | Shu Takarakata | Hoho |
+| 佐波守紅緒 / 佐波守 | Sawakami | | Benio Sawakami | Sabamori |
 | 購買のおばちゃん | Shop Lady | 17 | school store lady (speaker name) | |
 
 ## Places
@@ -86,9 +89,54 @@ separates alternatives) and the Avoid column.
 | 神使 | divine messenger | | ruby しんし | |
 | 龍脈 | dragon vein | | | |
 | ＯＸＡＳ | OXAS | | organisation | |
-| ＯＲＤＳ / カミフダ | ORDS | | ruby カミフダ; organisation | |
+| ＯＲＤＳ | ORDS | | ruby カミフダ; organisation | |
+| カミフダ | ORDS / cards | | (not enforced) the organisation (ORDS) or, in card-game text, the paper cards themselves ("cards") | |
 | 隠者の杖 | Hermit's Staff | | | |
 | 秘儀を伝授されし者 | Initiate | | ruby イニシエ | |
+| 体力 | Stamina | | stat | Vitality |
+| 瞬発力 | Reflexes | | stat | |
+| 精神力 | Willpower | | stat | Spirit |
+| 脚力 | Speed | | stat | Footwork |
+| 判断力 | Judgment | | stat | |
+| 外国語 | Languages | | school subject | Foreign Language |
+| 現代社会 | Social Studies | | school subject | Modern Society |
+| 麻痺 | Paralysis | | ailment | Paralyze |
+| 悪寒 | Chills | | ailment | |
+| 札強化 | Card Enhance / Enhance | | | Card Boost |
+| 調合 | Mix | | | Combine |
+| 依頼 | Quest | | (not enforced) quest board; 依頼人 Client | |
+| 特別依頼 | Bonus Quest | | | Special Quest / Special Job |
+| 八汎學院 / 八汎学院 | Yahiro Academy | | ruby 八汎|やひろ | Happan / Yahiro Institute |
+| 八汎 | Yahiro | | | Happan |
+| 龍珠堂 | Ryujudo | | | Ryuzudo / Ryushudo / Dragon Orb Hall |
+| 特課 | Division | | 収集特課 Collection Division | Special Section / the Unit |
+| 札憑き | Card-Possessed | | | card-bearer |
+| 執行者 | Executor | | | Enforcer |
+| 鬼印盗賊団 | Oni Mark Bandits | | 盗賊団員 Bandit | Oni-Mark Thieves / Demon Mark Bandits |
+| 鬼印 | Oni Mark | | | Demon Mark |
+| 鬼札 | Demon Card | | | |
+| 封念ノ神鏡 | Sealing Mirror | | | Thought-Sealing Mirror |
+| 封具ノ器 | Sealing Vessel | | | Sealed Tool Vessel |
+| 御蔵ノ器 | Storehouse Vessel | | | |
+| 縛鍵 | Bind Key | | | Binding Key |
+| 封鍵 | Seal Key | | | Sealing Key |
+| 陰陽五行 | Yin-Yang and Five Elements | | | Yin-Yang Five Phases |
+| 隠者の刻印 | Hermit's Mark | | | |
+| 夜狩機構 | Yagari Agency | | | |
+| 五光ノ獣 / 五光の獣 | Five Brights Beast | | | |
+| 白札 | White Card | | | |
+| 帝都防衛軍 | Imperial Defense Force | | | Capital Defenders |
 
 ## Decisions from earlier batches
-- (none yet)
+- wave 0: full names from the EBOOT profiles: Ichiru Muto, Shu Takarakata, Gio Onimaru, Migiri Kashima, Kaname
+  Kotokuji, Ayahito Konosu, Rin Himukai, Benio Sawakami, Asako / Seishiro Hatori, Daisuke Isachi, Nobuyuki Chikushi,
+  Hisae Makimura, Gengo Shibukawa, Banri Takadono, Angie (Angela Dorothy Orphen), Kalpataru T. Shankar, Nagahide
+  Shishido, Dokai Gamo (calls herself Mikamyun), Tomoe Tobisaka, Rei Chiaki, Toji Dan, Minori Hosaka; default hero
+  Kazuki Shichidai.
+- wave 0: pre-Meiji historical figures keep traditional order (Oda Nobunaga, Minamoto no Yoriyoshi); modern people
+  Western order.
+- wave 0: hanafuda card names are the systemtext list ("Pine and Crane", "Pine Poetry Ribbon", "Chrysanthemum Chaff
+  I"); a shorter form only where a field can't hold it (listed in docs/fit-queue.tsv). 光札/種札/冊札/素札 Bright /
+  Animal / Ribbon / Chaff cards; 屑 Chaff; 赤短/青短 Red/Blue Ribbon; あかよろし/みよしの Poetry Ribbon.
+- wave 0: honorifics only after names; 敵さん "the enemy", オレ様 "the great me" (not "-san"/"Ore-sama").
+- wave 0: ☆ -> `~`; button glyphs spelled (Triangle, Circle, Cross, Square); full-width ％ in a printf string -> `%%`.

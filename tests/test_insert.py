@@ -136,4 +136,5 @@ def test_eboot_move(sc):
 def test_non_text_never_marked(sc):
     t = insert.Text("marker")
     cells = [x for x in sc["eboot.json"] if insert.non_text(x)]
-    assert len(cells) == 241 and all(t.get(x, "eboot", 3) is None for x in cells)
+    assert len(cells) == 335 and all(  # 241 name-entry/ASCII + 94 glyph/kinsoku/markup tables (phase 6)
+t.get(x, "eboot", 3) is None for x in cells)

@@ -4065,901 +4065,901 @@
   "id": "item:0213:04",
   "jp": "チョリソー",
   "refs": 1,
-  "en": ""
+  "en": "Chorizo"
  },
  {
   "id": "item:0213:0c",
   "jp": "挽かずに切った豚肉と\nスパイスから作られる\n辛味のあるソーセージ。",
   "refs": 1,
-  "en": ""
+  "en": "A spicy sausage made from\nchopped, unground pork and\nspices."
  },
  {
   "id": "item:0214:04",
   "jp": "稲荷寿司",
   "refs": 1,
-  "en": ""
+  "en": "Inari Sushi"
  },
  {
   "id": "item:0214:0c",
   "jp": "甘辛く煮た油揚げに\n酢飯を詰めた寿司。",
   "refs": 1,
-  "en": ""
+  "en": "Sushi rice stuffed into\nfried tofu simmered sweet\nand salty."
  },
  {
   "id": "item:0214:14",
   "jp": "15％の確率で骨折を回復",
   "refs": 2,
-  "en": ""
+  "en": "Cures Fracture (15%)"
  },
  {
   "id": "item:0215:04",
   "jp": "ホットミルク",
   "refs": 1,
-  "en": ""
+  "en": "Hot Milk"
  },
  {
   "id": "item:0215:0c",
   "jp": "煮込んだ牛乳に唐辛子を\n混ぜた飲み物。\n飲むと体が熱くなる。\n害虫駆除にも使える。",
   "refs": 1,
-  "en": ""
+  "en": "Simmered milk mixed with\nchili pepper. Heats your\nbody up. Also works as pest\ncontrol."
  },
  {
   "id": "item:0216:04",
   "jp": "ソース焼きそば",
   "refs": 1,
-  "en": ""
+  "en": "Sauce Yakisoba"
  },
  {
   "id": "item:0216:0c",
   "jp": "中華麺を野菜や肉と共に\n炒めてソースと絡めた料理。",
   "refs": 1,
-  "en": ""
+  "en": "Chinese noodles stir-fried\nwith veggies and meat,\ntossed in sauce."
  },
  {
   "id": "item:0216:10",
   "jp": "HP330回復",
   "refs": 2,
-  "en": ""
+  "en": "Restores 330 HP"
  },
  {
   "id": "item:0217:04",
   "jp": "カレーラーメン",
   "refs": 1,
-  "en": ""
+  "en": "Curry Ramen"
  },
  {
   "id": "item:0217:0c",
   "jp": "一部で人気のある\nカレー仕立てのスープで\n作られたラーメン。",
   "refs": 1,
-  "en": ""
+  "en": "Ramen in a curry-based soup,\npopular with some people."
  },
  {
   "id": "item:0218:04",
   "jp": "焼きそばパン",
   "refs": 1,
-  "en": ""
+  "en": "Yakisoba Bread"
  },
  {
   "id": "item:0218:0c",
   "jp": "焼きそばをはさんで\n食べる総菜パン。",
   "refs": 1,
-  "en": ""
+  "en": "A savory bread roll stuffed\nwith yakisoba."
  },
  {
   "id": "item:0218:10",
   "jp": "AP50回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 50 AP"
  },
  {
   "id": "item:0219:04",
   "jp": "うまい棒ロール",
   "refs": 1,
-  "en": ""
+  "en": "Umaibo Roll"
  },
  {
   "id": "item:0219:0c",
   "jp": "うまい棒をパンで挟んだ\n創作菓子パン。",
   "refs": 1,
-  "en": ""
+  "en": "An original sweet bread with\nan Umaibo stick sandwiched\ninside."
  },
  {
   "id": "item:0219:10",
   "jp": "HP380回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 380 HP"
  },
  {
   "id": "item:0219:14",
   "jp": "10％の確率で封呪を回復",
   "refs": 1,
-  "en": ""
+  "en": "Cures Seal (10%)"
  },
  {
   "id": "item:0220:04",
   "jp": "ウィンナコーヒー",
   "refs": 1,
-  "en": ""
+  "en": "Vienna Coffee"
  },
  {
   "id": "item:0220:0c",
   "jp": "濃いコーヒーの上に\nホイップクリームを加えた\nウィーン風のコーヒー。",
   "refs": 1,
-  "en": ""
+  "en": "Viennese-style coffee:\nstrong coffee topped with\nwhipped cream."
  },
  {
   "id": "item:0220:10",
   "jp": "HP235回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 235 HP"
  },
  {
   "id": "item:0220:14",
   "jp": "10％の確率で捻挫を回復",
   "refs": 1,
-  "en": ""
+  "en": "Cures Sprain (10%)"
  },
  {
   "id": "item:0221:04",
   "jp": "黒豆コーヒー",
   "refs": 1,
-  "en": ""
+  "en": "Black Bean Brew"
  },
  {
   "id": "item:0221:0c",
   "jp": "コーヒー豆を使わずに\n黒豆を使って煎れた\nコーヒー。",
   "refs": 1,
-  "en": ""
+  "en": "Coffee brewed from black\nsoybeans instead of coffee\nbeans."
  },
  {
   "id": "item:0221:14",
   "jp": "10％の確率で頭痛を回復",
   "refs": 2,
-  "en": ""
+  "en": "Cures Headache (10%)"
  },
  {
   "id": "item:0222:04",
   "jp": "ココア",
   "refs": 1,
-  "en": ""
+  "en": "Cocoa"
  },
  {
   "id": "item:0222:0c",
   "jp": "紙パックに入った\nココア。",
   "refs": 1,
-  "en": ""
+  "en": "Cocoa in a paper carton."
  },
  {
   "id": "item:0223:04",
   "jp": "コーヒービーンズ",
   "refs": 1,
-  "en": ""
+  "en": "Coffee Beans"
  },
  {
   "id": "item:0223:0c",
   "jp": "コーヒー風味の\nチョコレート。",
   "refs": 1,
-  "en": ""
+  "en": "Coffee-flavored chocolate."
  },
  {
   "id": "item:0223:10",
   "jp": "HP335回復",
   "refs": 2,
-  "en": ""
+  "en": "Restores 335 HP"
  },
  {
   "id": "item:0223:14",
   "jp": "10％の確率で悪寒を回復",
   "refs": 1,
-  "en": ""
+  "en": "Cures Chills (10%)"
  },
  {
   "id": "item:0224:04",
   "jp": "羊羹",
   "refs": 1,
-  "en": ""
+  "en": "Yokan"
  },
  {
   "id": "item:0224:0c",
   "jp": "砂糖と餡を寒天と共に煮て\n作られた和菓子。",
   "refs": 1,
-  "en": ""
+  "en": "A Japanese sweet of sugar\nand bean paste simmered with\nagar."
  },
  {
   "id": "item:0224:10",
   "jp": "HP435回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 435 HP"
  },
  {
   "id": "item:0224:14",
   "jp": "10％の確率で目潰しを回復",
   "refs": 1,
-  "en": ""
+  "en": "Cures Blind (10%)"
  },
  {
   "id": "item:0225:04",
   "jp": "トマトスープ",
   "refs": 1,
-  "en": ""
+  "en": "Tomato Soup"
  },
  {
   "id": "item:0225:0c",
   "jp": "湯むきした生のトマトに\nスープを加えて煮込んだ\nもの。酸味が絶品。",
   "refs": 1,
-  "en": ""
+  "en": "Peeled fresh tomatoes\nsimmered in soup.\nWonderfully tangy."
  },
  {
   "id": "item:0225:14",
   "jp": "10％の確率で麻痺を回復",
   "refs": 1,
-  "en": ""
+  "en": "Cures Paralysis (10%)"
  },
  {
   "id": "item:0226:04",
   "jp": "たい焼き",
   "refs": 1,
-  "en": ""
+  "en": "Taiyaki"
  },
  {
   "id": "item:0226:0c",
   "jp": "小麦粉などをあんこと共に\n鯛の型に入れて焼いた\n昔ながらのお菓子。",
   "refs": 1,
-  "en": ""
+  "en": "An old-fashioned sweet:\nflour batter and red bean\npaste baked in a fish mold."
  },
  {
   "id": "item:0226:10",
   "jp": "HP490回復",
   "refs": 2,
-  "en": ""
+  "en": "Restores 490 HP"
  },
  {
   "id": "item:0227:04",
   "jp": "特製水炊き",
   "refs": 1,
-  "en": ""
+  "en": "Special Mizutaki"
  },
  {
   "id": "item:0227:0c",
   "jp": "鍋にスープとぶつ切りの\n鶏肉を入れ煮込んだもの。\nコラーゲンたっぷり。",
   "refs": 1,
-  "en": ""
+  "en": "Chopped chicken simmered in\nsoup in a hot pot. Packed\nwith collagen."
  },
  {
   "id": "item:0228:04",
   "jp": "炭火焼鳥",
   "refs": 1,
-  "en": ""
+  "en": "Sumibi Yakitori"
  },
  {
   "id": "item:0228:0c",
   "jp": "こだわりの炭火で\n焼いた焼鳥。",
   "refs": 1,
-  "en": ""
+  "en": "Yakitori grilled over\ncarefully chosen charcoal."
  },
  {
   "id": "item:0229:04",
   "jp": "スモークチキン",
   "refs": 1,
-  "en": ""
+  "en": "Smoked Chicken"
  },
  {
   "id": "item:0229:0c",
   "jp": "スパイスをかけた鶏肉を\n茹でて燻製した料理。",
   "refs": 1,
-  "en": ""
+  "en": "Spiced chicken, boiled and\nthen smoked."
  },
  {
   "id": "item:0229:10",
   "jp": "HP300回復",
   "refs": 4,
-  "en": ""
+  "en": "Restores 300 HP"
  },
  {
   "id": "item:0230:04",
   "jp": "サザエのつぼ焼き",
   "refs": 1,
-  "en": ""
+  "en": "Tsuboyaki Sazae"
  },
  {
   "id": "item:0230:0c",
   "jp": "サザエに醤油などで味付けて\n焼き網で焼いた料理。",
   "refs": 1,
-  "en": ""
+  "en": "Turban shell seasoned with\nsoy sauce and the like,\ngrilled on a rack."
  },
  {
   "id": "item:0230:10",
   "jp": "HP450回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 450 HP"
  },
  {
   "id": "item:0231:04",
   "jp": "魚介の紙包み焼き",
   "refs": 1,
-  "en": ""
+  "en": "Paper-Baked Fish"
  },
  {
   "id": "item:0231:0c",
   "jp": "魚介類を紙で包んで\nオーブンで焼いた料理。",
   "refs": 1,
-  "en": ""
+  "en": "Seafood wrapped in paper and\nbaked in the oven."
  },
  {
   "id": "item:0232:04",
   "jp": "はまぐりの酒蒸し",
   "refs": 1,
-  "en": ""
+  "en": "Sake Clams"
  },
  {
   "id": "item:0232:0c",
   "jp": "はまぐりを日本酒で\n酒蒸しにした料理。",
   "refs": 1,
-  "en": ""
+  "en": "Clams steamed in Japanese\nsake."
  },
  {
   "id": "item:0232:10",
   "jp": "HP320回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 320 HP"
  },
  {
   "id": "item:0232:14",
   "jp": "悪寒治療効果",
   "refs": 2,
-  "en": ""
+  "en": "Cures Chills"
  },
  {
   "id": "item:0233:04",
   "jp": "寿司",
   "refs": 1,
-  "en": ""
+  "en": "Sushi"
  },
  {
   "id": "item:0233:0c",
   "jp": "酢飯と魚の切り身を\n握ってできる伝統料理。",
   "refs": 1,
-  "en": ""
+  "en": "A traditional dish of sushi\nrice pressed together with\nslices of fish."
  },
  {
   "id": "item:0233:10",
   "jp": "AP90回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 90 AP"
  },
  {
   "id": "item:0234:04",
   "jp": "マカロン",
   "refs": 1,
-  "en": ""
+  "en": "Macaron"
  },
  {
   "id": "item:0234:0c",
   "jp": "卵と砂糖で焼き上げた\n生地でクリームなどを\n挟んだフランス菓子。",
   "refs": 1,
-  "en": ""
+  "en": "A French sweet: cream and\nsuch sandwiched in a baked\negg-and-sugar shell."
  },
  {
   "id": "item:0234:10",
   "jp": "AP100回復",
   "refs": 2,
-  "en": ""
+  "en": "Restores 100 AP"
  },
  {
   "id": "item:0234:14",
   "jp": "吐き気以外の状態異常回復",
   "refs": 2,
-  "en": ""
+  "en": "Cures all but Nausea"
  },
  {
   "id": "item:0235:04",
   "jp": "石焼きいも",
   "refs": 1,
-  "en": ""
+  "en": "Stone-Baked Yam"
  },
  {
   "id": "item:0235:0c",
   "jp": "さつまいもを\n熱した石で焼いたもの。",
   "refs": 1,
-  "en": ""
+  "en": "A sweet potato baked on hot\nstones."
  },
  {
   "id": "item:0235:10",
   "jp": "脚力＋1",
   "refs": 1,
-  "en": ""
+  "en": "Speed+1"
  },
  {
   "id": "item:0236:04",
   "jp": "野菜天",
   "refs": 1,
-  "en": ""
+  "en": "Veggie Tempura"
  },
  {
   "id": "item:0236:0c",
   "jp": "刻んだ野菜を小麦粉で\n揚げたかき揚げ天ぷら。",
   "refs": 1,
-  "en": ""
+  "en": "Kakiage tempura: chopped\nvegetables fried in flour\nbatter."
  },
  {
   "id": "item:0236:10",
   "jp": "AP95回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 95 AP"
  },
  {
   "id": "item:0237:04",
   "jp": "オムライス",
   "refs": 1,
-  "en": ""
+  "en": "Omurice"
  },
  {
   "id": "item:0237:0c",
   "jp": "チキンライスを\n卵焼きで包んだ料理。",
   "refs": 1,
-  "en": ""
+  "en": "Chicken rice wrapped in an\nomelet."
  },
  {
   "id": "item:0237:14",
   "jp": "35％の確率で骨折を回復",
   "refs": 1,
-  "en": ""
+  "en": "Cures Fracture (35%)"
  },
  {
   "id": "item:0238:04",
   "jp": "オムそば",
   "refs": 1,
-  "en": ""
+  "en": "Omusoba"
  },
  {
   "id": "item:0238:0c",
   "jp": "焼きそばを卵焼きで\n包んだ料理。",
   "refs": 1,
-  "en": ""
+  "en": "Yakisoba wrapped in an\nomelet."
  },
  {
   "id": "item:0238:10",
   "jp": "AP85回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 85 AP"
  },
  {
   "id": "item:0239:04",
   "jp": "うまい棒蛍草味",
   "refs": 1,
-  "en": ""
+  "en": "Dayflower Umaibo"
  },
  {
   "id": "item:0239:0c",
   "jp": "うまい棒に蛍草を\nすりつぶして配合した\n不思議な味のする駄菓子。",
   "refs": 1,
-  "en": ""
+  "en": "A strange-tasting cheap\nsnack: an Umaibo mixed with\nground dayflower."
  },
  {
   "id": "item:0240:04",
   "jp": "蛍草カレー",
   "refs": 1,
-  "en": ""
+  "en": "Dayflower Curry"
  },
  {
   "id": "item:0240:0c",
   "jp": "蛍草がトッピングされた\n珍しいカレー。\n食べると頭が冴え渡る。",
   "refs": 1,
-  "en": ""
+  "en": "A rare curry topped with\ndayflower. Eating it clears\nyour head."
  },
  {
   "id": "item:0240:10",
   "jp": "判断力＋1",
   "refs": 1,
-  "en": ""
+  "en": "Judgment+1"
  },
  {
   "id": "item:0241:04",
   "jp": "あんこ玉",
   "refs": 1,
-  "en": ""
+  "en": "Anko Ball"
  },
  {
   "id": "item:0241:0c",
   "jp": "寒天に包まれた\n丸いあんこの和菓子。",
   "refs": 1,
-  "en": ""
+  "en": "A Japanese sweet: a round\nball of bean paste coated in\nagar."
  },
  {
   "id": "item:0241:10",
   "jp": "AP25回復",
   "refs": 2,
-  "en": ""
+  "en": "Restores 25 AP"
  },
  {
   "id": "item:0242:04",
   "jp": "砂糖",
   "refs": 1,
-  "en": ""
+  "en": "Sugar"
  },
  {
   "id": "item:0242:0c",
   "jp": "いわゆる上白糖。\n袋詰めタイプ。",
   "refs": 1,
-  "en": ""
+  "en": "Plain white sugar, the\nbagged kind."
  },
  {
   "id": "item:0242:10",
   "jp": "HP60回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 60 HP"
  },
  {
   "id": "item:0243:04",
   "jp": "救難用携帯食料",
   "refs": 1,
-  "en": ""
+  "en": "Emergency Ration"
  },
  {
   "id": "item:0243:0c",
   "jp": "高カロリーの携帯食料。\nひとつで１日分の栄養素を\n取ることができる。",
   "refs": 1,
-  "en": ""
+  "en": "A high-calorie portable\nration. One holds a whole\nday's nutrients."
  },
  {
   "id": "item:0243:10",
   "jp": "HP300回復　AP80回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 300 HP, 80 AP"
  },
  {
   "id": "item:0244:04",
   "jp": "うまい棒",
   "refs": 1,
-  "en": ""
+  "en": "Umaibo"
  },
  {
   "id": "item:0244:0c",
   "jp": "様々なバリエーションの\n味があるスナック系の\n駄菓子の定番。",
   "refs": 1,
-  "en": ""
+  "en": "A classic cheap snack that\ncomes in many different\nflavors."
  },
  {
   "id": "item:0244:10",
   "jp": "AP30回復",
   "refs": 4,
-  "en": ""
+  "en": "Restores 30 AP"
  },
  {
   "id": "item:0245:04",
   "jp": "ヨーグル",
   "refs": 1,
-  "en": ""
+  "en": "Yogul"
  },
  {
   "id": "item:0245:0c",
   "jp": "ヨーグルト風味の駄菓子。\n乳製品は使用されていない。",
   "refs": 1,
-  "en": ""
+  "en": "A yogurt-flavored cheap\ncandy. Contains no dairy."
  },
  {
   "id": "item:0246:04",
   "jp": "寒天",
   "refs": 1,
-  "en": ""
+  "en": "Kanten Jelly"
  },
  {
   "id": "item:0246:0c",
   "jp": "乾燥した寒天をお湯で戻して\n固めたゼリー状のお菓子。",
   "refs": 1,
-  "en": ""
+  "en": "A jelly-like sweet of dried\nagar soaked in hot water and\nset."
  },
  {
   "id": "item:0246:10",
   "jp": "AP35回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 35 AP"
  },
  {
   "id": "item:0247:04",
   "jp": "東京BMチップス",
   "refs": 1,
-  "en": ""
+  "en": "Tokyo BM Chips"
  },
  {
   "id": "item:0247:0c",
   "jp": "東京ＢＭのカードがおまけで\n付いてくるチップス。\nただしこの袋に付いていた\nカードは既に取られている。",
   "refs": 1,
-  "en": ""
+  "en": "Chips that come with a bonus\nTokyo BM card. But this\nbag's card was already\ntaken."
  },
  {
   "id": "item:0248:04",
   "jp": "チョコレート",
   "refs": 1,
-  "en": ""
+  "en": "Chocolate"
  },
  {
   "id": "item:0248:0c",
   "jp": "カカオ１００％の\nチョコレート。",
   "refs": 1,
-  "en": ""
+  "en": "Chocolate with a cacao\ncontent of 100%."
  },
  {
   "id": "item:0249:04",
   "jp": "ケチャップ",
   "refs": 1,
-  "en": ""
+  "en": "Ketchup"
  },
  {
   "id": "item:0249:0c",
   "jp": "使いきりサイズの袋に入った\nケチャップ。",
   "refs": 1,
-  "en": ""
+  "en": "Ketchup in a single-serving\npacket."
  },
  {
   "id": "item:0249:10",
   "jp": "HP40回復",
   "refs": 7,
-  "en": ""
+  "en": "Restores 40 HP"
  },
  {
   "id": "item:0250:04",
   "jp": "水",
   "refs": 1,
-  "en": ""
+  "en": "Water"
  },
  {
   "id": "item:0250:0c",
   "jp": "ペットボトルに入っている\nミネラルウォーター。",
   "refs": 1,
-  "en": ""
+  "en": "Mineral water in a plastic\nbottle."
  },
  {
   "id": "item:0251:04",
   "jp": "小麦粉",
   "refs": 1,
-  "en": ""
+  "en": "Flour"
  },
  {
   "id": "item:0251:0c",
   "jp": "様々な料理に使われる\n小麦を挽いて作った粉。",
   "refs": 1,
-  "en": ""
+  "en": "Powder of ground wheat, used\nin all kinds of cooking."
  },
  {
   "id": "item:0252:04",
   "jp": "酢",
   "refs": 1,
-  "en": ""
+  "en": "Vinegar"
  },
  {
   "id": "item:0252:0c",
   "jp": "液体調味料のひとつ。\nすっぱい。",
   "refs": 1,
-  "en": ""
+  "en": "A liquid seasoning. Sour."
  },
  {
   "id": "item:0253:04",
   "jp": "大豆",
   "refs": 1,
-  "en": ""
+  "en": "Soybeans"
  },
  {
   "id": "item:0253:0c",
   "jp": "畑の肉とも言われる、\nタンパク質が豊富な豆。",
   "refs": 1,
-  "en": ""
+  "en": "Protein-rich beans, also\ncalled \"the meat of the\nfields.\""
  },
  {
   "id": "item:0254:04",
   "jp": "唐辛子",
   "refs": 1,
-  "en": ""
+  "en": "Chili Pepper"
  },
  {
   "id": "item:0254:0c",
   "jp": "辛味をつけるために\n使われる唐辛子。",
   "refs": 1,
-  "en": ""
+  "en": "Chili pepper used to add\nheat."
  },
  {
   "id": "item:0255:04",
   "jp": "米",
   "refs": 1,
-  "en": ""
+  "en": "Rice"
  },
  {
   "id": "item:0255:0c",
   "jp": "日本の主食。\n炊いてご飯として食べる。",
   "refs": 1,
-  "en": ""
+  "en": "Japan's staple food. Cooked\nand eaten as steamed rice."
  },
  {
   "id": "item:0256:04",
   "jp": "油",
   "refs": 1,
-  "en": ""
+  "en": "Oil"
  },
  {
   "id": "item:0256:0c",
   "jp": "植物由来の油。\n炒め物などに使われる。",
   "refs": 1,
-  "en": ""
+  "en": "Plant-based oil. Used for\nstir-fries and the like."
  },
  {
   "id": "item:0256:10",
   "jp": "HP70回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 70 HP"
  },
  {
   "id": "item:0257:04",
   "jp": "おつまみイカ",
   "refs": 1,
-  "en": ""
+  "en": "Squid Snack"
  },
  {
   "id": "item:0257:0c",
   "jp": "お酒好きな教師が\nこっそり常備している\nおつまみの酢イカ。",
   "refs": 1,
-  "en": ""
+  "en": "Vinegared squid snacks a\nbooze-loving teacher keeps\nsecretly stocked."
  },
  {
   "id": "item:0258:04",
   "jp": "赤ウィンナー",
   "refs": 1,
-  "en": ""
+  "en": "Red Wiener"
  },
  {
   "id": "item:0258:0c",
   "jp": "表面を赤く着色した\n赤いウィンナーソーセージ。\nお弁当によく使われる。",
   "refs": 1,
-  "en": ""
+  "en": "A wiener sausage dyed red on\nthe outside. A bento box\nregular."
  },
  {
   "id": "item:0258:10",
   "jp": "HP105回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 105 HP"
  },
  {
   "id": "item:0259:04",
   "jp": "コーヒー",
   "refs": 1,
-  "en": ""
+  "en": "Coffee"
  },
  {
   "id": "item:0259:0c",
   "jp": "コーヒー豆から抽出した\n煎れたてのコーヒー。",
   "refs": 1,
-  "en": ""
+  "en": "Freshly brewed coffee made\nfrom coffee beans."
  },
  {
   "id": "item:0259:10",
   "jp": "HP120回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 120 HP"
  },
  {
   "id": "item:0260:04",
   "jp": "ソース",
   "refs": 1,
-  "en": ""
+  "en": "Sauce"
  },
  {
   "id": "item:0260:0c",
   "jp": "使いきりサイズの袋に入った\nソース。",
   "refs": 1,
-  "en": ""
+  "en": "Sauce in a single-serving\npacket."
  },
  {
   "id": "item:0261:04",
   "jp": "トマト",
   "refs": 1,
-  "en": ""
+  "en": "Tomato"
  },
  {
   "id": "item:0261:0c",
   "jp": "大振りのトマト。",
   "refs": 1,
-  "en": ""
+  "en": "A large tomato."
  },
  {
   "id": "item:0262:04",
   "jp": "食パン",
   "refs": 1,
-  "en": ""
+  "en": "White Bread"
  },
  {
   "id": "item:0262:0c",
   "jp": "絵の線を消すための\n木炭デッサン用の食パン。",
   "refs": 1,
-  "en": ""
+  "en": "White bread for charcoal\ndrawing, used to erase\nlines."
  },
  {
   "id": "item:0263:04",
   "jp": "日本酒",
   "refs": 1,
-  "en": ""
+  "en": "Sake"
  },
  {
   "id": "item:0263:0c",
   "jp": "調理に使える日本酒。\n大吟醸の銘酒。",
   "refs": 1,
-  "en": ""
+  "en": "Japanese sake you can cook\nwith. A fine daiginjo brand."
  },
  {
   "id": "item:0263:10",
   "jp": "調合専用",
   "refs": 31,
-  "en": ""
+  "en": "For mixing only"
  },
  {
   "id": "item:0264:04",
   "jp": "牛乳",
   "refs": 1,
-  "en": ""
+  "en": "Milk"
  },
  {
   "id": "item:0264:0c",
   "jp": "ストロー付きの紙パックに\n入っている牛乳。",
   "refs": 1,
-  "en": ""
+  "en": "Milk in a paper carton with\na straw."
  },
  {
   "id": "item:0265:04",
   "jp": "レトルトカレー",
   "refs": 1,
-  "en": ""
+  "en": "Curry Pouch"
  },
  {
   "id": "item:0265:0c",
   "jp": "市販のレトルトカレー\n味はイマイチ。",
   "refs": 1,
-  "en": ""
+  "en": "Store-bought retort-pouch\ncurry. Not very tasty."
  },
  {
   "id": "item:0266:04",
   "jp": "卵",
   "refs": 1,
-  "en": ""
+  "en": "Egg"
  },
  {
   "id": "item:0266:0c",
   "jp": "様々な料理に使われる\n鶏の卵。",
   "refs": 1,
-  "en": ""
+  "en": "A chicken egg, used in all\nkinds of cooking."
  },
  {
   "id": "item:0266:10",
   "jp": "HP150回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 150 HP"
  },
  {
   "id": "item:0267:04",
   "jp": "カップ麺",
   "refs": 1,
-  "en": ""
+  "en": "Cup Noodles"
  },
  {
   "id": "item:0267:0c",
   "jp": "お湯を入れて作る\nインスタントの\nカップラーメン。",
   "refs": 1,
-  "en": ""
+  "en": "Instant cup ramen. Just add\nhot water."
  },
  {
   "id": "item:0267:10",
   "jp": "HP100回復",
   "refs": 1,
-  "en": ""
+  "en": "Restores 100 HP"
  },
  {
   "id": "item:0268:04",
   "jp": "スープ",
   "refs": 1,
-  "en": ""
+  "en": "Soup"
  },
  {
   "id": "item:0268:0c",
   "jp": "固形ブイヨンを溶かして\n作ったスープ。色々な\n具材を入れて使える。",
   "refs": 1,
-  "en": ""
+  "en": "Soup made from a dissolved\nbouillon cube. Add all sorts\nof ingredients."
  },
  {
   "id": "item:0268:10",

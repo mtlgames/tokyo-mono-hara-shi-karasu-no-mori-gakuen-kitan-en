@@ -3,559 +3,559 @@
   "id": "enemydb:0000:00",
   "jp": "コウガタエノコロジュウロクゴウ",
   "refs": 3,
-  "en": ""
+  "en": "Type-A Enokoro No. 16"
  },
  {
   "id": "enemydb:0000:04",
   "jp": "カミフダ研究の一環として生み出された\n人工的な隠人。\n研究にコストを割けず完全な再現には\n至らなかったが、戦闘力を抑制し、封札師\n試験に投入されている。",
   "refs": 1,
-  "en": ""
+  "en": "An artificial Oni created as part of\nORDS research. Budget limits kept it\nfrom being a perfect copy, but with its\ncombat power restrained it is used in\nCard Sealer exams."
  },
  {
   "id": "enemydb:0000:08",
   "jp": "首の付け根",
   "refs": 31,
-  "en": ""
+  "en": "Base of neck"
  },
  {
   "id": "enemydb:0001:00",
   "jp": "コウガタミフクジュウゴウ",
   "refs": 3,
-  "en": ""
+  "en": "Type-A Mifuku No. 10"
  },
  {
   "id": "enemydb:0001:04",
   "jp": "カミフダ研究の一環として生み出された\n人工的な隠人。\n隠人に変異した動物の構造研究の結果、\n弱点の耐久力が非常に低いものとなった。",
   "refs": 1,
-  "en": ""
+  "en": "An artificial Oni created as part of\nORDS research. Studies of animals\nmutated into Oni left it with a very\nfragile weak point."
  },
  {
   "id": "enemydb:0001:08",
   "jp": "目の模様",
   "refs": 29,
-  "en": ""
+  "en": "Eye pattern"
  },
  {
   "id": "enemydb:0002:00",
   "jp": "コウガタハナヒリハチゴウ",
   "refs": 3,
-  "en": ""
+  "en": "Type-A Hanahiri No. 8"
  },
  {
   "id": "enemydb:0002:04",
   "jp": "カミフダ研究の一環として生み出された\n人工的な隠人。\n初期に作られた試験体のため不安定であり\nかろうじて隠人の状態を保っているという\n有様である。",
   "refs": 1,
-  "en": ""
+  "en": "An artificial Oni created as part of\nORDS research. As an early test subject\nit is unstable, barely managing to hold\nits form as an Oni."
  },
  {
   "id": "enemydb:0002:08",
   "jp": "頭部",
   "refs": 52,
-  "en": ""
+  "en": "Head"
  },
  {
   "id": "enemydb:0003:00",
   "jp": "エノコロ",
   "refs": 28,
-  "en": ""
+  "en": "Enokoro"
  },
  {
   "id": "enemydb:0003:04",
   "jp": "野犬が隠人となったもの。犬の性質を受け\n継いでおり、縄張り意識が強く、また遊び\n好きな面がある。侵入者に対して襲い\n掛かってくるが、それが縄張りを守るため\nなのか、単にじゃれているだけなのかは、\n気分次第で違う。",
   "refs": 5,
-  "en": ""
+  "en": "A stray dog turned Oni. It keeps a dog's\nnature: territorial, yet playful too. It\npounces on intruders, but whether to\nguard its turf or just to play depends\non its mood."
  },
  {
   "id": "enemydb:0008:00",
   "jp": "ミフク",
   "refs": 26,
-  "en": ""
+  "en": "Mifuku"
  },
  {
   "id": "enemydb:0008:04",
   "jp": "もともとは、暗い穴に潜むありふれた蜥蜴\nだった。隠人化した影響で極端に攻撃性が\n高くなり、侵入者を攻撃してくる。\n巨大な尾で威嚇してくるが、相手に逃げる\n暇を与えず攻撃しようとするので、威嚇\nそのものはあまり効果がない。",
   "refs": 5,
-  "en": ""
+  "en": "Once a common lizard lurking in dark\nholes. Becoming an Oni made it extremely\naggressive toward intruders. It\nthreatens with its huge tail, but\nattacks before foes can flee, so the\nthreat is mostly wasted."
  },
  {
   "id": "enemydb:0013:00",
   "jp": "ハナヒリ",
   "refs": 27,
-  "en": ""
+  "en": "Hanahiri"
  },
  {
   "id": "enemydb:0013:04",
   "jp": "洞に入り込んだ蝙蝠が隠人となったもの。\n元となった蝙蝠から著しい変化は\n見られないが、大型化し、凶暴性が増し、\nいくつか蝙蝠とは違う外見の変異が\n見られる。",
   "refs": 5,
-  "en": ""
+  "en": "A bat that wandered into the Hollow and\nturned Oni. It has not changed much from\nthe original bat, but it is bigger and\nfiercer, with a few un-batlike\nmutations."
  },
  {
   "id": "enemydb:0018:00",
   "jp": "ウイキョウ",
   "refs": 25,
-  "en": ""
+  "en": "Uikyo"
  },
  {
   "id": "enemydb:0018:04",
   "jp": "洞で死んだ人間の死体から生えた茸が\n隠人化したもの。本体は茸だが、死体の\n情報を取り込んでいるため人間の姿を\nしている。美しく幻想的な姿だが、茸に\nよる幻覚作用が働いているので、正しく\n見た通りの姿かどうかはわからない。",
   "refs": 5,
-  "en": ""
+  "en": "A mushroom grown from a corpse in the\nHollow, turned Oni. The body is the\nmushroom, but it took in the corpse's\ndata and looks human. It seems lovely\nand dreamlike, but its spores cause\nvisions, so its true look is unknown."
  },
  {
   "id": "enemydb:0018:08",
   "jp": "背中（キノコ部分）",
   "refs": 25,
-  "en": ""
+  "en": "Back (mushroom)"
  },
  {
   "id": "enemydb:0023:00",
   "jp": "セッコク",
   "refs": 26,
-  "en": ""
+  "en": "Sekkoku"
  },
  {
   "id": "enemydb:0023:04",
   "jp": "土器や遺跡には、古代人の「念」が残って\nいる場合がある。そうした念も情報の\n一種であるため、花札の影響を受けて\n隠人化した。周囲の物体を吸収・融合して\nいるが、偶然にも宝石のような、価値の\n高そうなものも含んでいる。",
   "refs": 5,
-  "en": ""
+  "en": "Pottery and ruins can hold the\n\"thoughts\" of ancient people. Such\nthoughts are data too, so the hanafuda\nturned them Oni. It absorbs and fuses\nwith nearby objects, and by chance some\nlook like valuable jewels."
  },
  {
   "id": "enemydb:0023:08",
   "jp": "頭部（発光部）",
   "refs": 26,
-  "en": ""
+  "en": "Head (glowing)"
  },
  {
   "id": "enemydb:0028:00",
   "jp": "カンサス",
   "refs": 6,
-  "en": ""
+  "en": "Kansasu"
  },
  {
   "id": "enemydb:0028:04",
   "jp": "古代の祭具が隠人化したもの。人の想いが\n籠められた物品は、その「想い」を情報\nとして含んでいる場合がある。祭事に使用\nされた古代の遺物は、特に籠められた想い\nが強いため、花札の影響を受けて隠人化\nしやすい。",
   "refs": 1,
-  "en": ""
+  "en": "An ancient ritual tool turned Oni.\nObjects imbued with human feelings can\nhold those feelings as data. Ancient\nritual relics carry especially strong\nfeelings, so the hanafuda easily turn\nthem Oni."
  },
  {
   "id": "enemydb:0028:08",
   "jp": "勾玉本体",
   "refs": 6,
-  "en": ""
+  "en": "Magatama body"
  },
  {
   "id": "enemydb:0029:00",
   "jp": "メドハギ",
   "refs": 6,
-  "en": ""
+  "en": "Medohagi"
  },
  {
   "id": "enemydb:0029:04",
   "jp": "古代の祭祀で、神に踊りを捧げていた\n巫女の情報が何らかの形で残り、隠人化\nしたもの。激しい剣舞を舞うことで、神に\n奉じようとしている。実戦向きの剣技\nではないが、巨大な剣を振り回すパワーは\n侮れない。",
   "refs": 1,
-  "en": ""
+  "en": "The lingering data of a shrine maiden\nwho danced for the gods in ancient\nrites, turned Oni. It serves the gods\nwith a fierce sword dance. Not a combat\nstyle, but the strength to swing that\nhuge sword is no joke."
  },
  {
   "id": "enemydb:0029:08",
   "jp": "大剣",
   "refs": 6,
-  "en": ""
+  "en": "Greatsword"
  },
  {
   "id": "enemydb:0030:00",
   "jp": "サイカチ",
   "refs": 5,
-  "en": ""
+  "en": "Saikachi"
  },
  {
   "id": "enemydb:0030:04",
   "jp": "蝉の抜け殻に浮遊する魂が入り込み、\n周囲を取り込みつつ隠人として変化した\nもの。蝉のものだった抜け殻が異様な姿に\n変異しているが、そこに実体はなく、\n本体の魂は宿り木のほうに潜んでいる。",
   "refs": 1,
-  "en": ""
+  "en": "A drifting soul entered a cicada's shed\nshell and became an Oni, taking in its\nsurroundings. The shell has mutated into\na bizarre shape but is hollow; the soul\nitself hides in the mistletoe."
  },
  {
   "id": "enemydb:0030:08",
   "jp": "殻（発光部）",
   "refs": 6,
-  "en": ""
+  "en": "Shell (glowing)"
  },
  {
   "id": "enemydb:0031:00",
   "jp": "カラン",
   "refs": 5,
-  "en": ""
+  "en": "Karan"
  },
  {
   "id": "enemydb:0031:04",
   "jp": "遮光器土偶が隠人化したもの。レーザーの\nような光を放つのは、花札の影響を受けた\nとき別の情報に歪められたか、遮光器土偶\nがもともと強い光に関連した意味を持つ\n土偶だったのか、どちらかだと思われる。",
   "refs": 1,
-  "en": ""
+  "en": "A goggle-eyed dogu figurine turned Oni.\nIts laser-like light may come from data\nwarped by the hanafuda, or the figurine\nmay have always meant something tied to\nstrong light."
  },
  {
   "id": "enemydb:0031:08",
   "jp": "各発光部",
   "refs": 6,
-  "en": ""
+  "en": "Glowing parts"
  },
  {
   "id": "enemydb:0032:00",
   "jp": "カカミ",
   "refs": 5,
-  "en": ""
+  "en": "Kakami"
  },
  {
   "id": "enemydb:0032:04",
   "jp": "どこにでもいるナメクジが隠人となった\nもの。銅鐸の下には子供が隠れており、\n必要なときに出てきて親と銅鐸を運ぶ。\n銅鐸は防御のための要塞であると同時に、\n一家の家の役割を果たしている。",
   "refs": 1,
-  "en": ""
+  "en": "An ordinary slug turned Oni. Its young\nhide under the bronze bell and come out\nwhen needed to carry the parent and\nbell. The bell is both a defensive\nfortress and the family home."
  },
  {
   "id": "enemydb:0032:08",
   "jp": "口部分",
   "refs": 16,
-  "en": ""
+  "en": "Mouth"
  },
  {
   "id": "enemydb:0033:00",
   "jp": "ヒサカキ",
   "refs": 5,
-  "en": ""
+  "en": "Hisakaki"
  },
  {
   "id": "enemydb:0033:04",
   "jp": "古代に作られた戦士型の埴輪が隠人と\nなったもの。戦士の埴輪は権力の象徴で\nあり、古代の墳墓にはさまざまな埴輪が\n埋められた。目的も外見もシンプルな物品\nゆえに、隠人化の際にも見た通りの、\n侵入者を警戒する警備兵となった。",
   "refs": 1,
-  "en": ""
+  "en": "An ancient warrior haniwa turned Oni.\nWarrior haniwa symbolized power, and\nmany kinds were buried in old tombs.\nSimple in purpose and look, it became\njust what it seems: a guard watching for\nintruders."
  },
  {
   "id": "enemydb:0033:08",
   "jp": "人型頭部",
   "refs": 5,
-  "en": ""
+  "en": "Humanoid head"
  },
  {
   "id": "enemydb:0034:00",
   "jp": "ショウヨウ",
   "refs": 5,
-  "en": ""
+  "en": "Shoyo"
  },
  {
   "id": "enemydb:0034:04",
   "jp": "捨てられた古い招き猫の置物が、花札の\n影響で隠人化したもの。もともとは福を\n招くという一種の祭具だったが、\n捨て置かれたために、本来とは逆の気が\n溜まり、禍を招く猫になってしまった。",
   "refs": 1,
-  "en": ""
+  "en": "An old discarded beckoning-cat figure,\nturned Oni by the hanafuda. Once a charm\nto invite luck, it was left to rot and\ngathered the opposite energy, becoming a\ncat that invites disaster."
  },
  {
   "id": "enemydb:0034:08",
   "jp": "首の鈴",
   "refs": 6,
-  "en": ""
+  "en": "Neck bell"
  },
  {
   "id": "enemydb:0035:00",
   "jp": "ゴギョウ",
   "refs": 6,
-  "en": ""
+  "en": "Gogyo"
  },
  {
   "id": "enemydb:0035:04",
   "jp": "元々は陰陽師の使う式神だったが、花札の\n影響を受けて隠人化した。陰陽師らしき\n人物も実体化しているものの、本体は\n天道虫のほう。人型のほうが花札に情報を\n補完されたダミーである。そのため人型の\n行動は意味不明なものが多い。",
   "refs": 1,
-  "en": ""
+  "en": "Once an onmyoji's shikigami, turned Oni\nby the hanafuda. An onmyoji-like figure\ntakes form too, but the true body is the\nladybug. The human is a dummy filled in\nby hanafuda data, so most of what it\ndoes makes no sense."
  },
  {
   "id": "enemydb:0035:08",
   "jp": "虫型頭部",
   "refs": 6,
-  "en": ""
+  "en": "Insect head"
  },
  {
   "id": "enemydb:0036:00",
   "jp": "シャガ",
   "refs": 5,
-  "en": ""
+  "en": "Shaga"
  },
  {
   "id": "enemydb:0036:04",
   "jp": "古くなった琵琶が隠人となったもの。\n音楽を奏でるために徘徊するが、情報が\n歪められてしまったせいか、本来琵琶が\n奏でる美しい日本の音楽とは程遠い\n怪音波となってしまっている。",
   "refs": 1,
-  "en": ""
+  "en": "An old biwa lute turned Oni. It roams to\nplay music, but perhaps due to warped\ndata, its sound is an eerie noise far\nfrom the lovely Japanese music a biwa\nshould play."
  },
  {
   "id": "enemydb:0036:08",
   "jp": "弦の付け根",
   "refs": 5,
-  "en": ""
+  "en": "Base of strings"
  },
  {
   "id": "enemydb:0037:00",
   "jp": "ソケイ",
   "refs": 6,
-  "en": ""
+  "en": "Sokei"
  },
  {
   "id": "enemydb:0037:04",
   "jp": "神社に祀られた狐の情報が、花札の影響で\n実体化した隠人。動物の狐そのものが元に\nなっているわけではなく、神格化された\nものがベースになっているため、犬や\n蝙蝠が元になった隠人よりも強い。",
   "refs": 1,
-  "en": ""
+  "en": "An Oni born when a shrine's enshrined\nfox took form through the hanafuda.\nBased not on a real fox but on a deified\none, it is stronger than Oni born from\ndogs or bats."
  },
  {
   "id": "enemydb:0038:00",
   "jp": "ケマン",
   "refs": 5,
-  "en": ""
+  "en": "Keman"
  },
  {
   "id": "enemydb:0038:04",
   "jp": "古い仏像や仏具などが一部分だけ情報と\nして抽出されて、混沌としたまま実体化\nしてしまった隠人。それぞれの情報が\n混ざったせいで頭部は仏、基部は蓮の花の\n彫刻となっている。もちろん仏心はなく、\n侵入者を無慈悲に攻撃する。",
   "refs": 1,
-  "en": ""
+  "en": "An Oni formed in chaos from fragments of\ndata drawn from old Buddhist statues and\naltar tools. The mixed data gave it a\nBuddha's head on a carved lotus base. Of\ncourse it has no mercy and attacks\nintruders ruthlessly."
  },
  {
   "id": "enemydb:0038:08",
   "jp": "右目",
   "refs": 6,
-  "en": ""
+  "en": "Right eye"
  },
  {
   "id": "enemydb:0039:00",
   "jp": "カタゴ",
   "refs": 6,
-  "en": ""
+  "en": "Katago"
  },
  {
   "id": "enemydb:0039:04",
   "jp": "かつて平安京で使われていた牛車の\n情報が、花札の影響で実体化し、隠人と\nなった。しかし古い文化ゆえに情報が欠損\nしているのか、当時の牛車とは似つかない\n戦闘的なものとなっている。",
   "refs": 1,
-  "en": ""
+  "en": "Data of an ox cart once used in the\nHeian capital, made real by the hanafuda\nas an Oni. Perhaps the old culture's\ndata is incomplete, as it is a warlike\nthing that looks nothing like a real ox\ncart."
  },
  {
   "id": "enemydb:0039:08",
   "jp": "牛車の幕内、牛の鼻",
   "refs": 7,
-  "en": ""
+  "en": "Cabin, ox's nose"
  },
  {
   "id": "enemydb:0040:00",
   "jp": "イチハツ",
   "refs": 5,
-  "en": ""
+  "en": "Ichihatsu"
  },
  {
   "id": "enemydb:0040:04",
   "jp": "密かに埋葬された陰陽師の遺骸が、花札の\n影響によって隠人となった。生前の記憶や\n意思はないが、生者に強い憎しみを\n持っている。元が古い骸なので、欠損した\n身体の部位の代わりに藤を生やしている。",
   "refs": 1,
-  "en": ""
+  "en": "The remains of a secretly buried\nonmyoji, turned Oni by the hanafuda. It\nhas no memory or will from life, but\ndeeply hates the living. Being old\nbones, it grows wisteria in place of\nmissing parts."
  },
  {
   "id": "enemydb:0040:08",
   "jp": "両目",
   "refs": 13,
-  "en": ""
+  "en": "Both eyes"
  },
  {
   "id": "enemydb:0041:00",
   "jp": "ヒサギ",
   "refs": 5,
-  "en": ""
+  "en": "Hisagi"
  },
  {
   "id": "enemydb:0041:04",
   "jp": "冬山で凍え死んだ女たちの霊が、花札の\n影響で隠人となった。自らを縛り付けて\nいるような外見は、冬山から逃げることが\nできなかった絶望感が具現化したもの。\nそれだけに、生者に対して容赦がない。",
   "refs": 1,
-  "en": ""
+  "en": "Spirits of women who froze to death on a\nwinter mountain, turned Oni by the\nhanafuda. Its self-bound look embodies\ntheir despair at being unable to escape.\nSo it shows the living no mercy."
  },
  {
   "id": "enemydb:0041:08",
   "jp": "十字架の中央",
   "refs": 6,
-  "en": ""
+  "en": "Center of cross"
  },
  {
   "id": "enemydb:0042:00",
   "jp": "フクジュ",
   "refs": 5,
-  "en": ""
+  "en": "Fukuju"
  },
  {
   "id": "enemydb:0042:04",
   "jp": "梟はもともと頭のよい動物で、隠人化した\n結果、人間並みに賢くなった。背中の\n花は、己を誇示するために自らつけた\nもの。さらに、武人を気取って洞で拾った\n武器も携帯している。",
   "refs": 1,
-  "en": ""
+  "en": "Owls are clever animals, and turning Oni\nmade this one as smart as a human. It\nwears the flowers on its back to show\noff, and plays at being a warrior with\nweapons picked up in the Hollow."
  },
  {
   "id": "enemydb:0042:08",
   "jp": "くちばし",
   "refs": 5,
-  "en": ""
+  "en": "Beak"
  },
  {
   "id": "enemydb:0043:00",
   "jp": "エッテン",
   "refs": 6,
-  "en": ""
+  "en": "Etten"
  },
  {
   "id": "enemydb:0043:04",
   "jp": "立派な錦鯉が隠人となったもの。錦鯉の\n面影を残しつつも、空を舞う龍のようにも\n見える。鯉の滝登りという言葉がある\nように、鯉は滝を登りきると龍になると\nいう伝説がある。",
   "refs": 1,
-  "en": ""
+  "en": "A splendid koi turned Oni. It still\nlooks like a koi, yet also like a dragon\nsoaring through the sky. As the saying\nof the koi climbing the falls goes,\nlegend says a koi that scales a\nwaterfall becomes a dragon."
  },
  {
   "id": "enemydb:0043:08",
   "jp": "側面のドクロ模様",
   "refs": 6,
-  "en": ""
+  "en": "Side skull mark"
  },
  {
   "id": "enemydb:0044:00",
   "jp": "オニメヅキ",
   "refs": 5,
-  "en": ""
+  "en": "Onimezuki"
  },
  {
   "id": "enemydb:0044:04",
   "jp": "かつて戦で無念の死を遂げた寺の僧兵が\n隠人となったもの。花札の影響で、単なる\n僧兵のころは持っていなかった能力を\n手に入れ、その力に溺れている。身体は\n再生されても記憶も人の心も失われた、\n破戒僧である。",
   "refs": 1,
-  "en": ""
+  "en": "A temple warrior monk who died bitterly\nin battle, turned Oni. The hanafuda gave\nhim powers he never had in life, and he\nis drunk on them. His body restored but\nhis memory and heart lost, he is a\nfallen monk."
  },
  {
   "id": "enemydb:0045:00",
   "jp": "ツバキ",
   "refs": 6,
-  "en": ""
+  "en": "Tsubaki"
  },
  {
   "id": "enemydb:0045:04",
   "jp": "虫の大群が花札の影響を受け、隠人化した\nもの。落ち武者の怨念が隠人化した際に\n情報として混ざったのか、総体としては\n武士のような姿をしている。身にまとって\nいる武具も、落ち武者が遺したもの。",
   "refs": 1,
-  "en": ""
+  "en": "A swarm of insects turned Oni by the\nhanafuda. Perhaps mixed with the data of\na fallen warrior's grudge, as a whole it\nlooks like a samurai. Its armor was left\nbehind by that warrior too."
  },
  {
   "id": "enemydb:0045:08",
   "jp": "兜の前立て",
   "refs": 7,
-  "en": ""
+  "en": "Helmet crest"
  },
  {
   "id": "enemydb:0046:00",
   "jp": "イタドリ",
   "refs": 6,
-  "en": ""
+  "en": "Itadori"
  },
  {
   "id": "enemydb:0046:04",
   "jp": "古い金屏風が隠人化したもの。花札の\n影響により、「屏風に描かれた絵」という\n情報だった虎が、実体化されかけている。\n屏風に描かれた虎が絵から抜け出るという\n話は、一休宗純のとんち話にもある。",
   "refs": 1,
-  "en": ""
+  "en": "An old gold folding screen turned Oni.\nThe hanafuda are bringing its tiger,\nonce only data as \"a picture on a\nscreen,\" to life. A tiger leaping from a\nscreen also appears in a witty tale of\nIkkyu Sojun."
  },
  {
   "id": "enemydb:0047:00",
   "jp": "ギボシ",
   "refs": 6,
-  "en": ""
+  "en": "Giboshi"
  },
  {
   "id": "enemydb:0047:04",
   "jp": "骨董品の蛙の彫刻が隠人となったもの。\n同じような古民具を道具として従えて\nいる。元は根付だったと思われるが、\n持ち主が忍者だったのか、それらしい能力\nが隠人化の際に付加されている。",
   "refs": 1,
-  "en": ""
+  "en": "An antique frog carving turned Oni. It\ncommands old folk tools like itself.\nLikely once a netsuke, it gained\nninja-like powers when it turned, so\nmaybe its owner was a ninja."
  },
  {
   "id": "enemydb:0047:08",
   "jp": "キセル",
   "refs": 6,
-  "en": ""
+  "en": "Pipe"
  },
  {
   "id": "enemydb:0048:00",
   "jp": "ノウゼン",
   "refs": 7,
-  "en": ""
+  "en": "Nozen"
  },
  {
   "id": "enemydb:0048:04",
   "jp": "日本の深海魚であるリュウグウノツカイ\nが、花札の影響で隠人化したもの。\n飛行能力に加え、鰭の部分を硬質化させて\n日本刀のような鋭利な武器にする能力を\n持つ。もともと神の使いと重宝がられた\n魚だけに、姿も神々しくなっている。",
   "refs": 1,
-  "en": ""
+  "en": "An oarfish, a deep-sea fish of Japan,\nturned Oni by the hanafuda. It can fly\nand harden its fins into blades sharp as\nkatana. Long prized as a messenger of\nthe gods, it has a divine look."
  },
  {
   "id": "enemydb:0049:00",
   "jp": "カリヤク",
   "refs": 5,
-  "en": ""
+  "en": "Kariyaku"
  },
  {
   "id": "enemydb:0049:04",
   "jp": "上等な反物が隠人となったもの。反物の\n柄に加え簪を持っていることから、女性的\nな性格を持つものと思われる。反物は複数\nあるが、隠人としてはこれで一体として\n行動する。",
   "refs": 1,
-  "en": ""
+  "en": "A fine bolt of kimono cloth turned Oni.\nIts patterns and hairpin suggest a\nfeminine nature. There are several\nbolts, but as an Oni they act as one."
  },
  {
   "id": "enemydb:0049:08",
   "jp": "かんざし",
   "refs": 5,
-  "en": ""
+  "en": "Hairpin"
  },
  {
   "id": "enemydb:0050:00",
   "jp": "ハマゴウ",
   "refs": 5,
-  "en": ""
+  "en": "Hamago"
  },
  {
   "id": "enemydb:0050:04",
   "jp": "江戸時代、火事の際に使われた「纏」が\n隠人となったもの。火事を消し止めた際の\n情報が残っていたのか、水をイメージ\nさせるクラゲのような質感に変異して\nいる。攻撃もクラゲのように触手を\n使うが、毒は持っていない。",
   "refs": 1,
-  "en": ""
+  "en": "An Edo-era firefighter's standard turned\nOni. Maybe data of fires put out\nremained, as it mutated into a watery,\njellyfish-like texture. It attacks with\ntentacles like a jellyfish, but has no\npoison."
  },
  {
   "id": "enemydb:0050:08",
   "jp": "頭部(文字部分)",
   "refs": 6,
-  "en": ""
+  "en": "Head (lettering)"
  },
  {
   "id": "enemydb:0051:00",
   "jp": "ギンドロ",
   "refs": 7,
-  "en": ""
+  "en": "Gindoro"
  },
  {
   "id": "enemydb:0051:04",
   "jp": "江戸後期によく作られたからくり人形が\n隠人となったもの。ガトリング砲は\n幕末には日本に入ってきていたため、\n隠人化の際に情報が混在してしまったもの\nと思われる。ガトリング砲の装備と\n同時に、からくり人形自体も大型化した。",
   "refs": 1,
-  "en": ""
+  "en": "A karakuri puppet, common in the late\nEdo era, turned Oni. Gatling guns\nreached Japan by the end of the\nshogunate, so their data likely got\nmixed in. Along with the Gatling gun,\nthe puppet itself grew larger."
  },
  {
   "id": "enemydb:0051:08",
   "jp": "車輪",
   "refs": 6,
-  "en": ""
+  "en": "Wheels"
  },
  {
   "id": "enemydb:0052:00",
   "jp": "ボウユウ",
   "refs": 6,
-  "en": ""
+  "en": "Boyu"
  },
  {
   "id": "enemydb:0052:04",
   "jp": "いたずら好きの狸が洞に迷い込み、花札の\n影響を受けて隠人化してしまった。周囲の\n雰囲気に合わせて帝国軍人の姿を模倣して\nいる。単なる姿の模倣に止まらず、隠人化\nの際に剣技や洞を守る使命感といった情報\nも取り込んでいる。",
   "refs": 1,
-  "en": ""
+  "en": "A prankster tanuki strayed into the\nHollow and turned Oni by the hanafuda.\nIt mimics an imperial soldier to suit\nits setting, and also took in data like\nswordplay and a duty to guard the\nHollow."
  },
  {
   "id": "enemydb:0052:08",
   "jp": "襟部分、階級章",
   "refs": 6,
-  "en": ""
+  "en": "Collar, insignia"
  },
  {
   "id": "enemydb:0053:00",
   "jp": "カルプス",
   "refs": 3,
-  "en": ""
+  "en": "Carpus"
  },
  {
   "id": "enemydb:0053:04",

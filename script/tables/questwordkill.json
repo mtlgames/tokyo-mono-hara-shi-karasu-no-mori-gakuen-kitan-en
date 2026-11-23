@@ -3,529 +3,529 @@
   "id": "questwordkill:0000:00",
   "jp": "特別依頼１",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 1"
  },
  {
   "id": "questwordkill:0000:04",
   "jp": "まつわる札を",
   "refs": 1,
-  "en": ""
+  "en": "the cards tied to it"
  },
  {
   "id": "questwordkill:0001:00",
   "jp": "特別依頼１－２",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 1-2"
  },
  {
   "id": "questwordkill:0002:00",
   "jp": "特別依頼２",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 2"
  },
  {
   "id": "questwordkill:0002:04",
   "jp": "そこで百回刀を振るべし",
   "refs": 1,
-  "en": ""
+  "en": "Swing blade 100 times"
  },
  {
   "id": "questwordkill:0003:00",
   "jp": "特別依頼２－２",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 2-2"
  },
  {
   "id": "questwordkill:0004:00",
   "jp": "特別依頼３",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 3"
  },
  {
   "id": "questwordkill:0004:04",
   "jp": "秘密の声を聞く者",
   "refs": 1,
-  "en": ""
+  "en": "One who hears secrets"
  },
  {
   "id": "questwordkill:0005:00",
   "jp": "特別依頼３－２",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 3-2"
  },
  {
   "id": "questwordkill:0006:00",
   "jp": "特別依頼４",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 4"
  },
  {
   "id": "questwordkill:0006:04",
   "jp": "死者の声を聞くものなり",
   "refs": 1,
-  "en": ""
+  "en": "One who hears the dead"
  },
  {
   "id": "questwordkill:0007:00",
   "jp": "特別依頼４－２",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 4-2"
  },
  {
   "id": "questwordkill:0008:00",
   "jp": "特別依頼５",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 5"
  },
  {
   "id": "questwordkill:0008:04",
   "jp": "右回りに四隅を廻る時",
   "refs": 1,
-  "en": ""
+  "en": "Clockwise, 4 corners"
  },
  {
   "id": "questwordkill:0009:00",
   "jp": "特別依頼５－２",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 5-2"
  },
  {
   "id": "questwordkill:0010:00",
   "jp": "特別依頼６",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 6"
  },
  {
   "id": "questwordkill:0010:04",
   "jp": "遊び好きの猫に",
   "refs": 1,
-  "en": ""
+  "en": "To a playful cat"
  },
  {
   "id": "questwordkill:0011:00",
   "jp": "特別依頼６－２",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 6-2"
  },
  {
   "id": "questwordkill:0012:00",
   "jp": "特別依頼７",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 7"
  },
  {
   "id": "questwordkill:0012:04",
   "jp": "魂を写し取らん",
   "refs": 1,
-  "en": ""
+  "en": "Capture the soul"
  },
  {
   "id": "questwordkill:0013:00",
   "jp": "特別依頼７－２",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 7-2"
  },
  {
   "id": "questwordkill:0014:00",
   "jp": "特別依頼８",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 8"
  },
  {
   "id": "questwordkill:0014:04",
   "jp": "足踏み入れよ",
   "refs": 1,
-  "en": ""
+  "en": "Set foot within"
  },
  {
   "id": "questwordkill:0015:00",
   "jp": "特別依頼８－２",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 8-2"
  },
  {
   "id": "questwordkill:0016:00",
   "jp": "特別依頼９",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 9"
  },
  {
   "id": "questwordkill:0016:04",
   "jp": "槍を掲げて",
   "refs": 1,
-  "en": ""
+  "en": "Raise a spear"
  },
  {
   "id": "questwordkill:0017:00",
   "jp": "特別依頼９－２",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 9-2"
  },
  {
   "id": "questwordkill:0018:00",
   "jp": "特別依頼１０",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 10"
  },
  {
   "id": "questwordkill:0018:04",
   "jp": "霊のみが歩く道を知る",
   "refs": 1,
-  "en": ""
+  "en": "Know the spirits' path"
  },
  {
   "id": "questwordkill:0019:00",
   "jp": "特別依頼１０－２",
   "refs": 1,
-  "en": ""
+  "en": "Bonus Quest 10-2"
  },
  {
   "id": "questwordkill:0020:00",
   "jp": "秘眼に魅入られん",
   "refs": 1,
-  "en": ""
+  "en": "Charmed by gaze"
  },
  {
   "id": "questwordkill:0021:00",
   "jp": "凶刃に倒れん",
   "refs": 1,
-  "en": ""
+  "en": "Fall to a blade"
  },
  {
   "id": "questwordkill:0022:00",
   "jp": "凶弾に倒れん",
   "refs": 1,
-  "en": ""
+  "en": "Fall to a bullet"
  },
  {
   "id": "questwordkill:0023:00",
   "jp": "泣き所を点かれん",
   "refs": 1,
-  "en": ""
+  "en": "Weak spot struck"
  },
  {
   "id": "questwordkill:0024:00",
   "jp": "助太刀に倒されん",
   "refs": 1,
-  "en": ""
+  "en": "Felled by backup"
  },
  {
   "id": "questwordkill:0025:00",
   "jp": "花飾りて討たれん",
   "refs": 1,
-  "en": ""
+  "en": "Slain in flowers"
  },
  {
   "id": "questwordkill:0026:00",
   "jp": "影より葬られん",
   "refs": 1,
-  "en": ""
+  "en": "Buried by shadow"
  },
  {
   "id": "questwordkill:0027:00",
   "jp": "花に散らん",
   "refs": 1,
-  "en": ""
+  "en": "Fall to flowers"
  },
  {
   "id": "questwordkill:0028:00",
   "jp": "冬気に消え往かん",
   "refs": 1,
-  "en": ""
+  "en": "Fade in winter"
  },
  {
   "id": "questwordkill:0029:00",
   "jp": "夏気に燃え尽きん",
   "refs": 1,
-  "en": ""
+  "en": "Burn in summer"
  },
  {
   "id": "questwordkill:0030:00",
   "jp": "打線が火を噴かん",
   "refs": 1,
-  "en": ""
+  "en": "Lineup on fire"
  },
  {
   "id": "questwordkill:0031:00",
   "jp": "木器に倒れん",
   "refs": 1,
-  "en": ""
+  "en": "Felled by wood"
  },
  {
   "id": "questwordkill:0032:00",
   "jp": "鉄器に倒れん",
   "refs": 1,
-  "en": ""
+  "en": "Felled by iron"
  },
  {
   "id": "questwordkill:0033:00",
   "jp": "魂を抜かれん",
   "refs": 1,
-  "en": ""
+  "en": "Soul torn out"
  },
  {
   "id": "questwordkill:0034:00",
   "jp": "矢に射貫かれん",
   "refs": 1,
-  "en": ""
+  "en": "Pierced by arrow"
  },
  {
   "id": "questwordkill:0035:00",
   "jp": "一撃にひれ伏さん",
   "refs": 1,
-  "en": ""
+  "en": "Bow to one blow"
  },
  {
   "id": "questwordkill:0036:00",
   "jp": "点を打たん",
   "refs": 1,
-  "en": ""
+  "en": "Place a dot"
  },
  {
   "id": "questwordkill:0037:00",
   "jp": "道で分かれん",
   "refs": 1,
-  "en": ""
+  "en": "Part at the road"
  },
  {
   "id": "questwordkill:0038:00",
   "jp": "子と寄り添わん",
   "refs": 1,
-  "en": ""
+  "en": "Beside a child"
  },
  {
   "id": "questwordkill:0039:00",
   "jp": "三角を組まん",
   "refs": 1,
-  "en": ""
+  "en": "Form a triangle"
  },
  {
   "id": "questwordkill:0040:00",
   "jp": "列を作らん",
   "refs": 1,
-  "en": ""
+  "en": "Form a line"
  },
  {
   "id": "questwordkill:0041:00",
   "jp": "坂を下らん",
   "refs": 1,
-  "en": ""
+  "en": "Go down a slope"
  },
  {
   "id": "questwordkill:0042:00",
   "jp": "酒を交わさん",
   "refs": 1,
-  "en": ""
+  "en": "Share sake"
  },
  {
   "id": "questwordkill:0043:00",
   "jp": "四隅を埋めん",
   "refs": 1,
-  "en": ""
+  "en": "Fill the corners"
  },
  {
   "id": "questwordkill:0044:00",
   "jp": "花菱を作らん",
   "refs": 1,
-  "en": ""
+  "en": "Form a diamond"
  },
  {
   "id": "questwordkill:0045:00",
   "jp": "山を描かん",
   "refs": 1,
-  "en": ""
+  "en": "Draw a mountain"
  },
  {
   "id": "questwordkill:0046:00",
   "jp": "雨に濡れん",
   "refs": 1,
-  "en": ""
+  "en": "Wet with rain"
  },
  {
   "id": "questwordkill:0047:00",
   "jp": "空を眺めん",
   "refs": 1,
-  "en": ""
+  "en": "Gaze at the sky"
  },
  {
   "id": "questwordkill:0048:00",
   "jp": "柏木を打たん",
   "refs": 1,
-  "en": ""
+  "en": "Strike the oak"
  },
  {
   "id": "questwordkill:0049:00",
   "jp": "五つを数えん",
   "refs": 1,
-  "en": ""
+  "en": "Count to five"
  },
  {
   "id": "questwordkill:0050:00",
   "jp": "十字を切らん",
   "refs": 1,
-  "en": ""
+  "en": "Cross yourself"
  },
  {
   "id": "questwordkill:0051:00",
   "jp": "鍵を掛けん",
   "refs": 1,
-  "en": ""
+  "en": "Turn the key"
  },
  {
   "id": "questwordkill:0052:00",
   "jp": "日出ずるを拝まん",
   "refs": 1,
-  "en": ""
+  "en": "Hail the sunrise"
  },
  {
   "id": "questwordkill:0052:04",
   "jp": "四方詣りの儀",
   "refs": 4,
-  "en": ""
+  "en": "Rite of Four Shrines"
  },
  {
   "id": "questwordkill:0053:00",
   "jp": "日沈むを拝まん",
   "refs": 1,
-  "en": ""
+  "en": "Hail the sunset"
  },
  {
   "id": "questwordkill:0054:00",
   "jp": "南風を被らん",
   "refs": 1,
-  "en": ""
+  "en": "Brave south wind"
  },
  {
   "id": "questwordkill:0055:00",
   "jp": "北辰を見いださん",
   "refs": 1,
-  "en": ""
+  "en": "Find Polaris"
  },
  {
   "id": "questwordkill:0056:00",
   "jp": "武具を構えん",
   "refs": 1,
-  "en": ""
+  "en": "Ready weapons"
  },
  {
   "id": "questwordkill:0056:04",
   "jp": "魔障調伏の儀",
   "refs": 1,
-  "en": ""
+  "en": "Rite of Quelling"
  },
  {
   "id": "questwordkill:0057:00",
   "jp": "鞘に納めん",
   "refs": 1,
-  "en": ""
+  "en": "Sheathe a sword"
  },
  {
   "id": "questwordkill:0057:04",
   "jp": "慈心不殺の儀",
   "refs": 1,
-  "en": ""
+  "en": "Rite of Mercy"
  },
  {
   "id": "questwordkill:0058:00",
   "jp": "矢を立てん",
   "refs": 1,
-  "en": ""
+  "en": "Stand an arrow"
  },
  {
   "id": "questwordkill:0058:04",
   "jp": "蟇目の儀",
   "refs": 1,
-  "en": ""
+  "en": "Rite of the Hikime"
  },
  {
   "id": "questwordkill:0059:00",
   "jp": "駆け入らん",
   "refs": 1,
-  "en": ""
+  "en": "Charge in"
  },
  {
   "id": "questwordkill:0059:04",
   "jp": "馬追いの儀",
   "refs": 1,
-  "en": ""
+  "en": "Rite of Horse Chase"
  },
  {
   "id": "questwordkill:0060:00",
   "jp": "飛び立たん",
   "refs": 1,
-  "en": ""
+  "en": "Take flight"
  },
  {
   "id": "questwordkill:0060:04",
   "jp": "天翔の儀",
   "refs": 1,
-  "en": ""
+  "en": "Rite of Sky Soaring"
  },
  {
   "id": "questwordkill:0061:00",
   "jp": "陽の順を巡らん",
   "refs": 1,
-  "en": ""
+  "en": "Circle sunwise"
  },
  {
   "id": "questwordkill:0061:04",
   "jp": "時廻りの儀",
   "refs": 1,
-  "en": ""
+  "en": "Rite of Turning Time"
  },
  {
   "id": "questwordkill:0062:00",
   "jp": "天を仰がん",
   "refs": 1,
-  "en": ""
+  "en": "Look to heaven"
  },
  {
   "id": "questwordkill:0062:04",
   "jp": "仰天の儀",
   "refs": 1,
-  "en": ""
+  "en": "Rite of Astonishment"
  },
  {
   "id": "questwordkill:0063:00",
   "jp": "頭を垂れん",
   "refs": 1,
-  "en": ""
+  "en": "Bow your head"
  },
  {
   "id": "questwordkill:0063:04",
   "jp": "一衆觸礼の儀",
   "refs": 1,
-  "en": ""
+  "en": "Rite of Group Bowing"
  },
  {
   "id": "questwordkill:0064:00",
   "jp": "開眼せん",
   "refs": 1,
-  "en": ""
+  "en": "Open your eyes"
  },
  {
   "id": "questwordkill:0064:04",
   "jp": "開眼法要の儀",
   "refs": 1,
-  "en": ""
+  "en": "Rite of Eye-Opening"
  },
  {
   "id": "questwordkill:0065:00",
   "jp": "御神水を飲まん",
   "refs": 1,
-  "en": ""
+  "en": "Drink holy water"
  },
  {
   "id": "questwordkill:0065:04",
   "jp": "水合わせの儀",
   "refs": 1,
-  "en": ""
+  "en": "Rite of Water Mixing"
  },
  {
   "id": "questwordkill:0066:00",
   "jp": "駄菓子を食らわん",
   "refs": 1,
-  "en": ""
+  "en": "Eat cheap candy"
  },
  {
   "id": "questwordkill:0066:04",

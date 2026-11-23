@@ -38,6 +38,9 @@ LONG_ROW, LONG_MIN = 3, 16  # long build: a table row gets max(LONG_MIN, LONG_RO
 # extracted strings that are data, not text (marker build): never replaced. EBOOT file offset ranges, inclusive.
 NON_TEXT = [
     (0x2B1154, 0x2B1514, "name-entry grid cells, one char per 4-byte slot (its 英数 page already has A-Z a-z)"),
+    (0x2B79A8, 0x2B7B54, "glyph tables: Cyrillic/Greek/box chars, circled digits, line-break (kinsoku) char lists, "
+                         "＠苗読１.. name-markup keywords (translator b008: not text)"),
+    (0x2B7E28, 0x2B7ED8, "font-area error string + name-entry markup keywords 苗読全..＠"),
     (0x2B7F04, 0x2B7F04, "full-width ASCII table (space..【), index = ASCII code - 0x20"),
 ]
 

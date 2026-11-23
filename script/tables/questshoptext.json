@@ -171,780 +171,780 @@
   "id": "questshoptext:0029:00",
   "jp": "　達成報告",
   "refs": 1,
-  "en": ""
+  "en": "Report Results"
  },
  {
   "id": "questshoptext:0030:00",
   "jp": "依頼を断る",
   "refs": 1,
-  "en": ""
+  "en": "Decline Request"
  },
  {
   "id": "questshoptext:0031:00",
   "jp": "接続待機中．．．",
   "refs": 1,
-  "en": ""
+  "en": "Waiting for connection..."
  },
  {
   "id": "questshoptext:0032:00",
   "jp": "配信情報取得中．．．",
   "refs": 1,
-  "en": ""
+  "en": "Getting download info..."
  },
  {
   "id": "questshoptext:0033:00",
   "jp": "接続中．．．",
   "refs": 1,
-  "en": ""
+  "en": "Connecting..."
  },
  {
   "id": "questshoptext:0034:00",
   "jp": "切断中．．．",
   "refs": 1,
-  "en": ""
+  "en": "Disconnecting..."
  },
  {
   "id": "questshoptext:0035:00",
   "jp": "エラー発生！",
   "refs": 1,
-  "en": ""
+  "en": "An error occurred!"
  },
  {
   "id": "questshoptext:0036:00",
   "jp": "エラー発生！\nデータを正常に取得できませんでした",
   "refs": 1,
-  "en": ""
+  "en": "An error occurred! The data could not be\nretrieved correctly."
  },
  {
   "id": "questshoptext:0037:00",
   "jp": "通信を初期化しています\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": ""
+  "en": "Initializing communication. Please wait\nwithout changing anything."
  },
  {
   "id": "questshoptext:0038:00",
   "jp": "ダウンロードクエスト",
   "refs": 1,
-  "en": ""
+  "en": "Download Quests"
  },
  {
   "id": "questshoptext:0039:00",
   "jp": "ダウンロードしたいクエストを選んでください",
   "refs": 2,
-  "en": ""
+  "en": "Choose a quest to download."
  },
  {
   "id": "questshoptext:0040:00",
   "jp": "クエストを探す",
   "refs": 1,
-  "en": ""
+  "en": "Find Quests"
  },
  {
   "id": "questshoptext:0041:00",
   "jp": "クエスト「%s」を\nダウンロードしますか？",
   "refs": 1,
-  "en": ""
+  "en": "Download the quest \"%s\"?"
  },
  {
   "id": "questshoptext:0043:00",
   "jp": "【プレイ条件：%s】",
   "refs": 1,
-  "en": ""
+  "en": "[Requirement: %s]"
  },
  {
   "id": "questshoptext:0044:00",
   "jp": "あらすじ：%s",
   "refs": 1,
-  "en": ""
+  "en": "Synopsis: %s"
  },
  {
   "id": "questshoptext:0045:00",
   "jp": "まだ配信されていません",
   "refs": 1,
-  "en": ""
+  "en": "Not available yet."
  },
  {
   "id": "questshoptext:0046:00",
   "jp": "ダウンロードしたファイルが破損しています\nもう一度ダウンロードしますか？",
   "refs": 1,
-  "en": ""
+  "en": "The downloaded file is corrupted. Download it\nagain?"
  },
  {
   "id": "questshoptext:0047:00",
   "jp": "%2d話以降",
   "refs": 1,
-  "en": ""
+  "en": "From Chapter %2d"
  },
  {
   "id": "questshoptext:0048:00",
   "jp": "２週目以降",
   "refs": 1,
-  "en": ""
+  "en": "From 2nd Playthrough"
  },
  {
   "id": "questshoptext:0049:00",
   "jp": "なし",
   "refs": 1,
-  "en": ""
+  "en": "None"
  },
  {
   "id": "questshoptext:0050:00",
   "jp": "依頼人「%s」からの\n依頼を受けられるようになりました",
   "refs": 1,
-  "en": ""
+  "en": "You can now take requests from the client\n\"%s\"."
  },
  {
   "id": "questshoptext:0051:00",
   "jp": "ダウンロードファイルを削除します\nよろしいですか？",
   "refs": 1,
-  "en": ""
+  "en": "Delete the downloaded file. Are you sure?"
  },
  {
   "id": "questshoptext:0052:00",
   "jp": "すでにダウンロードしてあります",
   "refs": 1,
-  "en": ""
+  "en": "Already downloaded."
  },
  {
   "id": "questshoptext:0053:00",
   "jp": "更新情報の取得中です",
   "refs": 1,
-  "en": ""
+  "en": "Getting update info..."
  },
  {
   "id": "questshoptext:0054:00",
   "jp": "クエスト情報取得中です",
   "refs": 1,
-  "en": ""
+  "en": "Getting quest info..."
  },
  {
   "id": "questshoptext:0055:00",
   "jp": "プレイヤークエスト",
   "refs": 2,
-  "en": ""
+  "en": "Player Quests"
  },
  {
   "id": "questshoptext:0056:00",
   "jp": "あなたとプロフィール交換をしたい人が%d人います",
   "refs": 1,
-  "en": ""
+  "en": "%d people want to exchange profiles with you."
  },
  {
   "id": "questshoptext:0057:00",
   "jp": "あなたへクエストを依頼したい人が%d人います",
   "refs": 1,
-  "en": ""
+  "en": "%d people want to send you a quest request."
  },
  {
   "id": "questshoptext:0058:00",
   "jp": "依頼人名",
   "refs": 1,
-  "en": ""
+  "en": "Client"
  },
  {
   "id": "questshoptext:0059:00",
   "jp": "受注した依頼",
   "refs": 1,
-  "en": ""
+  "en": "Accepted Requests"
  },
  {
   "id": "questshoptext:0060:00",
   "jp": "相手から交換を要請されています",
   "refs": 1,
-  "en": ""
+  "en": "They want to exchange with you."
  },
  {
   "id": "questshoptext:0061:00",
   "jp": "交換",
   "refs": 1,
-  "en": ""
+  "en": "Exchange"
  },
  {
   "id": "questshoptext:0062:00",
   "jp": "相手から依頼を要請されています",
   "refs": 1,
-  "en": ""
+  "en": "They want to send you a request."
  },
  {
   "id": "questshoptext:0063:00",
   "jp": "依頼",
   "refs": 1,
-  "en": ""
+  "en": "Request"
  },
  {
   "id": "questshoptext:0064:00",
   "jp": "結果未報告",
   "refs": 1,
-  "en": ""
+  "en": "Not Yet Reported"
  },
  {
   "id": "questshoptext:0065:00",
   "jp": "受注中",
   "refs": 2,
-  "en": ""
+  "en": "Accepted"
  },
  {
   "id": "questshoptext:0066:00",
   "jp": "未登録",
   "refs": 1,
-  "en": ""
+  "en": "Not Saved"
  },
  {
   "id": "questshoptext:0067:00",
   "jp": "プロフィール",
   "refs": 1,
-  "en": ""
+  "en": "Profile"
  },
  {
   "id": "questshoptext:0068:00",
   "jp": "残り%d人",
   "refs": 1,
-  "en": ""
+  "en": "%d left"
  },
  {
   "id": "questshoptext:0069:00",
   "jp": "登録可",
   "refs": 2,
-  "en": ""
+  "en": "Can Save"
  },
  {
   "id": "questshoptext:0070:00",
   "jp": "依頼金",
   "refs": 1,
-  "en": ""
+  "en": "Fee"
  },
  {
   "id": "questshoptext:0071:00",
   "jp": "プロフィール編集",
   "refs": 2,
-  "en": ""
+  "en": "Edit Profile"
  },
  {
   "id": "questshoptext:0072:00",
   "jp": "プロフィール交換",
   "refs": 2,
-  "en": ""
+  "en": "Exchange Profiles"
  },
  {
   "id": "questshoptext:0073:00",
   "jp": "依頼を送信する",
   "refs": 1,
-  "en": ""
+  "en": "Send a Request"
  },
  {
   "id": "questshoptext:0074:00",
   "jp": "依頼を受信する",
   "refs": 1,
-  "en": ""
+  "en": "Receive Requests"
  },
  {
   "id": "questshoptext:0075:00",
   "jp": "自分の依頼人としての\nプロフィールを変更します",
   "refs": 1,
-  "en": ""
+  "en": "Change your profile as a client."
  },
  {
   "id": "questshoptext:0076:00",
   "jp": "プロフィール情報を交換し\n達成した依頼があれば\n相手に報告します",
   "refs": 1,
-  "en": ""
+  "en": "Exchange profile info, and report any requests\nyou have completed to the other player."
  },
  {
   "id": "questshoptext:0077:00",
   "jp": "好きなクエストを作って\n相手へ送信します",
   "refs": 1,
-  "en": ""
+  "en": "Make any quest you like and send it to the\nother player."
  },
  {
   "id": "questshoptext:0078:00",
   "jp": "クエストを受信します\n受信すると「依頼を探す」で\n依頼が登場します",
   "refs": 1,
-  "en": ""
+  "en": "Receive quests. Received quests appear as\nrequests under \"Find Requests\"."
  },
  {
   "id": "questshoptext:0081:00",
   "jp": "依頼人名を変更",
   "refs": 1,
-  "en": ""
+  "en": "Change Client Name"
  },
  {
   "id": "questshoptext:0082:00",
   "jp": "依頼文を変更",
   "refs": 1,
-  "en": ""
+  "en": "Change Request Text"
  },
  {
   "id": "questshoptext:0083:00",
   "jp": "外見を変更",
   "refs": 1,
-  "en": ""
+  "en": "Change Look"
  },
  {
   "id": "questshoptext:0084:00",
   "jp": "依頼人のハンドルネームを\n変更します",
   "refs": 1,
-  "en": ""
+  "en": "Change your handle as a client."
  },
  {
   "id": "questshoptext:0085:00",
   "jp": "依頼文章を変更します",
   "refs": 1,
-  "en": ""
+  "en": "Change the request text."
  },
  {
   "id": "questshoptext:0086:00",
   "jp": "依頼人としての姿を\n変更します",
   "refs": 1,
-  "en": ""
+  "en": "Change how you look as a client."
  },
  {
   "id": "questshoptext:0087:00",
   "jp": "依頼人名変更中．．．",
   "refs": 1,
-  "en": ""
+  "en": "Changing client name..."
  },
  {
   "id": "questshoptext:0088:00",
   "jp": "服装",
   "refs": 1,
-  "en": ""
+  "en": "Outfit"
  },
  {
   "id": "questshoptext:0089:00",
   "jp": "被りもの",
   "refs": 1,
-  "en": ""
+  "en": "Headwear"
  },
  {
   "id": "questshoptext:0090:00",
   "jp": "顔飾り",
   "refs": 1,
-  "en": ""
+  "en": "Face"
  },
  {
   "id": "questshoptext:0092:00",
   "jp": "プロフィールを交換をしたい相手を選んで下さい",
   "refs": 1,
-  "en": ""
+  "en": "Choose who you want to exchange profiles with."
  },
  {
   "id": "questshoptext:0093:00",
   "jp": "残り",
   "refs": 1,
-  "en": ""
+  "en": "Left"
  },
  {
   "id": "questshoptext:0095:00",
   "jp": "交換を呼びかけています\n相手が交換に応じるまで\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": ""
+  "en": "Calling for an exchange. Please wait without\nchanging anything until the other player\nresponds."
  },
  {
   "id": "questshoptext:0096:00",
   "jp": "プロフィールを交換しています。\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": ""
+  "en": "Exchanging profiles. Please wait without\nchanging anything."
  },
  {
   "id": "questshoptext:0097:00",
   "jp": "交換をキャンセルしています。\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": ""
+  "en": "Canceling the exchange. Please wait without\nchanging anything."
  },
  {
   "id": "questshoptext:0098:00",
   "jp": "相手の状態を待っています",
   "refs": 1,
-  "en": ""
+  "en": "Waiting for the other player..."
  },
  {
   "id": "questshoptext:0099:00",
   "jp": "プロフィール帳に\n新しい依頼人が\n登録されました",
   "refs": 1,
-  "en": ""
+  "en": "A new client has been added to your profile\nbook."
  },
  {
   "id": "questshoptext:0100:00",
   "jp": "プロフィールを更新しました",
   "refs": 1,
-  "en": ""
+  "en": "Profile updated."
  },
  {
   "id": "questshoptext:0101:00",
   "jp": "プロフィール帳が一杯です",
   "refs": 1,
-  "en": ""
+  "en": "Your profile book is full."
  },
  {
   "id": "questshoptext:0102:00",
   "jp": "プロフィールの登録に\n失敗しました",
   "refs": 1,
-  "en": ""
+  "en": "Failed to save the profile."
  },
  {
   "id": "questshoptext:0103:00",
   "jp": "依頼結果を送信しました",
   "refs": 1,
-  "en": ""
+  "en": "Request results sent."
  },
  {
   "id": "questshoptext:0104:00",
   "jp": "依頼結果を受信しました",
   "refs": 1,
-  "en": ""
+  "en": "Request results received."
  },
  {
   "id": "questshoptext:0105:00",
   "jp": "%s　達成結果",
   "refs": 1,
-  "en": ""
+  "en": "%s Results"
  },
  {
   "id": "questshoptext:0106:00",
   "jp": "あなたの依頼は\n中断されました",
   "refs": 1,
-  "en": ""
+  "en": "Your request has been suspended."
  },
  {
   "id": "questshoptext:0107:00",
   "jp": "交換処理を終了しています。\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": ""
+  "en": "Ending the exchange. Please wait without\nchanging anything."
  },
  {
   "id": "questshoptext:0108:00",
   "jp": "相手との通信が切断されたか\nキャンセルされました\n交換処理を終了しています\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": ""
+  "en": "The connection was lost or canceled. Ending\nthe exchange. Please wait without changing\nanything."
  },
  {
   "id": "questshoptext:0109:00",
   "jp": "依頼の状態を確認しています\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": ""
+  "en": "Checking the request status. Please wait\nwithout changing anything."
  },
  {
   "id": "questshoptext:0110:00",
   "jp": "儀式の効果が得られませんでした",
   "refs": 1,
-  "en": ""
+  "en": "The ritual had no effect."
  },
  {
   "id": "questshoptext:0111:00",
   "jp": "相手が所持金不足の為\n達成報告を中止しました",
   "refs": 1,
-  "en": ""
+  "en": "The other player lacks funds, so the report\nwas canceled."
  },
  {
   "id": "questshoptext:0112:00",
   "jp": "依頼料　%s円を\n支払えませんでした。\n達成報告は中止されました",
   "refs": 1,
-  "en": ""
+  "en": "Could not pay the %s yen fee. The completion\nreport was canceled."
  },
  {
   "id": "questshoptext:0113:00",
   "jp": "「%s」の\n最大ＨＰが半減しました。\nダンジョンを出るまで有効です",
   "refs": 1,
-  "en": ""
+  "en": "%s's max HP has been halved until leaving the\ndungeon."
  },
  {
   "id": "questshoptext:0114:00",
   "jp": "報酬　%s円を\n手に入れました",
   "refs": 1,
-  "en": ""
+  "en": "Received a reward of %s yen."
  },
  {
   "id": "questshoptext:0115:00",
   "jp": "依頼料　%s円を\n支払いました",
   "refs": 1,
-  "en": ""
+  "en": "Paid a fee of %s yen."
  },
  {
   "id": "questshoptext:0116:00",
   "jp": "依頼品「%s」が\n自室に送られました",
   "refs": 1,
-  "en": ""
+  "en": "The requested item \"%s\" was sent to your room."
  },
  {
   "id": "questshoptext:0117:00",
   "jp": "プロフィールが最新ではありません\nプロフィール交換を行ってください",
   "refs": 1,
-  "en": ""
+  "en": "Your profile is out of date. Please exchange\nprofiles."
  },
  {
   "id": "questshoptext:0118:00",
   "jp": "この依頼を破棄する",
   "refs": 1,
-  "en": ""
+  "en": "Discard This Request"
  },
  {
   "id": "questshoptext:0119:00",
   "jp": "破棄せずに受信をやめる",
   "refs": 1,
-  "en": ""
+  "en": "Stop Without Discarding"
  },
  {
   "id": "questshoptext:0120:00",
   "jp": "依頼人の選択",
   "refs": 1,
-  "en": ""
+  "en": "Choose Client"
  },
  {
   "id": "questshoptext:0121:00",
   "jp": "依頼を受ける相手を選んでください。\nあなたへの依頼を要請している人だけ選べます",
   "refs": 1,
-  "en": ""
+  "en": "Choose who to take a request from. Only people\nasking to send you one can be chosen."
  },
  {
   "id": "questshoptext:0122:00",
   "jp": "相手に呼びかけています。\n相手が応じるまで\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": ""
+  "en": "Calling the other player. Please wait without\nchanging anything until they respond."
  },
  {
   "id": "questshoptext:0123:00",
   "jp": "同じ依頼人の依頼を\n既に保存しています。\n依頼人と相談した上で\n選択して下さい",
   "refs": 1,
-  "en": ""
+  "en": "You already have a request saved from this\nclient. Talk with the client before choosing."
  },
  {
   "id": "questshoptext:0124:00",
   "jp": "依頼人がクエストを作成中です。\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": ""
+  "en": "The client is making a quest. Please wait\nwithout changing anything."
  },
  {
   "id": "questshoptext:0125:00",
   "jp": "クエストを受信しました。\n「依頼を探す」から、\n依頼を選んで受注して下さい",
   "refs": 1,
-  "en": ""
+  "en": "Quest received. Choose and accept it from\n\"Find Requests\"."
  },
  {
   "id": "questshoptext:0126:00",
   "jp": "相手との通信が切断されたか\nキャンセルされました\n依頼の受信処理を終了しています\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": ""
+  "en": "The connection was lost or canceled. Ending\nthe receiving process. Please wait without\nchanging anything."
  },
  {
   "id": "questshoptext:0127:00",
   "jp": "依頼の受信をキャンセルしています\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": ""
+  "en": "Canceling receipt of the request. Please wait\nwithout changing anything."
  },
  {
   "id": "questshoptext:0128:00",
   "jp": "アイテム",
   "refs": 1,
-  "en": ""
+  "en": "Item"
  },
  {
   "id": "questshoptext:0129:00",
   "jp": "儀式",
   "refs": 1,
-  "en": ""
+  "en": "Ritual"
  },
  {
   "id": "questshoptext:0130:00",
   "jp": "退魔",
   "refs": 1,
-  "en": ""
+  "en": "Exorcism"
  },
  {
   "id": "questshoptext:0131:00",
   "jp": "欲しいアイテムを依頼します。",
   "refs": 1,
-  "en": ""
+  "en": "Request an item you want."
  },
  {
   "id": "questshoptext:0132:00",
   "jp": "特別な効果が得られる\n儀式を依頼します",
   "refs": 1,
-  "en": ""
+  "en": "Request a ritual with a special effect."
  },
  {
   "id": "questshoptext:0133:00",
   "jp": "敵を倒してもらう依頼です\n次にダンジョンへ入る時、\nその敵が弱くなります",
   "refs": 1,
-  "en": ""
+  "en": "A request to defeat an enemy. It will be\nweaker next time you enter a dungeon."
  },
  {
   "id": "questshoptext:0134:00",
   "jp": "条件を変更する",
   "refs": 1,
-  "en": ""
+  "en": "Change Terms"
  },
  {
   "id": "questshoptext:0135:00",
   "jp": "これで依頼する",
   "refs": 1,
-  "en": ""
+  "en": "Send This Request"
  },
  {
   "id": "questshoptext:0136:00",
   "jp": "依頼先の選択",
   "refs": 1,
-  "en": ""
+  "en": "Choose Recipient"
  },
  {
   "id": "questshoptext:0137:00",
   "jp": "依頼したい相手を選んでください。\nプロフィールが未登録、もしくはあなたへの通信を\n要請している人へは依頼できません",
   "refs": 1,
-  "en": ""
+  "en": "Choose who to send a request to. You can't\nsend to anyone unregistered or asking to\nconnect to you."
  },
  {
   "id": "questshoptext:0138:00",
   "jp": "依頼を呼びかけています。\n相手が応じるまで\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": ""
+  "en": "Sending your request. Please wait without\nchanging anything until they respond."
  },
  {
   "id": "questshoptext:0139:00",
   "jp": "%sと\n接続しました。\nクエストを作成して下さい",
   "refs": 1,
-  "en": ""
+  "en": "Connected with %s. Please create a quest."
  },
  {
   "id": "questshoptext:0140:00",
   "jp": "依頼を送信中です…",
   "refs": 1,
-  "en": ""
+  "en": "Sending request..."
  },
  {
   "id": "questshoptext:0141:00",
   "jp": "%sへ\nクエストを依頼しました",
   "refs": 1,
-  "en": ""
+  "en": "Sent a quest request to %s."
  },
  {
   "id": "questshoptext:0142:00",
   "jp": "相手との通信が切断されたか\nキャンセルされました\n依頼の送信処理を終了しています\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": ""
+  "en": "The connection was lost or canceled. Ending\nthe sending process. Please wait without\nchanging anything."
  },
  {
   "id": "questshoptext:0143:00",
   "jp": "クエスト作成",
   "refs": 1,
-  "en": ""
+  "en": "Create Quest"
  },
  {
   "id": "questshoptext:0144:00",
   "jp": "アイテム選択",
   "refs": 1,
-  "en": ""
+  "en": "Choose Item"
  },
  {
   "id": "questshoptext:0145:00",
   "jp": "退魔選択",
   "refs": 1,
-  "en": ""
+  "en": "Choose Foe"
  },
  {
   "id": "questshoptext:0146:00",
   "jp": "儀式選択",
   "refs": 1,
-  "en": ""
+  "en": "Choose Ritual"
  },
  {
   "id": "questshoptext:0147:00",
   "jp": "依頼の送信を中断しています\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": ""
+  "en": "Canceling the request. Please wait without\nchanging anything."
  },
  {
   "id": "questshoptext:0148:00",
   "jp": "http://dwnld.atlus.co.jp/psp/karasu/QstIdx.gz",
   "refs": 1,
-  "en": ""
+  "en": "http://dwnld.atlus.co.jp/psp/karasu/QstIdx.gz"
  },
  {
   "id": "questshoptext:0149:00",
   "jp": "http://dwnld.atlus.co.jp/psp/karasu/data/%s",
   "refs": 1,
-  "en": ""
+  "en": "http://dwnld.atlus.co.jp/psp/karasu/data/%s"
  },
  {
   "id": "questshoptext:0150:00",
   "jp": "CROWIDX.BIN",
   "refs": 1,
-  "en": ""
+  "en": "CROWIDX.BIN"
  },
  {
   "id": "questshoptext:0151:00",
   "jp": "CROWLST.BIN",
   "refs": 1,
-  "en": ""
+  "en": "CROWLST.BIN"
  },
  {
   "id": "questshoptext:0152:00",
   "jp": "リスト情報を保存しています",
   "refs": 1,
-  "en": ""
+  "en": "Saving list info..."
  },
  {
   "id": "questshoptext:0153:00",
   "jp": "クエスト情報を保存しています",
   "refs": 1,
-  "en": ""
+  "en": "Saving quest info..."
  },
  {
   "id": "questshoptext:0154:00",
   "jp": "クエスト情報の保存に失敗しました\nもう一度セーブしますか？",
   "refs": 1,
-  "en": ""
+  "en": "Failed to save quest info. Save again?"
  },
  {
   "id": "questshoptext:0155:00",
   "jp": "ファイルを検索しています",
   "refs": 1,
-  "en": ""
+  "en": "Searching for files..."
  },
  {
   "id": "questshoptext:0156:00",
   "jp": "リスト情報を読み込んでいます",
   "refs": 1,
-  "en": ""
+  "en": "Loading list info..."
  },
  {
   "id": "questshoptext:0157:00",
   "jp": "クエスト情報を読み込んでいます",
   "refs": 1,
-  "en": ""
+  "en": "Loading quest info..."
  },
  {
   "id": "questshoptext:0158:00",
   "jp": "空き容量を確認しています",
   "refs": 1,
-  "en": ""
+  "en": "Checking free space..."
  },
  {
   "id": "questshoptext:0159:00",
   "jp": "ダウンロードファイル整理",
   "refs": 1,
-  "en": ""
+  "en": "Manage Downloads"
  },
  {
   "id": "questshoptext:0160:00",
   "jp": "保存クエスト一覧",
   "refs": 1,
-  "en": ""
+  "en": "Saved Quests"
  },
  {
   "id": "questshoptext:0161:00",
   "jp": "達成済",
   "refs": 1,
-  "en": ""
+  "en": "Done"
  },
  {
   "id": "questshoptext:0163:00",
   "jp": "ダウンロード済みのクエストから、\nいらないクエストを選んで\n削除してください\n\nなお、現在受注しているクエストを\n削除しても依頼は中断されません。\nそのまま続けることができます。",
   "refs": 1,
-  "en": ""
+  "en": "Choose quests you no longer need from your\ndownloads and delete them.\n\nDeleting a quest you have accepted won't\ncancel the request. You can keep going with\nit."
  },
  {
   "id": "questshoptext:0164:00",
   "jp": "ファイルなし",
   "refs": 1,
-  "en": ""
+  "en": "No Files"
  }
 ]
