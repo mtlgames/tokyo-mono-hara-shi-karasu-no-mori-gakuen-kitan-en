@@ -20,6 +20,7 @@ SIZE = 0x25510
 FIELDS = {
     'size':    (0x0000, '<I', 'header: data size, must stay 0x25510'),
     'money':   (0x0BD4, '<I', 'yen (verified: shows in the menu)'),
+    'hp':      (0x0BDC, '<i', 'player current HP (verified: battle HUD shows it at once; max is derived)'),
     'chapter': (0x3060, '<h', 'story chapter, 0 = prologue (verified: picks MSnn_xx at the end of free movement)'),
     'name_given': (0x0442, '8s', 'SJIS, 千馗'),
     'name_family': (0x0462, '8s', 'SJIS, 七代'),

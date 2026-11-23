@@ -86,7 +86,7 @@ class's vtable and constructor.
   遊動の間 / 貝塚の間 -> 集落の間 -> 祭壇の間 -> 遺跡の間 -> boss. enemyhaichi.bin: string offsets are TblB-relative;
   chapter-1 rows name syuryounoma (flags 0 / 0x288F), kaidukanoma (0 / 0x28B7; 0x28B8 / 0x2893), saidannoma,
   jyoumon_bossnoma: likely (needed flag, cleared flag). All those flags are 0 in the hub state.
-- **Open problem (battle)**: a mash walk from the hub (circle,up,up,up,circle,right) went through two doors, then a third
+- **Solved since (battle scene, see "Battle, game over")**. Old note: a mash walk from the hub (circle,up,up,up,circle,right) went through two doors, then a third
   transition hung for good on a black screen with the red loading diamond (main loop alive, no file open, no script
   load; PPSSPP log only shows a stale sema id 294 = mutex warning that is there from the start). Not yet known which
   door that was. Next: from `dun1`, walk deliberately (find the hub door, check the floor string after each door), reach
@@ -105,6 +105,35 @@ class's vtable and constructor.
   after that fight, DG01_02 after the boss. d01scr.bin labels `:battlestart`, `:battle`, bosses `ene_b_dogu`,
   `ene_b_aramitama` in `jyoumon_bossnoma`. enemyhaichi.bin (231 rows: chapter, room id, enemy ids, x/y bytes) places
   enemies per room. CLDungeonBtlMgr: vtable 0x08AC2D20, instance 0x09DEAE74 in the dungeon (dun1_walk state).
+
+## Battle, game over (verified)
+- Scene `battle`: from `dun1_direct` (bg01_00 jyoumon_tuuro) hold up ~450 frames to door 2 (扉を開く), circle, wait
+  900 (floor string -> `syuryounoma` 狩猟の間), hold up 200: four 隠人 engage (battle HUD, ターン終了 on select). Works
+  with game-state chapter 0, so the "hang after a third door" was the hub path, not the battle.
+- Player HP = game state +0xBDC (s32; save.py field `hp`; the battle HUD shows a poke at once, max is derived).
+  `gameover` = battle + hp=1, select (ターン終了 confirm), はい: the enemy turn kills; ゲームオーバー banner ~f700-900,
+  then the game resets to the ATLUS logo and title (~f1400).
+- `tools/debug/step.py ISO STATE OUT "route" [--mash ..] [--every N]`: one leg of play from a state, prints the
+  dungeon section/floor strings, saves the new state (dungeon walking, menu probing).
+
+## Myroom, city map (verified)
+- Field object update `0x088E62F0` (a0 = field object): state s32 +0x18 (jump table 0x08AAE060, 17 states), row
+  +0x24 into the location table `*(0x08ADE8F0)` (40-byte rows: name ptr, s16 +4, ..., sub-table +0x1C, parent +0x20).
+  School table 0x08ACB3A0 (屋上 4F 3F 2F 1F 校門; 校門 is grey in chapter-1 free movement), city table 0x08ACB1E8 (0
+  鴉乃杜學園 1 焼却炉 2 鴉羽神社 3 自室 4 カレー屋 5 中央公園 6 八汎學院 7 茶室 8 新宿署 9 都庁). State 9 = arrive at a
+  location: sets game state +0x25850/+0x3064/+0x3068 from the row, creates the myroom manager (global 0x092B6FD0,
+  `AppMyRoomMgr`, init 0x0896594C) and goes to state 0x10. warp.py `room=N` writes table = city, row = N, state = 9
+  on the next field update: scene `myroom` (room=3). Myroom hotspots in chapter 1 and 13 alike: 机 (desk: record
+  shelf, ○ 再生 = `myroom_desk`) and 出口; cross leaves to the city map 新宿区周辺 with every destination listed
+  (`city_map`), so this also reaches the city free movement.
+- **Album (not reached)**: `AppMyRoomReadInit` (vtable 0x08AC5AB0, 0x08962DB4) loads `_ui_myroom.pak` ui_myroom.g2d +
+  ui_album.g2d on myroom entry; `AppMyRoomReadAlbum` (0x089616D4, object at mgr data +0x8C) loads
+  `system/album_thum%02d.pak`; table `imagealbum.bin` (164 rows). The desk view shows only the record shelf with an
+  empty left panel; story flags (+0x3080, 0x400 bytes all set) unlock nothing there. Unlock storage still unknown:
+  next, break on 0x089616D4 / reads of the ImageAlbum table, or diff a save after a CG is seen.
+- `exbg0136` (感情入力について tutorial panel): no script or data file names it (scripts use `exgNNNN`, which only go to
+  0139 and skip 0136); the EBOOT lists it only in the ADV bg name array (0x08ADC800, {0x110, 0x1E0, name} entries,
+  read by 0x089FC7B0). Likely unused; translate for completeness, verify only if textcover finds a use.
 
 ## Script blocks, shops (verified)
 - Start block: the loader reads s16 ctx+0x3850 right after the file loads (0x089F2394, s0 = ctx) as the first block.

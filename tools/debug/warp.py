@@ -8,7 +8,8 @@ SCENE is a name from tools/debug/scenes.txt, or a script id like MS03_00 / FD01_
 OUT/final.png (default OUT work/qa/warp/SCENE) and work/states/SCENE.ppst. A scene spec is
 `script=ID [block=N]` (cold boot + warp, optionally starting at block N of the script), `newgame` (cold boot +
 New Game, no warp) or `from=SCENE` (start from that scene's state, made first if missing), then
-`set=chapter=1,money=5000` (game-state fields, save.py FIELDS), `task=ID` (SetNextTask), then
+`set=chapter=1,money=5000` (game-state fields, save.py FIELDS), `task=ID` (SetNextTask), `room=N` (from free
+movement, enter city location N: 3 = 自室), then
 `mash=FRAMES:k1,k2` (one press per 30 frames, cycled; `-` = no press) and `route=` (route-str, rest of the line).
 How: boot -> New Game (tools/routes/boot.txt). When the ADV task starts its first script (MS00_00), a breakpoint at
 0x089EB4D8 rewrites the task's params (+4 chapter, +6 sub, +8 type) to the target script, so it runs from block 0
@@ -25,6 +26,21 @@ PREFIX = ['MS', 'FD', 'FN', 'ID', 'IN', 'DG', 'KWLNSCR', 'FS', 'QS', 'QUEST']
 ADV_LOAD = 0x089EB4D8      # ADV task, state "load script": s1 = params
 BLOCK_START = 0x089F2394   # loader, file read done: s0 = ctx, start block = s16 ctx+0x3850 (read in the delay slot)
 NEXT_TASK, TASK_SWITCH = 0x08ADD370, 0x09247119   # task ids: docs/re/debug.md "Tasks"
+FIELD_UPDATE, FIELD_TABLE = 0x088E62F0, 0x08ADE8F0   # field (school/city map) update: a0 = field object
+CITY_TABLE = 0x08ACB1E8    # city destinations, 40-byte rows: 0 school 1 焼却炉 2 鴉羽神社 3 自室 4 カレー屋 ... 9 都庁
+
+
+def go_room(s, f, row):
+    """From free movement: the field's next update enters the location of city-table ROW (field state 9 =
+    'arrive', docs/re/debug.md "Myroom"). 3 = 自室 (myroom)."""
+    s.bp(FIELD_UPDATE)
+    def hit(s, r):
+        if r['pc'] != FIELD_UPDATE or hit.done: return
+        s.bp_clear(FIELD_UPDATE); s.w32(FIELD_TABLE, CITY_TABLE); s.w32(r['a0'] + 0x24, row); s.w32(r['a0'] + 0x18, 9); hit.done = True
+    hit.done = False
+    f = s.play([(10, set())], hit, f)
+    print(f'f{f:06d} room -> city row {row}' + ('' if hit.done else ' FAILED (not in free movement?)'), flush=True)
+    return f, hit.done
 
 
 def load_scenes():
@@ -110,6 +126,9 @@ def run_scene(iso, name, spec, out, shot_every=0, frames=0):
         if 'task' in sp:                  # SetNextTask(id) (0x08A38294): next id + switch flag
             s.run_to(f + 2); s.w32(NEXT_TASK, int(sp['task'])); s.write(TASK_SWITCH, b'\1')
             print(f'f{s.frame():06d} next task -> {sp["task"]}', flush=True)
+        if 'room' in sp:                  # enter a city location from free movement: room=3 (自室)
+            f, ok = go_room(s, max(f, 1), int(sp['room']))
+            if not ok: code = 3
         for b in trace_pw.BPS: s.bp(b)    # log the scripts the game loads from here on
         steps = (mash_steps(sp['mash']) if 'mash' in sp else []) + psp.parse_route(sp.get('route', ''))
         if frames: steps.append((frames, set()))
