@@ -69,10 +69,22 @@ class's vtable and constructor.
 - Probes: `bplog.py` (regs at code breakpoints), `watchw.py` (memory read/write breakpoints), `findval.py` (load a
   state, find a u32 such as a vtable in RAM, or dump a range), `find_cmd.py` (which script/block holds a command),
   `tools/csvb.py` (print CSVB table rows).
-- **dg01 / dun1_walk are the tutorial dungeon, not chapter 1** (verified 2026-11-23: same room as dun_tut, item
-  模擬演習用蝋燭, box 模擬演習用に作られた巨大な木箱). The dungeon a DG script ends in is not picked by the chapter
-  field; the real way in is unknown (field △探索 + circle moved to a classroom instead). Leads: d01scr.bin's SSCR
-  scripts, `dungeon/%s.ini` (a1_00.ini = section with start floor/pos), dungeonscenetable.bin (87 rows).
+- **dg01 / dun1_walk are the tutorial dungeon, not chapter 1** (same room as dun_tut, item 模擬演習用蝋燭).
+- **Which dungeon (verified)**: the Dungeon task (static object 0x08ADDE74) init at 0x08841DFC looks up
+  `app_init.pak/table/dungeonareainfo.bin` row `*(game state +0x6878)` (lookup 0x088134F8 on table set
+  `*(0x092B6F1C)+0x60C`; row = name, section, scr, ?, id; string offsets + 0xD0) and copies the section name
+  (`bg01_00`) to task+0x20; 0x08859F6C / 0x088619E0 / 0x0886C054 then load `dungeon/<section>.ini`. Rows: 0 bg00_00
+  模擬演習場 (tutorial), 1 bg01_00 秋・第一階層, ... 18 a1_00 Ａ１エリア (dev test area); names in the table. save.py
+  field `dun_area`; scene `dun1` (DG01_00 + set=chapter=1,dun_area=1) plays the chapter-1 dungeon arrival events and
+  ends opening the corridor door; `dun1_room` = 狩猟の間. The byte at game state +0x25838 (past the save) switches
+  0x08859F6C to "resume": section from +0x6878, start position from row +0x687C of table +0x624; setting it to 1 in a
+  warp sent the story to the city map instead (not used).
+- bg01_00 layout (`bg01_00.ini` doorlinks): start 通路 jyoumon_tuuro (door 1 = exit to bg100_00 Entrance_Autumn: walking
+  out there from a warp hangs on a black screen with the red loading diamond; door 2 = 狩猟の間) -> 狩猟の間 -> 遊動の間 /
+  貝塚の間 -> 集落の間 -> 祭壇の間 -> 遺跡の間 -> boss. enemyhaichi.bin: string offsets are TblB-relative; chapter-1 rows
+  name syuryounoma, kaidukanoma, saidannoma, jyoumon_bossnoma. 狩猟の間 from `dun1_room` shows no enemies after walking
+  round it (altar with an orb, purple chained door 施錠: leads to the third level); enemies likely spawn on a story flag.
+- `tools/debug/fileopen.py`: logs sceIoOpen/sceIoOpenAsync paths (PAK members do not show; CROW.PAK is opened once).
 - Dungeon controls: grid crawler. up = step forward, left/right = turn 90°, down = turn round; △ jump, □ investigate,
   ○ palette action (取る take); R (`rtrigger`, not `r`) cycles 3 action palettes (empty in the tutorial until set from
   the dungeon menu). Dungeon menu (start): アイテム 装備 札強化 マップ 携帯電話 成績表 セーブ・ロード 地上へ. Minimap

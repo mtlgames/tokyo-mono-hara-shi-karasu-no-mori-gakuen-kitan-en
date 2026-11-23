@@ -23,6 +23,7 @@ FIELDS = {
     'chapter': (0x3060, '<h', 'story chapter, 0 = prologue (verified: picks MSnn_xx at the end of free movement)'),
     'name_given': (0x0442, '8s', 'SJIS, 千馗'),
     'name_family': (0x0462, '8s', 'SJIS, 七代'),
+    'dun_area':  (0x6878, '<i', 'dungeon area = dungeonareainfo.bin row (0 tutorial, 1 bg01_00 秋・第一階層; verified)'),
 }
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
