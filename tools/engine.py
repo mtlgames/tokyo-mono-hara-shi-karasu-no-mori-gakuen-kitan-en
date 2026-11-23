@@ -18,6 +18,7 @@ from eboot import Patcher  # noqa: E402
 LINE_PITCH = 20.0   # px between ADV text lines
 NAME_XY = (8.0, 6.0)     # speaker name canvas (original 116, 8: right-hand column)
 TEXT_XY = (8.0, 28.0)    # dialogue line 0 canvas (original 84, 8)
+CAP_TEXT = (0.0, 32.0)    # location caption text (original 368, 32); insert.py right-aligns it to CAPTION_RIGHT
 
 
 def hi(f):
@@ -46,6 +47,16 @@ def patch(p: Patcher):
               [0x3C014200 if line == 1 else 0x3C014280, 0x44816000, 0x460CAB01])
     p.asm(0x089F1BDC, "mov.s $f12, $f21", [0x4600B346])
     p.asm(0x089F1E94, "mov.s $f12, $f21", [0x4600B346])
+    # ADV text replace pass 0x089EE5FC: 38 (from, to) pairs at 0x08ADC2E8 / 0x08ADC250 turn punctuation into
+    # vertical forms (- = ~ !! !? ― 『』 、。 small kana...), which mangles English. Keep only pairs 28-29 (【 】 -> the
+    # ❖ name marks).
+    p.asm(0x089EE634, "addiu $s4, $zero, 28", [0x0000A021])
+    p.asm(0x089EE63C, "addiu $s3, $zero, 112", [0x00009821])
+    p.asm(0x089EE74C, "slti $v0, $s4, 30", [0x2A820026])
+    # location caption `{...}`: text canvas made at 0x089F12D8 (368, 32), drawn down the fixed red-diamond strip
+    # graphic at the right. English: one horizontal line ending left of the strip (insert.py pads it with spaces).
+    p.asm(0x089F12D8, f"lui $at, {hi(CAP_TEXT[0]):#x}", [0x3C0143B8])
+    p.asm(0x089F12E0, f"lui $at, {hi(CAP_TEXT[1]):#x}", [0x3C014200])
     return p.d
 
 

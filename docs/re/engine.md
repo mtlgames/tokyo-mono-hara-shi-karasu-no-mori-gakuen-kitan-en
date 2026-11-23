@@ -47,11 +47,39 @@ lookup 0x08A01C38 (binary search by code), 0x08A01CB0/0x08A01D88 GetGlyph(font, 
   (jal/j/lui of addresses). The build ships the patched **plain ELF** (PPSSPP boots it); re-signing to `~PSP` is
   still to do before release.
 
+## Phase 5 marker build findings (verified: `build.py --marker`, `--qa` width tests, shots in work/qa/warp/wg/)
+- **ADV replace pass 0x089EE5FC** (verified: table dump + shots): before display, 38 (from, to) SJIS pairs (from
+  0x08ADC2E8, to 0x08ADC250) turn text into vertical forms: 、。 small kana ー ─ ！！ ！？ 【 】 ―(runs) ＝ 『』 － ～
+  -> 0x8740-0x874F codes. English `-` drew as │, `=` as ‖, `~` as ∫, `!!`/`!?` as ligatures. `engine.patch` limits
+  the loop to pairs 28-29 (【 】 -> ❖ name marks, kept: English names show as ❖Name❖ like the original).
+  Search is char-aligned (0x089EE554), so no false matches across characters.
+- **Chars that break script text** (`insert.SCRIPT_BAD`, the build refuses them): ＠ hangs the ADV before the box
+  shows (cause not traced); sysfont18 has no `_` glyph (blank); `\` draws ¥. `{`/`}` are markup (a raw brace would
+  be an ASCII command in the .pwx; the build checks every encoded span decodes back).
+- **Glyph clipping:** the drawer draws each glyph quad as wide as its advance; nearly every ASCII glyph has 1 px of
+  outline past it (clipped, fine), sysfont18 `!` had 3 px (only its dot showed). `fontpatch.patch` widens any
+  stand-in whose ink runs 2+ px past the advance (sysfont18 `!` 3 -> 5).
+- **Speaker names: max 17 chars** (`insert.NAME_MAX`; 17 W = 306 px shows fine, 18 or 22 chars of any width crash
+  PPSSPP when the name appears; a ~40-byte buffer holding `【name】`, not found: not the ctx+0x254 name buffer
+  (161 bytes), the replace pass (161), the player-name pass 0x089EE1D8 (161) or canvas set-text 0x089F8900 (510)).
+- **Location captions `{...}`:** canvas made at 0x089F12D8 (368, 32); the red-diamond strip is a fixed graphic.
+  English: canvas x = 0 (`engine.CAP_TEXT`), `insert` right-aligns the text to x 336 (left of the strip) with spaces;
+  max 336 px (build refuses longer).
+- Line buffers: ADVctx +0x5C/+0x104/+0x1AC, 0xA8 bytes each (83 stand-in chars); name buffer ctx+0x254.
+- 0x08A13C50 is a scene-graph draw loop that calls canvas draw methods (the caption's drawer call came from there).
+
+## Width gate (sysfont18 stand-ins, `tools/widthgate.py` -> `build.py --qa`; widths from `insert.font_widths`)
+| variant | budget | how measured |
+|---|---|---|
+| ADV dialogue line | **464 px**, 3 lines per box | ruler lines at 454/466/476 px: `|` at 472 still draws, 476 clips at the screen edge (x 8 + 472 = 480); 464 keeps an 8 px right margin. work/qa/warp/wg/wg/f003160.png |
+| speaker name | **17 chars** (crash at 18), 306 px seen | 17 W shows with ❖ marks |
+| location caption | **336 px**, one line | 333 px ruler right-aligned beside the strip |
+| choice (.ksf) | 29 bytes ASCII | not yet seen on screen |
+| menus, tables, EBOOT strings | not measured | next: long-marker stress build + tour |
+
 ## Open (next steps)
-- Readability: the left-hand gradient panel (sprites in `adv/talk/adv_talk.g2d`, `adv_emotion2.gim` gradient strips)
-  no longer sits behind the text; the right half of each line is over the bare background. Redesign the panel as a
-  top band (g2d layout) or add a text shadow.
-- The page-wait icon and 0x089F0A1C (x = 116 - 32*n) still use vertical geometry.
-- Other vertical drawer callers (0x0883CBCC, 0x088A69C8) and location captions `{...}` (drawn vertically in red
-  diamonds, MS00_00 opening): check in the marker build.
+- Readability (polish): the left gradient panel (`adv/talk/adv_talk.g2d`, `adv_emotion2.gim`) covers only x 0-150;
+  text has a dark outline and reads on bright backgrounds, so this is polish, not a blocker.
+- The page-wait icon now sits bottom-left (x = 116 - 32*n geometry of 0x089F0A1C): polish.
+- Other vertical drawer callers 0x0883CBCC / 0x088A69C8: not seen in the 53-scene tour yet.
 - Space width (sysfont18 9 px) looks wide; tune in the font patch if the width gate needs it.

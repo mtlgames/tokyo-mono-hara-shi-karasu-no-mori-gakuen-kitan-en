@@ -86,7 +86,10 @@ def parse_spec(spec):
     return out
 
 
-def state_path(name): return os.path.join(ROOT, 'work', 'states', f'{name}.ppst')
+TAG = ''   # --tag: keep another build's states and shots apart (work/states/TAG/, work/qa/warp/TAG/)
+
+
+def state_path(name): return os.path.join(ROOT, 'work', 'states', TAG, f'{name}.ppst')
 
 
 def mash_steps(spec):
@@ -150,14 +153,18 @@ def main():
     ap.add_argument('--all', action='store_true', help='regenerate every scene state in scenes.txt order')
     ap.add_argument('--frames', type=int, default=0, help='extra idle frames at the end')
     ap.add_argument('--shot-every', type=int, default=0)
+    ap.add_argument('--tag', default='', help='e.g. marker: states in work/states/TAG/, shots in work/qa/warp/TAG/')
     a = ap.parse_args()
+    global TAG
+    TAG = a.tag
+    os.makedirs(os.path.dirname(state_path('x')), exist_ok=True)
     scenes = load_scenes()
     if a.list:
         for k, v in scenes.items(): print(k, v)
         return
     names = list(scenes) if a.all else [a.scene]
     bad = [n for n in names
-           if run_scene(a.iso, n, scenes.get(n, n), a.out or os.path.join(ROOT, 'work', 'qa', 'warp', n),
+           if run_scene(a.iso, n, scenes.get(n, n), a.out or os.path.join(ROOT, 'work', 'qa', 'warp', TAG, n),
                         a.shot_every, a.frames)]
     if bad: print('FAILED:', ' '.join(bad))
     sys.exit(1 if bad else 0)

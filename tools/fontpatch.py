@@ -42,8 +42,12 @@ def patch(data):
     for c in range(0x20, 0x7F):
         k, k2 = f.codes.get(c), f.codes.get(code(fw(chr(c))))
         if k is not None and k2 is not None:
-            f.set_glyph(k2, f.glyph(k))
-            f.set_metrics(k2, *f.metrics(k))
+            g = f.glyph(k)
+            w, h = f.metrics(k)
+            # the drawer clips each glyph to its advance; most glyphs lose 1 px (outline), sysfont18 '!' lost 3
+            ink = max((x + 1 for r in g for x, v in enumerate(r) if v), default=0)
+            f.set_glyph(k2, g)
+            f.set_metrics(k2, max(w, ink - 1), h)
     return bytes(f.data)
 
 

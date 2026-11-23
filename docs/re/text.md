@@ -70,6 +70,10 @@ name-entry character sets (kana, Greek, Cyrillic, symbols), printf formats, 7 UT
 53 strings have refs 0 (struct arrays: the nickname table at 0x2D3A10 has 0x24-byte rows, options table 0x2D2388
 0x18-byte rows). Also two dev messages (`scePsmfPlayerCreate : 作成失敗`, `Font Area Over!!`): not shown.
 Patch in place inside each slot or relocate (phase 5); re-sign the ELF before shipping (`platform-psp.md`).
+Non-text (verified: marker build, name entry grid showed markers; `insert.NON_TEXT`, never replaced): the 240
+name-entry cells 0x2B1154-0x2B1514 (one char per 4-byte slot; the 英数 page already holds full-width A-Z a-z, which
+the font patch draws as English) and the full-width ASCII table at 0x2B7F04. In-place room: `insert.eboot_room` (the
+original bytes + NUL, up to the next 4-byte boundary).
 
 ## Other data with SJIS (checked phase 4: no player-visible text)
 - `system/key_icon.pak/system/sfk/namedic.bin` (2.8 MB): name-entry kana-kanji dictionary (guess); phase 5 decides
