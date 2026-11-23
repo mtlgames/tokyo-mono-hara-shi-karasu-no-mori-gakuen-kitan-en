@@ -1,0 +1,5 @@
+#path	png	note
+adv/ui_scene.pak/adv/ui_scene02.gim	gfx/out/adv_ui/adv_ui_scene.pak_adv_ui_scene02.png	name plates / place labels (Mao, Ken, Suzu are the names); ??? kept
+adv/ui_scene.pak/adv/ui_tansaku01.gim	gfx/out/adv_ui/adv_ui_scene.pak_adv_ui_tansaku01.png	Exploring banner (same GIM under adv/freemove/ui_lsmap.pak)
+adv/talk/adv_emotion.pak/adv/talk/adv_emotion.gim	gfx/out/adv_ui/adv_talk_adv_emotion.pak_adv_talk_adv_emotion.png	eight emotion words
+adv/talk/adv_talk.pak/adv/talk/adv_talk01.gim	gfx/out/adv_ui/adv_talk_adv_talk.pak_adv_talk_adv_talk01.png	Next / Speed / Auto

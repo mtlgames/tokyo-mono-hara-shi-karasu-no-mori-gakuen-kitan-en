@@ -1,0 +1,7 @@
+#path	png	note
+system/_k_phon.pak/system/k_phon_icon.gim	gfx/out/phone/system__k_phon.pak_system_k_phon_icon.png	call labels + button words
+system/_k_phon.pak/system/k_phon_menu01.gim	gfx/out/phone/system__k_phon.pak_system_k_phon_menu01.png	main menu labels (English subtitles beneath kept)
+system/_k_phon.pak/system/k_phon_name.gim	gfx/out/phone/system__k_phon.pak_system_k_phon_name.png	16 profile name plates (Western order)
+system/_k_phon.pak/system/k_phon_sait01.gim	gfx/out/phone/system__k_phon.pak_system_k_phon_sait01.png	OXAS site headings, ailments, tabs, kana index -> A K S T N H M Y R W
+system/_k_phon.pak/system/k_phon_sait02.gim	gfx/out/phone/system__k_phon.pak_system_k_phon_sait02.png	tags
+system/_k_phon.pak/system/k_phon_set.gim	gfx/out/phone/system__k_phon.pak_system_k_phon_set.png	settings labels

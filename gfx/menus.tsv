@@ -1,0 +1,20 @@
+#path	png	note
+system/_report_card.pak/system/report_card01.gim	gfx/out/menus/system__report_card.pak_system_report_card01.png	
+system/status01.gim	gfx/out/menus/system_status01.png	
+system/status02.gim	gfx/out/menus/system_status02.png	
+system/_ui_map.pak/adv/freemove/ui_lsmap01.gim	gfx/out/menus/system__ui_map.pak_adv_freemove_ui_lsmap01.png	
+system/_ui_map.pak/system/ui_map04.gim	gfx/out/menus/system__ui_map.pak_system_ui_map04.png	
+system/_ui_myroom.pak/system/ui_album05.gim	gfx/out/menus/system__ui_myroom.pak_system_ui_album05.png	
+system/cardarc.gim	gfx/out/menus/system_cardarc.png	
+system/map_view/map0100.pak/system/map_view/map0999.gim	gfx/out/menus/system_map_view_map0100.pak_system_map_view_map0999.png	
+system/saveload.pak/system/ui_saveload01.gim	gfx/out/menus/system_saveload.pak_system_ui_saveload01.png	
+system/ui_equip.pak/system/ui_equip05.gim	gfx/out/menus/system_ui_equip.pak_system_ui_equip05.png	
+system/ui_exitem.pak/system/ui_exitem01.gim	gfx/out/menus/system_ui_exitem.pak_system_ui_exitem01.png	
+system/ui_flowercard.pak/system/ui_flowercard01.gim	gfx/out/menus/system_ui_flowercard.pak_system_ui_flowercard01.png	
+system/ui_hensei.pak/system/ui_hensei03.gim	gfx/out/menus/system_ui_hensei.pak_system_ui_hensei03.png	
+system/ui_item.pak/system/ui_item05.gim	gfx/out/menus/system_ui_item.pak_system_ui_item05.png	
+system/ui_itemchange.pak/system/ui_itemchange05.gim	gfx/out/menus/system_ui_itemchange.pak_system_ui_itemchange05.png	
+system/ui_itemget.pak/system/ui_itemget05.gim	gfx/out/menus/system_ui_itemget.pak_system_ui_itemget05.png	
+system/ui_itemgive.pak/system/ui_itemgive01.gim	gfx/out/menus/system_ui_itemgive.pak_system_ui_itemgive01.png	
+system/ui_loading.pak/system/ui_loading.gim	gfx/out/menus/system_ui_loading.pak_system_ui_loading.png	
+system/ui_shop.pak/system/ui_shop05.gim	gfx/out/menus/system_ui_shop.pak_system_ui_shop05.png	

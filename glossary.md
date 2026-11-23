@@ -228,6 +228,31 @@ separates alternatives) and the Avoid column.
 | 加哩魔神 | Asura Curry | | | |
 | 仲間スキル | Partner Skill | | systemtext "Partner Skill(s)"; 仲間 = partner in menus | Ally Skill |
 
+## Graphics labels (phase 8 redraws; generators tools/gfx_*.py)
+| JP | EN | max | notes | Avoid |
+|---|---|---|---|---|
+| 初めから / 続きから | New Game / Continue | | (not enforced) title + save/load | |
+| 鴉乃杜學園奇譚 | Strange Tales of Karasu no Mori Academy | | (not enforced) title subtitle | |
+| 喜 友 嫌 困 愛 燃 怒 悲 | Joy, Friend, Dislike, Worry, Love, Passion, Anger, Sorrow | | (not enforced) emotion input (adv_emotion); quest_site 658 wheel uses 3x5 caps LOVE JOY HATE RAGE SAD UPSET PAL FIRE (polish: align) | |
+| 次へ 速度 自動 | Next, Speed, Auto | | (not enforced) ADV buttons | |
+| 探索中 | Exploring | | (not enforced)  | |
+| 呼出中 / 通話中 / 通話 / 拒否 | Calling... / In Call... / Answer / Decline | | (not enforced) phone | |
+| 依頼人 / プレイヤー | Client / Player | | (not enforced) phone | |
+| プロフィール帳 / クエストの確認 / 携帯設定 / プロフィール入力 | Profile Book / Check Quests / Phone Settings / Enter Profile | | (not enforced) phone menu | |
+| 用語辞典 / 解説 | Glossary / Guide | | (not enforced) OXAS site | |
+| 解罠 | Disarm | | (not enforced)  | |
+| 依頼達成！ | QUEST COMPLETE! | | (not enforced)  | |
+| 迎撃 / ターン終了 / 手番 | Counter / End Turn / Turn | | (not enforced) battle UI | |
+| 花札配置 | Place Cards | | (not enforced)  | |
+| 切替 / 秘法眼 | Switch / Arcane Eye | | (not enforced)  | |
+| 風呪 炎呪 土呪 氷呪 | Wind / Fire / Earth / Ice Curse | | (not enforced)  | |
+| 成績表 / 学科値 / 能力値 | Report Card / Subject / Attribute | | (not enforced)  | |
+| 模擬演習場 | Drill Ground | | (not enforced) dungeonareainfo name | |
+| 地上へ / 第N階層へ | To Surface / To NF | | (not enforced) map_view | |
+| 雑貨 / 購買 / 玩具屋 | Sundries / School Store / Toy Store | | (not enforced) shop signs | |
+| 入手 / 入替 / 貴重品 / 探索準備 / 札強化 | Obtain / Swap / Key Items / Explore Prep / Enhance | | (not enforced) menus | |
+| バディ | Buddy | | (not enforced)  | |
+
 ## Decisions from earlier batches
 - wave 0: full names from the EBOOT profiles: Ichiru Muto, Shu Takarakata, Gio Onimaru, Migiri Kashima, Kaname
   Kotokuji, Ayahito Konosu, Rin Himukai, Benio Sawakami, Asako / Seishiro Hatori, Daisuke Isachi, Nobuyuki Chikushi,

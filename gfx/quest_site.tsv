@@ -1,0 +1,17 @@
+#path	png	note
+system/quest/player_avatar.pak/system/quest/player_body03.gim	gfx/out/quest_site/system_quest_player_avatar.pak_system_quest_player_body03.png	shirt print 廃人 -> WASTED
+system/quest/ui_download.pak/system/quest/ui_download07.gim	gfx/out/quest_site/system_quest_ui_download.pak_system_quest_ui_download07.png	ダウンロード中…
+system/quest/ui_download.pak/system/quest/ui_quest02.gim	gfx/out/quest_site/system_quest_ui_download.pak_system_quest_ui_quest02.png	依頼達成！ -> QUEST / COMPLETE / !
+system/quest/ui_quest.pak/system/quest/ui_quest01.gim	gfx/out/quest_site/system_quest_ui_quest.pak_system_quest_ui_quest01.png	情報屋 -> INFO BROKER (title + halo ghost); QUEST SHOP kept
+system/site/k_phon_qa_01.pak/system/site/k_phon_qa_01.gim	gfx/out/quest_site/system_site_k_phon_qa_01.pak_system_site_k_phon_qa_01.png	切替 / なし / 調べる
+system/site/k_phon_qa_06.pak/system/site/k_phon_qa_06.gim	gfx/out/quest_site/system_site_k_phon_qa_06.pak_system_site_k_phon_qa_06.png	秘法眼
+system/site/k_phon_qa_13.pak/system/site/k_phon_qa_13.gim	gfx/out/quest_site/system_site_k_phon_qa_13.pak_system_site_k_phon_qa_13.png	攻 -> ATK (shortened: one-kanji cell)
+system/site/k_phon_qa_18.pak/system/site/k_phon_qa_18.gim	gfx/out/quest_site/system_site_k_phon_qa_18.pak_system_site_k_phon_qa_18.png	春夏秋冬 -> Spring/Summer/Autumn/Winter, 強弱 -> Strong/Weak
+system/site/k_phon_qa_20.pak/system/site/k_phon_qa_20.gim	gfx/out/quest_site/system_site_k_phon_qa_20.pak_system_site_k_phon_qa_20.png	curse legend: 風呪 炎呪 土呪 氷呪 + 属性化 lines
+system/site/k_phon_qa_23.pak/system/site/k_phon_qa_23.gim	gfx/out/quest_site/system_site_k_phon_qa_23.pak_system_site_k_phon_qa_23.png	weapon range plates ナイフ 大剣 長剣 グローブ 槍 銃
+system/site/k_phon_qa_25.pak/system/site/k_phon_qa_25.gim	gfx/out/quest_site/system_site_k_phon_qa_25.pak_system_site_k_phon_qa_25.png	封呪 骨折 捻挫 panel
+system/site/k_phon_qa_26.pak/system/site/k_phon_qa_26.gim	gfx/out/quest_site/system_site_k_phon_qa_26.pak_system_site_k_phon_qa_26.png	麻痺 睡眠 目潰し panel
+system/site/k_phon_qa_27.pak/system/site/k_phon_qa_27.gim	gfx/out/quest_site/system_site_k_phon_qa_27.pak_system_site_k_phon_qa_27.png	悪寒 吐き気 頭痛 panel
+system/site/k_phon_qa_35.pak/system/site/k_phon_qa_35.gim	gfx/out/quest_site/system_site_k_phon_qa_35.pak_system_site_k_phon_qa_35.png	電話で呼ぶ / プロフィール
+system/site/k_phon_qa_39.gim	gfx/out/quest_site/system_site_k_phon_qa_39.png	アンケートを覚えている / いない (vertical, rotated)
+system/site/k_phon_qa_40.gim	gfx/out/quest_site/system_site_k_phon_qa_40.png	emotion wheel -> LOVE JOY HATE RAGE SAD UPSET PAL(友 friend, shortened) FIRE(燃, shortened)
