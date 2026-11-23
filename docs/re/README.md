@@ -12,4 +12,8 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 
 | File | Covers | State |
 |---|---|---|
-| <text.md> | <encoding, control codes, pointer tables> | <verified / partly guessed> |
+| pak.md | ISO layout, CROW.PAK archive, nested paks, .zdv compression, EBOOT dump | verified (extract) |
+| text.md | SJIS encoding, .pwx script format and control codes, CSVB tables, EBOOT strings, free space | format verified, codes partly guessed |
+| graphics.md | graphics-text survey: GIM/g2d images, movies, XMB images | survey |
+
+Prior work: none found (web search 2026-11-23: no English or other fan patch for 東京鬼祓師 鴉乃杜學園奇譚).
