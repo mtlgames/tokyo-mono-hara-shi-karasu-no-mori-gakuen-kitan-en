@@ -27,3 +27,22 @@ menu_equip from=field_ch01 route=6 start;90 -;6 down;40 -;6 circle;150 -
 menu_cards from=field_ch01 route=6 start;90 -;6 down;40 -;6 down;40 -;6 circle;150 -
 phone      from=field_ch01 route=6 start;90 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 circle;300 -
 saveload   from=field_ch01 route=6 start;90 -;6 up;40 -;6 circle;150 -
+
+# --- endings: the scripts play the ending movie with the staff credits (MS11_04 bad end, MS13_03 true end)
+badend     script=MS11_04 mash=9000:circle
+trueend    script=MS13_03 mash=20000:circle
+# --- after-clear screens, switched with SetNextTask (task=ID; ids in docs/re/debug.md "Tasks")
+clear_menu from=field_ch01 task=13 mash=900:-
+clear_save from=field_ch01 task=12 mash=900:-
+
+# --- dungeons: DG scripts end in the dungeon of the game-state chapter (set=, offsets as in save.py)
+dun_tut    script=DG00_00 mash=900:circle
+dun_tut_qa from=dun_tut route=6 start;120 -;6 circle;120 -;6 circle;120 -
+dg01       script=DG01_00 set=chapter=1 mash=6000:circle,right,circle,cross route=120 -
+dun1_walk  from=dg01 mash=6000:up+circle,up,up,up+circle,up,right
+
+# --- story flow: ending free movement (select, はい) runs the next script of the game-state chapter
+field_end  from=field_ch01 route=6 select;60 -;6 left;30 -;6 circle;60 -
+prologue2  from=field_end mash=6000:circle,right,circle,cross
+fend_c1    from=field_ch01 set=chapter=1 route=6 select;60 -;6 left;30 -;6 circle;60 -
+after_c1   from=fend_c1 mash=6000:circle,right,circle,cross

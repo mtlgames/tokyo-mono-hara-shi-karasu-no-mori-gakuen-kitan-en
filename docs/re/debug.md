@@ -22,6 +22,9 @@ disassemble it with `disasm.py dis|xref work/exe/main_ram.bin ADDR --arch mips -
 - The ADV can show system screens itself: MS01_00 shows the report card (成績表); circle does not close it, cross
   does. The emotion-input wheel needs a direction then circle.
 
+- Story flow: ending free movement (select, はい) runs `0x088ED5xx` = play MS<chapter>_<next> (chapter from the
+  game state, see Saves); a warp leaves chapter 0, so field_end -> MS00_01 (prologue), `set=chapter=1` -> MS01_01.
+
 ## Tables (CSVB, row size in Info): scene flow (guess, not yet used)
 `app_init.pak/table/mainscenetable.bin`: 26 rows x 12 bytes, keyed (chapter u8, part u8) = (0,0),(0,1),(1,0)...
 (13,1) with increasing u16 ids (0x2F, 0x3C, 0x3E, ...); `scenetable.bin` 27 rows, `dungeonscenetable.bin` 87 rows.
@@ -36,8 +39,31 @@ methods 0x08841F4C-0x08842214 cycle an index mod 257). No debug strings found fo
 Main menu (start): アイテム, 装備, 札強化, マップ (grey), 携帯電話, ??? (grey), セーブ・ロード; cursor skips grey
 entries and wraps (up from アイテム = セーブ・ロード). Wait ~90 frames after start before the first press.
 
-## Saves
+## Saves (verified)
 Saving from the field menu writes `PSP/SAVEDATA/ULJM05638_KARASUNOMORI_0000/{DATA.BIN,PARAM.SFO,ICON0,PIC1}`.
-DATA.BIN (152,865 bytes) is encrypted (entropy 8.0, PARAM.SFO has SAVEDATA_PARAMS): the PSP savedata crypto.
-Plan for `save.py`: don't implement the crypto; load a game-written save in game, poke the fields in RAM (find them
-by diffing RAM before/after a known change), and re-save through the game's own Save menu, which encrypts.
+By default PPSSPP encrypts DATA.BIN (152,865 B). `tools/debug/noenc.ini` (`[SystemParam] EncryptSave = False`, passed
+by `pspdbg.Session` as `--appendconfig`) makes it write plain saves (152,849 B) and load them; the SFO then has no
+hash. Plain DATA.BIN = the game-state block: the load copies it whole to `*(0x09256ED8)` (0x08835830: checks only the
+header u32 size 0x25510), so **save offset = game-state offset**, and there is **no checksum** (verified: money edited
+to 98,765 and 500,000 shows in the menu). The folder name must be exactly `ULJM05638_KARASUNOMORI_0000` (psp.py
+`--sav DIR` names it after DIR: pass the parent). Fields: money u32 @0xBD4, chapter s16 @0x3060 (0 = prologue; read by
+0x088ED5DC to pick the next MSnn script; `chapter=3` loads a chapter-3 field with マップ/成績表 enabled), names SJIS
+@0x442 (千馗) / 0x462 (七代), readings @0x482 / 0x4A2. `save.py make|edit|show|load`; warp.py `set=field=v`.
+
+## Tasks (verified)
+Static task objects, table at 0x0924711C (ptr per id); `SetNextTask(id)` = 0x08A38294 (writes id to 0x08ADD370 and 1
+to byte 0x09247119); warp.py `task=ID` does the same. Ids: 0 Title, 3 GameMain, 7 Dungeon, 12 EndSave (クリアデータを
+セーブしますか？), 13 Continue (after-clear はじめから / つづきから screen), 14 CheckMS, 15 Badend, 16 Trueend, 17
+DbgMenu (blank screen, no menu drawn), 256 Startup. Badend/Trueend load MS<chapter>_04 / _03 (chapter 0 from a warp:
+MS00_04 does not exist, black). Bad-end movie: BadEndLost/BadEndSeal by flags 0x263/0x264 (0x08960AC0), TrueEnd.pmf;
+per-chapter movie tables at 0x08AD6A98 (opening) / 0x08AD6B08 (episode end). `tools/debug/rtti.py CLASS` finds a
+class's vtable and constructor.
+
+## Dungeons, endings
+- A DG script, when it ends, enters the dungeon of the game-state chapter: chapter 0 = the tutorial 模擬演習場
+  (DG00_00 lands in it; MSxx warps that fall through to the dungeon land there too), `set=chapter=1` after
+  DG01_00 = the chapter-1 dungeon (scene `dg01`, `dun1_walk`). Battles are turn-based on the dungeon map, started
+  by events/positions (help.bin); the tutorial battle has game over disabled (d100scr.bin). Not reached yet.
+- Endings: MS11_04 (bad end) and MS13_03 (true end) play the ending movie with the staff roll (scenes `badend`,
+  `trueend`).
+- Probes: `bplog.py` (regs at code breakpoints), `watchw.py` (memory read/write breakpoints).

@@ -11,14 +11,17 @@ from skill import SCRIPTS
 sys.path.insert(0, SCRIPTS)
 import psp  # noqa: E402
 
+NOENC = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'noenc.ini')
 MOD_BASE = 0x08804000   # EBOOT load address in PPSSPP (checked with `modules`); RAM = MOD_BASE + ELF vaddr
 
 
 class Session(psp.Run):
-    def __init__(self, iso, out, state=None, memstick=None, sav=None):
+    def __init__(self, iso, out, state=None, memstick=None, sav=None, plain_saves=True):
         ms = os.path.abspath(memstick or os.path.join(out, 'memstick'))
         if sav: psp.seed_saves(ms, sav)
-        super().__init__(psp.find_emu(None), iso, out, state, memstick=ms)
+        # plain_saves: the game's saves are written unencrypted (noenc.ini), so save.py can edit them
+        extra = [f'--appendconfig={NOENC}'] if plain_saves else []
+        super().__init__(psp.find_emu(None), iso, out, state, memstick=ms, extra=extra)
 
     def read(self, addr, size):
         out = b''

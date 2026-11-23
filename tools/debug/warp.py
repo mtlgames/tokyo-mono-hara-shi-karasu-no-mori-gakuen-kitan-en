@@ -7,6 +7,7 @@
 SCENE is a name from tools/debug/scenes.txt, or a script id like MS03_00 / FD01_20 / QUEST. Every run ends with
 OUT/final.png (default OUT work/qa/warp/SCENE) and work/states/SCENE.ppst. A scene spec is
 `script=ID` (cold boot + warp) or `from=SCENE` (start from that scene's state, made first if missing), then
+`set=chapter=1,money=5000` (game-state fields, save.py FIELDS), `task=ID` (SetNextTask), then
 `mash=FRAMES:k1,k2` (one press per 30 frames, cycled; `-` = no press) and `route=` (route-str, rest of the line).
 How: boot -> New Game (tools/routes/boot.txt). When the ADV task starts its first script (MS00_00), a breakpoint at
 0x089EB4D8 rewrites the task's params (+4 chapter, +6 sub, +8 type) to the target script, so it runs from block 0
@@ -14,13 +15,14 @@ as if the story had called it (chapter cards and opening movies are commands ins
 """
 import argparse, os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import pspdbg, trace_pw
+import pspdbg, save, trace_pw
 from pspdbg import psp
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
 PREFIX = ['MS', 'FD', 'FN', 'ID', 'IN', 'DG', 'KWLNSCR', 'FS', 'QS', 'QUEST']
 ADV_LOAD = 0x089EB4D8      # ADV task, state "load script": s1 = params
+NEXT_TASK, TASK_SWITCH = 0x08ADD370, 0x09247119   # task ids: docs/re/debug.md "Tasks"
 
 
 def load_scenes():
@@ -93,6 +95,12 @@ def run_scene(iso, name, spec, out, shot_every=0, frames=0):
                 f = s.play([(30, set())], w.on_bp, f)
             if not w.done: print('warp never fired'); code = 3
             s.bp_clear(ADV_LOAD)
+        if 'set' in sp:                   # game-state fields, as in save.py: set=chapter=1,money=5000
+            s.run_to(f + 1); save.poke_state(s, sp['set'].split(','))
+            print(f'f{s.frame():06d} set {sp["set"]}', flush=True)
+        if 'task' in sp:                  # SetNextTask(id) (0x08A38294): next id + switch flag
+            s.run_to(f + 2); s.w32(NEXT_TASK, int(sp['task'])); s.write(TASK_SWITCH, b'\1')
+            print(f'f{s.frame():06d} next task -> {sp["task"]}', flush=True)
         for b in trace_pw.BPS: s.bp(b)    # log the scripts the game loads from here on
         steps = (mash_steps(sp['mash']) if 'mash' in sp else []) + psp.parse_route(sp.get('route', ''))
         if frames: steps.append((frames, set()))
