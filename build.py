@@ -27,12 +27,16 @@ EBOOT = "/PSP_GAME/SYSDIR/EBOOT.BIN"
 
 
 def edits(text):
-    """{unpacked CROW.PAK path: new payload}: the fonts (tools/fontpatch.py) and the text (tools/insert.py)."""
+    """{unpacked CROW.PAK path: new payload}: the fonts (tools/fontpatch.py), the text (tools/insert.py) and the
+    English graphics (tools/gfx.py, gfx/*.tsv)."""
     import fontpatch
+    import gfx
     import insert
     from source import members
     out = {p: fontpatch.patch(d) for p, d in members(*fontpatch.FONTS)}
     out.update(insert.file_edits(text))
+    if text.mode == "en":
+        out.update(gfx.edits())
     return out
 
 
