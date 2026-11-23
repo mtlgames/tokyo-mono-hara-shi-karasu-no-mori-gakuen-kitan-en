@@ -855,7 +855,7 @@
   "id": "ms04_01:048:07",
   "speaker": "燈治",
   "jp": "何が{ruby:白　札|ブランクカード}だよ。\nタロットにまで\nそんなもんが―――",
-  "en": "Blank card, my ass. Since when do tarot decks even\nhave somethin' like--"
+  "en": "White Card--\"blank card,\" my ass. Since when do\ntarot decks even have somethin' like--"
  },
  {
   "id": "ms04_01:048:08",
@@ -3078,7 +3078,7 @@
   "id": "ms04_01:173:00",
   "speaker": "アンジー",
   "jp": "{ruby:Ｖａｙａ|あ　ら　ら}！！\nセニョールならわかって\nくれると思ったのに……。",
-  "en": "Oh my!! And I was sure you of all people would\nunderstand, Senor..."
+  "en": "Vaya!! And I was sure you of all people would\nunderstand, Senor..."
  },
  {
   "id": "ms04_01:173:01",
@@ -3090,7 +3090,7 @@
   "id": "ms04_01:174:00",
   "speaker": "アンジー",
   "jp": "{ruby:Ｖａｙａ|あ　ら　ら}……。\nそれはちょっと残念。",
-  "en": "Oh my... That's a little disappointing."
+  "en": "Vaya... That's a little disappointing."
  },
  {
   "id": "ms04_01:174:01",
@@ -3114,7 +3114,7 @@
   "id": "ms04_01:176:00",
   "speaker": "アンジー",
   "jp": "{ruby:Ｖａｙａ|あ　ら　ら}！！\nそれじゃビックリした？\nそれとも……",
-  "en": "Oh my!! So, were you surprised? Or maybe..."
+  "en": "Vaya!! So, were you surprised? Or maybe..."
  },
  {
   "id": "ms04_01:176:01",
@@ -3611,7 +3611,7 @@
   "id": "ms04_01:212:06",
   "speaker": "アンジー",
   "jp": "{ruby:Ｖａｙａ|あ　ら　ら}！！\nミンナして、二人の{ruby:逢瀬|おうせ}を\n邪魔するなんて、無粋だヨ？",
-  "en": "Oh my!! Everyone ganging up to interrupt our little\nrendezvous? How rude."
+  "en": "Vaya!! Everyone ganging up to interrupt our little\nrendezvous? How rude."
  },
  {
   "id": "ms04_01:212:07",
@@ -4421,7 +4421,7 @@
   "id": "ms04_01:246:09",
   "speaker": "伊佐地",
   "jp": "お前の見つけた《カミフダ》が\n{ruby:呪言|じゅごん}花札と呼ばれているのは\nもう知っているだろう。",
-  "en": "You must already know that the Cards you found\nare called the Curse Hanafuda."
+  "en": "You must already know that the ORDS you found\nare called the Curse Hanafuda."
  },
  {
   "id": "ms04_01:246:10",
@@ -4553,7 +4553,7 @@
   "id": "ms04_01:246:31",
   "speaker": "伊佐地",
   "jp": "《呪言花札》は、収集特課が\n創立以来、追い続けてきた\n最古のカミフダでもある。",
-  "en": "The Curse Hanafuda are also the oldest Cards the\nCollection Division has pursued since its founding."
+  "en": "The Curse Hanafuda are also the oldest ORDS the\nCollection Division has pursued since its founding."
  },
  {
   "id": "ms04_01:246:32",
@@ -4565,7 +4565,7 @@
   "id": "ms04_01:246:33",
   "speaker": "伊佐地",
   "jp": "だがな、《カミフダ》が人類に\n危険を及ぼす側面を持つ限り、",
-  "en": "But as long as the Cards have a side that endangers\nhumanity,"
+  "en": "But as long as ORDS have a side that endangers\nhumanity,"
  },
  {
   "id": "ms04_01:246:34",

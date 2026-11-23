@@ -3,160 +3,160 @@
   "id": "fn06_15:001:00",
   "speaker": "輪",
   "jp": "へへ～、さっきお風呂で\n閃いたんだ。新しい忍法！",
-  "en": ""
+  "en": "Hehe~ I came up with it in the bath just now. A\nnew ninja art!"
  },
  {
   "id": "fn06_15:001:01",
   "speaker": "輪",
   "jp": "でも、ボクの構想には一つ\n必要なものがあるんだよな。",
-  "en": ""
+  "en": "But my plan needs just one thing."
  },
  {
   "id": "fn06_15:001:02",
   "speaker": "輪",
   "jp": "なあ、{px}。\n音が出るもの、持ってないか？",
-  "en": ""
+  "en": "Hey, {px}. Got anything that makes a sound?"
  },
  {
   "id": "fn06_15:001:03",
   "speaker": "輪",
   "jp": "一番いいのは\n笛っぽい奴なんだけど……。",
-  "en": ""
+  "en": "Best would be somethin' like a whistle..."
  },
  {
   "id": "fn06_15:002:00",
   "speaker": "輪",
   "jp": "うーん……。\nあとちょっとなんだけどな。",
-  "en": ""
+  "en": "Hmm... It's so close, too."
  },
  {
   "id": "fn06_15:002:01",
   "speaker": "輪",
   "jp": "{px}、\n持って来てくれたか？\n音の出るもの！",
-  "en": ""
+  "en": "{px}, did you bring it? Somethin' that makes a\nsound!"
  },
  {
   "id": "fn06_15:004:00",
   "speaker": "輪",
   "jp": "そうそう、これこれ！\nこれで出来るはずだッ。",
-  "en": ""
+  "en": "Yeah, yeah, this is it! With this, I can pull it off."
  },
  {
   "id": "fn06_15:004:01",
   "speaker": "輪",
   "jp": "そう、忍術史上に残るであろう\n必殺の忍法{ruby:大散華|ビックバン}！！",
-  "en": ""
+  "en": "Yep, the ultimate ninja art sure to go down in ninja\nhistory: the Big Bang!!"
  },
  {
   "id": "fn06_15:004:02",
   "speaker": "輪",
   "jp": "ありがとな！\nこれはお礼だ！！",
-  "en": ""
+  "en": "Thanks! Here's a thank-you!!"
  },
  {
   "id": "fn06_15:004:03",
   "speaker": "輪",
   "jp": "御守り代わりにじいちゃんが\n作ってくれたんだ。",
-  "en": ""
+  "en": "My grandpa made these for me as good-luck\ncharms."
  },
  {
   "id": "fn06_15:004:04",
   "speaker": "輪",
   "jp": "たくさんあるから、\n遠慮しなくていいぞ！",
-  "en": ""
+  "en": "I've got lots, so don't be shy!"
  },
  {
   "id": "fn06_15:004:05",
   "speaker": "輪",
   "jp": "よぉ～しっ、{px}！\nボクのチリザマ見ててくれッ！",
-  "en": ""
+  "en": "Allll right, {px}! Watch me go out with a bang!"
  },
  {
   "id": "fn06_15:004:06",
   "speaker": "輪",
   "jp": "ん……？\n散っていいんだっけ？",
-  "en": ""
+  "en": "Hm...? Wait, am I supposed to go out?"
  },
  {
   "id": "fn06_15:005:00",
   "speaker": "輪",
   "jp": "……{px}。\nいいよ、気持ちだけで。",
-  "en": ""
+  "en": "...{px}. It's okay, the thought's enough."
  },
  {
   "id": "fn06_15:005:01",
   "speaker": "輪",
   "jp": "……な？",
-  "en": ""
+  "en": "...Right?"
  },
  {
   "id": "fn06_15:006:00",
   "speaker": "輪",
   "jp": "そっかァ……。\nなにか他のもので\n代用出来ないかな？",
-  "en": ""
+  "en": "I see... Could somethin' else stand in for it, maybe?"
  },
  {
   "id": "fn06_15:006:01",
   "speaker": "輪",
   "jp": "う～ん……。",
-  "en": ""
+  "en": "Hmmm..."
  },
  {
   "id": "fn06_15:008:00",
   "speaker": "輪",
   "jp": "まず、{ruby:大散華|ビックバン}に必要なのは\n敵の目を眩ます{ruby:初速度|トップスピード}！！",
-  "en": ""
+  "en": "First off, what the Big Bang needs is top speed to\ndazzle the enemy's eyes!!"
  },
  {
   "id": "fn06_15:008:01",
   "speaker": "輪",
   "jp": "{ruby:標的|ターゲット}は……野良猫！！\nあの警戒をかいくぐって、\n見事だっこしてみせる！",
-  "en": ""
+  "en": "The target is... a stray cat!! I'll slip right past its\nguard and scoop it up!"
  },
  {
   "id": "fn06_15:008:02",
   "speaker": "輪",
   "jp": "よーッし、行くぞー！！",
-  "en": ""
+  "en": "Allll right, here I go!!"
  },
  {
   "id": "fn06_15:009:00",
   "speaker": "輪",
   "jp": "物に頼るばかりが、\n忍術じゃないぞ！",
-  "en": ""
+  "en": "Ninjutsu ain't just about relyin' on gadgets!"
  },
  {
   "id": "fn06_15:009:01",
   "speaker": "輪",
   "jp": "よーッし、見てろよ野良猫！\nまずはお前をだっこしてやる！",
-  "en": ""
+  "en": "Allll right, you just watch, stray cat! First I'm gonna\nscoop you up!"
  },
  {
   "id": "fn06_15:ksf:0121f",
   "kind": "choice",
   "jp": "いま渡す",
   "slot": 30,
-  "en": ""
+  "en": "Give it now"
  },
  {
   "id": "fn06_15:ksf:0123e",
   "kind": "choice",
   "jp": "あとで渡す",
   "slot": 30,
-  "en": ""
+  "en": "Give it later"
  },
  {
   "id": "fn06_15:ksf:01b6b",
   "kind": "choice",
   "jp": "いま渡す",
   "slot": 30,
-  "en": ""
+  "en": "Give it now"
  },
  {
   "id": "fn06_15:ksf:01b8a",
   "kind": "choice",
   "jp": "あとで渡す",
   "slot": 30,
-  "en": ""
+  "en": "Give it later"
  }
 ]

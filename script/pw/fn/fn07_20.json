@@ -3,160 +3,160 @@
   "id": "fn07_20:001:00",
   "speaker": "朝子",
   "jp": "こんな時こそ、私がしっかり\nしなきゃいけないのにね……。",
-  "en": ""
+  "en": "At a time like this, I'm the one who should be\nholding it together..."
  },
  {
   "id": "fn07_20:001:01",
   "speaker": "朝子",
   "jp": "{px}……。\n穂坂さんは……\nまだ見つかってないのね？",
-  "en": ""
+  "en": "{px}... Hosaka-san still hasn't been found, has she?"
  },
  {
   "id": "fn07_20:001:02",
   "speaker": "朝子",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "fn07_20:001:03",
   "speaker": "久榮",
   "jp": "そんな顔色でいっても\n説得力がないな、まったく。",
-  "en": ""
+  "en": "Honestly, that's not very convincing coming from\nsomeone with a face that pale."
  },
  {
   "id": "fn07_20:001:04",
   "speaker": "久榮",
   "jp": "そうだ、{px}。\n何か持ってないか？",
-  "en": ""
+  "en": "Oh, right, {px}. Got anything on you?"
  },
  {
   "id": "fn07_20:001:05",
   "speaker": "久榮",
   "jp": "胃に優しい、\n身体が温まる飲み物でも\nあるといいんだが。",
-  "en": ""
+  "en": "Something easy on the stomach would be good. A\ndrink that warms the body, maybe."
  },
  {
   "id": "fn07_20:001:06",
   "speaker": "朝子",
   "jp": "そんな、牧村先生。\n{px}も……\n私なら大丈夫だから……。",
-  "en": ""
+  "en": "Makimura-sensei, really... You too, {px}... I'm fine,\nreally..."
  },
  {
   "id": "fn07_20:002:00",
   "speaker": "朝子",
   "jp": "……あら、どうしたの？\n何かあった？",
-  "en": ""
+  "en": "...Oh, what's the matter? Did something happen?"
  },
  {
   "id": "fn07_20:002:01",
   "speaker": "朝子",
   "jp": "私なら、平気だから\nそれよりも穂坂さんを……。",
-  "en": ""
+  "en": "I'm all right, so please, focus on Hosaka-san instead..."
  },
  {
   "id": "fn07_20:002:02",
   "speaker": "久榮",
   "jp": "あまり根を詰めすぎるなと\n言ってる。",
-  "en": ""
+  "en": "I'm telling you not to push yourself so hard."
  },
  {
   "id": "fn07_20:002:03",
   "speaker": "久榮",
   "jp": "{px}、何か\n持って来てくれたか？",
-  "en": ""
+  "en": "{px}, did you bring something?"
  },
  {
   "id": "fn07_20:002:04",
   "speaker": "朝子",
   "jp": "ま、牧村先生。\n{px}も……\n私は大丈夫だから……。",
-  "en": ""
+  "en": "M-Makimura-sensei. You too, {px}... I'm fine, really..."
  },
  {
   "id": "fn07_20:004:00",
   "speaker": "朝子",
   "jp": "これを……私に？",
-  "en": ""
+  "en": "This is... for me?"
  },
  {
   "id": "fn07_20:004:01",
   "speaker": "朝子",
   "jp": "……ありがとう、{px}。\nちゃんと、元気になるからね。",
-  "en": ""
+  "en": "...Thank you, {px}. I'll get my strength back properly,\nI promise."
  },
  {
   "id": "fn07_20:004:02",
   "speaker": "朝子",
   "jp": "そうだ……。\nこれ、もらってくれる？",
-  "en": ""
+  "en": "Oh, that's right... Would you take this?"
  },
  {
   "id": "fn07_20:004:03",
   "speaker": "朝子",
   "jp": "こんな事しか出来ないけど\n……穂坂さんを、お願いね。",
-  "en": ""
+  "en": "This is all I can do, but... please, take care of\nHosaka-san."
  },
  {
   "id": "fn07_20:005:00",
   "speaker": "朝子",
   "jp": "{px}……。\n気遣ってくれてありがとう。",
-  "en": ""
+  "en": "{px}... Thank you for worrying about me."
  },
  {
   "id": "fn07_20:005:01",
   "speaker": "朝子",
   "jp": "あなたも、\nどうか気をつけてね。",
-  "en": ""
+  "en": "Please be careful too."
  },
  {
   "id": "fn07_20:006:00",
   "speaker": "朝子",
   "jp": "……いまは、私の事より\n穂坂さんを見つけないと。",
-  "en": ""
+  "en": "...Right now, finding Hosaka-san matters more than\nme."
  },
  {
   "id": "fn07_20:006:01",
   "speaker": "朝子",
   "jp": "{px}……\nお願いね。",
-  "en": ""
+  "en": "{px}... I'm counting on you."
  },
  {
   "id": "fn07_20:007:00",
   "speaker": "朝子",
   "jp": "穂坂さんの事……お願いね。\n私はここで待ってるから。",
-  "en": ""
+  "en": "Please... take care of Hosaka-san. I'll be waiting here."
  },
  {
   "id": "fn07_20:007:01",
   "speaker": "朝子",
   "jp": "……気をつけて、{px}。",
-  "en": ""
+  "en": "...Be careful, {px}."
  },
  {
   "id": "fn07_20:ksf:0121f",
   "kind": "choice",
   "jp": "いま渡す",
   "slot": 30,
-  "en": ""
+  "en": "Give it now"
  },
  {
   "id": "fn07_20:ksf:0123e",
   "kind": "choice",
   "jp": "あとで渡す",
   "slot": 30,
-  "en": ""
+  "en": "Give it later"
  },
  {
   "id": "fn07_20:ksf:01b6b",
   "kind": "choice",
   "jp": "いま渡す",
   "slot": 30,
-  "en": ""
+  "en": "Give it now"
  },
  {
   "id": "fn07_20:ksf:01b8a",
   "kind": "choice",
   "jp": "あとで渡す",
   "slot": 30,
-  "en": ""
+  "en": "Give it later"
  }
 ]

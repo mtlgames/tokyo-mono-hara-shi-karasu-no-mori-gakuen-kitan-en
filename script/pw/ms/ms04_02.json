@@ -903,120 +903,120 @@
   "id": "ms04_02:039:05",
   "speaker": "輪",
   "jp": "…………。",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "ms04_02:039:06",
   "speaker": "絢人",
   "jp": "そういう訳で、{px}。\nどうかもう一度、\n考え直してはもらえないか？",
-  "en": ""
+  "en": "So that's how it is, {px}. Won't you please reconsider,\njust once more?"
  },
  {
   "id": "ms04_02:040:00",
   "speaker": "絢人",
   "jp": "そうか……\nありがとう。",
-  "en": ""
+  "en": "I see... Thank you."
  },
  {
   "id": "ms04_02:041:00",
   "speaker": "絢人",
   "jp": "それも仕方ないか……。\nわかったよ。",
-  "en": ""
+  "en": "I suppose that can't be helped... Very well."
  },
  {
   "id": "ms04_02:042:00",
   "speaker": "燈治",
   "jp": "……香ノ巣。\nお前、何を企んでる？",
-  "en": ""
+  "en": "...Konosu. What the hell are you schemin'?"
  },
  {
   "id": "ms04_02:042:01",
   "speaker": "絢人",
   "jp": "おや、心外だな\n企みなど何もないさ。",
-  "en": ""
+  "en": "Oh my, how hurtful. I'm not scheming anything at\nall."
  },
  {
   "id": "ms04_02:042:02",
   "speaker": "絢人",
   "jp": "ただ、自分でも……\n少し戸惑ってはいる。",
-  "en": ""
+  "en": "It's just that... even I am a little bewildered."
  },
  {
   "id": "ms04_02:042:03",
   "speaker": "絢人",
   "jp": "この僕自身が、\n入り乱れる人の思惑の中に\nいる……。",
-  "en": ""
+  "en": "That I, of all people, should find myself caught in\nthis tangle of other people's designs..."
  },
  {
   "id": "ms04_02:042:04",
   "speaker": "絢人",
   "jp": "{ruby:煩|わずら}わしさよりも\n高揚感の方が勝っているなんて\n……久しく無かった事だ。",
-  "en": ""
+  "en": "That the thrill should outweigh the bother... It's been\na long time since I last felt that way."
  },
  {
   "id": "ms04_02:042:05",
   "speaker": "燈治",
   "jp": "確かに、{px}といると\n退屈はしねェぜ。",
-  "en": ""
+  "en": "Yeah, I'll give ya that. Hangin' around {px} sure ain't\nboring."
  },
  {
   "id": "ms04_02:042:06",
   "speaker": "燈治",
   "jp": "それに、お前らみてェな……\n俺一人じゃ絶対に接点のない\n奴らとも会えるしな。",
-  "en": ""
+  "en": "Plus I get to meet guys like you... folks I'd never\ncross paths with on my own."
  },
  {
   "id": "ms04_02:042:07",
   "speaker": "白",
   "jp": "……では後の者はここで\n後続の敵に備えるがよい。",
-  "en": ""
+  "en": "...Then the rest of you shall remain here and stand\nready for the enemies that follow."
  },
  {
   "id": "ms04_02:042:08",
   "speaker": "白",
   "jp": "参るぞ、{px}―――",
-  "en": ""
+  "en": "We go, {px}--"
  },
  {
   "id": "ms04_02:ksf:0d97f",
   "kind": "choice",
   "jp": "殴る",
   "slot": 30,
-  "en": ""
+  "en": "Punch"
  },
  {
   "id": "ms04_02:ksf:0d99e",
   "kind": "choice",
   "jp": "蹴る",
   "slot": 30,
-  "en": ""
+  "en": "Kick"
  },
  {
   "id": "ms04_02:ksf:0d9bd",
   "kind": "choice",
   "jp": "平手打ち",
   "slot": 30,
-  "en": ""
+  "en": "Slap"
  },
  {
   "id": "ms04_02:ksf:0d9dc",
   "kind": "choice",
   "jp": "無視する",
   "slot": 30,
-  "en": ""
+  "en": "Ignore"
  },
  {
   "id": "ms04_02:ksf:16af7",
   "kind": "choice",
   "jp": "絢人を連れて行く",
   "slot": 30,
-  "en": ""
+  "en": "Take Ayahito along"
  },
  {
   "id": "ms04_02:ksf:16b16",
   "kind": "choice",
   "jp": "絢人を連れて行かない",
   "slot": 30,
-  "en": ""
+  "en": "Leave Ayahito behind"
  }
 ]

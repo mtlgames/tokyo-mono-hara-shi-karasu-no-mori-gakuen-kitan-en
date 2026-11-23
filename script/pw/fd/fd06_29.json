@@ -3,145 +3,145 @@
   "id": "fd06_29:001:00",
   "speaker": "購買のおばちゃん",
   "jp": "あ～ら、いらっしゃい。\n何か欲しいん？",
-  "en": ""
+  "en": "Well, hello there, dear. Lookin' for somethin'?"
  },
  {
   "id": "fd06_29:002:00",
   "speaker": "購買のおばちゃん",
   "jp": "あらあら、まあまあ。\n買い忘れでもあったん？",
-  "en": ""
+  "en": "Oh my, oh my. Forget to buy somethin'?"
  },
  {
   "id": "fd06_29:004:00",
   "speaker": "購買のおばちゃん",
   "jp": "なんや最近、朝子ちゃん\n元気ないと思わへん？",
-  "en": ""
+  "en": "Don't ya think Asako-chan's been lookin' down\nlately?"
  },
  {
   "id": "fd06_29:004:01",
   "speaker": "購買のおばちゃん",
   "jp": "朝子ちゃんは真面目やから、\n休むのも下手なんよねえ。\nおばちゃん心配やわ。",
-  "en": ""
+  "en": "Asako-chan's such a serious girl, she's no good at\ntakin' a break, either. It's got me worried."
  },
  {
   "id": "fd06_29:004:02",
   "speaker": "購買のおばちゃん",
   "jp": "飯田ちゃんの事やし、\n心配いらんと思うけども\nあんまヤンチャしたあかんで？",
-  "en": ""
+  "en": "It's you, Iida-chan, so I don't reckon I need to worry,\nbut don't go causin' too much mischief, ya hear?"
  },
  {
   "id": "fd06_29:004:03",
   "speaker": "購買のおばちゃん",
   "jp": "やるならバレんようにね。\nはい、あめちゃん。",
-  "en": ""
+  "en": "If ya do, don't get caught. Here, have a candy."
  },
  {
   "id": "fd06_29:005:00",
   "speaker": "購買のおばちゃん",
   "jp": "ほな、どうする？",
-  "en": ""
+  "en": "So, what'll it be?"
  },
  {
   "id": "fd06_29:006:00",
   "speaker": "購買のおばちゃん",
   "jp": "ほな、どうする？",
-  "en": ""
+  "en": "So, what'll it be?"
  },
  {
   "id": "fd06_29:007:00",
   "speaker": "購買のおばちゃん",
   "jp": "はい、ありがとね。\nまたおいでや～。",
-  "en": ""
+  "en": "There ya go, thanks, dear. Come again~"
  },
  {
   "id": "fd06_29:ksf:0121f",
   "kind": "choice",
   "jp": "買い物をする",
   "slot": 30,
-  "en": ""
+  "en": "Shop"
  },
  {
   "id": "fd06_29:ksf:0123e",
   "kind": "choice",
   "jp": "おばちゃんと話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to the Shop Lady"
  },
  {
   "id": "fd06_29:ksf:0125d",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  },
  {
   "id": "fd06_29:ksf:01b89",
   "kind": "choice",
   "jp": "買い物をする",
   "slot": 30,
-  "en": ""
+  "en": "Shop"
  },
  {
   "id": "fd06_29:ksf:01ba8",
   "kind": "choice",
   "jp": "買い物をしない",
   "slot": 30,
-  "en": ""
+  "en": "Don't shop"
  },
  {
   "id": "fd06_29:ksf:024d5",
   "kind": "choice",
   "jp": "購入",
   "slot": 30,
-  "en": ""
+  "en": "Buy"
  },
  {
   "id": "fd06_29:ksf:024f4",
   "kind": "choice",
   "jp": "売却",
   "slot": 30,
-  "en": ""
+  "en": "Sell"
  },
  {
   "id": "fd06_29:ksf:02513",
   "kind": "choice",
   "jp": "やめる",
   "slot": 30,
-  "en": ""
+  "en": "Never mind"
  },
  {
   "id": "fd06_29:ksf:0374f",
   "kind": "choice",
   "jp": "買い物をする",
   "slot": 30,
-  "en": ""
+  "en": "Shop"
  },
  {
   "id": "fd06_29:ksf:0376e",
   "kind": "choice",
   "jp": "おばちゃんと話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to the Shop Lady"
  },
  {
   "id": "fd06_29:ksf:0378d",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  },
  {
   "id": "fd06_29:ksf:040b9",
   "kind": "choice",
   "jp": "買い物をする",
   "slot": 30,
-  "en": ""
+  "en": "Shop"
  },
  {
   "id": "fd06_29:ksf:040d8",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  }
 ]

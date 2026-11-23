@@ -3,147 +3,147 @@
   "id": "fd06_20:001:00",
   "speaker": "朝子",
   "jp": "ええと、進路指導の資料に、\n後は調査表の原稿……っと。",
-  "en": ""
+  "en": "Let's see, the career guidance materials, and then the\nsurvey drafts..."
  },
  {
   "id": "fd06_20:001:01",
   "speaker": "朝子",
   "jp": "あら、{px}。\n資料の量、凄いでしょう？",
-  "en": ""
+  "en": "Oh, {px}. Quite a pile of papers, isn't it?"
  },
  {
   "id": "fd06_20:001:02",
   "speaker": "朝子",
   "jp": "三年生の進路指導用なんだけど\n回を重ねる毎に\n大変な事になって……。",
-  "en": ""
+  "en": "They're for third-year career guidance, but every\nsession it just gets worse and worse..."
  },
  {
   "id": "fd06_20:001:03",
   "speaker": "朝子",
   "jp": "整理しなきゃいけないんだけど\n捨てられるものじゃないし、",
-  "en": ""
+  "en": "I need to sort them out, but I can't exactly throw\nthem away,"
  },
  {
   "id": "fd06_20:001:04",
   "speaker": "朝子",
   "jp": "こっちのものを、あっちに\n移すだけだから、結果的に\n量は少しも変わらないのよ。",
-  "en": ""
+  "en": "and since I'm only moving things from here to there,\nin the end the pile doesn't shrink one bit."
  },
  {
   "id": "fd06_20:001:05",
   "speaker": "朝子",
   "jp": "ええっと、授業のプリントは\n確かこの棚に……！？",
-  "en": ""
+  "en": "Let's see, the class handouts should be on this shelf,\nI think...!?"
  },
  {
   "id": "fd06_20:001:06",
   "speaker": "朝子",
   "jp": "―――{px}！\n避けて！！",
-  "en": ""
+  "en": "--{px}! Look out!!"
  },
  {
   "id": "fd06_20:002:00",
   "speaker": "朝子",
   "jp": "あたた……。",
-  "en": ""
+  "en": "Ow, ow..."
  },
  {
   "id": "fd06_20:002:01",
   "speaker": "朝子",
   "jp": "{px}は平気ね？\nよかったわ……。",
-  "en": ""
+  "en": "You're all right, {px}? Thank goodness..."
  },
  {
   "id": "fd06_20:003:00",
   "speaker": "朝子",
   "jp": "あっ、わ、私も……！！",
-  "en": ""
+  "en": "Ah, l-let me help...!!"
  },
  {
   "id": "fd06_20:003:01",
   "speaker": "朝子",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "fd06_20:003:02",
   "speaker": "朝子",
   "jp": "そう……よね。\n棚をおさえても、中の本は\n飛び出てくるわよね……。",
-  "en": ""
+  "en": "Of course... Holding the shelf won't stop the books\ninside from falling out..."
  },
  {
   "id": "fd06_20:004:00",
   "speaker": "朝子",
   "jp": "{px}！？",
-  "en": ""
+  "en": "{px}!?"
  },
  {
   "id": "fd06_20:004:01",
   "speaker": "朝子",
   "jp": "大丈夫！？\n埃だらけじゃない……。",
-  "en": ""
+  "en": "Are you all right!? You're covered in dust..."
  },
  {
   "id": "fd06_20:004:02",
   "speaker": "朝子",
   "jp": "{px}……\nもう少し、自分を大事にして。",
-  "en": ""
+  "en": "{px}... Please take better care of yourself."
  },
  {
   "id": "fd06_20:004:03",
   "speaker": "朝子",
   "jp": "先生は、あなたが元気なのが\n一番なんだから。",
-  "en": ""
+  "en": "To me, as your teacher, your well-being matters\nmost of all."
  },
  {
   "id": "fd06_20:004:04",
   "speaker": "朝子",
   "jp": "でも……\n守ってくれて、ありがとう。",
-  "en": ""
+  "en": "But... thank you for protecting me."
  },
  {
   "id": "fd06_20:005:00",
   "speaker": "朝子",
   "jp": "最近、こういうのが多いのよ。\n注意力が足りないの\nかしら……。",
-  "en": ""
+  "en": "This sort of thing keeps happening lately. Maybe I'm\nnot paying enough attention..."
  },
  {
   "id": "fd06_20:005:01",
   "speaker": "朝子",
   "jp": "……だめね、\nもっとしっかりしないと。",
-  "en": ""
+  "en": "...This won't do. I need to pull myself together."
  },
  {
   "id": "fd06_20:005:02",
   "speaker": "朝子",
   "jp": "とりあえずは……\nここの片付けからだわ。",
-  "en": ""
+  "en": "For now... I'll start by tidying up here."
  },
  {
   "id": "fd06_20:006:00",
   "speaker": "朝子",
   "jp": "さて……。\n何処から手をつけようかしら。",
-  "en": ""
+  "en": "Now then... Where should I start, I wonder?"
  },
  {
   "id": "fd06_20:ksf:0121f",
   "kind": "choice",
   "jp": "避ける",
   "slot": 30,
-  "en": ""
+  "en": "Dodge"
  },
  {
   "id": "fd06_20:ksf:0123e",
   "kind": "choice",
   "jp": "棚をおさえる",
   "slot": 30,
-  "en": ""
+  "en": "Hold the shelf"
  },
  {
   "id": "fd06_20:ksf:0125d",
   "kind": "choice",
   "jp": "朝子を護る",
   "slot": 30,
-  "en": ""
+  "en": "Protect Asako"
  }
 ]

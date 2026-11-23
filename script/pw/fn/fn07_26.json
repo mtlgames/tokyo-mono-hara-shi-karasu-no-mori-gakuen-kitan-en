@@ -3,226 +3,226 @@
   "id": "fn07_26:001:00",
   "speaker": "澁川",
   "jp": "……よく、来たな。\n仕事、か？",
-  "en": ""
+  "en": "...Glad you came. Business, is it?"
  },
  {
   "id": "fn07_26:002:00",
   "speaker": "澁川",
   "jp": "お前か。\n……好きにしていけ。",
-  "en": ""
+  "en": "You, huh. ...Do as you like."
  },
  {
   "id": "fn07_26:004:00",
   "speaker": "澁川",
   "jp": "どうやら、厄介な事に\nなっているようだな。",
-  "en": ""
+  "en": "Looks like things have gotten messy."
  },
  {
   "id": "fn07_26:004:01",
   "speaker": "澁川",
   "jp": "お前に一つ、\n言っておきたい事がある。",
-  "en": ""
+  "en": "There's something I want to tell you."
  },
  {
   "id": "fn07_26:004:02",
   "speaker": "澁川",
   "jp": "{px}、\nお前は……間違えるな。",
-  "en": ""
+  "en": "{px}, you... don't make the wrong choice."
  },
  {
   "id": "fn07_26:005:00",
   "speaker": "澁川",
   "jp": "大事なものがあるならば、\nそれから手を離すんじゃない。",
-  "en": ""
+  "en": "If there's something precious to you, don't let go of\nit."
  },
  {
   "id": "fn07_26:006:00",
   "speaker": "澁川",
   "jp": "……ふッ。\n言うまでもなかったな。",
-  "en": ""
+  "en": "...Heh. Didn't need saying, did it."
  },
  {
   "id": "fn07_26:007:00",
   "speaker": "澁川",
   "jp": "その笑顔が、曇らない事を\n……祈っている。",
-  "en": ""
+  "en": "I'm praying... that smile of yours never clouds over."
  },
  {
   "id": "fn07_26:008:00",
   "speaker": "澁川",
   "jp": "……そうだな。",
-  "en": ""
+  "en": "...That's right."
  },
  {
   "id": "fn07_26:008:01",
   "speaker": "澁川",
   "jp": "お前は、\n俺とは、違う……。",
-  "en": ""
+  "en": "You're... not like me..."
  },
  {
   "id": "fn07_26:009:00",
   "speaker": "澁川",
   "jp": "……ああ。",
-  "en": ""
+  "en": "...Yeah."
  },
  {
   "id": "fn07_26:010:00",
   "speaker": "澁川",
   "jp": "言われるまでもない、か。",
-  "en": ""
+  "en": "No need to tell you, huh."
  },
  {
   "id": "fn07_26:010:01",
   "speaker": "澁川",
   "jp": "その真っ直ぐさが\nあの頃の俺に……。",
-  "en": ""
+  "en": "If I'd had that straightforwardness back then..."
  },
  {
   "id": "fn07_26:010:02",
   "speaker": "澁川",
   "jp": "いや、忘れてくれ。",
-  "en": ""
+  "en": "No, forget it."
  },
  {
   "id": "fn07_26:011:00",
   "speaker": "澁川",
   "jp": "お前はそれで、\n本当に後悔しないのか？",
-  "en": ""
+  "en": "Are you really sure you won't regret that?"
  },
  {
   "id": "fn07_26:012:00",
   "speaker": "澁川",
   "jp": "悲観に浸っても\n何も、守れない……。",
-  "en": ""
+  "en": "Wallowing in despair... protects nothing."
  },
  {
   "id": "fn07_26:012:01",
   "speaker": "澁川",
   "jp": "それぐらい、\nわかっているはずだ。",
-  "en": ""
+  "en": "You ought to know that much."
  },
  {
   "id": "fn07_26:013:00",
   "speaker": "澁川",
   "jp": "……迷えば、失うぞ。",
-  "en": ""
+  "en": "...Hesitate, and you'll lose it."
  },
  {
   "id": "fn07_26:014:00",
   "speaker": "澁川",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "fn07_26:015:00",
   "speaker": "澁川",
   "jp": "手を離さなければ、\n諦めなければ……\n続いた道があった。",
-  "en": ""
+  "en": "If I hadn't let go, if I hadn't given up... there was a\nroad that went on."
  },
  {
   "id": "fn07_26:015:01",
   "speaker": "澁川",
   "jp": "なあ、カナエさん……？",
-  "en": ""
+  "en": "Isn't that right, Kanae-san...?"
  },
  {
   "id": "fn07_26:015:02",
   "speaker": "カナエさん",
   "jp": "くぅん……。",
-  "en": ""
+  "en": "*Whimper...*"
  },
  {
   "id": "fn07_26:015:03",
   "speaker": "澁川",
   "jp": "{px}、俺のようには……\n間違えるなよ。いいな。",
-  "en": ""
+  "en": "{px}, don't make the same mistake... I did. Got it?"
  },
  {
   "id": "fn07_26:016:00",
   "speaker": "澁川",
   "jp": "何か……他に、あるか？",
-  "en": ""
+  "en": "Anything... else?"
  },
  {
   "id": "fn07_26:017:00",
   "speaker": "澁川",
   "jp": "何か……他に、あるか？",
-  "en": ""
+  "en": "Anything... else?"
  },
  {
   "id": "fn07_26:018:00",
   "speaker": "澁川",
   "jp": "……そうか。\nまた、来ると良い。",
-  "en": ""
+  "en": "...I see. Come again."
  },
  {
   "id": "fn07_26:ksf:0121f",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn07_26:ksf:0123e",
   "kind": "choice",
   "jp": "澁川と話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to Shibukawa"
  },
  {
   "id": "fn07_26:ksf:0125d",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  },
  {
   "id": "fn07_26:ksf:01b89",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn07_26:ksf:01ba8",
   "kind": "choice",
   "jp": "何もしない",
   "slot": 30,
-  "en": ""
+  "en": "Do nothing"
  },
  {
   "id": "fn07_26:ksf:09aa5",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn07_26:ksf:09ac4",
   "kind": "choice",
   "jp": "澁川と話す",
   "slot": 30,
-  "en": ""
+  "en": "Talk to Shibukawa"
  },
  {
   "id": "fn07_26:ksf:09ae3",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  },
  {
   "id": "fn07_26:ksf:0a40f",
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": ""
+  "en": "Handle a quest"
  },
  {
   "id": "fn07_26:ksf:0a42e",
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": ""
+  "en": "Nothing really"
  }
 ]

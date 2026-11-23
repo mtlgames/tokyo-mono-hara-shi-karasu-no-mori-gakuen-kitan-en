@@ -3,154 +3,154 @@
   "id": "fd07_17:001:00",
   "speaker": "白",
   "jp": "其方もこの場所が\n気に入りかえ？",
-  "en": ""
+  "en": "Are you fond of this place as well?"
  },
  {
   "id": "fd07_17:001:01",
   "speaker": "白",
   "jp": "流石にヒトの身では\n寒いであろう。",
-  "en": ""
+  "en": "Surely it is cold for one in a human body."
  },
  {
   "id": "fd07_17:001:02",
   "speaker": "白",
   "jp": "随分、ここにくる学生が\n減ったものじゃ。",
-  "en": ""
+  "en": "Far fewer students come here than once did."
  },
  {
   "id": "fd07_17:001:03",
   "speaker": "白",
   "jp": "妾はここで、じゃんくな\n菓子を食すのが\n気に入りでの。",
-  "en": ""
+  "en": "I am fond of eating junky snacks up here."
  },
  {
   "id": "fd07_17:001:04",
   "speaker": "白",
   "jp": "しかし……\nすなっく菓子ばかりというのも\nもの足りぬ。",
-  "en": ""
+  "en": "However... snack food alone leaves something\nwanting."
  },
  {
   "id": "fd07_17:001:05",
   "speaker": "白",
   "jp": "やはりアレが不可欠じゃ。\nそう……{ruby:アレ|・・}よ。",
-  "en": ""
+  "en": "That is indispensable after all. Yes... that."
  },
  {
   "id": "fd07_17:001:06",
   "speaker": "白",
   "jp": "ほれ、あの弾けて\nしゅわしゅわする……。",
-  "en": ""
+  "en": "Come, you know, the one that pops and goes fizz..."
  },
  {
   "id": "fd07_17:001:07",
   "speaker": "白",
   "jp": "其方、持ち合わせておるか？",
-  "en": ""
+  "en": "Do you happen to have some on you?"
  },
  {
   "id": "fd07_17:002:00",
   "speaker": "白",
   "jp": "ううむ……。\nやはり、すなっく菓子だけでは\nもの足りぬ。",
-  "en": ""
+  "en": "Hmm... As I thought, snack food alone leaves\nsomething wanting."
  },
  {
   "id": "fd07_17:002:01",
   "speaker": "白",
   "jp": "喉でしゅわしゅわする\nアレが欲しいのう。",
-  "en": ""
+  "en": "How I long for that which fizzes in the throat."
  },
  {
   "id": "fd07_17:004:00",
   "speaker": "白",
   "jp": "おお！\nわかっておるではないか。",
-  "en": ""
+  "en": "Oh! So you do understand."
  },
  {
   "id": "fd07_17:004:01",
   "speaker": "白",
   "jp": "やはりこの組み合わせは\n至高よのう。",
-  "en": ""
+  "en": "Truly, this pairing is supreme."
  },
  {
   "id": "fd07_17:004:02",
   "speaker": "白",
   "jp": "うむ、でかしたぞ{px}。\n其方には代わりに\nこれを授けよう。",
-  "en": ""
+  "en": "Indeed, well done, {px}. In return, I shall bestow this\nupon you."
  },
  {
   "id": "fd07_17:004:03",
   "speaker": "白",
   "jp": "妾の一部じゃ。\nきっと其方の役に\n立つであろう。",
-  "en": ""
+  "en": "It is a part of me. I am sure it will be of use to you."
  },
  {
   "id": "fd07_17:005:00",
   "speaker": "白",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "fd07_17:005:01",
   "speaker": "白",
   "jp": "これをどうしろと言うのじゃ？\nわかっておらぬのう……。",
-  "en": ""
+  "en": "And what am I meant to do with this? You do not\nunderstand at all..."
  },
  {
   "id": "fd07_17:005:02",
   "speaker": "白",
   "jp": "まあ、一応もろうておいて\nやるがの。",
-  "en": ""
+  "en": "Well, I shall accept it, for form's sake."
  },
  {
   "id": "fd07_17:006:00",
   "speaker": "白",
   "jp": "持ち合わせてないのかえ。\nならば、仕方がないの。",
-  "en": ""
+  "en": "You have none on you? Then it cannot be helped."
  },
  {
   "id": "fd07_17:006:01",
   "speaker": "白",
   "jp": "もうしばし、ねばこいのを\n楽しむとするか……。",
-  "en": ""
+  "en": "I suppose I shall enjoy the chewy ones a while\nlonger..."
  },
  {
   "id": "fd07_17:008:00",
   "speaker": "白",
   "jp": "うーむ……。\nよいしゅわしゅわじゃ……。",
-  "en": ""
+  "en": "Mmm... What a fine fizz..."
  },
  {
   "id": "fd07_17:009:00",
   "speaker": "白",
   "jp": "ふぅ……。\nもの足りぬ……。",
-  "en": ""
+  "en": "Haah... Something is wanting..."
  },
  {
   "id": "fd07_17:ksf:0121f",
   "kind": "choice",
   "jp": "いま渡す",
   "slot": 30,
-  "en": ""
+  "en": "Give it now"
  },
  {
   "id": "fd07_17:ksf:0123e",
   "kind": "choice",
   "jp": "あとで渡す",
   "slot": 30,
-  "en": ""
+  "en": "Give it later"
  },
  {
   "id": "fd07_17:ksf:01b6b",
   "kind": "choice",
   "jp": "いま渡す",
   "slot": 30,
-  "en": ""
+  "en": "Give it now"
  },
  {
   "id": "fd07_17:ksf:01b8a",
   "kind": "choice",
   "jp": "あとで渡す",
   "slot": 30,
-  "en": ""
+  "en": "Give it later"
  }
 ]
