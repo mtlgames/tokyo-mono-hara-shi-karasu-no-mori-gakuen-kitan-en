@@ -177,7 +177,7 @@
   "id": "questshoptext:0030:00",
   "jp": "依頼を断る",
   "refs": 1,
-  "en": "Decline Request"
+  "en": "Decline Quest"
  },
  {
   "id": "questshoptext:0031:00",
@@ -291,7 +291,7 @@
   "id": "questshoptext:0050:00",
   "jp": "依頼人「%s」からの\n依頼を受けられるようになりました",
   "refs": 1,
-  "en": "You can now take requests from the client\n\"%s\"."
+  "en": "You can now take quests from the client \"%s\"."
  },
  {
   "id": "questshoptext:0051:00",
@@ -333,7 +333,7 @@
   "id": "questshoptext:0057:00",
   "jp": "あなたへクエストを依頼したい人が%d人います",
   "refs": 1,
-  "en": "%d people want to send you a quest request."
+  "en": "%d people want to give you a quest."
  },
  {
   "id": "questshoptext:0058:00",
@@ -345,7 +345,7 @@
   "id": "questshoptext:0059:00",
   "jp": "受注した依頼",
   "refs": 1,
-  "en": "Accepted Requests"
+  "en": "Accepted Quests"
  },
  {
   "id": "questshoptext:0060:00",
@@ -363,13 +363,13 @@
   "id": "questshoptext:0062:00",
   "jp": "相手から依頼を要請されています",
   "refs": 1,
-  "en": "They want to send you a request."
+  "en": "They want to give you a quest."
  },
  {
   "id": "questshoptext:0063:00",
   "jp": "依頼",
   "refs": 1,
-  "en": "Request"
+  "en": "Quest"
  },
  {
   "id": "questshoptext:0064:00",
@@ -429,13 +429,13 @@
   "id": "questshoptext:0073:00",
   "jp": "依頼を送信する",
   "refs": 1,
-  "en": "Send a Request"
+  "en": "Send a Quest"
  },
  {
   "id": "questshoptext:0074:00",
   "jp": "依頼を受信する",
   "refs": 1,
-  "en": "Receive Requests"
+  "en": "Receive Quests"
  },
  {
   "id": "questshoptext:0075:00",
@@ -447,7 +447,7 @@
   "id": "questshoptext:0076:00",
   "jp": "プロフィール情報を交換し\n達成した依頼があれば\n相手に報告します",
   "refs": 1,
-  "en": "Exchange profile info, and report any requests\nyou have completed to the other player."
+  "en": "Exchange profile info, and report any quests\nyou have completed to the other player."
  },
  {
   "id": "questshoptext:0077:00",
@@ -459,7 +459,7 @@
   "id": "questshoptext:0078:00",
   "jp": "クエストを受信します\n受信すると「依頼を探す」で\n依頼が登場します",
   "refs": 1,
-  "en": "Receive quests. Received quests appear as\nrequests under \"Find Requests\"."
+  "en": "Receive quests. Received quests appear under\n\"Find Quests\"."
  },
  {
   "id": "questshoptext:0081:00",
@@ -471,7 +471,7 @@
   "id": "questshoptext:0082:00",
   "jp": "依頼文を変更",
   "refs": 1,
-  "en": "Change Request Text"
+  "en": "Change Quest Text"
  },
  {
   "id": "questshoptext:0083:00",
@@ -489,7 +489,7 @@
   "id": "questshoptext:0085:00",
   "jp": "依頼文章を変更します",
   "refs": 1,
-  "en": "Change the request text."
+  "en": "Change the quest text."
  },
  {
   "id": "questshoptext:0086:00",
@@ -585,13 +585,13 @@
   "id": "questshoptext:0103:00",
   "jp": "依頼結果を送信しました",
   "refs": 1,
-  "en": "Request results sent."
+  "en": "Quest results sent."
  },
  {
   "id": "questshoptext:0104:00",
   "jp": "依頼結果を受信しました",
   "refs": 1,
-  "en": "Request results received."
+  "en": "Quest results received."
  },
  {
   "id": "questshoptext:0105:00",
@@ -603,7 +603,7 @@
   "id": "questshoptext:0106:00",
   "jp": "あなたの依頼は\n中断されました",
   "refs": 1,
-  "en": "Your request has been suspended."
+  "en": "Your quest has been suspended."
  },
  {
   "id": "questshoptext:0107:00",
@@ -621,7 +621,7 @@
   "id": "questshoptext:0109:00",
   "jp": "依頼の状態を確認しています\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": "Checking the request status. Please wait\nwithout changing anything."
+  "en": "Checking the quest status. Please wait without\nchanging anything."
  },
  {
   "id": "questshoptext:0110:00",
@@ -663,7 +663,7 @@
   "id": "questshoptext:0116:00",
   "jp": "依頼品「%s」が\n自室に送られました",
   "refs": 1,
-  "en": "The requested item \"%s\" was sent to your room."
+  "en": "The quest item \"%s\" was sent to your room."
  },
  {
   "id": "questshoptext:0117:00",
@@ -675,7 +675,7 @@
   "id": "questshoptext:0118:00",
   "jp": "この依頼を破棄する",
   "refs": 1,
-  "en": "Discard This Request"
+  "en": "Discard This Quest"
  },
  {
   "id": "questshoptext:0119:00",
@@ -693,7 +693,7 @@
   "id": "questshoptext:0121:00",
   "jp": "依頼を受ける相手を選んでください。\nあなたへの依頼を要請している人だけ選べます",
   "refs": 1,
-  "en": "Choose who to take a request from. Only people\nasking to send you one can be chosen."
+  "en": "Choose who to take a quest from. Only people\nasking to send you one can be chosen."
  },
  {
   "id": "questshoptext:0122:00",
@@ -705,7 +705,7 @@
   "id": "questshoptext:0123:00",
   "jp": "同じ依頼人の依頼を\n既に保存しています。\n依頼人と相談した上で\n選択して下さい",
   "refs": 1,
-  "en": "You already have a request saved from this\nclient. Talk with the client before choosing."
+  "en": "You already have a quest saved from this\nclient. Talk with the client before choosing."
  },
  {
   "id": "questshoptext:0124:00",
@@ -717,7 +717,7 @@
   "id": "questshoptext:0125:00",
   "jp": "クエストを受信しました。\n「依頼を探す」から、\n依頼を選んで受注して下さい",
   "refs": 1,
-  "en": "Quest received. Choose and accept it from\n\"Find Requests\"."
+  "en": "Quest received. Choose and accept it from\n\"Find Quests\"."
  },
  {
   "id": "questshoptext:0126:00",
@@ -729,7 +729,7 @@
   "id": "questshoptext:0127:00",
   "jp": "依頼の受信をキャンセルしています\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": "Canceling receipt of the request. Please wait\nwithout changing anything."
+  "en": "Canceling receipt of the quest. Please wait\nwithout changing anything."
  },
  {
   "id": "questshoptext:0128:00",
@@ -753,19 +753,19 @@
   "id": "questshoptext:0131:00",
   "jp": "欲しいアイテムを依頼します。",
   "refs": 1,
-  "en": "Request an item you want."
+  "en": "Post a quest for an item you want."
  },
  {
   "id": "questshoptext:0132:00",
   "jp": "特別な効果が得られる\n儀式を依頼します",
   "refs": 1,
-  "en": "Request a ritual with a special effect."
+  "en": "Post a quest for a ritual with a special\neffect."
  },
  {
   "id": "questshoptext:0133:00",
   "jp": "敵を倒してもらう依頼です\n次にダンジョンへ入る時、\nその敵が弱くなります",
   "refs": 1,
-  "en": "A request to defeat an enemy. It will be\nweaker next time you enter a dungeon."
+  "en": "A quest to defeat an enemy. It will be weaker\nnext time you enter a dungeon."
  },
  {
   "id": "questshoptext:0134:00",
@@ -777,7 +777,7 @@
   "id": "questshoptext:0135:00",
   "jp": "これで依頼する",
   "refs": 1,
-  "en": "Send This Request"
+  "en": "Send This Quest"
  },
  {
   "id": "questshoptext:0136:00",
@@ -789,13 +789,13 @@
   "id": "questshoptext:0137:00",
   "jp": "依頼したい相手を選んでください。\nプロフィールが未登録、もしくはあなたへの通信を\n要請している人へは依頼できません",
   "refs": 1,
-  "en": "Choose who to send a request to. You can't\nsend to anyone unregistered or asking to\nconnect to you."
+  "en": "Choose who to send a quest to. You can't send\nto anyone unregistered or asking to connect to\nyou."
  },
  {
   "id": "questshoptext:0138:00",
   "jp": "依頼を呼びかけています。\n相手が応じるまで\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": "Sending your request. Please wait without\nchanging anything until they respond."
+  "en": "Sending your quest. Please wait without\nchanging anything until they respond."
  },
  {
   "id": "questshoptext:0139:00",
@@ -807,13 +807,13 @@
   "id": "questshoptext:0140:00",
   "jp": "依頼を送信中です…",
   "refs": 1,
-  "en": "Sending request..."
+  "en": "Sending quest..."
  },
  {
   "id": "questshoptext:0141:00",
   "jp": "%sへ\nクエストを依頼しました",
   "refs": 1,
-  "en": "Sent a quest request to %s."
+  "en": "Sent a quest to %s."
  },
  {
   "id": "questshoptext:0142:00",
@@ -849,7 +849,7 @@
   "id": "questshoptext:0147:00",
   "jp": "依頼の送信を中断しています\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": "Canceling the request. Please wait without\nchanging anything."
+  "en": "Canceling sending the quest. Please wait\nwithout changing anything."
  },
  {
   "id": "questshoptext:0148:00",
@@ -939,7 +939,7 @@
   "id": "questshoptext:0163:00",
   "jp": "ダウンロード済みのクエストから、\nいらないクエストを選んで\n削除してください\n\nなお、現在受注しているクエストを\n削除しても依頼は中断されません。\nそのまま続けることができます。",
   "refs": 1,
-  "en": "Choose quests you no longer need from your\ndownloads and delete them.\n\nDeleting a quest you have accepted won't\ncancel the request. You can keep going with\nit."
+  "en": "Choose quests you no longer need from your\ndownloads and delete them.\n\nDeleting a quest you have accepted won't\ncancel the quest. You can keep going with it."
  },
  {
   "id": "questshoptext:0164:00",

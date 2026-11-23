@@ -3,7 +3,7 @@
   "id": "questwordcomment:0000:00",
   "jp": "【依頼を探す】",
   "refs": 1,
-  "en": "[Find Requests]"
+  "en": "[Find Quests]"
  },
  {
   "id": "questwordcomment:0001:00",
@@ -15,7 +15,7 @@
   "id": "questwordcomment:0002:00",
   "jp": "依頼が書かれたカードを渡されます。",
   "refs": 1,
-  "en": "clients, each with a request on it."
+  "en": "clients, each with a quest on it."
  },
  {
   "id": "questwordcomment:0003:00",
@@ -33,7 +33,7 @@
   "id": "questwordcomment:0006:00",
   "jp": "依頼内容を見たら、",
   "refs": 1,
-  "en": "After reading the request,"
+  "en": "After reading the quest,"
  },
  {
   "id": "questwordcomment:0007:00",
@@ -51,13 +51,13 @@
   "id": "questwordcomment:0009:00",
   "jp": "同時に６つ（６人）までです。",
   "refs": 1,
-  "en": "up to 6 requests (6 clients) at once."
+  "en": "up to 6 quests (6 clients) at once."
  },
  {
   "id": "questwordcomment:0010:00",
   "jp": "同じ依頼人からは同時に１つしか",
   "refs": 1,
-  "en": "You can only take 1 request at a time"
+  "en": "You can only take 1 quest at a time"
  },
  {
   "id": "questwordcomment:0011:00",
@@ -69,7 +69,7 @@
   "id": "questwordcomment:0013:00",
   "jp": "また、同じ部屋で行う依頼を",
   "refs": 1,
-  "en": "Also, you can't take multiple requests"
+  "en": "Also, you can't take multiple quests"
  },
  {
   "id": "questwordcomment:0014:00",
@@ -81,13 +81,13 @@
   "id": "questwordcomment:0017:00",
   "jp": "【依頼を確認】",
   "refs": 1,
-  "en": "[Check Requests]"
+  "en": "[Check Quests]"
  },
  {
   "id": "questwordcomment:0018:00",
   "jp": "現在引き受けている依頼を",
   "refs": 1,
-  "en": "Here you can check the requests"
+  "en": "Here you can check the quests"
  },
  {
   "id": "questwordcomment:0019:00",
@@ -99,7 +99,7 @@
   "id": "questwordcomment:0020:00",
   "jp": "ここで条件を満たした依頼を選んで、",
   "refs": 1,
-  "en": "Choose a request whose terms you met"
+  "en": "Choose a quest whose terms you met"
  },
  {
   "id": "questwordcomment:0021:00",
@@ -111,7 +111,7 @@
   "id": "questwordcomment:0023:00",
   "jp": "また、依頼を引き受けると、",
   "refs": 1,
-  "en": "Also, when you accept a request,"
+  "en": "Also, when you accept a quest,"
  },
  {
   "id": "questwordcomment:0024:00",
@@ -135,13 +135,13 @@
   "id": "questwordcomment:0029:00",
   "jp": "【依頼のヒント】",
   "refs": 1,
-  "en": "[Request Hints]"
+  "en": "[Quest Hints]"
  },
  {
   "id": "questwordcomment:0030:00",
   "jp": "依頼を達成するためには",
   "refs": 1,
-  "en": "To complete a request, you need"
+  "en": "To complete a quest, you need"
  },
  {
   "id": "questwordcomment:0031:00",
@@ -153,7 +153,7 @@
   "id": "questwordcomment:0032:00",
   "jp": "読み解く必要があります。",
   "refs": 1,
-  "en": "written in the request."
+  "en": "written in the quest."
  },
  {
   "id": "questwordcomment:0034:00",
@@ -213,7 +213,7 @@
   "id": "questwordcomment:0046:00",
   "jp": "ここではあなたの知り合いから",
   "refs": 1,
-  "en": "Here you can accept requests"
+  "en": "Here you can accept quests"
  },
  {
   "id": "questwordcomment:0047:00",
@@ -231,13 +231,13 @@
   "id": "questwordcomment:0049:00",
   "jp": "知り合いに依頼を出すことができます。",
   "refs": 1,
-  "en": "and give requests to people you know."
+  "en": "and give quests to people you know."
  },
  {
   "id": "questwordcomment:0051:00",
   "jp": "＜依頼される場合＞",
   "refs": 1,
-  "en": "<Taking Requests>"
+  "en": "<Taking Quests>"
  },
  {
   "id": "questwordcomment:0052:00",
@@ -249,19 +249,19 @@
   "id": "questwordcomment:0053:00",
   "jp": "依頼カードを手に入れます。",
   "refs": 1,
-  "en": "to get a request card."
+  "en": "to get a quest card."
  },
  {
   "id": "questwordcomment:0054:00",
   "jp": "その後、「プレイヤー」→「依頼を探す」から",
   "refs": 1,
-  "en": "Then go to \"Player\" -> \"Find Requests\","
+  "en": "Then go to \"Player\" -> \"Find Quests\","
  },
  {
   "id": "questwordcomment:0055:00",
   "jp": "依頼の内容を見て",
   "refs": 2,
-  "en": "read the request,"
+  "en": "read the quest,"
  },
  {
   "id": "questwordcomment:0056:00",
@@ -273,13 +273,13 @@
   "id": "questwordcomment:0057:00",
   "jp": "個人的な依頼なので情報料はありません。",
   "refs": 1,
-  "en": "It's a personal request, so no info fee."
+  "en": "It's a personal quest, so no info fee."
  },
  {
   "id": "questwordcomment:0058:00",
   "jp": "依頼を受けられるルールは通常と同じです。",
   "refs": 2,
-  "en": "The usual rules for taking requests apply."
+  "en": "The usual rules for taking quests apply."
  },
  {
   "id": "questwordcomment:0060:00",
@@ -303,7 +303,7 @@
   "id": "questwordcomment:0065:00",
   "jp": "＜依頼する場合＞",
   "refs": 1,
-  "en": "<Making Requests>"
+  "en": "<Giving Quests>"
  },
  {
   "id": "questwordcomment:0066:00",
@@ -315,13 +315,13 @@
   "id": "questwordcomment:0067:00",
   "jp": "依頼内容を入力して、",
   "refs": 1,
-  "en": "and what you're requesting"
+  "en": "and the quest details"
  },
  {
   "id": "questwordcomment:0068:00",
   "jp": "依頼カードを作ります。",
   "refs": 1,
-  "en": "to make a request card."
+  "en": "to make a quest card."
  },
  {
   "id": "questwordcomment:0069:00",
@@ -333,13 +333,13 @@
   "id": "questwordcomment:0070:00",
   "jp": "相手に依頼を渡します。",
   "refs": 1,
-  "en": "to hand over your request."
+  "en": "to hand over your quest."
  },
  {
   "id": "questwordcomment:0072:00",
   "jp": "あとは相手が依頼を終えたら、",
   "refs": 1,
-  "en": "Once they finish the request,"
+  "en": "Once they finish the quest,"
  },
  {
   "id": "questwordcomment:0073:00",
@@ -369,7 +369,7 @@
   "id": "questwordcomment:0079:00",
   "jp": "ここではネットワーク上から、",
   "refs": 1,
-  "en": "Here you can get request cards"
+  "en": "Here you can get quest cards"
  },
  {
   "id": "questwordcomment:0080:00",
@@ -381,13 +381,13 @@
   "id": "questwordcomment:0082:00",
   "jp": "依頼を選んでダウンロードしたら、",
   "refs": 1,
-  "en": "Choose and download a request, then"
+  "en": "Choose and download a quest, then"
  },
  {
   "id": "questwordcomment:0083:00",
   "jp": "「ダウンロード」→「依頼を探す」から",
   "refs": 1,
-  "en": "go to \"Download\" -> \"Find Requests\"."
+  "en": "go to \"Download\" -> \"Find Quests\"."
  },
  {
   "id": "questwordcomment:0087:00",
@@ -399,7 +399,7 @@
   "id": "questwordcomment:0088:00",
   "jp": "同時に１つの依頼しか受けられません。",
   "refs": 1,
-  "en": "take 1 request at a time."
+  "en": "take 1 quest at a time."
  },
  {
   "id": "questwordcomment:0090:00",
@@ -411,7 +411,7 @@
   "id": "questwordcomment:0091:00",
   "jp": "同時に８つまでです。",
   "refs": 1,
-  "en": "request cards at once."
+  "en": "quest cards at once."
  },
  {
   "id": "questwordcomment:0092:00",
