@@ -3,13 +3,13 @@
   "id": "questshoptext:0000:00",
   "jp": "依頼を探す",
   "refs": 2,
-  "en": "Find Requests"
+  "en": "Find Quests"
  },
  {
   "id": "questshoptext:0001:00",
   "jp": "依頼を確認",
   "refs": 1,
-  "en": "Check Requests"
+  "en": "Check Quests"
  },
  {
   "id": "questshoptext:0002:00",
@@ -63,13 +63,13 @@
   "id": "questshoptext:0010:00",
   "jp": "カードをめくって依頼内容を確認します\n依頼を見るには情報料が必要です",
   "refs": 1,
-  "en": "Flip a card to check the request's details.\nViewing a request requires an info fee."
+  "en": "Flip a card to check the quest's details.\nViewing a quest requires an info fee."
  },
  {
   "id": "questshoptext:0011:00",
   "jp": "カードをめくって依頼内容を確認します",
   "refs": 1,
-  "en": "Flip a card to check the request's details."
+  "en": "Flip a card to check the quest's details."
  },
  {
   "id": "questshoptext:0012:00",

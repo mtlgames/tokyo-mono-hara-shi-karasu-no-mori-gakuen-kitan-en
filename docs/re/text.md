@@ -94,5 +94,12 @@ tails of shorter ones, and every pointer to it is retargeted. Pointers come from
 relocated, and none points inside a string. Data words take any address; a lo16 is changed only inside its
 lui's window (`eboot.same_hi`, load base 0x08804000 carries into the hi half), the lui is never touched. 948 of
 1,014 visible strings can move (13,032 bytes of room); the rest (refs 0: struct-array members, options table,
-nickname formats) are slot-bound. Pool total ~13.7 KB for ~10.8 KB of Japanese. If English outgrows it, next step:
-a new segment after .bss (not needed so far).
+nickname formats) are slot-bound. Pool total ~13.7 KB for ~10.8 KB of Japanese.
+**Full English (2026-11-24) outgrows it:** moved strings need 7,368 bytes (591 lo16-bound, all in the 0x2B window;
+6,777 data-word only, can live anywhere) against 5,760 bytes of freed slots plus 2,119 in tails of 1-11 bytes that
+long strings can't use. `eboot_patch` now keeps the Japanese for the strings left over (build prints `WARNING: EBOOT
+string pool full, N kept Japanese: ids`; ~206). Free ranges that touch are merged. FIXED arrays (dungeon names
+char[16], nickname formats char[32]) use their whole slot and never move. Layout: seg0 text+rodata vaddr 0..0x2C3AF0,
+seg1 data vaddr 0x2C3B00 filesz 0x161D8 memsz 0x7F03C4 (bss to 0xAB3EC4), relocs after. **Phase 7 fix:** grow seg1
+past .bss (filesz = memsz, bss as file zeros, pool after 0xAB3EC4, memsz += pool) and send the data-word strings there;
+check the game's heap sizing still fits.

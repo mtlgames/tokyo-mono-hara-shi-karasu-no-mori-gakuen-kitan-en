@@ -3,7 +3,7 @@
   "id": "questwordenemy:0000:00",
   "jp": "特別依頼１は",
   "refs": 1,
-  "en": "Bonus Quest1"
+  "en": "Bonus Quest 1"
  },
  {
   "id": "questwordenemy:0000:04",
@@ -15,13 +15,13 @@
   "id": "questwordenemy:0001:00",
   "jp": "特別依頼１－２は",
   "refs": 1,
-  "en": "Bonus Quest1-2"
+  "en": "Bonus Quest 1-2"
  },
  {
   "id": "questwordenemy:0002:00",
   "jp": "特別依頼２は",
   "refs": 1,
-  "en": "Bonus Quest2"
+  "en": "Bonus Quest 2"
  },
  {
   "id": "questwordenemy:0002:04",
@@ -33,13 +33,13 @@
   "id": "questwordenemy:0003:00",
   "jp": "特別依頼２－２は",
   "refs": 1,
-  "en": "Bonus Quest2-2"
+  "en": "Bonus Quest 2-2"
  },
  {
   "id": "questwordenemy:0004:00",
   "jp": "特別依頼３は",
   "refs": 1,
-  "en": "Bonus Quest3"
+  "en": "Bonus Quest 3"
  },
  {
   "id": "questwordenemy:0004:04",
@@ -51,13 +51,13 @@
   "id": "questwordenemy:0005:00",
   "jp": "特別依頼３－２は",
   "refs": 1,
-  "en": "Bonus Quest3-2"
+  "en": "Bonus Quest 3-2"
  },
  {
   "id": "questwordenemy:0006:00",
   "jp": "特別依頼４は",
   "refs": 1,
-  "en": "Bonus Quest4"
+  "en": "Bonus Quest 4"
  },
  {
   "id": "questwordenemy:0006:04",
@@ -69,25 +69,25 @@
   "id": "questwordenemy:0007:00",
   "jp": "特別依頼４－２は",
   "refs": 1,
-  "en": "Bonus Quest4-2"
+  "en": "Bonus Quest 4-2"
  },
  {
   "id": "questwordenemy:0008:00",
   "jp": "特別依頼５は",
   "refs": 1,
-  "en": "Bonus Quest5"
+  "en": "Bonus Quest 5"
  },
  {
   "id": "questwordenemy:0009:00",
   "jp": "特別依頼５－２は",
   "refs": 1,
-  "en": "Bonus Quest5-2"
+  "en": "Bonus Quest 5-2"
  },
  {
   "id": "questwordenemy:0010:00",
   "jp": "特別依頼６は",
   "refs": 1,
-  "en": "Bonus Quest6"
+  "en": "Bonus Quest 6"
  },
  {
   "id": "questwordenemy:0010:04",
@@ -99,25 +99,25 @@
   "id": "questwordenemy:0011:00",
   "jp": "特別依頼６－２は",
   "refs": 1,
-  "en": "Bonus Quest6-2"
+  "en": "Bonus Quest 6-2"
  },
  {
   "id": "questwordenemy:0012:00",
   "jp": "特別依頼７は",
   "refs": 1,
-  "en": "Bonus Quest7"
+  "en": "Bonus Quest 7"
  },
  {
   "id": "questwordenemy:0013:00",
   "jp": "特別依頼７－２は",
   "refs": 1,
-  "en": "Bonus Quest7-2"
+  "en": "Bonus Quest 7-2"
  },
  {
   "id": "questwordenemy:0014:00",
   "jp": "特別依頼８は",
   "refs": 1,
-  "en": "Bonus Quest8"
+  "en": "Bonus Quest 8"
  },
  {
   "id": "questwordenemy:0014:04",
@@ -129,31 +129,31 @@
   "id": "questwordenemy:0015:00",
   "jp": "特別依頼８－２は",
   "refs": 1,
-  "en": "Bonus Quest8-2"
+  "en": "Bonus Quest 8-2"
  },
  {
   "id": "questwordenemy:0016:00",
   "jp": "特別依頼９は",
   "refs": 1,
-  "en": "Bonus Quest9"
+  "en": "Bonus Quest 9"
  },
  {
   "id": "questwordenemy:0017:00",
   "jp": "特別依頼９－２は",
   "refs": 1,
-  "en": "Bonus Quest9-2"
+  "en": "Bonus Quest 9-2"
  },
  {
   "id": "questwordenemy:0018:00",
   "jp": "特別依頼１０は",
   "refs": 1,
-  "en": "Bonus Quest10"
+  "en": "Bonus Quest 10"
  },
  {
   "id": "questwordenemy:0019:00",
   "jp": "特別依頼１０－２は",
   "refs": 1,
-  "en": "Bonus Quest10-2"
+  "en": "Bonus Quest 10-2"
  },
  {
   "id": "questwordenemy:0020:00",

@@ -459,7 +459,7 @@
   "id": "dungeonsysmes:0076:00",
   "jp": "【芒に雁】敵を封呪状態にかける",
   "refs": 1,
-  "en": "Pampas and Geese: Inflicts Seal"
+  "en": "Pampas Geese: Inflicts Seal Curse"
  },
  {
   "id": "dungeonsysmes:0077:00",
@@ -519,7 +519,7 @@
   "id": "dungeonsysmes:0086:00",
   "jp": "【鬼手に太鼓】秘法眼値回復量倍増",
   "refs": 1,
-  "en": "Demon Drum: Arcane Eye recovery x2"
+  "en": "Oni Drum: Arcane Eye recovery x2"
  },
  {
   "id": "dungeonsysmes:0087:00",
@@ -543,7 +543,7 @@
   "id": "dungeonsysmes:0090:00",
   "jp": "【桐に製造印】１ターン終了時即死",
   "refs": 1,
-  "en": "Paulownia Stamp: Death at turn end"
+  "en": "Paulownia Mark: Death at turn end"
  },
  {
   "id": "dungeonsysmes:0091:00",
@@ -567,7 +567,7 @@
   "id": "dungeonsysmes:0094:00",
   "jp": "【特課試札】防御力上昇",
   "refs": 1,
-  "en": "Special Trial Card: Defense up"
+  "en": "Trial Card: Defense up"
  },
  {
   "id": "dungeonsysmes:0095:00",
@@ -951,7 +951,7 @@
   "id": "dungeonsysmes:0158:00",
   "jp": "【封呪】花札解除・封札強化無効",
   "refs": 1,
-  "en": "Seal: Hanafuda off; no seal boost"
+  "en": "Seal Curse: Cards off, no Enhance"
  },
  {
   "id": "dungeonsysmes:0159:00",
@@ -1011,13 +1011,13 @@
   "id": "dungeonsysmes:0168:00",
   "jp": "【黒の封焔】焔をまとった攻撃",
   "refs": 1,
-  "en": "Black Sealfire: Flame-clad attack"
+  "en": "Black Seal Flame: Flaming attack"
  },
  {
   "id": "dungeonsysmes:0169:00",
   "jp": "【猿王拳】雁の札の力をまとった攻撃",
   "refs": 1,
-  "en": "Ape King Fist: Geese-card attack"
+  "en": "Monkey King Fist: Geese attack"
  },
  {
   "id": "dungeonsysmes:0170:00",
@@ -1035,7 +1035,7 @@
   "id": "dungeonsysmes:0172:00",
   "jp": "【胴斬り】居合の攻撃",
   "refs": 1,
-  "en": "Body Slash: Quick-draw attack"
+  "en": "Torso Slash: Quick-draw attack"
  },
  {
   "id": "dungeonsysmes:0173:00",
@@ -1047,13 +1047,13 @@
   "id": "dungeonsysmes:0174:00",
   "jp": "【表裏】カードを投げる術攻撃",
   "refs": 1,
-  "en": "Heads or Tails: Thrown-card spell"
+  "en": "Heads/Tails: Thrown-card spell"
  },
  {
   "id": "dungeonsysmes:0175:00",
   "jp": "【国士無双】衝撃波を伴った攻撃",
   "refs": 1,
-  "en": "Peerless Hero: Shockwave attack"
+  "en": "Unrivaled: Shockwave attack"
  },
  {
   "id": "dungeonsysmes:0176:00",
@@ -1071,37 +1071,37 @@
   "id": "dungeonsysmes:0178:00",
   "jp": "【北斗雷震】退摩札による術攻撃",
   "refs": 1,
-  "en": "Dipper Thunder: Talisman spell"
+  "en": "Big Dipper Thunder: Talisman spell"
  },
  {
   "id": "dungeonsysmes:0179:00",
   "jp": "【ミラクル★ラブ】氣による攻撃",
   "refs": 1,
-  "en": "Miracle Love: Ki attack"
+  "en": "Miracle*Love: Ki attack"
  },
  {
   "id": "dungeonsysmes:0180:00",
   "jp": "【英雄大解砲】ノックバック攻撃",
   "refs": 1,
-  "en": "Hero Cannon: Knockback attack"
+  "en": "Hero Mega Cannon: Knockback attack"
  },
  {
   "id": "dungeonsysmes:0181:00",
   "jp": "【天橋立】防御力・攻撃力強化の術",
   "refs": 1,
-  "en": "Heaven's Bridge: Attack/defense up"
+  "en": "Amanohashidate: Attack/defense up"
  },
  {
   "id": "dungeonsysmes:0182:00",
   "jp": "【空蝉の術】攻撃回避の術",
   "refs": 1,
-  "en": "Cicada Husk: Evades attacks"
+  "en": "Cicada Husk Art: Evades attacks"
  },
  {
   "id": "dungeonsysmes:0183:00",
   "jp": "【華剣舞】剣による攻撃",
   "refs": 1,
-  "en": "Flower Sword Dance: Sword attack"
+  "en": "Flower Blade Dance: Sword attack"
  },
  {
   "id": "dungeonsysmes:0184:00",
@@ -1173,19 +1173,19 @@
   "id": "dungeonsysmes:0195:00",
   "jp": "【表裏】の効果が切れた",
   "refs": 1,
-  "en": "Heads or Tails wore off"
+  "en": "Heads/Tails wore off"
  },
  {
   "id": "dungeonsysmes:0196:00",
   "jp": "【表裏】発動・敵から見えなくなる",
   "refs": 1,
-  "en": "Heads or Tails: Foes can't see you"
+  "en": "Heads/Tails: Foes can't see you"
  },
  {
   "id": "dungeonsysmes:0197:00",
   "jp": "【表裏】発動失敗",
   "refs": 1,
-  "en": "Heads or Tails failed"
+  "en": "Heads/Tails failed"
  },
  {
   "id": "dungeonsysmes:0198:00",
@@ -1197,13 +1197,13 @@
   "id": "dungeonsysmes:0199:00",
   "jp": "【ミラクル★ラブ】敵のＨＰ吸収",
   "refs": 1,
-  "en": "Miracle Love: Drains foe HP"
+  "en": "Miracle*Love: Drains foe HP"
  },
  {
   "id": "dungeonsysmes:0200:00",
   "jp": "【空蝉の術】回避成功・カウンター",
   "refs": 1,
-  "en": "Cicada Husk: Dodged! Counter!"
+  "en": "Cicada Husk Art: Dodged! Counter!"
  },
  {
   "id": "dungeonsysmes:0201:00",
@@ -1287,7 +1287,7 @@
   "id": "dungeonsysmes:0214:00",
   "jp": "【天羽々矢】弱点必中・封呪",
   "refs": 1,
-  "en": "Ame-no-Habaya: Weakness hit, Seal"
+  "en": "Ame-no-Habaya: Weak pt, Seal Curse"
  },
  {
   "id": "dungeonsysmes:0215:00",
@@ -1299,7 +1299,7 @@
   "id": "dungeonsysmes:0216:00",
   "jp": "【三乗ノ王】迎撃禁止無効",
   "refs": 1,
-  "en": "King of Three: Counter ban void"
+  "en": "Cubed King: Counter ban void"
  },
  {
   "id": "dungeonsysmes:0217:00",

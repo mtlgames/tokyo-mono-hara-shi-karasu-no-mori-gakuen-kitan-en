@@ -39,13 +39,13 @@
   "id": "obj:0003:04",
   "jp": "呪言花札【菊ノ屑・壱】",
   "refs": 1,
-  "en": "Curse Hanafuda:\nChrysanthemum Chaff 1"
+  "en": "Curse Hanafuda:\nChrysanthemum Chaff I"
  },
  {
   "id": "obj:0003:08",
   "jp": "顕現した呪言花札。\n絵柄から菊ノ屑・壱と分かる",
   "refs": 1,
-  "en": "A manifested Curse Hanafuda.\nIts art marks it as\nChrysanthemum Chaff 1."
+  "en": "A manifested Curse Hanafuda.\nIts art marks it as\nChrysanthemum Chaff I."
  },
  {
   "id": "obj:0004:04",
@@ -273,7 +273,7 @@
   "id": "obj:0063:04",
   "jp": "龍気の柱",
   "refs": 11,
-  "en": "Dragon Qi Pillar"
+  "en": "Dragon Ki Pillar"
  },
  {
   "id": "obj:0063:08",
@@ -285,7 +285,7 @@
   "id": "obj:0072:04",
   "jp": "隠気の柱",
   "refs": 6,
-  "en": "Oni Qi Pillar"
+  "en": "Oni Ki Pillar"
  },
  {
   "id": "obj:0072:08",

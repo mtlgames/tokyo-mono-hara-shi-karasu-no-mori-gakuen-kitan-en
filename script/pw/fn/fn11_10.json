@@ -129,13 +129,13 @@
   "id": "fn11_10:012:00",
   "speaker": "アンジー",
   "jp": "いまネ、家族へのプレゼントを\n選んでたんだヨ！",
-  "en": "Angie was just picking out presents for her family!"
+  "en": "Angie was just picking out presents for family!"
  },
  {
   "id": "fn11_10:012:01",
   "speaker": "アンジー",
   "jp": "故郷の{ruby:弟妹|チビちゃん}たちにはもう\nたっくさん送ったから、\n今日は盗賊団の野郎共にだネ！",
-  "en": "She already sent loooads to the little ones back\nhome, so today it's for the guys in the Bandits!"
+  "en": "Angie already sent loooads to the little ones back\nhome, so today it's for the guys in the Bandits!"
  },
  {
   "id": "fn11_10:012:02",
@@ -195,7 +195,7 @@
   "id": "fn11_10:014:04",
   "speaker": "アンジー",
   "jp": "{ruby:Ａｂｕｅｌａ|お　ば　あ　ち　ゃ　ん}はね、\nアンを拾って育ててくれた\nすっごい魔女なんだヨ！",
-  "en": "Abuela is the amazing witch who took Angie in and\nraised her!"
+  "en": "Abuela is the amazing witch who took Angie in and\nraised Angie!"
  },
  {
   "id": "fn11_10:014:05",
@@ -207,19 +207,19 @@
   "id": "fn11_10:014:06",
   "speaker": "アンジー",
   "jp": "そうダダこねて泣いたらネ、\n……言ってくれたんダ。",
-  "en": "When Angie threw a tantrum and cried about it...\nshe told her something."
+  "en": "When Angie threw a tantrum and cried about it...\nAbuela told Angie something."
  },
  {
   "id": "fn11_10:014:07",
   "speaker": "アンジー",
   "jp": "アンの髪は太陽の色だから、\nミンナを照らす光に\nなればいいんダッテ。",
-  "en": "She said Angie's hair is the color of the sun, so she\nshould become a light that shines on everyone."
+  "en": "Abuela said Angie's hair is the color of the sun, so\nAngie should become a light that shines on\neveryone."
  },
  {
   "id": "fn11_10:014:08",
   "speaker": "アンジー",
   "jp": "光の魔女……なんて、\nいまのアンにはチョット\n似合わない……よネ？",
-  "en": "A witch of light... that doesn't quite suit Angie the\nway she is now... right?"
+  "en": "A witch of light... that doesn't quite suit the Angie\nof right now... right?"
  },
  {
   "id": "fn11_10:015:00",
@@ -303,7 +303,7 @@
   "id": "fn11_10:020:01",
   "speaker": "アンジー",
   "jp": "なんだか\n自信なくなってきちゃったヨ。",
-  "en": "Somehow Angie's starting to lose her confidence."
+  "en": "Somehow Angie's starting to feel less sure."
  },
  {
   "id": "fn11_10:021:00",
@@ -315,7 +315,7 @@
   "id": "fn11_10:021:01",
   "speaker": "アンジー",
   "jp": "アンはいまのアンを\nすごく気に入ってるモノ！",
-  "en": "Angie really likes the Angie she is now!"
+  "en": "Angie really likes the Angie of right now!"
  },
  {
   "id": "fn11_10:022:00",
@@ -345,7 +345,7 @@
   "id": "fn11_10:024:01",
   "speaker": "アンジー",
   "jp": "それに、何て言っても\nヒーローに追いかけて\nもらえるからネ！",
-  "en": "Besides, best of all, it means a hero comes chasing\nafter her!"
+  "en": "Besides, best of all, it means a hero comes chasing\nafter Angie!"
  },
  {
   "id": "fn11_10:024:02",
@@ -357,7 +357,7 @@
   "id": "fn11_10:025:00",
   "speaker": "アンジー",
   "jp": "……アンの故郷を、\n大切なモノを護るには\n強い力とお金がいるノ。",
-  "en": "...To protect Angie's hometown, and what's precious\nto her, she needs strong power and money."
+  "en": "...To protect Angie's hometown, and what's precious,\nAngie needs strong power and money."
  },
  {
   "id": "fn11_10:025:01",
@@ -369,13 +369,13 @@
   "id": "fn11_10:025:02",
   "speaker": "アンジー",
   "jp": "《大いなる遺志》から\n啓示を受けた{ruby:花札|カード}は\n手に入れられなかったケド、",
-  "en": "Angie couldn't get the card the Great Will revealed\nto her, but..."
+  "en": "Angie couldn't get the card the Great Will revealed\nto Angie, but..."
  },
  {
   "id": "fn11_10:025:03",
   "speaker": "アンジー",
   "jp": "{px}と出会えて、\n少し……成長出来た、カナ？",
-  "en": "Meeting you, {px}... maybe she's grown a little?"
+  "en": "Meeting you, {px}... maybe Angie's grown a little?"
  },
  {
   "id": "fn11_10:025:04",
@@ -530,7 +530,7 @@
   "id": "fn11_10:037:02",
   "speaker": "アンジー",
   "jp": "大切なヒトのためなら、\n何だって出来る。\n……ホントだヨ？",
-  "en": "For someone precious, she can do anything. ...Really,\nokay?"
+  "en": "For someone precious, Angie can do anything.\n...Really, okay?"
  },
  {
   "id": "fn11_10:038:00",
@@ -554,7 +554,7 @@
   "id": "fn11_10:039:01",
   "speaker": "アンジー",
   "jp": "でも、気持ちは本当だよ。\nこんなの、初めてだけど……",
-  "en": "But Angie's feelings are real. This is her first time\nfeeling like this, but..."
+  "en": "But Angie's feelings are real. This is Angie's first\ntime feeling like this, but..."
  },
  {
   "id": "fn11_10:039:02",
@@ -608,7 +608,7 @@
   "id": "fn11_10:043:01",
   "speaker": "アンジー",
   "jp": "そんな顔、{px}に\nして欲しくないものネ。",
-  "en": "She doesn't want you making that face, {px}."
+  "en": "Angie doesn't want you making that face, {px}."
  },
  {
   "id": "fn11_10:044:00",

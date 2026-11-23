@@ -68,6 +68,26 @@ separates alternatives) and the Avoid column.
 | 宝方蒐 / 宝方 蒐 / 宝方 | Takarakata | | Shu Takarakata | Hoho |
 | 佐波守紅緒 / 佐波守 | Sawakami | | Benio Sawakami | Sabamori |
 | 購買のおばちゃん | Shop Lady | 17 | school store lady (speaker name) | |
+| 武藤 | Muto | | Ichiru Muto | |
+| 牧村 | Makimura | | Hisae Makimura (牧村先生 Makimura-sensei) | |
+| 羽鳥 | Hatori | | Asako / Seishiro Hatori; 羽鳥家 Hatori Home (caption 羽鳥家居間 "Hatori Home, Living Room") | |
+| 鹿島 | Kashima | | Migiri Kashima | |
+| 香ノ巣 | Konosu | | Ayahito Konosu | |
+| 鬼丸 | Onimaru | | Gio Onimaru | |
+| 大督 | Daisuke | | ruby だいすけ; Daisuke Isachi | |
+| 信維 | Nobuyuki | | Nobuyuki Chikushi | |
+| 楼 | Takadono | | ruby たかどの; Banri Takadono | |
+| 坂口 | Sakaguchi | | young detective (坂口巡査 Officer Sakaguchi) | |
+| 要 | Kaname | | (not enforced) Kaname Kotokuji; 要 is also "need"/"key" (要らん) | |
+| 清 | Sei | | (not enforced) Seishiro: Suzu's 清さま Sei-sama, Ken's 清さん Sei-san; 清める is "purify" | |
+| 花 | Hana | | (not enforced) Togashi's given name (花さん Hana-san); otherwise "flower" | |
+| 西園寺 | Saionji | | the house Rin's clan serves; 西園寺殿 Lord Saionji | |
+| ミカ | Mika | | Kaname's name for Dokai (ミカちゃん Mika-chan) | |
+| ミカみゅん | Mikamyun | | Dokai's self-name | |
+| カナめん | Kanamen | | Dokai's nickname for Kaname | |
+| ミギー | Miggy | | Angie's nickname for Migiri | |
+| カル | Kal | | Kalpataru's nickname; カルさん Kal-san (his third-person self-reference) | |
+| カモっち | Kamocchi | | Kalpataru's nickname for Hideo | |
 
 ## Places
 | JP | EN | max | notes | Avoid |
@@ -76,6 +96,33 @@ separates alternatives) and the Avoid column.
 | 鴉乃杜 | Karasu no Mori | | | |
 | 寇聖 | Kosei | | rival school (寇聖高校 Kosei High) | Kousei |
 | 新宿 | Shinjuku | | | |
+| 歌舞伎町 | Kabukicho | | | |
+| 霞ヶ関 | Kasumigaseki | | | |
+| 中央公園 | Central Park | | 新宿中央公園 Shinjuku Central Park | |
+| 花園神社 | Hanazono Shrine | | | |
+| 鴉羽神社 / 鴉羽 | Karasuba | | ruby からすば; 鴉羽神社 Karasuba Shrine | |
+| 新宿署 | Shinjuku Police / Shinjuku PD | | Togashi's police station | |
+| 国立国会図書館 / 国会図書館 | Diet Library | | National Diet Library ("Diet Library" in tight captions) | |
+| 都庁 | City Hall | | (not enforced) Tokyo Metropolitan Government Building; 都庁ロボ Tocho Robo | |
+| ドッグタグ | Dog Tag | | Shibukawa's Kabukicho cafe | |
+| カレー桃源郷 | Curry Shangri-La | | Kalpataru's curry shop | |
+| リグ・マサラヴェーダ | Rig Masala Veda | | Kalpataru's curry shop (sign name) | |
+| イエス！サブリミナル | Yes! Subliminal | | toy shop | |
+| 千枚葉湯 | Mille-Feuille | | ruby ミルフィーユ; the Mille-Feuille Bath (bathhouse) | |
+| 五龍山 | Mount Goryu | | 五龍城 Goryu Castle | |
+| 春の洞 | Spring Hollow / (Spring) | | "(Spring)" only as an enemy-name suffix | |
+| 夏の洞 | Summer Hollow / (Summer) | | as above | |
+| 秋の洞 | Autumn Hollow | | 大洞 great Hollow | |
+| 冬の洞 | Winter Hollow / (Winter) | | as above | |
+| 四季の洞 | Four Seasons Hollow | | | |
+| 龍穴 | Dragon Lair | | 人工龍穴 Artificial Dragon Lair | |
+| 生徒会 | student council / council | | 生徒会長 Student Council President | |
+| 風紀委員 | disciplinary committee | | | |
+| 司書室 | Librarian's Office / Librarian's Room | | "Room" only in the 18b EBOOT location name and its key | |
+| 進路指導室 | Guidance Office | | | |
+| 武道場 | Martial Arts Hall | | | |
+| 下駄箱 | shoe locker | | caption "Shoe Lockers" | |
+| グラウンド | Athletic Field | | (not enforced) caption "Athletic Field--"; "field" in dialogue | |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |
@@ -126,6 +173,60 @@ separates alternatives) and the Avoid column.
 | 五光ノ獣 / 五光の獣 | Five Brights Beast | | | |
 | 白札 | White Card | | | |
 | 帝都防衛軍 | Imperial Defense Force | | | Capital Defenders |
+| 帝都 | Imperial Capital | | (not enforced) short table text may say "capital" | |
+| 氣 | ki | | (not enforced) capital Ki in 《氣》; prose may say "energy"/"spirit"; not "Qi" | |
+| 勁術 | Keijutsu | | ruby けいじゅつ | |
+| 大いなる遺志 | Great Will | | | |
+| 極めし者 | Adept | | ruby アデプト | |
+| 虚空蔵 | Akashic Record | | ruby アカシックレコード | |
+| 鳳凰 | Phoenix | | the Paulownia Bright card | |
+| 人札 | Man Card | | | |
+| 特課試札 | Division Trial Card / Trial Card | | | |
+| 人龍計画 | Human Dragon Project | | | |
+| 分龍 | Branch Dragon | | (not enforced) prose: "a branch of the dragon vein" | |
+| 特務課 / 収集部特務課 / 国立国会図書館収集部特務課 | Special Duties Division / Collection Division | | National Diet Library Collection Department, Special Duties Division (Isachi's unit); dictionary title "Collection Division" | |
+| 内閣緊急事態管理室 | Cabinet Emergency Management Office / JEMA | | | |
+| ＪＥＭＡ | JEMA | | | |
+| 特別機動捜査隊 | Special Mobile Investigation Unit | | 機捜隊 mobile investigation unit | |
+| 総括官補佐 / 総括参事官補佐 / 筑紫総括官補佐 / 統括官補佐 | Assistant Director-General | | Chikushi's JEMA title | |
+| 少年課 | Juvenile | | Juvenile Division (police) | |
+| 宮内庁 | Imperial Household Agency | | | |
+| 富樫刑事 | Detective Togashi | | | |
+| 盗賊王 | Bandit King | | Gio | |
+| オカシラ | Boss | | the Bandits' (and Angie's) name for Gio | |
+| 黒き札 | Black Card | | | |
+| 神札 | Divine Card | | old name for ORDS | |
+| 隠札 | Hidden Card | | old name for ORDS | |
+| 太陽の石 | Sun Stone | | | |
+| 札憑きの印 | Mark of the Card-Possessed | | | |
+| 情報の断片 | fragment | | Information Fragments in 《》 | |
+| 東京ＢＭ | Tokyo BM | | masked hero / hero show | |
+| 夜刀神 / 夜刀 | Yatogami / Yato | | serpent god; 夜刀さん Lord Yato | |
+| 仔犬 | pup | | Ken's 仔犬ちゃん for Suzu: "the little pup" (no -chan) | |
+| 白殿 | Lady Mao | | Ken's address for Mao (殿 -> Lord/Lady) | |
+| 白札の君 | Lady of the White Card | | | |
+| 竜胆の君 | Gentian Prince | | Dokai's beloved | |
+| 相棒 | partner | | Toji's word for the hero | |
+| ぬしさま | Master | | Suzu's address for the hero | |
+| お嬢 | young miss | | (not enforced) Ken, of Asako: "the young miss" | |
+| 居候 | freeloader | | (not enforced) Togashi/Seishiro on the hero; "lodger" in neutral lines | |
+| 四角 | square / squarish / squaaare | | Shu's catchword, kept literal | |
+| 押忍 | Osu | | | |
+| 情報屋 | info broker / information broker / informant | | | |
+| 旋火流 / 旋火 | Senka | | Senka-ryu, Rin's ninja school (旋火流忍法 Senka-ryu Ninja Art), not "Senkaryu" | |
+| 忍法 | Ninja Art / Ninja | | | |
+| 大散華 | Big Bang | | ruby ビックバン | |
+| 英雄拳 | Hero Knuckle | | ruby ヒーロー・ナックル | |
+| 陰陽師 | onmyoji | | | |
+| 式神 | shikigami | | (not enforced) "familiar" in short quest text | |
+| 賀茂 | Kamo | | | |
+| 天神玉命 | Amanokamutama | | | |
+| 七不思議 / 學園七不思議 | Seven Mysteries | | | |
+| 黒服 | men in black / man in black | | | |
+| 狛犬 | komainu / guardian dog / lion-dog | | | |
+| 覆面の男 | masked man | | | |
+| 加哩魔神 | Asura Curry | | | |
+| 仲間スキル | Partner Skill | | systemtext "Partner Skill(s)"; 仲間 = partner in menus | Ally Skill |
 
 ## Decisions from earlier batches
 - wave 0: full names from the EBOOT profiles: Ichiru Muto, Shu Takarakata, Gio Onimaru, Migiri Kashima, Kaname
@@ -140,3 +241,5 @@ separates alternatives) and the Avoid column.
   Animal / Ribbon / Chaff cards; 屑 Chaff; 赤短/青短 Red/Blue Ribbon; あかよろし/みよしの Poetry Ribbon.
 - wave 0: honorifics only after names; 敵さん "the enemy", オレ様 "the great me" (not "-san"/"Ore-sama").
 - wave 0: ☆ -> `~`; button glyphs spelled (Triangle, Circle, Cross, Square); full-width ％ in a printf string -> `%%`.
+- review fixes: item stat lines use the b045 format "Stat +N  Stat -N" (two spaces between pairs); weapon ailment
+  lines 攻撃した敵をN％の確率でX状態にする -> "Inflicts <ailment> (N%)." with systemtext ailment names.

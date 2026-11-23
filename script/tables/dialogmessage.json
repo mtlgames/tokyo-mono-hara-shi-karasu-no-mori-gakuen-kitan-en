@@ -171,13 +171,13 @@
   "id": "dialogmessage:0022:04",
   "jp": "依頼はこれ以上受けることができません",
   "refs": 1,
-  "en": "You can't accept any more requests."
+  "en": "You can't accept any more quests."
  },
  {
   "id": "dialogmessage:0023:04",
   "jp": "依頼を一つも受けていません",
   "refs": 1,
-  "en": "You haven't accepted any requests."
+  "en": "You haven't accepted any quests."
  },
  {
   "id": "dialogmessage:0024:04",
@@ -213,7 +213,7 @@
   "id": "dialogmessage:0029:04",
   "jp": "受けられる依頼がありませんでした\n同じ場所のクエストは同時に受注できません。",
   "refs": 1,
-  "en": "No requests available.\nQuests at the same location can't be taken at once."
+  "en": "No quests available.\nQuests at the same location can't be taken at once."
  },
  {
   "id": "dialogmessage:0030:04",
@@ -225,43 +225,43 @@
   "id": "dialogmessage:0031:04",
   "jp": "依頼がありませんでした",
   "refs": 1,
-  "en": "There were no requests."
+  "en": "There were no quests."
  },
  {
   "id": "dialogmessage:0032:04",
   "jp": "中断すると、依頼人の信頼度が下がります。\nこの依頼を断りますか？",
   "refs": 1,
-  "en": "Quitting will lower the client's trust.\nDecline this request?"
+  "en": "Quitting will lower the client's trust.\nDecline this quest?"
  },
  {
   "id": "dialogmessage:0033:04",
   "jp": "中断すると、再び通信するまで\nこのプレイヤーの依頼を受けられません。\nこの依頼を断りますか？",
   "refs": 1,
-  "en": "If you quit, you can't take this player's requests\nuntil you connect again.\nDecline this request?"
+  "en": "If you quit, you can't take this player's quests until\nyou connect again.\nDecline this quest?"
  },
  {
   "id": "dialogmessage:0034:04",
   "jp": "この依頼を断りますか？",
   "refs": 1,
-  "en": "Decline this request?"
+  "en": "Decline this quest?"
  },
  {
   "id": "dialogmessage:0035:04",
   "jp": "依頼を断りました",
   "refs": 1,
-  "en": "Request declined."
+  "en": "Quest declined."
  },
  {
   "id": "dialogmessage:0036:04",
   "jp": "依頼が完了しました",
   "refs": 1,
-  "en": "Request completed."
+  "en": "Quest completed."
  },
  {
   "id": "dialogmessage:0037:04",
   "jp": "プレイヤーの依頼が完了しました",
   "refs": 1,
-  "en": "The player's request is complete."
+  "en": "The player's quest is complete."
  },
  {
   "id": "dialogmessage:0038:04",
@@ -309,13 +309,13 @@
   "id": "dialogmessage:0045:04",
   "jp": "これ以上依頼を受けることができません",
   "refs": 1,
-  "en": "You can't accept any more requests."
+  "en": "You can't accept any more quests."
  },
  {
   "id": "dialogmessage:0046:04",
   "jp": "依頼を受けるのを失敗しました",
   "refs": 1,
-  "en": "Failed to accept the request."
+  "en": "Failed to accept the quest."
  },
  {
   "id": "dialogmessage:0047:04",
@@ -399,13 +399,13 @@
   "id": "dialogmessage:0057:04",
   "jp": "クリアしたデータをセーブしますか？",
   "refs": 1,
-  "en": "Save your cleared data?"
+  "en": "Save your clear data?"
  },
  {
   "id": "dialogmessage:0058:04",
   "jp": "クリアしたデータはセーブされていません。\nよろしいですか？",
   "refs": 1,
-  "en": "Your cleared data has not been saved.\nIs that OK?"
+  "en": "Your clear data has not been saved.\nIs that OK?"
  },
  {
   "id": "dialogmessage:0059:04",
@@ -453,6 +453,6 @@
   "id": "dialogmessage:0067:04",
   "jp": "プロフィールを削除します。\n受注している依頼も破棄されます。\nよろしいですか？",
   "refs": 1,
-  "en": "Delete this profile.\nAccepted requests will also be discarded.\nIs that OK?"
+  "en": "Delete this profile.\nAccepted quests will also be discarded.\nIs that OK?"
  }
 ]

@@ -127,6 +127,8 @@ def table_limit(entry):
 def eboot_limit(entry):
     """Slot bytes; moved to the freed pool when longer (insert.eboot_patch), capped here at 3x the JP."""
     import insert
+    if insert.fixed_slot(entry):  # array fields never move
+        return insert.eboot_room(entry) - 1
     return max(insert.eboot_room(entry) - 1, 3 * len(entry["jp"].encode(entry["enc"])))
 
 

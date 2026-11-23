@@ -147,7 +147,7 @@
   "id": "item:0007:0c",
   "jp": "白の髪飾りでもある榊の枝。\n攻撃した敵を４０％の確率で\n封呪状態にする。",
   "refs": 1,
-  "en": "A sakaki branch, also Mao's\nhair ornament. Seals enemies\nit hits (40%)."
+  "en": "A sakaki branch, also Mao's\nhair ornament. Inflicts Seal\nCurse (40%)."
  },
  {
   "id": "item:0007:10",
@@ -207,7 +207,7 @@
   "id": "item:0010:0c",
   "jp": "鴉乃杜學園生徒会特務部の\n標準装備品。\n攻撃した敵を１５％の確率で\n麻痺状態にする。",
   "refs": 1,
-  "en": "Standard gear of the Student\nCouncil Special Duties.\nParalyzes enemies it hits\n(15%)."
+  "en": "Standard gear of the Student\nCouncil Special Duties Unit.\nParalyzes enemies it hits\n(15%)."
  },
  {
   "id": "item:0010:10",
@@ -705,7 +705,7 @@
   "id": "item:0036:0c",
   "jp": "初心者向けの\nアコースティックギター。\n攻撃した敵を１０％の確率で\n封呪状態にする。",
   "refs": 1,
-  "en": "An acoustic guitar for\nbeginners. Seals enemies it\nhits (10%)."
+  "en": "An acoustic guitar for\nbeginners. Inflicts Seal\nCurse (10%)."
  },
  {
   "id": "item:0036:10",
@@ -1137,7 +1137,7 @@
   "id": "item:0058:0c",
   "jp": "熊谷次郎直実に討たれた\n平敦盛が持っていた笛。\n攻撃した敵を２５％の確率で\n睡眠状態にする。",
   "refs": 1,
-  "en": "Taira no Atsumori's flute;\nhe fell to Kumagai Naozane.\nSleeps enemies hit (25%)."
+  "en": "Taira no Atsumori's flute;\nhe fell to Kumagai Naozane.\nInflicts Sleep (25%)."
  },
  {
   "id": "item:0058:10",
@@ -1173,7 +1173,7 @@
   "id": "item:0060:0c",
   "jp": "源頼政が妖怪を射落とすのに\n用いた弓。\n攻撃した敵を５０％の確率で\n土呪状態にする。",
   "refs": 1,
-  "en": "The bow Minamoto no Yorimasa\nshot a yokai with. Earth\nCurses enemies hit (50%)."
+  "en": "The bow Minamoto no Yorimasa\nshot a yokai with. Inflicts\nEarth Curse (50%)."
  },
  {
   "id": "item:0060:10",
@@ -1191,7 +1191,7 @@
   "id": "item:0061:0c",
   "jp": "八岐大蛇の尾から現れた\n三種の神器のひとつ。\n攻撃した敵を１０％の確率で\n風呪状態にする。",
   "refs": 1,
-  "en": "Imperial Regalia, from the\nYamata no Orochi's tail.\nWind Curses enemies hit\n(10%)."
+  "en": "Imperial Regalia, from the\nYamata no Orochi's tail.\nInflicts Wind Curse (10%)."
  },
  {
   "id": "item:0061:10",
@@ -1323,7 +1323,7 @@
   "id": "item:0068:0c",
   "jp": "源実朝が歌に詠んだとされる\n武士の籠手。\n攻撃した敵を１０％の確率で\n氷呪状態にする。",
   "refs": 1,
-  "en": "A samurai gauntlet said to\nbe in a poem by Minamoto no\nSanetomo. Ice Curses foes\n(10%)."
+  "en": "A samurai gauntlet said to\nbe in a poem by Minamoto no\nSanetomo. Inflicts Ice Curse\n(10%)."
  },
  {
   "id": "item:0068:10",
@@ -1377,7 +1377,7 @@
   "id": "item:0071:0c",
   "jp": "天下三槍のひとつ。\n槍ながら正三位の官位を\n持つ。",
   "refs": 1,
-  "en": "One of the Three Great\nSpears. A spear, yet it\nholds Junior Third Court\nRank."
+  "en": "One of the Three Great\nSpears. A spear, yet it\nholds Senior Third Court\nRank."
  },
  {
   "id": "item:0071:10",
@@ -1527,7 +1527,7 @@
   "id": "item:0078:0c",
   "jp": "金剛杵という密教法具の\nひとつ。\n攻撃した敵を３０％の確率で\n封呪状態にする。",
   "refs": 1,
-  "en": "A type of vajra, an esoteric\nBuddhist ritual tool. Seals\nenemies it hits (30%)."
+  "en": "A type of vajra, an esoteric\nBuddhist ritual tool.\nInflicts Seal Curse (30%)."
  },
  {
   "id": "item:0078:10",
@@ -1545,7 +1545,7 @@
   "id": "item:0079:0c",
   "jp": "異国の神が持つとされる\n武器のひとつ。\n攻撃した敵を５０％の確率で\n氷呪状態にする。",
   "refs": 1,
-  "en": "A weapon said to belong to a\nforeign god. Ice Curses\nenemies it hits (50%)."
+  "en": "A weapon said to belong to a\nforeign god. Inflicts Ice\nCurse (50%)."
  },
  {
   "id": "item:0079:10",
@@ -1569,7 +1569,7 @@
   "id": "item:0080:0c",
   "jp": "江戸時代に知久氏が始め、\n作るようになった和傘。\n攻撃した敵を３０％の確率で\n封呪状態にする。",
   "refs": 1,
-  "en": "A Japanese umbrella first\nmade by the Chiku clan in\nEdo times. Seals foes hit\n(30%)."
+  "en": "A Japanese umbrella first\nmade by the Chiku clan in\nEdo times. Inflicts Seal\nCurse (30%)."
  },
  {
   "id": "item:0080:10",
@@ -1647,7 +1647,7 @@
   "id": "item:0084:0c",
   "jp": "正倉院宝物の琵琶。\n攻撃した敵を１０％の確率で\n睡眠状態にする。",
   "refs": 1,
-  "en": "A biwa lute from the Shosoin\ntreasures. Sleeps enemies it\nhits (10%)."
+  "en": "A biwa lute from the Shosoin\ntreasures. Inflicts Sleep\n(10%)."
  },
  {
   "id": "item:0084:10",
@@ -1665,7 +1665,7 @@
   "id": "item:0085:0c",
   "jp": "房のついた軍の指揮具。\n攻撃した敵を５０％の確率で\n炎呪状態にする。",
   "refs": 1,
-  "en": "A tasseled baton for\ncommanding troops. Fire\nCurses enemies it hits\n(50%)."
+  "en": "A tasseled baton for\ncommanding troops. Inflicts\nFire Curse (50%)."
  },
  {
   "id": "item:0085:10",
@@ -1893,7 +1893,7 @@
   "id": "item:0096:0c",
   "jp": "伊波礼毘古命が使用した弓。\n攻撃した敵を１０％の確率で\n骨折状態にする。",
   "refs": 1,
-  "en": "The bow used by Iwarebiko.\nFractures enemies it hits\n(10%)."
+  "en": "The bow used by Iwarebiko.\nInflicts Fracture (10%)."
  },
  {
   "id": "item:0096:10",
@@ -2091,7 +2091,7 @@
   "id": "item:0106:0c",
   "jp": "御霧が盗賊団員のために\n手編みで編んだらしい\nお腹が暖かくなる腹巻。",
   "refs": 1,
-  "en": "A belly warmer Migiri\napparently hand-knit for the\nthieves."
+  "en": "A belly warmer Migiri\napparently hand-knit for the\nBandits."
  },
  {
   "id": "item:0106:10",
@@ -2283,7 +2283,7 @@
   "id": "item:0115:14",
   "jp": "脚力＋5　体力＋7",
   "refs": 1,
-  "en": "Speed+5 Stamina+7"
+  "en": "Speed +5  Stamina +7"
  },
  {
   "id": "item:0116:04",
@@ -2301,7 +2301,7 @@
   "id": "item:0116:14",
   "jp": "判断力－7　瞬発力－5",
   "refs": 1,
-  "en": "Judgment-7 Reflexes-5"
+  "en": "Judgment -7  Reflexes -5"
  },
  {
   "id": "item:0117:04",
@@ -2325,7 +2325,7 @@
   "id": "item:0117:14",
   "jp": "瞬発力＋1",
   "refs": 2,
-  "en": "Reflexes+1"
+  "en": "Reflexes +1"
  },
  {
   "id": "item:0118:04",
@@ -2349,7 +2349,7 @@
   "id": "item:0118:14",
   "jp": "体力＋3",
   "refs": 1,
-  "en": "Stamina+3"
+  "en": "Stamina +3"
  },
  {
   "id": "item:0119:04",
@@ -2367,7 +2367,7 @@
   "id": "item:0119:14",
   "jp": "脚力＋4",
   "refs": 1,
-  "en": "Speed+4"
+  "en": "Speed +4"
  },
  {
   "id": "item:0120:04",
@@ -2385,7 +2385,7 @@
   "id": "item:0120:14",
   "jp": "生物＋3",
   "refs": 1,
-  "en": "Biology+3"
+  "en": "Biology +3"
  },
  {
   "id": "item:0121:04",
@@ -2409,7 +2409,7 @@
   "id": "item:0121:14",
   "jp": "体力＋2",
   "refs": 2,
-  "en": "Stamina+2"
+  "en": "Stamina +2"
  },
  {
   "id": "item:0122:04",
@@ -2427,7 +2427,7 @@
   "id": "item:0122:14",
   "jp": "体力＋7",
   "refs": 1,
-  "en": "Stamina+7"
+  "en": "Stamina +7"
  },
  {
   "id": "item:0123:04",
@@ -2451,7 +2451,7 @@
   "id": "item:0123:14",
   "jp": "現代社会＋4",
   "refs": 1,
-  "en": "Social Studies+4"
+  "en": "Social Studies +4"
  },
  {
   "id": "item:0124:04",
@@ -2475,7 +2475,7 @@
   "id": "item:0124:14",
   "jp": "瞬発力＋2",
   "refs": 1,
-  "en": "Reflexes+2"
+  "en": "Reflexes +2"
  },
  {
   "id": "item:0125:04",
@@ -2493,7 +2493,7 @@
   "id": "item:0125:14",
   "jp": "脚力＋2",
   "refs": 1,
-  "en": "Speed+2"
+  "en": "Speed +2"
  },
  {
   "id": "item:0126:04",
@@ -2529,7 +2529,7 @@
   "id": "item:0127:14",
   "jp": "精神力＋10　体力－10",
   "refs": 1,
-  "en": "Willpower+10 Stamina-10"
+  "en": "Willpower +10  Stamina -10"
  },
  {
   "id": "item:0128:04",
@@ -2547,7 +2547,7 @@
   "id": "item:0128:14",
   "jp": "体力＋3　精神－3",
   "refs": 1,
-  "en": "Stamina+3 Willpower-3"
+  "en": "Stamina +3  Willpower -3"
  },
  {
   "id": "item:0129:04",
@@ -2565,7 +2565,7 @@
   "id": "item:0129:14",
   "jp": "判断力＋10",
   "refs": 1,
-  "en": "Judgment+10"
+  "en": "Judgment +10"
  },
  {
   "id": "item:0130:04",
@@ -2589,7 +2589,7 @@
   "id": "item:0130:14",
   "jp": "判断力－3",
   "refs": 1,
-  "en": "Judgment-3"
+  "en": "Judgment -3"
  },
  {
   "id": "item:0131:04",
@@ -2613,7 +2613,7 @@
   "id": "item:0131:14",
   "jp": "瞬発力＋10　脚力＋5",
   "refs": 1,
-  "en": "Reflexes+10 Speed+5"
+  "en": "Reflexes +10  Speed +5"
  },
  {
   "id": "item:0132:04",
@@ -2631,7 +2631,7 @@
   "id": "item:0132:14",
   "jp": "判断力＋4",
   "refs": 1,
-  "en": "Judgment+4"
+  "en": "Judgment +4"
  },
  {
   "id": "item:0133:04",
@@ -2649,7 +2649,7 @@
   "id": "item:0133:14",
   "jp": "体育＋1",
   "refs": 2,
-  "en": "P.E.+1"
+  "en": "P.E. +1"
  },
  {
   "id": "item:0134:04",
@@ -2667,7 +2667,7 @@
   "id": "item:0134:14",
   "jp": "脚力＋30　体力－20",
   "refs": 1,
-  "en": "Speed+30 Stamina-20"
+  "en": "Speed +30  Stamina -20"
  },
  {
   "id": "item:0135:04",
@@ -2685,7 +2685,7 @@
   "id": "item:0135:14",
   "jp": "脚力＋５",
   "refs": 1,
-  "en": "Speed+5"
+  "en": "Speed +5"
  },
  {
   "id": "item:0136:04",
@@ -2715,7 +2715,7 @@
   "id": "item:0137:14",
   "jp": "脚力＋20　体力－10",
   "refs": 1,
-  "en": "Speed+20 Stamina-10"
+  "en": "Speed +20  Stamina -10"
  },
  {
   "id": "item:0138:04",
@@ -2733,7 +2733,7 @@
   "id": "item:0138:14",
   "jp": "判断力＋2",
   "refs": 2,
-  "en": "Judgment+2"
+  "en": "Judgment +2"
  },
  {
   "id": "item:0139:04",
@@ -2751,7 +2751,7 @@
   "id": "item:0139:14",
   "jp": "脚力＋30　精神力－30",
   "refs": 1,
-  "en": "Speed+30 Willpower-30"
+  "en": "Speed +30  Willpower -30"
  },
  {
   "id": "item:0140:04",
@@ -2769,7 +2769,7 @@
   "id": "item:0140:14",
   "jp": "外国語＋4　国語－4",
   "refs": 1,
-  "en": "Languages+4 Japanese-4"
+  "en": "Languages +4  Japanese -4"
  },
  {
   "id": "item:0141:04",
@@ -2787,7 +2787,7 @@
   "id": "item:0141:14",
   "jp": "保健＋3",
   "refs": 1,
-  "en": "Health+3"
+  "en": "Health +3"
  },
  {
   "id": "item:0142:04",
@@ -2823,7 +2823,7 @@
   "id": "item:0143:14",
   "jp": "判断力－2",
   "refs": 1,
-  "en": "Judgment-2"
+  "en": "Judgment -2"
  },
  {
   "id": "item:0144:04",
@@ -2841,7 +2841,7 @@
   "id": "item:0144:14",
   "jp": "瞬発力＋10　判断力＋10",
   "refs": 1,
-  "en": "Reflexes+10 Judgment+10"
+  "en": "Reflexes +10  Judgment +10"
  },
  {
   "id": "item:0145:04",
@@ -2865,7 +2865,7 @@
   "id": "item:0145:14",
   "jp": "精神力＋5",
   "refs": 1,
-  "en": "Willpower+5"
+  "en": "Willpower +5"
  },
  {
   "id": "item:0146:04",
@@ -2943,7 +2943,7 @@
   "id": "item:0149:14",
   "jp": "脚力＋８",
   "refs": 1,
-  "en": "Speed+8"
+  "en": "Speed +8"
  },
  {
   "id": "item:0150:04",
@@ -2967,7 +2967,7 @@
   "id": "item:0150:14",
   "jp": "封呪予防",
   "refs": 2,
-  "en": "Prevents Seal"
+  "en": "Prevents Seal Curse"
  },
  {
   "id": "item:0151:04",
@@ -3009,7 +3009,7 @@
   "id": "item:0152:14",
   "jp": "春属性＋５％　夏属性－３％",
   "refs": 1,
-  "en": "Spring+5% Summer-3%"
+  "en": "Spring +5%  Summer -3%"
  },
  {
   "id": "item:0153:04",
@@ -3081,7 +3081,7 @@
   "id": "item:0157:14",
   "jp": "判断力＋３０　体力－２５",
   "refs": 1,
-  "en": "Judgment+30 Stamina-25"
+  "en": "Judgment +30  Stamina -25"
  },
  {
   "id": "item:0158:04",
@@ -3189,7 +3189,7 @@
   "id": "item:0163:14",
   "jp": "攻撃ＡＰ消費－１０％",
   "refs": 1,
-  "en": "Attack AP Cost-10%"
+  "en": "Attack AP cost -10%"
  },
  {
   "id": "item:0164:04",
@@ -3225,7 +3225,7 @@
   "id": "item:0165:14",
   "jp": "最大ＨＰ＋20％",
   "refs": 1,
-  "en": "Max HP+20%"
+  "en": "Max HP +20%"
  },
  {
   "id": "item:0166:04",
@@ -3249,7 +3249,7 @@
   "id": "item:0166:14",
   "jp": "国語－3",
   "refs": 1,
-  "en": "Japanese-3"
+  "en": "Japanese -3"
  },
  {
   "id": "item:0167:04",
@@ -3309,7 +3309,7 @@
   "id": "item:0169:14",
   "jp": "瞬発力＋７",
   "refs": 1,
-  "en": "Reflexes+7"
+  "en": "Reflexes +7"
  },
  {
   "id": "item:0170:04",
@@ -3327,7 +3327,7 @@
   "id": "item:0170:14",
   "jp": "アイテム拾得率＋50％",
   "refs": 1,
-  "en": "Item Find Rate+50%"
+  "en": "Item find rate +50%"
  },
  {
   "id": "item:0171:04",
@@ -3429,7 +3429,7 @@
   "id": "item:0177:14",
   "jp": "攻撃力＋３０％",
   "refs": 1,
-  "en": "Attack+30%"
+  "en": "Attack +30%"
  },
  {
   "id": "item:0178:04",
@@ -3495,7 +3495,7 @@
   "id": "item:0181:14",
   "jp": "最大ＨＰ＋10％",
   "refs": 1,
-  "en": "Max HP+10%"
+  "en": "Max HP +10%"
  },
  {
   "id": "item:0182:04",
@@ -3531,7 +3531,7 @@
   "id": "item:0183:14",
   "jp": "判断力＋６",
   "refs": 1,
-  "en": "Judgment+6"
+  "en": "Judgment +6"
  },
  {
   "id": "item:0184:04",
@@ -3549,7 +3549,7 @@
   "id": "item:0184:14",
   "jp": "脚力－10",
   "refs": 1,
-  "en": "Speed-10"
+  "en": "Speed -10"
  },
  {
   "id": "item:0185:04",
@@ -3567,7 +3567,7 @@
   "id": "item:0185:14",
   "jp": "冬氷属性＋１０％",
   "refs": 1,
-  "en": "Winter Ice+10%"
+  "en": "Winter Ice +10%"
  },
  {
   "id": "item:0186:04",
@@ -3603,7 +3603,7 @@
   "id": "item:0187:14",
   "jp": "精神力＋３",
   "refs": 1,
-  "en": "Willpower+3"
+  "en": "Willpower +3"
  },
  {
   "id": "item:0188:04",
@@ -3621,7 +3621,7 @@
   "id": "item:0188:14",
   "jp": "瞬発力－2",
   "refs": 1,
-  "en": "Reflexes-2"
+  "en": "Reflexes -2"
  },
  {
   "id": "item:0189:04",
@@ -3645,7 +3645,7 @@
   "id": "item:0189:14",
   "jp": "瞬発力－4",
   "refs": 1,
-  "en": "Reflexes-4"
+  "en": "Reflexes -4"
  },
  {
   "id": "item:0190:04",
@@ -3663,7 +3663,7 @@
   "id": "item:0190:14",
   "jp": "秘法眼コスト＋40％",
   "refs": 1,
-  "en": "Arcane Eye Cost+40%"
+  "en": "Arcane Eye cost +40%"
  },
  {
   "id": "item:0191:04",
@@ -3675,7 +3675,7 @@
   "id": "item:0191:0c",
   "jp": "源義家が後三年の役の際、\n八大龍王の形を型取った鎧。\n源家八領のひとつ。",
   "refs": 1,
-  "en": "Yoshiie's Later Three-Year\nWar armor, modeled on the\nEight Dragon Kings. One of\nthe Genji's Eight."
+  "en": "Yoshiie's Gosannen War\narmor, modeled on the Eight\nDragon Kings. One of the\nGenji's Eight Armors."
  },
  {
   "id": "item:0191:14",
@@ -3957,7 +3957,7 @@
   "id": "item:0205:14",
   "jp": "15％の確率で封呪を回復",
   "refs": 1,
-  "en": "Cures Seal (15%)"
+  "en": "Cures Seal Curse (15%)"
  },
  {
   "id": "item:0206:04",
@@ -4173,7 +4173,7 @@
   "id": "item:0219:14",
   "jp": "10％の確率で封呪を回復",
   "refs": 1,
-  "en": "Cures Seal (10%)"
+  "en": "Cures Seal Curse (10%)"
  },
  {
   "id": "item:0220:04",
@@ -4467,7 +4467,7 @@
   "id": "item:0235:10",
   "jp": "脚力＋1",
   "refs": 1,
-  "en": "Speed+1"
+  "en": "Speed +1"
  },
  {
   "id": "item:0236:04",
@@ -4551,7 +4551,7 @@
   "id": "item:0240:10",
   "jp": "判断力＋1",
   "refs": 1,
-  "en": "Judgment+1"
+  "en": "Judgment +1"
  },
  {
   "id": "item:0241:04",
@@ -5097,7 +5097,7 @@
   "id": "item:0276:10",
   "jp": "瞬発力＋5",
   "refs": 1,
-  "en": "Reflexes+5"
+  "en": "Reflexes +5"
  },
  {
   "id": "item:0277:04",
@@ -5133,7 +5133,7 @@
   "id": "item:0278:10",
   "jp": "精神力＋3",
   "refs": 1,
-  "en": "Willpower+3"
+  "en": "Willpower +3"
  },
  {
   "id": "item:0279:04",
@@ -5655,7 +5655,7 @@
   "id": "item:0317:10",
   "jp": "生物＋1　国語－1",
   "refs": 1,
-  "en": "Biology+1 Japanese-1"
+  "en": "Biology +1  Japanese -1"
  },
  {
   "id": "item:0317:14",
@@ -5679,7 +5679,7 @@
   "id": "item:0318:10",
   "jp": "生物＋1　数学－1",
   "refs": 1,
-  "en": "Biology+1 Math-1"
+  "en": "Biology +1  Math -1"
  },
  {
   "id": "item:0319:04",
@@ -5697,7 +5697,7 @@
   "id": "item:0319:10",
   "jp": "生物＋2",
   "refs": 1,
-  "en": "Biology+2"
+  "en": "Biology +2"
  },
  {
   "id": "item:0320:04",
@@ -5715,7 +5715,7 @@
   "id": "item:0320:10",
   "jp": "生物＋1　保健－1",
   "refs": 1,
-  "en": "Biology+1 Health-1"
+  "en": "Biology +1  Health -1"
  },
  {
   "id": "item:0321:04",
@@ -5733,7 +5733,7 @@
   "id": "item:0321:10",
   "jp": "国語＋1　数学－1",
   "refs": 1,
-  "en": "Japanese+1 Math-1"
+  "en": "Japanese +1  Math -1"
  },
  {
   "id": "item:0322:04",
@@ -5751,7 +5751,7 @@
   "id": "item:0322:10",
   "jp": "生物＋1",
   "refs": 1,
-  "en": "Biology+1"
+  "en": "Biology +1"
  },
  {
   "id": "item:0323:04",
@@ -5769,7 +5769,7 @@
   "id": "item:0323:10",
   "jp": "数学＋2　外国語－2",
   "refs": 1,
-  "en": "Math+2 Languages-2"
+  "en": "Math +2  Languages -2"
  },
  {
   "id": "item:0324:04",
@@ -5787,7 +5787,7 @@
   "id": "item:0324:10",
   "jp": "国語＋2",
   "refs": 1,
-  "en": "Japanese+2"
+  "en": "Japanese +2"
  },
  {
   "id": "item:0325:04",
@@ -5895,7 +5895,7 @@
   "id": "item:0330:10",
   "jp": "保健＋1　生物－1",
   "refs": 1,
-  "en": "Health+1 Biology-1"
+  "en": "Health +1  Biology -1"
  },
  {
   "id": "item:0331:04",
@@ -5913,7 +5913,7 @@
   "id": "item:0331:10",
   "jp": "保健＋2　体育－1",
   "refs": 1,
-  "en": "Health+2 P.E.-1"
+  "en": "Health +2  P.E. -1"
  },
  {
   "id": "item:0332:04",
@@ -5931,7 +5931,7 @@
   "id": "item:0332:10",
   "jp": "保健＋1　数学＋1",
   "refs": 1,
-  "en": "Health+1 Math+1"
+  "en": "Health +1  Math +1"
  },
  {
   "id": "item:0333:04",
@@ -5949,7 +5949,7 @@
   "id": "item:0333:10",
   "jp": "生物＋2　保健－1",
   "refs": 1,
-  "en": "Biology+2 Health-1"
+  "en": "Biology +2  Health -1"
  },
  {
   "id": "item:0334:04",
@@ -5967,7 +5967,7 @@
   "id": "item:0334:10",
   "jp": "数学＋2　国語＋1",
   "refs": 1,
-  "en": "Math+2 Japanese+1"
+  "en": "Math +2  Japanese +1"
  },
  {
   "id": "item:0335:04",
@@ -5985,7 +5985,7 @@
   "id": "item:0335:10",
   "jp": "国語＋2　保健－1",
   "refs": 1,
-  "en": "Japanese+2 Health-1"
+  "en": "Japanese +2  Health -1"
  },
  {
   "id": "item:0336:04",
@@ -6003,7 +6003,7 @@
   "id": "item:0336:10",
   "jp": "数学＋2　外国語－1",
   "refs": 1,
-  "en": "Math+2 Languages-1"
+  "en": "Math +2  Languages -1"
  },
  {
   "id": "item:0337:04",
@@ -6081,7 +6081,7 @@
   "id": "item:0341:10",
   "jp": "攻撃力270　消費ＡＰ15",
   "refs": 1,
-  "en": "Attack 270 AP Cost 15"
+  "en": "Attack 270  AP Cost 15"
  },
  {
   "id": "item:0342:04",
@@ -6099,13 +6099,13 @@
   "id": "item:0342:10",
   "jp": "攻撃力888　消費ＡＰ0",
   "refs": 1,
-  "en": "Attack 888 AP Cost 0"
+  "en": "Attack 888  AP Cost 0"
  },
  {
   "id": "item:0342:14",
   "jp": "弾数10　再装填消費AP150",
   "refs": 1,
-  "en": "Shots 10, Reload 150 AP"
+  "en": "Ammo 10  Reload AP 150"
  },
  {
   "id": "item:0343:04",
@@ -6123,7 +6123,7 @@
   "id": "item:0343:10",
   "jp": "攻撃力888　消費ＡＰ8",
   "refs": 1,
-  "en": "Attack 888 AP Cost 8"
+  "en": "Attack 888  AP Cost 8"
  },
  {
   "id": "item:0343:14",
@@ -6147,6 +6147,6 @@
   "id": "item:0344:14",
   "jp": "弾数1　再装填消費AP0",
   "refs": 1,
-  "en": "Shots 1, Reload 0 AP"
+  "en": "Ammo 1  Reload AP 0"
  }
 ]

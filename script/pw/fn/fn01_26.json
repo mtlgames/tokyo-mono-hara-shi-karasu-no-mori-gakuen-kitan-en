@@ -172,7 +172,7 @@
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": "Arrange a quest"
+  "en": "Handle a quest"
  },
  {
   "id": "fn01_26:ksf:075ee",
@@ -186,7 +186,7 @@
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": "Arrange a quest"
+  "en": "Handle a quest"
  },
  {
   "id": "fn01_26:ksf:07f3a",
@@ -200,7 +200,7 @@
   "kind": "choice",
   "jp": "依頼の手続きをする",
   "slot": 30,
-  "en": "Arrange a quest"
+  "en": "Handle a quest"
  },
  {
   "id": "fn01_26:ksf:09196",

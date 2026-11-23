@@ -100,8 +100,8 @@ def test_eboot_in_place(sc):
     insert.eboot_patch(d, Fixed({x["id"]: "Hi"}), {"eboot.json": [x]})
     assert d[off:off + room] == b"Hi".ljust(room, b"\0")
     assert d[:off] == orig[:off] and d[off + room:] == orig[off + room:]
-    with pytest.raises(ValueError):
-        insert.eboot_patch(bytearray(orig), Fixed({x["id"]: "x" * room}), {"eboot.json": [x]})
+    # too long and nowhere to move: keeps its Japanese
+    assert insert.eboot_patch(bytearray(orig), Fixed({x["id"]: "x" * room}), {"eboot.json": [x]}) == orig
 
 
 def test_eboot_move(sc):
@@ -128,9 +128,8 @@ def test_eboot_move(sc):
         assert len(at) == 1, x["id"]
         o = at[0] + eboot.FILE0
         assert d[o:d.index(b"\0", o)] == en[x["id"]].encode()
-    with pytest.raises(ValueError):  # no room for this much
-        insert.eboot_patch(bytearray(eboot_text.ELF.read_bytes()), Fixed({data_x["id"]: "D" * 5000}),
-                           {"eboot.json": [data_x]})
+    orig = eboot_text.ELF.read_bytes()  # no room for this much: the string keeps its Japanese
+    assert insert.eboot_patch(bytearray(orig), Fixed({data_x["id"]: "D" * 5000}), {"eboot.json": [data_x]}) == orig
 
 
 def test_non_text_never_marked(sc):

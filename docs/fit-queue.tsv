@@ -1,4 +1,8 @@
 id	English	problem
+ms01_01:151:03	You're a Card Sealer, aren't you, Master? Then that / explains it!	honorific さま needs -sama
+dictionary:0018:04	Yin-Yang and Five / Elements	over 20b / 1 lines of 20b: [17, 8]
+dictionary:0039:04	Karasu no Mori / Academy	over 20b / 1 lines of 20b: [14, 7]
+dungeondoorexplain:0000:04	Door	over 2b / 1 lines of 2b: [4]
 hanafuda:0000:08	Winter / Chaff	over 7b / 1 lines of 7b: [6, 5]
 hanafuda:0002:04	Pine Poetry / Ribbon	over 14b / 1 lines of 14b: [11, 6]
 hanafuda:0002:08	Winter / Ribbon	over 7b / 1 lines of 7b: [6, 6]
@@ -48,11 +52,12 @@ hanafuda:0044:04	Paulownia and / Maker's Mark	over 14b / 1 lines of 14b: [13, 12
 hanafuda:0045:04	Paulownia / Chaff I	over 14b / 1 lines of 14b: [9, 7]
 hanafuda:0046:04	Paulownia / Chaff II	over 14b / 1 lines of 14b: [9, 8]
 hanafuda:0047:04	Paulownia and / Phoenix	over 14b / 1 lines of 14b: [13, 7]
-item:0326:10	Social Studies+1 / Japanese-1	over 24b / 1 lines of 24b: [16, 10]
-item:0327:10	Social Studies+1 / Health-1	over 24b / 1 lines of 24b: [16, 8]
-item:0328:10	Social Studies+1 / Biology-1	over 24b / 1 lines of 24b: [16, 9]
-dictionary:0018:04	Yin-Yang and Five / Elements	over 20b / 1 lines of 20b: [17, 8]
-dictionary:0039:04	Karasu no Mori / Academy	over 20b / 1 lines of 20b: [14, 7]
+item:0325:10	Math +2  Social Studies / -1	over 24b / 1 lines of 24b: [23, 2]
+item:0326:10	Social Studies +1  / Japanese -1	over 24b / 1 lines of 24b: [18, 11]
+item:0327:10	Social Studies +1  / Health -1	over 24b / 1 lines of 24b: [18, 9]
+item:0328:10	Social Studies +1  / Biology -1	over 24b / 1 lines of 24b: [18, 10]
+item:0329:10	Social Studies +1  Math / -1	over 24b / 1 lines of 24b: [23, 2]
+item:0339:04	Willow Red / Ribbon	over 16b / 1 lines of 16b: [10, 6]
 questclnt:0009:00	Imperial Defense / Force	over 18b / 1 lines of 18b: [16, 5]
 questrewarditem:0036:00	Imperial Defense / Force	over 18b / 1 lines of 18b: [16, 5]
-dungeondoorexplain:0000:04	Door	over 2b / 1 lines of 2b: [4]
+eboot:pool	~206 EBOOT strings keep Japanese (build WARNING lists ids)	EBOOT string pool ~1.6 KB short: grow the data segment past .bss (docs/re/text.md Free space)

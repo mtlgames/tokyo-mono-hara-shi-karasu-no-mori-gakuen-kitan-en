@@ -195,7 +195,7 @@
   "id": "help:0015:08",
   "jp": "自分のターン中は、行動するたびにＡＰを\n消費します。\nＡＰが無くなると移動や攻撃ができなくなります。自分のターンが終了するとＡＰは自動的に全回復します。\n\n主な行動にかかるAPは以下の通りです。\n\n・攻撃する　　　　武器ごとに設定\n・移動する　　　　ＡＰ５（１歩）\n・旋回する　　　　ＡＰ５（半回転）\n・ジャンプ　　　　ＡＰ４０（１回）\n・アイテム使用　　ＡＰ１０\n・装備変更　　　　ＡＰ３０\n・梯子を登る　　　ＡＰ１０\n・扉を開ける　　　ＡＰ３５\n・調べる、その他　ＡＰ５\n\nなお、これらの消費ＡＰ量は、\n花札の効果や状態異常、ステータスで\n変化する場合があります。\nまた、秘法眼、札配置、札強化、仲間スキルは使用してもＡＰを消費しません。\n\n戦闘中はＡＰが最大の状態で\nターンを終了することでＡＰの１０％分\n秘法眼ゲージを回復することができます。",
   "refs": 1,
-  "en": "On your turn, every action uses AP. Without AP you can't move or attack. AP refills fully when your turn ends.\n\nAP costs of the main actions:\n\n- Attack: set per weapon\n- Move: 5 AP (1 step)\n- Turn: 5 AP (half turn)\n- Jump: 40 AP (once)\n- Use item: 10 AP\n- Change gear: 30 AP\n- Climb ladder: 10 AP\n- Open door: 35 AP\n- Examine, etc.: 5 AP\n\nThese AP costs can change with hanafuda effects, status ailments and stats. The Arcane Eye, placing cards, Card\nEnhance and ally skills use no AP.\n\nIn battle, ending your turn with full AP restores Arcane Eye gauge equal to 10% of your AP."
+  "en": "On your turn, every action uses AP. Without AP you can't move or attack. AP refills fully when your turn ends.\n\nAP costs of the main actions:\n\n- Attack: set per weapon\n- Move: 5 AP (1 step)\n- Turn: 5 AP (half turn)\n- Jump: 40 AP (once)\n- Use item: 10 AP\n- Change gear: 30 AP\n- Climb ladder: 10 AP\n- Open door: 35 AP\n- Examine, etc.: 5 AP\n\nThese AP costs can change with hanafuda effects, status ailments and stats. The Arcane Eye, placing cards, Card\nEnhance and partner skills use no AP.\n\nIn battle, ending your turn with full AP restores Arcane Eye gauge equal to 10% of your AP."
  },
  {
   "id": "help:0016:08",
@@ -285,19 +285,19 @@
   "id": "help:0022:04",
   "jp": "仲間スキル",
   "refs": 2,
-  "en": "Ally Skills"
+  "en": "Partner Skills"
  },
  {
   "id": "help:0022:08",
   "jp": "同行している仲間キャラクターの能力を\n使うことができます。\n仲間になるキャラクターは、それぞれ\n固有の仲間スキルを持っています。\n\n仲間スキルを発動するためには、\nＲボタンでコマンドパレットを\n緑色のものにします。\n\nガイドに従って□ボタンを押すと、\nどちらの仲間スキルを使うかの選択に\nなります。使用したいスキルを持つ\nキャラクターを選択して、決定します。\n\n仲間スキルには使用回数があります。\nスキルの使用回数は、ダンジョンを\n出ることで回復させることができます。",
   "refs": 1,
-  "en": "You can use the abilities of the allies with you. Each character who joins you has a unique ally skill.\n\nTo activate an ally skill, press R to switch to the green command palette.\n\nFollow the guide and press Square to choose which ally skill to use. Select the character with the skill you\nwant and confirm.\n\nAlly skills have a limited number of uses. Their uses are restored when you leave the dungeon."
+  "en": "You can use the abilities of the partners with you. Each character who joins you has a unique partner skill.\n\nTo activate a partner skill, press R to switch to the green command palette.\n\nFollow the guide and press Square to choose which partner skill to use. Select the character with the skill you\nwant and confirm.\n\nPartner skills have a limited number of uses. Their uses are restored when you leave the dungeon."
  },
  {
   "id": "help:0023:08",
   "jp": "仲間スキルは一部の近接攻撃を除き、\n範囲内に存在する視認可能な\n全ての敵に命中させることができます。",
   "refs": 1,
-  "en": "Except for some melee attacks, ally skills hit every visible enemy within range."
+  "en": "Except for some melee attacks, partner skills hit every visible enemy within range."
  },
  {
   "id": "help:0024:04",
@@ -435,7 +435,7 @@
   "id": "help:0036:08",
   "jp": "成績表に表示されるステータスのうち、\nシステムに関係するのが学科値です。\n最大値は１０です。\n値を伸ばすと以下の効果があります。\n\n【国語】\n　仲間スキルレベルの算出を補正。\n【数学】\n　射撃武器の攻撃力と射程距離を補正。\n　（※射程７マス以上にはなりません）\n【外国語】\n　新しい依頼人が紹介されやすくなる。\n【体育】\n　ジャンプ・近接攻撃ＡＰ量を軽減。\n　ジャンプ飛距離が増加。\n【現代社会】\n　アイテム購入金額の割り引き補正。\n【保健】\n　自動ＨＰ回復量が増加。\n【生物】\n　状態異常にかかる確率を軽減。",
   "refs": 1,
-  "en": "Of the stats shown on the Report Card, subjects are the ones that affect game systems. The maximum is 10.\nRaising them has these effects:\n\n[Japanese]\nBoosts the ally skill level calculation.\n[Math]\nBoosts ranged weapon attack and range.\n(Range never exceeds 7 squares.)\n[Languages]\nNew clients are introduced more often.\n[P.E.]\nLowers AP for jumps and melee attacks.\nIncreases jump distance.\n[Social Studies]\nDiscount on item purchases.\n[Health]\nRaises automatic HP recovery.\n[Biology]\nLowers the chance of status ailments."
+  "en": "Of the stats shown on the Report Card, subjects are the ones that affect game systems. The maximum is 10.\nRaising them has these effects:\n\n[Japanese]\nBoosts the partner skill level calculation.\n[Math]\nBoosts ranged weapon attack and range.\n(Range never exceeds 7 squares.)\n[Languages]\nNew clients are introduced more often.\n[P.E.]\nLowers AP for jumps and melee attacks.\nIncreases jump distance.\n[Social Studies]\nDiscount on item purchases.\n[Health]\nRaises automatic HP recovery.\n[Biology]\nLowers the chance of status ailments."
  },
  {
   "id": "help:0037:04",

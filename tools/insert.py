@@ -275,22 +275,56 @@ TABLE_DIRS = ("app_init.pak/table/", "table/", "dungeon/")
 
 # --- EBOOT ---------------------------------------------------------------------------------------------------------
 
+# char[N] fields read by index from a table base (no pointer per string): the whole slot is the string's, and it must
+# never move (moving the base would shift every other entry)
+FIXED = [
+    (0x2D25B0, 0x2D2600, "dungeon names 秋の洞.., char[16] array (only the base is referenced)"),
+    (0x2D3A10, 0x2D411C, "nickname formats pnクン.., char[32] fields in per-character records (strides 0x20/0x24)"),
+]
+
+
+def fixed_slot(x):
+    off = int(x["id"].split(":")[1], 16)
+    return any(a <= off <= b for a, b, _ in FIXED)
+
+
 def eboot_room(x):
     """Bytes an in-place EBOOT string may use, NUL included: up to the slot's next 4-byte boundary after the original
-    NUL (zeros beyond that may be data)."""
+    NUL (zeros beyond that may be data); the whole slot for FIXED arrays."""
     off, n = int(x["id"].split(":")[1], 16), len(x["jp"].encode(x["enc"])) + 1
-    return min(x["slot"], (off + n + 3) // 4 * 4 - off)
+    return x["slot"] if fixed_slot(x) else min(x["slot"], (off + n + 3) // 4 * 4 - off)
 
 
 def eboot_patch(d, text, sc):
     """Write replaced EBOOT strings into the ELF bytearray d: in place when they fit, else moved into the room freed
     by moved strings and by the tails of shorter ones, every relocated pointer to them retargeted (docs/re/text.md
-    §Free space). A string moves only if the relocations account for at least the references eboot_text counted."""
+    §Free space). A string moves only if the relocations account for at least the references eboot_text counted.
+    When the pool runs out, the strings left over keep their Japanese (warning printed; queued in docs/fit-queue.tsv)."""
+    keep, d0 = set(), bytes(d)
+    while True:
+        try:
+            out = _eboot_patch(bytearray(d0), text, sc, keep)
+        except PoolFull as e:
+            keep |= e.ids
+            continue
+        if keep:
+            print(f"WARNING: EBOOT string pool full, {len(keep)} kept Japanese: {' '.join(sorted(keep))}")
+        d[:] = out
+        return d
+
+
+class PoolFull(ValueError):
+    def __init__(self, msg, ids):
+        super().__init__(msg)
+        self.ids = ids
+
+
+def _eboot_patch(d, text, sc, keep):
     import eboot
     free, move = [], []
     for x in sc.get("eboot.json", []):
         room = eboot_room(x)
-        en = text.get(x, "eboot", room - 1)
+        en = None if x["id"] in keep else text.get(x, "eboot", room - 1)
         if en is None:
             continue
         raw = ascii_bytes(en, x["id"]) + b"\0"
@@ -306,20 +340,27 @@ def eboot_patch(d, text, sc):
     for x, raw, off, room in move:
         ps = refs.get(off - eboot.FILE0, [])
         lo_ok = all(d[p[1] + eboot.FILE0 + 3] >> 2 != 0x0D for p in ps if p[0] == "lo")  # ori: unsigned lo, no move
-        if not ps or len(ps) < x["refs"] or not lo_ok:  # relocs may find more (eboot_text scans 12 insns)
+        if not ps or len(ps) < x["refs"] or not lo_ok or fixed_slot(x):  # relocs may find more (eboot_text scans 12 insns)
             raise ValueError(f"{x['id']}: {len(raw) - 1} bytes, slot holds {room - 1} and the string can't move "
                              f"({len(ps)} relocated refs, {x['refs']} counted)")
         d[off:off + room] = bytes(room)
         free.append([off, off + room])
     free.sort()
+    merged = []  # touching ranges (a moved slot + its neighbour's tail) become one, so long strings find room
+    for f in free:
+        if merged and f[0] <= merged[-1][1]:
+            merged[-1][1] = max(merged[-1][1], f[1])
+        else:
+            merged.append(f)
+    free, short = merged, []
     for x, raw, off, room in sorted(move, key=lambda m: -len(m[1])):
         va, ps = off - eboot.FILE0, refs[off - eboot.FILE0]
         fits = lambda a: ((a + 0x8000) >> 16 == (va + 0x8000) >> 16 and eboot.same_hi(va, a))
         f = next((f for f in free if f[1] - f[0] >= len(raw)
                   and (fits(f[0] - eboot.FILE0) or not any(p[0] == "lo" for p in ps))), None)
         if f is None:
-            raise ValueError(f"{x['id']}: {len(raw) - 1} bytes, slot holds {room - 1}; no room left in the EBOOT "
-                             "string pool (shorten it or other EBOOT strings)")
+            short.append(x["id"])
+            continue
         a, f[0] = f[0], f[0] + len(raw)
         d[a:a + len(raw)] = raw
         for kind, site, base, _ in ps:
@@ -327,6 +368,8 @@ def eboot_patch(d, text, sc):
             w = struct.unpack_from("<I", d, s)[0]
             new = a - eboot.FILE0 - base
             struct.pack_into("<I", d, s, new if kind == "word" else (w & 0xFFFF0000) | (new & 0xFFFF))
+    if short:
+        raise PoolFull(f"no room left in the EBOOT string pool for {len(short)} strings", set(short))
     return d
 
 

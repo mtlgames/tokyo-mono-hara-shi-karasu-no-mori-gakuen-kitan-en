@@ -3,13 +3,13 @@
   "id": "mail:0000:04",
   "jp": "☆キャンペーンのお知らせ☆",
   "refs": 1,
-  "en": "*Campaign Announcement*"
+  "en": "~Campaign Announcement~"
  },
  {
   "id": "mail:0000:08",
   "jp": "☆☆☆☆☆☆☆☆☆☆☆\nこんにちは、こちらはイエス!!サブリミナル新宿店です(^^)/\nいつも当店をご利用頂き誠にありがとうございます♪\nこのたび、当店で楽器をご購入された方の中から毎月抽選で１名様に、音楽ＣＤがプレゼントされるキャンペーンを行っております！！\n芸術の秋にあなたも演奏家になってみませんか？(*^^*)\n\nなお、抽選結果は発送をもって返させて頂きます。ご来店お待ちしてます(^0^)/\n☆☆☆☆☆☆☆☆☆☆☆\n（※当メールへの返信はできません）",
   "refs": 1,
-  "en": "***********\nHello, this is Yes!! Subliminal, Shinjuku branch (^^)/\nThank you so much for always shopping with us!\nWe are currently running a campaign where one lucky customer who buys an instrument at our store is drawn each month to\nreceive a free music CD!!\nAutumn is the season of the arts -- why not become a musician yourself? (*^^*)\n\nWinners will be notified only by delivery of their prize. We look forward to your visit (^0^)/\n***********\n(*Replies to this mail cannot be received.)"
+  "en": "~~~~~~~~~~~\nHello, this is Yes!! Subliminal, Shinjuku branch (^^)/\nThank you so much for always shopping with us!\nWe are currently running a campaign where one lucky customer who buys an instrument at our store is drawn each month to\nreceive a free music CD!!\nAutumn is the season of the arts -- why not become a musician yourself? (*^^*)\n\nWinners will be notified only by delivery of their prize. We look forward to your visit (^0^)/\n~~~~~~~~~~~\n(*Replies to this mail cannot be received.)"
  },
  {
   "id": "mail:0000:0c",
@@ -33,7 +33,7 @@
   "id": "mail:0001:0c",
   "jp": "【ＮＤＬ収特課】",
   "refs": 13,
-  "en": "NDL Division"
+  "en": "NDL Collection Div."
  },
  {
   "id": "mail:0002:04",
@@ -75,13 +75,13 @@
   "id": "mail:0004:08",
   "jp": "鴉ちゃんたち\nまだ捕まってなぃゎょね？（＞△＜;）\n\nいちぉぅ暗号化して\n八汎のサーバー経由で送ってます☆\n\n新宿署の富樫ちゃんからの情報だと\nＪＥＭＡは鴉乃杜から引き上げて\n新宿一帯でローラー作戦するみたぃ……？\n\n八汎なら安全ょ、話したい事もぁるから\n早く来てね☆\nミカみゅん、校門で仁王立ちしてるから！\nぃつまでも待ってるゎん☆\n\n\n　　☆アナタのモテかゎぇんじぇる☆\n　　　　　　☆ミカみゅん☆",
   "refs": 1,
-  "en": "To my little Karasu crows,\nu haven't been caught yet, have u? (>_<;)\n\nI encrypted this juuust in case\nand I'm sending it thru Yahiro's server*\n\nAccordin to my info from Togashi-chan at Shinjuku PD,\nJEMA's pulling out of Karasu no Mori\nand doing a sweep of the whole Shinjuku area...?\n\nYahiro is safe, and I've got stuff to tell u,\nso come quick*\nMikamyun will be standing guard at the school gate!\nI'll wait for u foreverrr*\n\n\n*Ur adorable lil angel*\n*Mikamyun*"
+  "en": "To my little Karasu crows,\nu haven't been caught yet, have u? (>_<;)\n\nI encrypted this juuust in case\nand I'm sending it thru Yahiro's server~\n\nAccordin to my info from Togashi-chan at Shinjuku PD,\nJEMA's pulling out of Karasu no Mori\nand doing a sweep of the whole Shinjuku area...?\n\nYahiro is safe, and I've got stuff to tell u,\nso come quick~\nMikamyun will be standing guard at the school gate!\nI'll wait for u foreverrr~\n\n\n~Ur adorable lil angel~\n~Mikamyun~"
  },
  {
   "id": "mail:0004:0c",
   "jp": "【八汎學院事務局】",
   "refs": 1,
-  "en": "Yahiro Admin Office"
+  "en": "Yahiro Academy Admin"
  },
  {
   "id": "mail:0005:04",
@@ -339,7 +339,7 @@
   "id": "mail:0024:08",
   "jp": "盗賊団とか本気で言い出す奴らが相手なんて、よくよく考えなくてもかなり気分が盛り上がってくる。\nこの間は忍者の子孫だろ？\n俺の目に狂いはなかったようだな。\nお前とつるんでると本当に退屈しないぜ。",
   "refs": 1,
-  "en": "Goin' up against guys who say \"gang of thieves\" with a straight face? Don't even gotta think about it, that gets me fired\nup.\nAnd last time it was ninja descendants, right?\nLooks like my eye for this stuff was spot on.\nHangin' with you is never boring, man."
+  "en": "Goin' up against guys who seriously call themselves \"bandits\"? Don't even gotta think about it, that gets me fired up.\nAnd last time it was ninja descendants, right?\nLooks like my eye for this stuff was spot on.\nHangin' with you is never boring, man."
  },
  {
   "id": "mail:0025:04",
@@ -849,13 +849,13 @@
   "id": "mail:0065:04",
   "jp": "初メールだみゅん☆",
   "refs": 1,
-  "en": "My 1st mail-myun*"
+  "en": "My 1st mail-myun~"
  },
  {
   "id": "mail:0065:08",
   "jp": "ぇへっ、ぅれしいからさっそくメール\nしてみたみゅん☆\nもぅ寝ちゃってたらごめんね。ミカみゅん\nどうしても、今日伝ぇたかったんだぁ。\n\nぁのね、さっきちゃんと言えなかったけど\n……ぁりがとぅ。\n\n(*ﾉ▽ﾉ)ｷｬｯ\n\nぉゃすみ☆\n\n\n　☆アナタのらぶり→ふ゜りんせす☆\n　　　　　　☆ミカみゅん☆",
   "refs": 1,
-  "en": "ehehe, i was sooo happy i mailed u\nright away-myun*\nsorry if ur already asleep. Mikamyun\njust HAD to tell u today.\n\nummm, i couldn't say it right earlier, but\n...thank u.\n\n(*/v\\*) kyaa\n\nnitey nite*\n\n\n*Ur luvly prinzess*\n*Mikamyun*"
+  "en": "ehehe, i was sooo happy i mailed u\nright away-myun~\nsorry if ur already asleep. Mikamyun\njust HAD to tell u today.\n\nummm, i couldn't say it right earlier, but\n...thank u.\n\n(*/v\\*) kyaa\n\nnitey nite~\n\n\n~Ur luvly prinzess~\n~Mikamyun~"
  },
  {
   "id": "mail:0065:0c",
@@ -867,37 +867,37 @@
   "id": "mail:0066:04",
   "jp": "ＬＯＶＥ　ＭＡＧＩＣ☆",
   "refs": 1,
-  "en": "LOVE MAGIC*"
+  "en": "LOVE MAGIC~"
  },
  {
   "id": "mail:0066:08",
   "jp": "すごぃ素敵なブ→ツ見⊃けちゃった☆\n制服に合ゎせてもかゎぃぃの☆☆\nきゃぁん、これって、運命の出会ぃ！？\nピンク⊃→デで、新しぃ恋……\n見⊃けちゃぅかも！！（≧▽≦）ﾉｼ\n\n\n　☆アナタのきゅ→てぃ→ふぇぁりぃ☆\n　　　　　　　☆ミカみゅん☆",
   "refs": 1,
-  "en": "i found the cutest b00ts*\nthey look sooo cute with my uniform too**\nkyaa, could this be destiny!?\nwith a pink outfit, maybe i'll find...\na new luv!! (>v<)/\n\n\n*Ur kyoot fairy*\n*Mikamyun*"
+  "en": "i found the cutest b00ts~\nthey look sooo cute with my uniform too~~\nkyaa, could this be destiny!?\nwith a pink outfit, maybe i'll find...\na new luv!! (>v<)/\n\n\n~Ur kyoot fairy~\n~Mikamyun~"
  },
  {
   "id": "mail:0067:04",
   "jp": "ぉはょぅ～☆（*＾ｖ＾*）",
   "refs": 1,
-  "en": "g'mornin~* (*^v^*)"
+  "en": "g'mornin~~ (*^v^*)"
  },
  {
   "id": "mail:0067:08",
   "jp": "今日はねぇ、ミカみゅん、とっても\n素敵な朝だったの。\n実はね……\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nアナタの夢、見・ちゃ・っ・た☆\n\nきゃァん、いけない子☆（〃∇〃）\n\n\n\n　☆アナタのシークレットふらゎぁ☆\n　　　　　　☆ミカみゅん☆",
   "refs": 1,
-  "en": "sooo today Mikamyun had a super\nlovely morning.\nu see...\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ni d-r-e-a-m-t about u*\n\nkyaa, what a naughty girl* (*^_^*)\n\n\n\n*Ur secret flower*\n*Mikamyun*"
+  "en": "sooo today Mikamyun had a super\nlovely morning.\nu see...\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ni d-r-e-a-m-t about u~\n\nkyaa, what a naughty girl~ (*^_^*)\n\n\n\n~Ur secret flower~\n~Mikamyun~"
  },
  {
   "id": "mail:0068:04",
   "jp": "【正義通信☆☆☆Ｖｏｌ．０８６】",
   "refs": 1,
-  "en": "[Justice Report***Vol. 086]"
+  "en": "[Justice Report~~~Vol. 086]"
  },
  {
   "id": "mail:0068:08",
   "jp": "やあ！正義を行ってるかな、同志の諸君！\n今回の通信は、パトロールの\n心得について伝えていきたいと思うッ！！\n\n①抜かりなく、抜け目なく！\n　悪の芽は何処にあるかわからない。\n　さあ、五感をフル活用するんだ！\n\n②挨拶は大きな声で！\n　人々に安心を与えるのが正義の勤め。\n　ヒーロースマイルも忘れずに！\n\n③躊躇うな！\n　悪を見つけたときは、己を信じて\n　ひた走れ！！\n\nこれで諸君はまたいちだんと、ヒーローと\nしての輝きを増す事になるだろうッ！\n諸君の熱く行き届いたヒーローパトロールを期待しているよ！\n\n\n☆英雄同好会☆",
   "refs": 1,
-  "en": "Hello! Are you doing justice, comrades?\nThis report is about the essentials\nof patrolling!!\n\n1. Be thorough, be watchful!\nYou never know where the seeds of evil lurk.\nNow, put all five senses to full use!\n\n2. Greet people in a loud voice!\nGiving people peace of mind is the duty of justice.\nAnd don't forget your hero smile!\n\n3. Don't hesitate!\nWhen you find evil, believe in yourself\nand charge ahead!!\n\nWith this, comrades, your heroic brilliance\nwill shine all the brighter!\nI look forward to your passionate, meticulous hero patrols!\n\n\n*Hero Club*"
+  "en": "Hello! Are you doing justice, comrades?\nThis report is about the essentials\nof patrolling!!\n\n1. Be thorough, be watchful!\nYou never know where the seeds of evil lurk.\nNow, put all five senses to full use!\n\n2. Greet people in a loud voice!\nGiving people peace of mind is the duty of justice.\nAnd don't forget your hero smile!\n\n3. Don't hesitate!\nWhen you find evil, believe in yourself\nand charge ahead!!\n\nWith this, comrades, your heroic brilliance\nwill shine all the brighter!\nI look forward to your passionate, meticulous hero patrols!\n\n\n~Hero Club~"
  },
  {
   "id": "mail:0068:0c",
@@ -909,19 +909,19 @@
   "id": "mail:0069:04",
   "jp": "【正義通信☆☆☆Ｖｏｌ．０８７】",
   "refs": 1,
-  "en": "[Justice Report***Vol. 087]"
+  "en": "[Justice Report~~~Vol. 087]"
  },
  {
   "id": "mail:0069:08",
   "jp": "やあ！正義を行ってるかな、同志の諸君！\n今回の通信は、初心に返って基礎の基礎、\nヒーローがヒーローたる所以！\n決めポーズのコツをまとめてみた。\n是非参考にして欲しい！\n\n①全身に気をみなぎらせよ！\n　指先を疎かにして正義は成立しない。\n　小指の先まで集中したまえ！\n　\n②間断なく行え！\n　激流のようにスピーディに、\n　それでいてしつこくなくまろやかに、\n　そして剛健に！\n　気合いで背後を爆発させるくらいに！！\n\n③恐れるな！\n　大胆に踏み出したまえ！\n　バランスを崩す？何をいう！\n　君の決めたそのポーズこそが、\n　天下無双のヒーロー像だッ！！\n\nこれで諸君はまたいちだんと、ヒーローと\nしての輝きを増す事になるだろうッ！\n諸君の爆熱するヒーロー決めポーズを\n期待しているよ！\n\n\n☆英雄同好会☆",
   "refs": 1,
-  "en": "Hello! Are you doing justice, comrades?\nThis report goes back to the very basics,\nthe reason a hero IS a hero!\nI've summed up tips for striking a pose.\nPlease do use them as a reference!\n\n1. Fill your whole body with spirit!\nNeglect your fingertips and justice cannot stand.\nFocus right down to the tip of your pinky!\n\n2. Do it without pause!\nSpeedy like a raging torrent,\nyet smooth, not overbearing,\nand mighty!\nWith enough spirit to make the background explode!!\n\n3. Have no fear!\nStep forward boldly!\nLose your balance? Nonsense!\nThe pose you strike is itself\nthe image of a peerless hero!!\n\nWith this, comrades, your heroic brilliance\nwill shine all the brighter!\nI look forward to your blazing-hot\nhero poses!\n\n\n*Hero Club*"
+  "en": "Hello! Are you doing justice, comrades?\nThis report goes back to the very basics,\nthe reason a hero IS a hero!\nI've summed up tips for striking a pose.\nPlease do use them as a reference!\n\n1. Fill your whole body with spirit!\nNeglect your fingertips and justice cannot stand.\nFocus right down to the tip of your pinky!\n\n2. Do it without pause!\nSpeedy like a raging torrent,\nyet smooth, not overbearing,\nand mighty!\nWith enough spirit to make the background explode!!\n\n3. Have no fear!\nStep forward boldly!\nLose your balance? Nonsense!\nThe pose you strike is itself\nthe image of a peerless hero!!\n\nWith this, comrades, your heroic brilliance\nwill shine all the brighter!\nI look forward to your blazing-hot\nhero poses!\n\n\n~Hero Club~"
  },
  {
   "id": "mail:0070:04",
   "jp": "【特別正義通信☆Ｖｏｌ．００１】",
   "refs": 1,
-  "en": "[Special Justice Report*Vol. 001]"
+  "en": "[Special Justice Report~Vol. 001]"
  },
  {
   "id": "mail:0070:08",
@@ -939,7 +939,7 @@
   "id": "mail:0071:08",
   "jp": "と、言っても盗賊団の連中は\n諦めていないだろうけど……。\n君も厄介な人物に目を\nつけられてしまったようだ。\n\n今回の謝礼は、美しい人たちの一打を\n要求させていただきたいね。\n話をつけておいてくれれば、幸いだよ。",
   "refs": 1,
-  "en": "That said, I doubt that gang of thieves\nhas given up...\nIt seems you've caught the eye\nof some troublesome people.\n\nAs my fee for this time, I'd like to request\na dozen lovely ladies.\nI'd be grateful if you could arrange it."
+  "en": "That said, I doubt those bandits\nhave given up...\nIt seems you've caught the eye\nof some troublesome people.\n\nAs my fee for this time, I'd like to request\na dozen lovely ladies.\nI'd be grateful if you could arrange it."
  },
  {
   "id": "mail:0071:0c",
@@ -1077,7 +1077,7 @@
   "id": "mail:0081:08",
   "jp": "伊佐地だ。任務中の調査費用について、\n説明をしていなかったので伝えておく。\n\nお前は表向きにはあくまで外部協力員の高校生だ。そのため特課から直接、資金を渡す事はできない。\n\n代わりといってはなんだが、歌舞伎町に特課と協力関係にある喫茶店がある。\nそこのマスターに封札師である事を伝えれば、報酬が得られる仕事の依頼を紹介してくれるだろう。\nそこでの依頼をこなすのに、封札師の力を使う事は認められている。\n手に入れた金で、調査に必要な道具を揃えるといい。\n\n依頼をこなすにあたって、俺からもヒントをやろう。\n隠人には倒し方が、\n呪術には位置と行為が、\n陣形には種類と並べ方が必要となる。\n\n特に陣形だが、これはカミフダを隣接させることで共鳴作用を起こし、その場に流れる龍脈の気を利用して物質を再構築する技だ。\n陣形は札そのもので作る。札を置くときの影響範囲の中心が札本体だ。\n陣形を張る場所は指定の区域内であればどこでもいい。\n\nいまはわからなくとも、実際に依頼をこなす際にまた読み返してみろ。\n\n以上だ。\nマスターによろしくな。",
   "refs": 1,
-  "en": "This is Isachi. I never explained mission expenses, so I'll do so now.\n\nOfficially you're just a high schooler helping from outside, so the Division can't fund you directly.\n\nInstead, a cafe in Kabukicho works with the Division.\nTell its Master you're a Card Sealer and he'll refer you to paid jobs.\nYou may use your Card Sealer powers on them.\nBuy what the investigation needs with the pay.\n\nSome hints for those jobs.\nOni need a way to beat them,\ncurses a position and an action,\nformations a type and a layout.\n\nOn formations: adjacent ORDS resonate, using the dragon vein's energy there to rebuild matter.\nA formation is made of the cards; each card is the centre of its own area.\nSet one anywhere in the given zone.\n\nIf it's unclear now, reread this when you take a job.\n\nThat is all.\nGive the Master my regards."
+  "en": "This is Isachi. I never explained mission expenses, so I'll do so now.\n\nOfficially you're just a high schooler helping from outside, so the Division can't fund you directly.\n\nInstead, a cafe in Kabukicho works with the Division.\nTell its Master you're a Card Sealer and he'll refer you to paid quests.\nYou may use your Card Sealer powers on them.\nBuy what the investigation needs with the pay.\n\nSome hints for those quests.\nOni need a way to beat them,\ncurses a position and an action,\nformations a type and a layout.\n\nOn formations: adjacent ORDS resonate, using the dragon vein's energy there to rebuild matter.\nA formation is made of the cards; each card is the centre of its own area.\nSet one anywhere in the given zone.\n\nIf it's unclear now, reread this when you take a quest.\n\nThat is all.\nGive the Master my regards."
  },
  {
   "id": "mail:0082:04",

@@ -3405,7 +3405,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Playful-san"
+  "en": "Little Rascal"
  },
  {
   "id": "eboot:2b23c0",
@@ -5189,7 +5189,7 @@
   "slot": 24,
   "refs": 1,
   "enc": "cp932",
-  "en": "%s %03d:%02d:%02d"
+  "en": "%s %03d:%02d:%02d /"
  },
  {
   "id": "eboot:2b4814",
@@ -5197,7 +5197,7 @@
   "slot": 24,
   "refs": 1,
   "enc": "cp932",
-  "en": "%s  %02d:%02d:%02d"
+  "en": "%s  %02d:%02d:%02d /"
  },
  {
   "id": "eboot:2b4830",
@@ -6325,7 +6325,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Restaurant Proprietress"
+  "en": "Ryotei Proprietor"
  },
  {
   "id": "eboot:2b5ac4",
@@ -6357,7 +6357,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "North American Hacker"
+  "en": "American Hacker"
  },
  {
   "id": "eboot:2b5ba4",
@@ -6389,7 +6389,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Boy of a Possessed Line"
+  "en": "Cursed-Blood Boy"
  },
  {
   "id": "eboot:2b5c80",
@@ -6397,7 +6397,7 @@
   "slot": 100,
   "refs": 1,
   "enc": "cp932",
-  "en": "Heir of an old spirit-bound\nline who died young of illness.\nThrough an ancestral pact, a\nshikigami gave him borrowed life."
+  "en": "Heir of an old cursed bloodline\nwho died young of illness.\nThrough an ancestral pact, a\nshikigami gave him borrowed life."
  },
  {
   "id": "eboot:2b5ce4",
@@ -6565,7 +6565,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Trial Card Obtained"
+  "en": "Division Trial Card Obtained"
  },
  {
   "id": "eboot:2b6a50",
@@ -8165,7 +8165,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": "North American Hacker's Voice"
+  "en": "American Hacker's Voice"
  },
  {
   "id": "eboot:2b73dc",
@@ -8285,7 +8285,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Thief Gang Member"
+  "en": "Bandit"
  },
  {
   "id": "eboot:2b74b8",
@@ -8509,7 +8509,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Thief Gang Member A"
+  "en": "Bandit A"
  },
  {
   "id": "eboot:2b763c",
@@ -8517,7 +8517,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Thief Gang Member B"
+  "en": "Bandit B"
  },
  {
   "id": "eboot:2b7648",
@@ -8525,7 +8525,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Thief Gang Member C"
+  "en": "Bandit C"
  },
  {
   "id": "eboot:2b7654",
@@ -8701,7 +8701,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Restaurant Proprietress"
+  "en": "Ryotei Proprietor"
  },
  {
   "id": "eboot:2b7784",
@@ -8717,7 +8717,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "North American Hacker"
+  "en": "American Hacker"
  },
  {
   "id": "eboot:2b77a4",
@@ -8733,7 +8733,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Boy of a Possessed Line"
+  "en": "Cursed-Blood Boy"
  },
  {
   "id": "eboot:2b77c4",

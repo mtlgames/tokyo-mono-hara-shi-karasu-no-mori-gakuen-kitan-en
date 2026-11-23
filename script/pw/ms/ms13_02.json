@@ -3,462 +3,462 @@
   "id": "ms13_02:000:00",
   "kind": "caption",
   "jp": "新宿駅―――夕",
-  "en": ""
+  "en": "Shinjuku Station -- Evening"
  },
  {
   "id": "ms13_02:000:01",
   "speaker": "弥紀",
   "jp": "{px}……\nいよいよだね。",
-  "en": ""
+  "en": "{px}... This is it, huh."
  },
  {
   "id": "ms13_02:000:02",
   "speaker": "燈治",
   "jp": "他の奴らはもう、\n中を探して歩いてる。",
-  "en": ""
+  "en": "The others are already searchin' around inside."
  },
  {
   "id": "ms13_02:000:03",
   "speaker": "燈治",
   "jp": "俺たちも、\n手分けして探そうぜ。",
-  "en": ""
+  "en": "Let's split up and look too."
  },
  {
   "id": "ms13_02:000:04",
   "speaker": "巴",
   "jp": "とはいっても、\n情報が新宿駅の地下って\nだけじゃあね。",
-  "en": ""
+  "en": "Still, all we've got to go on is \"under Shinjuku\nStation.\""
  },
  {
   "id": "ms13_02:000:05",
   "speaker": "巴",
   "jp": "やっぱり、他の{ruby:洞|うろ}みたいに、\nわかりやすい目印が\nあるのかしら？",
-  "en": ""
+  "en": "I wonder if there's an obvious marker, like with the\nother Hollows?"
  },
  {
   "id": "ms13_02:000:06",
   "speaker": "弥紀",
   "jp": "うーん……。",
-  "en": ""
+  "en": "Hmm..."
  },
  {
   "id": "ms13_02:000:07",
   "speaker": "弥紀",
   "jp": "怪しい物を色々\n押してみたりするしか\nないのかな。",
-  "en": ""
+  "en": "Maybe all we can do is try pushing on anything\nthat looks suspicious."
  },
  {
   "id": "ms13_02:000:08",
   "speaker": "巴",
   "jp": "……それ、どう考えても\n一番怪しいのは\nあたしたちよね。",
-  "en": ""
+  "en": "...Any way you look at it, the most suspicious ones\nthere would be us."
  },
  {
   "id": "ms13_02:000:09",
   "speaker": "巴",
   "jp": "とは言え―――\n他に方法はない、か。",
-  "en": ""
+  "en": "Still-- there's no other way, huh."
  },
  {
   "id": "ms13_02:000:10",
   "speaker": "巴",
   "jp": "とにかく、\n行ってみましょう。",
-  "en": ""
+  "en": "Anyway, let's give it a try."
  },
  {
   "id": "ms13_02:000:11",
   "speaker": "巴",
   "jp": "それじゃあ……\nしっかりね、{px}。",
-  "en": ""
+  "en": "Well then... Stay sharp, {px}."
  },
  {
   "id": "ms13_02:000:12",
   "speaker": "弥紀",
   "jp": "何か見つけたら、\nすぐに連絡してね。",
-  "en": ""
+  "en": "If you find anything, let us know right away."
  },
  {
   "id": "ms13_02:000:13",
   "speaker": "弥紀",
   "jp": "……駆けつけるから。",
-  "en": ""
+  "en": "...I'll come running."
  },
  {
   "id": "ms13_02:000:14",
   "speaker": "燈治",
   "jp": "絶対に、\n一人で無茶すんじゃねェぞ。",
-  "en": ""
+  "en": "Don't you dare go doin' anything reckless on your\nown."
  },
  {
   "id": "ms13_02:000:15",
   "speaker": "燈治",
   "jp": "それじゃ……\nまたな、{px}。",
-  "en": ""
+  "en": "Well then... See ya, {px}."
  },
  {
   "id": "ms13_02:000:16",
   "speaker": "静かな声",
   "jp": "―――{px}。",
-  "en": ""
+  "en": "--{px}."
  },
  {
   "id": "ms13_02:000:17",
   "speaker": "零",
   "jp": "おれと白は\nきみと一緒に探そう。",
-  "en": ""
+  "en": "Mao and I will search with you."
  },
  {
   "id": "ms13_02:000:18",
   "speaker": "零",
   "jp": "いざという時、\n離れているのは\nあまり得策じゃない。",
-  "en": ""
+  "en": "If something happens, it wouldn't be wise for us to\nbe apart."
  },
  {
   "id": "ms13_02:000:19",
   "speaker": "白",
   "jp": "妾ならば、\n飛んで探した方が早いがのう。",
-  "en": ""
+  "en": "For my part, it would be quicker to search from the\nair."
  },
  {
   "id": "ms13_02:000:20",
   "speaker": "白",
   "jp": "じゃが……\nそうも行くまい。",
-  "en": ""
+  "en": "But... that will hardly do here."
  },
  {
   "id": "ms13_02:000:21",
   "speaker": "白",
   "jp": "さあ、\n参るぞ、{px}。",
-  "en": ""
+  "en": "Now, let us be off, {px}."
  },
  {
   "id": "ms13_02:001:00",
   "kind": "caption",
   "jp": "新宿駅地下道―――",
-  "en": ""
+  "en": "Shinjuku Station Underpass --"
  },
  {
   "id": "ms13_02:001:01",
   "speaker": "白",
   "jp": "……ふうむ。\n何処もかしこも、\n同じような通りばかりじゃな。",
-  "en": ""
+  "en": "...Hmm. Every passage here looks the same as the\nlast."
  },
  {
   "id": "ms13_02:001:02",
   "speaker": "白",
   "jp": "よくもまあこれで\n迷わぬものじゃ。",
-  "en": ""
+  "en": "It is a wonder anyone finds their way at all."
  },
  {
   "id": "ms13_02:001:03",
   "speaker": "零",
   "jp": "これ以上進むと、\n駅そのものからは\n随分、離れてしまうな。",
-  "en": ""
+  "en": "Any farther and we'll be quite a long way from the\nstation itself."
  },
  {
   "id": "ms13_02:001:04",
   "speaker": "零",
   "jp": "一度、戻って―――",
-  "en": ""
+  "en": "Let's head back once and--"
  },
  {
   "id": "ms13_02:002:00",
   "speaker": "無感情な声",
   "jp": "―――{px}、\nこっちです。",
-  "en": ""
+  "en": "--{px}, this way."
  },
  {
   "id": "ms13_02:002:01",
   "speaker": "白",
   "jp": "其方は……。",
-  "en": ""
+  "en": "You are..."
  },
  {
   "id": "ms13_02:002:02",
   "speaker": "紅緒",
   "jp": "{ruby:洞|うろ}への入口まで\n私が案内します。",
-  "en": ""
+  "en": "I will guide you to the entrance to the Hollow."
  },
  {
   "id": "ms13_02:002:03",
   "speaker": "紅緒",
   "jp": "正確には、\n月舟が……ですが。",
-  "en": ""
+  "en": "Or rather... Tsukifune will."
  },
  {
   "id": "ms13_02:002:04",
   "speaker": "月舟",
   "jp": "きゅい！",
-  "en": ""
+  "en": "*Kyui!*"
  },
  {
   "id": "ms13_02:002:05",
   "speaker": "紅緒",
   "jp": "では、参りましょう。",
-  "en": ""
+  "en": "Now, let us go."
  },
  {
   "id": "ms13_02:003:00",
   "speaker": "小さな鳴き声",
   "jp": "……きゅきゅっ。",
-  "en": ""
+  "en": "...*Kyukyu.*"
  },
  {
   "id": "ms13_02:003:01",
   "speaker": "白",
   "jp": "いまのは……？",
-  "en": ""
+  "en": "What was that...?"
  },
  {
   "id": "ms13_02:003:02",
   "speaker": "月舟",
   "jp": "きゅいっ！",
-  "en": ""
+  "en": "*Kyui!*"
  },
  {
   "id": "ms13_02:003:03",
   "speaker": "白",
   "jp": "あれは、あの娘の……。",
-  "en": ""
+  "en": "That is that girl's..."
  },
  {
   "id": "ms13_02:003:04",
   "speaker": "零",
   "jp": "ついてこいと、\n言っているのか？",
-  "en": ""
+  "en": "Is it telling us to follow?"
  },
  {
   "id": "ms13_02:003:05",
   "speaker": "零",
   "jp": "あ―――",
-  "en": ""
+  "en": "Ah--"
  },
  {
   "id": "ms13_02:003:06",
   "speaker": "零",
   "jp": "行ってみよう、{px}。",
-  "en": ""
+  "en": "Let's go see, {px}."
  },
  {
   "id": "ms13_02:005:00",
   "speaker": "月舟",
   "jp": "きゅいいっ！",
-  "en": ""
+  "en": "*Kyuiii!*"
  },
  {
   "id": "ms13_02:006:00",
   "speaker": "紅緒",
   "jp": "―――あそこです。",
-  "en": ""
+  "en": "--Over there."
  },
  {
   "id": "ms13_02:007:00",
   "speaker": "零",
   "jp": "あれが……\n龍珠堂の入口か。",
-  "en": ""
+  "en": "So that's... the entrance to Ryujudo."
  },
  {
   "id": "ms13_02:007:01",
   "speaker": "零",
   "jp": "あの扉の奥に……。",
-  "en": ""
+  "en": "Beyond that door..."
  },
  {
   "id": "ms13_02:007:02",
   "speaker": "白",
   "jp": "……{px}。",
-  "en": ""
+  "en": "...{px}."
  },
  {
   "id": "ms13_02:007:03",
   "speaker": "白",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "ms13_02:007:04",
   "speaker": "白",
   "jp": "―――参るぞ。",
-  "en": ""
+  "en": "--Let us go."
  },
  {
   "id": "ms13_02:008:00",
   "speaker": "白",
   "jp": "……うむ。",
-  "en": ""
+  "en": "...Indeed."
  },
  {
   "id": "ms13_02:008:01",
   "speaker": "白",
   "jp": "其方と共に在れば\n不安なぞ微塵も感じぬ。",
-  "en": ""
+  "en": "So long as I am at your side, I feel not the slightest\nunease."
  },
  {
   "id": "ms13_02:008:02",
   "speaker": "白",
   "jp": "{px}、其方は……\n我が最高の主じゃ。",
-  "en": ""
+  "en": "{px}, you are... the finest master I could have."
  },
  {
   "id": "ms13_02:009:00",
   "speaker": "白",
   "jp": "……あまりはしゃぐでない。",
-  "en": ""
+  "en": "...Do not get so carried away."
  },
  {
   "id": "ms13_02:009:01",
   "speaker": "白",
   "jp": "とは言え―――",
-  "en": ""
+  "en": "That said--"
  },
  {
   "id": "ms13_02:009:02",
   "speaker": "白",
   "jp": "それが其方流、か。",
-  "en": ""
+  "en": "I suppose that is simply your way."
  },
  {
   "id": "ms13_02:009:03",
   "speaker": "白",
   "jp": "其方と共に在れば\n不安なぞ微塵も感じぬ。",
-  "en": ""
+  "en": "So long as I am at your side, I feel not the slightest\nunease."
  },
  {
   "id": "ms13_02:010:00",
   "speaker": "白",
   "jp": "……うむ。",
-  "en": ""
+  "en": "...Indeed."
  },
  {
   "id": "ms13_02:010:01",
   "speaker": "白",
   "jp": "其方と共に在れば\n不安なぞ微塵も感じぬ。",
-  "en": ""
+  "en": "So long as I am at your side, I feel not the slightest\nunease."
  },
  {
   "id": "ms13_02:010:02",
   "speaker": "白",
   "jp": "{px}、其方は……\n我が最高の主じゃ。",
-  "en": ""
+  "en": "{px}, you are... the finest master I could have."
  },
  {
   "id": "ms13_02:011:00",
   "speaker": "白",
   "jp": "……うむ。",
-  "en": ""
+  "en": "...Indeed."
  },
  {
   "id": "ms13_02:011:01",
   "speaker": "白",
   "jp": "其方と共に在れば\n不安なぞ微塵も感じぬ。",
-  "en": ""
+  "en": "So long as I am at your side, I feel not the slightest\nunease."
  },
  {
   "id": "ms13_02:012:00",
   "speaker": "白",
   "jp": "……な、何じゃ急に。",
-  "en": ""
+  "en": "...Wh-What is it, all of a sudden?"
  },
  {
   "id": "ms13_02:012:01",
   "speaker": "白",
   "jp": "まさかここまで来て\n怖じ気づいた訳では\nあるまいな。",
-  "en": ""
+  "en": "Surely you have not lost your nerve after coming\nthis far?"
  },
  {
   "id": "ms13_02:013:00",
   "speaker": "白",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "ms13_02:013:01",
   "speaker": "白",
   "jp": "まさかここまで来て\n怖じ気づいた訳では\nあるまいな。",
-  "en": ""
+  "en": "Surely you have not lost your nerve after coming\nthis far?"
  },
  {
   "id": "ms13_02:014:00",
   "speaker": "白",
   "jp": "ええい、情けない！！",
-  "en": ""
+  "en": "Bah, how pathetic!!"
  },
  {
   "id": "ms13_02:014:01",
   "speaker": "白",
   "jp": "其方は我らが主であろう！\n最後くらい気概を見せぬか！！",
-  "en": ""
+  "en": "You are our master, are you not! At least show\nsome spirit at the very end!!"
  },
  {
   "id": "ms13_02:015:00",
   "speaker": "白",
   "jp": "なんじゃ、\n支度を済ませてきたのでは\nないのかえ？",
-  "en": ""
+  "en": "What? Did you not finish your preparations before\ncoming?"
  },
  {
   "id": "ms13_02:015:01",
   "speaker": "白",
   "jp": "……ええい、細かい事は\n中に入ってからじゃ！！",
-  "en": ""
+  "en": "...Bah, the details can wait until we are inside!!"
  },
  {
   "id": "ms13_02:016:00",
   "speaker": "白",
   "jp": "…………。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "ms13_02:016:01",
   "speaker": "白",
   "jp": "まさかここまで来て\n怖じ気づいた訳では\nあるまいな。",
-  "en": ""
+  "en": "Surely you have not lost your nerve after coming\nthis far?"
  },
  {
   "id": "ms13_02:017:00",
   "speaker": "零",
   "jp": "{px}……。\nおれは、きみを信じている。",
-  "en": ""
+  "en": "{px}... I believe in you."
  },
  {
   "id": "ms13_02:017:01",
   "speaker": "零",
   "jp": "おれたちに\n新たな道を示してくれた\n……きみを。",
-  "en": ""
+  "en": "In you... who showed us a new path."
  },
  {
   "id": "ms13_02:017:02",
   "speaker": "零",
   "jp": "きみは、おれが……\nおれたちが、護る。\nだから―――",
-  "en": ""
+  "en": "I'll protect you... We'll protect you. So--"
  },
  {
   "id": "ms13_02:017:03",
   "speaker": "零",
   "jp": "―――行こう、{px}。",
-  "en": ""
+  "en": "--Let's go, {px}."
  },
  {
   "id": "ms13_02:018:00",
   "speaker": "零",
   "jp": "ああ、その通りだ。",
-  "en": ""
+  "en": "Yes, that's right."
  },
  {
   "id": "ms13_02:018:01",
   "speaker": "零",
   "jp": "きみがいれば、\n恐れる物など何もない。",
-  "en": ""
+  "en": "With you here, there's nothing to fear."
  },
  {
   "id": "ms13_02:018:02",
   "speaker": "零",
   "jp": "―――行こう、{px}。",
-  "en": ""
+  "en": "--Let's go, {px}."
  },
  {
   "id": "ms13_02:019:00",
   "speaker": "零",
   "jp": "おれたちみなの、\n{ruby:未来|あした}を掴みに―――",
-  "en": ""
+  "en": "To seize tomorrow, for all of us--"
  }
 ]

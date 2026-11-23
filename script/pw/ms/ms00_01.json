@@ -483,7 +483,7 @@
   "id": "ms00_01:015:01",
   "speaker": "顔に傷のある男",
   "jp": "よく来たな。\n俺は、国立国会図書館収集部\n特務課の{ruby:伊佐地|い　さ　ち}　{ruby:大督|だいすけ}だ。",
-  "en": "Glad you made it. I'm Daisuke Isachi, Special\nOperations Division, Collection Department, National\nDiet Library."
+  "en": "Glad you made it. I'm Daisuke Isachi, National Diet\nLibrary Collection Department, Special Duties\nDivision."
  },
  {
   "id": "ms00_01:016:00",
@@ -1107,7 +1107,7 @@
   "id": "ms00_01:042:00",
   "speaker": "伊佐地",
   "jp": "それは《{ruby:特課試札|とっかしさつ}》と言って\n通常よりも情報量を抑えた\n《カミフダ》だ。",
-  "en": "That's called a Division Test Card. It's ORDS with\nless information than usual."
+  "en": "That's called a Division Trial Card. It's ORDS with\nless information than usual."
  },
  {
   "id": "ms00_01:042:01",
