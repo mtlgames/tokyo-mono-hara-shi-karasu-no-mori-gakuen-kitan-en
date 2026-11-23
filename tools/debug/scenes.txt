@@ -1,0 +1,29 @@
+# Scene list for tools/debug/warp.py: NAME  SPEC   (states land in work/states/NAME.ppst; `warp.py ISO --all` regens)
+# SPEC: script=ID (cold boot, New Game, ADV task rewritten to script ID) | from=SCENE (start from its state)
+#       mash=FRAMES:k1,k2 (one 6-frame press per 30 frames, keys cycled)   route=<route-str, rest of line>
+# Menu cursor stops on grey entries (マップ, ???) and wraps. Mash note: the emotion-input wheel needs a direction then circle; script-shown screens (report card) close on cross.
+
+# --- ADV: prologue and chapter starts (the chapter card / opening movie are commands inside MSxx_00)
+prologue   script=MS00_00 mash=600:circle
+ch01       script=MS01_00 mash=900:circle
+ch02       script=MS02_00 mash=900:circle
+ch03       script=MS03_00 mash=900:circle
+ch04       script=MS04_00 mash=900:circle
+ch05       script=MS05_00 mash=900:circle
+ch06       script=MS06_00 mash=900:circle
+ch07       script=MS07_00 mash=900:circle
+ch08       script=MS08_00 mash=900:circle
+ch09       script=MS09_00 mash=900:circle
+ch10       script=MS10_00 mash=900:circle
+ch11       script=MS11_00 mash=900:circle
+ch12       script=MS12_00 mash=900:circle
+ch13       script=MS13_00 mash=900:circle
+
+# --- field (free movement on the school map) and the main menu, from chapter 1
+field_ch01 script=MS01_00 mash=50000:circle,circle,right,circle,cross route=60 -;6 cross;90 -;6 cross;150 -
+menu       from=field_ch01 route=6 start;90 -
+menu_item  from=field_ch01 route=6 start;90 -;6 circle;150 -
+menu_equip from=field_ch01 route=6 start;90 -;6 down;40 -;6 circle;150 -
+menu_cards from=field_ch01 route=6 start;90 -;6 down;40 -;6 down;40 -;6 circle;150 -
+phone      from=field_ch01 route=6 start;90 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 circle;300 -
+saveload   from=field_ch01 route=6 start;90 -;6 up;40 -;6 circle;150 -
