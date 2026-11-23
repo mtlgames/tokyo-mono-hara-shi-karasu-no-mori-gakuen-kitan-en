@@ -9,7 +9,7 @@
   "id": "fn07_22:001:01",
   "speaker": "伊佐地",
   "jp": "用事は済んだんだが、\n帰りそびれてな。",
-  "en": "My business here's done, but I missed my chance to\nleave."
+  "en": "My business here's done, but\nI missed my chance to leave."
  },
  {
   "id": "fn07_22:001:02",
@@ -21,13 +21,13 @@
   "id": "fn07_22:001:03",
   "speaker": "伊佐地",
   "jp": "ここの小さい{ruby:神使|の}は\nよっぽど《知恵の輪》が\nお気に召したらしい。",
-  "en": "Seems the little divine messenger here has taken a\nreal liking to the Puzzle Ring."
+  "en": "Seems the little divine messenger here\nhas taken a real liking to the Puzzle Ring."
  },
  {
   "id": "fn07_22:001:04",
   "speaker": "伊佐地",
   "jp": "それで、パキッと\n解いてみせるから\n見ててくれと言われたんだが、",
-  "en": "She said she'd solve it with a snap, and told me to\nwatch her do it,"
+  "en": "She said she'd solve it with a snap,\nand told me to watch her do it,"
  },
  {
   "id": "fn07_22:001:05",
@@ -45,7 +45,7 @@
   "id": "fn07_22:002:00",
   "speaker": "伊佐地",
   "jp": "……なあ、{px}。\nお前はこの場所が、大事か？",
-  "en": "...Say, {px}. Is this place important to you?"
+  "en": "...Say, {px}. Is\nthis place important to you?"
  },
  {
   "id": "fn07_22:003:00",
@@ -81,7 +81,7 @@
   "id": "fn07_22:005:01",
   "speaker": "伊佐地",
   "jp": "しかしお前、\nそんなに情を移して……。\nいや、だからこそ―――か。",
-  "en": "Still, you've gotten that attached to it... No, maybe\nthat's exactly why--"
+  "en": "Still, you've gotten that attached to\nit... No, maybe that's exactly why--"
  },
  {
   "id": "fn07_22:006:00",
@@ -93,7 +93,7 @@
   "id": "fn07_22:007:00",
   "speaker": "伊佐地",
   "jp": "……そうか。\nこの{ruby:神使|しんし}が聞いたら\nなんて言うだろうな。",
-  "en": "...I see. I wonder what this divine messenger would\nsay if she heard that."
+  "en": "...I see. I wonder what this divine\nmessenger would say if she heard that."
  },
  {
   "id": "fn07_22:008:00",
@@ -135,13 +135,13 @@
   "id": "fn07_22:012:00",
   "speaker": "伊佐地",
   "jp": "この神域は俺が以前\n訪問した時よりもずっと、\n氣の流れがよくなっている。",
-  "en": "The flow of ki in this sacred ground is far better\nthan when I visited before."
+  "en": "The flow of ki in this sacred ground\nis far better than when I visited before."
  },
  {
   "id": "fn07_22:012:01",
   "speaker": "伊佐地",
   "jp": "息をひそめて、身を屈めて\nいるような窮屈な感じが\n少しだけ、なくなった。",
-  "en": "That cramped feeling, like it was holding its breath\nand crouching low, has eased just a little."
+  "en": "That cramped feeling, like it was holding its\nbreath and crouching low, has eased just a little."
  },
  {
   "id": "fn07_22:012:02",
@@ -153,7 +153,7 @@
   "id": "fn07_22:012:03",
   "speaker": "伊佐地",
   "jp": "いまはまだ、不安定さも\n大きいが……俺はこの変化を、\nいいものだと思っているよ。",
-  "en": "It's still very unstable for now... but I think this\nchange is a good thing."
+  "en": "It's still very unstable for now... but\nI think this change is a good thing."
  },
  {
   "id": "fn07_22:013:00",
@@ -165,6 +165,6 @@
   "id": "fn07_22:013:01",
   "speaker": "伊佐地",
   "jp": "むう……俺はいったい\nいつになったら帰れるんだ？",
-  "en": "Hmm... When on earth am I going to get to go\nhome?"
+  "en": "Hmm... When on earth am\nI going to get to go home?"
  }
 ]

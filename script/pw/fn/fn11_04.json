@@ -9,13 +9,13 @@
   "id": "fn11_04:001:01",
   "speaker": "弥紀",
   "jp": "ここで{px}に\n会えるなんて、\n思ってもみなかった……。",
-  "en": "I never thought I'd run into you here, {px}..."
+  "en": "I never thought I'd run into\nyou here, {px}..."
  },
  {
   "id": "fn11_04:002:00",
   "speaker": "弥紀",
   "jp": "あ、でも、{px}だって\n合唱部員なんだから\n来たっておかしくないよね。",
-  "en": "Oh, but you're in the choir club too, {px}, so it's not\nstrange for you to come here."
+  "en": "Oh, but you're in the choir club\ntoo, {px}, so it's\nnot strange for you to come here."
  },
  {
   "id": "fn11_04:002:01",
@@ -33,7 +33,7 @@
   "id": "fn11_04:003:01",
   "speaker": "弥紀",
   "jp": "誰もいない音楽室ってね、\nすごく静かで……\n落ち着くんだ。",
-  "en": "The music room when nobody's here is so quiet... It\ncalms me down."
+  "en": "The music room when nobody's\nhere is so quiet... It calms me down."
  },
  {
   "id": "fn11_04:003:02",
@@ -45,19 +45,19 @@
   "id": "fn11_04:003:03",
   "speaker": "弥紀",
   "jp": "最近は、色々あって\nちょっと……\n部活はさぼり気味だったけど。",
-  "en": "Lately, with everything going on, I've kind of... been\nskipping club, though."
+  "en": "Lately, with everything going on, I've\nkind of... been skipping club, though."
  },
  {
   "id": "fn11_04:003:04",
   "speaker": "弥紀",
   "jp": "{px}が転校してきてから\n今日までずっと……\nわたしは、すごく楽しかった。",
-  "en": "Ever since you transferred here, {px}, all the way\nuntil today... I've had so much fun."
+  "en": "Ever since you transferred here, {px},\nall the way until today... I've had so much fun."
  },
  {
   "id": "fn11_04:003:05",
   "speaker": "弥紀",
   "jp": "でもきっと{px}は……\nすごく……\n大変、だったよね？",
-  "en": "But for you, {px}... it must have been really... really\nhard, hasn't it?"
+  "en": "But for you, {px}... it must\nhave been really... really hard, hasn't it?"
  },
  {
   "id": "fn11_04:004:00",
@@ -147,7 +147,7 @@
   "id": "fn11_04:011:00",
   "speaker": "弥紀",
   "jp": "あ……そうか。\n元々{px}はお仕事で\nここに来たんだものね。",
-  "en": "Oh... right. You originally came here for work, {px},\ndidn't you?"
+  "en": "Oh... right. You originally came here for\nwork, {px}, didn't you?"
  },
  {
   "id": "fn11_04:011:01",
@@ -159,7 +159,7 @@
   "id": "fn11_04:012:00",
   "speaker": "弥紀",
   "jp": "あ……そうか。\n元々{px}はお仕事で\nここに来たんだものね。",
-  "en": "Oh... right. You originally came here for work, {px},\ndidn't you?"
+  "en": "Oh... right. You originally came here for\nwork, {px}, didn't you?"
  },
  {
   "id": "fn11_04:012:01",
@@ -171,13 +171,13 @@
   "id": "fn11_04:014:00",
   "speaker": "弥紀",
   "jp": "……そうだ\n巴からメール、来てるよね。",
-  "en": "...Oh, right. You got a text from Tomoe too, didn't\nyou?"
+  "en": "...Oh, right. You got a text\nfrom Tomoe too, didn't you?"
  },
  {
   "id": "fn11_04:014:01",
   "speaker": "弥紀",
   "jp": "わたしも行くから、\nまた後で……教室でね。",
-  "en": "I'm heading over too, so... see you in the classroom\nlater."
+  "en": "I'm heading over too, so... see\nyou in the classroom later."
  },
  {
   "id": "fn11_04:015:00",
@@ -195,13 +195,13 @@
   "id": "fn11_04:016:01",
   "speaker": "弥紀",
   "jp": "……わたしね、いままで\n自分がどうしたいかとか、\nあまり考えたことなかったの。",
-  "en": "...You know, up until now, I never really thought\nmuch about what I want for myself."
+  "en": "...You know, up until now, I never really\nthought much about what I want for myself."
  },
  {
   "id": "fn11_04:016:02",
   "speaker": "弥紀",
   "jp": "お母さんと二人だから、お互い\nやらなきゃいけないことを\n分担してやってきたんだ。",
-  "en": "It's just me and my mom, so we've always split up\nthe things that need doing between us."
+  "en": "It's just me and my mom, so we've always split\nup the things that need doing between us."
  },
  {
   "id": "fn11_04:016:03",
@@ -219,13 +219,13 @@
   "id": "fn11_04:016:05",
   "speaker": "弥紀",
   "jp": "歌うのは好きだけど\nやりたいことっていうのとは\nちょっと違うし……。",
-  "en": "I like singing, but that's a little different from\nsomething I want to do..."
+  "en": "I like singing, but that's a little\ndifferent from something I want to do..."
  },
  {
   "id": "fn11_04:016:06",
   "speaker": "弥紀",
   "jp": "……ねえ、{px}。\n{px}のいま一番\nやりたいことって何かな？",
-  "en": "...Hey, {px}. What's the thing you want to do most\nright now, {px}?"
+  "en": "...Hey, {px}. What's the thing you\nwant to do most right now, {px}?"
  },
  {
   "id": "fn11_04:018:00",
@@ -321,19 +321,19 @@
   "id": "fn11_04:025:00",
   "speaker": "弥紀",
   "jp": "……そうだ、\n巴からメール、来てるよね。",
-  "en": "...Oh, right. You got a text from Tomoe too, didn't\nyou?"
+  "en": "...Oh, right. You got a text\nfrom Tomoe too, didn't you?"
  },
  {
   "id": "fn11_04:025:01",
   "speaker": "弥紀",
   "jp": "わたしも行くから、\nまた後で……教室でね。",
-  "en": "I'm heading over too, so... see you in the classroom\nlater."
+  "en": "I'm heading over too, so... see\nyou in the classroom later."
  },
  {
   "id": "fn11_04:026:00",
   "speaker": "弥紀",
   "jp": "……明後日から冬休みだし\n少しお掃除して行こうかな。",
-  "en": "...Winter break starts the day after tomorrow, so\nmaybe I'll tidy up a bit before I go."
+  "en": "...Winter break starts the day after tomorrow,\nso maybe I'll tidy up a bit before I go."
  },
  {
   "id": "fn11_04:026:01",
@@ -357,19 +357,19 @@
   "id": "fn11_04:027:02",
   "speaker": "弥紀",
   "jp": "あんな風に初めて会った人に\n自分から話しかけたり、\n連絡先知ってもらったり……",
-  "en": "Talking first to someone I'd only just met, like I did,\ngiving them my contact info..."
+  "en": "Talking first to someone I'd only just met,\nlike I did, giving them my contact info..."
  },
  {
   "id": "fn11_04:027:03",
   "speaker": "弥紀",
   "jp": "いままでしたことなかった。\nそれからも、あなたといると\n不思議と元気になれた……。",
-  "en": "I'd never done that before. And ever since, being\nwith you has somehow cheered me up..."
+  "en": "I'd never done that before. And ever since,\nbeing with you has somehow cheered me up..."
  },
  {
   "id": "fn11_04:027:04",
   "speaker": "弥紀",
   "jp": "目的に向かって進んで行く\nあなたを見てると、わたしにも\n何か出来そうな気がしたの。",
-  "en": "Watching you push on toward your goal made me\nfeel like maybe I could do something too."
+  "en": "Watching you push on toward your goal made\nme feel like maybe I could do something too."
  },
  {
   "id": "fn11_04:027:05",
@@ -381,13 +381,13 @@
   "id": "fn11_04:027:06",
   "speaker": "弥紀",
   "jp": "自分をどこかに\n閉じ込めていた気がする……。",
-  "en": "I feel like I've been keeping myself locked away\nsomewhere..."
+  "en": "I feel like I've been keeping\nmyself locked away somewhere..."
  },
  {
   "id": "fn11_04:027:07",
   "speaker": "弥紀",
   "jp": "……{px}、\nわたしがいま、\n一番したいことはね、",
-  "en": "...{px}, the thing I want to do most right now..."
+  "en": "...{px}, the thing\nI want to do most right now..."
  },
  {
   "id": "fn11_04:027:08",
@@ -399,7 +399,7 @@
   "id": "fn11_04:027:09",
   "speaker": "弥紀",
   "jp": "だから、置いていかないでね。\n一人で……いなくなったり\nしないで……。",
-  "en": "So please don't leave me behind. Don't... go off and\ndisappear on your own..."
+  "en": "So please don't leave me behind. Don't...\ngo off and disappear on your own..."
  },
  {
   "id": "fn11_04:028:00",
@@ -417,7 +417,7 @@
   "id": "fn11_04:028:02",
   "speaker": "弥紀",
   "jp": "……好きなの。\nいままでも、これからもずっと\n……あなたが、好き。",
-  "en": "...I love you. I always have, and I always will... I love\nyou."
+  "en": "...I love you. I always have,\nand I always will... I love you."
  },
  {
   "id": "fn11_04:028:03",
@@ -495,13 +495,13 @@
   "id": "fn11_04:032:00",
   "speaker": "弥紀",
   "jp": "……それでも、\nわたしのやりたいことは\n変わらないからね。",
-  "en": "...Even so, what I want to do isn't going to change,\nyou know."
+  "en": "...Even so, what I want to do\nisn't going to change, you know."
  },
  {
   "id": "fn11_04:032:01",
   "speaker": "弥紀",
   "jp": "それにきっと、\nわたしだけじゃない。\nみんなも同じ気持ちだから。",
-  "en": "And I'm sure it's not just me. Everyone feels the\nsame way."
+  "en": "And I'm sure it's not just me.\nEveryone feels the same way."
  },
  {
   "id": "fn11_04:032:02",
@@ -519,13 +519,13 @@
   "id": "fn11_04:034:00",
   "speaker": "弥紀",
   "jp": "……そうだ、\n巴からメール、来てるよね。",
-  "en": "...Oh, right. You got a text from Tomoe too, didn't\nyou?"
+  "en": "...Oh, right. You got a text\nfrom Tomoe too, didn't you?"
  },
  {
   "id": "fn11_04:034:01",
   "speaker": "弥紀",
   "jp": "わたしも行くから、\nまた後で……教室でね。",
-  "en": "I'm heading over too, so... see you in the classroom\nlater."
+  "en": "I'm heading over too, so... see\nyou in the classroom later."
  },
  {
   "id": "fn11_04:035:00",
@@ -537,7 +537,7 @@
   "id": "fn11_04:035:01",
   "speaker": "弥紀",
   "jp": "わたしに出来ることがあったら\nいつでも連絡してね。",
-  "en": "If there's anything I can do, get in touch anytime,\nokay?"
+  "en": "If there's anything I can do,\nget in touch anytime, okay?"
  },
  {
   "id": "fn11_04:037:00",
@@ -549,13 +549,13 @@
   "id": "fn11_04:037:01",
   "speaker": "弥紀",
   "jp": "そうだ、\n巴からメール、来てるよね。",
-  "en": "Oh, right. You got a text from Tomoe too, didn't\nyou?"
+  "en": "Oh, right. You got a text\nfrom Tomoe too, didn't you?"
  },
  {
   "id": "fn11_04:037:02",
   "speaker": "弥紀",
   "jp": "わたしも行くから、\nまた後で……教室でね。",
-  "en": "I'm heading over too, so... see you in the classroom\nlater."
+  "en": "I'm heading over too, so... see\nyou in the classroom later."
  },
  {
   "id": "fn11_04:038:00",
@@ -567,7 +567,7 @@
   "id": "fn11_04:038:01",
   "speaker": "弥紀",
   "jp": "わたしに出来ることがあったら\nいつでも連絡してね。",
-  "en": "If there's anything I can do, get in touch anytime,\nokay?"
+  "en": "If there's anything I can do,\nget in touch anytime, okay?"
  },
  {
   "id": "fn11_04:039:00",
@@ -591,7 +591,7 @@
   "id": "fn11_04:040:01",
   "speaker": "弥紀",
   "jp": "何かあったら連絡してね。\nすぐ行くから。",
-  "en": "If anything happens, get in touch. I'll come right\naway."
+  "en": "If anything happens, get in\ntouch. I'll come right away."
  },
  {
   "id": "fn11_04:ksf:09a0f",

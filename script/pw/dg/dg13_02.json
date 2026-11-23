@@ -21,7 +21,7 @@
   "id": "dg13_02:000:03",
   "speaker": "万黎",
   "jp": "{pm}　{pn}……\nお前は既に人類を\n{ruby:凌駕|りょうが}しているというのか……！？",
-  "en": "{pn} {pm}... Have you already surpassed humanity...!?"
+  "en": "{pn} {pm}... Have you\nalready surpassed humanity...!?"
  },
  {
   "id": "dg13_02:001:00",
@@ -123,37 +123,37 @@
   "id": "dg13_02:010:01",
   "speaker": "万黎",
   "jp": "人類は既に種としての\n滅びに向かい歩き始めた。",
-  "en": "Humanity has already begun its march toward\nextinction as a species."
+  "en": "Humanity has already begun its\nmarch toward extinction as a species."
  },
  {
   "id": "dg13_02:010:02",
   "speaker": "万黎",
   "jp": "お前が選択しなければ\n人類に新たな\n夜明けは来ない。",
-  "en": "Unless you make the choice, no new dawn will\ncome for humanity."
+  "en": "Unless you make the choice, no\nnew dawn will come for humanity."
  },
  {
   "id": "dg13_02:010:03",
   "speaker": "万黎",
   "jp": "俺と同じ未来を見た者によって\nその可能性はこれまでも\n様々な形でもたらされていた。",
-  "en": "Those who saw the same future I did have brought\nthis possibility forth in many forms before."
+  "en": "Those who saw the same future I did have\nbrought this possibility forth in many forms before."
  },
  {
   "id": "dg13_02:010:04",
   "speaker": "万黎",
   "jp": "聖書による終末の予言、\n南米に残る未来の無い暦、\n幾多の預言者たち……。",
-  "en": "The Bible's prophecies of the end times, the calendar\nof South America with no future, countless\nprophets..."
+  "en": "The Bible's prophecies of the end\ntimes, the calendar of South America\nwith no future, countless prophets..."
  },
  {
   "id": "dg13_02:010:05",
   "speaker": "万黎",
   "jp": "人類が生き残る術は唯一つ、\n人類である事を\n捨てる以外に無い。",
-  "en": "There is only one way for humanity to survive, and\nthat is to cast aside being human."
+  "en": "There is only one way for humanity to\nsurvive, and that is to cast aside being human."
  },
  {
   "id": "dg13_02:010:06",
   "speaker": "万黎",
   "jp": "人類を新たな段階へと\n進化させるためには\n膨大な情報が必要なのだ。",
-  "en": "To evolve humanity to a new stage requires an\nenormous amount of information."
+  "en": "To evolve humanity to a new stage requires\nan enormous amount of information."
  },
  {
   "id": "dg13_02:010:07",
@@ -165,7 +165,7 @@
   "id": "dg13_02:011:00",
   "speaker": "零",
   "jp": "おれたちの存在が\nひとを救うというのなら、\nそれは願ってもないことだ。",
-  "en": "If our existence can save people, I could wish for\nnothing better."
+  "en": "If our existence can save people,\nI could wish for nothing better."
  },
  {
   "id": "dg13_02:011:01",
@@ -177,7 +177,7 @@
   "id": "dg13_02:012:00",
   "speaker": "零",
   "jp": "おれたちの存在が\nひとを救うというのなら、\nそれは願ってもないことだ。",
-  "en": "If our existence can save people, I could wish for\nnothing better."
+  "en": "If our existence can save people,\nI could wish for nothing better."
  },
  {
   "id": "dg13_02:012:01",
@@ -189,19 +189,19 @@
   "id": "dg13_02:013:00",
   "speaker": "零",
   "jp": "きみの言うその方法で、\n本当にひとは、ひととしての\n幸せを得られるのか？",
-  "en": "With this method of yours, can people truly find\nhappiness as people?"
+  "en": "With this method of yours, can\npeople truly find happiness as people?"
  },
  {
   "id": "dg13_02:013:01",
   "speaker": "白",
   "jp": "先ほどから聞いておれば\n其方の口ぶり……\n神にでもなったつもりかえ？",
-  "en": "I have been listening, and the way you speak... Do\nyou think yourself a god?"
+  "en": "I have been listening, and the way you\nspeak... Do you think yourself a god?"
  },
  {
   "id": "dg13_02:013:02",
   "speaker": "白",
   "jp": "{ruby:呪言花札|じゅごんはなふだ}すらも、\n初めからその目的の為に\nあったかのような―――",
-  "en": "As if even the Curse Hanafuda existed for that\npurpose from the very start--"
+  "en": "As if even the Curse Hanafuda existed\nfor that purpose from the very start--"
  },
  {
   "id": "dg13_02:013:03",
@@ -249,13 +249,13 @@
   "id": "dg13_02:013:10",
   "speaker": "金属質な声",
   "jp": "{ruby:ＯＲＤＳ|カ　ミ　フ　ダ}とは、\n情報の記録媒体に過ぎぬ也。",
-  "en": "ORDS are naught but a medium for recording\ninformation."
+  "en": "ORDS are naught but a medium\nfor recording information."
  },
  {
   "id": "dg13_02:013:11",
   "speaker": "金属質な声",
   "jp": "文明の象徴である四辺形に\n分散された{ruby:我が叡智|・・・・}―――",
-  "en": "My wisdom, dispersed into the quadrilateral, the\nsymbol of civilization--"
+  "en": "My wisdom, dispersed into the\nquadrilateral, the symbol of civilization--"
  },
  {
   "id": "dg13_02:013:12",
@@ -267,7 +267,7 @@
   "id": "dg13_02:013:13",
   "speaker": "零",
   "jp": "やはり……そうか……。\n《{ruby:虚　空　蔵|アカシックレコード}》の{ruby:叡智|えいち}とは\n{ruby:彼|・}そのもの……。",
-  "en": "So... it is as I thought... The wisdom of the Akashic\nRecord is he himself..."
+  "en": "So... it is as I thought... The wisdom\nof the Akashic Record is he himself..."
  },
  {
   "id": "dg13_02:013:14",
@@ -285,25 +285,25 @@
   "id": "dg13_02:013:16",
   "speaker": "白",
   "jp": "そんな……遥か昔、\n肉体の衰えとともに\n消滅したはずでは……。",
-  "en": "But... surely he perished long ago, when his flesh\nwithered away..."
+  "en": "But... surely he perished long ago,\nwhen his flesh withered away..."
  },
  {
   "id": "dg13_02:013:17",
   "speaker": "金属質な声",
   "jp": "《{ruby:虚　空　蔵|アカシックレコード}》こそは\n我が叡智を留め置きし{ruby:器|うつわ}也。",
-  "en": "The Akashic Record is the vessel in which my\nwisdom is kept."
+  "en": "The Akashic Record is the vessel\nin which my wisdom is kept."
  },
  {
   "id": "dg13_02:013:18",
   "speaker": "金属質な声",
   "jp": "―――{pm}　{pn}。\n{ruby:意志持つ叡智|・・・・・・}を従えし\n《{ruby:秘儀を伝授されし者|イ　　ニ　　シ　　エ}》。",
-  "en": "--{pn} {pm}. Initiate, who commands wisdom that\nbears a will."
+  "en": "--{pn} {pm}. Initiate, who\ncommands wisdom that bears a will."
  },
  {
   "id": "dg13_02:013:19",
   "speaker": "金属質な声",
   "jp": "その力を{ruby:宙|そら}に献じ、\n人智を超越する存在への\n変貌を望むる者也。",
-  "en": "You are one who would offer that power to the\nheavens and wish to be transformed into a being\nbeyond human wisdom."
+  "en": "You are one who would offer that power\nto the heavens and wish to be transformed\ninto a being beyond human wisdom."
  },
  {
   "id": "dg13_02:014:00",
@@ -363,19 +363,19 @@
   "id": "dg13_02:024:00",
   "speaker": "零",
   "jp": "……ひとの行く末は、\nひとの手によってのみ\n変えられるべきだ。",
-  "en": "...The course of humanity should be changed by\nhuman hands alone."
+  "en": "...The course of humanity should\nbe changed by human hands alone."
  },
  {
   "id": "dg13_02:025:00",
   "speaker": "零",
   "jp": "……ひとの行く末は、\nひとの手によってのみ\n変えられるべきだ。",
-  "en": "...The course of humanity should be changed by\nhuman hands alone."
+  "en": "...The course of humanity should\nbe changed by human hands alone."
  },
  {
   "id": "dg13_02:026:00",
   "speaker": "零",
   "jp": "未来は―――\nひとの可能性が作る{ruby:未来|あした}は、\n決して定められてなどいない。",
-  "en": "The future-- The tomorrow made by human\npotential is never set in stone."
+  "en": "The future-- The tomorrow made by\nhuman potential is never set in stone."
  },
  {
   "id": "dg13_02:026:01",
@@ -387,42 +387,42 @@
   "id": "dg13_02:027:00",
   "speaker": "白",
   "jp": "妾たちにも\n護りたいものが……\n出来たからの。",
-  "en": "For we too... have come to have something we wish\nto protect."
+  "en": "For we too... have come to have\nsomething we wish to protect."
  },
  {
   "id": "dg13_02:027:01",
   "speaker": "白",
   "jp": "呑まれるでない、{px}。\n其方の内にはどんな{ruby:宿命|さだめ}も覆す\n無限の可能性が眠っておる。",
-  "en": "Do not be swallowed, {px}. Within you sleeps infinite\npotential that can overturn any fate."
+  "en": "Do not be swallowed, {px}.\nWithin you sleeps infinite potential that\ncan overturn any fate."
  },
  {
   "id": "dg13_02:027:02",
   "speaker": "白",
   "jp": "{ruby:主|あるじ}が望むのであれば、\n我ら、いかな障壁であろうと\n推して参るッ！！",
-  "en": "If our master so wishes, we shall press on through\nany barrier!!"
+  "en": "If our master so wishes, we shall\npress on through any barrier!!"
  },
  {
   "id": "dg13_02:028:00",
   "speaker": "白",
   "jp": "いま、妾たちを統べるのは\n{ruby:主|あるじ}、{pm}　{pn}。",
-  "en": "The one who commands us now is our master, {pn}\n{pm}."
+  "en": "The one who commands us now is\nour master, {pn} {pm}."
  },
  {
   "id": "dg13_02:028:01",
   "speaker": "白",
   "jp": "その主が望むのであれば、\nいかな障壁であろうと\n推して参るッ！！",
-  "en": "If that is what my master desires, then whatever the\nbarrier, I shall force my way through!!"
+  "en": "If that is what my master desires, then whatever\nthe barrier, I shall force my way through!!"
  },
  {
   "id": "dg13_02:029:00",
   "speaker": "金属質な声",
   "jp": "なれば、その可能性とやら\n我が前に示す也。",
-  "en": "Then let this \"possibility\" of yours be shown before\nme."
+  "en": "Then let this \"possibility\" of\nyours be shown before me."
  },
  {
   "id": "dg13_02:029:01",
   "speaker": "金属質な声",
   "jp": "人の身のまま\n人を超える力を―――",
-  "en": "The power to surpass humanity while remaining\nhuman--"
+  "en": "The power to surpass humanity\nwhile remaining human--"
  }
 ]

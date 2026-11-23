@@ -9,7 +9,7 @@
   "id": "dg09_01:000:01",
   "speaker": "白",
   "jp": "じゃが、一度そこまで\n侵食された以上、\n隠人へと化すのは間近ぞ。",
-  "en": "But once eroded so far, you are close to becoming\nan Oni."
+  "en": "But once eroded so far, you\nare close to becoming an Oni."
  },
  {
   "id": "dg09_01:000:02",
@@ -21,13 +21,13 @@
   "id": "dg09_01:000:03",
   "speaker": "筑紫",
   "jp": "{px}……。\nこれで、君をここに呼んだ\n目的のひとつは……達せた。",
-  "en": "{px}... With this, one of my purposes in calling you\nhere... has been achieved."
+  "en": "{px}... With this, one of my\npurposes in calling you here... has been achieved."
  },
  {
   "id": "dg09_01:000:04",
   "speaker": "いちる",
   "jp": "{px}を呼んだって……\nそれ、どういうコト！？",
-  "en": "Calling {px} here...? What's that supposed to mean!?"
+  "en": "Calling {px} here...?\nWhat's that supposed to mean!?"
  },
  {
   "id": "dg09_01:000:05",
@@ -45,7 +45,7 @@
   "id": "dg09_01:000:07",
   "speaker": "白",
   "jp": "そうか、其方の目的は\nこの{ruby:洞|うろ}に眠る\n光札の発動……。",
-  "en": "I see. Your aim is to awaken the Bright card that\nslumbers in this Hollow..."
+  "en": "I see. Your aim is to awaken the Bright\ncard that slumbers in this Hollow..."
  },
  {
   "id": "dg09_01:000:08",
@@ -87,7 +87,7 @@
   "id": "dg09_01:000:14",
   "speaker": "筑紫",
   "jp": "……これですべての光札が\n十分な力を蓄えた。",
-  "en": "...Now every Bright card has stored up enough\npower."
+  "en": "...Now every Bright card has\nstored up enough power."
  },
  {
   "id": "dg09_01:000:15",
@@ -219,7 +219,7 @@
   "id": "dg09_01:010:00",
   "speaker": "筑紫",
   "jp": "いまやこの島国の氣脈は\n乱れに乱れ、衰退の一途を\n辿るばかりだ。",
-  "en": "The ki veins of this island nation are now in utter\ndisarray, and in steady decline."
+  "en": "The ki veins of this island nation are now\nin utter disarray, and in steady decline."
  },
  {
   "id": "dg09_01:010:01",
@@ -243,7 +243,7 @@
   "id": "dg09_01:010:04",
   "speaker": "筑紫",
   "jp": "それが様々な情報から\n私が得た{ruby:真実|こたえ}だ。",
-  "en": "That is the truth I have drawn from a wealth of\ninformation."
+  "en": "That is the truth I have drawn\nfrom a wealth of information."
  },
  {
   "id": "dg09_01:010:05",
@@ -261,25 +261,25 @@
   "id": "dg09_01:010:07",
   "speaker": "筑紫",
   "jp": "命の循環率の低下、蔓延する\n過剰な不安と絶望、利己主義、\n原因はいくつも推測される。",
-  "en": "A falling rate in the cycle of life, rampant anxiety\nand despair, selfishness... Many causes can be\nsurmised."
+  "en": "A falling rate in the cycle of life,\nrampant anxiety and despair, selfishness...\nMany causes can be surmised."
  },
  {
   "id": "dg09_01:010:08",
   "speaker": "筑紫",
   "jp": "だが結局のところは、\nこの島そのものの寿命と\n言えるだろう。",
-  "en": "But in the end, you could call it the lifespan of this\nisland itself."
+  "en": "But in the end, you could call it\nthe lifespan of this island itself."
  },
  {
   "id": "dg09_01:010:09",
   "speaker": "筑紫",
   "jp": "……{px}、\nこの四季の洞には、\n君たちの知らない真実がある。",
-  "en": "...{px}, the Four Seasons Hollows hold a truth you do\nnot know."
+  "en": "...{px}, the Four Seasons\nHollows hold a truth you do not know."
  },
  {
   "id": "dg09_01:010:10",
   "speaker": "筑紫",
   "jp": "春夏秋冬の中央、龍脈の真上に\n《{ruby:龍珠堂|りゅうずどう}》と名づけられた\nもう一つの洞がある……。",
-  "en": "At the center of spring, summer, autumn and winter,\nright above the dragon vein, lies another Hollow,\nnamed the Ryujudo..."
+  "en": "At the center of spring, summer, autumn\nand winter, right above the dragon vein,\nlies another Hollow, named the Ryujudo..."
  },
  {
   "id": "dg09_01:010:11",
@@ -297,13 +297,13 @@
   "id": "dg09_01:010:13",
   "speaker": "白",
   "jp": "龍脈を\n逆流させる、と……？",
-  "en": "You mean to make the dragon vein flow\nbackward...?"
+  "en": "You mean to make the\ndragon vein flow backward...?"
  },
  {
   "id": "dg09_01:010:14",
   "speaker": "白",
   "jp": "では、その力を{ruby:総祖山|そうそざん}―――\n富士へとぶつけるつもりか！？",
-  "en": "Then you intend to hurl that power at the ancestral\nmountain--at Fuji!?"
+  "en": "Then you intend to hurl that power\nat the ancestral mountain--at Fuji!?"
  },
  {
   "id": "dg09_01:010:15",
@@ -315,13 +315,13 @@
   "id": "dg09_01:010:16",
   "speaker": "筑紫",
   "jp": "結果、地震と噴火によって\nこの国は混乱の{ruby:坩堝|るつぼ}と化す。",
-  "en": "The earthquakes and eruptions will turn this country\ninto a cauldron of chaos."
+  "en": "The earthquakes and eruptions will turn\nthis country into a cauldron of chaos."
  },
  {
   "id": "dg09_01:010:17",
   "speaker": "筑紫",
   "jp": "だが、呼び覚まされた力は\n復興の為の健全で新たな活力を\n人々にもたらすだろう。",
-  "en": "But the power awakened will bring the people a\nhealthy, new vitality to rebuild."
+  "en": "But the power awakened will bring the\npeople a healthy, new vitality to rebuild."
  },
  {
   "id": "dg09_01:010:18",
@@ -333,19 +333,19 @@
   "id": "dg09_01:010:19",
   "speaker": "筑紫",
   "jp": "……{px}、\nその札をおいて、\nすぐにここから―――",
-  "en": "...{px}, leave that card and get out of here at once--"
+  "en": "...{px}, leave that\ncard and get out of here at once--"
  },
  {
   "id": "dg09_01:010:20",
   "speaker": "筑紫",
   "jp": "大切な人を連れて、\n出来る限り遠くに\n逃げて欲しい。",
-  "en": "Take the people you care about, and flee as far\naway as you can."
+  "en": "Take the people you care about,\nand flee as far away as you can."
  },
  {
   "id": "dg09_01:011:00",
   "speaker": "筑紫",
   "jp": "その想いでこそ、\n救えるものも\nあるのかもしれないな。",
-  "en": "Perhaps there are things that can be saved by that\nvery feeling."
+  "en": "Perhaps there are things that can\nbe saved by that very feeling."
  },
  {
   "id": "dg09_01:011:01",
@@ -363,7 +363,7 @@
   "id": "dg09_01:013:00",
   "speaker": "筑紫",
   "jp": "その想いでこそ、\n救えるものも\nあるのかもしれないな。",
-  "en": "Perhaps there are things that can be saved by that\nvery feeling."
+  "en": "Perhaps there are things that can\nbe saved by that very feeling."
  },
  {
   "id": "dg09_01:013:01",
@@ -435,7 +435,7 @@
   "id": "dg09_01:020:00",
   "speaker": "筑紫",
   "jp": "君や、君の仲間たちのような\n勇気ある若者が生き残り、",
-  "en": "It is my wish that brave young people like you and\nyour friends survive,"
+  "en": "It is my wish that brave young people\nlike you and your friends survive,"
  },
  {
   "id": "dg09_01:020:01",
@@ -447,7 +447,7 @@
   "id": "dg09_01:020:02",
   "speaker": "いちる",
   "jp": "筑紫さん……\nそんな身体で、\n何するつもりなの！？",
-  "en": "Chikushi-san... What are you gonna do in that\nstate!?"
+  "en": "Chikushi-san... What are you\ngonna do in that state!?"
  },
  {
   "id": "dg09_01:020:03",
@@ -519,31 +519,31 @@
   "id": "dg09_01:020:14",
   "speaker": "紅緒",
   "jp": "……これで、隠者の刻印に\n取り込まれていた花札も\n分離出来るでしょう。",
-  "en": "...Now the hanafuda absorbed into the Hermit's Mark\ncan be separated as well."
+  "en": "...Now the hanafuda absorbed into the\nHermit's Mark can be separated as well."
  },
  {
   "id": "dg09_01:020:15",
   "speaker": "紅緒",
   "jp": "貴方の舞台は終わった。\n人である事まで\n捨てる事はない……。",
-  "en": "Your part on this stage is over. There is no need to\ncast away your humanity too..."
+  "en": "Your part on this stage is over. There is\nno need to cast away your humanity too..."
  },
  {
   "id": "dg09_01:020:16",
   "speaker": "筑紫",
   "jp": "やはり……そうか……\n君はただ……\n彼のために……",
-  "en": "So... it's as I thought... You were only... doing this for\nhis sake..."
+  "en": "So... it's as I thought... You were\nonly... doing this for his sake..."
  },
  {
   "id": "dg09_01:020:17",
   "speaker": "紅緒",
   "jp": "貴方はずっと……\n初めからずっと迷っていた。\n違いますか？",
-  "en": "You were wavering all along... right from the very\nbeginning. Were you not?"
+  "en": "You were wavering all along... right\nfrom the very beginning. Were you not?"
  },
  {
   "id": "dg09_01:020:18",
   "speaker": "紅緒",
   "jp": "未来を救うために、\n多くの人の未来を奪う……\nその絶対的な矛盾に。",
-  "en": "Robbing countless people of their future in order to\nsave the future... wavering at that absolute\ncontradiction."
+  "en": "Robbing countless people of their\nfuture in order to save the future...\nwavering at that absolute contradiction."
  },
  {
   "id": "dg09_01:020:19",
@@ -555,19 +555,19 @@
   "id": "dg09_01:020:20",
   "speaker": "紅緒",
   "jp": "唯一を迷う者が\n私に勝てる\n道理はありません。",
-  "en": "One who wavers over his sole purpose has no hope\nof defeating me."
+  "en": "One who wavers over his sole\npurpose has no hope of defeating me."
  },
  {
   "id": "dg09_01:020:21",
   "speaker": "紅緒",
   "jp": "未来はまだ、\n決まってはいない。\nそして、現在の行方も。",
-  "en": "The future is not yet decided. Nor is where the\npresent will lead."
+  "en": "The future is not yet decided. Nor\nis where the present will lead."
  },
  {
   "id": "dg09_01:020:22",
   "speaker": "紅緒",
   "jp": "けれど、{px}―――\n{ruby:光札|あ　れ}を止められるのは\n貴方だけ。",
-  "en": "But, {px}--you alone can stop that thing."
+  "en": "But, {px}--you\nalone can stop that thing."
  },
  {
   "id": "dg09_01:020:23",
@@ -687,7 +687,7 @@
   "id": "dg09_01:030:04",
   "speaker": "白",
   "jp": "光札が暴走しておる……。\n早く札に戻さねば、\nここも危険じゃ。",
-  "en": "The Bright card is running wild... Unless we return\nit to a card quickly, even this place will be in\ndanger."
+  "en": "The Bright card is running wild...\nUnless we return it to a card quickly,\neven this place will be in danger."
  },
  {
   "id": "dg09_01:030:05",
@@ -717,7 +717,7 @@
   "id": "dg09_01:030:09",
   "speaker": "伊佐地",
   "jp": "もう喋るな、筑紫。\nすぐに医者へ―――",
-  "en": "Don't talk anymore, Chikushi. We'll get you to a\ndoctor right--"
+  "en": "Don't talk anymore, Chikushi.\nWe'll get you to a doctor right--"
  },
  {
   "id": "dg09_01:030:10",
@@ -729,7 +729,7 @@
   "id": "dg09_01:030:11",
   "speaker": "筑紫",
   "jp": "幾度も、幾度も試算した。\n人龍計画を発動する事で\n失われる人口は三分の二……。",
-  "en": "I ran the numbers time and time again. Activating\nthe Human Dragon Project would wipe out\ntwo-thirds of the population..."
+  "en": "I ran the numbers time and time again.\nActivating the Human Dragon Project would\nwipe out two-thirds of the population..."
  },
  {
   "id": "dg09_01:030:12",
@@ -741,7 +741,7 @@
   "id": "dg09_01:030:13",
   "speaker": "筑紫",
   "jp": "例えどんな結果になろうと、\n初めから、私に生き残る\nなどという選択肢はない……。",
-  "en": "Whatever the outcome, surviving was never an\noption for me from the start..."
+  "en": "Whatever the outcome, surviving was\nnever an option for me from the start..."
  },
  {
   "id": "dg09_01:030:14",
@@ -753,7 +753,7 @@
   "id": "dg09_01:030:15",
   "speaker": "筑紫",
   "jp": "{px}、君ならば……\n君と、友人たちならば\nあるいは違う未来を―――",
-  "en": "{px}, perhaps you... you and your friends... could\nreach a different future--"
+  "en": "{px}, perhaps you... you and\nyour friends... could reach a different future--"
  },
  {
   "id": "dg09_01:030:16",
@@ -777,7 +777,7 @@
   "id": "dg09_01:030:19",
   "speaker": "伊佐地",
   "jp": "俺たちの―――お前の任務は、\nお前にしか出来ない方法で\n人々を危機から守る事だ。",
-  "en": "Our mission--your mission--is to protect people from\ndanger in the way only you can."
+  "en": "Our mission--your mission--is to protect\npeople from danger in the way only you can."
  },
  {
   "id": "dg09_01:030:20",

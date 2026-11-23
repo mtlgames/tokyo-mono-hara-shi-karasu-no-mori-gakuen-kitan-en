@@ -15,7 +15,7 @@
   "id": "ms01_02:000:02",
   "speaker": "{ruby:燈治|とうじ}",
   "jp": "転校初日だってのにホント、\nいい度胸してるぜ、お前。",
-  "en": "Real gutsy of you, showin' up here on your very\nfirst day as a transfer student."
+  "en": "Real gutsy of you, showin' up here on\nyour very first day as a transfer student."
  },
  {
   "id": "ms01_02:000:03",
@@ -51,7 +51,7 @@
   "id": "ms01_02:003:01",
   "speaker": "燈治",
   "jp": "もっと、勿体ぶるとか\n秘密を守るとか、\nそういうのはねェのかよ……。",
-  "en": "Ain't you supposed to play coy, or keep it secret, or\nsomethin'...?"
+  "en": "Ain't you supposed to play coy,\nor keep it secret, or somethin'...?"
  },
  {
   "id": "ms01_02:004:00",
@@ -69,7 +69,7 @@
   "id": "ms01_02:004:02",
   "speaker": "燈治",
   "jp": "もっと、勿体ぶるとか\n秘密を守るとか、\nそういうのはねェのかよ……。",
-  "en": "Ain't you supposed to play coy, or keep it secret, or\nsomethin'...?"
+  "en": "Ain't you supposed to play coy,\nor keep it secret, or somethin'...?"
  },
  {
   "id": "ms01_02:005:00",
@@ -81,7 +81,7 @@
   "id": "ms01_02:006:00",
   "speaker": "燈治",
   "jp": "そうムキになるなよ。\nそれじゃ、自分から\n認めてるようなもんだぜ？",
-  "en": "Don't get so worked up. You're practically admittin'\nit yourself, y'know?"
+  "en": "Don't get so worked up. You're\npractically admittin' it yourself, y'know?"
  },
  {
   "id": "ms01_02:007:00",
@@ -93,7 +93,7 @@
   "id": "ms01_02:008:00",
   "speaker": "燈治",
   "jp": "いや、何も無理に\n聞きだそうってんじゃ\nねェからよ。",
-  "en": "Nah, it ain't like I'm tryin' to force it outta you or\nnothin'."
+  "en": "Nah, it ain't like I'm tryin' to\nforce it outta you or nothin'."
  },
  {
   "id": "ms01_02:008:01",
@@ -123,13 +123,13 @@
   "id": "ms01_02:011:01",
   "speaker": "燈治",
   "jp": "時々、お前みたいな\n目をした奴がいる。",
-  "en": "Every now and then, I run into a guy with eyes\nlike yours."
+  "en": "Every now and then, I run into\na guy with eyes like yours."
  },
  {
   "id": "ms01_02:011:02",
   "speaker": "燈治",
   "jp": "迷いのない、強い意志と\n目的を持った目―――",
-  "en": "Eyes without a shred of doubt, full of strong will\nand purpose--"
+  "en": "Eyes without a shred of doubt,\nfull of strong will and purpose--"
  },
  {
   "id": "ms01_02:011:03",
@@ -141,7 +141,7 @@
   "id": "ms01_02:011:04",
   "speaker": "燈治",
   "jp": "だから俺は、知りてェんだ。\nお前みたいな奴を突き動かす\n目的って奴を―――",
-  "en": "That's why I wanna know. What it is that drives a\nguy like you--"
+  "en": "That's why I wanna know. What\nit is that drives a guy like you--"
  },
  {
   "id": "ms01_02:011:05",
@@ -195,7 +195,7 @@
   "id": "ms01_02:011:13",
   "speaker": "弥紀",
   "jp": "それになんとなくね、\n二人が来るんじゃないかなって\n思ったから。",
-  "en": "And besides, I just kind of had a feeling you two\nwould come."
+  "en": "And besides, I just kind of had\na feeling you two would come."
  },
  {
   "id": "ms01_02:012:00",
@@ -291,7 +291,7 @@
   "id": "ms01_02:022:00",
   "speaker": "燈治",
   "jp": "頼むから無茶だけは\nすんなよ？",
-  "en": "Just don't do anything reckless, okay? I'm beggin'\nyou."
+  "en": "Just don't do anything\nreckless, okay? I'm beggin' you."
  },
  {
   "id": "ms01_02:022:01",
@@ -303,7 +303,7 @@
   "id": "ms01_02:022:02",
   "speaker": "燈治",
   "jp": "ま、何かあったら\n{px}と俺で\n護るしかねェか。",
-  "en": "Well, if anything happens, guess {px} and I'll just\nhave to protect you."
+  "en": "Well, if anything happens, guess {px}\nand I'll just have to protect you."
  },
  {
   "id": "ms01_02:022:03",
@@ -315,19 +315,19 @@
   "id": "ms01_02:023:00",
   "speaker": "燈治",
   "jp": "{px}の言う事も\nわかるが、知りたいって\n気持ちは俺も同じだ。",
-  "en": "I get where {px}'s comin' from, but I wanna know\ntoo."
+  "en": "I get where {px}'s\ncomin' from, but I wanna know too."
  },
  {
   "id": "ms01_02:023:01",
   "speaker": "燈治",
   "jp": "{ruby:穂坂|ほさか}にだけ\n駄目だとは言えねェよ。",
-  "en": "Can't exactly tell Hosaka she's the only one who\ncan't come."
+  "en": "Can't exactly tell Hosaka she's\nthe only one who can't come."
  },
  {
   "id": "ms01_02:023:02",
   "speaker": "燈治",
   "jp": "ま、何かあっても\n俺たちで護りゃいい。\n……そうだろ？",
-  "en": "Well, if somethin' happens, we'll just protect her.\n...Right?"
+  "en": "Well, if somethin' happens,\nwe'll just protect her. ...Right?"
  },
  {
   "id": "ms01_02:024:00",
@@ -339,13 +339,13 @@
   "id": "ms01_02:024:01",
   "speaker": "弥紀",
   "jp": "それじゃ早速、\n焼却炉の調査だね！",
-  "en": "Okay then, let's get right to investigating the\nincinerator!"
+  "en": "Okay then, let's get right to\ninvestigating the incinerator!"
  },
  {
   "id": "ms01_02:024:02",
   "speaker": "燈治",
   "jp": "確か、あの白い奴は\nここに吸い込まれるように\n消えたんだったよな。",
-  "en": "If I remember right, that white thing vanished in\nhere like it got sucked inside."
+  "en": "If I remember right, that white thing\nvanished in here like it got sucked inside."
  },
  {
   "id": "ms01_02:024:03",
@@ -363,7 +363,7 @@
   "id": "ms01_02:024:05",
   "speaker": "燈治",
   "jp": "どうって、そりゃあ……。\n空っぽか、じゃなきゃ\n灰が詰まってんじゃねェか？",
-  "en": "What it's like? Well... Either it's empty, or it's packed\nfull of ash, ain't it?"
+  "en": "What it's like? Well... Either it's empty,\nor it's packed full of ash, ain't it?"
  },
  {
   "id": "ms01_02:024:06",
@@ -387,7 +387,7 @@
   "id": "ms01_02:024:09",
   "speaker": "燈治",
   "jp": "……穂坂。\nお前時々、ものすごく\n大胆な事言うな。",
-  "en": "...Hosaka. Sometimes you say some seriously bold\nstuff, y'know."
+  "en": "...Hosaka. Sometimes you say\nsome seriously bold stuff, y'know."
  },
  {
   "id": "ms01_02:024:10",
@@ -399,7 +399,7 @@
   "id": "ms01_02:024:11",
   "speaker": "燈治",
   "jp": "けど、ここに消えたのを\n見ちまった以上、中に何か\nあると考えるのが普通か。",
-  "en": "Still, now that we've seen it vanish in here, guess it's\nonly natural to figure somethin's inside."
+  "en": "Still, now that we've seen it vanish in here,\nguess it's only natural to figure somethin's inside."
  },
  {
   "id": "ms01_02:024:12",
@@ -453,7 +453,7 @@
   "id": "ms01_02:027:01",
   "speaker": "燈治",
   "jp": "扉を開ける前に\nまずお前を締めるべきなのか？\nあァ！？",
-  "en": "Maybe I oughta wring your neck before I open this\ndoor? Huh!?"
+  "en": "Maybe I oughta wring your neck\nbefore I open this door? Huh!?"
  },
  {
   "id": "ms01_02:027:02",
@@ -465,7 +465,7 @@
   "id": "ms01_02:027:03",
   "speaker": "燈治",
   "jp": "ッたく……\nいいからとっとと手ェ貸せよ。",
-  "en": "Geez... Just quit messin' around and gimme a hand\nalready."
+  "en": "Geez... Just quit messin' around\nand gimme a hand already."
  },
  {
   "id": "ms01_02:028:00",
@@ -531,7 +531,7 @@
   "id": "ms01_02:028:10",
   "speaker": "燈治",
   "jp": "みてェだな。\nご丁寧に、ロープまで\n下がってやがる。",
-  "en": "Looks like it. There's even a rope hangin' down, real\nconsiderate of 'em."
+  "en": "Looks like it. There's even a rope\nhangin' down, real considerate of 'em."
  },
  {
   "id": "ms01_02:028:11",

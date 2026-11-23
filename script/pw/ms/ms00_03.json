@@ -9,7 +9,7 @@
   "id": "ms00_03:000:01",
   "speaker": "伊佐地",
   "jp": "……{ruby:雉明|ちあき}はどうやら、\n崩落の際に出来た崖側の穴から\n脱出したようだ。",
-  "en": "...Looks like Chiaki got out through the hole in the\ncliff face that opened up in the cave-in."
+  "en": "...Looks like Chiaki got out through the hole\nin the cliff face that opened up in the cave-in."
  },
  {
   "id": "ms00_03:000:02",
@@ -75,7 +75,7 @@
   "id": "ms00_03:005:01",
   "speaker": "いちる",
   "jp": "そう……だよね。\n信じるって決めたんだから\n疑っちゃだめだよね。",
-  "en": "Yeah... you're right. We decided to trust him, so we\ncan't go doubting him."
+  "en": "Yeah... you're right. We decided to\ntrust him, so we can't go doubting him."
  },
  {
   "id": "ms00_03:005:02",
@@ -93,7 +93,7 @@
   "id": "ms00_03:006:01",
   "speaker": "いちる",
   "jp": "そうだよね。\n疑っちゃダメだよね。\n信じるって決めたんだから。",
-  "en": "Yeah, you're right. We can't go doubting him. We\ndecided to trust him."
+  "en": "Yeah, you're right. We can't go\ndoubting him. We decided to trust him."
  },
  {
   "id": "ms00_03:006:02",
@@ -117,7 +117,7 @@
   "id": "ms00_03:008:00",
   "speaker": "いちる",
   "jp": "……こんな風に\n雉明クンも悩んだのかな。",
-  "en": "...I wonder if Chiaki-kun agonized over things like\nthis, too."
+  "en": "...I wonder if Chiaki-kun agonized\nover things like this, too."
  },
  {
   "id": "ms00_03:008:01",
@@ -141,7 +141,7 @@
   "id": "ms00_03:010:01",
   "speaker": "伊佐地",
   "jp": "何処で何を始める気か知らんが\n{ruby:封札師|ふうさつし}である以上、\n勝手な真似はさせん。",
-  "en": "Don't know where he plans to go or what he's up\nto, but he's a Card Sealer. I won't let him do as he\npleases."
+  "en": "Don't know where he plans to go or\nwhat he's up to, but he's a Card Sealer.\nI won't let him do as he pleases."
  },
  {
   "id": "ms00_03:010:02",
@@ -153,7 +153,7 @@
   "id": "ms00_03:010:03",
   "speaker": "伊佐地",
   "jp": "雉明の正体が何であれ\nお前たちはまた何処かで\n出会う事になるはずだ。",
-  "en": "Whatever Chiaki really is, you two are bound to run\ninto him again somewhere."
+  "en": "Whatever Chiaki really is, you two are\nbound to run into him again somewhere."
  },
  {
   "id": "ms00_03:010:04",
@@ -165,7 +165,7 @@
   "id": "ms00_03:010:05",
   "speaker": "伊佐地",
   "jp": "封札師同士、\nカミフダを{ruby:巡|めぐ}って―――な。",
-  "en": "As fellow Card Sealers, chasing the same\nORDS--that is."
+  "en": "As fellow Card Sealers, chasing\nthe same ORDS--that is."
  },
  {
   "id": "ms00_03:010:06",
@@ -183,7 +183,7 @@
   "id": "ms00_03:010:08",
   "speaker": "伊佐地",
   "jp": "ああ。\nその時の為に、お前たちも\n欠かさず訓練を―――",
-  "en": "Yeah. So for that day, you two keep up your\ntraining without fail--"
+  "en": "Yeah. So for that day, you two\nkeep up your training without fail--"
  },
  {
   "id": "ms00_03:010:09",
@@ -225,13 +225,13 @@
   "id": "ms00_03:010:15",
   "speaker": "伊佐地",
   "jp": "都内の高校で\n{ruby:隠人|お　に}らしき異形が\n目撃されたらしい。",
-  "en": "Apparently a monstrous thing that looks like an Oni\nwas sighted at a high school in Tokyo."
+  "en": "Apparently a monstrous thing that looks like\nan Oni was sighted at a high school in Tokyo."
  },
  {
   "id": "ms00_03:010:16",
   "speaker": "いちる",
   "jp": "{ruby:隠人|お　に}が……？\nってコトはもしかして近くに\nカミフダがあるってコト！？",
-  "en": "An Oni...? So does that mean there might be ORDS\nnearby!?"
+  "en": "An Oni...? So does that mean\nthere might be ORDS nearby!?"
  },
  {
   "id": "ms00_03:010:17",
@@ -243,7 +243,7 @@
   "id": "ms00_03:010:18",
   "speaker": "伊佐地",
   "jp": "ここ数日、目撃報告が相次いで\n担当者は皆出払っている。",
-  "en": "Sighting reports have been pouring in these past few\ndays, and every agent's out in the field."
+  "en": "Sighting reports have been pouring in these past\nfew days, and every agent's out in the field."
  },
  {
   "id": "ms00_03:010:19",
@@ -279,7 +279,7 @@
   "id": "ms00_03:010:24",
   "speaker": "伊佐地",
   "jp": "お前はこれから京都にある\n国立国会図書館の関西館で\n補講。",
-  "en": "You're off to Kyoto for remedial lessons at the\nNational Diet Library's Kansai branch."
+  "en": "You're off to Kyoto for remedial lessons at\nthe National Diet Library's Kansai branch."
  },
  {
   "id": "ms00_03:010:25",
@@ -297,13 +297,13 @@
   "id": "ms00_03:010:27",
   "speaker": "伊佐地",
   "jp": "お前は実技はまだしも、\n知識面に不安がありすぎる。",
-  "en": "Your fieldwork's passable, but your knowledge is\nway too shaky."
+  "en": "Your fieldwork's passable, but\nyour knowledge is way too shaky."
  },
  {
   "id": "ms00_03:010:28",
   "speaker": "伊佐地",
   "jp": "向こうにうってつけの\n担当官がいる。\nしっかり勉強して来い。",
-  "en": "They've got just the right instructor over there. Go\nstudy hard."
+  "en": "They've got just the right instructor\nover there. Go study hard."
  },
  {
   "id": "ms00_03:010:29",
@@ -339,13 +339,13 @@
   "id": "ms00_03:012:01",
   "speaker": "伊佐地",
   "jp": "馬鹿な事言ってないで\n気を引き締めて行け。",
-  "en": "Quit talking nonsense and get your head in the\ngame."
+  "en": "Quit talking nonsense and\nget your head in the game."
  },
  {
   "id": "ms00_03:013:00",
   "speaker": "伊佐地",
   "jp": "やる気があるのは結構だがな、\n浮かれていると\n思わぬミスをするぞ。",
-  "en": "Being eager is all well and good, but if you get\ncarried away, you'll make mistakes you never saw\ncoming."
+  "en": "Being eager is all well and good, but\nif you get carried away, you'll make\nmistakes you never saw coming."
  },
  {
   "id": "ms00_03:013:01",
@@ -357,7 +357,7 @@
   "id": "ms00_03:014:00",
   "speaker": "伊佐地",
   "jp": "まったく……\n若いってのは\n暑苦しいもんだな。",
-  "en": "Honestly... The young sure are a sweaty, hot-blooded\nbunch."
+  "en": "Honestly... The young sure are\na sweaty, hot-blooded bunch."
  },
  {
   "id": "ms00_03:014:01",
@@ -381,13 +381,13 @@
   "id": "ms00_03:016:01",
   "speaker": "伊佐地",
   "jp": "だがな、その印を刻んだ以上、\nお前はお前の運命から\n逃げる事は出来ない。",
-  "en": "Well, now that you bear that Mark, you can't run\nfrom your fate."
+  "en": "Well, now that you bear that Mark,\nyou can't run from your fate."
  },
  {
   "id": "ms00_03:016:02",
   "speaker": "伊佐地",
   "jp": "駄々をこねていないで\n受け入れた上で立ち向かえ。",
-  "en": "Quit throwing a tantrum. Accept it, then face it\nhead-on."
+  "en": "Quit throwing a tantrum.\nAccept it, then face it head-on."
  },
  {
   "id": "ms00_03:017:00",
@@ -399,19 +399,19 @@
   "id": "ms00_03:017:01",
   "speaker": "伊佐地",
   "jp": "だがな、その印を刻んだ以上、\nお前はお前の運命から\n逃げる事は出来ない。",
-  "en": "Well, now that you bear that Mark, you can't run\nfrom your fate."
+  "en": "Well, now that you bear that Mark,\nyou can't run from your fate."
  },
  {
   "id": "ms00_03:017:02",
   "speaker": "伊佐地",
   "jp": "駄々をこねていないで\n受け入れた上で立ち向かえ。",
-  "en": "Quit throwing a tantrum. Accept it, then face it\nhead-on."
+  "en": "Quit throwing a tantrum.\nAccept it, then face it head-on."
  },
  {
   "id": "ms00_03:018:00",
   "speaker": "伊佐地",
   "jp": "そう心配するな。\nお前は無事に\n試験をやり遂げたんだ。",
-  "en": "Don't worry so much. You made it through the\nexam in one piece."
+  "en": "Don't worry so much. You made\nit through the exam in one piece."
  },
  {
   "id": "ms00_03:018:01",
@@ -423,13 +423,13 @@
   "id": "ms00_03:019:00",
   "speaker": "伊佐地",
   "jp": "言っておくが、俺はお前に\n行きたいか、行きたくないかを\n尋ねている訳じゃない。",
-  "en": "Let me be clear: I'm not asking whether you want to\ngo or not."
+  "en": "Let me be clear: I'm not asking\nwhether you want to go or not."
  },
  {
   "id": "ms00_03:019:01",
   "speaker": "伊佐地",
   "jp": "……お前にしか出来ない事だ。\nつべこべ言わずに行ってこい。",
-  "en": "...This is something only you can do. Quit your\ngriping and get going."
+  "en": "...This is something only you can\ndo. Quit your griping and get going."
  },
  {
   "id": "ms00_03:020:00",

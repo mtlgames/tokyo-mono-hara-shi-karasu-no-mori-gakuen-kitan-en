@@ -27,13 +27,13 @@
   "id": "fn09_01:001:04",
   "speaker": "零",
   "jp": "想いを寄せたひとたちの\n心を凍らせる……。",
-  "en": "...and the hearts of those who loved them freeze\nover..."
+  "en": "...and the hearts of those\nwho loved them freeze over..."
  },
  {
   "id": "fn09_01:001:05",
   "speaker": "零",
   "jp": "{px}、きみが\n命を落とす必要なんて\nないだろう？",
-  "en": "{px}, there's no reason for you to lose your life, is\nthere?"
+  "en": "{px}, there's no reason\nfor you to lose your life, is there?"
  },
  {
   "id": "fn09_01:002:00",
@@ -93,7 +93,7 @@
   "id": "fn09_01:006:01",
   "speaker": "零",
   "jp": "それは、きみの大切な\nひとたちを悲しませてまで通す\n意地なのか……？",
-  "en": "Is that pride worth keeping, even if it grieves the\npeople who matter to you...?"
+  "en": "Is that pride worth keeping, even if it\ngrieves the people who matter to you...?"
  },
  {
   "id": "fn09_01:007:00",
@@ -135,13 +135,13 @@
   "id": "fn09_01:011:01",
   "speaker": "零",
   "jp": "いつからか、考えている。\nなぜ、真っ直ぐに\nその道を進むのだろうか、と。",
-  "en": "At some point, I started wondering. Why do you\nwalk that path so straight?"
+  "en": "At some point, I started wondering.\nWhy do you walk that path so straight?"
  },
  {
   "id": "fn09_01:011:02",
   "speaker": "零",
   "jp": "脇道はないんだろうか。\n降りることも……もしかしたら\n可能なんじゃないか……。",
-  "en": "Isn't there a side road? Maybe even stepping off it...\nmight be possible..."
+  "en": "Isn't there a side road? Maybe even\nstepping off it... might be possible..."
  },
  {
   "id": "fn09_01:011:03",
@@ -159,7 +159,7 @@
   "id": "fn09_01:011:05",
   "speaker": "零",
   "jp": "……何も話せないのに、\n聞いてばかりいて、すまない。",
-  "en": "...I'm sorry. I can't tell you anything, and yet all I do\nis ask."
+  "en": "...I'm sorry. I can't tell you\nanything, and yet all I do is ask."
  },
  {
   "id": "fn09_01:011:06",
@@ -177,6 +177,6 @@
   "id": "fn09_01:012:01",
   "speaker": "零",
   "jp": "それでも、\n知識はただの知識。\n生身のものじゃない……。",
-  "en": "Even so, knowledge is only knowledge. It isn't\nsomething alive..."
+  "en": "Even so, knowledge is only\nknowledge. It isn't something alive..."
  }
 ]

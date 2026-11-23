@@ -3,7 +3,7 @@
   "id": "fn07_30:001:00",
   "speaker": "鎧の店員",
   "jp": "ここは、玩具と夢の{ruby:戦場|いくさば}、\nイエス！サブリミナルである。\nごゆるりと堪能あれ。",
-  "en": "This is the battlefield of toys and dreams: Yes!\nSubliminal. Pray, savor it at your leisure."
+  "en": "This is the battlefield of toys and dreams:\nYes! Subliminal. Pray, savor it at your leisure."
  },
  {
   "id": "fn07_30:002:00",
@@ -15,7 +15,7 @@
   "id": "fn07_30:004:00",
   "speaker": "鎧の店員",
   "jp": "{ruby:某|それがし}、武将の甲冑が好きなのだが\n特に良いのが、兜の{ruby:立物|たてもの}である。",
-  "en": "This one is fond of warlords' armor, and the finest\npart of all is the helmet crest."
+  "en": "This one is fond of warlords' armor, and\nthe finest part of all is the helmet crest."
  },
  {
   "id": "fn07_30:004:01",
@@ -27,13 +27,13 @@
   "id": "fn07_30:004:02",
   "speaker": "鎧の店員",
   "jp": "それぞれの武将が、己が功を\n広く知らしめんと{ruby:凝|こ}らした\n創意工夫……。",
-  "en": "Each warlord poured his ingenuity into it, to\nproclaim his deeds far and wide..."
+  "en": "Each warlord poured his ingenuity into\nit, to proclaim his deeds far and wide..."
  },
  {
   "id": "fn07_30:004:03",
   "speaker": "鎧の店員",
   "jp": "いや～、良いよねっ！\nカタログをめくる手にも\n力がこもるってもんだよ！",
-  "en": "Man, they're just so cool, right!? I get all fired up\njust flipping through the catalog!"
+  "en": "Man, they're just so cool, right!? I get all\nfired up just flipping through the catalog!"
  },
  {
   "id": "fn07_30:004:04",
@@ -45,13 +45,13 @@
   "id": "fn07_30:005:00",
   "speaker": "鎧の店員",
   "jp": "他に御用がありましたら、\nなんなりとお申し付けあれ。",
-  "en": "Should you require aught else, pray, do not hesitate\nto command me."
+  "en": "Should you require aught else, pray,\ndo not hesitate to command me."
  },
  {
   "id": "fn07_30:006:00",
   "speaker": "鎧の店員",
   "jp": "他に御用がありましたら、\nなんなりとお申し付けあれ。",
-  "en": "Should you require aught else, pray, do not hesitate\nto command me."
+  "en": "Should you require aught else, pray,\ndo not hesitate to command me."
  },
  {
   "id": "fn07_30:007:00",

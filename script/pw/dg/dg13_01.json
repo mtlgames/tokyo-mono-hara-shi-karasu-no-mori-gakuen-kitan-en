@@ -9,7 +9,7 @@
   "id": "dg13_01:000:01",
   "speaker": "万黎",
   "jp": "{pm}　{pn}―――\n大いなる遺志に選ばれた\n《{ruby:秘儀を伝授されし者|イ　　ニ　　シ　　エ}》よ。",
-  "en": "{pn} {pm}-- Initiate, chosen by the Great Will."
+  "en": "{pn} {pm}-- Initiate,\nchosen by the Great Will."
  },
  {
   "id": "dg13_01:000:02",
@@ -21,7 +21,7 @@
   "id": "dg13_01:000:03",
   "speaker": "万黎",
   "jp": "《{ruby:極めし者|ア　デ　プ　ト}》へと昇華し、\n{ruby:ＯＲＤＳ|カ　ミ　フ　ダ}の力を\n解き放つ事だけだ。",
-  "en": "To ascend to Adept and unleash the power of the\nORDS. Nothing more."
+  "en": "To ascend to Adept and unleash the\npower of the ORDS. Nothing more."
  },
  {
   "id": "dg13_01:000:04",
@@ -63,7 +63,7 @@
   "id": "dg13_01:003:01",
   "speaker": "万黎",
   "jp": "言葉とは裏腹に\n油断の出来ぬ目をする。",
-  "en": "Your words say one thing, but your eyes leave no\nopening."
+  "en": "Your words say one thing, but\nyour eyes leave no opening."
  },
  {
   "id": "dg13_01:004:00",
@@ -147,13 +147,13 @@
   "id": "dg13_01:013:00",
   "speaker": "零",
   "jp": "花札から{ruby:乖離|かいり}して\n{ruby:目醒|め　ざ}めたおれを、\nきみが呼んだ。",
-  "en": "When I split off from the hanafuda and awoke, it\nwas you who summoned me."
+  "en": "When I split off from the hanafuda and\nawoke, it was you who summoned me."
  },
  {
   "id": "dg13_01:013:01",
   "speaker": "零",
   "jp": "おれに花札を解放する術を教え\nその為の強い力を\n持つ者を探すべく、",
-  "en": "You taught me the means to release the hanafuda,\nand to find someone with the great power it would\ntake,"
+  "en": "You taught me the means to release\nthe hanafuda, and to find someone\nwith the great power it would take,"
  },
  {
   "id": "dg13_01:013:02",
@@ -177,7 +177,7 @@
   "id": "dg13_01:013:05",
   "speaker": "万黎",
   "jp": "俺はずっと探していた。\n人類の進むべき道を。",
-  "en": "I have been searching all this time. For the path\nhumanity must take."
+  "en": "I have been searching all this time.\nFor the path humanity must take."
  },
  {
   "id": "dg13_01:013:06",
@@ -189,7 +189,7 @@
   "id": "dg13_01:013:07",
   "speaker": "万黎",
   "jp": "人類が現在の延長線上にある\n空虚な未来から\n脱するためには、",
-  "en": "For humanity to escape the hollow future that lies\non the extension of the present,"
+  "en": "For humanity to escape the hollow future\nthat lies on the extension of the present,"
  },
  {
   "id": "dg13_01:013:08",
@@ -213,31 +213,31 @@
   "id": "dg13_01:013:11",
   "speaker": "万黎",
   "jp": "すべての条件が揃った\nいま、この時にこそ、\nそれは叶えられるのだ。",
-  "en": "Now, at this very moment, with every condition in\nplace, it can be achieved."
+  "en": "Now, at this very moment, with every\ncondition in place, it can be achieved."
  },
  {
   "id": "dg13_01:013:12",
   "speaker": "万黎",
   "jp": "未来を憂い、{ruby:呪言花札|カミフダ}の\n封を解くほどに強き決意を\n持った一人の男―――",
-  "en": "A man who grieved for the future, with resolve\nstrong enough to break the seal on the Curse\nHanafuda--"
+  "en": "A man who grieved for the future,\nwith resolve strong enough to break\nthe seal on the Curse Hanafuda--"
  },
  {
   "id": "dg13_01:013:13",
   "speaker": "万黎",
   "jp": "五百余年を経て破滅の意志を\n持つに至った札―――",
-  "en": "Cards that, over five hundred years and more, came\nto harbor a will for ruin--"
+  "en": "Cards that, over five hundred years and\nmore, came to harbor a will for ruin--"
  },
  {
   "id": "dg13_01:013:14",
   "speaker": "万黎",
   "jp": "執行者の誇りを捨てる事を\n厭わぬ忌まわしき血の者―――",
-  "en": "One of accursed blood, unafraid to cast aside the\nExecutor's pride--"
+  "en": "One of accursed blood, unafraid to\ncast aside the Executor's pride--"
  },
  {
   "id": "dg13_01:013:15",
   "speaker": "万黎",
   "jp": "そして、花札の力を開放出来る\n稀有な能力を有した\n秘法の瞳を持つ者―――",
-  "en": "And one with arcane eyes, possessed of the rare\nability to release the hanafuda's power--"
+  "en": "And one with arcane eyes, possessed of the\nrare ability to release the hanafuda's power--"
  },
  {
   "id": "dg13_01:013:16",
@@ -261,13 +261,13 @@
   "id": "dg13_01:013:19",
   "speaker": "万黎",
   "jp": "清浄なる未来の為、\n歪みは正さねばならぬ。",
-  "en": "For the sake of a pure future, distortions must be\ncorrected."
+  "en": "For the sake of a pure future,\ndistortions must be corrected."
  },
  {
   "id": "dg13_01:013:20",
   "speaker": "万黎",
   "jp": "全ては、\n因果によって定められた\n{ruby:時代|と　き}の運行。",
-  "en": "All is the turning of the ages, fixed by cause and\neffect."
+  "en": "All is the turning of the ages,\nfixed by cause and effect."
  },
  {
   "id": "dg13_01:013:21",

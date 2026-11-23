@@ -27,7 +27,7 @@
   "id": "dg00_04:000:04",
   "speaker": "いちる",
   "jp": "でも、もし初めから\nあたし一人だけだったら\n絶対無理だったと思うな。",
-  "en": "if it'd been just me on my own from the start,\nthere's no way I could've done it."
+  "en": "if it'd been just me on my own from the\nstart, there's no way I could've done it."
  },
  {
   "id": "dg00_04:000:05",
@@ -45,7 +45,7 @@
   "id": "dg00_04:000:07",
   "speaker": "零",
   "jp": "きみの能力からすれば\n武藤とおれの存在など\n必要なかっただろう。",
-  "en": "Given your abilities, you probably had no need for\nMuto or me."
+  "en": "Given your abilities, you probably\nhad no need for Muto or me."
  },
  {
   "id": "dg00_04:001:00",
@@ -63,7 +63,7 @@
   "id": "dg00_04:002:00",
   "speaker": "零",
   "jp": "……きみ一人の力でも\n容易にこの場を切り抜ける\nことが出来た。",
-  "en": "...You could easily have gotten through this on your\nown power alone."
+  "en": "...You could easily have gotten through\nthis on your own power alone."
  },
  {
   "id": "dg00_04:002:01",
@@ -75,7 +75,7 @@
   "id": "dg00_04:003:00",
   "speaker": "零",
   "jp": "……きみ一人の力でも\n容易にこの場を切り抜ける\nことが出来た。",
-  "en": "...You could easily have gotten through this on your\nown power alone."
+  "en": "...You could easily have gotten through\nthis on your own power alone."
  },
  {
   "id": "dg00_04:003:01",
@@ -153,13 +153,13 @@
   "id": "dg00_04:010:02",
   "speaker": "いちる",
   "jp": "よぉっし！\nこれからもっと腕上げて、\n次は絶対、役に立つからね！",
-  "en": "Alriiight! I'm gonna get way better, and next time I'll\ndefinitely be useful!"
+  "en": "Alriiight! I'm gonna get way better,\nand next time I'll definitely be useful!"
  },
  {
   "id": "dg00_04:011:00",
   "speaker": "いちる",
   "jp": "そんな風に思ってくれるなんて\n……嬉しいよ。",
-  "en": "You actually think that way about us...? That makes\nme happy."
+  "en": "You actually think that way\nabout us...? That makes me happy."
  },
  {
   "id": "dg00_04:011:01",
@@ -171,19 +171,19 @@
   "id": "dg00_04:011:02",
   "speaker": "いちる",
   "jp": "あたしは{px}と\n雉明クンに会えて、\n初めてそう思えたから。",
-  "en": "Meeting you and Chiaki-kun, {px}, is the first time I\never felt that way."
+  "en": "Meeting you and Chiaki-kun, {px},\nis the first time I ever felt that way."
  },
  {
   "id": "dg00_04:011:03",
   "speaker": "いちる",
   "jp": "……でもやっぱり\n{px}の助けになるには\nまだまだだよね。",
-  "en": "...But I've still got a long way to go before I'm any\nreal help to you, {px}."
+  "en": "...But I've still got a long way to go before\nI'm any real help to you, {px}."
  },
  {
   "id": "dg00_04:011:04",
   "speaker": "いちる",
   "jp": "これからもっと腕上げて、\n次はもっと役に立って\nみせるからね！",
-  "en": "I'm gonna get way better, and next time I'll show\nyou how useful I can be!"
+  "en": "I'm gonna get way better, and next\ntime I'll show you how useful I can be!"
  },
  {
   "id": "dg00_04:012:00",
@@ -201,7 +201,7 @@
   "id": "dg00_04:012:02",
   "speaker": "零",
   "jp": "もしも……次があるなら\nおれも少しは、きみの―――",
-  "en": "If... there is a next time, perhaps I could be a little of\nyour--"
+  "en": "If... there is a next time, perhaps\nI could be a little of your--"
  },
  {
   "id": "dg00_04:012:03",
@@ -237,19 +237,19 @@
   "id": "dg00_04:012:08",
   "speaker": "伊佐地",
   "jp": "随分と大きいな。\nそんな予測は出ていなかった\nはずだが……。",
-  "en": "That's a big one. There wasn't any forecast for\nsomething like that..."
+  "en": "That's a big one. There wasn't any\nforecast for something like that..."
  },
  {
   "id": "dg00_04:012:09",
   "speaker": "伊佐地",
   "jp": "その部屋は、他より{ruby:一際|ひときわ}\n{ruby:頑丈|がんじょう}に作られている。\nそう簡単には崩れん。",
-  "en": "That room's built sturdier than the others. It won't\ncollapse that easily."
+  "en": "That room's built sturdier than the\nothers. It won't collapse that easily."
  },
  {
   "id": "dg00_04:012:10",
   "speaker": "いちる",
   "jp": "でも……\nなんかさっきから\nゴゴゴッて言ってるよ～。",
-  "en": "But... it's been going *rumble rumble* for a while\nnow~"
+  "en": "But... it's been going *rumble\nrumble* for a while now~"
  },
  {
   "id": "dg00_04:012:11",
@@ -267,7 +267,7 @@
   "id": "dg00_04:012:13",
   "speaker": "伊佐地",
   "jp": "くッ……なんだこの揺れは！\n奥の扉から即時撤退だ！\n―――走れッ！！",
-  "en": "Ngh... What is this shaking!? Retreat through the far\ndoor, now! --Run!!"
+  "en": "Ngh... What is this shaking!? Retreat\nthrough the far door, now! --Run!!"
  },
  {
   "id": "dg00_04:012:14",
@@ -327,7 +327,7 @@
   "id": "dg00_04:015:01",
   "speaker": "いちる",
   "jp": "も、もうッ、こんな時に\nなななななに言ってるのッ！！",
-  "en": "G-Geez! Wh-wh-wh-what are you saying at a time\nlike this!!"
+  "en": "G-Geez! Wh-wh-wh-what are\nyou saying at a time like this!!"
  },
  {
   "id": "dg00_04:015:02",
@@ -501,7 +501,7 @@
   "id": "dg00_04:026:07",
   "speaker": "いちる",
   "jp": "早く一緒に逃げよう！？\nここだっていつ崩れるか―――",
-  "en": "Hurry, let's get out of here together! This place\ncould collapse any--"
+  "en": "Hurry, let's get out of here together!\nThis place could collapse any--"
  },
  {
   "id": "dg00_04:026:08",
@@ -525,7 +525,7 @@
   "id": "dg00_04:027:00",
   "speaker": "零",
   "jp": "一時的に《{ruby:龍脈|りゅうみゃく}》を抑えた。\nいまなら安全に出口を\n目指すことが出来る。",
-  "en": "I've temporarily suppressed the dragon vein. You can\nmake for the exit safely now."
+  "en": "I've temporarily suppressed the dragon vein.\nYou can make for the exit safely now."
  },
  {
   "id": "dg00_04:027:01",
@@ -585,7 +585,7 @@
   "id": "dg00_04:033:00",
   "speaker": "零",
   "jp": "この状態は長くは持たない。\n天井に押し潰されたくなければ\n早く脱出することだ。",
-  "en": "This won't hold for long. If you don't want to be\ncrushed by the ceiling, get out quickly."
+  "en": "This won't hold for long. If you don't want\nto be crushed by the ceiling, get out quickly."
  },
  {
   "id": "dg00_04:034:00",
@@ -603,7 +603,7 @@
   "id": "dg00_04:035:00",
   "speaker": "零",
   "jp": "この状態は長くは持たない。\n天井に押し潰されたくなければ\n早く脱出することだ。",
-  "en": "This won't hold for long. If you don't want to be\ncrushed by the ceiling, get out quickly."
+  "en": "This won't hold for long. If you don't want\nto be crushed by the ceiling, get out quickly."
  },
  {
   "id": "dg00_04:036:00",
@@ -627,7 +627,7 @@
   "id": "dg00_04:037:02",
   "speaker": "零",
   "jp": "もしもきみの内に秘められた\n力が、おれが思うほどに\n大きいものなら、",
-  "en": "If the power hidden within you is as great as I\nbelieve it to be,"
+  "en": "If the power hidden within you\nis as great as I believe it to be,"
  },
  {
   "id": "dg00_04:037:03",

@@ -21,13 +21,13 @@
   "id": "dg07_02:001:00",
   "speaker": "白",
   "jp": "……それでよい。\n札も主の手に戻り、\n安定しておる。",
-  "en": "...Good. The card has returned to its master's hand\nand is stable."
+  "en": "...Good. The card has returned to\nits master's hand and is stable."
  },
  {
   "id": "dg07_02:001:01",
   "speaker": "白",
   "jp": "いささか、情報量が\n多すぎるのが気になる\nところじゃがな。",
-  "en": "Though the sheer amount of information in it does\ntrouble me somewhat."
+  "en": "Though the sheer amount of information\nin it does trouble me somewhat."
  },
  {
   "id": "dg07_02:001:02",
@@ -39,7 +39,7 @@
   "id": "dg07_02:001:03",
   "speaker": "義王",
   "jp": "さすがだぜ、{px}。\nそれでこそ、このオレ様が\n宿敵と認めた男だ。",
-  "en": "Nice work, {px}. That's the man the great me\nrecognized as his archrival."
+  "en": "Nice work, {px}. That's the\nman the great me recognized as his archrival."
  },
  {
   "id": "dg07_02:002:00",
@@ -51,7 +51,7 @@
   "id": "dg07_02:002:01",
   "speaker": "義王",
   "jp": "単なる馬鹿か、底なしか……\nまったく食えねー野郎だぜ。",
-  "en": "Just an idiot, or bottomless... You're one hell of a\nhard guy to read."
+  "en": "Just an idiot, or bottomless... You're\none hell of a hard guy to read."
  },
  {
   "id": "dg07_02:003:00",
@@ -63,13 +63,13 @@
   "id": "dg07_02:003:01",
   "speaker": "義王",
   "jp": "単なる馬鹿か、底なしか……\nまったく食えねー野郎だぜ。",
-  "en": "Just an idiot, or bottomless... You're one hell of a\nhard guy to read."
+  "en": "Just an idiot, or bottomless... You're\none hell of a hard guy to read."
  },
  {
   "id": "dg07_02:004:00",
   "speaker": "義王",
   "jp": "はッはァ！\nいいツラしやがるじゃねーか！",
-  "en": "Hah haaa! Now that's a damn good look on your\nmug!"
+  "en": "Hah haaa! Now that's a damn\ngood look on your mug!"
  },
  {
   "id": "dg07_02:004:01",
@@ -93,7 +93,7 @@
   "id": "dg07_02:006:01",
   "speaker": "義王",
   "jp": "敵も味方も関係ねえ。\n強ェ奴を強ェと讃えて\n何が悪いっつーんだよッ。",
-  "en": "Enemy or ally, who cares. What's wrong with callin'\na strong guy strong!?"
+  "en": "Enemy or ally, who cares. What's wrong\nwith callin' a strong guy strong!?"
  },
  {
   "id": "dg07_02:007:00",
@@ -105,7 +105,7 @@
   "id": "dg07_02:007:01",
   "speaker": "義王",
   "jp": "敵も味方も関係ねえ。\n強ェ奴を強ェと讃えて\n何が悪いっつーんだよッ。",
-  "en": "Enemy or ally, who cares. What's wrong with callin'\na strong guy strong!?"
+  "en": "Enemy or ally, who cares. What's wrong\nwith callin' a strong guy strong!?"
  },
  {
   "id": "dg07_02:008:00",
@@ -129,19 +129,19 @@
   "id": "dg07_02:009:01",
   "speaker": "義王",
   "jp": "敵も味方も関係ねえ。\n強ェ奴を強ェと讃えて\n何が悪いっつーんだよッ。",
-  "en": "Enemy or ally, who cares. What's wrong with callin'\na strong guy strong!?"
+  "en": "Enemy or ally, who cares. What's wrong\nwith callin' a strong guy strong!?"
  },
  {
   "id": "dg07_02:010:00",
   "speaker": "義王",
   "jp": "お？\nこのオレ様を無視るか？\n上等だぞ、テメェッ！！",
-  "en": "Oh? You're ignorin' the great me? You got guts,\npal!!"
+  "en": "Oh? You're ignorin' the\ngreat me? You got guts, pal!!"
  },
  {
   "id": "dg07_02:011:00",
   "speaker": "義王",
   "jp": "まったくテメェを見てるとよ、\nいつでも{ruby:闘|や}り合いたくなって\nしょーがねーぜ。",
-  "en": "Seriously, lookin' at you, I can't help wantin' to\nthrow down with you every damn time."
+  "en": "Seriously, lookin' at you, I can't help wantin'\nto throw down with you every damn time."
  },
  {
   "id": "dg07_02:011:01",
@@ -159,7 +159,7 @@
   "id": "dg07_02:011:03",
   "speaker": "アンジー",
   "jp": "傷、まだ癒えてないデショ？\nホントに……\nムチャばっかり……！",
-  "en": "Your wounds haven't healed yet, right? Honestly...\nalways so reckless...!"
+  "en": "Your wounds haven't healed yet,\nright? Honestly... always so reckless...!"
  },
  {
   "id": "dg07_02:011:04",
@@ -177,19 +177,19 @@
   "id": "dg07_02:011:06",
   "speaker": "御霧",
   "jp": "いまの俺たちでは\n{px}には勝てん。\n出直すぞ。",
-  "en": "The way we are now, we can't beat {px}. We're\nregrouping."
+  "en": "The way we are now, we can't beat\n{px}. We're regrouping."
  },
  {
   "id": "dg07_02:011:07",
   "speaker": "義王",
   "jp": "あァ？\n何だテメェら、偉そうに\nこのオレ様に命令かァ！？",
-  "en": "Huh? What's with you two, gettin' cocky and givin'\nthe great me orders!?"
+  "en": "Huh? What's with you two, gettin'\ncocky and givin' the great me orders!?"
  },
  {
   "id": "dg07_02:011:08",
   "speaker": "アンジー",
   "jp": "Ｓｉ！\nたまには言うコト\n聞いてもらうヨ？",
-  "en": "Si! For once, you're gonna listen to what we say,\nokay?"
+  "en": "Si! For once, you're gonna\nlisten to what we say, okay?"
  },
  {
   "id": "dg07_02:011:09",
@@ -213,13 +213,13 @@
   "id": "dg07_02:011:12",
   "speaker": "アンジー",
   "jp": "{ruby:Ａｂｕｅｌａ|お　ば　あ　ち　ゃ　ん}がよく言ってた。\nそれなのにアンは自分が一人で\n強くなるコトばっかり……。",
-  "en": "That's what Abuela always used to say. And yet\nAngie only ever thought about getting strong on her\nown..."
+  "en": "That's what Abuela always used to\nsay. And yet Angie only ever thought\nabout getting strong on her own..."
  },
  {
   "id": "dg07_02:011:13",
   "speaker": "アンジー",
   "jp": "こんなコトじゃ\nいつまでたったって\n{px}には勝てないヨ。",
-  "en": "At this rate, Angie's never gonna beat {px}, no\nmatter how long it takes."
+  "en": "At this rate, Angie's never gonna beat\n{px}, no matter how long it takes."
  },
  {
   "id": "dg07_02:011:14",
@@ -243,31 +243,31 @@
   "id": "dg07_02:011:17",
   "speaker": "義王",
   "jp": "おい、{px}！\nその光札、\nいまは預けとくぜ。",
-  "en": "Hey, {px}! I'm leavin' that Bright card with you for\nnow."
+  "en": "Hey, {px}! I'm leavin'\nthat Bright card with you for now."
  },
  {
   "id": "dg07_02:011:18",
   "speaker": "義王",
   "jp": "こいつらが世話んなった礼だ。\n精々、大事に持ってな。",
-  "en": "Call it thanks for lookin' after these two. Take real\ngood care of it."
+  "en": "Call it thanks for lookin' after these\ntwo. Take real good care of it."
  },
  {
   "id": "dg07_02:012:00",
   "speaker": "義王",
   "jp": "オイオイオイオイ！！\n勘違いしてんじゃねーぞ？",
-  "en": "Whoa whoa whoa whoa!! Don't get the wrong idea,\ngot it?"
+  "en": "Whoa whoa whoa whoa!! Don't\nget the wrong idea, got it?"
  },
  {
   "id": "dg07_02:012:01",
   "speaker": "義王",
   "jp": "そいつはオレ様とテメェの\n決闘状だぜッ！",
-  "en": "That there's a challenge to a duel between the great\nme and you!"
+  "en": "That there's a challenge to a duel\nbetween the great me and you!"
  },
  {
   "id": "dg07_02:012:02",
   "speaker": "義王",
   "jp": "テメェがそいつを持ってる限り\n絶対に逃がしゃしねえ。\n……覚えとけよ？",
-  "en": "As long as you've got that, I ain't ever lettin' you\nget away. ...Don't you forget it."
+  "en": "As long as you've got that, I ain't ever\nlettin' you get away. ...Don't you forget it."
  },
  {
   "id": "dg07_02:013:00",
@@ -291,19 +291,19 @@
   "id": "dg07_02:014:01",
   "speaker": "義王",
   "jp": "オレ様とテメェを繋ぐ\n宿命という名の糸は\n切れやしねえ。",
-  "en": "The thread called destiny that ties the great me and\nyou together ain't ever gonna snap."
+  "en": "The thread called destiny that ties the great\nme and you together ain't ever gonna snap."
  },
  {
   "id": "dg07_02:015:00",
   "speaker": "義王",
   "jp": "オイオイオイオイ！！\n勘違いしてんじゃねーぞ？",
-  "en": "Whoa whoa whoa whoa!! Don't get the wrong idea,\ngot it?"
+  "en": "Whoa whoa whoa whoa!! Don't\nget the wrong idea, got it?"
  },
  {
   "id": "dg07_02:015:01",
   "speaker": "義王",
   "jp": "そいつはオレ様とテメェの\n決闘状だぜッ！",
-  "en": "That there's a challenge to a duel between the great\nme and you!"
+  "en": "That there's a challenge to a duel\nbetween the great me and you!"
  },
  {
   "id": "dg07_02:016:00",
@@ -315,7 +315,7 @@
   "id": "dg07_02:016:01",
   "speaker": "義王",
   "jp": "いずれは全部、\nこのオレ様の物に\nなるんだからよッ！",
-  "en": "Sooner or later, all of it's gonna belong to the great\nme anyway!"
+  "en": "Sooner or later, all of it's gonna\nbelong to the great me anyway!"
  },
  {
   "id": "dg07_02:017:00",
@@ -327,7 +327,7 @@
   "id": "dg07_02:017:01",
   "speaker": "義王",
   "jp": "いますぐ{ruby:根刮|ねこそ}ぎ\n奪うぞ、テメェッ！",
-  "en": "Then I'll take every last bit of it from you right\nnow, pal!"
+  "en": "Then I'll take every last bit\nof it from you right now, pal!"
  },
  {
   "id": "dg07_02:018:00",
@@ -339,7 +339,7 @@
   "id": "dg07_02:018:01",
   "speaker": "義王",
   "jp": "いずれはオレ様の物に\nなるんだからよッ。",
-  "en": "Sooner or later it's gonna belong to the great me\nanyway."
+  "en": "Sooner or later it's gonna\nbelong to the great me anyway."
  },
  {
   "id": "dg07_02:019:00",
@@ -351,7 +351,7 @@
   "id": "dg07_02:019:01",
   "speaker": "義王",
   "jp": "いずれはオレ様の物に\nなるんだからよッ。",
-  "en": "Sooner or later it's gonna belong to the great me\nanyway."
+  "en": "Sooner or later it's gonna\nbelong to the great me anyway."
  },
  {
   "id": "dg07_02:020:00",
@@ -393,19 +393,19 @@
   "id": "dg07_02:021:05",
   "speaker": "御霧",
   "jp": "俺にこの{ruby:洞|うろ}の情報を流し、\nお前を焚き付け、\n光札を出現させる……。",
-  "en": "Feeding me information about this Hollow, egging\nyou on, making the Bright card appear..."
+  "en": "Feeding me information about this Hollow,\negging you on, making the Bright card appear..."
  },
  {
   "id": "dg07_02:021:06",
   "speaker": "御霧",
   "jp": "……馬鹿馬鹿しい。\n結局は俺もそいつに\n利用されていただけの弱者だ。",
-  "en": "...How absurd. In the end, I was just another\nweakling being used by them."
+  "en": "...How absurd. In the end, I was just\nanother weakling being used by them."
  },
  {
   "id": "dg07_02:021:07",
   "speaker": "御霧",
   "jp": "俺の目的を果たす手段は\n他にまだいくらでもある。",
-  "en": "I've still got plenty of other ways to achieve my\ngoal."
+  "en": "I've still got plenty of other\nways to achieve my goal."
  },
  {
   "id": "dg07_02:021:08",
@@ -417,7 +417,7 @@
   "id": "dg07_02:021:09",
   "speaker": "御霧",
   "jp": "お前の甘さが何処まで\n通用するか、見ていてやる。",
-  "en": "I'll be watching to see how far your naivety gets\nyou."
+  "en": "I'll be watching to see how\nfar your naivety gets you."
  },
  {
   "id": "dg07_02:021:10",
@@ -459,7 +459,7 @@
   "id": "dg07_02:021:16",
   "speaker": "弥紀",
   "jp": "目的や目指す場所が違っても\nきっと強い《絆》が三人を\n繋いでるんだよね。",
-  "en": "Even if their goals and where they're headed are\ndifferent, I'm sure a strong Bond connects the three\nof them."
+  "en": "Even if their goals and where they're\nheaded are different, I'm sure a strong\nBond connects the three of them."
  },
  {
   "id": "dg07_02:022:00",
@@ -477,7 +477,7 @@
   "id": "dg07_02:022:02",
   "speaker": "英雄",
   "jp": "はッはッは！\nなァに、覆面の彼が連れて\n来てくれたのだよッ！",
-  "en": "Ha ha ha! Why, the masked fellow brought me\nalong!"
+  "en": "Ha ha ha! Why, the masked\nfellow brought me along!"
  },
  {
   "id": "dg07_02:022:03",
@@ -489,13 +489,13 @@
   "id": "dg07_02:022:04",
   "speaker": "英雄",
   "jp": "彼らは札を通じ《絆》を得た。\n{px}、おそらく君が\n得てきた《絆》も同じ。",
-  "en": "They gained a Bond through the cards. {px}, I\nsuspect the Bonds you have gained are the same."
+  "en": "They gained a Bond through the\ncards. {px}, I suspect the\nBonds you have gained are the same."
  },
  {
   "id": "dg07_02:022:05",
   "speaker": "英雄",
   "jp": "受け取りたまえ。\nやはりこの札は、\n君にこそ{ruby:相応|ふさわ}しいようだッ！",
-  "en": "Take this! It seems this card truly is best suited to\nyou!"
+  "en": "Take this! It seems this card\ntruly is best suited to you!"
  },
  {
   "id": "dg07_02:022:06",
@@ -507,7 +507,7 @@
   "id": "dg07_02:022:07",
   "speaker": "英雄",
   "jp": "そして、\n私は私の《絆》のために―――\nひとまずお別れだッ！",
-  "en": "And I, for the sake of my own Bonds-- must bid\nyou farewell for now!"
+  "en": "And I, for the sake of my own Bonds--\nmust bid you farewell for now!"
  },
  {
   "id": "dg07_02:022:08",
@@ -537,7 +537,7 @@
   "id": "dg07_02:023:01",
   "speaker": "白",
   "jp": "それがあの二人を、\n何らかの呪縛より\n解き放ったのじゃろう。",
-  "en": "That must be what freed those two from whatever\ncurse bound them."
+  "en": "That must be what freed those two\nfrom whatever curse bound them."
  },
  {
   "id": "dg07_02:023:02",
@@ -549,7 +549,7 @@
   "id": "dg07_02:023:03",
   "speaker": "白",
   "jp": "―――{px}。\n{ruby:努々|ゆめゆめ}油断するでないぞ……。",
-  "en": "--{px}. Never once let your guard down..."
+  "en": "--{px}. Never\nonce let your guard down..."
  },
  {
   "id": "dg07_02:ksf:0090f",

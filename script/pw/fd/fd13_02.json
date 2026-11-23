@@ -9,31 +9,31 @@
   "id": "fd13_02:001:01",
   "speaker": "いちる",
   "jp": "本部から、直行で来たんだ。\nお昼一緒に食べようと思って！",
-  "en": "I came straight here from headquarters. I thought we\ncould have lunch together!"
+  "en": "I came straight here from headquarters. I\nthought we could have lunch together!"
  },
  {
   "id": "fd13_02:001:02",
   "speaker": "いちる",
   "jp": "ねえ、ここの仕事見てたけど\n{px}の学校って\n生徒会も面白いんだね？",
-  "en": "Hey, I was watching the work here. The student\ncouncil at your school is pretty interesting, huh,\n{px}?"
+  "en": "Hey, I was watching the work here. The\nstudent council at your school is pretty\ninteresting, huh, {px}?"
  },
  {
   "id": "fd13_02:001:03",
   "speaker": "いちる",
   "jp": "さっき書記さんと話したけど\nすごい人だったよ。",
-  "en": "I talked with the secretary just now. What an\namazing person!"
+  "en": "I talked with the secretary just\nnow. What an amazing person!"
  },
  {
   "id": "fd13_02:001:04",
   "speaker": "いちる",
   "jp": "なんか、いいなあ。\n飛坂さんもメチャクチャ\n活き活きしてるし……。",
-  "en": "I'm kinda jealous. Tobisaka-san looks totally full of\nlife too..."
+  "en": "I'm kinda jealous. Tobisaka-san\nlooks totally full of life too..."
  },
  {
   "id": "fd13_02:001:05",
   "speaker": "いちる",
   "jp": "ね、あたしが\n生徒会役員だったら\n役職ってなんだと思う？",
-  "en": "Hey, if I were on the student council, what position\ndo you think I'd have?"
+  "en": "Hey, if I were on the student council,\nwhat position do you think I'd have?"
  },
  {
   "id": "fd13_02:001:06",
@@ -63,13 +63,13 @@
   "id": "fd13_02:002:02",
   "speaker": "いちる",
   "jp": "生徒会長って\n勉強出来ないと駄目だよね。",
-  "en": "A student council president has to be good at\nstudying, right?"
+  "en": "A student council president has\nto be good at studying, right?"
  },
  {
   "id": "fd13_02:002:03",
   "speaker": "いちる",
   "jp": "補講だけで\n足りるのかなァ……？",
-  "en": "I wonder if just make-up classes would be\nenough...?"
+  "en": "I wonder if just make-up\nclasses would be enough...?"
  },
  {
   "id": "fd13_02:003:00",
@@ -99,7 +99,7 @@
   "id": "fd13_02:004:02",
   "speaker": "いちる",
   "jp": "でも、生徒会長って、\n勉強出来ないと駄目だよね。",
-  "en": "But a student council president has to be good at\nstudying, right?"
+  "en": "But a student council president\nhas to be good at studying, right?"
  },
  {
   "id": "fd13_02:004:03",
@@ -135,25 +135,25 @@
   "id": "fd13_02:006:01",
   "speaker": "いちる",
   "jp": "わかってるってば！\n生徒会長は勉強出来ないと\nなれないもんね。",
-  "en": "I know, I know! You can't become student council\npresident unless you're good at studying."
+  "en": "I know, I know! You can't become student\ncouncil president unless you're good at studying."
  },
  {
   "id": "fd13_02:006:02",
   "speaker": "いちる",
   "jp": "それにあたし、\n{px}の見立て通り\nセーカク的に向いてないし！",
-  "en": "Besides, like you figured, {px}, it's just not my\npersonality!"
+  "en": "Besides, like you figured, {px},\nit's just not my personality!"
  },
  {
   "id": "fd13_02:007:00",
   "speaker": "いちる",
   "jp": "一刀両断だよ！？\n流石{px}、\n容赦ないなあ……。",
-  "en": "You shot me down in one stroke!? That's {px} for\nyou, so merciless..."
+  "en": "You shot me down in one stroke!? That's\n{px} for you, so merciless..."
  },
  {
   "id": "fd13_02:007:01",
   "speaker": "いちる",
   "jp": "でもそうだよね、\n生徒会長、成績優秀じゃないと\n務まらないし！",
-  "en": "But yeah, you're right. You can't be student council\npresident without top grades!"
+  "en": "But yeah, you're right. You can't be student\ncouncil president without top grades!"
  },
  {
   "id": "fd13_02:008:00",
@@ -165,7 +165,7 @@
   "id": "fd13_02:008:01",
   "speaker": "いちる",
   "jp": "冗談だよ？\n最初から冗談のつもりで……",
-  "en": "I was joking, okay? I meant it as a joke from the\nstart..."
+  "en": "I was joking, okay? I meant\nit as a joke from the start..."
  },
  {
   "id": "fd13_02:008:02",
@@ -195,13 +195,13 @@
   "id": "fd13_02:011:00",
   "speaker": "いちる",
   "jp": "生徒会もだけど、\nここの学校って他にも\n楽しい事沢山ありそう！",
-  "en": "Not just the student council-- it looks like there's\ntons of other fun stuff at this school too!"
+  "en": "Not just the student council-- it looks like\nthere's tons of other fun stuff at this school too!"
  },
  {
   "id": "fd13_02:011:01",
   "speaker": "いちる",
   "jp": "勉強があるのは嫌だけど\nみんながいればきっと\n何でも楽しいよね。",
-  "en": "I don't like that there's studying, but with everyone\naround, I bet anything would be fun."
+  "en": "I don't like that there's studying, but with\neveryone around, I bet anything would be fun."
  },
  {
   "id": "fd13_02:011:02",

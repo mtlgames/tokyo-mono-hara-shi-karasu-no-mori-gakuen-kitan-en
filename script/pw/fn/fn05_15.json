@@ -21,7 +21,7 @@
   "id": "fn05_15:001:03",
   "speaker": "輪",
   "jp": "……そりゃあちょっと、\n火薬の扱いは失敗したけど。",
-  "en": "...Okay, so I kinda messed up handling the\ngunpowder."
+  "en": "...Okay, so I kinda messed\nup handling the gunpowder."
  },
  {
   "id": "fn05_15:002:00",
@@ -33,19 +33,19 @@
   "id": "fn05_15:003:00",
   "speaker": "輪",
   "jp": "えへへ、{px}は\n優しいから\nボク、好きだぞ！",
-  "en": "Hehe, {px}, you're so nice. That's why I like you!"
+  "en": "Hehe, {px}, you're\nso nice. That's why I like you!"
  },
  {
   "id": "fn05_15:004:00",
   "speaker": "輪",
   "jp": "あッ、\n他人事だと思ってるな！？",
-  "en": "Ah! You think it's none of your business, don't\nyou!?"
+  "en": "Ah! You think it's none of\nyour business, don't you!?"
  },
  {
   "id": "fn05_15:004:01",
   "speaker": "輪",
   "jp": "{px}も一度、\n刑事に怒られたらいいんだッ！",
-  "en": "{px}, you should get chewed out by the detective\ntoo, just once!"
+  "en": "{px}, you should get chewed\nout by the detective too, just once!"
  },
  {
   "id": "fn05_15:005:00",
@@ -57,13 +57,13 @@
   "id": "fn05_15:005:01",
   "speaker": "輪",
   "jp": "それをイチイチ口うるさく\n言わないで欲しいよなァ。",
-  "en": "I wish he wouldn't nag about every single one of\n'em."
+  "en": "I wish he wouldn't nag about\nevery single one of 'em."
  },
  {
   "id": "fn05_15:006:00",
   "speaker": "輪",
   "jp": "だよな、{px}！\n{px}ならわかると\n思ってたぞ！",
-  "en": "Right, {px}! I knew you'd get it, {px}!"
+  "en": "Right, {px}! I knew\nyou'd get it, {px}!"
  },
  {
   "id": "fn05_15:007:00",
@@ -99,7 +99,7 @@
   "id": "fn05_15:009:00",
   "speaker": "輪",
   "jp": "{px}……。\nボク、そんなに悪いコト\nしたんだな。",
-  "en": "{px}... So I did something that bad, huh."
+  "en": "{px}... So I\ndid something that bad, huh."
  },
  {
   "id": "fn05_15:009:01",
@@ -129,13 +129,13 @@
   "id": "fn05_15:011:00",
   "speaker": "輪",
   "jp": "こらッ、{px}！\n人の話を聞けッ！",
-  "en": "Hey! {px}! Listen when people talk to you!"
+  "en": "Hey! {px}! Listen\nwhen people talk to you!"
  },
  {
   "id": "fn05_15:012:00",
   "speaker": "輪",
   "jp": "でも、困ったなァ……。\n公園でも修行が出来ないなら、\nドコでやろう？",
-  "en": "But man, what now... If I can't train in the park\neither, where am I supposed to do it?"
+  "en": "But man, what now... If I can't train in the\npark either, where am I supposed to do it?"
  },
  {
   "id": "fn05_15:012:01",
@@ -153,6 +153,6 @@
   "id": "fn05_15:013:01",
   "speaker": "輪",
   "jp": "刑事さんに約束したんだ。\nチョコまでもらっちゃったし。",
-  "en": "I promised the detective. He even gave me chocolate\nand everything."
+  "en": "I promised the detective. He even\ngave me chocolate and everything."
  }
 ]

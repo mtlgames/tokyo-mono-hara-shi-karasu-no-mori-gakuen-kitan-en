@@ -69,7 +69,7 @@
   "id": "dg01_00:002:01",
   "speaker": "弥紀",
   "jp": "そんな言い方しても\nほんとに絶対だめッ！！",
-  "en": "Even if you put it like that, it's still a total, absolute\nno!!"
+  "en": "Even if you put it like that,\nit's still a total, absolute no!!"
  },
  {
   "id": "dg01_00:003:00",
@@ -105,7 +105,7 @@
   "id": "dg01_00:006:00",
   "speaker": "弥紀",
   "jp": "そ、そんな声出しても\nだめったらだめッ！！",
-  "en": "M-making that sound won't change anything! No\nmeans no!!"
+  "en": "M-making that sound won't\nchange anything! No means no!!"
  },
  {
   "id": "dg01_00:007:00",
@@ -123,7 +123,7 @@
   "id": "dg01_00:008:00",
   "speaker": "弥紀",
   "jp": "そんな声出しても\nだめったらだめッ！！",
-  "en": "Making that sound won't change anything! No\nmeans no!!"
+  "en": "Making that sound won't\nchange anything! No means no!!"
  },
  {
   "id": "dg01_00:009:00",
@@ -189,7 +189,7 @@
   "id": "dg01_00:011:07",
   "speaker": "燈治",
   "jp": "しっかし驚いたぜ。\n学校の地下にまさか\nこんなもんがあるとはよ―――",
-  "en": "Man, what a shock. Never figured there'd be\nsomethin' like this under a school--"
+  "en": "Man, what a shock. Never figured there'd\nbe somethin' like this under a school--"
  },
  {
   "id": "dg01_00:011:08",
@@ -201,49 +201,49 @@
   "id": "dg01_00:011:09",
   "speaker": "鍵",
   "jp": "封札師の坊。\n私の声が聞こえていやすね？",
-  "en": "Young master, our Card Sealer. You can hear my\nvoice, can't you?"
+  "en": "Young master, our Card Sealer.\nYou can hear my voice, can't you?"
  },
  {
   "id": "dg01_00:011:10",
   "speaker": "鍵",
   "jp": "坊がいまいる場所、\nその更に地下には、地脈の力の\n吹き溜まりがあるようでして。",
-  "en": "Below where you are now, young master, deeper\nstill, there seems to be a pool where the power of\nthe earth's veins gathers."
+  "en": "Below where you are now, young master,\ndeeper still, there seems to be a pool where\nthe power of the earth's veins gathers."
  },
  {
   "id": "dg01_00:011:11",
   "speaker": "鍵",
   "jp": "脈を辿って、こちらからも\n坊の様子がわかりやす。",
-  "en": "By followin' the vein, we can tell how you're farin'\nfrom over here."
+  "en": "By followin' the vein, we can tell\nhow you're farin' from over here."
  },
  {
   "id": "dg01_00:011:12",
   "speaker": "鍵",
   "jp": "その{ruby:洞|うろ}の中ならば、\n周囲の状況や、坊の状態を\n知らせるくらいは出来やすよ。",
-  "en": "So long as you're inside that Hollow, we can at least\ntell you about your surroundings and your\ncondition."
+  "en": "So long as you're inside that Hollow,\nwe can at least tell you about your\nsurroundings and your condition."
  },
  {
   "id": "dg01_00:011:13",
   "speaker": "鍵",
   "jp": "大して助けにならないかも\n知れませんが、闇雲に\n迷い込むよりはましでしょう。",
-  "en": "It may not be much help, but it's better than\nwanderin' about blind."
+  "en": "It may not be much help, but it's\nbetter than wanderin' about blind."
  },
  {
   "id": "dg01_00:011:14",
   "speaker": "鍵",
   "jp": "では、用意が済んだら、\n左手にある扉をお開けなさい。",
-  "en": "Now then, once you're ready, open the door on your\nleft."
+  "en": "Now then, once you're ready,\nopen the door on your left."
  },
  {
   "id": "dg01_00:011:15",
   "speaker": "鍵",
   "jp": "その方角に、\n坊の求めるものが\nあるようですよ。",
-  "en": "What you seek, young master, seems to lie in that\ndirection."
+  "en": "What you seek, young master,\nseems to lie in that direction."
  },
  {
   "id": "dg01_00:011:16",
   "speaker": "鍵",
   "jp": "ああ、それと。\n私らの声は坊にしか聞こえない\nでしょうからそのつもりで。",
-  "en": "Oh, and one more thing. Only you'll be able to hear\nour voices, young master, so bear that in mind."
+  "en": "Oh, and one more thing. Only you'll be able to\nhear our voices, young master, so bear that in mind."
  },
  {
   "id": "dg01_00:011:17",
@@ -267,7 +267,7 @@
   "id": "dg01_00:011:20",
   "speaker": "燈治",
   "jp": "まァ、無理もねェか。\n東京のど真ん中に、こんなもん\nがあるってんだからな。",
-  "en": "Well, can't blame ya. There's somethin' like this\nsmack in the middle of Tokyo, after all."
+  "en": "Well, can't blame ya. There's somethin' like\nthis smack in the middle of Tokyo, after all."
  },
  {
   "id": "dg01_00:011:21",

@@ -39,7 +39,7 @@
   "id": "dg10_01:001:06",
   "speaker": "義王",
   "jp": "オレ様がまだ、\n{ruby:人間|・・}でいられるウチに\nテメェと決着つけられて―――",
-  "en": "Gettin' to settle things with you while I can still call\nmyself human--"
+  "en": "Gettin' to settle things with you\nwhile I can still call myself human--"
  },
  {
   "id": "dg10_01:001:07",
@@ -57,7 +57,7 @@
   "id": "dg10_01:001:09",
   "speaker": "義王",
   "jp": "{ruby:花札|コイツ}に魅入られた奴は、\n誰でもこうなるってんだろ？\n……承知の上だぜ。",
-  "en": "Anyone who gets hooked by these things ends up\nlike this, right? ...I knew that goin' in."
+  "en": "Anyone who gets hooked by these things\nends up like this, right? ...I knew that goin' in."
  },
  {
   "id": "dg10_01:001:10",
@@ -69,7 +69,7 @@
   "id": "dg10_01:001:11",
   "speaker": "義王",
   "jp": "なんなら、オレ様が\n化け物になるのを待って、\nブチ殺しゃあいい。",
-  "en": "Hell, you can wait till I turn into a monster and\nthen kill me dead."
+  "en": "Hell, you can wait till I turn into\na monster and then kill me dead."
  },
  {
   "id": "dg10_01:002:00",
@@ -153,7 +153,7 @@
   "id": "dg10_01:007:02",
   "speaker": "義王",
   "jp": "……まあ、\nまだ{ruby:闘|や}り足りねーってんなら、",
-  "en": "...Well, if you're sayin' you ain't had enough of a\nfight yet..."
+  "en": "...Well, if you're sayin' you ain't\nhad enough of a fight yet..."
  },
  {
   "id": "dg10_01:007:03",
@@ -177,7 +177,7 @@
   "id": "dg10_01:008:02",
   "speaker": "義王",
   "jp": "……まあ、\nまだ{ruby:闘|や}り足りねーってんなら、",
-  "en": "...Well, if you're sayin' you ain't had enough of a\nfight yet..."
+  "en": "...Well, if you're sayin' you ain't\nhad enough of a fight yet..."
  },
  {
   "id": "dg10_01:008:03",
@@ -297,7 +297,7 @@
   "id": "dg10_01:015:04",
   "speaker": "義王",
   "jp": "こうなりゃこのオレ様が\n最後まで付き合ってやるぜ。",
-  "en": "At this point, the great me'll stick with you to the\nvery end."
+  "en": "At this point, the great me'll\nstick with you to the very end."
  },
  {
   "id": "dg10_01:016:00",
@@ -321,13 +321,13 @@
   "id": "dg10_01:017:01",
   "speaker": "義王",
   "jp": "ま、精々オレ様に\n寝首かかれないように\n精進するこった。",
-  "en": "Well, do your best to make sure the great me don't\nslit your throat in your sleep."
+  "en": "Well, do your best to make sure the great\nme don't slit your throat in your sleep."
  },
  {
   "id": "dg10_01:018:00",
   "speaker": "義王",
   "jp": "へへッ、まあ精々、\n寝首かかれないように\n精進するこったな。",
-  "en": "Heh heh, well, do your best to make sure I don't slit\nyour throat in your sleep."
+  "en": "Heh heh, well, do your best to make sure\nI don't slit your throat in your sleep."
  },
  {
   "id": "dg10_01:019:00",
@@ -345,7 +345,7 @@
   "id": "dg10_01:020:01",
   "speaker": "義王",
   "jp": "精々、オレ様に\n寝首かかれないように\n精進するこったな。",
-  "en": "Just do your best to make sure the great me don't\nslit your throat in your sleep."
+  "en": "Just do your best to make sure the great\nme don't slit your throat in your sleep."
  },
  {
   "id": "dg10_01:021:00",
@@ -357,7 +357,7 @@
   "id": "dg10_01:021:01",
   "speaker": "義王",
   "jp": "オレ様がそう決めたんだ。\n逃げられると思うなよ？",
-  "en": "The great me's decided. Don't think you can run\nfrom it."
+  "en": "The great me's decided. Don't\nthink you can run from it."
  },
  {
   "id": "dg10_01:022:00",
@@ -369,7 +369,7 @@
   "id": "dg10_01:022:01",
   "speaker": "義王",
   "jp": "このオレ様が認めたんだ。\nテメェはもっと堂々としてろ。",
-  "en": "The great me's acknowledged you. So stand tall,\ndamn it."
+  "en": "The great me's acknowledged\nyou. So stand tall, damn it."
  },
  {
   "id": "dg10_01:023:00",
@@ -381,7 +381,7 @@
   "id": "dg10_01:023:01",
   "speaker": "義王",
   "jp": "このオレ様が認めたんだ。\nテメェはもっと堂々としてろ。",
-  "en": "The great me's acknowledged you. So stand tall,\ndamn it."
+  "en": "The great me's acknowledged\nyou. So stand tall, damn it."
  },
  {
   "id": "dg10_01:024:00",
@@ -393,7 +393,7 @@
   "id": "dg10_01:024:01",
   "speaker": "義王",
   "jp": "オレ様がそう決めたんだ。\n逃げられると思うなよ？",
-  "en": "The great me's decided. Don't think you can run\nfrom it."
+  "en": "The great me's decided. Don't\nthink you can run from it."
  },
  {
   "id": "dg10_01:025:00",
@@ -405,7 +405,7 @@
   "id": "dg10_01:025:01",
   "speaker": "義王",
   "jp": "ま、やるこたァ終わったんだ。\nそろそろ出るとしようぜ。",
-  "en": "Well, what we came to do is done. Let's get outta\nhere."
+  "en": "Well, what we came to do\nis done. Let's get outta here."
  },
  {
   "id": "dg10_01:025:02",
@@ -471,7 +471,7 @@
   "id": "dg10_01:026:08",
   "speaker": "義王",
   "jp": "{ruby:花札|コイツ}に魅入られた奴は、\n誰でもこうなるってんだろ？\n……承知の上だぜ。",
-  "en": "Anyone who gets hooked by these things ends up\nlike this, right? ...I knew that goin' in."
+  "en": "Anyone who gets hooked by these things\nends up like this, right? ...I knew that goin' in."
  },
  {
   "id": "dg10_01:026:09",
@@ -483,7 +483,7 @@
   "id": "dg10_01:027:00",
   "speaker": "白",
   "jp": "目の前の救える者を\n見捨てるなど、\n其方の本意ではなかろう。",
-  "en": "Abandoning one you could save right before your\neyes is not truly what you wish, is it?"
+  "en": "Abandoning one you could save right before\nyour eyes is not truly what you wish, is it?"
  },
  {
   "id": "dg10_01:028:00",
@@ -567,13 +567,13 @@
   "id": "dg10_01:032:01",
   "speaker": "白",
   "jp": "強敵であったからこそ、\n敬意を表さねば\nならぬのではないかえ？",
-  "en": "Precisely because he was a formidable foe, should\nyou not show him respect?"
+  "en": "Precisely because he was a formidable\nfoe, should you not show him respect?"
  },
  {
   "id": "dg10_01:032:02",
   "speaker": "白",
   "jp": "それこそが、\n戦いの中に身を置く者の\n{ruby:矜恃|きょうじ}であろう。",
-  "en": "That is the pride of one who places himself in the\nmidst of battle."
+  "en": "That is the pride of one who\nplaces himself in the midst of battle."
  },
  {
   "id": "dg10_01:033:00",
@@ -585,13 +585,13 @@
   "id": "dg10_01:033:01",
   "speaker": "白",
   "jp": "強敵であったからこそ、\n敬意を表さねば\nならぬのではないかえ？",
-  "en": "Precisely because he was a formidable foe, should\nyou not show him respect?"
+  "en": "Precisely because he was a formidable\nfoe, should you not show him respect?"
  },
  {
   "id": "dg10_01:033:02",
   "speaker": "白",
   "jp": "それこそが、\n戦いの中に身を置く者の\n{ruby:矜恃|きょうじ}であろう。",
-  "en": "That is the pride of one who places himself in the\nmidst of battle."
+  "en": "That is the pride of one who\nplaces himself in the midst of battle."
  },
  {
   "id": "dg10_01:034:00",
@@ -603,13 +603,13 @@
   "id": "dg10_01:034:01",
   "speaker": "白",
   "jp": "強敵であったからこそ、\n敬意を表さねば\nならぬのではないかえ？",
-  "en": "Precisely because he was a formidable foe, should\nyou not show him respect?"
+  "en": "Precisely because he was a formidable\nfoe, should you not show him respect?"
  },
  {
   "id": "dg10_01:034:02",
   "speaker": "白",
   "jp": "それこそが、\n戦いの中に身を置く者の\n{ruby:矜恃|きょうじ}であろう。",
-  "en": "That is the pride of one who places himself in the\nmidst of battle."
+  "en": "That is the pride of one who\nplaces himself in the midst of battle."
  },
  {
   "id": "dg10_01:035:00",
@@ -621,13 +621,13 @@
   "id": "dg10_01:035:01",
   "speaker": "白",
   "jp": "強敵であったからこそ、\n敬意を表さねば\nならぬのではないかえ？",
-  "en": "Precisely because he was a formidable foe, should\nyou not show him respect?"
+  "en": "Precisely because he was a formidable\nfoe, should you not show him respect?"
  },
  {
   "id": "dg10_01:035:02",
   "speaker": "白",
   "jp": "それこそが、\n戦いの中に身を置く者の\n{ruby:矜恃|きょうじ}であろう。",
-  "en": "That is the pride of one who places himself in the\nmidst of battle."
+  "en": "That is the pride of one who\nplaces himself in the midst of battle."
  },
  {
   "id": "dg10_01:036:00",
@@ -639,13 +639,13 @@
   "id": "dg10_01:036:01",
   "speaker": "白",
   "jp": "強敵であったからこそ、\n敬意を表さねば\nならぬのではないかえ？",
-  "en": "Precisely because he was a formidable foe, should\nyou not show him respect?"
+  "en": "Precisely because he was a formidable\nfoe, should you not show him respect?"
  },
  {
   "id": "dg10_01:036:02",
   "speaker": "白",
   "jp": "それこそが、\n戦いの中に身を置く者の\n{ruby:矜恃|きょうじ}であろう。",
-  "en": "That is the pride of one who places himself in the\nmidst of battle."
+  "en": "That is the pride of one who\nplaces himself in the midst of battle."
  },
  {
   "id": "dg10_01:037:00",
@@ -705,7 +705,7 @@
   "id": "dg10_01:039:01",
   "speaker": "白",
   "jp": "―――待て、\n其方、その傷で\n何処へ行くつもりじゃ。",
-  "en": "--Wait. Where do you think you are going with\nthose wounds?"
+  "en": "--Wait. Where do you think you\nare going with those wounds?"
  },
  {
   "id": "dg10_01:039:02",
@@ -717,13 +717,13 @@
   "id": "dg10_01:039:03",
   "speaker": "義王",
   "jp": "他にもっと、オレ様を\nワクワクさせるような\nお宝を探しに行くさ。",
-  "en": "Off to find some other treasure that'll get the great\nme even more fired up."
+  "en": "Off to find some other treasure that'll\nget the great me even more fired up."
  },
  {
   "id": "dg10_01:039:04",
   "speaker": "義王",
   "jp": "こんな印つけられて、\nテメェに従うなんざ、\nオレ様はゴメンだ。",
-  "en": "Gettin' branded with this thing and takin' orders\nfrom you? No thanks, not the great me."
+  "en": "Gettin' branded with this thing and takin'\norders from you? No thanks, not the great me."
  },
  {
   "id": "dg10_01:039:05",

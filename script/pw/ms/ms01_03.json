@@ -51,7 +51,7 @@
   "id": "ms01_03:000:08",
   "speaker": "弥紀",
   "jp": "すごい。\n{ruby:白|まお}ちゃんてそんなことまで\n出来ちゃうんだ！！",
-  "en": "Amazing! Mao-chan, you can even do stuff like\nthat!?"
+  "en": "Amazing! Mao-chan, you\ncan even do stuff like that!?"
  },
  {
   "id": "ms01_03:000:09",
@@ -75,19 +75,19 @@
   "id": "ms01_03:000:12",
   "speaker": "白",
   "jp": "人里を歩くには\nこの方が都合がよいじゃろう。",
-  "en": "This form is better suited to walking among humans,\nI daresay."
+  "en": "This form is better suited to\nwalking among humans, I daresay."
  },
  {
   "id": "ms01_03:000:13",
   "speaker": "弥紀",
   "jp": "そっか、白い{ruby:鴉|からす}なんて\n珍しいから、捕まえられ\nちゃいそうだものね。",
-  "en": "Oh, I get it. A white crow is so rare, somebody\nmight try to catch you."
+  "en": "Oh, I get it. A white crow is so rare,\nsomebody might try to catch you."
  },
  {
   "id": "ms01_03:000:14",
   "speaker": "燈治",
   "jp": "……確かに、珍しい鳥よりは\n変な服の{ruby:子供|ガ　キ}のがまだ\n無くはないな。",
-  "en": "...Guess a brat in weird clothes ain't quite as outta\nplace as some rare bird."
+  "en": "...Guess a brat in weird clothes ain't\nquite as outta place as some rare bird."
  },
  {
   "id": "ms01_03:000:15",
@@ -99,7 +99,7 @@
   "id": "ms01_03:001:00",
   "speaker": "白",
   "jp": "のう、我が{ruby:主|あるじ}。\nおかしいところなど\nないであろう？",
-  "en": "I say, my master. There is nothing odd about me, is\nthere?"
+  "en": "I say, my master. There is\nnothing odd about me, is there?"
  },
  {
   "id": "ms01_03:002:00",
@@ -111,19 +111,19 @@
   "id": "ms01_03:002:01",
   "speaker": "白",
   "jp": "{ruby:此度|こたび}の主殿は\n随分と{ruby:大仰|おうぎょう}じゃの……。",
-  "en": "My master this time around is rather given to\nexaggeration..."
+  "en": "My master this time around is\nrather given to exaggeration..."
  },
  {
   "id": "ms01_03:003:00",
   "speaker": "白",
   "jp": "うむ。\nそこまで喜ばれるとは\n悪い気はせんのう。",
-  "en": "Mm. To be met with such delight... I cannot say I\nmind."
+  "en": "Mm. To be met with such\ndelight... I cannot say I mind."
  },
  {
   "id": "ms01_03:004:00",
   "speaker": "白",
   "jp": "……よくわからぬが\n気に入ってもらえたなら\n何よりじゃ。",
-  "en": "...I do not quite follow, but if it pleases you, so much\nthe better."
+  "en": "...I do not quite follow, but if it\npleases you, so much the better."
  },
  {
   "id": "ms01_03:005:00",
@@ -177,7 +177,7 @@
   "id": "ms01_03:011:01",
   "speaker": "白",
   "jp": "それにしても、\n見れば見るほど\n貧相な主殿じゃのう……。",
-  "en": "Even so, the longer I look, the shabbier a master you\nseem..."
+  "en": "Even so, the longer I look, the\nshabbier a master you seem..."
  },
  {
   "id": "ms01_03:011:02",
@@ -207,25 +207,25 @@
   "id": "ms01_03:011:06",
   "speaker": "白",
   "jp": "ど、道理で主殿の血脈とは\n違う力じゃと……。",
-  "en": "N-no wonder your power differed from that of my\nmasters' bloodline..."
+  "en": "N-no wonder your power differed\nfrom that of my masters' bloodline..."
  },
  {
   "id": "ms01_03:011:07",
   "speaker": "白",
   "jp": "あまつさえ、この{ruby:妾|わらわ}が\n封札師を主と呼ぶなど……！！",
-  "en": "What's more, that I should call a Card Sealer my\nmaster...!!"
+  "en": "What's more, that I should call\na Card Sealer my master...!!"
  },
  {
   "id": "ms01_03:011:08",
   "speaker": "白",
   "jp": "ええい、一体どんな\n卑怯な手を使ったのじゃ！\nこの封札師{ruby:風情|ふぜい}が！！",
-  "en": "Bah! Just what cowardly trick did you use!? You\nlowly Card Sealer!!"
+  "en": "Bah! Just what cowardly trick did\nyou use!? You lowly Card Sealer!!"
  },
  {
   "id": "ms01_03:011:09",
   "speaker": "白",
   "jp": "あんな邪道の力で\n妾を従えるとは\n{ruby:小癪|こしゃく}……小癪なッ！！",
-  "en": "To bind me with such a heretical power... Insolent...\nhow insolent!!"
+  "en": "To bind me with such a heretical\npower... Insolent... how insolent!!"
  },
  {
   "id": "ms01_03:011:10",
@@ -249,7 +249,7 @@
   "id": "ms01_03:011:13",
   "speaker": "燈治",
   "jp": "間違えといて当たるたァ\n筋が違うだろ。",
-  "en": "You're the one who screwed up, so takin' it out on\nsomeone else ain't right."
+  "en": "You're the one who screwed up, so\ntakin' it out on someone else ain't right."
  },
  {
   "id": "ms01_03:011:14",
@@ -291,7 +291,7 @@
   "id": "ms01_03:011:20",
   "speaker": "弥紀",
   "jp": "その人、{px}と\nよく似てたのかも……。",
-  "en": "Maybe that person looked a lot like {px}..."
+  "en": "Maybe that person looked a\nlot like {px}..."
  },
  {
   "id": "ms01_03:011:21",
@@ -315,25 +315,25 @@
   "id": "ms01_03:011:24",
   "speaker": "弥紀",
   "jp": "あの格好にあの話し方……\n見た目ほど\n子供じゃない気がするな。",
-  "en": "Those clothes, the way she talks... I don't think she's\nas much of a kid as she looks."
+  "en": "Those clothes, the way she talks... I don't\nthink she's as much of a kid as she looks."
  },
  {
   "id": "ms01_03:011:25",
   "speaker": "燈治",
   "jp": "なら、余計に大丈夫だろ。\n自分でなんとかするさ。",
-  "en": "Then all the more reason she'll be fine. She'll\nmanage on her own."
+  "en": "Then all the more reason she'll be\nfine. She'll manage on her own."
  },
  {
   "id": "ms01_03:011:26",
   "speaker": "燈治",
   "jp": "何か、大事な目的も\nありそうだったしな。",
-  "en": "Looked like she had some important business to take\ncare of, too."
+  "en": "Looked like she had some important\nbusiness to take care of, too."
  },
  {
   "id": "ms01_03:011:27",
   "speaker": "燈治",
   "jp": "それより{px}、\nお前確か、ふうさつし、とか\n呼ばれてたよな？",
-  "en": "More importantly, {px}--she called you a \"Card\nSealer\" or somethin', right?"
+  "en": "More importantly, {px}--she\ncalled you a \"Card Sealer\" or somethin', right?"
  },
  {
   "id": "ms01_03:012:00",
@@ -351,7 +351,7 @@
   "id": "ms01_03:013:01",
   "speaker": "燈治",
   "jp": "お前なァ～\n絶対、馬鹿にしてるだろ！！",
-  "en": "Oh, c'monnn... You're totally makin' fun of me, ain't\nya!!"
+  "en": "Oh, c'monnn... You're totally\nmakin' fun of me, ain't ya!!"
  },
  {
   "id": "ms01_03:014:00",
@@ -381,19 +381,19 @@
   "id": "ms01_03:018:00",
   "speaker": "燈治",
   "jp": "そう言うなって。\nバレたのはお前の落ち度じゃ\nねェんだからよ。",
-  "en": "C'mon, don't be like that. It ain't your fault it got\nout."
+  "en": "C'mon, don't be like that. It\nain't your fault it got out."
  },
  {
   "id": "ms01_03:019:00",
   "speaker": "燈治",
   "jp": "あのなァ……\n心配しなくたって\n誰も言いふらしたりしねェよ。",
-  "en": "Look... you don't gotta worry. Nobody's gonna go\nblabbin' about it."
+  "en": "Look... you don't gotta worry.\nNobody's gonna go blabbin' about it."
  },
  {
   "id": "ms01_03:020:00",
   "speaker": "燈治",
   "jp": "まァ、そんな顔すんなって。\nバレたのはお前の落ち度じゃ\nねェんだからよ。",
-  "en": "Hey, don't make that face. It ain't your fault it got\nout."
+  "en": "Hey, don't make that face.\nIt ain't your fault it got out."
  },
  {
   "id": "ms01_03:021:00",
@@ -405,13 +405,13 @@
   "id": "ms01_03:022:00",
   "speaker": "弥紀",
   "jp": "大丈夫だよ、{px}。\n秘密はちゃんと護るから。",
-  "en": "It's okay, {px}. I'll keep your secret, I promise."
+  "en": "It's okay, {px}.\nI'll keep your secret, I promise."
  },
  {
   "id": "ms01_03:022:01",
   "speaker": "弥紀",
   "jp": "ふふッ。\nやっぱり今日一番の不思議は\n{px}だったね。",
-  "en": "Hehe. I knew it--the biggest mystery of the day was\nyou, {px}."
+  "en": "Hehe. I knew it--the biggest mystery of\nthe day was you, {px}."
  },
  {
   "id": "ms01_03:022:02",
@@ -423,7 +423,7 @@
   "id": "ms01_03:022:03",
   "speaker": "燈治",
   "jp": "{px}、俺たちはお前の\nおかげで、普通なら知るはずの\nない真実を知っちまった。",
-  "en": "{px}, thanks to you, we went and learned the\ntruth--stuff we'd normally never get to know."
+  "en": "{px}, thanks to you,\nwe went and learned the truth--stuff\nwe'd normally never get to know."
  },
  {
   "id": "ms01_03:022:04",
@@ -435,13 +435,13 @@
   "id": "ms01_03:022:05",
   "speaker": "燈治",
   "jp": "だったらよ、俺たちは\nこの力で何が出来るのか\n考えなきゃなんねェよな。",
-  "en": "So I figure we gotta think about what we can do\nwith this power, right?"
+  "en": "So I figure we gotta think about what\nwe can do with this power, right?"
  },
  {
   "id": "ms01_03:022:06",
   "speaker": "燈治",
   "jp": "力を使う目的って奴を、\n自分で決めて\n走り出さなきゃならねェ。",
-  "en": "We gotta decide for ourselves what we're usin' it for,\nand get movin'."
+  "en": "We gotta decide for ourselves what\nwe're usin' it for, and get movin'."
  },
  {
   "id": "ms01_03:022:07",
@@ -453,7 +453,7 @@
   "id": "ms01_03:022:08",
   "speaker": "燈治",
   "jp": "けどまァ、今日のところは\n大人しく帰るとすっか。",
-  "en": "But for today, guess we'll just head on home\nquiet-like."
+  "en": "But for today, guess we'll\njust head on home quiet-like."
  },
  {
   "id": "ms01_03:022:09",
@@ -477,7 +477,7 @@
   "id": "ms01_03:022:12",
   "speaker": "弥紀",
   "jp": "また明日、\n{ruby:學園|こ　こ}で会えるように―――",
-  "en": "So we can meet again tomorrow, here at the\nacademy--"
+  "en": "So we can meet again tomorrow,\nhere at the academy--"
  },
  {
   "id": "ms01_03:023:00",
@@ -495,13 +495,13 @@
   "id": "ms01_03:023:02",
   "speaker": "陰鬱な声",
   "jp": "{pm}　{pn}、\n白札が選んだのは、お前だ。",
-  "en": "{pn} {pm}, it is you the White Card has chosen."
+  "en": "{pn} {pm}, it is you\nthe White Card has chosen."
  },
  {
   "id": "ms01_03:023:03",
   "speaker": "陰鬱な声",
   "jp": "恨むなら、\n持って生まれた\n己の資質を恨め。",
-  "en": "If you must curse something, curse the nature you\nwere born with."
+  "en": "If you must curse something, curse\nthe nature you were born with."
  },
  {
   "id": "ms01_03:023:04",

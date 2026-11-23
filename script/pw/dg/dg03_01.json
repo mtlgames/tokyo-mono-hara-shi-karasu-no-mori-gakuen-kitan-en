@@ -63,7 +63,7 @@
   "id": "dg03_01:001:00",
   "speaker": "輪",
   "jp": "{pm}　{pn}が、\nじいちゃんを酷い目に遭わせて\n花札を盗んだんだろ！？",
-  "en": "{pn} {pm} hurt my grandpa and stole the hanafuda,\ndidn't he!?"
+  "en": "{pn} {pm} hurt my grandpa\nand stole the hanafuda, didn't he!?"
  },
  {
   "id": "dg03_01:002:00",
@@ -213,13 +213,13 @@
   "id": "dg03_01:011:03",
   "speaker": "白",
   "jp": "{px}は{ruby:妾|わらわ}の選んだ\n札の執行者―――",
-  "en": "{px} is the Executor of the cards, chosen by me--"
+  "en": "{px} is the Executor\nof the cards, chosen by me--"
  },
  {
   "id": "dg03_01:011:04",
   "speaker": "白",
   "jp": "この地に四散した札を集め\n封じるのが妾たちの役目じゃ。",
-  "en": "Our duty is to gather the cards scattered across this\nland and seal them."
+  "en": "Our duty is to gather the cards\nscattered across this land and seal them."
  },
  {
   "id": "dg03_01:011:05",
@@ -237,13 +237,13 @@
   "id": "dg03_01:011:07",
   "speaker": "絢人",
   "jp": "《カミフダ》と称される\n特異な{ruby:紙片|カード}を集める\nエージェント、だったね。",
-  "en": "An agent who collects the peculiar cards known as\nORDS, wasn't it?"
+  "en": "An agent who collects the peculiar\ncards known as ORDS, wasn't it?"
  },
  {
   "id": "dg03_01:011:08",
   "speaker": "絢人",
   "jp": "任務で花札を集めているの\nだろうとは思っていたが、\nよもや執行者だったとは。",
-  "en": "I assumed you were gathering hanafuda on\nassignment, but I never imagined you were the\nExecutor."
+  "en": "I assumed you were gathering\nhanafuda on assignment, but I never\nimagined you were the Executor."
  },
  {
   "id": "dg03_01:011:09",
@@ -255,13 +255,13 @@
   "id": "dg03_01:011:10",
   "speaker": "絢人",
   "jp": "知っていたと言うより、\n僕の持っている情報を総合した\n結果、そうなるって話だ。",
-  "en": "It's less that I knew, and more that it's what all my\ninformation adds up to."
+  "en": "It's less that I knew, and more that it's\nwhat all my information adds up to."
  },
  {
   "id": "dg03_01:011:11",
   "speaker": "絢人",
   "jp": "封札師の事は、君にも\n一応説明したはずだけど。",
-  "en": "I'm sure I explained Card Sealers to you as well, at\nleast once."
+  "en": "I'm sure I explained Card Sealers\nto you as well, at least once."
  },
  {
   "id": "dg03_01:011:12",
@@ -285,13 +285,13 @@
   "id": "dg03_01:011:15",
   "speaker": "輪",
   "jp": "いままでの非礼は{ruby:詫|わ}びる。\n勘違いしてすまなかった。\nだからッ―――",
-  "en": "I apologize for my rudeness until now. I'm sorry I\ngot the wrong idea. So--"
+  "en": "I apologize for my rudeness until now.\nI'm sorry I got the wrong idea. So--"
  },
  {
   "id": "dg03_01:012:00",
   "speaker": "輪",
   "jp": "花札を封印するという\nその役目、\nボクに代わってくれ。",
-  "en": "That duty of sealing the hanafuda... let me take it\nover from you."
+  "en": "That duty of sealing the hanafuda...\nlet me take it over from you."
  },
  {
   "id": "dg03_01:013:00",
@@ -417,7 +417,7 @@
   "id": "dg03_01:022:01",
   "speaker": "輪",
   "jp": "ご先祖や、じいちゃんが\n護ってきた宝を、これからは\nボクが護るって……。",
-  "en": "That from now on, I'd protect the treasure my\nancestors and Grandpa protected..."
+  "en": "That from now on, I'd protect the treasure\nmy ancestors and Grandpa protected..."
  },
  {
   "id": "dg03_01:022:02",
@@ -429,7 +429,7 @@
   "id": "dg03_01:022:03",
   "speaker": "白",
   "jp": "旋火の輪とやら。\n{ruby:其方|そなた}はいまひとつ、\n勘違いをしておる。",
-  "en": "Rin of Senka-ryu, was it? There is one thing you\nmisunderstand."
+  "en": "Rin of Senka-ryu, was it? There\nis one thing you misunderstand."
  },
  {
   "id": "dg03_01:022:04",
@@ -441,19 +441,19 @@
   "id": "dg03_01:022:05",
   "speaker": "白",
   "jp": "賊に札を奪われ、\n解放を許した失態を拭おうと、\n粉骨砕身する意気は認めよう。",
-  "en": "I grant you your zeal, working yourself to the bone\nto atone for letting thieves take the cards and set\nthem loose."
+  "en": "I grant you your zeal, working yourself\nto the bone to atone for letting thieves\ntake the cards and set them loose."
  },
  {
   "id": "dg03_01:022:06",
   "speaker": "白",
   "jp": "じゃが、一度解放された札は\n最早、ただ集めるだけでは\nどうともならん。",
-  "en": "But once the cards have been released, merely\ngathering them accomplishes nothing."
+  "en": "But once the cards have been released,\nmerely gathering them accomplishes nothing."
  },
  {
   "id": "dg03_01:022:07",
   "speaker": "白",
   "jp": "{ruby:然|しか}るべき者が集め、\n再び封を{ruby:施|ほどこ}さねば\nならぬのじゃ。",
-  "en": "The proper one must gather them and lay the seal\nupon them anew."
+  "en": "The proper one must gather them\nand lay the seal upon them anew."
  },
  {
   "id": "dg03_01:022:08",
@@ -465,19 +465,19 @@
   "id": "dg03_01:022:09",
   "speaker": "白",
   "jp": "そうじゃ。\nその執行者は{ruby:妾|わらわ}―――\n白札が選ぶ。",
-  "en": "Indeed. And that Executor is chosen by me-- the\nWhite Card."
+  "en": "Indeed. And that Executor is\nchosen by me-- the White Card."
  },
  {
   "id": "dg03_01:022:10",
   "speaker": "白",
   "jp": "そして妾が選ぶは\nあの方の血を引く者―――",
-  "en": "And the one I choose is to be of that person's\nblood--"
+  "en": "And the one I choose is to\nbe of that person's blood--"
  },
  {
   "id": "dg03_01:022:11",
   "speaker": "白",
   "jp": "……の、はずじゃが、\n{ruby:此度|こたび}は少々事情があっての。",
-  "en": "...Or so it should be, but this time, circumstances are\nsomewhat different."
+  "en": "...Or so it should be, but this time,\ncircumstances are somewhat different."
  },
  {
   "id": "dg03_01:022:12",
@@ -489,7 +489,7 @@
   "id": "dg03_01:022:13",
   "speaker": "白",
   "jp": "ともかく、妾が選んだのは\nこの{px}じゃ。\n{ruby:其方|そなた}の出る幕ではない。",
-  "en": "In any case, the one I chose is this {px}. There is no\npart here for you to play."
+  "en": "In any case, the one I chose is\nthis {px}. There\nis no part here for you to play."
  },
  {
   "id": "dg03_01:022:14",
@@ -507,7 +507,7 @@
   "id": "dg03_01:023:00",
   "speaker": "輪",
   "jp": "じいちゃんが大切にしていた\n花札を……\n元通りにしてくれるのか？",
-  "en": "You'll put back the hanafuda Grandpa treasured... the\nway they were?"
+  "en": "You'll put back the hanafuda Grandpa\ntreasured... the way they were?"
  },
  {
   "id": "dg03_01:024:00",
@@ -585,7 +585,7 @@
   "id": "dg03_01:031:00",
   "speaker": "輪",
   "jp": "な、何だよ、はっきり言えよ。\nふ、不安になるだろ……。",
-  "en": "Wh-what!? Just say it straight. Y-you're making me\nnervous..."
+  "en": "Wh-what!? Just say it straight.\nY-you're making me nervous..."
  },
  {
   "id": "dg03_01:032:00",
@@ -603,7 +603,7 @@
   "id": "dg03_01:033:01",
   "speaker": "白",
   "jp": "ヒトがいつまでも\nその札を持っておると、\n{ruby:隠人|お　に}になるぞ。",
-  "en": "If a human keeps hold of those cards for too long,\nthey shall become an Oni."
+  "en": "If a human keeps hold of those cards\nfor too long, they shall become an Oni."
  },
  {
   "id": "dg03_01:033:02",
@@ -615,13 +615,13 @@
   "id": "dg03_01:033:03",
   "speaker": "絢人",
   "jp": "{ruby:隠人|お　に}、と言うのは\nここらを{ruby:徘徊|はいかい}している\nあの化け物の事だね？",
-  "en": "By Oni, you mean those monsters that prowl around\ndown here?"
+  "en": "By Oni, you mean those monsters\nthat prowl around down here?"
  },
  {
   "id": "dg03_01:033:04",
   "speaker": "絢人",
   "jp": "なるほど、あれは\n花札に当てられたものの\n成れの果てという事か。",
-  "en": "I see. So those are what's left of people who fell\nunder the hanafuda's influence."
+  "en": "I see. So those are what's left of people\nwho fell under the hanafuda's influence."
  },
  {
   "id": "dg03_01:033:05",

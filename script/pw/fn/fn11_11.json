@@ -27,13 +27,13 @@
   "id": "fn11_11:001:04",
   "speaker": "要",
   "jp": "學院も街も浮かれ放題。\nいまはそんな場合と\nちゃいますえ。",
-  "en": "The academy and the whole town are giddy as can\nbe. This is hardly the time for it."
+  "en": "The academy and the whole town are giddy\nas can be. This is hardly the time for it."
  },
  {
   "id": "fn11_11:001:05",
   "speaker": "要",
   "jp": "……どうせ{px}も\nこういう騒ぎで浮かれるんが\nお好きなんですやろ？",
-  "en": "...I suppose you're fond of getting swept up in this\nsort of fuss too, {px}?"
+  "en": "...I suppose you're fond of getting swept up\nin this sort of fuss too, {px}?"
  },
  {
   "id": "fn11_11:002:00",
@@ -45,7 +45,7 @@
   "id": "fn11_11:002:01",
   "speaker": "要",
   "jp": "それ以上は構しません。\n顔見たら全部わかりますわ。",
-  "en": "No need to say any more. Your face tells me\neverything."
+  "en": "No need to say any more.\nYour face tells me everything."
  },
  {
   "id": "fn11_11:003:00",
@@ -69,7 +69,7 @@
   "id": "fn11_11:004:01",
   "speaker": "要",
   "jp": "{px}の事やし、\nそう言いはる思ってました。",
-  "en": "It's you, after all, {px}. I knew you'd say that."
+  "en": "It's you, after all, {px}.\nI knew you'd say that."
  },
  {
   "id": "fn11_11:005:00",
@@ -87,7 +87,7 @@
   "id": "fn11_11:006:01",
   "speaker": "要",
   "jp": "そないきばらんでもよろしい。\nまったく……子供みたいや。",
-  "en": "No need to get so worked up. Honestly... just like a\nchild."
+  "en": "No need to get so worked up.\nHonestly... just like a child."
  },
  {
   "id": "fn11_11:007:00",
@@ -99,7 +99,7 @@
   "id": "fn11_11:007:01",
   "speaker": "要",
   "jp": "鴉のお人らは、こういうんが\n好きやと思うてましたえ。",
-  "en": "I'd thought you Karasu no Mori folk were fond of\nthis sort of thing."
+  "en": "I'd thought you Karasu no Mori\nfolk were fond of this sort of thing."
  },
  {
   "id": "fn11_11:008:00",
@@ -117,7 +117,7 @@
   "id": "fn11_11:009:00",
   "speaker": "要",
   "jp": "なんやの、それ。\n悩みはるような事？",
-  "en": "What's that supposed to mean? Is it something to\nagonize over?"
+  "en": "What's that supposed to mean?\nIs it something to agonize over?"
  },
  {
   "id": "fn11_11:009:01",
@@ -153,13 +153,13 @@
   "id": "fn11_11:014:00",
   "speaker": "要",
   "jp": "うちはあまり馴染みがのうて\nようわからしまへんのやけど、",
-  "en": "I'm not very familiar with it myself, so I don't really\nunderstand, but..."
+  "en": "I'm not very familiar with it myself,\nso I don't really understand, but..."
  },
  {
   "id": "fn11_11:014:01",
   "speaker": "要",
   "jp": "……{px}やったら、\nこないな日はどないして\n過ごしますの？",
-  "en": "...{px}, how would you spend a day like this?"
+  "en": "...{px}, how would\nyou spend a day like this?"
  },
  {
   "id": "fn11_11:015:00",
@@ -183,7 +183,7 @@
   "id": "fn11_11:016:01",
   "speaker": "要",
   "jp": "{px}にとっては\nいいものなんやね。",
-  "en": "So it's something precious to you, {px}."
+  "en": "So it's something precious\nto you, {px}."
  },
  {
   "id": "fn11_11:017:00",
@@ -201,13 +201,13 @@
   "id": "fn11_11:018:01",
   "speaker": "要",
   "jp": "なんや、{px}には\n似合ってへんように\n思いますな。",
-  "en": "Somehow, I don't think that suits you, {px}."
+  "en": "Somehow, I don't think that\nsuits you, {px}."
  },
  {
   "id": "fn11_11:018:02",
   "speaker": "要",
   "jp": "{px}の側にはいつも……\n色々人がいはるから。",
-  "en": "There are always... all sorts of people around you,\n{px}."
+  "en": "There are always... all sorts of people\naround you, {px}."
  },
  {
   "id": "fn11_11:020:00",
@@ -219,7 +219,7 @@
   "id": "fn11_11:020:01",
   "speaker": "要",
   "jp": "{px}も他に行くとこ\nありますやろ。",
-  "en": "I'm sure you've other places to be too, {px}."
+  "en": "I'm sure you've other places\nto be too, {px}."
  },
  {
   "id": "fn11_11:021:00",
@@ -231,25 +231,25 @@
   "id": "fn11_11:021:01",
   "speaker": "要",
   "jp": "……きっと、\nうちにはこれからも\n関係のない日なんやろな。",
-  "en": "...I suppose this day will never have anything to do\nwith me."
+  "en": "...I suppose this day will never\nhave anything to do with me."
  },
  {
   "id": "fn11_11:021:02",
   "speaker": "要",
   "jp": "{ruby:夜狩|やがり}の{ruby:退魔師|たいまし}に\nなったらなったで\nお務めお務めの毎日やろし。",
-  "en": "Once I become a Yagari exorcist, it'll be nothing but\nduty, day after day."
+  "en": "Once I become a Yagari exorcist, it'll\nbe nothing but duty, day after day."
  },
  {
   "id": "fn11_11:021:03",
   "speaker": "要",
   "jp": "……カミフダだけが\n怪異とちゃうのは\nわかりますやろ？",
-  "en": "...You do know ORDS aren't the only strange things\nout there, don't you?"
+  "en": "...You do know ORDS aren't the only\nstrange things out there, don't you?"
  },
  {
   "id": "fn11_11:021:04",
   "speaker": "要",
   "jp": "妖怪、物の怪、悪鬼、悪霊……\n秘法眼を持つあんさんといえど\n見極めるのが精一杯な相手。",
-  "en": "Yokai, spirits, fiends, evil ghosts... Foes that even you,\nwith your Arcane Eye, can barely make out."
+  "en": "Yokai, spirits, fiends, evil ghosts... Foes that even\nyou, with your Arcane Eye, can barely make out."
  },
  {
   "id": "fn11_11:021:05",
@@ -261,7 +261,7 @@
   "id": "fn11_11:021:06",
   "speaker": "要",
   "jp": "せやけど、その性質上\n互いの仕事場が被る事も\n少なくないと聞いとります。",
-  "en": "But given the nature of the work, I hear our fields\noverlap more often than not."
+  "en": "But given the nature of the work, I hear\nour fields overlap more often than not."
  },
  {
   "id": "fn11_11:021:07",
@@ -273,7 +273,7 @@
   "id": "fn11_11:021:08",
   "speaker": "要",
   "jp": "どうどす？\nありがたい話ですやろ？",
-  "en": "What do you say? A fine prospect, wouldn't you\nagree?"
+  "en": "What do you say? A fine\nprospect, wouldn't you agree?"
  },
  {
   "id": "fn11_11:022:00",
@@ -285,7 +285,7 @@
   "id": "fn11_11:022:01",
   "speaker": "要",
   "jp": "私的な協力者やない、\n公的なパートナーですえ？",
-  "en": "Not a private collaborator--an official partner, mind\nyou."
+  "en": "Not a private collaborator--an\nofficial partner, mind you."
  },
  {
   "id": "fn11_11:022:02",
@@ -315,7 +315,7 @@
   "id": "fn11_11:024:01",
   "speaker": "要",
   "jp": "今度は{px}がうちの\nサポートに回る番かも\nしれませんえ？",
-  "en": "Next time, it may be your turn to back me up, {px}."
+  "en": "Next time, it may be your turn to\nback me up, {px}."
  },
  {
   "id": "fn11_11:025:00",
@@ -333,7 +333,7 @@
   "id": "fn11_11:026:00",
   "speaker": "要",
   "jp": "言うてくれるやないの。\n手ェ貸してくれ、って\n泣かれても知りませんえ？",
-  "en": "Bold words. Don't expect sympathy when you come\ncrying, \"Lend me a hand!\""
+  "en": "Bold words. Don't expect sympathy when\nyou come crying, \"Lend me a hand!\""
  },
  {
   "id": "fn11_11:027:00",
@@ -345,7 +345,7 @@
   "id": "fn11_11:027:01",
   "speaker": "要",
   "jp": "後で泣きついてきても\nうちは知りませんえ？",
-  "en": "If you come running to me in tears later, don't\nexpect any help from me."
+  "en": "If you come running to me in tears\nlater, don't expect any help from me."
  },
  {
   "id": "fn11_11:028:00",
@@ -357,7 +357,7 @@
   "id": "fn11_11:028:01",
   "speaker": "要",
   "jp": "いざという時は、\nうちがきっちり{px}を\n護ってみせます。",
-  "en": "When it counts, I'll protect you properly, {px}. Just\nwatch."
+  "en": "When it counts, I'll protect you properly,\n{px}. Just watch."
  },
  {
   "id": "fn11_11:029:00",
@@ -393,7 +393,7 @@
   "id": "fn11_11:031:01",
   "speaker": "要",
   "jp": "せやかし、これからも\nあんじょうよろしゅう。",
-  "en": "So please, let's keep getting along nicely from here\non."
+  "en": "So please, let's keep getting\nalong nicely from here on."
  },
  {
   "id": "fn11_11:033:00",
@@ -519,7 +519,7 @@
   "id": "fn11_11:043:01",
   "speaker": "要",
   "jp": "こんなんお祖母様に\n見られたらなんて言われるか\nわからへんわ……。",
-  "en": "Goodness knows what Grandmother would say if\nshe saw me like this..."
+  "en": "Goodness knows what Grandmother\nwould say if she saw me like this..."
  },
  {
   "id": "fn11_11:043:02",
@@ -531,19 +531,19 @@
   "id": "fn11_11:043:03",
   "speaker": "要",
   "jp": "でも、これからやもんね。\n……焦る事、ないか。",
-  "en": "But this is only the beginning, isn't it? ...No need to\nrush."
+  "en": "But this is only the beginning,\nisn't it? ...No need to rush."
  },
  {
   "id": "fn11_11:043:04",
   "speaker": "要",
   "jp": "ふふ、{px}。\nこれからも、よろしゅうね。",
-  "en": "Hehe, {px}. Let's keep getting along from here on."
+  "en": "Hehe, {px}. Let's\nkeep getting along from here on."
  },
  {
   "id": "fn11_11:044:00",
   "speaker": "要",
   "jp": "変な事言うて、堪忍ね。\nどうかしてたわ。",
-  "en": "Forgive me for saying something so strange. I wasn't\nmyself."
+  "en": "Forgive me for saying something\nso strange. I wasn't myself."
  },
  {
   "id": "fn11_11:044:01",
@@ -579,7 +579,7 @@
   "id": "fn11_11:047:00",
   "speaker": "要",
   "jp": "もう……\nミカ、いつまでうちを\nここで待たせる気やろ。",
-  "en": "Honestly... How long does Mika mean to keep me\nwaiting here?"
+  "en": "Honestly... How long does Mika\nmean to keep me waiting here?"
  },
  {
   "id": "fn11_11:047:01",

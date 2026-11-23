@@ -45,7 +45,7 @@
   "id": "dg02_01:000:07",
   "speaker": "巴",
   "jp": "道場の跡取りだもの、\n人の上に立つ事の苦労なんて\nよく知ってたはずよね。",
-  "en": "You're the heir to a dojo. You must know all too\nwell how hard it is to stand above others."
+  "en": "You're the heir to a dojo. You must know all\ntoo well how hard it is to stand above others."
  },
  {
   "id": "dg02_01:000:08",
@@ -75,13 +75,13 @@
   "id": "dg02_01:000:12",
   "speaker": "燈治",
   "jp": "お前はもう\n負けてんだろうが。\nプレッシャーって奴によッ！",
-  "en": "You already lost, didn't ya? To that thing called\npressure!"
+  "en": "You already lost, didn't ya?\nTo that thing called pressure!"
  },
  {
   "id": "dg02_01:000:13",
   "speaker": "長英",
   "jp": "い……イやジゃああ！！\n負けたラ何も、\n何モ残ラんノじゃア！！",
-  "en": "N...NOOOO!! If I lose, there'll be nothin', NOthin'\nLEFt!!"
+  "en": "N...NOOOO!! If I lose, there'll\nbe nothin', NOthin' LEFt!!"
  },
  {
   "id": "dg02_01:000:14",
@@ -99,7 +99,7 @@
   "id": "dg02_01:000:16",
   "speaker": "燈治",
   "jp": "お前が逃げずにとどまれば、\n何だって、ちゃんと\n残ってんだろうが……。",
-  "en": "As long as you stay put and don't run, everything's\nstill here, ain't it...?"
+  "en": "As long as you stay put and don't\nrun, everything's still here, ain't it...?"
  },
  {
   "id": "dg02_01:000:17",
@@ -111,19 +111,19 @@
   "id": "dg02_01:000:18",
   "speaker": "長英",
   "jp": "そレじャけェ、\nみンナ、なクなったラ\nエえんジゃ……。",
-  "en": "So THAt's why... it'd be bettER if it ALL just went\nAWAy..."
+  "en": "So THAt's why... it'd be bettER\nif it ALL just went AWAy..."
  },
  {
   "id": "dg02_01:000:19",
   "speaker": "長英",
   "jp": "試合モ……\n剣道部も……\n部員もミんナ……。",
-  "en": "The MATch... the KENdo club... the memBERS, all of\n'EM..."
+  "en": "The MATch... the KENdo club...\nthe memBERS, all of 'EM..."
  },
  {
   "id": "dg02_01:001:00",
   "speaker": "長英",
   "jp": "ソしタラもう、\n負ケんデエえ……。\nそ、ソうじャろ？",
-  "en": "Then I'd neVER have to LOse aGAIn... RiGHT? Ain't\nTHAt so?"
+  "en": "Then I'd neVER have to LOse\naGAIn... RiGHT? Ain't THAt so?"
  },
  {
   "id": "dg02_01:002:00",
@@ -231,7 +231,7 @@
   "id": "dg02_01:011:05",
   "speaker": "白",
   "jp": "ただ札を剥がすだけでは、\n完全に元に戻す事は出来ぬ。",
-  "en": "Merely tearing the card away will not fully restore\nhim."
+  "en": "Merely tearing the card away\nwill not fully restore him."
  },
  {
   "id": "dg02_01:011:06",
@@ -243,7 +243,7 @@
   "id": "dg02_01:011:07",
   "speaker": "燈治",
   "jp": "じゃあどうすりゃいいんだ！？\nどうすれば、あいつを\n助けられる！？",
-  "en": "Then what're we supposed to do!? How do we save\nhim!?"
+  "en": "Then what're we supposed to\ndo!? How do we save him!?"
  },
  {
   "id": "dg02_01:011:08",
@@ -261,13 +261,13 @@
   "id": "dg02_01:011:10",
   "speaker": "白",
   "jp": "強い意志の{ruby:下|もと}、\n力の方向が定まれば、\n札の力も{ruby:自|おの}ずと一定に収まる。",
-  "en": "Under a strong will, once the power's direction is\nset, the card's power will settle into balance of its\nown accord."
+  "en": "Under a strong will, once the power's\ndirection is set, the card's power will\nsettle into balance of its own accord."
  },
  {
   "id": "dg02_01:011:11",
   "speaker": "白",
   "jp": "経験した其方らならば\nわかるであろう？",
-  "en": "You who have experienced it should understand,\nno?"
+  "en": "You who have experienced\nit should understand, no?"
  },
  {
   "id": "dg02_01:011:12",
@@ -303,7 +303,7 @@
   "id": "dg02_01:011:17",
   "speaker": "長英",
   "jp": "うウ……\n何も、他ノ、何モ……\nおラんかッタらエえ……。",
-  "en": "Nngh... If nOTHin' else... if nOBOdy else... were\narOUNd..."
+  "en": "Nngh... If nOTHin' else... if\nnOBOdy else... were arOUNd..."
  },
  {
   "id": "dg02_01:011:18",

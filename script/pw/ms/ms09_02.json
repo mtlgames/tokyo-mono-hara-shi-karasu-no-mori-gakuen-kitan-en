@@ -21,13 +21,13 @@
   "id": "ms09_02:006:02",
   "speaker": "弥紀",
   "jp": "……いつか、\nみんなでゆっくり来たいな。",
-  "en": "...Someday, I'd like to come here with everyone and\njust take it easy."
+  "en": "...Someday, I'd like to come here\nwith everyone and just take it easy."
  },
  {
   "id": "ms09_02:006:03",
   "speaker": "燈治",
   "jp": "そうだな。\n全部片付いたらよ、\n来ようぜ、みんなで。",
-  "en": "Yeah. Once this is all over, let's come here. All of\nus."
+  "en": "Yeah. Once this is all over,\nlet's come here. All of us."
  },
  {
   "id": "ms09_02:006:04",
@@ -45,7 +45,7 @@
   "id": "ms09_02:007:01",
   "speaker": "燈治",
   "jp": "ここだけじゃねェ。\n他にももっと色々よ、お前を\n連れて行きたいとこがある。",
-  "en": "And not just here, either. There's a whole bunch of\nother places I wanna take you."
+  "en": "And not just here, either. There's a whole\nbunch of other places I wanna take you."
  },
  {
   "id": "ms09_02:007:02",
@@ -75,7 +75,7 @@
   "id": "ms09_02:008:03",
   "speaker": "弥紀",
   "jp": "みんなが食べきれないくらい\nいーっぱい作るからね！",
-  "en": "I'll make sooo much food you guys won't be able to\nfinish it all!"
+  "en": "I'll make sooo much food you\nguys won't be able to finish it all!"
  },
  {
   "id": "ms09_02:008:04",
@@ -87,7 +87,7 @@
   "id": "ms09_02:009:00",
   "speaker": "燈治",
   "jp": "おう！\nこんだけ芝がありゃ、\n存分に暴れられるな。",
-  "en": "Hell yeah! With this much grass, we can run wild\nall we want."
+  "en": "Hell yeah! With this much grass,\nwe can run wild all we want."
  },
  {
   "id": "ms09_02:009:01",
@@ -99,7 +99,7 @@
   "id": "ms09_02:009:02",
   "speaker": "弥紀",
   "jp": "{px}がどれだけ\nお腹空かせても\n大丈夫なように！",
-  "en": "So there's plenty no matter how hungry you get,\n{px}!"
+  "en": "So there's plenty no matter how\nhungry you get, {px}!"
  },
  {
   "id": "ms09_02:009:03",
@@ -123,7 +123,7 @@
   "id": "ms09_02:011:00",
   "speaker": "燈治",
   "jp": "……なんだよ、\nこんな時くらい\n明るい話、させろよな。",
-  "en": "...What? Can't a guy talk about somethin' cheerful at\na time like this?"
+  "en": "...What? Can't a guy talk about\nsomethin' cheerful at a time like this?"
  },
  {
   "id": "ms09_02:011:01",
@@ -135,7 +135,7 @@
   "id": "ms09_02:012:00",
   "speaker": "燈治",
   "jp": "……馬鹿野郎、\nそこは素直に\n頷いとくとこだろ。",
-  "en": "...You idiot. This is where you just nod and go\nalong with it."
+  "en": "...You idiot. This is where you\njust nod and go along with it."
  },
  {
   "id": "ms09_02:012:01",
@@ -147,7 +147,7 @@
   "id": "ms09_02:013:00",
   "speaker": "燈治",
   "jp": "……なんだよ、\nこんな時くらい\n明るい話、させろよな。",
-  "en": "...What? Can't a guy talk about somethin' cheerful at\na time like this?"
+  "en": "...What? Can't a guy talk about\nsomethin' cheerful at a time like this?"
  },
  {
   "id": "ms09_02:013:01",
@@ -159,7 +159,7 @@
   "id": "ms09_02:014:00",
   "speaker": "燈治",
   "jp": "……馬鹿野郎、\nそこは素直に\n頷いとくとこだろ。",
-  "en": "...You idiot. This is where you just nod and go\nalong with it."
+  "en": "...You idiot. This is where you\njust nod and go along with it."
  },
  {
   "id": "ms09_02:014:01",
@@ -177,7 +177,7 @@
   "id": "ms09_02:015:00",
   "speaker": "燈治",
   "jp": "……なんだよ、\nこんな時くらい、\n明るい話、させろよな。",
-  "en": "...What? Can't a guy talk about somethin' cheerful at\na time like this?"
+  "en": "...What? Can't a guy talk about\nsomethin' cheerful at a time like this?"
  },
  {
   "id": "ms09_02:015:01",
@@ -195,7 +195,7 @@
   "id": "ms09_02:016:01",
   "speaker": "白",
   "jp": "{ruby:洞|うろ}の入口ならば、向こうに\nそれらしき目印がある。",
-  "en": "If it is the entrance to the Hollow you seek, there is\nwhat looks to be a marker over there."
+  "en": "If it is the entrance to the Hollow you seek,\nthere is what looks to be a marker over there."
  },
  {
   "id": "ms09_02:016:02",
@@ -207,7 +207,7 @@
   "id": "ms09_02:016:03",
   "speaker": "燈治",
   "jp": "てめェ……\n今頃のこのこ出てきやがって\nどういうつもりだ。",
-  "en": "You... Waltzin' in now like nothin' happened. What\nthe hell are you playin' at?"
+  "en": "You... Waltzin' in now like nothin'\nhappened. What the hell are you playin' at?"
  },
  {
   "id": "ms09_02:016:04",
@@ -231,13 +231,13 @@
   "id": "ms09_02:016:07",
   "speaker": "白",
   "jp": "執行者になった\n事実は変えられぬ。",
-  "en": "That my master has become an Executor is a fact\nthat cannot be changed."
+  "en": "That my master has become an Executor\nis a fact that cannot be changed."
  },
  {
   "id": "ms09_02:016:08",
   "speaker": "白",
   "jp": "ならば余計な情報など、\n混乱を招くだけであろう。",
-  "en": "That being so, needless information would only sow\nconfusion."
+  "en": "That being so, needless information\nwould only sow confusion."
  },
  {
   "id": "ms09_02:017:00",
@@ -249,7 +249,7 @@
   "id": "ms09_02:017:01",
   "speaker": "白",
   "jp": "ヒトには、余計な情報が\n多すぎるのじゃ。",
-  "en": "Humans burden themselves with far too much\nneedless information."
+  "en": "Humans burden themselves with\nfar too much needless information."
  },
  {
   "id": "ms09_02:017:02",
@@ -273,7 +273,7 @@
   "id": "ms09_02:018:01",
   "speaker": "白",
   "jp": "ヒトには、余計な情報が\n多すぎるのじゃ。",
-  "en": "Humans burden themselves with far too much\nneedless information."
+  "en": "Humans burden themselves with\nfar too much needless information."
  },
  {
   "id": "ms09_02:019:00",
@@ -285,7 +285,7 @@
   "id": "ms09_02:019:01",
   "speaker": "白",
   "jp": "ヒトには、余計な情報が\n多すぎるのじゃ。",
-  "en": "Humans burden themselves with far too much\nneedless information."
+  "en": "Humans burden themselves with\nfar too much needless information."
  },
  {
   "id": "ms09_02:020:00",
@@ -297,7 +297,7 @@
   "id": "ms09_02:020:01",
   "speaker": "白",
   "jp": "……ヒトには、余計な情報が\n多すぎるのじゃ。",
-  "en": "...Humans burden themselves with far too much\nneedless information."
+  "en": "...Humans burden themselves with\nfar too much needless information."
  },
  {
   "id": "ms09_02:021:00",
@@ -309,13 +309,13 @@
   "id": "ms09_02:021:01",
   "speaker": "白",
   "jp": "{ruby:それ|・・}が邪魔なのじゃと\n言うておる。",
-  "en": "It is precisely that which stands in the way, I tell\nyou."
+  "en": "It is precisely that which\nstands in the way, I tell you."
  },
  {
   "id": "ms09_02:021:02",
   "speaker": "白",
   "jp": "……ヒトには、余計な情報が\n多すぎるのじゃ。",
-  "en": "...Humans burden themselves with far too much\nneedless information."
+  "en": "...Humans burden themselves with\nfar too much needless information."
  },
  {
   "id": "ms09_02:022:00",
@@ -327,7 +327,7 @@
   "id": "ms09_02:022:01",
   "speaker": "白",
   "jp": "ヒトには、余計な情報が\n多すぎるのじゃ。",
-  "en": "Humans burden themselves with far too much\nneedless information."
+  "en": "Humans burden themselves with\nfar too much needless information."
  },
  {
   "id": "ms09_02:022:02",
@@ -381,7 +381,7 @@
   "id": "ms09_02:026:00",
   "speaker": "白",
   "jp": "成すべき事があるならば\nただそれを成すのみ……。",
-  "en": "If there is something that must be done, one need\nonly do it..."
+  "en": "If there is something that must\nbe done, one need only do it..."
  },
  {
   "id": "ms09_02:026:01",
@@ -405,7 +405,7 @@
   "id": "ms09_02:026:04",
   "speaker": "弥紀",
   "jp": "いつもより、\n無理してるように\n見えるけど……。",
-  "en": "She looks like she's pushing herself even harder\nthan usual..."
+  "en": "She looks like she's pushing\nherself even harder than usual..."
  },
  {
   "id": "ms09_02:026:05",
@@ -453,13 +453,13 @@
   "id": "ms09_02:027:06",
   "speaker": "白",
   "jp": "《意志》に近い物を持ち、\n封を解いた者に、目的を達する\n力を授ける札じゃ。",
-  "en": "A card bearing something akin to Will, which grants\nwhoever breaks its seal the power to achieve their\naim."
+  "en": "A card bearing something akin to\nWill, which grants whoever breaks its\nseal the power to achieve their aim."
  },
  {
   "id": "ms09_02:027:07",
   "speaker": "白",
   "jp": "ここで待ち受ける敵は、\nいままでの者とは\n比べものになるまい。",
-  "en": "The foe that awaits us here will be beyond compare\nwith any we have faced."
+  "en": "The foe that awaits us here will be\nbeyond compare with any we have faced."
  },
  {
   "id": "ms09_02:027:08",
@@ -471,7 +471,7 @@
   "id": "ms09_02:027:09",
   "speaker": "白",
   "jp": "其方しかおらぬのじゃ。\n人の世に災いを成す、\n妾たちを封じられるのは。",
-  "en": "There is none but you. None but you can seal us,\nwho bring calamity upon the world of men."
+  "en": "There is none but you. None but you can seal\nus, who bring calamity upon the world of men."
  },
  {
   "id": "ms09_02:027:10",
@@ -489,7 +489,7 @@
   "id": "ms09_02:027:12",
   "speaker": "燈治",
   "jp": "だからって……\nどうして{px}が\n死ななきゃならねェんだ。",
-  "en": "Even so... why the hell does {px} have to die!?"
+  "en": "Even so... why the hell does\n{px} have to die!?"
  },
  {
   "id": "ms09_02:027:13",
@@ -513,7 +513,7 @@
   "id": "ms09_02:027:16",
   "speaker": "白",
   "jp": "其方らはそこにおれ。\n来たくない者が\n無理に来る必要もない。",
-  "en": "The lot of you, stay here. Those who do not wish\nto come need not force themselves."
+  "en": "The lot of you, stay here. Those who do\nnot wish to come need not force themselves."
  },
  {
   "id": "ms09_02:027:17",
@@ -549,13 +549,13 @@
   "id": "ms09_02:027:22",
   "speaker": "いちる",
   "jp": "行き着く先がドコでも、\n{px}と一緒に、\n最後まで戦う。",
-  "en": "Wherever this ends up, I'm gonna fight alongside\n{px} till the very end."
+  "en": "Wherever this ends up, I'm gonna fight\nalongside {px} till the very end."
  },
  {
   "id": "ms09_02:027:23",
   "speaker": "いちる",
   "jp": "……{px}が嫌だって\n言っても行くからね。",
-  "en": "...And I'm going even if you say you don't want me\nto, {px}."
+  "en": "...And I'm going even if you say you\ndon't want me to, {px}."
  },
  {
   "id": "ms09_02:028:00",
@@ -597,7 +597,7 @@
   "id": "ms09_02:030:01",
   "speaker": "いちる",
   "jp": "当然だよッ！\n{px}のピンチには必ず\nあたしが駆けつけるんだから。",
-  "en": "Of course! Whenever you're in a pinch, {px}, I'll\nalways come running."
+  "en": "Of course! Whenever you're in a pinch,\n{px}, I'll always come running."
  },
  {
   "id": "ms09_02:031:00",
@@ -615,7 +615,7 @@
   "id": "ms09_02:032:00",
   "speaker": "いちる",
   "jp": "……言ったでしょ。\nここだけは絶対譲らない。",
-  "en": "...I told you, didn't I? This is the one thing I'm not\ngiving up."
+  "en": "...I told you, didn't I? This is\nthe one thing I'm not giving up."
  },
  {
   "id": "ms09_02:032:01",
@@ -639,7 +639,7 @@
   "id": "ms09_02:033:01",
   "speaker": "いちる",
   "jp": "でも、ここだけは\n絶対に譲らないからね。",
-  "en": "But this is the one thing I'm absolutely not backing\ndown on."
+  "en": "But this is the one thing I'm\nabsolutely not backing down on."
  },
  {
   "id": "ms09_02:034:00",
@@ -651,7 +651,7 @@
   "id": "ms09_02:034:01",
   "speaker": "いちる",
   "jp": "無理言ってごめん。\nでも、ここだけは譲れない。",
-  "en": "Sorry for being so pushy. But I can't back down on\nthis."
+  "en": "Sorry for being so pushy. But\nI can't back down on this."
  },
  {
   "id": "ms09_02:035:00",
@@ -675,7 +675,7 @@
   "id": "ms09_02:037:00",
   "speaker": "いちる",
   "jp": "それに、あたしにも\n特課から奪われた物を\n取り返すって任務があるしね！！",
-  "en": "Besides, I've got a mission of my own: getting back\nwhat was stolen from the Division!!"
+  "en": "Besides, I've got a mission of my own: getting\nback what was stolen from the Division!!"
  },
  {
   "id": "ms09_02:037:01",

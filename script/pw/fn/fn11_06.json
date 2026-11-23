@@ -9,7 +9,7 @@
   "id": "fn11_06:002:00",
   "speaker": "巴",
   "jp": "だ、大体、集合場所は\n教室だって言ったでしょ！",
-  "en": "A-Anyway, I told you we're meeting in the\nclassroom!"
+  "en": "A-Anyway, I told you we're\nmeeting in the classroom!"
  },
  {
   "id": "fn11_06:002:01",
@@ -51,7 +51,7 @@
   "id": "fn11_06:006:00",
   "speaker": "巴",
   "jp": "主賓が裏方に来るなんて、\n計算してなかったっていうか\n……ああもうッ！",
-  "en": "The guest of honor showing up backstage wasn't\npart of my calculations-- Ugh, honestly!"
+  "en": "The guest of honor showing up backstage\nwasn't part of my calculations-- Ugh, honestly!"
  },
  {
   "id": "fn11_06:006:01",
@@ -74,7 +74,7 @@
   "id": "fn11_06:007:02",
   "speaker": "巴",
   "jp": "レシートとか出しっぱなし\nなんだから……とにかく、\nアンタには関係ない内容よ。",
-  "en": "I left the receipts and stuff lying out, so... anyway,\nit's none of your business."
+  "en": "I left the receipts and stuff lying out,\nso... anyway, it's none of your business."
  },
  {
   "id": "fn11_06:008:00",
@@ -86,7 +86,7 @@
   "id": "fn11_06:008:01",
   "speaker": "巴",
   "jp": "……確かさっきのジュースが\nまだ残ってたわよね。",
-  "en": "...I'm pretty sure there's still some of that juice left\nfrom earlier."
+  "en": "...I'm pretty sure there's still some\nof that juice left from earlier."
  },
  {
   "id": "fn11_06:008:02",
@@ -110,13 +110,13 @@
   "id": "fn11_06:010:00",
   "speaker": "巴",
   "jp": "な、なな、何を言い出すの！\nそれはいま関係ないでしょ！？",
-  "en": "Wh-Wh-What are you saying!? That's got nothing\nto do with this, does it!?"
+  "en": "Wh-Wh-What are you saying!? That's\ngot nothing to do with this, does it!?"
  },
  {
   "id": "fn11_06:010:01",
   "speaker": "巴",
   "jp": "いや、そりゃ……す、少しは\n関係あるかもしれないけど、",
-  "en": "I mean, sure... m-maybe it's got a little to do with it,\nbut..."
+  "en": "I mean, sure... m-maybe it's\ngot a little to do with it, but..."
  },
  {
   "id": "fn11_06:010:02",
@@ -140,7 +140,7 @@
   "id": "fn11_06:011:02",
   "speaker": "巴",
   "jp": "{px}があたしを\nいいように使おうなんて\n何百億年早いのよッ！",
-  "en": "{px}, you're tens of billions of years too early to\nthink you can boss me around!"
+  "en": "{px}, you're tens of billions of\nyears too early to think you can boss me around!"
  },
  {
   "id": "fn11_06:012:00",
@@ -200,7 +200,7 @@
   "id": "fn11_06:020:00",
   "speaker": "巴",
   "jp": "……しばらくはいてもいいけど\nすぐ帰りなさいよ。",
-  "en": "...You can stay for a little while, but leave soon,\nokay?"
+  "en": "...You can stay for a little\nwhile, but leave soon, okay?"
  },
  {
   "id": "fn11_06:020:01",
@@ -236,7 +236,7 @@
   "id": "fn11_06:022:01",
   "speaker": "巴",
   "jp": "冷やかしなら、お断りよ！\nさっさと帰んなさい！！",
-  "en": "If you're just here to tease me, no thanks! Go home\nalready!!"
+  "en": "If you're just here to tease me,\nno thanks! Go home already!!"
  },
  {
   "id": "fn11_06:023:00",
@@ -278,7 +278,7 @@
   "id": "fn11_06:025:00",
   "speaker": "巴",
   "jp": "……はあ。\nなんか、馬鹿みたい。\n取り乱しちゃってさ。",
-  "en": "...Sigh. I feel like an idiot, getting all flustered like\nthat."
+  "en": "...Sigh. I feel like an idiot,\ngetting all flustered like that."
  },
  {
   "id": "fn11_06:025:01",
@@ -296,13 +296,13 @@
   "id": "fn11_06:025:03",
   "speaker": "巴",
   "jp": "アンタが来てから、壇にも\n振り回される様になったし。",
-  "en": "Ever since you showed up, Dan's been dragging me\naround too."
+  "en": "Ever since you showed up, Dan's\nbeen dragging me around too."
  },
  {
   "id": "fn11_06:025:04",
   "speaker": "巴",
   "jp": "弥紀にも、たまに\n振り回されてた\nかもしれないけど……",
-  "en": "Maybe Minori dragged me around now and then\ntoo, but..."
+  "en": "Maybe Minori dragged me\naround now and then too, but..."
  },
  {
   "id": "fn11_06:025:05",
@@ -332,7 +332,7 @@
   "id": "fn11_06:025:09",
   "speaker": "巴",
   "jp": "し、しかも{ruby:こんな日|・・・・}に\nこんな事言う羽目になってる\nとかホント許し難いけど！",
-  "en": "A-And having to say this on a day like THIS of all\ndays is just unforgivable, but!"
+  "en": "A-And having to say this on a day like\nTHIS of all days is just unforgivable, but!"
  },
  {
   "id": "fn11_06:025:10",
@@ -536,7 +536,7 @@
   "id": "fn11_06:035:02",
   "speaker": "巴",
   "jp": "あたしにこんな事\n言わせた責任、\nきっちり取ってもらうわよ！",
-  "en": "You made me say something like this, so you're\ntaking full responsibility for it!"
+  "en": "You made me say something like this,\nso you're taking full responsibility for it!"
  },
  {
   "id": "fn11_06:036:00",
@@ -566,7 +566,7 @@
   "id": "fn11_06:037:01",
   "speaker": "巴",
   "jp": "あ～もう……\n一生分の弱み握られた気分。",
-  "en": "Ugh, honestly... I feel like you've got enough dirt on\nme to last a lifetime."
+  "en": "Ugh, honestly... I feel like you've got\nenough dirt on me to last a lifetime."
  },
  {
   "id": "fn11_06:037:02",
@@ -674,7 +674,7 @@
   "id": "fn11_06:045:03",
   "speaker": "巴",
   "jp": "今度は必ず、アンタの方から\n恥ずかしい事\n言ってもらうんだから！",
-  "en": "Next time, I'll make sure YOU'RE the one saying\nsomething embarrassing!"
+  "en": "Next time, I'll make sure YOU'RE the\none saying something embarrassing!"
  },
  {
   "id": "fn11_06:045:04",
@@ -692,7 +692,7 @@
   "id": "fn11_06:047:01",
   "speaker": "巴",
   "jp": "でも……\n{px}にちゃんと\n伝えられてよかった……かな。",
-  "en": "But... I'm glad I got to tell you properly, {px}... I\nguess."
+  "en": "But... I'm glad I got to tell you\nproperly, {px}... I guess."
  },
  {
   "id": "fn11_06:047:02",
@@ -716,13 +716,13 @@
   "id": "fn11_06:049:00",
   "speaker": "巴",
   "jp": "は、早く行きなさい。\nアンタには、後で教室に\n来るよう言ったでしょ。",
-  "en": "H-Hurry up and go. I told you to come to the\nclassroom later, didn't I?"
+  "en": "H-Hurry up and go. I told you to\ncome to the classroom later, didn't I?"
  },
  {
   "id": "fn11_06:049:01",
   "speaker": "巴",
   "jp": "……こ、これ以上いられたら\n作業が進まないのよ！",
-  "en": "...I-If you stay any longer, I won't get any work\ndone!"
+  "en": "...I-If you stay any longer, I\nwon't get any work done!"
  },
  {
   "id": "fn11_06:049:02",
@@ -746,7 +746,7 @@
   "id": "fn11_06:051:00",
   "speaker": "巴",
   "jp": "ほら、早く行きなさいよ。\nこれ以上いられたら\n作業が進まないでしょ？",
-  "en": "Come on, hurry up and go. If you stay any longer, I\nwon't get any work done, will I?"
+  "en": "Come on, hurry up and go. If you stay any\nlonger, I won't get any work done, will I?"
  },
  {
   "id": "fn11_06:ksf:03f6f",

@@ -9,7 +9,7 @@
   "id": "dg09_00:000:01",
   "speaker": "筑紫",
   "jp": "任務に疑問を持たない\n従順な手足は、組織にとって\n非常に有用だ。",
-  "en": "Obedient limbs that never question their mission are\nextremely useful to an organization."
+  "en": "Obedient limbs that never question their\nmission are extremely useful to an organization."
  },
  {
   "id": "dg09_00:000:02",
@@ -39,13 +39,13 @@
   "id": "dg09_00:000:06",
   "speaker": "筑紫",
   "jp": "{px}、君もこんな\n得体の知れぬ存在に\n惑わされない事だ。",
-  "en": "{px}, you too would do well not to be led astray by\nso inscrutable a being."
+  "en": "{px}, you too would do well\nnot to be led astray by so inscrutable a being."
  },
  {
   "id": "dg09_00:000:07",
   "speaker": "筑紫",
   "jp": "見たところ、君には\n仲間も、\n護るべきものも―――",
-  "en": "From what I can see, you have friends, things worth\nprotecting--"
+  "en": "From what I can see, you have\nfriends, things worth protecting--"
  },
  {
   "id": "dg09_00:000:08",
@@ -57,7 +57,7 @@
   "id": "dg09_00:000:09",
   "speaker": "筑紫",
   "jp": "それなのに、\n{ruby:こんなもの|・・・・・}が、\n君の命を賭す理由か？",
-  "en": "And yet, this thing is your reason for staking your\nlife?"
+  "en": "And yet, this thing is your\nreason for staking your life?"
  },
  {
   "id": "dg09_00:001:00",
@@ -69,7 +69,7 @@
   "id": "dg09_00:001:01",
   "speaker": "筑紫",
   "jp": "君はそんなものの為に\n身を{ruby:擲|なげう}つというのか。",
-  "en": "You would throw yourself away for the sake of\nthat?"
+  "en": "You would throw yourself\naway for the sake of that?"
  },
  {
   "id": "dg09_00:002:00",
@@ -81,7 +81,7 @@
   "id": "dg09_00:002:01",
   "speaker": "筑紫",
   "jp": "君はそんなものの為に\n身を{ruby:擲|なげう}つというのか。",
-  "en": "You would throw yourself away for the sake of\nthat?"
+  "en": "You would throw yourself\naway for the sake of that?"
  },
  {
   "id": "dg09_00:003:00",
@@ -93,7 +93,7 @@
   "id": "dg09_00:003:01",
   "speaker": "筑紫",
   "jp": "君はそんなものの為に\n身を{ruby:擲|なげう}つというのか。",
-  "en": "You would throw yourself away for the sake of\nthat?"
+  "en": "You would throw yourself\naway for the sake of that?"
  },
  {
   "id": "dg09_00:004:00",
@@ -105,7 +105,7 @@
   "id": "dg09_00:004:01",
   "speaker": "筑紫",
   "jp": "君はそんなものの為に\n身を{ruby:擲|なげう}つというのか。",
-  "en": "You would throw yourself away for the sake of\nthat?"
+  "en": "You would throw yourself\naway for the sake of that?"
  },
  {
   "id": "dg09_00:005:00",
@@ -123,7 +123,7 @@
   "id": "dg09_00:005:02",
   "speaker": "筑紫",
   "jp": "何故、君一人が\n身を{ruby:擲|なげう}つ必要がある。\n一体、何のために。",
-  "en": "Why must you alone throw yourself away? For\nwhat purpose, exactly?"
+  "en": "Why must you alone throw yourself\naway? For what purpose, exactly?"
  },
  {
   "id": "dg09_00:006:00",
@@ -141,7 +141,7 @@
   "id": "dg09_00:006:02",
   "speaker": "筑紫",
   "jp": "何故、君一人が\n身を{ruby:擲|なげう}つ必要がある。\n一体、何のために。",
-  "en": "Why must you alone throw yourself away? For\nwhat purpose, exactly?"
+  "en": "Why must you alone throw yourself\naway? For what purpose, exactly?"
  },
  {
   "id": "dg09_00:007:00",
@@ -159,7 +159,7 @@
   "id": "dg09_00:007:02",
   "speaker": "筑紫",
   "jp": "何故、君一人が\n身を{ruby:擲|なげう}つ必要がある。\n一体、何のために。",
-  "en": "Why must you alone throw yourself away? For\nwhat purpose, exactly?"
+  "en": "Why must you alone throw yourself\naway? For what purpose, exactly?"
  },
  {
   "id": "dg09_00:008:00",
@@ -171,7 +171,7 @@
   "id": "dg09_00:008:01",
   "speaker": "筑紫",
   "jp": "何故、君一人が\n身を{ruby:擲|なげう}つ必要がある。\n一体、何のために。",
-  "en": "Why must you alone throw yourself away? For\nwhat purpose, exactly?"
+  "en": "Why must you alone throw yourself\naway? For what purpose, exactly?"
  },
  {
   "id": "dg09_00:009:00",
@@ -189,19 +189,19 @@
   "id": "dg09_00:010:00",
   "speaker": "白",
   "jp": "決まっておろう。\n執行者の使命は、\n花札を集め封じる事じゃ。",
-  "en": "Is that not obvious? The duty of an Executor is to\ngather and seal the hanafuda."
+  "en": "Is that not obvious? The duty of an\nExecutor is to gather and seal the hanafuda."
  },
  {
   "id": "dg09_00:010:01",
   "speaker": "筑紫",
   "jp": "―――笑止。\n人間の命は貴様等を存続させる\nための道具ではない。",
-  "en": "--Absurd. Human lives are not tools to keep the\nlikes of you in existence."
+  "en": "--Absurd. Human lives are not tools\nto keep the likes of you in existence."
  },
  {
   "id": "dg09_00:010:02",
   "speaker": "白",
   "jp": "其方こそ、札の力を使い\nこの地を破滅に追いやろうと\nしておるのではないか。",
-  "en": "Is it not you who seeks to use the cards' power to\ndrive this land to ruin?"
+  "en": "Is it not you who seeks to use the\ncards' power to drive this land to ruin?"
  },
  {
   "id": "dg09_00:010:03",
@@ -255,13 +255,13 @@
   "id": "dg09_00:010:11",
   "speaker": "白",
   "jp": "例え力の源流が見えずとも、\n封札師としての能力があれば\nより札の力は安定する。",
-  "en": "Even if one cannot see the power's source, a Card\nSealer's abilities make the card's power all the more\nstable."
+  "en": "Even if one cannot see the power's\nsource, a Card Sealer's abilities make\nthe card's power all the more stable."
  },
  {
   "id": "dg09_00:010:12",
   "speaker": "白",
   "jp": "じゃが《人札》に魅入られし\n者の定めは変わらぬ。\nその札を使えば其方は―――",
-  "en": "But the fate of one enthralled by the Man Card\ndoes not change. Should you use that card, you\nwill--"
+  "en": "But the fate of one enthralled by the\nMan Card does not change. Should\nyou use that card, you will--"
  },
  {
   "id": "dg09_00:010:13",
@@ -291,7 +291,7 @@
   "id": "dg09_00:010:17",
   "speaker": "筑紫",
   "jp": "いまここで私を止めねば、\nこの街は破壊され―――",
-  "en": "If you do not stop me here and now, this city will\nbe destroyed--"
+  "en": "If you do not stop me here and\nnow, this city will be destroyed--"
  },
  {
   "id": "dg09_00:010:18",
@@ -303,7 +303,7 @@
   "id": "dg09_00:011:00",
   "speaker": "筑紫",
   "jp": "それが嫌ならば、\n私を阻止する事だ。\n君の―――全力でな。",
-  "en": "If you would prevent that, then stop me. With\neverything--you have."
+  "en": "If you would prevent that, then stop\nme. With everything--you have."
  },
  {
   "id": "dg09_00:012:00",
@@ -441,7 +441,7 @@
   "id": "dg09_00:021:00",
   "speaker": "筑紫",
   "jp": "―――{px}、\n君の力と覚悟、\n見せてもらう。",
-  "en": "--{px}. Show me your strength and your resolve."
+  "en": "--{px}. Show me\nyour strength and your resolve."
  },
  {
   "id": "dg09_00:021:01",

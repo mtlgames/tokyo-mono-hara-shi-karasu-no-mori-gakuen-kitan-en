@@ -141,7 +141,7 @@
   "id": "ms02_02:000:23",
   "speaker": "{ruby:白|まお}",
   "jp": "見よ、{px}。\nあれが札の力に\n憑かれたものの末路―――",
-  "en": "Behold, {px}. That is the fate of one possessed by\nthe cards' power--"
+  "en": "Behold, {px}. That is the fate\nof one possessed by the cards' power--"
  },
  {
   "id": "ms02_02:000:24",
@@ -219,7 +219,7 @@
   "id": "ms02_02:000:36",
   "speaker": "白",
   "jp": "{px}の持つ物より\n更に大きな《力》が\nここに眠っておるのじゃろう。",
-  "en": "A Power greater still than the one {px} holds must\nlie sleeping here."
+  "en": "A Power greater still than the one\n{px} holds must lie sleeping here."
  },
  {
   "id": "ms02_02:000:37",
@@ -231,7 +231,7 @@
   "id": "ms02_02:000:38",
   "speaker": "巴",
   "jp": "いまの、何よ……。\n鴉が女の子に―――",
-  "en": "What WAS that just now...? A crow turned into a\ngirl--"
+  "en": "What WAS that just now...?\nA crow turned into a girl--"
  },
  {
   "id": "ms02_02:000:39",
@@ -285,7 +285,7 @@
   "id": "ms02_02:002:01",
   "speaker": "巴",
   "jp": "あたしにはあたしの\n責任の取り方があるって\nいうだけよ。",
-  "en": "It's just that I have my own way of taking\nresponsibility, that's all."
+  "en": "It's just that I have my own way\nof taking responsibility, that's all."
  },
  {
   "id": "ms02_02:003:00",
@@ -309,7 +309,7 @@
   "id": "ms02_02:004:01",
   "speaker": "巴",
   "jp": "たまにはそういうのも\n悪くないかもね。",
-  "en": "Maybe that sort of thing isn't so bad once in a\nwhile."
+  "en": "Maybe that sort of thing\nisn't so bad once in a while."
  },
  {
   "id": "ms02_02:005:00",
@@ -381,7 +381,7 @@
   "id": "ms02_02:011:02",
   "speaker": "燈治",
   "jp": "勝手について来られたら、\nそれこそ危ねェだろうが。",
-  "en": "If you go taggin' along on your own, THAT'S when\nit gets dangerous."
+  "en": "If you go taggin' along on your own,\nTHAT'S when it gets dangerous."
  },
  {
   "id": "ms02_02:011:03",
@@ -399,13 +399,13 @@
   "id": "ms02_02:011:05",
   "speaker": "弥紀",
   "jp": "口で色々言ってても、\n何が良くて何が駄目か、\nいまどうするのが最良か―――",
-  "en": "She talks a lot, but what's right and what's wrong,\nwhat's the best thing to do right now--"
+  "en": "She talks a lot, but what's right and what's\nwrong, what's the best thing to do right now--"
  },
  {
   "id": "ms02_02:011:06",
   "speaker": "弥紀",
   "jp": "ちゃんと知ってる。\n運動神経だっていいもの。",
-  "en": "she really knows all that. And she's super athletic,\ntoo."
+  "en": "she really knows all that.\nAnd she's super athletic, too."
  },
  {
   "id": "ms02_02:011:07",
@@ -423,7 +423,7 @@
   "id": "ms02_02:012:01",
   "speaker": "弥紀",
   "jp": "わたしは……\nここに残って\n部員さんの怪我を何とかする。",
-  "en": "I'll... stay here and do something about the club\nmembers' injuries."
+  "en": "I'll... stay here and do something\nabout the club members' injuries."
  },
  {
   "id": "ms02_02:012:02",
@@ -441,7 +441,7 @@
   "id": "ms02_02:012:04",
   "speaker": "弥紀",
   "jp": "先生に見つかっても\n頑張って上手く説明するから。",
-  "en": "and if a teacher finds me, I'll do my best to explain\nit somehow."
+  "en": "and if a teacher finds me, I'll do\nmy best to explain it somehow."
  },
  {
   "id": "ms02_02:013:00",
@@ -471,7 +471,7 @@
   "id": "ms02_02:015:01",
   "speaker": "弥紀",
   "jp": "{px}の方が\nずっと大変だと思うから、\n気をつけて……。",
-  "en": "I think you've got it way harder than me, {px}, so be\ncareful..."
+  "en": "I think you've got it way harder than\nme, {px}, so be careful..."
  },
  {
   "id": "ms02_02:016:00",
@@ -537,13 +537,13 @@
   "id": "ms02_02:023:00",
   "speaker": "弥紀",
   "jp": "それに、宍戸くんが\n戻って来たとき、\nこの状況を見たら……",
-  "en": "Besides, if Shishido-kun comes back and sees things\nlike this..."
+  "en": "Besides, if Shishido-kun comes\nback and sees things like this..."
  },
  {
   "id": "ms02_02:023:01",
   "speaker": "弥紀",
   "jp": "またものすごく、\n自分のこと、\n責めちゃうと思う。",
-  "en": "I think he'll blame himself all over again, really\nbadly."
+  "en": "I think he'll blame himself\nall over again, really badly."
  },
  {
   "id": "ms02_02:023:02",
@@ -597,7 +597,7 @@
   "id": "ms02_02:024:07",
   "speaker": "白",
   "jp": "感情で時間を浪費し、\n挙げ句、選んだ選択肢が―――",
-  "en": "Wasting time on feelings, and in the end, the choice\nthey make--"
+  "en": "Wasting time on feelings, and in\nthe end, the choice they make--"
  },
  {
   "id": "ms02_02:024:08",
@@ -615,7 +615,7 @@
   "id": "ms02_02:024:10",
   "speaker": "巴",
   "jp": "上等だわ。\n足手{ruby:纏|まと}いかどうか、\n見せてやろうじゃないのよ。",
-  "en": "Fine by me. I'll show you whether I'm dead weight\nor not!"
+  "en": "Fine by me. I'll show you\nwhether I'm dead weight or not!"
  },
  {
   "id": "ms02_02:024:11",

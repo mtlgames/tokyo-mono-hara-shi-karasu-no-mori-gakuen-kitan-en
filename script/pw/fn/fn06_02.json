@@ -9,19 +9,19 @@
   "id": "fn06_02:001:01",
   "speaker": "いちる",
   "jp": "あッ、{px}。\nカナエさんが足の上から\n全然どいてくれないの。",
-  "en": "Ah, {px}. Kanae-san won't get off my lap at all."
+  "en": "Ah, {px}. Kanae-san\nwon't get off my lap at all."
  },
  {
   "id": "fn06_02:001:02",
   "speaker": "いちる",
   "jp": "伊佐地センセはマスターと\n積もる話があるとかで、まだ\n動く気配ないし……。",
-  "en": "Isachi-sensei says he's got a lot to catch up on with\nthe Master, so he doesn't look like he's moving\nanytime soon either..."
+  "en": "Isachi-sensei says he's got a lot to catch\nup on with the Master, so he doesn't look\nlike he's moving anytime soon either..."
  },
  {
   "id": "fn06_02:001:03",
   "speaker": "いちる",
   "jp": "っていうか、さっきから全然\n喋って無いんだよ？",
-  "en": "I mean, he hasn't said a single word this whole time,\nyou know?"
+  "en": "I mean, he hasn't said a single\nword this whole time, you know?"
  },
  {
   "id": "fn06_02:001:04",
@@ -39,7 +39,7 @@
   "id": "fn06_02:001:06",
   "speaker": "いちる",
   "jp": "カナエさんがどいてくれたら\n外に行けるけど……。",
-  "en": "If Kanae-san would just move, I could go outside,\nbut..."
+  "en": "If Kanae-san would just\nmove, I could go outside, but..."
  },
  {
   "id": "fn06_02:001:07",
@@ -51,13 +51,13 @@
   "id": "fn06_02:002:00",
   "speaker": "いちる",
   "jp": "ううー、カナエさんってば\n{px}に枕、移動した\nほうが断然いいよ。",
-  "en": "Ugh, Kanae-san, you'd be way better off switching\nyour pillow to {px}."
+  "en": "Ugh, Kanae-san, you'd be way better off\nswitching your pillow to {px}."
  },
  {
   "id": "fn06_02:002:01",
   "speaker": "いちる",
   "jp": "{px}の方が、\nうーんと優しいよ？\nねえ、カナエさーん。",
-  "en": "{px}'s way, way nicer, you know? Right,\nKanae-saaan?"
+  "en": "{px}'s way, way nicer,\nyou know? Right, Kanae-saaan?"
  },
  {
   "id": "fn06_02:003:00",
@@ -87,7 +87,7 @@
   "id": "fn06_02:004:01",
   "speaker": "いちる",
   "jp": "カナエさんが起きるまで、\nちゃんと枕になってあげる\nしかないかな……。",
-  "en": "Guess I've got no choice but to be a proper pillow\nuntil Kanae-san wakes up..."
+  "en": "Guess I've got no choice but to be a\nproper pillow until Kanae-san wakes up..."
  },
  {
   "id": "fn06_02:005:00",
@@ -135,7 +135,7 @@
   "id": "fn06_02:009:00",
   "speaker": "いちる",
   "jp": "だよね……。\nあたしもさっきからず～っと\n悩みっぱなし。",
-  "en": "Right... I've been agonizing over it this whole time\ntoo."
+  "en": "Right... I've been agonizing\nover it this whole time too."
  },
  {
   "id": "fn06_02:009:01",
@@ -147,13 +147,13 @@
   "id": "fn06_02:010:00",
   "speaker": "いちる",
   "jp": "ううー{px}まで\nカナエさんと一緒に無視する\nなんて……。",
-  "en": "Ugh, even you're ignoring me along with Kanae-san,\n{px}..."
+  "en": "Ugh, even you're ignoring me along\nwith Kanae-san, {px}..."
  },
  {
   "id": "fn06_02:011:00",
   "speaker": "いちる",
   "jp": "動物飼ってた経験ないから\n力の加減がわからなくて……。",
-  "en": "I've never had a pet, so I don't know how gentle to\nbe..."
+  "en": "I've never had a pet, so I\ndon't know how gentle to be..."
  },
  {
   "id": "fn06_02:011:01",
@@ -171,7 +171,7 @@
   "id": "fn06_02:012:00",
   "speaker": "いちる",
   "jp": "はー……もう諦めたよ。\nこうなったらどっちが\n先に根を上げるか勝負！",
-  "en": "Haaa... I give up. Now it's a contest to see who\ncracks first!"
+  "en": "Haaa... I give up. Now it's a\ncontest to see who cracks first!"
  },
  {
   "id": "fn06_02:012:01",

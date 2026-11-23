@@ -21,13 +21,13 @@
   "id": "dg00_03:000:03",
   "speaker": "伊佐地",
   "jp": "ここまで来れたという事は、\n{ruby:封札師|ふうさつし}として{ruby:身体面|しんたいめん}においては\n概ね合格だ。",
-  "en": "Getting this far means you've more or less passed\nthe physical side of being a Card Sealer."
+  "en": "Getting this far means you've more or less\npassed the physical side of being a Card Sealer."
  },
  {
   "id": "dg00_03:000:04",
   "speaker": "伊佐地",
   "jp": "これから問われるのは\n精神―――心の強さだ。",
-  "en": "What's being tested now is your spirit-- the strength\nof your heart."
+  "en": "What's being tested now is your\nspirit-- the strength of your heart."
  },
  {
   "id": "dg00_03:000:05",
@@ -51,13 +51,13 @@
   "id": "dg00_03:000:08",
   "speaker": "伊佐地",
   "jp": "古来より、人にカミフダを\n{ruby:使役|しえき}する《力》を\n与えてきた遺物だ。",
-  "en": "It's a relic that since ancient times has given people\nthe Power to command ORDS."
+  "en": "It's a relic that since ancient times has\ngiven people the Power to command ORDS."
  },
  {
   "id": "dg00_03:000:09",
   "speaker": "伊佐地",
   "jp": "カミフダに秘められた様々な\n超常の《力》を己が物として、\n自在に操る……。",
-  "en": "To take the many supernatural Powers sealed within\nORDS as your own and wield them at will..."
+  "en": "To take the many supernatural Powers sealed\nwithin ORDS as your own and wield them at will..."
  },
  {
   "id": "dg00_03:000:10",
@@ -75,7 +75,7 @@
   "id": "dg00_03:000:12",
   "speaker": "伊佐地",
   "jp": "それを手に入れるという事は\n同時に義務と責任を\n負うという事でもある。",
-  "en": "obtaining it also means taking on duty and\nresponsibility."
+  "en": "obtaining it also means taking\non duty and responsibility."
  },
  {
   "id": "dg00_03:001:00",
@@ -87,7 +87,7 @@
   "id": "dg00_03:002:00",
   "speaker": "伊佐地",
   "jp": "まったく、{ruby:器|うつわ}がでかいのか\nそれとも単なる\n考え無しか……。",
-  "en": "Honestly, either you've got a big heart, or you just\ndon't think things through..."
+  "en": "Honestly, either you've got a big heart,\nor you just don't think things through..."
  },
  {
   "id": "dg00_03:002:01",
@@ -105,7 +105,7 @@
   "id": "dg00_03:003:01",
   "speaker": "伊佐地",
   "jp": "まったく、\n{ruby:器|うつわ}がでかいのか、それとも\n単なる考え無しか……。",
-  "en": "Honestly, either you've got a big heart, or you just\ndon't think things through..."
+  "en": "Honestly, either you've got a big heart,\nor you just don't think things through..."
  },
  {
   "id": "dg00_03:004:00",
@@ -141,7 +141,7 @@
   "id": "dg00_03:006:01",
   "speaker": "伊佐地",
   "jp": "だが、言ったはずだ。\nそれでもこれは、\nお前たちにしか務まらないと。",
-  "en": "But I told you. Even so, this is a job only you can\ndo."
+  "en": "But I told you. Even so, this\nis a job only you can do."
  },
  {
   "id": "dg00_03:007:00",
@@ -153,7 +153,7 @@
   "id": "dg00_03:007:01",
   "speaker": "伊佐地",
   "jp": "だが、言ったはずだ。\nそれでもこれは、\nお前たちにしか務まらないと。",
-  "en": "But I told you. Even so, this is a job only you can\ndo."
+  "en": "But I told you. Even so, this\nis a job only you can do."
  },
  {
   "id": "dg00_03:008:00",
@@ -165,7 +165,7 @@
   "id": "dg00_03:008:01",
   "speaker": "伊佐地",
   "jp": "だが、言ったはずだ。\nそれでもこれは、\nお前たちにしか務まらないと。",
-  "en": "But I told you. Even so, this is a job only you can\ndo."
+  "en": "But I told you. Even so, this\nis a job only you can do."
  },
  {
   "id": "dg00_03:009:00",
@@ -177,7 +177,7 @@
   "id": "dg00_03:009:01",
   "speaker": "伊佐地",
   "jp": "だが、言ったはずだ。\nそれでもこれは、\nお前たちにしか務まらないと。",
-  "en": "But I told you. Even so, this is a job only you can\ndo."
+  "en": "But I told you. Even so, this\nis a job only you can do."
  },
  {
   "id": "dg00_03:010:00",
@@ -195,19 +195,19 @@
   "id": "dg00_03:011:01",
   "speaker": "伊佐地",
   "jp": "そして、その力を使う事で\n生じる事態に対する責任がな。",
-  "en": "And a responsibility for whatever comes of using\nthat power."
+  "en": "And a responsibility for whatever\ncomes of using that power."
  },
  {
   "id": "dg00_03:011:02",
   "speaker": "零",
   "jp": "結局のところ、\nそれは{ruby:ＯＸＡＳ|オ　ク　サ　ス}という組織に\n従えということじゃないのか？",
-  "en": "In the end, isn't that just telling us to obey the\norganization called OXAS?"
+  "en": "In the end, isn't that just telling us to\nobey the organization called OXAS?"
  },
  {
   "id": "dg00_03:011:03",
   "speaker": "伊佐地",
   "jp": "……そうだな。\nだが俺の言っている事の本質は\nそんなものじゃあない。",
-  "en": "...Maybe so. But that's not the heart of what I'm\nsaying."
+  "en": "...Maybe so. But that's not\nthe heart of what I'm saying."
  },
  {
   "id": "dg00_03:012:00",
@@ -219,13 +219,13 @@
   "id": "dg00_03:012:01",
   "speaker": "いちる",
   "jp": "せっかく《力》があるんだから\nそれを使って\n出来るコトをする……。",
-  "en": "Since we've got this Power, we use it to do what\nwe can..."
+  "en": "Since we've got this Power,\nwe use it to do what we can..."
  },
  {
   "id": "dg00_03:012:02",
   "speaker": "いちる",
   "jp": "つまり、その《力》を、\nちゃんと良いコトに\n使えばいいんだよね？",
-  "en": "So basically, we just have to use that Power for\ngood stuff, right?"
+  "en": "So basically, we just have to use\nthat Power for good stuff, right?"
  },
  {
   "id": "dg00_03:012:03",
@@ -249,7 +249,7 @@
   "id": "dg00_03:012:06",
   "speaker": "伊佐地",
   "jp": "やり方は簡単だ。\nその杖で{ruby:利|き}き手の甲を貫け。",
-  "en": "It's simple. Pierce the back of your dominant hand\nwith that staff."
+  "en": "It's simple. Pierce the back of your\ndominant hand with that staff."
  },
  {
   "id": "dg00_03:012:07",
@@ -267,7 +267,7 @@
   "id": "dg00_03:012:09",
   "speaker": "伊佐地",
   "jp": "その杖の刃は金属とは違って\n肉や骨を断つ{ruby:類|たぐい}の物じゃない。",
-  "en": "That staff's blade isn't like metal. It's not the kind of\nthing that cuts flesh or bone."
+  "en": "That staff's blade isn't like metal. It's not\nthe kind of thing that cuts flesh or bone."
  },
  {
   "id": "dg00_03:012:10",
@@ -291,7 +291,7 @@
   "id": "dg00_03:012:13",
   "speaker": "いちる",
   "jp": "それに、ここまで……\nみんなで、頑張って\nきたんだから……。",
-  "en": "Besides, we've all... worked so hard to get this far,\nso..."
+  "en": "Besides, we've all... worked\nso hard to get this far, so..."
  },
  {
   "id": "dg00_03:012:14",
@@ -315,19 +315,19 @@
   "id": "dg00_03:013:00",
   "speaker": "零",
   "jp": "おれの様を見て決めればいい。\nその方が二人とも\nやりやすいだろう。",
-  "en": "Watch how it goes for me, then decide. That should\nmake it easier for both of you."
+  "en": "Watch how it goes for me, then decide.\nThat should make it easier for both of you."
  },
  {
   "id": "dg00_03:014:00",
   "speaker": "零",
   "jp": "いや……この場合は\nこうするのが最も合理的だと\n判断しただけだ。",
-  "en": "No... I simply judged this to be the most rational\ncourse here."
+  "en": "No... I simply judged this to be\nthe most rational course here."
  },
  {
   "id": "dg00_03:015:00",
   "speaker": "零",
   "jp": "そうだな。\nおれが試してみるというのが\n現状では最も合理的だ。",
-  "en": "Right. As things stand, having me try it first is the\nmost rational course."
+  "en": "Right. As things stand, having me try\nit first is the most rational course."
  },
  {
   "id": "dg00_03:015:01",
@@ -351,7 +351,7 @@
   "id": "dg00_03:017:00",
   "speaker": "零",
   "jp": "ああ。\nおれが試してみるというのが\n現状では最も合理的だ。",
-  "en": "Yes. As things stand, having me try it first is the\nmost rational course."
+  "en": "Yes. As things stand, having me try\nit first is the most rational course."
  },
  {
   "id": "dg00_03:018:00",
@@ -387,7 +387,7 @@
   "id": "dg00_03:020:01",
   "speaker": "零",
   "jp": "この場合はこうするのが\n最も合理的だが……。",
-  "en": "Doing it this way is the most rational course here,\nbut..."
+  "en": "Doing it this way is the most\nrational course here, but..."
  },
  {
   "id": "dg00_03:021:00",
@@ -417,13 +417,13 @@
   "id": "dg00_03:023:01",
   "speaker": "いちる",
   "jp": "{ruby:雉明|ちあき}クン一人にやらせるなんて\nなんか……違うと思う。",
-  "en": "Making Chiaki-kun do it all by himself... just feels\nwrong."
+  "en": "Making Chiaki-kun do it all\nby himself... just feels wrong."
  },
  {
   "id": "dg00_03:023:02",
   "speaker": "いちる",
   "jp": "誰かがやって平気そうだから\nやるとか、やめるとか、\nそういうコトじゃないでしょ？",
-  "en": "It's not about doing it or not depending on whether\nsomeone else came out okay, right?"
+  "en": "It's not about doing it or not depending on\nwhether someone else came out okay, right?"
  },
  {
   "id": "dg00_03:024:00",
@@ -435,13 +435,13 @@
   "id": "dg00_03:024:01",
   "speaker": "いちる",
   "jp": "{ruby:雉明|ちあき}クン一人にやらせるなんて\nなんか違うと思う。",
-  "en": "Making Chiaki-kun do it all by himself just feels\nwrong."
+  "en": "Making Chiaki-kun do it all\nby himself just feels wrong."
  },
  {
   "id": "dg00_03:024:02",
   "speaker": "いちる",
   "jp": "それに、誰かがやってみて\n平気そうだからやるとか、\nそういうコトじゃないよ。",
-  "en": "Besides, it's not like we should only do it because\nsomeone else tried it and came out okay."
+  "en": "Besides, it's not like we should only do it\nbecause someone else tried it and came out okay."
  },
  {
   "id": "dg00_03:025:00",
@@ -471,7 +471,7 @@
   "id": "dg00_03:026:00",
   "speaker": "いちる",
   "jp": "大丈夫、ちゃんとあたしが\n一番上になるから！\nそれならオッケーだよね？",
-  "en": "Don't worry, I'll make sure my hand's on top! Then\nit's okay, right?"
+  "en": "Don't worry, I'll make sure my\nhand's on top! Then it's okay, right?"
  },
  {
   "id": "dg00_03:027:00",
@@ -501,7 +501,7 @@
   "id": "dg00_03:029:00",
   "speaker": "いちる",
   "jp": "えへへ、\n{px}にそう言われたら\nますます燃えてきたッ。",
-  "en": "Ehehe, hearing that from you, {px}, gets me even\nmore fired up!"
+  "en": "Ehehe, hearing that from you,\n{px}, gets me even more fired up!"
  },
  {
   "id": "dg00_03:029:01",
@@ -597,7 +597,7 @@
   "id": "dg00_03:036:02",
   "speaker": "いちる",
   "jp": "無理なんかしてないよ。\nだってあたし、\nいま、すっごく嬉しいんだ。",
-  "en": "I'm not pushing myself. 'Cause right now, I'm super\nhappy."
+  "en": "I'm not pushing myself. 'Cause\nright now, I'm super happy."
  },
  {
   "id": "dg00_03:036:03",
@@ -609,7 +609,7 @@
   "id": "dg00_03:036:04",
   "speaker": "いちる",
   "jp": "うん……あたし、ね。\nいままでその……\nあんまり友達とかいなくて。",
-  "en": "Yeah... See, I... Up till now, I, um... never really had\nmany friends."
+  "en": "Yeah... See, I... Up till now, I, um...\nnever really had many friends."
  },
  {
   "id": "dg00_03:036:05",
@@ -621,7 +621,7 @@
   "id": "dg00_03:036:06",
   "speaker": "いちる",
   "jp": "でもみんなにも知って欲しくて\nつい余計なコトばっか\n言っちゃって……。",
-  "en": "But I wanted everyone to know about it too, so I\nkept blurting out stuff I shouldn't have..."
+  "en": "But I wanted everyone to know about it too,\nso I kept blurting out stuff I shouldn't have..."
  },
  {
   "id": "dg00_03:036:07",
@@ -633,7 +633,7 @@
   "id": "dg00_03:036:08",
   "speaker": "いちる",
   "jp": "でも、この眼があるコトで\nこれからは誰かの役に立てる。",
-  "en": "But having this Eye means that from now on, I can\nbe useful to someone."
+  "en": "But having this Eye means that from\nnow on, I can be useful to someone."
  },
  {
   "id": "dg00_03:036:09",
@@ -657,7 +657,7 @@
   "id": "dg00_03:036:12",
   "speaker": "零",
   "jp": "{px}、武藤。\n二人とも手を貸せ。",
-  "en": "{px}, Muto. Both of you, give me your hands."
+  "en": "{px}, Muto. Both\nof you, give me your hands."
  },
  {
   "id": "dg00_03:036:13",
@@ -717,7 +717,7 @@
   "id": "dg00_03:039:02",
   "speaker": "零",
   "jp": "どうした、{px}。\n何か気になることでも？",
-  "en": "What's wrong, {px}? Is something bothering you?"
+  "en": "What's wrong, {px}?\nIs something bothering you?"
  },
  {
   "id": "dg00_03:040:00",
@@ -741,7 +741,7 @@
   "id": "dg00_03:040:03",
   "speaker": "いちる",
   "jp": "{px}だけずるいよ～！\nあたしだって上がいいのにッ。",
-  "en": "No fair, {px}~! I wanted to be on top too!"
+  "en": "No fair, {px}~!\nI wanted to be on top too!"
  },
  {
   "id": "dg00_03:040:04",
@@ -813,7 +813,7 @@
   "id": "dg00_03:042:01",
   "speaker": "いちる",
   "jp": "わかるわかる！\nいまのちょっと、\n心の準備が足りなかったよね。",
-  "en": "I get it, I get it! We weren't quite ready for that one,\nhuh."
+  "en": "I get it, I get it! We weren't\nquite ready for that one, huh."
  },
  {
   "id": "dg00_03:042:02",
@@ -843,7 +843,7 @@
   "id": "dg00_03:043:02",
   "speaker": "零",
   "jp": "《{ruby:隠者|いんじゃ}の{ruby:刻印|こくいん}》……。\nこれが{ruby:封札師|ふうさつし}の証、か。",
-  "en": "The Hermit's Mark... So this is the proof of a Card\nSealer."
+  "en": "The Hermit's Mark... So this\nis the proof of a Card Sealer."
  },
  {
   "id": "dg00_03:043:03",
@@ -855,7 +855,7 @@
   "id": "dg00_03:043:04",
   "speaker": "いちる",
   "jp": "なんだろう、{ruby:痣|あざ}っていうか\n{ruby:刺青|いれずみ}みたいっていうか……。",
-  "en": "What is this? It's kinda like a birthmark, or maybe a\ntattoo..."
+  "en": "What is this? It's kinda like a\nbirthmark, or maybe a tattoo..."
  },
  {
   "id": "dg00_03:043:05",
@@ -867,13 +867,13 @@
   "id": "dg00_03:043:06",
   "speaker": "伊佐地",
   "jp": "カミフダに記された情報を\n直接読み取り、最大限に活用\nする事の出来る《力》だ。",
-  "en": "A Power that lets you read the information written\nin ORDS directly and put it to full use."
+  "en": "A Power that lets you read the information\nwritten in ORDS directly and put it to full use."
  },
  {
   "id": "dg00_03:043:07",
   "speaker": "伊佐地",
   "jp": "以降は平時においても\n手甲に付属のグローブを\n着用するように。",
-  "en": "From now on, wear the glove that comes with the\ngauntlet, even in everyday life."
+  "en": "From now on, wear the glove that comes\nwith the gauntlet, even in everyday life."
  },
  {
   "id": "dg00_03:043:08",
@@ -885,7 +885,7 @@
   "id": "dg00_03:043:09",
   "speaker": "伊佐地",
   "jp": "お前たちの\n封札師としての《力》……\n存分に使ってこい。",
-  "en": "Your Power as Card Sealers... Go use it for all it's\nworth."
+  "en": "Your Power as Card Sealers...\nGo use it for all it's worth."
  },
  {
   "id": "dg00_03:ksf:1585f",

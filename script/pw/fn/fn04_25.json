@@ -9,13 +9,13 @@
   "id": "fn04_25:001:01",
   "speaker": "富樫",
   "jp": "羽鳥の話を聞いて、なんとなく\nそんな気はしていたが……\nまったく、世間は狭い。",
-  "en": "I had a hunch, hearing Hatori talk... Honestly, it's a\nsmall world."
+  "en": "I had a hunch, hearing Hatori\ntalk... Honestly, it's a small world."
  },
  {
   "id": "fn04_25:002:00",
   "speaker": "富樫",
   "jp": "なんだ、お前か……。\n今日はよくよく、待ち人以外が\n来る日だな。",
-  "en": "What, it's you...? Today's really the day for everyone\nbut the person I'm waiting for to show up."
+  "en": "What, it's you...? Today's really the day for\neveryone but the person I'm waiting for to show up."
  },
  {
   "id": "fn04_25:002:01",
@@ -27,13 +27,13 @@
   "id": "fn04_25:002:02",
   "speaker": "富樫",
   "jp": "なんだ、\n話題の居候ってのは\n{px}の事か。",
-  "en": "What, so the freeloader everyone's talking about is\n{px}?"
+  "en": "What, so the freeloader everyone's\ntalking about is {px}?"
  },
  {
   "id": "fn04_25:002:03",
   "speaker": "富樫",
   "jp": "……それから、羽鳥。\n名前は呼ぶな。",
-  "en": "...And another thing, Hatori. Don't call me by my\nname."
+  "en": "...And another thing, Hatori.\nDon't call me by my name."
  },
  {
   "id": "fn04_25:002:04",
@@ -45,7 +45,7 @@
   "id": "fn04_25:002:05",
   "speaker": "朝子",
   "jp": "でも凄いわね、{px}。\n《鬼の富樫》を相手に、\n堂々と渡り合ってるなんて。",
-  "en": "But that's amazing, {px}. Holding your own against\n\"Demon Togashi\" like that."
+  "en": "But that's amazing, {px}. Holding\nyour own against \"Demon Togashi\" like that."
  },
  {
   "id": "fn04_25:002:06",
@@ -63,13 +63,13 @@
   "id": "fn04_25:003:00",
   "speaker": "富樫",
   "jp": "……昔から、どうも羽鳥は\n危なっかしい。\n目が離せなくてな。",
-  "en": "...Hatori's always been a little reckless. I can't take my\neyes off her."
+  "en": "...Hatori's always been a little\nreckless. I can't take my eyes off her."
  },
  {
   "id": "fn04_25:003:01",
   "speaker": "富樫",
   "jp": "放っておくと心配になって\n結局、いつも余計な\n世話を焼いてしまう。",
-  "en": "If I leave her be, I start worrying, and in the end I\nalways go sticking my nose in."
+  "en": "If I leave her be, I start worrying, and in\nthe end I always go sticking my nose in."
  },
  {
   "id": "fn04_25:003:02",
@@ -87,25 +87,25 @@
   "id": "fn04_25:004:01",
   "speaker": "富樫",
   "jp": "まァ、ここまでくると確かに、\n保護者の気分だな。",
-  "en": "Well, at this point I suppose I do feel like her\nguardian."
+  "en": "Well, at this point I suppose\nI do feel like her guardian."
  },
  {
   "id": "fn04_25:005:00",
   "speaker": "富樫",
   "jp": "私は、喜んで世話を焼いている\nつもりじゃないんだがな……。",
-  "en": "I don't think I go looking after her because I enjoy\nit..."
+  "en": "I don't think I go looking\nafter her because I enjoy it..."
  },
  {
   "id": "fn04_25:005:01",
   "speaker": "富樫",
   "jp": "いや、実はそうなのか……？\nそれならそれで、\n問題ありだ。",
-  "en": "Or maybe I actually do...? If so, that's a problem in\nitself."
+  "en": "Or maybe I actually do...? If\nso, that's a problem in itself."
  },
  {
   "id": "fn04_25:006:00",
   "speaker": "富樫",
   "jp": "私が、人の世話を焼くのに\n燃えるような人間に\n見えるのか？",
-  "en": "Do I look like the sort who gets fired up about\nlooking after people?"
+  "en": "Do I look like the sort who gets\nfired up about looking after people?"
  },
  {
   "id": "fn04_25:006:01",
@@ -135,7 +135,7 @@
   "id": "fn04_25:008:01",
   "speaker": "富樫",
   "jp": "もしそうなら、面倒なんか\n見ずに放っておくだろ。\nお前は違うのか？",
-  "en": "If I were, I'd leave her be instead of looking after\nher. Wouldn't you?"
+  "en": "If I were, I'd leave her be instead\nof looking after her. Wouldn't you?"
  },
  {
   "id": "fn04_25:009:00",
@@ -183,7 +183,7 @@
   "id": "fn04_25:013:00",
   "speaker": "富樫",
   "jp": "しかし……羽鳥と\n一つ屋根の下とは、\n賑やかそうだな。",
-  "en": "Still... living under the same roof as Hatori sounds\nlively."
+  "en": "Still... living under the same\nroof as Hatori sounds lively."
  },
  {
   "id": "fn04_25:013:01",
@@ -201,13 +201,13 @@
   "id": "fn04_25:014:00",
   "speaker": "富樫",
   "jp": "手のかかる奴は、\n何処にでもいるもんだ。",
-  "en": "There are people who are a handful everywhere you\ngo."
+  "en": "There are people who are a\nhandful everywhere you go."
  },
  {
   "id": "fn04_25:014:01",
   "speaker": "富樫",
   "jp": "そういうのに限って、\n付き合いが長くなる。",
-  "en": "And those are always the ones you end up knowing\nthe longest."
+  "en": "And those are always the ones\nyou end up knowing the longest."
  },
  {
   "id": "fn04_25:014:02",

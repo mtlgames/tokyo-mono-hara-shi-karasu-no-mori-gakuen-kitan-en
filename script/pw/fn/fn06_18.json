@@ -15,7 +15,7 @@
   "id": "fn06_18:001:02",
   "speaker": "鍵",
   "jp": "皆さんで、風呂。\n{ruby:和気藹々|わきあいあい}。\nこの状況がいいんでしょう。",
-  "en": "Everyone in the bath together, all friendly and cozy.\nThat's what makes it nice, I suppose."
+  "en": "Everyone in the bath together, all friendly and\ncozy. That's what makes it nice, I suppose."
  },
  {
   "id": "fn06_18:001:03",
@@ -27,7 +27,7 @@
   "id": "fn06_18:001:04",
   "speaker": "鍵",
   "jp": "私もいい気分になれる\nアレが欲しい……\nなんて言ったら",
-  "en": "If I were to say I'd like a little of that thing that\nputs me in a good mood..."
+  "en": "If I were to say I'd like a little of that\nthing that puts me in a good mood..."
  },
  {
   "id": "fn06_18:001:05",
@@ -45,7 +45,7 @@
   "id": "fn06_18:002:00",
   "speaker": "鍵",
   "jp": "おや、坊。\nその顔はひょっとして……。\nアレですかい？",
-  "en": "Oh my, young master. That look on your face...\nCould it be \"that\"?"
+  "en": "Oh my, young master. That look\non your face... Could it be \"that\"?"
  },
  {
   "id": "fn06_18:002:01",
@@ -57,13 +57,13 @@
   "id": "fn06_18:004:00",
   "speaker": "鍵",
   "jp": "いやいや……。\nこれはあいすみません。\n有り難く頂戴いたしやす。",
-  "en": "Well, well... I'm much obliged to you. I'll accept it\nwith gratitude."
+  "en": "Well, well... I'm much obliged to\nyou. I'll accept it with gratitude."
  },
  {
   "id": "fn06_18:004:01",
   "speaker": "鍵",
   "jp": "たまりませんね。\n油の照り、薄皮から漂う\n芳醇な大豆の香り……。",
-  "en": "Oh, it's irresistible. The glistening oil, the rich aroma\nof soybeans wafting off the thin skin..."
+  "en": "Oh, it's irresistible. The glistening oil, the rich\naroma of soybeans wafting off the thin skin..."
  },
  {
   "id": "fn06_18:004:02",
@@ -75,7 +75,7 @@
   "id": "fn06_18:004:03",
   "speaker": "鍵",
   "jp": "お礼と言っちゃなんですが\nこれを差し上げやしょう。",
-  "en": "It's not much by way of thanks, but let me give you\nthis."
+  "en": "It's not much by way of thanks,\nbut let me give you this."
  },
  {
   "id": "fn06_18:004:04",
@@ -87,13 +87,13 @@
   "id": "fn06_18:004:05",
   "speaker": "鍵",
   "jp": "流石に、いまはもう\n私のとこじゃ\nお役目が終わってる。",
-  "en": "Truth be told, its duty with me is long over by\nnow."
+  "en": "Truth be told, its duty with\nme is long over by now."
  },
  {
   "id": "fn06_18:004:06",
   "speaker": "鍵",
   "jp": "坊なら、有効に\n使えるでしょう。",
-  "en": "You, young master, should be able to put it to good\nuse."
+  "en": "You, young master, should\nbe able to put it to good use."
  },
  {
   "id": "fn06_18:004:07",
@@ -111,13 +111,13 @@
   "id": "fn06_18:005:01",
   "speaker": "鍵",
   "jp": "いや、こりゃ\n急に言い出した私が\n悪いですね。",
-  "en": "No, no, that's my fault for bringing it up out of the\nblue."
+  "en": "No, no, that's my fault for\nbringing it up out of the blue."
  },
  {
   "id": "fn06_18:005:02",
   "speaker": "鍵",
   "jp": "どうも、坊。\nお気持ち、頂いておきやすよ。",
-  "en": "Thank you, young master. I'll take the thought to\nheart."
+  "en": "Thank you, young master.\nI'll take the thought to heart."
  },
  {
   "id": "fn06_18:006:00",
@@ -129,7 +129,7 @@
   "id": "fn06_18:006:01",
   "speaker": "鍵",
   "jp": "それならしょうが無いですね。\n次の機会を\nお待ちしやしょう。",
-  "en": "Well, that can't be helped. I'll wait for the next\nchance, then."
+  "en": "Well, that can't be helped. I'll\nwait for the next chance, then."
  },
  {
   "id": "fn06_18:008:00",
@@ -147,7 +147,7 @@
   "id": "fn06_18:009:00",
   "speaker": "鍵",
   "jp": "まァしょうがない。旦那が\nその気になってくれるまで\n待つ事としやしょうか。",
-  "en": "Well, can't be helped. I'll just wait until you're in the\nmood, sir."
+  "en": "Well, can't be helped. I'll just\nwait until you're in the mood, sir."
  },
  {
   "id": "fn06_18:009:01",

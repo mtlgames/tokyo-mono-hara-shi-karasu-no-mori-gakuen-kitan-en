@@ -27,19 +27,19 @@
   "id": "fn13_02:001:04",
   "speaker": "いちる",
   "jp": "でもやっぱり、さすが\n{px}の仲間だねッ！\n手強かった～。",
-  "en": "But like I'd expect from a friend of yours, {px}! He\nwas tough~!"
+  "en": "But like I'd expect from a friend of yours,\n{px}! He was tough~!"
  },
  {
   "id": "fn13_02:001:05",
   "speaker": "いちる",
   "jp": "ハラハラドキドキするし、\nおいしいし、\n二重に楽しかったよ！",
-  "en": "It was super nerve-racking, and it was delicious, so\nit was double the fun!"
+  "en": "It was super nerve-racking, and it was\ndelicious, so it was double the fun!"
  },
  {
   "id": "fn13_02:001:06",
   "speaker": "いちる",
   "jp": "……そうだ、\n今度は{px}も一緒に\nこれの特盛り、食べよ？",
-  "en": "...Oh, I know! Next time, let's eat the extra-large one\ntogether, {px}, okay?"
+  "en": "...Oh, I know! Next time, let's eat the extra-large\none together, {px}, okay?"
  },
  {
   "id": "fn13_02:002:00",
@@ -57,7 +57,7 @@
   "id": "fn13_02:003:01",
   "speaker": "いちる",
   "jp": "それが特盛りなんだから……。\nきっと\n挑戦し甲斐あるよね！",
-  "en": "And that's the extra-large... It'll totally be worth\ntaking on!"
+  "en": "And that's the extra-large... It'll\ntotally be worth taking on!"
  },
  {
   "id": "fn13_02:004:00",
@@ -81,25 +81,25 @@
   "id": "fn13_02:006:01",
   "speaker": "いちる",
   "jp": "わかった。あたしも\n覚悟を決めて、てんこ盛りに\n挑戦する！",
-  "en": "Okay. I'll steel myself too and take on the heaping\nmountain size!"
+  "en": "Okay. I'll steel myself too and take\non the heaping mountain size!"
  },
  {
   "id": "fn13_02:007:00",
   "speaker": "いちる",
   "jp": "えッ……\nてんこ盛りじゃなきゃ\n駄目ってコト……？",
-  "en": "Huh... You mean it's no good unless it's the heaping\nmountain size...?"
+  "en": "Huh... You mean it's no good unless\nit's the heaping mountain size...?"
  },
  {
   "id": "fn13_02:008:00",
   "speaker": "いちる",
   "jp": "あっ、無理に特盛りじゃなくて\n大丈夫だよ？",
-  "en": "Oh, you don't have to force yourself to go\nextra-large, okay?"
+  "en": "Oh, you don't have to force\nyourself to go extra-large, okay?"
  },
  {
   "id": "fn13_02:008:01",
   "speaker": "いちる",
   "jp": "あたしの挑戦、見ててくれたら\nオッケーだから！",
-  "en": "If you just watch me take on the challenge, that's\nfine!"
+  "en": "If you just watch me take\non the challenge, that's fine!"
  },
  {
   "id": "fn13_02:009:00",
@@ -111,7 +111,7 @@
   "id": "fn13_02:009:01",
   "speaker": "いちる",
   "jp": "あたしがまずは挑むから\nそれ見て決めても大丈夫だよ？",
-  "en": "I'll take it on first, so you can watch and decide\nafter, okay?"
+  "en": "I'll take it on first, so you can\nwatch and decide after, okay?"
  },
  {
   "id": "fn13_02:010:00",
@@ -129,13 +129,13 @@
   "id": "fn13_02:011:00",
   "speaker": "いちる",
   "jp": "絶対の約束だよ！\nオジさんにも、\nお願いしておかなきゃね。",
-  "en": "It's a promise, for sure! I'll have to ask Mister about\nit too."
+  "en": "It's a promise, for sure! I'll have\nto ask Mister about it too."
  },
  {
   "id": "fn13_02:011:01",
   "speaker": "いちる",
   "jp": "{px}と\n次の約束もしたし\nお腹も膨れたし……",
-  "en": "I made our next promise with {px}, and my tummy's\nfull..."
+  "en": "I made our next promise with\n{px}, and my tummy's full..."
  },
  {
   "id": "fn13_02:011:02",

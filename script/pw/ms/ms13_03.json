@@ -51,7 +51,7 @@
   "id": "ms13_03:000:08",
   "speaker": "零",
   "jp": "永劫の闇でも、\n静寂の{ruby:宙|そら}でもない……",
-  "en": "Not from eternal darkness, nor from the silent\nheavens..."
+  "en": "Not from eternal darkness,\nnor from the silent heavens..."
  },
  {
   "id": "ms13_03:000:09",
@@ -63,7 +63,7 @@
   "id": "ms13_03:000:10",
   "speaker": "白",
   "jp": "暖かな、光……\nあそこに妾たちを\n呼ぶ者がおるのか……。",
-  "en": "A warm light... Is there someone there, calling to\nus...?"
+  "en": "A warm light... Is there\nsomeone there, calling to us...?"
  },
  {
   "id": "ms13_03:000:11",
@@ -123,6 +123,6 @@
   "id": "ms13_03:000:20",
   "speaker": "零",
   "jp": "愛しきひとたちの待つ\nあの場所へ――――――",
-  "en": "To that place, where our beloved ones are\nwaiting------"
+  "en": "To that place, where our\nbeloved ones are waiting------"
  }
 ]

@@ -45,7 +45,7 @@
   "id": "dg01_02:000:07",
   "speaker": "白",
   "jp": "何やら覚えの\nあるようなないような……。",
-  "en": "There is something about it I seem to know, and yet\ndo not..."
+  "en": "There is something about it I\nseem to know, and yet do not..."
  },
  {
   "id": "dg01_02:000:08",
@@ -57,13 +57,13 @@
   "id": "dg01_02:000:09",
   "speaker": "白",
   "jp": "仕方あるまい。\n目{ruby:醒|ざ}めたばかりでまだ\n感覚が追いつかぬ。",
-  "en": "It cannot be helped. I have only just awakened; my\nsenses have yet to catch up."
+  "en": "It cannot be helped. I have only just\nawakened; my senses have yet to catch up."
  },
  {
   "id": "dg01_02:000:10",
   "speaker": "白",
   "jp": "まったく何処ぞの\nろくでなしめが\nまたぞろ封印を解きおって。",
-  "en": "Honestly, some good-for-nothing somewhere has\ngone and broken the seal yet again."
+  "en": "Honestly, some good-for-nothing somewhere\nhas gone and broken the seal yet again."
  },
  {
   "id": "dg01_02:000:11",
@@ -87,13 +87,13 @@
   "id": "dg01_02:000:14",
   "speaker": "白",
   "jp": "恐らくは封印が解かれた際に、\n何かの力に{ruby:惹|ひ}かれて\nここに飛ばされたのじゃろう。",
-  "en": "Most likely, when the seal was broken, I was drawn\nby some power and cast here."
+  "en": "Most likely, when the seal was broken, I\nwas drawn by some power and cast here."
  },
  {
   "id": "dg01_02:000:15",
   "speaker": "白",
   "jp": "だがいつの世も、妾は\n主となるべき者の力に\nよってしか目{ruby:醒|ざ}めぬ。",
-  "en": "But in every age, I awaken only through the power\nof the one fit to be my master."
+  "en": "But in every age, I awaken only through\nthe power of the one fit to be my master."
  },
  {
   "id": "dg01_02:000:16",
@@ -105,6 +105,6 @@
   "id": "dg01_02:000:17",
   "speaker": "白",
   "jp": "主も消耗しておるじゃろう。\n今日のところはこのあたりで\n引き上げるとしようぞ。",
-  "en": "You too must be worn out, master. Let us withdraw\nfor today."
+  "en": "You too must be worn out,\nmaster. Let us withdraw for today."
  }
 ]

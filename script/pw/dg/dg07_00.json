@@ -9,7 +9,7 @@
   "id": "dg07_00:000:01",
   "speaker": "柔らかな声",
   "jp": "{px}……？\n{px}、なの……？",
-  "en": "{px}...? Is that... you, {px}...?"
+  "en": "{px}...? Is that...\nyou, {px}...?"
  },
  {
   "id": "dg07_00:000:02",
@@ -183,13 +183,13 @@
   "id": "dg07_00:010:04",
   "speaker": "御霧",
   "jp": "見栄で手段を選んで、\n獲物を逃すなんざ\n三流のする事だ。",
-  "en": "Picking your methods for appearance's sake and\nletting your prey get away is what third-rate\namateurs do."
+  "en": "Picking your methods for appearance's\nsake and letting your prey get away\nis what third-rate amateurs do."
  },
  {
   "id": "dg07_00:010:05",
   "speaker": "御霧",
   "jp": "盗賊団の様なお遊びと\n一緒にしないでもらおうか。",
-  "en": "Don't lump us in with the bandits and their little\ngames."
+  "en": "Don't lump us in with the\nbandits and their little games."
  },
  {
   "id": "dg07_00:010:06",
@@ -201,7 +201,7 @@
   "id": "dg07_00:010:07",
   "speaker": "御霧",
   "jp": "いくら奴が強いとは言え、\n手負いの上、多勢に無勢だ。\n今頃はくたばってるかもな。",
-  "en": "Strong as he is, he's wounded and outnumbered. He\nmight've kicked the bucket by now."
+  "en": "Strong as he is, he's wounded and outnumbered.\nHe might've kicked the bucket by now."
  },
  {
   "id": "dg07_00:010:08",
@@ -213,13 +213,13 @@
   "id": "dg07_00:010:09",
   "speaker": "アンジー",
   "jp": "さあ、ここからは\n{ruby:Ｎｅｇｏｃｉｏ|お　　し　　ご　　と}だヨ。\n単純明快にやろうネ。",
-  "en": "Now then, from here on it's negocio--business. Let's\nkeep it nice and simple, okay."
+  "en": "Now then, from here on it's negocio--business.\nLet's keep it nice and simple, okay."
  },
  {
   "id": "dg07_00:010:10",
   "speaker": "アンジー",
   "jp": "アンたちは弥紀を返す。\n代わりに{px}は、\n花札をくれる……。",
-  "en": "You give us the hanafuda, {px}, and in exchange, we\ngive back Minori..."
+  "en": "You give us the hanafuda, {px},\nand in exchange, we give back Minori..."
  },
  {
   "id": "dg07_00:010:11",
@@ -243,7 +243,7 @@
   "id": "dg07_00:013:00",
   "speaker": "アンジー",
   "jp": "アハッ！\n渡す気マンマンなんて\n面白いネ？",
-  "en": "Aha! So eager to hand them over? You're funny,\nokay?"
+  "en": "Aha! So eager to hand them\nover? You're funny, okay?"
  },
  {
   "id": "dg07_00:014:00",
@@ -303,7 +303,7 @@
   "id": "dg07_00:020:00",
   "speaker": "御霧",
   "jp": "ふん……。\n抵抗する素振りすら\n見せないとは拍子抜けだな。",
-  "en": "Hmph... Not even a show of resistance. How\ndisappointing."
+  "en": "Hmph... Not even a show of\nresistance. How disappointing."
  },
  {
   "id": "dg07_00:020:01",
@@ -321,7 +321,7 @@
   "id": "dg07_00:021:01",
   "speaker": "御霧",
   "jp": "お前には初めから\n交渉権も選択肢もない。",
-  "en": "You never had any bargaining power or any choice\nto begin with."
+  "en": "You never had any bargaining\npower or any choice to begin with."
  },
  {
   "id": "dg07_00:021:02",
@@ -339,13 +339,13 @@
   "id": "dg07_00:022:01",
   "speaker": "白",
   "jp": "……人質が先じゃろう。\nでなくば渡せるはずが\nあるまい。",
-  "en": "...The hostage comes first. Otherwise, we can hardly\nhand anything over."
+  "en": "...The hostage comes first. Otherwise,\nwe can hardly hand anything over."
  },
  {
   "id": "dg07_00:022:02",
   "speaker": "御霧",
   "jp": "ほう……？\n貴様がそんな事を\n言うとはな。",
-  "en": "Oh...? Never thought I'd hear something like that\nfrom you."
+  "en": "Oh...? Never thought I'd hear\nsomething like that from you."
  },
  {
   "id": "dg07_00:022:03",
@@ -363,7 +363,7 @@
   "id": "dg07_00:022:05",
   "speaker": "アンジー",
   "jp": "{px}は、\n花札を床に置いて\n一旦下がってネ。",
-  "en": "{px}, put the hanafuda on the floor and step back for\na bit, okay."
+  "en": "{px}, put the hanafuda on\nthe floor and step back for a bit, okay."
  },
  {
   "id": "dg07_00:022:06",
@@ -381,7 +381,7 @@
   "id": "dg07_00:022:08",
   "speaker": "アンジー",
   "jp": "ンー、これなら\n{ruby:アンとミギーにとっても|・・・・・・・・・・・}\n公平だと思うケド？",
-  "en": "Mmm, Angie thinks this way is fair even for Angie\nand Miggy, though?"
+  "en": "Mmm, Angie thinks this way is fair\neven for Angie and Miggy, though?"
  },
  {
   "id": "dg07_00:023:00",
@@ -393,7 +393,7 @@
   "id": "dg07_00:023:01",
   "speaker": "御霧",
   "jp": "{px}、\nお前も異存はないな？",
-  "en": "{px}, you have no objections either, right?"
+  "en": "{px}, you have\nno objections either, right?"
  },
  {
   "id": "dg07_00:024:00",
@@ -405,7 +405,7 @@
   "id": "dg07_00:024:01",
   "speaker": "御霧",
   "jp": "余計な口は利くな。\n黙って花札を置けば\nそれでいい。",
-  "en": "Keep your mouth shut. Just put down the hanafuda\nquietly and that's that."
+  "en": "Keep your mouth shut. Just put down\nthe hanafuda quietly and that's that."
  },
  {
   "id": "dg07_00:025:00",
@@ -423,7 +423,7 @@
   "id": "dg07_00:026:00",
   "speaker": "御霧",
   "jp": "……お前は\n札をその場に置いて\n下がるだけだ。",
-  "en": "...All you do is put the cards down where you are\nand step back."
+  "en": "...All you do is put the cards down\nwhere you are and step back."
  },
  {
   "id": "dg07_00:026:01",
@@ -447,7 +447,7 @@
   "id": "dg07_00:028:01",
   "speaker": "御霧",
   "jp": "これが最大限の譲歩だ。\n従ってもらおうか。",
-  "en": "This is the most I'm willing to concede. You'll do as\nI say."
+  "en": "This is the most I'm willing\nto concede. You'll do as I say."
  },
  {
   "id": "dg07_00:029:00",
@@ -471,7 +471,7 @@
   "id": "dg07_00:030:01",
   "speaker": "御霧",
   "jp": "―――取引は公正に。\nそれくらいは\n最低限の{ruby:規律|ルール}だ。",
-  "en": "--A deal is a fair trade. That much is the bare\nminimum rule."
+  "en": "--A deal is a fair trade. That\nmuch is the bare minimum rule."
  },
  {
   "id": "dg07_00:031:00",
@@ -525,7 +525,7 @@
   "id": "dg07_00:035:02",
   "speaker": "白",
   "jp": "それにあの娘は\nいままで尽力してくれたのじゃ\n……見捨てる訳にもゆくまい。",
-  "en": "Besides, that girl has worked hard for us all this\nwhile... We can hardly abandon her."
+  "en": "Besides, that girl has worked hard for us\nall this while... We can hardly abandon her."
  },
  {
   "id": "dg07_00:035:03",
@@ -567,7 +567,7 @@
   "id": "dg07_00:037:03",
   "speaker": "御霧",
   "jp": "花札はここで、\nあの女は向こう……\nこれで、距離は大体同じだな。",
-  "en": "The hanafuda's here, the girl's over there... That\nmakes the distance about even."
+  "en": "The hanafuda's here, the girl's over there...\nThat makes the distance about even."
  },
  {
   "id": "dg07_00:037:04",
@@ -609,7 +609,7 @@
   "id": "dg07_00:039:01",
   "speaker": "弥紀",
   "jp": "あ、ご、ごめんね。\nほっとしたら\n涙、出てきちゃった。",
-  "en": "Ah, s-sorry. I was so relieved, the tears just started\ncoming."
+  "en": "Ah, s-sorry. I was so relieved,\nthe tears just started coming."
  },
  {
   "id": "dg07_00:039:02",
@@ -663,7 +663,7 @@
   "id": "dg07_00:042:01",
   "speaker": "弥紀",
   "jp": "花札を集めるのが\n{px}の目的なのに、\nこんなことになるなんて……。",
-  "en": "Collecting the hanafuda is your whole mission, {px},\nand now this happened..."
+  "en": "Collecting the hanafuda is your whole mission,\n{px}, and now this happened..."
  },
  {
   "id": "dg07_00:042:02",
@@ -681,7 +681,7 @@
   "id": "dg07_00:043:01",
   "speaker": "弥紀",
   "jp": "花札を集めるのが\n{px}の目的なのに、\nこんなことになるなんて……。",
-  "en": "Collecting the hanafuda is your whole mission, {px},\nand now this happened..."
+  "en": "Collecting the hanafuda is your whole mission,\n{px}, and now this happened..."
  },
  {
   "id": "dg07_00:043:02",
@@ -717,7 +717,7 @@
   "id": "dg07_00:045:01",
   "speaker": "弥紀",
   "jp": "花札を集めるのが\n{px}の目的なのに、\nこんなことになるなんて……。",
-  "en": "Collecting the hanafuda is your whole mission, {px},\nand now this happened..."
+  "en": "Collecting the hanafuda is your whole mission,\n{px}, and now this happened..."
  },
  {
   "id": "dg07_00:046:00",
@@ -729,7 +729,7 @@
   "id": "dg07_00:046:01",
   "speaker": "弥紀",
   "jp": "花札を集めるのが\n{px}の目的なのに、\nこんなことになるなんて……。",
-  "en": "Collecting the hanafuda is your whole mission, {px},\nand now this happened..."
+  "en": "Collecting the hanafuda is your whole mission,\n{px}, and now this happened..."
  },
  {
   "id": "dg07_00:046:02",
@@ -759,7 +759,7 @@
   "id": "dg07_00:048:02",
   "speaker": "弥紀",
   "jp": "アンジーの力で\nまだ身体が痺れてるけど……\nでも、平気だよ。",
-  "en": "My body's still numb from Angie's power... but I'm\nokay."
+  "en": "My body's still numb from\nAngie's power... but I'm okay."
  },
  {
   "id": "dg07_00:048:03",
@@ -771,7 +771,7 @@
   "id": "dg07_00:048:04",
   "speaker": "白",
   "jp": "札はまた取り戻せばよい。\nじゃが……其方の身は\n取り返しがつかぬ。",
-  "en": "The cards can be won back. But... you cannot be\nreplaced."
+  "en": "The cards can be won back.\nBut... you cannot be replaced."
  },
  {
   "id": "dg07_00:048:05",
@@ -783,7 +783,7 @@
   "id": "dg07_00:048:06",
   "speaker": "御霧",
   "jp": "ふん……正気とは思えんな。\nこれほどの《力》を\n手放すとは。",
-  "en": "Hmph... You can't be in your right mind. Giving up\nthis much Power."
+  "en": "Hmph... You can't be in your right\nmind. Giving up this much Power."
  },
  {
   "id": "dg07_00:048:07",
@@ -801,31 +801,31 @@
   "id": "dg07_00:048:09",
   "speaker": "アンジー",
   "jp": "{ruby:Ｖａｙａ|あ　ら　ら}！！\nそこでよそ見なんて、ミギーも\n正気の沙汰じゃないネ。",
-  "en": "Vaya!! Looking away at a time like that? You're not\nin your right mind either, Miggy."
+  "en": "Vaya!! Looking away at a time like that?\nYou're not in your right mind either, Miggy."
  },
  {
   "id": "dg07_00:048:10",
   "speaker": "アンジー",
   "jp": "花札を手に入れるまでの\n{ruby:ｃｏｍｐａｎｅｒｏ|な　　　か　　　ま}。\nわかってたでショ？",
-  "en": "We were only companeros until we got the\nhanafuda. You knew that, right?"
+  "en": "We were only companeros until we got\nthe hanafuda. You knew that, right?"
  },
  {
   "id": "dg07_00:048:11",
   "speaker": "アンジー",
   "jp": "この力さえあれば、\nアンも一人前の{ruby:ＢＲＵＪＡ|ま　　じ　　ょ}。\nアイツラの好きにはさせナイ。",
-  "en": "With this power, Angie's a real BRUJA too. I won't\nlet those guys have their way."
+  "en": "With this power, Angie's a real BRUJA\ntoo. I won't let those guys have their way."
  },
  {
   "id": "dg07_00:048:12",
   "speaker": "御霧",
   "jp": "ふん……\nお前の事情など知った事か。\nこれは俺のビジネスだ。",
-  "en": "Hmph... Like I care about your circumstances. This is\nmy business."
+  "en": "Hmph... Like I care about your\ncircumstances. This is my business."
  },
  {
   "id": "dg07_00:048:13",
   "speaker": "御霧",
   "jp": "ようやく掴んだ好機だ。\n誰にも邪魔はさせんッ―――",
-  "en": "I've finally got my chance. I won't let anyone get in\nthe way--"
+  "en": "I've finally got my chance. I won't\nlet anyone get in the way--"
  },
  {
   "id": "dg07_00:048:14",
@@ -837,7 +837,7 @@
   "id": "dg07_00:049:00",
   "speaker": "白",
   "jp": "好機ではあるが……\nどうする、{px}。",
-  "en": "'Tis an opportunity, but... what will you do, {px}?"
+  "en": "'Tis an opportunity, but... what\nwill you do, {px}?"
  },
  {
   "id": "dg07_00:050:00",
@@ -861,7 +861,7 @@
   "id": "dg07_00:050:03",
   "speaker": "白",
   "jp": "ちと{ruby:姑息|こそく}ではあるが……\n札が無事戻ったのじゃ。\nよしとするかの。",
-  "en": "A touch underhanded, perhaps... but the cards have\nreturned unharmed. I shall call it well done."
+  "en": "A touch underhanded, perhaps... but the cards\nhave returned unharmed. I shall call it well done."
  },
  {
   "id": "dg07_00:051:00",
@@ -879,31 +879,31 @@
   "id": "dg07_00:051:02",
   "speaker": "アンジー",
   "jp": "じゃあミンナで仲良く三等分？\nそんなの無理だって\nわかってるよネ、アミーゴ。",
-  "en": "So we all split it three ways, nice and friendly? You\nknow that's impossible, right, amigo?"
+  "en": "So we all split it three ways, nice and friendly?\nYou know that's impossible, right, amigo?"
  },
  {
   "id": "dg07_00:051:03",
   "speaker": "御霧",
   "jp": "いい身分だな、{px}。\nそれが花札に選ばれた者の\n余裕か？",
-  "en": "Must be nice, {px}. Is that the easy confidence of\nsomeone the hanafuda chose?"
+  "en": "Must be nice, {px}. Is that the\neasy confidence of someone the hanafuda chose?"
  },
  {
   "id": "dg07_00:051:04",
   "speaker": "御霧",
   "jp": "人の世は所詮、\n力を持つ者のいいように\n動かされる……。",
-  "en": "In the end, the human world just gets pushed\naround however the powerful like..."
+  "en": "In the end, the human world just gets\npushed around however the powerful like..."
  },
  {
   "id": "dg07_00:051:05",
   "speaker": "御霧",
   "jp": "だからこそッ、\n俺は必ずその力を\n手に入れるッ―――",
-  "en": "And that's exactly why I'm going to get that power,\nno matter what--"
+  "en": "And that's exactly why I'm going\nto get that power, no matter what--"
  },
  {
   "id": "dg07_00:051:06",
   "speaker": "高圧的な声",
   "jp": "……其方らには、\n無理じゃと言うのが\n何故わからぬ。",
-  "en": "...Why can you not grasp that this is beyond the\nlikes of you?"
+  "en": "...Why can you not grasp that\nthis is beyond the likes of you?"
  },
  {
   "id": "dg07_00:051:07",
@@ -927,7 +927,7 @@
   "id": "dg07_00:051:10",
   "speaker": "白",
   "jp": "何を申すか。\nそもそもこれほどに大量の札、\n其方ら如きに制御は出来ぬ。",
-  "en": "What nonsense is this? So many cards are far\nbeyond the likes of you to control."
+  "en": "What nonsense is this? So many cards\nare far beyond the likes of you to control."
  },
  {
   "id": "dg07_00:051:11",
@@ -951,7 +951,7 @@
   "id": "dg07_00:052:02",
   "speaker": "アンジー",
   "jp": "せっかく{ruby:穏便|スマート}に\n済ませようとしたのに、\n結局こうなるのネ。",
-  "en": "Angie tried to settle this the smart way, and it still\nended up like this, huh."
+  "en": "Angie tried to settle this the smart way,\nand it still ended up like this, huh."
  },
  {
   "id": "dg07_00:052:03",
@@ -969,13 +969,13 @@
   "id": "dg07_00:052:05",
   "speaker": "御霧",
   "jp": "{px}、まずは\nお前から排除する！！",
-  "en": "{px}, you're the first one I'm getting rid of!!"
+  "en": "{px}, you're the\nfirst one I'm getting rid of!!"
  },
  {
   "id": "dg07_00:052:06",
   "speaker": "白",
   "jp": "む……いかん！\nそれ以上《氣》を昂ぶらせては\n札に呑まれるぞ。",
-  "en": "Hm... this is bad! Stir up your Ki any further and\nthe cards will swallow you whole."
+  "en": "Hm... this is bad! Stir up your Ki any further\nand the cards will swallow you whole."
  },
  {
   "id": "dg07_00:052:07",

@@ -27,13 +27,13 @@
   "id": "ms06_02:004:00",
   "speaker": "巴",
   "jp": "壇じゃないけど、\n強行突破するしか\nないかしら……。",
-  "en": "I hate to sound like Dan, but maybe we have no\nchoice but to force our way in..."
+  "en": "I hate to sound like Dan, but maybe we\nhave no choice but to force our way in..."
  },
  {
   "id": "ms06_02:004:01",
   "speaker": "闊達とした声",
   "jp": "師匠の……\n兄君のそのまた兄君の姉上の\n又従姉妹が言っていた……。",
-  "en": "As my master's... elder brother's elder brother's elder\nsister's second cousin once said..."
+  "en": "As my master's... elder brother's elder brother's\nelder sister's second cousin once said..."
  },
  {
   "id": "ms06_02:004:02",
@@ -63,49 +63,49 @@
   "id": "ms06_02:005:00",
   "speaker": "覆面の男",
   "jp": "{px}、\n君の胸に真っ赤に燃える\n炎はあるかッ！？",
-  "en": "{px}, is there a crimson flame blazing in your heart!?"
+  "en": "{px}, is there a\ncrimson flame blazing in your heart!?"
  },
  {
   "id": "ms06_02:006:00",
   "speaker": "覆面の男",
   "jp": "うむ！\n君の燃える想い、\n確かに受け取った！！",
-  "en": "Very well! I have received your burning feelings\nloud and clear!!"
+  "en": "Very well! I have received your\nburning feelings loud and clear!!"
  },
  {
   "id": "ms06_02:007:00",
   "speaker": "覆面の男",
   "jp": "うむ！\n君の燃える想い、\n確かに受け取った！！",
-  "en": "Very well! I have received your burning feelings\nloud and clear!!"
+  "en": "Very well! I have received your\nburning feelings loud and clear!!"
  },
  {
   "id": "ms06_02:008:00",
   "speaker": "覆面の男",
   "jp": "うむ！\n君の燃える想い、\n確かに受け取った！！",
-  "en": "Very well! I have received your burning feelings\nloud and clear!!"
+  "en": "Very well! I have received your\nburning feelings loud and clear!!"
  },
  {
   "id": "ms06_02:009:00",
   "speaker": "覆面の男",
   "jp": "うむ！\nその心意気、\n確かに受け取った！！",
-  "en": "Very well! I have received your spirit loud and\nclear!!"
+  "en": "Very well! I have received\nyour spirit loud and clear!!"
  },
  {
   "id": "ms06_02:010:00",
   "speaker": "覆面の男",
   "jp": "その反骨精神！\nそれもまたひとつの\n情熱と見た！！",
-  "en": "That rebellious spirit! I see that, too, as a form of\npassion!!"
+  "en": "That rebellious spirit! I see\nthat, too, as a form of passion!!"
  },
  {
   "id": "ms06_02:011:00",
   "speaker": "覆面の男",
   "jp": "その反骨精神！\nそれもまたひとつの\n情熱と見た！！",
-  "en": "That rebellious spirit! I see that, too, as a form of\npassion!!"
+  "en": "That rebellious spirit! I see\nthat, too, as a form of passion!!"
  },
  {
   "id": "ms06_02:012:00",
   "speaker": "覆面の男",
   "jp": "悲しみを知らねば、\n真の正義は語れない……。",
-  "en": "One who does not know sorrow cannot speak of\ntrue justice..."
+  "en": "One who does not know sorrow\ncannot speak of true justice..."
  },
  {
   "id": "ms06_02:012:01",
@@ -117,7 +117,7 @@
   "id": "ms06_02:013:00",
   "speaker": "覆面の男",
   "jp": "うむ！\n若人とは、悩みながら\n己の道を探して行くもの！",
-  "en": "Very well! The young are those who struggle as\nthey search for their own path!"
+  "en": "Very well! The young are those who\nstruggle as they search for their own path!"
  },
  {
   "id": "ms06_02:014:00",
@@ -141,7 +141,7 @@
   "id": "ms06_02:015:02",
   "speaker": "覆面の男",
   "jp": "急ぎたまえ。\n{ruby:幸徳路|こうとくじ}君もすでに\n茶室に向かっている。",
-  "en": "Make haste. Kotokuji-kun is already headed for the\ntea room."
+  "en": "Make haste. Kotokuji-kun is\nalready headed for the tea room."
  },
  {
   "id": "ms06_02:015:03",
@@ -165,7 +165,7 @@
   "id": "ms06_02:015:06",
   "speaker": "覆面の男",
   "jp": "また会おう！\n宿命の星に導かれし\n戦士たちよッ―――！！",
-  "en": "Until we meet again! Warriors guided by the stars of\ndestiny--!!"
+  "en": "Until we meet again! Warriors\nguided by the stars of destiny--!!"
  },
  {
   "id": "ms06_02:015:07",
@@ -177,7 +177,7 @@
   "id": "ms06_02:015:08",
   "speaker": "巴",
   "jp": "まったく、\n何でもっと普通に\n協力出来ないのかしら……。",
-  "en": "Honestly, why can't he just help out like a normal\nperson...?"
+  "en": "Honestly, why can't he just\nhelp out like a normal person...?"
  },
  {
   "id": "ms06_02:015:09",
@@ -213,19 +213,19 @@
   "id": "ms06_02:017:04",
   "speaker": "要",
   "jp": "……大方、嘉門が何か\n余計な世話を焼いたんやと\n思いますけど―――",
-  "en": "...I imagine Kamon went and stuck his nose in where\nit wasn't wanted, but--"
+  "en": "...I imagine Kamon went and stuck his\nnose in where it wasn't wanted, but--"
  },
  {
   "id": "ms06_02:017:05",
   "speaker": "要",
   "jp": "ようもぬけぬけと\n顔が出せたもんどすな。",
-  "en": "The nerve of you, showing your face here so\nbrazenly."
+  "en": "The nerve of you, showing\nyour face here so brazenly."
  },
  {
   "id": "ms06_02:017:06",
   "speaker": "要",
   "jp": "執行者が花札を奪われて、\n恥ずかしゅうないんか？",
-  "en": "An Executor who let the hanafuda be stolen... Have\nyou no shame?"
+  "en": "An Executor who let the hanafuda\nbe stolen... Have you no shame?"
  },
  {
   "id": "ms06_02:018:00",
@@ -249,7 +249,7 @@
   "id": "ms06_02:019:01",
   "speaker": "要",
   "jp": "この言葉のホンマの意味を\n知った気がしますわ。",
-  "en": "I do believe I've finally learned what that word truly\nmeans."
+  "en": "I do believe I've finally learned\nwhat that word truly means."
  },
  {
   "id": "ms06_02:020:00",
@@ -261,19 +261,19 @@
   "id": "ms06_02:020:01",
   "speaker": "要",
   "jp": "……どうせ、恥の上塗りに\nなりはるんと\nちゃいますの？",
-  "en": "...Though won't you only be heaping more shame\nupon yourself?"
+  "en": "...Though won't you only be\nheaping more shame upon yourself?"
  },
  {
   "id": "ms06_02:021:00",
   "speaker": "要",
   "jp": "わかって、来たんか。\n……えらい面の皮どすな。",
-  "en": "You came knowing that, did you? ...What a thick\nskin you have."
+  "en": "You came knowing that, did you?\n...What a thick skin you have."
  },
  {
   "id": "ms06_02:022:00",
   "speaker": "要",
   "jp": "ただの自業自得やと\n思いますけど？",
-  "en": "I'd say you've only got yourself to blame, wouldn't\nyou?"
+  "en": "I'd say you've only got yourself\nto blame, wouldn't you?"
  },
  {
   "id": "ms06_02:022:01",
@@ -285,7 +285,7 @@
   "id": "ms06_02:023:00",
   "speaker": "要",
   "jp": "……少しは自分の立場を\n自覚して欲しいもんどすな。",
-  "en": "...I'd like you to be a little more aware of your own\nposition."
+  "en": "...I'd like you to be a little more\naware of your own position."
  },
  {
   "id": "ms06_02:024:00",
@@ -309,7 +309,7 @@
   "id": "ms06_02:027:00",
   "speaker": "要",
   "jp": "花札封印は、執行者が役目。\nせやけど、あんさんには\nもう任せておけん。",
-  "en": "Sealing the hanafuda is the Executor's duty. But I\ncan't leave it to you any longer."
+  "en": "Sealing the hanafuda is the Executor's\nduty. But I can't leave it to you any longer."
  },
  {
   "id": "ms06_02:027:01",
@@ -321,25 +321,25 @@
   "id": "ms06_02:027:02",
   "speaker": "巴",
   "jp": "……ちょっと待ちなさいよ。\nまさか一人で{ruby:洞|うろ}に入るつもり？",
-  "en": "...Hold on a minute. Don't tell me you're going into\nthe Hollow alone?"
+  "en": "...Hold on a minute. Don't tell me\nyou're going into the Hollow alone?"
  },
  {
   "id": "ms06_02:027:03",
   "speaker": "要",
   "jp": "騒ぎを起こしたんは、\n{ruby:蒲生|がもう}家の者。",
-  "en": "The one who caused this uproar is of the Gamo\nhouse."
+  "en": "The one who caused this\nuproar is of the Gamo house."
  },
  {
   "id": "ms06_02:027:04",
   "speaker": "要",
   "jp": "長く続く信頼を汚されたんや。\nうちがけじめをつけるのが\n筋ってもんどす。",
-  "en": "A trust kept for generations has been sullied. It's\nonly proper that I be the one to settle it."
+  "en": "A trust kept for generations has been sullied.\nIt's only proper that I be the one to settle it."
  },
  {
   "id": "ms06_02:027:05",
   "speaker": "要",
   "jp": "札を奪われた\n間抜けな執行者殿の\n出る幕と違いますえ。",
-  "en": "This is no stage for a bumbling Executor who let\nthe cards be stolen."
+  "en": "This is no stage for a bumbling\nExecutor who let the cards be stolen."
  },
  {
   "id": "ms06_02:027:06",
@@ -351,13 +351,13 @@
   "id": "ms06_02:027:07",
   "speaker": "白",
   "jp": "{ruby:幸徳路|こうとくじ}の小娘如きが\n妾の選んだ執行者を\n愚弄する気かえ。",
-  "en": "Does a mere slip of a Kotokuji girl dare mock the\nExecutor I have chosen?"
+  "en": "Does a mere slip of a Kotokuji girl\ndare mock the Executor I have chosen?"
  },
  {
   "id": "ms06_02:027:08",
   "speaker": "要",
   "jp": "ふッ……。\n役目も{ruby:碌|ろく}に果たせん\n{ruby:道具|・・}風情が何を。",
-  "en": "Hmph... Big words from a mere \"tool\" that can't even\ndo its job properly."
+  "en": "Hmph... Big words from a mere \"tool\"\nthat can't even do its job properly."
  },
  {
   "id": "ms06_02:027:09",
@@ -387,13 +387,13 @@
   "id": "ms06_02:027:13",
   "speaker": "要",
   "jp": "呪言花札の力だけやない。\n幸徳路の{ruby:符術|ふじゅつ}、\n甘く見んといておくれやす。",
-  "en": "It isn't only the power of the Curse Hanafuda. I'll\nthank you not to underestimate the talisman arts of\nthe Kotokuji."
+  "en": "It isn't only the power of the Curse\nHanafuda. I'll thank you not to underestimate\nthe talisman arts of the Kotokuji."
  },
  {
   "id": "ms06_02:027:14",
   "speaker": "要",
   "jp": "ほな、お先に。\n後からは勝手にしゃんせ。",
-  "en": "Well then, I'll be going on ahead. Follow along later\nhowever you like."
+  "en": "Well then, I'll be going on ahead.\nFollow along later however you like."
  },
  {
   "id": "ms06_02:027:15",
@@ -405,7 +405,7 @@
   "id": "ms06_02:027:16",
   "speaker": "燈治",
   "jp": "くそ……。\nまさかこんなとこに\n入口があったとはな。",
-  "en": "Damn... Who'd have thought the entrance was in a\nplace like this."
+  "en": "Damn... Who'd have thought the\nentrance was in a place like this."
  },
  {
   "id": "ms06_02:027:17",
@@ -417,6 +417,6 @@
   "id": "ms06_02:027:18",
   "speaker": "白",
   "jp": "花札が奪われたは、事実。\nその汚名は{ruby:雪|すす}がねばな！",
-  "en": "It is a fact that the hanafuda were stolen. We must\nclear that disgrace!"
+  "en": "It is a fact that the hanafuda were\nstolen. We must clear that disgrace!"
  }
 ]

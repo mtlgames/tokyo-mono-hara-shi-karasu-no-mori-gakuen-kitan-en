@@ -9,7 +9,7 @@
   "id": "fn11_12:001:01",
   "speaker": "道佳",
   "jp": "きゃぁん、{px}！？\nやだやだ、こんな所で会うなら\nもっとオシャレしてきたのに！",
-  "en": "Kyaan, {px}!? No, no! If I'd known I'd run into you\nhere, I'd have dressed up more!"
+  "en": "Kyaan, {px}!? No, no! If I'd known\nI'd run into you here, I'd have dressed up more!"
  },
  {
   "id": "fn11_12:001:02",
@@ -27,13 +27,13 @@
   "id": "fn11_12:001:04",
   "speaker": "道佳",
   "jp": "ねえねえ、{px}。\nミカみゅん、今日もカワイイ？",
-  "en": "Hey, hey, {px}. Is Mikamyun cute today too?"
+  "en": "Hey, hey, {px}.\nIs Mikamyun cute today too?"
  },
  {
   "id": "fn11_12:002:00",
   "speaker": "道佳",
   "jp": "きゃァん、もうもう☆\n甘すぎる言葉は時にポイズン☆",
-  "en": "Kyaan, stop it, stop it~ Words that sweet can be\npoison sometimes~"
+  "en": "Kyaan, stop it, stop it~ Words that\nsweet can be poison sometimes~"
  },
  {
   "id": "fn11_12:003:00",
@@ -57,13 +57,13 @@
   "id": "fn11_12:006:00",
   "speaker": "道佳",
   "jp": "確かに、今日はちょっと\n毛先が……ね。",
-  "en": "It's true, the ends of my hair are a little... you know,\ntoday."
+  "en": "It's true, the ends of my hair\nare a little... you know, today."
  },
  {
   "id": "fn11_12:006:01",
   "speaker": "道佳",
   "jp": "あ～ん、{px}ったら\nそんなにミカみゅんを\n見てくれてるのねッ☆",
-  "en": "Ahhn, {px}, you really look at Mikamyun that\nclosely~"
+  "en": "Ahhn, {px}, you really\nlook at Mikamyun that closely~"
  },
  {
   "id": "fn11_12:007:00",
@@ -75,7 +75,7 @@
   "id": "fn11_12:007:01",
   "speaker": "道佳",
   "jp": "こ、こうなったら……\nミカみゅんパワーアップで\nミラクルみゅんみゅん作戦よ！",
-  "en": "W-well then... Mikamyun power-up! It's Operation\nMiracle Myun-Myun!"
+  "en": "W-well then... Mikamyun power-up!\nIt's Operation Miracle Myun-Myun!"
  },
  {
   "id": "fn11_12:008:00",
@@ -93,7 +93,7 @@
   "id": "fn11_12:009:00",
   "speaker": "道佳",
   "jp": "ばかばかっ！そんな優しさは\nだ・め・だ・ゾ？",
-  "en": "Silly, silly! That kind of kindness is a n-o-n-o,\nokay?"
+  "en": "Silly, silly! That kind of\nkindness is a n-o-n-o, okay?"
  },
  {
   "id": "fn11_12:009:01",
@@ -117,7 +117,7 @@
   "id": "fn11_12:011:00",
   "speaker": "道佳",
   "jp": "待っててね、{px}！\nミカみゅん……もっと可愛く\n生まれ変わって見せる！！",
-  "en": "Wait for me, {px}! Mikamyun will be reborn... even\ncuter!!"
+  "en": "Wait for me, {px}!\nMikamyun will be reborn... even cuter!!"
  },
  {
   "id": "fn11_12:011:01",
@@ -129,7 +129,7 @@
   "id": "fn11_12:012:00",
   "speaker": "道佳",
   "jp": "{px}のために\nもっとミカみゅん、きらりん\nしちゃうぞ☆",
-  "en": "For you, {px}, Mikamyun's gonna sparkle even more~"
+  "en": "For you, {px},\nMikamyun's gonna sparkle even more~"
  },
  {
   "id": "fn11_12:014:00",
@@ -141,7 +141,7 @@
   "id": "fn11_12:014:01",
   "speaker": "道佳",
   "jp": "……でもね。思うんだけど、\n{px}は優しすぎよッ。",
-  "en": "...But y'know, I think you're too kind, {px}."
+  "en": "...But y'know, I think you're\ntoo kind, {px}."
  },
  {
   "id": "fn11_12:015:00",
@@ -219,7 +219,7 @@
   "id": "fn11_12:021:01",
   "speaker": "道佳",
   "jp": "待っててね、{px}！\nミカみゅん……もっと可愛く\n生まれ変わって見せる！！",
-  "en": "Wait for me, {px}! Mikamyun will be reborn... even\ncuter!!"
+  "en": "Wait for me, {px}!\nMikamyun will be reborn... even cuter!!"
  },
  {
   "id": "fn11_12:021:02",
@@ -231,13 +231,13 @@
   "id": "fn11_12:022:00",
   "speaker": "道佳",
   "jp": "ああん、四天王のみんな、\nミカみゅんにもう少しだけ\n勇気をちょうだいッ。",
-  "en": "Ahhn, my Four Heavenly Kings, give Mikamyun just\na little more courage."
+  "en": "Ahhn, my Four Heavenly Kings, give\nMikamyun just a little more courage."
  },
  {
   "id": "fn11_12:022:01",
   "speaker": "道佳",
   "jp": "{px}に言わなきゃ\nいけない事があるの。",
-  "en": "There's something I have to tell you, {px}."
+  "en": "There's something I have to\ntell you, {px}."
  },
  {
   "id": "fn11_12:022:02",
@@ -285,31 +285,31 @@
   "id": "fn11_12:026:01",
   "speaker": "張りのある声",
   "jp": "此度の{pm}殿の答え。\nこの{ruby:道佳|どうかい}、胸に染み申した。",
-  "en": "Your answer this day, {pm}-dono, has moved this\nDokai to the heart."
+  "en": "Your answer this day, {pm}-dono,\nhas moved this Dokai to the heart."
  },
  {
   "id": "fn11_12:026:02",
   "speaker": "張りのある声",
   "jp": "面白がるでなく、気味悪がる\nでもなく、かように受容した\n{pm}殿の{ruby:御心|みこころ}こそ……",
-  "en": "Neither amused nor repulsed, you accepted me thus.\nThat noble heart of yours, {pm}-dono..."
+  "en": "Neither amused nor repulsed, you accepted me\nthus. That noble heart of yours, {pm}-dono..."
  },
  {
   "id": "fn11_12:026:03",
   "speaker": "張りのある声",
   "jp": "無二の愛、\n慈悲の心と得心致した。",
-  "en": "...I have come to know as peerless love, a heart of\ncompassion."
+  "en": "...I have come to know as peerless\nlove, a heart of compassion."
  },
  {
   "id": "fn11_12:026:04",
   "speaker": "張りのある声",
   "jp": "{ruby:是|これ}在りて{ruby:是|これ}在り、\n{ruby:是|これ}生じるが故に{ruby:是|これ}生じ、",
-  "en": "When this exists, that comes to be. With the arising\nof this, that arises."
+  "en": "When this exists, that comes to be.\nWith the arising of this, that arises."
  },
  {
   "id": "fn11_12:026:05",
   "speaker": "張りのある声",
   "jp": "{ruby:是|これ}無ければ{ruby:是|これ}無く、\n{ruby:是|これ}滅すれば{ruby:是|これ}滅す。",
-  "en": "When this does not exist, that does not come to be.\nWith the ceasing of this, that ceases."
+  "en": "When this does not exist, that does not come\nto be. With the ceasing of this, that ceases."
  },
  {
   "id": "fn11_12:026:06",
@@ -321,7 +321,7 @@
   "id": "fn11_12:027:00",
   "speaker": "張りのある声",
   "jp": "どうかこれよりも、道佳めと\n絆を繋いでいただきたい。",
-  "en": "I pray you will keep your bond with this humble\nDokai from this day forth."
+  "en": "I pray you will keep your bond with\nthis humble Dokai from this day forth."
  },
  {
   "id": "fn11_12:028:00",
@@ -357,13 +357,13 @@
   "id": "fn11_12:030:00",
   "speaker": "張りのある声",
   "jp": "ふッ……。\n過分な言葉とは存じるが……。",
-  "en": "Heh... I know these words are more than I deserve,\nbut..."
+  "en": "Heh... I know these words\nare more than I deserve, but..."
  },
  {
   "id": "fn11_12:030:01",
   "speaker": "道佳",
   "jp": "あァん、もう我慢出来ないッ！\n{px}、ありがとッ☆",
-  "en": "Ahhn, I can't hold back anymore! {px}, thank you~"
+  "en": "Ahhn, I can't hold back anymore!\n{px}, thank you~"
  },
  {
   "id": "fn11_12:031:00",
@@ -393,7 +393,7 @@
   "id": "fn11_12:033:00",
   "speaker": "張りのある声",
   "jp": "……それもまた、{ruby:縁|えにし}。\n{ruby:然|さ}れども、また繋がるも、\nまた同じ。",
-  "en": "...That, too, is a bond of fate. Yet to be bound once\nmore is no different."
+  "en": "...That, too, is a bond of fate. Yet to\nbe bound once more is no different."
  },
  {
   "id": "fn11_12:033:01",
@@ -417,7 +417,7 @@
   "id": "fn11_12:035:00",
   "speaker": "張りのある声",
   "jp": "繋ぐも繋がるも、全ては縁。\nなればこそ……。",
-  "en": "To bind and to be bound--all is fate. And for that\nvery reason..."
+  "en": "To bind and to be bound--all is\nfate. And for that very reason..."
  },
  {
   "id": "fn11_12:035:01",
@@ -429,7 +429,7 @@
   "id": "fn11_12:036:00",
   "speaker": "張りのある声",
   "jp": "それが、{pm}殿のお答えか。\nそれもまた{ruby:因|いん}。",
-  "en": "So that is your answer, {pm}-dono. That, too, is a\ncause."
+  "en": "So that is your answer,\n{pm}-dono. That, too, is a cause."
  },
  {
   "id": "fn11_12:036:01",
@@ -459,7 +459,7 @@
   "id": "fn11_12:038:01",
   "speaker": "道佳",
   "jp": "{px}の顔、\n恥ずかしくて見らんなーい！！\nきゃァんきゃァ～～ん☆",
-  "en": "I'm too embarrassed to look at your face, {px}!!\nKyaan, kyaaan~"
+  "en": "I'm too embarrassed to look at your face,\n{px}!! Kyaan, kyaaan~"
  },
  {
   "id": "fn11_12:038:02",
@@ -477,7 +477,7 @@
   "id": "fn11_12:039:00",
   "speaker": "道佳",
   "jp": "うふッ、{px}。\nこれからずっとお友達よん☆",
-  "en": "Ufu, {px}. We'll be friends forever and ever~"
+  "en": "Ufu, {px}. We'll\nbe friends forever and ever~"
  },
  {
   "id": "fn11_12:040:00",
@@ -489,7 +489,7 @@
   "id": "fn11_12:040:01",
   "speaker": "道佳",
   "jp": "ああん、この時期って\n限定多すぎて迷っちゃう……。",
-  "en": "Ahhn, there are so many limited editions this time\nof year, I can't decide..."
+  "en": "Ahhn, there are so many limited\neditions this time of year, I can't decide..."
  },
  {
   "id": "fn11_12:ksf:0d06f",

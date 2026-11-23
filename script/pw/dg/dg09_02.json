@@ -33,7 +33,7 @@
   "id": "dg09_02:000:05",
   "speaker": "静かな声",
   "jp": "眠れ、光札。\n力の海へ、いま一度―――",
-  "en": "Sleep, Bright card. Return once more to the sea of\npower--"
+  "en": "Sleep, Bright card. Return once\nmore to the sea of power--"
  },
  {
   "id": "dg09_02:000:06",
@@ -81,7 +81,7 @@
   "id": "dg09_02:001:01",
   "speaker": "零",
   "jp": "どう……応えればいいのか\nまだよくわからないが、",
-  "en": "I still don't really know... how I should answer that,\nbut..."
+  "en": "I still don't really know... how\nI should answer that, but..."
  },
  {
   "id": "dg09_02:001:02",
@@ -99,7 +99,7 @@
   "id": "dg09_02:002:01",
   "speaker": "零",
   "jp": "そうして笑えるのもまた、\n強さの……証だ。",
-  "en": "Being able to smile like that is also... proof of\nstrength."
+  "en": "Being able to smile like that\nis also... proof of strength."
  },
  {
   "id": "dg09_02:003:00",
@@ -117,7 +117,7 @@
   "id": "dg09_02:003:02",
   "speaker": "零",
   "jp": "きみがくれる言葉が\nずっと、内側に残って……\nおれを、強くするんだ。",
-  "en": "The words you give me stay inside me... always.\nThey make me stronger."
+  "en": "The words you give me stay inside\nme... always. They make me stronger."
  },
  {
   "id": "dg09_02:004:00",
@@ -279,7 +279,7 @@
   "id": "dg09_02:010:15",
   "speaker": "零",
   "jp": "武藤も、あまり無茶は\nしないで、欲しい。",
-  "en": "Muto, I'd like you not to... push yourself too hard,\neither."
+  "en": "Muto, I'd like you not to...\npush yourself too hard, either."
  },
  {
   "id": "dg09_02:010:16",
@@ -309,25 +309,25 @@
   "id": "dg09_02:010:20",
   "speaker": "いちる",
   "jp": "初めて会ったときよりずっと\n強い色をしてた。",
-  "en": "They had a much stronger light than when I first\nmet him."
+  "en": "They had a much stronger\nlight than when I first met him."
  },
  {
   "id": "dg09_02:010:21",
   "speaker": "いちる",
   "jp": "雉明クンにも何か、\n大切なものが出来たのかな。",
-  "en": "I wonder if Chiaki-kun found something precious\ntoo."
+  "en": "I wonder if Chiaki-kun found\nsomething precious too."
  },
  {
   "id": "dg09_02:010:22",
   "speaker": "いちる",
   "jp": "たとえ、\nあたしたちと敵対しても、\n護りたいものが……。",
-  "en": "Something he wants to protect... even if it means\nturning against us..."
+  "en": "Something he wants to protect...\neven if it means turning against us..."
  },
  {
   "id": "dg09_02:011:00",
   "speaker": "いちる",
   "jp": "……それじゃまるで\n子供か弟の成長を喜んでる\nみたいだよ。",
-  "en": "...You sound like you're happy to see your kid or\nlittle brother growing up."
+  "en": "...You sound like you're happy to see\nyour kid or little brother growing up."
  },
  {
   "id": "dg09_02:011:01",
@@ -411,7 +411,7 @@
   "id": "dg09_02:018:00",
   "speaker": "いちる",
   "jp": "なんとなく、だけどね。\nそんな風に見えたなあって。",
-  "en": "It's just a feeling, though. That's how it looked to\nme."
+  "en": "It's just a feeling, though.\nThat's how it looked to me."
  },
  {
   "id": "dg09_02:019:00",
@@ -429,7 +429,7 @@
   "id": "dg09_02:020:01",
   "speaker": "いちる",
   "jp": "{px}のコト……\nだから、雉明クンのコトも。",
-  "en": "In you, {px}... and so in Chiaki-kun, too."
+  "en": "In you, {px}...\nand so in Chiaki-kun, too."
  },
  {
   "id": "dg09_02:020:02",
@@ -441,7 +441,7 @@
   "id": "dg09_02:020:03",
   "speaker": "いちる",
   "jp": "あの時、三人で一緒につけた\nこの印が、あたしたちを\n繋いでいてくれる……。",
-  "en": "This mark the three of us got together back then... it\nkeeps us connected..."
+  "en": "This mark the three of us got together\nback then... it keeps us connected..."
  },
  {
   "id": "dg09_02:020:04",
@@ -459,7 +459,7 @@
   "id": "dg09_02:021:00",
   "speaker": "いちる",
   "jp": "よかった。\n{px}も\nそう思ってくれて。",
-  "en": "I'm glad. Glad you feel that way too, {px}."
+  "en": "I'm glad. Glad you feel that\nway too, {px}."
  },
  {
   "id": "dg09_02:021:01",
@@ -567,7 +567,7 @@
   "id": "dg09_02:027:01",
   "speaker": "いちる",
   "jp": "あたしはまた、三人で一緒に\n笑えるようになりたいよ！",
-  "en": "I want the three of us to be able to laugh together\nagain!"
+  "en": "I want the three of us to be\nable to laugh together again!"
  },
  {
   "id": "dg09_02:027:02",
@@ -585,7 +585,7 @@
   "id": "dg09_02:028:01",
   "speaker": "いちる",
   "jp": "あたしはまた、三人で一緒に\n笑えるようになりたいよ！",
-  "en": "I want the three of us to be able to laugh together\nagain!"
+  "en": "I want the three of us to be\nable to laugh together again!"
  },
  {
   "id": "dg09_02:028:02",
@@ -627,7 +627,7 @@
   "id": "dg09_02:030:02",
   "speaker": "白",
   "jp": "形がなく、定義すら{ruby:曖昧|あいまい}な\nその存在を、いつの世も人は\n信じると言う……。",
-  "en": "A thing without form, whose very definition is\nvague... and yet in every age, humans claim to\nbelieve in it..."
+  "en": "A thing without form, whose very\ndefinition is vague... and yet in every\nage, humans claim to believe in it..."
  },
  {
   "id": "dg09_02:030:03",

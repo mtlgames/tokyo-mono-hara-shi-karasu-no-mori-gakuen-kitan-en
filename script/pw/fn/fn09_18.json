@@ -3,19 +3,19 @@
   "id": "fn09_18:001:00",
   "speaker": "鍵",
   "jp": "どうやらずいぶんと厄介な事に\nなってきたようですねえ。",
-  "en": "Looks like things have gotten mighty troublesome,\neh."
+  "en": "Looks like things have gotten\nmighty troublesome, eh."
  },
  {
   "id": "fn09_18:001:01",
   "speaker": "鍵",
   "jp": "この力の流れ……。\n嫌な気配が足から\n流れ込んできやすよ。",
-  "en": "This flow of power... I can feel a nasty presence\nseepin' up through my feet."
+  "en": "This flow of power... I can feel a nasty\npresence seepin' up through my feet."
  },
  {
   "id": "fn09_18:001:02",
   "speaker": "鍵",
   "jp": "……この国の崩壊。\n大袈裟とは言い切れない。",
-  "en": "...The collapse of this country. Can't rightly call that\nan exaggeration."
+  "en": "...The collapse of this country. Can't\nrightly call that an exaggeration."
  },
  {
   "id": "fn09_18:001:03",
@@ -27,19 +27,19 @@
   "id": "fn09_18:001:04",
   "speaker": "鍵",
   "jp": "この辺一帯の守りは\n仔犬ちゃんに\n強化させてる所です。",
-  "en": "I've got the little pup strengthenin' the defenses all\naround these parts."
+  "en": "I've got the little pup strengthenin'\nthe defenses all around these parts."
  },
  {
   "id": "fn09_18:002:00",
   "speaker": "鍵",
   "jp": "坊。\nどうか、私らを信じて\n後をお任せ下さい。",
-  "en": "Young master. Please, trust us, and leave things here\nto us."
+  "en": "Young master. Please, trust us,\nand leave things here to us."
  },
  {
   "id": "fn09_18:003:00",
   "speaker": "鍵",
   "jp": "流石、坊。\n神使を強くする方法を\nよくご存じだ。",
-  "en": "That's the young master for you. You know just\nhow to make a divine messenger strong."
+  "en": "That's the young master for you. You know\njust how to make a divine messenger strong."
  },
  {
   "id": "fn09_18:003:01",
@@ -57,7 +57,7 @@
   "id": "fn09_18:004:00",
   "speaker": "鍵",
   "jp": "ええ。\nそのお心が、\n神使を強くするんです。",
-  "en": "Yes. That heart of yours is what makes a divine\nmessenger strong."
+  "en": "Yes. That heart of yours is what\nmakes a divine messenger strong."
  },
  {
   "id": "fn09_18:004:01",
@@ -69,7 +69,7 @@
   "id": "fn09_18:005:00",
   "speaker": "鍵",
   "jp": "流石は坊。\n神使を強くする方法を\nよくご存じだ。",
-  "en": "That's the young master for you. You know just\nhow to make a divine messenger strong."
+  "en": "That's the young master for you. You know\njust how to make a divine messenger strong."
  },
  {
   "id": "fn09_18:006:00",
@@ -81,13 +81,13 @@
   "id": "fn09_18:007:00",
   "speaker": "鍵",
   "jp": "参ったな、そう言われちゃ\n立つ瀬がありやせん。",
-  "en": "Well, ain't that a fix. Put like that, I've got no ground\nleft to stand on."
+  "en": "Well, ain't that a fix. Put like that,\nI've got no ground left to stand on."
  },
  {
   "id": "fn09_18:007:01",
   "speaker": "鍵",
   "jp": "{px}、貴方にお気持ちを\n傾けてもらえなかったら\n私らは弱くなる。",
-  "en": "{px}, if you don't lend us your heart, we grow weak."
+  "en": "{px}, if you don't\nlend us your heart, we grow weak."
  },
  {
   "id": "fn09_18:007:02",
@@ -123,7 +123,7 @@
   "id": "fn09_18:009:01",
   "speaker": "鍵",
   "jp": "{px}、貴方にお気持ちを\n傾けてもらえなかったら\n私らは弱くなる。",
-  "en": "{px}, if you don't lend us your heart, we grow weak."
+  "en": "{px}, if you don't\nlend us your heart, we grow weak."
  },
  {
   "id": "fn09_18:009:02",
@@ -141,7 +141,7 @@
   "id": "fn09_18:010:01",
   "speaker": "鍵",
   "jp": "こんな時くらい、よし\nわかったと言ってもらえないと\n立つ瀬がありやせん。",
-  "en": "At a time like this, if you can't just say \"Right, leave\nit to you,\" I've got no ground to stand on."
+  "en": "At a time like this, if you can't just say \"Right,\nleave it to you,\" I've got no ground to stand on."
  },
  {
   "id": "fn09_18:010:02",
@@ -153,13 +153,13 @@
   "id": "fn09_18:011:00",
   "speaker": "鍵",
   "jp": "まったく、こんな時くらい\n真面目に聞いて下さいよ。",
-  "en": "Honestly, at a time like this, at least hear me out\nproperly."
+  "en": "Honestly, at a time like this,\nat least hear me out properly."
  },
  {
   "id": "fn09_18:012:00",
   "speaker": "鍵",
   "jp": "私にしちゃあ\n{ruby:畏|かしこ}まり過ぎやしたね。",
-  "en": "That was a mite too stiff and formal, comin' from\nthe likes of me."
+  "en": "That was a mite too stiff and\nformal, comin' from the likes of me."
  },
  {
   "id": "fn09_18:012:01",
@@ -171,7 +171,7 @@
   "id": "fn09_18:012:02",
   "speaker": "鍵",
   "jp": "貴方の帰る場所は\n私らが必ずお護りしやす。",
-  "en": "We'll guard the place you come home to, without\nfail."
+  "en": "We'll guard the place you\ncome home to, without fail."
  },
  {
   "id": "fn09_18:012:03",
@@ -183,7 +183,7 @@
   "id": "fn09_18:013:00",
   "speaker": "鍵",
   "jp": "洞でのお手伝いを、\nいい加減にしようって\n訳じゃありやせん。",
-  "en": "Mind, that don't mean we'll start slackin' on helpin'\nyou in the Hollow."
+  "en": "Mind, that don't mean we'll start\nslackin' on helpin' you in the Hollow."
  },
  {
   "id": "fn09_18:013:01",

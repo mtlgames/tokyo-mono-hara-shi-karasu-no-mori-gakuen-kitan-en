@@ -33,13 +33,13 @@
   "id": "dg05_00:000:05",
   "speaker": "義王",
   "jp": "あァ。\nここにでッけーお宝が\n眠ってるのは確かだが―――",
-  "en": "Yeah. There's some big-ass treasure sleepin' down\nhere, that's for sure, but--"
+  "en": "Yeah. There's some big-ass treasure\nsleepin' down here, that's for sure, but--"
  },
  {
   "id": "dg05_00:000:06",
   "speaker": "義王",
   "jp": "オレ様たちだけじゃ、\nどうにもならねーんだとよ。",
-  "en": "word is, the great me and my crew can't get at it\non our own."
+  "en": "word is, the great me and my\ncrew can't get at it on our own."
  },
  {
   "id": "dg05_00:000:07",
@@ -51,31 +51,31 @@
   "id": "dg05_00:000:08",
   "speaker": "義王",
   "jp": "だからよ、まずはオレ様たちと\nテメェらで、とことん{ruby:闘|や}り合お\nうぜってお誘いしてんだよ。",
-  "en": "So I'm invitin' you to a proper knock-down, drag-out\nfight between us and you first."
+  "en": "So I'm invitin' you to a proper knock-down,\ndrag-out fight between us and you first."
  },
  {
   "id": "dg05_00:001:00",
   "speaker": "義王",
   "jp": "なァ、{px}。\nここまできて断る理由も\nねェだろ、オイ？",
-  "en": "Right, {px}? After comin' all this way, you got no\nreason to say no, huh?"
+  "en": "Right, {px}? After comin' all\nthis way, you got no reason to say no, huh?"
  },
  {
   "id": "dg05_00:002:00",
   "speaker": "義王",
   "jp": "オイオイオイオイ！！\nそこまでか！？\nそんなにか、オイ！？",
-  "en": "Whoa whoa whoa whoa!! That much!? You're\nTHAT into it, huh!?"
+  "en": "Whoa whoa whoa whoa!! That\nmuch!? You're THAT into it, huh!?"
  },
  {
   "id": "dg05_00:002:01",
   "speaker": "義王",
   "jp": "面白ェ野郎だな、テメェ。\nそんじゃーとっとと\nおッぱじめようぜッ！！",
-  "en": "You're a riot, you know that? Then let's quit stallin'\nand get this party started!!"
+  "en": "You're a riot, you know that? Then let's\nquit stallin' and get this party started!!"
  },
  {
   "id": "dg05_00:003:00",
   "speaker": "義王",
   "jp": "はッはァ！！\nそんな目しやがって、\nテメェも大概危ねー野郎だな。",
-  "en": "Ha-hah!! Look at them eyes. You're a real dangerous\nbastard yourself, ain'tcha?"
+  "en": "Ha-hah!! Look at them eyes. You're a\nreal dangerous bastard yourself, ain'tcha?"
  },
  {
   "id": "dg05_00:003:01",
@@ -87,7 +87,7 @@
   "id": "dg05_00:004:00",
   "speaker": "義王",
   "jp": "はッはァ！！\nそんな目しやがって、\nテメーも大概危ねー野郎だな。",
-  "en": "Ha-hah!! Look at them eyes. You're a real dangerous\nbastard yourself, ain'tcha?"
+  "en": "Ha-hah!! Look at them eyes. You're a\nreal dangerous bastard yourself, ain'tcha?"
  },
  {
   "id": "dg05_00:004:01",
@@ -105,19 +105,19 @@
   "id": "dg05_00:005:01",
   "speaker": "義王",
   "jp": "上等だ。\nとっとと\nおッぱじめようぜッ！！",
-  "en": "Fine by me. Let's quit stallin' and get this party\nstarted!!"
+  "en": "Fine by me. Let's quit stallin'\nand get this party started!!"
  },
  {
   "id": "dg05_00:006:00",
   "speaker": "義王",
   "jp": "オイオイオイオイ！！\n何吠えてんだァ！？",
-  "en": "Whoa whoa whoa whoa!! The hell're you barkin'\nabout!?"
+  "en": "Whoa whoa whoa whoa!! The\nhell're you barkin' about!?"
  },
  {
   "id": "dg05_00:006:01",
   "speaker": "義王",
   "jp": "{ruby:闘|や}んのか{ruby:闘|や}んねーのか、\nはっきりしろよなァ、オイ。",
-  "en": "You gonna fight or not? Make up your damn mind,\nhuh?"
+  "en": "You gonna fight or not? Make\nup your damn mind, huh?"
  },
  {
   "id": "dg05_00:007:00",
@@ -129,7 +129,7 @@
   "id": "dg05_00:007:01",
   "speaker": "義王",
   "jp": "ここまでしてやったってのに\n乗ってこねーたァ、どんだけ\n期待はずれだァ、オイ！？",
-  "en": "I go to all this trouble and you won't even bite?\nHow big a letdown can you be, huh!?"
+  "en": "I go to all this trouble and you won't even\nbite? How big a letdown can you be, huh!?"
  },
  {
   "id": "dg05_00:008:00",
@@ -141,7 +141,7 @@
   "id": "dg05_00:008:01",
   "speaker": "義王",
   "jp": "{ruby:闘|や}んのか{ruby:闘|や}んねーのか、\nはっきりしろっつーんだよ！！",
-  "en": "You gonna fight or not? Make up your damn mind\nalready!!"
+  "en": "You gonna fight or not? Make\nup your damn mind already!!"
  },
  {
   "id": "dg05_00:009:00",
@@ -153,13 +153,13 @@
   "id": "dg05_00:009:01",
   "speaker": "義王",
   "jp": "{ruby:闘|や}んのか{ruby:闘|や}んねーのか、\nはっきりしろっつーんだよ！！",
-  "en": "You gonna fight or not? Make up your damn mind\nalready!!"
+  "en": "You gonna fight or not? Make\nup your damn mind already!!"
  },
  {
   "id": "dg05_00:010:00",
   "speaker": "義王",
   "jp": "オイオイオイオイ！！\nこのオレ様を！！\nド無視しやがったな、オイ！！",
-  "en": "Whoa whoa whoa whoa!! You totally ignored me!!\nThe great me!!"
+  "en": "Whoa whoa whoa whoa!! You\ntotally ignored me!! The great me!!"
  },
  {
   "id": "dg05_00:010:01",
@@ -183,7 +183,7 @@
   "id": "dg05_00:011:02",
   "speaker": "義王",
   "jp": "この世に一つしかないお宝を\nこの手に掴み取るッ！！",
-  "en": "To grab the one and only treasure in this world\nwith my own two hands!!"
+  "en": "To grab the one and only treasure in\nthis world with my own two hands!!"
  },
  {
   "id": "dg05_00:011:03",
@@ -201,7 +201,7 @@
   "id": "dg05_00:011:05",
   "speaker": "白",
   "jp": "この札は、其方らのような\n盗っ人の収集欲を満たすために\nあるのではないわ。",
-  "en": "These cards do not exist to sate the greed of thieves\nsuch as you."
+  "en": "These cards do not exist to sate\nthe greed of thieves such as you."
  },
  {
   "id": "dg05_00:011:06",
@@ -213,7 +213,7 @@
   "id": "dg05_00:011:07",
   "speaker": "御霧",
   "jp": "有機物を化け物に変え、\n地形にすら異常を来すような\n力は、何のためにある？",
-  "en": "A power that turns living things into monsters and\nwarps even the land itself... What is it for?"
+  "en": "A power that turns living things into monsters\nand warps even the land itself... What is it for?"
  },
  {
   "id": "dg05_00:011:08",
@@ -225,19 +225,19 @@
   "id": "dg05_00:011:09",
   "speaker": "御霧",
   "jp": "ふッ……。\n底が知れるな、\n花札の番人とやら。",
-  "en": "Heh... So that's the extent of you, guardian of the\nhanafuda."
+  "en": "Heh... So that's the extent of\nyou, guardian of the hanafuda."
  },
  {
   "id": "dg05_00:011:10",
   "speaker": "御霧",
   "jp": "まあいい。\n力の用途など、\n手にした人間が決める事だ。",
-  "en": "No matter. What a power is used for is decided by\nwhoever holds it."
+  "en": "No matter. What a power is used\nfor is decided by whoever holds it."
  },
  {
   "id": "dg05_00:011:11",
   "speaker": "義王",
   "jp": "はッはァ！！\nたまにゃあ、イイコト\n言うじゃねーか、御霧。",
-  "en": "Ha-hah!! You say somethin' good once in a while,\nMigiri."
+  "en": "Ha-hah!! You say somethin'\ngood once in a while, Migiri."
  },
  {
   "id": "dg05_00:011:12",

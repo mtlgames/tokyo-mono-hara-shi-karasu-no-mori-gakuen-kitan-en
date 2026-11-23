@@ -15,7 +15,7 @@
   "id": "fn13_11:001:02",
   "speaker": "要",
   "jp": "これ以上は、{ruby:呪言花札|じゅごんはなふだ}に\n関わるな、やて。",
-  "en": "They say I'm to have nothing more to do with the\nCurse Hanafuda."
+  "en": "They say I'm to have nothing more\nto do with the Curse Hanafuda."
  },
  {
   "id": "fn13_11:001:03",
@@ -27,13 +27,13 @@
   "id": "fn13_11:001:04",
   "speaker": "要",
   "jp": "もう本家が何を言いはっても\nうちには関係あらしません。",
-  "en": "Whatever the main family may say now, it's no\nconcern of mine."
+  "en": "Whatever the main family may\nsay now, it's no concern of mine."
  },
  {
   "id": "fn13_11:001:05",
   "speaker": "要",
   "jp": "この地を見守るんが\n本家やのうて、うちが決めた\nうちのお{ruby:務|つ　と}めや。",
-  "en": "Watching over this land is my duty--one I chose\nmyself, not the main family."
+  "en": "Watching over this land is my duty--one\nI chose myself, not the main family."
  },
  {
   "id": "fn13_11:002:00",
@@ -81,7 +81,7 @@
   "id": "fn13_11:005:00",
   "speaker": "要",
   "jp": "ご期待に添えるかは\nわかりませんけど……。",
-  "en": "I can't say whether I'll live up to your expectations,\nbut..."
+  "en": "I can't say whether I'll live\nup to your expectations, but..."
  },
  {
   "id": "fn13_11:005:01",
@@ -99,7 +99,7 @@
   "id": "fn13_11:007:00",
   "speaker": "要",
   "jp": "決めた事やからね。\nなに言うても無駄です。",
-  "en": "I've made up my mind. Nothing you say will change\nit."
+  "en": "I've made up my mind. Nothing\nyou say will change it."
  },
  {
   "id": "fn13_11:007:01",
@@ -123,13 +123,13 @@
   "id": "fn13_11:009:00",
   "speaker": "要",
   "jp": "そないヤワとちゃいます。\n心配なんかいりませんえ。",
-  "en": "I'm not so delicate as all that. There's no need to\nworry about me."
+  "en": "I'm not so delicate as all that.\nThere's no need to worry about me."
  },
  {
   "id": "fn13_11:010:00",
   "speaker": "要",
   "jp": "あんさんに言われても、\nこればかりは退けへんよ。",
-  "en": "Even if it's you telling me, on this one thing I won't\nback down."
+  "en": "Even if it's you telling me, on\nthis one thing I won't back down."
  },
  {
   "id": "fn13_11:010:01",
@@ -147,7 +147,7 @@
   "id": "fn13_11:012:00",
   "speaker": "要",
   "jp": "……こんなん、弟が見たら\n驚きはるやろな。",
-  "en": "...If my little brother saw this, I imagine he'd be\nsurprised."
+  "en": "...If my little brother saw this,\nI imagine he'd be surprised."
  },
  {
   "id": "fn13_11:012:01",
@@ -165,6 +165,6 @@
   "id": "fn13_11:013:00",
   "speaker": "要",
   "jp": "あんさんの大勝負や。\n付き合わせてもらいますえ。",
-  "en": "This is your great gamble. Allow me to see it\nthrough with you."
+  "en": "This is your great gamble. Allow\nme to see it through with you."
  }
 ]

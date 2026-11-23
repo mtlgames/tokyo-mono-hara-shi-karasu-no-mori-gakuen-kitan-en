@@ -21,7 +21,7 @@
   "id": "fd04_05:001:03",
   "speaker": "長英",
   "jp": "わ、わしは何も見とらんけェ！\n{px}のクラスに来た\n転校生なんぞ知らんのじゃ！！",
-  "en": "I-I didn't see nothin'! I don't know nothin' 'bout no\ntransfer student who came to {px}'s class!!"
+  "en": "I-I didn't see nothin'! I don't know\nnothin' 'bout no transfer student who\ncame to {px}'s class!!"
  },
  {
   "id": "fd04_05:001:04",
@@ -39,7 +39,7 @@
   "id": "fd04_05:001:06",
   "speaker": "長英",
   "jp": "ただの脂肪じゃ、脂肪くらい\nわしにもあるっちゅうに\n何でわしは……！！",
-  "en": "It's only fat! I got plenty of fat my own self, so why\ndo I...!!"
+  "en": "It's only fat! I got plenty of fat\nmy own self, so why do I...!!"
  },
  {
   "id": "fd04_05:001:07",
@@ -51,13 +51,13 @@
   "id": "fd04_05:001:08",
   "speaker": "長英",
   "jp": "腹を切る、それ以外に煩悩を\n{ruby:胡散|うさん}{ruby:霧消|むしょう}させる方法は\nありゃァせん！！",
-  "en": "Cuttin' my belly open's the only way left to make\nthese wicked thoughts vanish into thin air!!"
+  "en": "Cuttin' my belly open's the only way left to\nmake these wicked thoughts vanish into thin air!!"
  },
  {
   "id": "fd04_05:001:09",
   "speaker": "長英",
   "jp": "{px}、\n介錯をお頼みしやす！！",
-  "en": "{px}, I beg ya, be my second and finish me off!!"
+  "en": "{px}, I beg ya, be\nmy second and finish me off!!"
  },
  {
   "id": "fd04_05:002:00",
@@ -75,19 +75,19 @@
   "id": "fd04_05:003:00",
   "speaker": "長英",
   "jp": "別れの{ruby:際|きわ}じゃ、涙は似合わん。\nそう仰ってくれるんじゃな。",
-  "en": "No tears at the partin', that's what you're tellin' me,\nain't it."
+  "en": "No tears at the partin', that's\nwhat you're tellin' me, ain't it."
  },
  {
   "id": "fd04_05:003:01",
   "speaker": "長英",
   "jp": "ならばこの宍戸　長英！\n見事、笑顔で\n散ってみせますけェ！！",
-  "en": "Then I, Nagahide Shishido, will fall with a smile, like\na true man!!"
+  "en": "Then I, Nagahide Shishido, will\nfall with a smile, like a true man!!"
  },
  {
   "id": "fd04_05:004:00",
   "speaker": "長英",
   "jp": "そうじゃあ！\n思い切りよくズバッと\n頼むけェ！！",
-  "en": "That's right! Do it clean, one big swing, I'm askin'\nya!!"
+  "en": "That's right! Do it clean, one\nbig swing, I'm askin' ya!!"
  },
  {
   "id": "fd04_05:005:00",
@@ -99,7 +99,7 @@
   "id": "fd04_05:005:01",
   "speaker": "長英",
   "jp": "{px}が介錯なら、\n悔いも未練も断ち切れるけェ！",
-  "en": "With {px} as my second, I can cut off every regret\nand every last attachment!"
+  "en": "With {px} as my second, I can\ncut off every regret and every last attachment!"
  },
  {
   "id": "fd04_05:006:00",
@@ -159,7 +159,7 @@
   "id": "fd04_05:010:00",
   "speaker": "長英",
   "jp": "うううッ……。\n確かにこがァ情けのうわしに\n{px}の介錯はッ……。",
-  "en": "Uuugh... True, a pathetic guy like me don't deserve\n{px} as his second..."
+  "en": "Uuugh... True, a pathetic guy like me don't\ndeserve {px} as his second..."
  },
  {
   "id": "fd04_05:010:01",
@@ -177,7 +177,7 @@
   "id": "fd04_05:011:01",
   "speaker": "長英",
   "jp": "そうじゃった……\n{ruby:木刀|こ　れ}じゃ腹ァ切れん……。",
-  "en": "That's right... Can't cut my belly open with this\nwooden sword..."
+  "en": "That's right... Can't cut my belly\nopen with this wooden sword..."
  },
  {
   "id": "fd04_05:011:02",
@@ -195,7 +195,7 @@
   "id": "fd04_05:011:04",
   "speaker": "長英",
   "jp": "煩悩退散！\nいまはただ、剣だけを振るが\n我が道じゃあ！！",
-  "en": "Begone, wicked thoughts! For now, swingin' my\nsword is my one and only path!!"
+  "en": "Begone, wicked thoughts! For now, swingin'\nmy sword is my one and only path!!"
  },
  {
   "id": "fd04_05:012:00",

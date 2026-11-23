@@ -9,7 +9,7 @@
   "id": "dg04_01:000:01",
   "speaker": "アンジー",
   "jp": "何で上手くいかないんだろ？\n{px}は\nホントに予想外だナ。",
-  "en": "Why didn't it work? {px} really is full of surprises."
+  "en": "Why didn't it work? {px}\nreally is full of surprises."
  },
  {
   "id": "dg04_01:001:00",
@@ -57,7 +57,7 @@
   "id": "dg04_01:005:01",
   "speaker": "アンジー",
   "jp": "ここが夕日の河原だったら\nカンペキだったネ！！",
-  "en": "If this were a riverbank at sunset, it would have\nbeen perfect!!"
+  "en": "If this were a riverbank at sunset,\nit would have been perfect!!"
  },
  {
   "id": "dg04_01:006:00",
@@ -75,7 +75,7 @@
   "id": "dg04_01:007:00",
   "speaker": "アンジー",
   "jp": "うーん、{px}は\n楽しくなかったカナ？\nどうしてカナ？",
-  "en": "Mmm, didn't you have fun, {px}? Why not?"
+  "en": "Mmm, didn't you have fun,\n{px}? Why not?"
  },
  {
   "id": "dg04_01:008:00",
@@ -93,7 +93,7 @@
   "id": "dg04_01:009:00",
   "speaker": "アンジー",
   "jp": "うーん、{px}は\n楽しくなかったカナ？\nどうしてカナ？",
-  "en": "Mmm, didn't you have fun, {px}? Why not?"
+  "en": "Mmm, didn't you have fun,\n{px}? Why not?"
  },
  {
   "id": "dg04_01:010:00",
@@ -165,7 +165,7 @@
   "id": "dg04_01:014:04",
   "speaker": "自信に満ちた声",
   "jp": "大口叩いた割にゃあ、\nシャバいオチだな、オイ！！",
-  "en": "For all your big talk, that's a damn lame finish,\nhuh!?"
+  "en": "For all your big talk, that's\na damn lame finish, huh!?"
  },
  {
   "id": "dg04_01:014:05",
@@ -177,7 +177,7 @@
   "id": "dg04_01:014:06",
   "speaker": "赤い髪の男",
   "jp": "よーォ、どうやら\nウチのが世話になった\nみてーだなァ？",
-  "en": "Yo, looks like you've been takin' real good care of\nmy crew, huh?"
+  "en": "Yo, looks like you've been takin'\nreal good care of my crew, huh?"
  },
  {
   "id": "dg04_01:015:00",
@@ -236,7 +236,7 @@
   "id": "dg04_01:020:01",
   "speaker": "赤い髪の男",
   "jp": "テメェの底の浅さが\nバレるってもんだぜ？",
-  "en": "You'll just show everybody how shallow you are,\ny'know?"
+  "en": "You'll just show everybody\nhow shallow you are, y'know?"
  },
  {
   "id": "dg04_01:021:00",
@@ -260,19 +260,19 @@
   "id": "dg04_01:022:01",
   "speaker": "赤い髪の男",
   "jp": "はッはァ！！\n女なんて簡単に信じたら、\n{ruby:根刮|ねこそ}ぎ奪われるぜ！！",
-  "en": "Hah-hah!! Trust a woman that easy and she'll rob\nyou blind!!"
+  "en": "Hah-hah!! Trust a woman that\neasy and she'll rob you blind!!"
  },
  {
   "id": "dg04_01:023:00",
   "speaker": "赤い髪の男",
   "jp": "あ？\n何だって？\n全然聞こえねーぞ、オイッ！？",
-  "en": "Huh? What'd you say? Can't hear a damn thing,\nhey!?"
+  "en": "Huh? What'd you say? Can't\nhear a damn thing, hey!?"
  },
  {
   "id": "dg04_01:024:00",
   "speaker": "赤い髪の男",
   "jp": "無視か！！\nこのオレ様をド無視か！？\n面白ェ野郎だな、オイッ！！",
-  "en": "Ignorin' me!! You're flat-out ignorin' the great me!?\nYou're a funny one, hey!!"
+  "en": "Ignorin' me!! You're flat-out ignorin' the\ngreat me!? You're a funny one, hey!!"
  },
  {
   "id": "dg04_01:025:00",
@@ -290,13 +290,13 @@
   "id": "dg04_01:025:02",
   "speaker": "赤い髪の男",
   "jp": "このオレ様こそが、\n盗賊団・オブ・盗賊団！！\nキング・オブ・盗賊王！！",
-  "en": "The great me is the Bandits of all Bandits!! The\nKing of Bandit Kings!!"
+  "en": "The great me is the Bandits of all\nBandits!! The King of Bandit Kings!!"
  },
  {
   "id": "dg04_01:025:03",
   "speaker": "赤い髪の男",
   "jp": "{ruby:鬼印|おにじるし}盗賊団の{ruby:頭|カシラ}、\n鬼丸　義王サマよ―――！！",
-  "en": "Head of the Oni Mark Bandits, the mighty Gio\nOnimaru--!!"
+  "en": "Head of the Oni Mark Bandits,\nthe mighty Gio Onimaru--!!"
  },
  {
   "id": "dg04_01:025:04",
@@ -314,7 +314,7 @@
   "id": "dg04_01:025:06",
   "speaker": "義王",
   "jp": "いーかァ、テメェら、\n耳の穴カッぽじって\nよーく聞けよ？",
-  "en": "Listen up, you lot. Clean out your ears and listen\ngood."
+  "en": "Listen up, you lot. Clean out\nyour ears and listen good."
  },
  {
   "id": "dg04_01:025:07",
@@ -374,7 +374,7 @@
   "id": "dg04_01:025:16",
   "speaker": "義王",
   "jp": "そして{px}、\nお前が力で奪い返した。\nなら、それはお前のモンだ。",
-  "en": "And you, {px}, took it back by force. So it's yours."
+  "en": "And you, {px}, took\nit back by force. So it's yours."
  },
  {
   "id": "dg04_01:025:17",
@@ -398,7 +398,7 @@
   "id": "dg04_01:025:20",
   "speaker": "アンジー",
   "jp": "{ruby:Ａｈｏｒｉｔａ　ｌｌｅｇｕｅ|た　　だ　　い　　ま}\nやっぱりマスコットがいなきゃ\nしまらないネ！！",
-  "en": "Ahorita llegue--I'm back! Without our mascot, things\njust aren't complete!!"
+  "en": "Ahorita llegue--I'm back! Without our\nmascot, things just aren't complete!!"
  },
  {
   "id": "dg04_01:025:21",
@@ -416,7 +416,7 @@
   "id": "dg04_01:025:23",
   "speaker": "アンジー",
   "jp": "ミギーは相変わらずウルサイ。\n知ってる？\n魚は口から死んでいくんだヨ？",
-  "en": "Miggy is as noisy as ever. Did you know? A fish\ndies by its own mouth, you know?"
+  "en": "Miggy is as noisy as ever. Did you know?\nA fish dies by its own mouth, you know?"
  },
  {
   "id": "dg04_01:025:24",
@@ -428,13 +428,13 @@
   "id": "dg04_01:026:00",
   "speaker": "御霧",
   "jp": "……{ruby:香ノ巣|こうのす}　{ruby:絢人|あやひと}。\n俺の仕掛けた{ruby:罠|トラップ}は\n楽しんでもらえたか？",
-  "en": "...Ayahito Konosu. Did you enjoy the trap I set for\nyou?"
+  "en": "...Ayahito Konosu. Did you\nenjoy the trap I set for you?"
  },
  {
   "id": "dg04_01:026:01",
   "speaker": "絢人",
   "jp": "おや、何処かで会ったかい？\n生憎、男の顔はあまりよく\n覚えていなくてね。",
-  "en": "Oh? Have we met somewhere? I'm afraid I'm not\nvery good at remembering men's faces."
+  "en": "Oh? Have we met somewhere? I'm afraid I'm\nnot very good at remembering men's faces."
  },
  {
   "id": "dg04_01:026:02",
@@ -446,7 +446,7 @@
   "id": "dg04_01:026:03",
   "speaker": "御霧",
   "jp": "香ノ巣……情報を扱う人間で\nお前の事を知らない\n者などいない。",
-  "en": "Konosu... There isn't a soul who deals in information\nwho doesn't know who you are."
+  "en": "Konosu... There isn't a soul who deals in\ninformation who doesn't know who you are."
  },
  {
   "id": "dg04_01:026:04",
@@ -458,19 +458,19 @@
   "id": "dg04_01:026:05",
   "speaker": "絢人",
   "jp": "{ruby:ＪＥＭＡ|・・・・}の名刺なんて、\n珍しい{ruby:縁故|コ　ネ}を持っているね。",
-  "en": "A JEMA business card... You certainly have some\nunusual connections."
+  "en": "A JEMA business card... You certainly\nhave some unusual connections."
  },
  {
   "id": "dg04_01:026:06",
   "speaker": "絢人",
   "jp": "……もっとも、初めて見るから\n{ruby:本物だったとしても|・・・・・・・・・}\nわからなかったけど。",
-  "en": "...Mind you, I'd never seen one before, so I couldn't\nhave told even if it had been real."
+  "en": "...Mind you, I'd never seen one before, so I\ncouldn't have told even if it had been real."
  },
  {
   "id": "dg04_01:026:07",
   "speaker": "絢人",
   "jp": "まあ、おかげでアンジーくんと\n出会えた訳だから、{ruby:蜜の罠|ハニートラップ}\nとしてならよく出来てたかな？",
-  "en": "Well, thanks to it I got to meet Angie-kun, so as a\nhoney trap, I'd say it was rather well made?"
+  "en": "Well, thanks to it I got to meet Angie-kun, so as\na honey trap, I'd say it was rather well made?"
  },
  {
   "id": "dg04_01:026:08",
@@ -488,13 +488,13 @@
   "id": "dg04_01:027:01",
   "speaker": "義王",
   "jp": "たかだかこの程度の局面で\nオレ様が焦る必要はねえ。",
-  "en": "No need for the great me to sweat over a piddly\nsituation like this."
+  "en": "No need for the great me to sweat\nover a piddly situation like this."
  },
  {
   "id": "dg04_01:027:02",
   "speaker": "義王",
   "jp": "力も金も、自然と\n集まるべき所へ集まる。",
-  "en": "Power and money both gather on their own, right\nwhere they're meant to."
+  "en": "Power and money both gather on their\nown, right where they're meant to."
  },
  {
   "id": "dg04_01:027:03",
@@ -506,7 +506,7 @@
   "id": "dg04_01:027:04",
   "speaker": "義王",
   "jp": "より多くを持つ者の所……。\nつまりこのオレ様の\n手の中ってーことだ。",
-  "en": "With whoever's got the most... In other words, right\nin the great me's hands."
+  "en": "With whoever's got the most... In other\nwords, right in the great me's hands."
  },
  {
   "id": "dg04_01:028:00",
@@ -518,7 +518,7 @@
   "id": "dg04_01:029:00",
   "speaker": "義王",
   "jp": "オイオイオイオイ！！\n大丈夫か、テメェ！？",
-  "en": "Whoa whoa whoa whoa!! You okay in the head,\npal!?"
+  "en": "Whoa whoa whoa whoa!!\nYou okay in the head, pal!?"
  },
  {
   "id": "dg04_01:029:01",
@@ -530,7 +530,7 @@
   "id": "dg04_01:030:00",
   "speaker": "義王",
   "jp": "はッ、\n{ruby:矜恃|きょうじ}のねェ奴ァ、\n大成しねーぜ？",
-  "en": "Hah, a guy with no pride ain't ever gonna make it\nbig, y'know?"
+  "en": "Hah, a guy with no pride ain't\never gonna make it big, y'know?"
  },
  {
   "id": "dg04_01:031:00",
@@ -566,7 +566,7 @@
   "id": "dg04_01:034:00",
   "speaker": "義王",
   "jp": "はッはァ！！\nこのオレ様と張り合うか！？",
-  "en": "Hah-hah!! You wanna go toe-to-toe with the great\nme!?"
+  "en": "Hah-hah!! You wanna go\ntoe-to-toe with the great me!?"
  },
  {
   "id": "dg04_01:034:01",
@@ -578,13 +578,13 @@
   "id": "dg04_01:035:00",
   "speaker": "義王",
   "jp": "はッ、\nわかってねェのはどっちか……\nすぐにハッキリするぜッ！！",
-  "en": "Hah, which one of us don't get it... we'll find out\nsoon enough!!"
+  "en": "Hah, which one of us don't get\nit... we'll find out soon enough!!"
  },
  {
   "id": "dg04_01:036:00",
   "speaker": "義王",
   "jp": "はッ、\nグダグダ悩まなくても、\nいずれわかるぜッ！！",
-  "en": "Hah, no need to fret over it. You'll find out sooner\nor later!!"
+  "en": "Hah, no need to fret over it.\nYou'll find out sooner or later!!"
  },
  {
   "id": "dg04_01:037:00",
@@ -608,13 +608,13 @@
   "id": "dg04_01:038:02",
   "speaker": "アンジー",
   "jp": "また遊ぼうネ、{px}。\n……{ruby:Ｃｈａｏ|ま　た　ネ}、アミーゴ！！",
-  "en": "Let's play again, {px}. ...Chao--see you, amigo!!"
+  "en": "Let's play again, {px}.\n...Chao--see you, amigo!!"
  },
  {
   "id": "dg04_01:039:00",
   "speaker": "絢人",
   "jp": "やれやれ……。\n神出鬼没って噂は\n本当らしいね。",
-  "en": "Good grief... It seems the rumors of them appearing\nand vanishing like phantoms are true."
+  "en": "Good grief... It seems the rumors of them\nappearing and vanishing like phantoms are true."
  },
  {
   "id": "dg04_01:039:01",

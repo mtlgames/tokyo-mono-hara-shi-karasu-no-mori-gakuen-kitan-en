@@ -9,31 +9,31 @@
   "id": "ms04_03:000:01",
   "speaker": "{ruby:燈治|とうじ}",
   "jp": "くそッ……。\nあいつら、どっから\n入って来やがったんだ。",
-  "en": "Dammit... Where the hell did those guys get in\nfrom?"
+  "en": "Dammit... Where the hell did\nthose guys get in from?"
  },
  {
   "id": "ms04_03:000:02",
   "speaker": "{ruby:巴|ともえ}",
   "jp": "ここの入口は\n見張ってたワケだし\n恐らく別の場所、でしょうね。",
-  "en": "We were watching the entrance here, after all. So\nthey probably used some other spot, I'd say."
+  "en": "We were watching the entrance here, after all.\nSo they probably used some other spot, I'd say."
  },
  {
   "id": "ms04_03:000:03",
   "speaker": "{ruby:白|まお}",
   "jp": "彼奴らの側にも、\n情報に長けた者が\nおるようじゃな……。",
-  "en": "It seems they too have one well versed in the\ngathering of information..."
+  "en": "It seems they too have one well\nversed in the gathering of information..."
  },
  {
   "id": "ms04_03:000:04",
   "speaker": "{ruby:絢人|あやひと}",
   "jp": "{ruby:鹿島|かしま}　{ruby:御霧|みぎり}か……。\n僕とはまた、違った方法で\n情報屋をしてるようだね。",
-  "en": "Migiri Kashima, hmm... He seems to be an\ninformation broker as well, though his methods differ\nfrom mine."
+  "en": "Migiri Kashima, hmm... He seems to\nbe an information broker as well,\nthough his methods differ from mine."
  },
  {
   "id": "ms04_03:000:05",
   "speaker": "絢人",
   "jp": "ハッキング、とか言うのかな？\n僕はさっぱりだから、\nよくわからないんだが。",
-  "en": "\"Hacking,\" I believe they call it? I'm hopeless with\nsuch things, so I can't say I understand it."
+  "en": "\"Hacking,\" I believe they call it? I'm hopeless\nwith such things, so I can't say I understand it."
  },
  {
   "id": "ms04_03:000:06",
@@ -81,7 +81,7 @@
   "id": "ms04_03:002:01",
   "speaker": "白",
   "jp": "{px}、\n其方何をしておるのじゃ！！",
-  "en": "{px}! What in the world are you doing!?"
+  "en": "{px}! What in\nthe world are you doing!?"
  },
  {
   "id": "ms04_03:002:02",
@@ -111,7 +111,7 @@
   "id": "ms04_03:003:01",
   "speaker": "絢人",
   "jp": "そんな君にだからこそ、\n僕は一点の曇りもない想いで\nそれを手放せる。",
-  "en": "It's precisely because it's you that I can let it go\nwith a perfectly clear heart."
+  "en": "It's precisely because it's you that I can\nlet it go with a perfectly clear heart."
  },
  {
   "id": "ms04_03:004:00",
@@ -129,7 +129,7 @@
   "id": "ms04_03:005:01",
   "speaker": "絢人",
   "jp": "そんな君にだからこそ、\n僕は一点の曇りもない想いで\nそれを手放せる。",
-  "en": "It's precisely because it's you that I can let it go\nwith a perfectly clear heart."
+  "en": "It's precisely because it's you that I can\nlet it go with a perfectly clear heart."
  },
  {
   "id": "ms04_03:006:00",
@@ -147,7 +147,7 @@
   "id": "ms04_03:007:01",
   "speaker": "絢人",
   "jp": "そんな君にだからこそ、\n僕は一点の曇りもない想いで\nそれを手放せる。",
-  "en": "It's precisely because it's you that I can let it go\nwith a perfectly clear heart."
+  "en": "It's precisely because it's you that I can\nlet it go with a perfectly clear heart."
  },
  {
   "id": "ms04_03:008:00",
@@ -159,7 +159,7 @@
   "id": "ms04_03:008:01",
   "speaker": "絢人",
   "jp": "そんな君にだからこそ、\n僕は一点の曇りもない想いで\nそれを手放せる。",
-  "en": "It's precisely because it's you that I can let it go\nwith a perfectly clear heart."
+  "en": "It's precisely because it's you that I can\nlet it go with a perfectly clear heart."
  },
  {
   "id": "ms04_03:009:00",
@@ -171,13 +171,13 @@
   "id": "ms04_03:009:01",
   "speaker": "絢人",
   "jp": "そんな君にだからこそ、\n僕は一点の曇りもない想いで\nそれを手放せる。",
-  "en": "It's precisely because it's you that I can let it go\nwith a perfectly clear heart."
+  "en": "It's precisely because it's you that I can\nlet it go with a perfectly clear heart."
  },
  {
   "id": "ms04_03:010:00",
   "speaker": "絢人",
   "jp": "……輪も、\n君だからこそ預けたんだ。",
-  "en": "...Rin, too, entrusted it to you precisely because it\nwas you."
+  "en": "...Rin, too, entrusted it to you\nprecisely because it was you."
  },
  {
   "id": "ms04_03:010:01",
@@ -201,7 +201,7 @@
   "id": "ms04_03:012:01",
   "speaker": "絢人",
   "jp": "こんな事になった以上、\n僕に異論はないよ。",
-  "en": "Now that things have come to this, I have no\nobjection."
+  "en": "Now that things have come\nto this, I have no objection."
  },
  {
   "id": "ms04_03:013:00",
@@ -273,7 +273,7 @@
   "id": "ms04_03:018:00",
   "speaker": "絢人",
   "jp": "はは、\nその期待に応えられるよう\n頑張ってみるとしようか。",
-  "en": "Haha. Then I suppose I'll do my best to live up to\nthose expectations."
+  "en": "Haha. Then I suppose I'll do my\nbest to live up to those expectations."
  },
  {
   "id": "ms04_03:019:00",
@@ -297,7 +297,7 @@
   "id": "ms04_03:022:00",
   "speaker": "絢人",
   "jp": "いや……いいんだ。\n無理を言ってすまない。\n忘れてくれ。",
-  "en": "No... it's fine. I'm sorry for asking too much. Forget I\nsaid anything."
+  "en": "No... it's fine. I'm sorry for asking\ntoo much. Forget I said anything."
  },
  {
   "id": "ms04_03:023:00",
@@ -315,13 +315,13 @@
   "id": "ms04_03:025:00",
   "speaker": "絢人",
   "jp": "それじゃあ微力ながら、\n手伝わせてもらうよ。",
-  "en": "Then, for what little I'm worth, allow me to lend a\nhand."
+  "en": "Then, for what little I'm worth,\nallow me to lend a hand."
  },
  {
   "id": "ms04_03:025:01",
   "speaker": "絢人",
   "jp": "僕は大概あの店にいるが、\n急な呼び出しの時は\nここに連絡してくれればいい。",
-  "en": "I'm usually at the shop, but if you need me in a\nhurry, just contact me here."
+  "en": "I'm usually at the shop, but if you need\nme in a hurry, just contact me here."
  },
  {
   "id": "ms04_03:025:02",
@@ -351,7 +351,7 @@
   "id": "ms04_03:026:00",
   "speaker": "燈治",
   "jp": "無理に荒事に\n首突っ込む事もねェぜ。",
-  "en": "Don't go forcin' yourself to stick your neck into\nfights."
+  "en": "Don't go forcin' yourself to\nstick your neck into fights."
  },
  {
   "id": "ms04_03:026:01",
@@ -363,7 +363,7 @@
   "id": "ms04_03:026:02",
   "speaker": "巴",
   "jp": "そうよ。\n腕力使うしか能のない\nどっかの馬鹿とは違うでしょ。",
-  "en": "That's right. You're not like a certain idiot who's\nonly good for throwing punches."
+  "en": "That's right. You're not like a certain idiot\nwho's only good for throwing punches."
  },
  {
   "id": "ms04_03:026:03",
@@ -381,7 +381,7 @@
   "id": "ms04_03:026:05",
   "speaker": "絢人",
   "jp": "わかったよ。\n何かあればまたいつでも\nあの店に来てくれ。",
-  "en": "Very well. If anything comes up, come by the shop\nanytime."
+  "en": "Very well. If anything comes\nup, come by the shop anytime."
  },
  {
   "id": "ms04_03:026:06",
@@ -393,7 +393,7 @@
   "id": "ms04_03:026:07",
   "speaker": "絢人",
   "jp": "たまには相応の対価を\n支払って欲しいものだけどね。",
-  "en": "Now and then, I would like you to pay a fair price\nfor it."
+  "en": "Now and then, I would like\nyou to pay a fair price for it."
  },
  {
   "id": "ms04_03:027:00",
@@ -417,7 +417,7 @@
   "id": "ms04_03:027:03",
   "speaker": "白",
   "jp": "札を集める妙な{ruby:洞|うろ}に、\n盗賊共……。",
-  "en": "A strange Hollow that gathers cards, and a band of\nthieves..."
+  "en": "A strange Hollow that gathers\ncards, and a band of thieves..."
  },
  {
   "id": "ms04_03:027:04",
@@ -531,7 +531,7 @@
   "id": "ms04_03:028:15",
   "speaker": "零",
   "jp": "となると《人札》を\n持つのはやはり―――",
-  "en": "Which means the one holding the Man Card must\nbe--"
+  "en": "Which means the one holding\nthe Man Card must be--"
  },
  {
   "id": "ms04_03:028:16",

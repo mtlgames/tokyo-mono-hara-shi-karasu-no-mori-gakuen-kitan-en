@@ -3,7 +3,7 @@
   "id": "qs00_06:000:00",
   "speaker": "澁川",
   "jp": "依頼人と待っていたぞ。\n……写真は無事に\n撮って来る事が出来た様だな。",
-  "en": "The client and I have been waiting. ...Looks like you\nmanaged to get the photo."
+  "en": "The client and I have been waiting.\n...Looks like you managed to get the photo."
  },
  {
   "id": "qs00_06:000:01",
@@ -21,13 +21,13 @@
   "id": "qs00_06:001:00",
   "speaker": "褐色の肌の王族",
   "jp": "なるほど、慈愛に\n満ち溢れている……。\n徳の高さが伺えるな。",
-  "en": "I see, overflowing with compassion... One can tell\nyour virtue is great."
+  "en": "I see, overflowing with compassion...\nOne can tell your virtue is great."
  },
  {
   "id": "qs00_06:002:00",
   "speaker": "褐色の肌の王族",
   "jp": "うむ。当然だ。\n我が王族の仕事を請け負うなど\n平易な事では無い。",
-  "en": "Indeed. Naturally. Taking on work for my royal\nfamily is no simple matter."
+  "en": "Indeed. Naturally. Taking on work for\nmy royal family is no simple matter."
  },
  {
   "id": "qs00_06:003:00",
@@ -39,7 +39,7 @@
   "id": "qs00_06:004:00",
   "speaker": "褐色の肌の王族",
   "jp": "ああ、私も貴殿の様な人間と\n関わる事が出来て光栄だ。",
-  "en": "Yes, I too am honored to make the acquaintance of\nsomeone such as you."
+  "en": "Yes, I too am honored to make the\nacquaintance of someone such as you."
  },
  {
   "id": "qs00_06:005:00",
@@ -51,7 +51,7 @@
   "id": "qs00_06:005:01",
   "speaker": "褐色の肌の王族",
   "jp": "すまないが……\nこればかりはまだ、\nどうにも出来ないのだ。",
-  "en": "My apologies... but that, at least, is something I\ncannot yet help."
+  "en": "My apologies... but that, at least,\nis something I cannot yet help."
  },
  {
   "id": "qs00_06:006:00",
@@ -63,31 +63,31 @@
   "id": "qs00_06:007:00",
   "speaker": "褐色の肌の王族",
   "jp": "どうした―――何故悲しむ？\n顔を見せただけの私が、\n貴殿に一体何をした？",
-  "en": "What is it--why do you grieve? I merely showed\nmy face. What have I done to you?"
+  "en": "What is it--why do you grieve? I merely\nshowed my face. What have I done to you?"
  },
  {
   "id": "qs00_06:008:00",
   "speaker": "褐色の肌の王族",
   "jp": "……私の顔に、\n何か付いているのか？\n何故その様な顔をする？",
-  "en": "...Is there something on my face? Why do you make\nsuch an expression?"
+  "en": "...Is there something on my face? Why\ndo you make such an expression?"
  },
  {
   "id": "qs00_06:009:00",
   "speaker": "褐色の肌の王族",
   "jp": "そうか、人と関わる事を\n嫌うか……それも生き方だ。\n構わぬ。",
-  "en": "I see, you dislike dealing with people... That too is a\nway to live. I do not mind."
+  "en": "I see, you dislike dealing with people...\nThat too is a way to live. I do not mind."
  },
  {
   "id": "qs00_06:010:00",
   "speaker": "澁川",
   "jp": "望みの写真はこれだが……\n間違いないんだな？",
-  "en": "Here's the photo you wanted... You're sure this is\nhim?"
+  "en": "Here's the photo you wanted...\nYou're sure this is him?"
  },
  {
   "id": "qs00_06:010:01",
   "speaker": "褐色の肌の王族",
   "jp": "うむ。私と瓜二つ。\nこの者こそ、前世での\n私の弟に間違いない。",
-  "en": "Indeed. He is my mirror image. This man is without\ndoubt my brother from a past life."
+  "en": "Indeed. He is my mirror image. This man is\nwithout doubt my brother from a past life."
  },
  {
   "id": "qs00_06:010:02",
@@ -117,13 +117,13 @@
   "id": "qs00_06:010:06",
   "speaker": "褐色の肌の王族",
   "jp": "いや、いいのだ。\nこの街に暮らしている事が\nわかっただけで十分だ。",
-  "en": "No, it is fine. Knowing that he lives in this city is\nenough."
+  "en": "No, it is fine. Knowing that\nhe lives in this city is enough."
  },
  {
   "id": "qs00_06:010:07",
   "speaker": "褐色の肌の王族",
   "jp": "より多くの善行を積んで、\n私の徳が弟との再会に\n相応しくなったとき―――",
-  "en": "When I have done more good deeds and my virtue\nis worthy of a reunion with my brother--"
+  "en": "When I have done more good deeds and my\nvirtue is worthy of a reunion with my brother--"
  },
  {
   "id": "qs00_06:010:08",
@@ -141,13 +141,13 @@
   "id": "qs00_06:010:10",
   "speaker": "褐色の肌の王族",
   "jp": "―――これを贈ろう。\n{ruby:王室直通|ホットライン}の\n極秘アドレスだ。",
-  "en": "--Allow me to give you this. The top-secret address\nof the royal hotline."
+  "en": "--Allow me to give you this. The\ntop-secret address of the royal hotline."
  },
  {
   "id": "qs00_06:010:11",
   "speaker": "褐色の肌の王族",
   "jp": "何かあれば気兼ね無く、\n便りを寄越し給え。\nでは、私はこれで―――",
-  "en": "Should anything arise, do not hesitate to write to\nme. Now, I shall take my leave--"
+  "en": "Should anything arise, do not hesitate to\nwrite to me. Now, I shall take my leave--"
  },
  {
   "id": "qs00_06:010:12",

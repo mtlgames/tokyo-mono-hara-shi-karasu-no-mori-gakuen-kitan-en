@@ -94,8 +94,49 @@ def widths():
     return insert.font_widths("sysfont18")
 
 
-def px(s):
+NAME_VAR = re.compile(r"\{(p[xmn])\}")
+NAME_ENTRY = "W" * 5  # the name entry takes 5 characters per name (work/qa/warp/en/name_entry); W is the widest
+
+
+@lru_cache(None)
+def var_values():
+    """{code: longest English value}: pm/pn = the default name or a 5-W player entry, px = the widest nickname
+    format (eboot 0x2D3A10-0x2D445C, insert.NAME_EBOOT) with those names (pnyh/pn1 = one W)."""
+    eb = {e["id"]: e for e in json.loads((SCRIPT / "eboot.json").read_text(encoding="utf-8"))}
+    name = {"pm": max(eb["eboot:2b7830"]["en"], NAME_ENTRY, key=raw_px),
+            "pn": max(eb["eboot:2b7838"]["en"], NAME_ENTRY, key=raw_px)}
+    forms = ["pn", "pm"] + [e.get("en") or "" for e in eb.values() if 0x2D3A10 <= int(e["id"][6:], 16) <= 0x2D445C]
+    # SPLICE_MAX assumes the pmyh buffer, which a long message overwrites, is never read (engine.md §Name codes)
+    assert not any("pmyh" in f for f in forms), "a nickname uses pmyh: lower SPLICE_MAX to 160"
+    forms = [re.sub(r"p[nm]", lambda m: name[m[0]], re.sub(r"p[nm](?:yh|1)", "W", f)) for f in forms]
+    return dict(name, px=max(forms, key=raw_px))
+
+
+@lru_cache(None)
+def var_px():
+    return {k: raw_px(v) for k, v in var_values().items()}
+
+
+def raw_px(s):
     return sum(widths().get(ord(c), 18) for c in s)
+
+
+def px(s):
+    """Drawn width with each name code at its longest value (§Checks: variables at their longest English value)."""
+    v = var_px()
+    return raw_px(NAME_VAR.sub("", s)) + sum(v[c] for c in NAME_VAR.findall(s))
+
+
+def spliced_bytes(s):
+    """.pwx message bytes after the name splice: English as full-width stand-ins (insert.to_sjis_text, 2 bytes a
+    char, a line break 2), each name code at its longest value."""
+    v = var_values()
+    return 2 * len(NAME_VAR.sub("", s)) + sum(2 * len(v[c]) for c in NAME_VAR.findall(s))
+
+
+# name splice (docs/re/engine.md §Name codes): the dialogue pass output goes through a .bss buffer with 308 bytes to
+# the next one, and past 322 bytes the pass's stack scratch reaches the pnyh name buffer
+SPLICE_MAX = 300
 
 
 @lru_cache(None)
@@ -148,19 +189,32 @@ def limit_label(entry):
     return f"{total}b" + (f" {lines}x{line}b" if lines > 1 or line < total else "")
 
 
-def wrap(text, fits):
-    """Greedy word wrap; " / " and real newlines force a break. fits(line) -> bool."""
+def greedy(words, width, limit):
+    out, line = [], ""
+    for w in words:
+        cand = f"{line} {w}" if line else w
+        if line and width(cand) > limit:
+            out.append(line)
+            line = w
+        else:
+            line = cand
+    return out + [line]
+
+
+def wrap(text, width, limit, balance=False):
+    """Word wrap; " / " and real newlines force a break. balance: the narrowest limit that keeps greedy's line
+    count, so a wrapped paragraph never ends in a stub line (§Checks)."""
     out = []
     for para in re.split(r" / |\n", text):
-        line = ""
-        for w in para.split(" "):
-            cand = f"{line} {w}" if line else w
-            if line and not fits(cand):
-                out.append(line)
-                line = w
-            else:
-                line = cand
-        out.append(line)
+        words = para.split(" ")
+        lines = greedy(words, width, limit)
+        if balance and len(lines) > 1:
+            lo, hi = max(map(width, words)), limit
+            while lo < hi:
+                mid = (lo + hi) // 2
+                lo, hi = (lo, mid) if len(greedy(words, width, mid)) <= len(lines) else (mid + 1, hi)
+            lines = greedy(words, width, hi)
+        out += lines
     return out
 
 
@@ -168,19 +222,29 @@ def shape(entry, en):
     """English as stored in script/: wrapped with \\n for this entry's box."""
     f = form_of(entry)
     if f in ("dlg", "narr"):
-        return "\n".join(wrap(en, lambda s: px(s) <= LINE_PX))
+        return "\n".join(wrap(en, px, LINE_PX, balance=True))
     if f.startswith("table:"):
-        line = table_limit(entry)[0]
-        return "\n".join(wrap(en, lambda s: len(s) <= line))
+        return "\n".join(wrap(en, len, table_limit(entry)[0]))
     return en.replace(" / ", "\n")
+
+
+def stub(lines):
+    """A wrapped (not forced) last line under 6 characters."""
+    return len(lines) > 1 and len(lines[-1]) < 6 and px(f"{lines[-2]} {lines[-1]}") > LINE_PX
 
 
 def width_problems(entry, en):
     f = form_of(entry)
     lines = shape(entry, en).split("\n")
     if f in ("dlg", "narr"):
+        out = []
         if len(lines) > LINES or any(px(s) > LINE_PX for s in lines):
-            return [f"over {LINES} lines of {LINE_PX}px: {[px(s) for s in lines]}"]
+            out.append(f"over {LINES} lines of {LINE_PX}px: {[px(s) for s in lines]}")
+        if stub(lines):
+            out.append(f"stub last line {lines[-1]!r} (reword)")
+        if spliced_bytes("\n".join(lines)) > SPLICE_MAX:
+            out.append(f"over {SPLICE_MAX} bytes after the name splice ({spliced_bytes(chr(10).join(lines))})")
+        return out
     elif f == "caption":
         if len(lines) > 1 or px(lines[0]) > CAPTION_PX:
             return [f"caption over 1 line of {CAPTION_PX}px ({px(lines[0])})"]
@@ -423,6 +487,11 @@ def main(argv):
     entries, terms = index(), glossary()
     if cmd == "check" and not names:
         bad = [f"{i}: {p}: {e['en']!r}" for i, e in entries.items() if e.get("en") for p in problems(e, e["en"], terms)]
+        bad += [f"{i}: no English (the build ships the Japanese): {e['jp']!r}"
+                for i, e in entries.items() if needs_english(e)]
+        # the build inserts the stored lines as they are: a line shape() would re-wrap is over its box
+        bad += [f"{i}: stored wrap is not shape()'s (a line over the limit, or unbalanced): {e['en']!r}"
+                for i, e in entries.items() if e.get("en") and shape(e, e["en"]) != e["en"]]
         print(f"{len(entries)} entries, {sum(bool(e.get('en')) for e in entries.values())} translated, "
               f"{len(bad)} problems")
         print("\n".join(bad[:200]))
@@ -471,6 +540,10 @@ def _selftest():
     f = {"id": "systemtext:0001:00", "jp": "%d個", "en": ""}
     assert not problems(f, "x%d", []) and problems(f, "x%s", [])
     assert has_term("ミンが来た", "ミン") and not has_term("タイミング", "ミン")
+    assert px("{pn}") == raw_px(var_values()["pn"]) >= raw_px("WWWWW") and px("{px}") >= px("{pn}-senpai")
+    w = "aaaa " * 30 + "end."  # greedy leaves "end." alone; balanced spreads the words
+    assert not stub(shape(e, w).split("\n")) and stub(greedy(w.split(" "), px, LINE_PX))
+    assert shape(e, "a / Huh?") == "a\nHuh?" and not stub(["a", "Huh?"])  # a forced break is no stub
     print("selftest ok")
 
 

@@ -27,7 +27,7 @@
   "id": "dg12_00:001:01",
   "speaker": "燈治",
   "jp": "どうやらここに\n{px}の客が来てる\nみてェだからよ。",
-  "en": "Looks like {px} has got a visitor down here."
+  "en": "Looks like {px}\nhas got a visitor down here."
  },
  {
   "id": "dg12_00:001:02",
@@ -81,7 +81,7 @@
   "id": "dg12_00:004:01",
   "speaker": "長英",
   "jp": "どうやらここに、\n決着つけんといかんお人が\n来とるようなんじゃ。",
-  "en": "Looks like somebody I gotta settle things with has\ncome down here."
+  "en": "Looks like somebody I gotta settle\nthings with has come down here."
  },
  {
   "id": "dg12_00:004:02",
@@ -141,13 +141,13 @@
   "id": "dg12_00:006:05",
   "speaker": "紅緒",
   "jp": "学校と、いうところに\n久しぶりに足を\n踏み入れました。",
-  "en": "It has been a long time since I last set foot in a\nplace called a school."
+  "en": "It has been a long time since I last\nset foot in a place called a school."
  },
  {
   "id": "dg12_00:006:06",
   "speaker": "紅緒",
   "jp": "もっとも、私が通っていたのは\nもっと田舎の……\n小さなところですが。",
-  "en": "Though the one I attended was a small place... far\nout in the countryside."
+  "en": "Though the one I attended was a\nsmall place... far out in the countryside."
  },
  {
   "id": "dg12_00:006:07",
@@ -165,19 +165,19 @@
   "id": "dg12_00:006:09",
   "speaker": "紅緒",
   "jp": "―――{px}。\nあれからずっと、\n考えていました。",
-  "en": "--{px}. Ever since then, I have been thinking."
+  "en": "--{px}. Ever\nsince then, I have been thinking."
  },
  {
   "id": "dg12_00:006:10",
   "speaker": "紅緒",
   "jp": "どうしたら……\n貴方を信じる事が\n出来るのか、と。",
-  "en": "About what it would take... for me to be able to\ntrust you."
+  "en": "About what it would take... for\nme to be able to trust you."
  },
  {
   "id": "dg12_00:007:00",
   "speaker": "紅緒",
   "jp": "{px}。\n私と……もう一度\n勝負してください。",
-  "en": "{px}. Please... face me in one more duel."
+  "en": "{px}. Please...\nface me in one more duel."
  },
  {
   "id": "dg12_00:008:00",
@@ -201,7 +201,7 @@
   "id": "dg12_00:009:01",
   "speaker": "紅緒",
   "jp": "断られたら……\nとても困ると、\n思っていました。",
-  "en": "I thought that if you refused... I would be at quite a\nloss."
+  "en": "I thought that if you refused...\nI would be at quite a loss."
  },
  {
   "id": "dg12_00:010:00",
@@ -225,7 +225,7 @@
   "id": "dg12_00:011:01",
   "speaker": "紅緒",
   "jp": "断られたら……\nとても困ると、\n思っていました。",
-  "en": "I thought that if you refused... I would be at quite a\nloss."
+  "en": "I thought that if you refused...\nI would be at quite a loss."
  },
  {
   "id": "dg12_00:012:00",
@@ -291,7 +291,7 @@
   "id": "dg12_00:017:01",
   "speaker": "紅緒",
   "jp": "師から授かり、\n{ruby:兄|あに}さまの為に振るった\nこの剣が―――",
-  "en": "This sword, given to me by my master and wielded\nfor Nii-sama's sake--"
+  "en": "This sword, given to me by my master\nand wielded for Nii-sama's sake--"
  },
  {
   "id": "dg12_00:017:02",
@@ -309,7 +309,7 @@
   "id": "dg12_00:017:04",
   "speaker": "紅緒",
   "jp": "あの方と出会わなければ\n私はいま、生きてこの場には\nいなかったでしょう。",
-  "en": "Had I never met him, I would surely not be alive\nand standing here now."
+  "en": "Had I never met him, I would surely\nnot be alive and standing here now."
  },
  {
   "id": "dg12_00:017:05",
@@ -333,7 +333,7 @@
   "id": "dg12_00:017:08",
   "speaker": "紅緒",
   "jp": "{px}……\n私が人でいられるうちに、\n貴方と決着をつけたい。",
-  "en": "{px}... While I can still remain human, I wish to settle\nthings with you."
+  "en": "{px}... While I can still remain\nhuman, I wish to settle things with you."
  },
  {
   "id": "dg12_00:017:09",

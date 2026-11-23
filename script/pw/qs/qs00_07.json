@@ -9,7 +9,7 @@
   "id": "qs00_07:000:01",
   "speaker": "澁川",
   "jp": "飲食業に携わる者としては\n興味が尽きない\nところだが……。",
-  "en": "As someone in the food and drink business, I can't\nhelp but be curious..."
+  "en": "As someone in the food and drink\nbusiness, I can't help but be curious..."
  },
  {
   "id": "qs00_07:000:02",
@@ -21,13 +21,13 @@
   "id": "qs00_07:000:03",
   "speaker": "澁川",
   "jp": "こういったものを専門的に\n追い求める《{ruby:宝探し屋|トレジャーハンター}》も\nいるにはいるんだが……",
-  "en": "There are Treasure Hunters who chase this sort of\nthing professionally, sure..."
+  "en": "There are Treasure Hunters who chase\nthis sort of thing professionally, sure..."
  },
  {
   "id": "qs00_07:000:04",
   "speaker": "澁川",
   "jp": "まさかお前がこの案件を\n解決するとは。\n……わからんものだ。",
-  "en": "But I never thought you'd be the one to crack this\ncase. ...You never can tell."
+  "en": "But I never thought you'd be the one\nto crack this case. ...You never can tell."
  },
  {
   "id": "qs00_07:000:05",
@@ -69,7 +69,7 @@
   "id": "qs00_07:001:03",
   "speaker": "澁川",
   "jp": "お前が{ruby:そう|・・}答えたら\n渡すように言われていた。",
-  "en": "I was told to give it to you if you answered that\nway."
+  "en": "I was told to give it to you\nif you answered that way."
  },
  {
   "id": "qs00_07:001:04",
@@ -117,7 +117,7 @@
   "id": "qs00_07:003:03",
   "speaker": "澁川",
   "jp": "お前が{ruby:そう|・・}答えたら\n渡すように言われていた。",
-  "en": "I was told to give it to you if you answered that\nway."
+  "en": "I was told to give it to you\nif you answered that way."
  },
  {
   "id": "qs00_07:003:04",
@@ -195,7 +195,7 @@
   "id": "qs00_07:007:03",
   "speaker": "澁川",
   "jp": "お前が{ruby:そう|・・}答えたら\n渡すように言われていた。",
-  "en": "I was told to give it to you if you answered that\nway."
+  "en": "I was told to give it to you\nif you answered that way."
  },
  {
   "id": "qs00_07:007:04",
@@ -231,6 +231,6 @@
   "id": "qs00_07:010:00",
   "speaker": "澁川",
   "jp": "……腕を見込まれたとなると\nまた何か無茶な依頼を\nされるかもしれんな。",
-  "en": "...Now that they've seen what you can do, they\nmight hit you with another crazy request."
+  "en": "...Now that they've seen what you can do,\nthey might hit you with another crazy request."
  }
 ]

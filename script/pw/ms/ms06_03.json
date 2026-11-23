@@ -9,7 +9,7 @@
   "id": "ms06_03:000:01",
   "speaker": "静かな声",
   "jp": "{ruby:次の仕掛け|・・・・・}で、\n帳尻が合うだろう。\n……何も問題無い。",
-  "en": "The \"next arrangement\" should balance the books.\n...There's no problem at all."
+  "en": "The \"next arrangement\" should balance\nthe books. ...There's no problem at all."
  },
  {
   "id": "ms06_03:000:02",
@@ -27,7 +27,7 @@
   "id": "ms06_03:000:04",
   "speaker": "零",
   "jp": "何も……変わらない。\n表向きは、\n{ruby:いつも通り|・・・・・}だ。",
-  "en": "Nothing... has changed. On the surface, it's \"the same\nas always.\""
+  "en": "Nothing... has changed. On the\nsurface, it's \"the same as always.\""
  },
  {
   "id": "ms06_03:000:05",
@@ -105,13 +105,13 @@
   "id": "ms06_03:000:17",
   "speaker": "零",
   "jp": "分類上、同じ感情であっても\nその意味合いと評価は\n個によって全く異なる……。",
-  "en": "Even emotions classed as the same can differ\ncompletely in meaning and worth from one person\nto the next..."
+  "en": "Even emotions classed as the same\ncan differ completely in meaning and\nworth from one person to the next..."
  },
  {
   "id": "ms06_03:000:18",
   "speaker": "零",
   "jp": "きみは、いま、\n何を想う、{px}―――？",
-  "en": "What are you thinking of right now, {px}--?"
+  "en": "What are you thinking of right\nnow, {px}--?"
  },
  {
   "id": "ms06_03:000:19",

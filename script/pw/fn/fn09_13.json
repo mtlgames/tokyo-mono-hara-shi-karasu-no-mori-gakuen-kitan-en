@@ -9,31 +9,31 @@
   "id": "fn09_13:001:01",
   "speaker": "英雄",
   "jp": "やあ、{px}！\nこの子たちに{ruby:英雄|ヒーロー}指導を\nしていたところだよッ！",
-  "en": "Hello there, {px}! I was just giving these kids some\nhero coaching!"
+  "en": "Hello there, {px}! I was just\ngiving these kids some hero coaching!"
  },
  {
   "id": "fn09_13:001:02",
   "speaker": "英雄",
   "jp": "愛されるというのは辛いな。\nだがこれも{ruby:英雄|ヒーロー}の勤めッ！",
-  "en": "Being loved is a hard thing. But this, too, is a hero's\nduty!"
+  "en": "Being loved is a hard thing.\nBut this, too, is a hero's duty!"
  },
  {
   "id": "fn09_13:001:03",
   "speaker": "英雄",
   "jp": "どうだい、{px}！\n君も私の{ruby:英雄|ヒーロー}学、\n学んでいくかいッ！？",
-  "en": "How about it, {px}! Will you study my Heroics too!?"
+  "en": "How about it, {px}!\nWill you study my Heroics too!?"
  },
  {
   "id": "fn09_13:002:00",
   "speaker": "英雄",
   "jp": "はッはッは、その距離！\n距離感の無さが大事だッ！",
-  "en": "Ha ha ha, that distance! No sense of personal space,\nthat's what matters!"
+  "en": "Ha ha ha, that distance! No sense of\npersonal space, that's what matters!"
  },
  {
   "id": "fn09_13:002:01",
   "speaker": "英雄",
   "jp": "さぁ、暑苦しく行こうでは\nないかッ！！",
-  "en": "Now, let us be hot-blooded to the point of\nsweltering!!"
+  "en": "Now, let us be hot-blooded\nto the point of sweltering!!"
  },
  {
   "id": "fn09_13:003:00",
@@ -45,7 +45,7 @@
   "id": "fn09_13:003:01",
   "speaker": "英雄",
   "jp": "胸を張って、高らかに！\n歯を光らせようではないかッ！\nさぁ、大きな声でカモンッ！",
-  "en": "Chest out, voice high! Let your teeth sparkle! Now,\nloud and proud: Come on!"
+  "en": "Chest out, voice high! Let your teeth\nsparkle! Now, loud and proud: Come on!"
  },
  {
   "id": "fn09_13:003:02",
@@ -57,7 +57,7 @@
   "id": "fn09_13:004:00",
   "speaker": "英雄",
   "jp": "ほほう……？\nその覚悟、この私が\n確かに受け取ったッ！",
-  "en": "Oho...? Your resolve is hereby received by yours\ntruly!"
+  "en": "Oho...? Your resolve is hereby\nreceived by yours truly!"
  },
  {
   "id": "fn09_13:004:01",
@@ -75,7 +75,7 @@
   "id": "fn09_13:005:01",
   "speaker": "英雄",
   "jp": "さあ、チビッ子たちを見習って\n共に{ruby:英雄|ヒーロー}道を歩もうでは\nないかッ！",
-  "en": "Now, follow these little ones' example, and let us\nwalk the Path of the Hero together!"
+  "en": "Now, follow these little ones' example, and\nlet us walk the Path of the Hero together!"
  },
  {
   "id": "fn09_13:006:00",
@@ -87,7 +87,7 @@
   "id": "fn09_13:006:01",
   "speaker": "英雄",
   "jp": "君の心が再び{ruby:英雄|ヒーロー}を求める\nその時、天に向かって\n熱く叫ぶと良い！",
-  "en": "When your heart seeks a hero once more, cry out\nwith passion to the heavens:"
+  "en": "When your heart seeks a hero once more,\ncry out with passion to the heavens:"
  },
  {
   "id": "fn09_13:006:02",
@@ -105,7 +105,7 @@
   "id": "fn09_13:008:00",
   "speaker": "英雄",
   "jp": "おや、体調でも悪いのかい？\nではまたの機会に\n{ruby:個人授業|プライベート・レッスン}としてあげようッ！",
-  "en": "Oh, are you feeling unwell? Then another time, I\nshall give you a private lesson!"
+  "en": "Oh, are you feeling unwell? Then another\ntime, I shall give you a private lesson!"
  },
  {
   "id": "fn09_13:009:00",
@@ -117,7 +117,7 @@
   "id": "fn09_13:009:01",
   "speaker": "英雄",
   "jp": "真に心が求める時……\n君も叫ぶ日が来るだろうッ！",
-  "en": "When your heart truly seeks it... the day will come\nwhen you too cry out:"
+  "en": "When your heart truly seeks it... the\nday will come when you too cry out:"
  },
  {
   "id": "fn09_13:009:02",
@@ -129,13 +129,13 @@
   "id": "fn09_13:010:00",
   "speaker": "英雄",
   "jp": "今日は気乗りしないのかなッ？\nそれならば、また別の機会に\n{ruby:個人授業|プライベート・レッスン}だねッ！",
-  "en": "Not feeling up to it today? Then another time, we'll\nhave a private lesson!"
+  "en": "Not feeling up to it today? Then\nanother time, we'll have a private lesson!"
  },
  {
   "id": "fn09_13:011:00",
   "speaker": "英雄",
   "jp": "求める者には、与えよう。\n求めぬ者には、見せてやろう。",
-  "en": "To those who seek, I shall give. To those who do\nnot, I shall show..."
+  "en": "To those who seek, I shall give. To\nthose who do not, I shall show..."
  },
  {
   "id": "fn09_13:011:01",

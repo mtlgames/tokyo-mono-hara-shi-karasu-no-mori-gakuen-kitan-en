@@ -3,7 +3,7 @@
   "id": "fn11_20:001:00",
   "speaker": "朝子",
   "jp": "あら、お帰りなさい。\n随分早いけど……いいの？",
-  "en": "Oh, welcome home. You're back awfully early... is\nthat all right?"
+  "en": "Oh, welcome home. You're back\nawfully early... is that all right?"
  },
  {
   "id": "fn11_20:001:01",
@@ -57,13 +57,13 @@
   "id": "fn11_20:005:00",
   "speaker": "朝子",
   "jp": "ふふ、そうね。\nこんな日は大勢で楽しく\n過ごすのがいいわね。",
-  "en": "Hehe, that's right. A day like this is best spent\nhaving fun with lots of people."
+  "en": "Hehe, that's right. A day like this is best\nspent having fun with lots of people."
  },
  {
   "id": "fn11_20:006:00",
   "speaker": "朝子",
   "jp": "あ……ごめんなさい。\n余計なお世話だったわね。",
-  "en": "Oh... I'm sorry. That was none of my business, was\nit?"
+  "en": "Oh... I'm sorry. That was\nnone of my business, was it?"
  },
  {
   "id": "fn11_20:006:01",
@@ -111,7 +111,7 @@
   "id": "fn11_20:009:01",
   "speaker": "朝子",
   "jp": "{px}がもてるのは\n嬉しいけど……あんまり\n不誠実な事しちゃ駄目よ。",
-  "en": "I'm glad you're popular, {px}, but... you mustn't do\nanything too unfaithful."
+  "en": "I'm glad you're popular, {px},\nbut... you mustn't do anything too unfaithful."
  },
  {
   "id": "fn11_20:010:00",
@@ -123,25 +123,25 @@
   "id": "fn11_20:011:00",
   "speaker": "朝子",
   "jp": "気をつけて行ってらっしゃい。\n遅くなるようなら\nちゃんと連絡するのよ。",
-  "en": "Take care out there. If you're going to be late, be\nsure to let us know."
+  "en": "Take care out there. If you're going\nto be late, be sure to let us know."
  },
  {
   "id": "fn11_20:012:00",
   "speaker": "朝子",
   "jp": "もし他に予定がないなら\n今日は家族で\n過ごすのはどうかしら。",
-  "en": "If you don't have any other plans, how about\nspending today with family?"
+  "en": "If you don't have any other plans, how\nabout spending today with family?"
  },
  {
   "id": "fn11_20:012:01",
   "speaker": "朝子",
   "jp": "お父さんのお手伝いして\nみんなで料理なんて……\n楽しそうよね。",
-  "en": "Helping my father and all of us cooking together...\nwouldn't that be fun?"
+  "en": "Helping my father and all of us\ncooking together... wouldn't that be fun?"
  },
  {
   "id": "fn11_20:012:02",
   "speaker": "朝子",
   "jp": "あ……大丈夫よ！\n風邪じゃないし、\nうつる病気じゃないから！",
-  "en": "Oh... It's all right! It's not a cold, and it's nothing\ncontagious!"
+  "en": "Oh... It's all right! It's not a cold,\nand it's nothing contagious!"
  },
  {
   "id": "fn11_20:012:03",
@@ -153,7 +153,7 @@
   "id": "fn11_20:012:04",
   "speaker": "朝子",
   "jp": "ほら……もう全然、\n元気なんだから！\n明日には……学校に行けるわ。",
-  "en": "See? I'm perfectly fine now! By tomorrow... I'll be\nable to go to school."
+  "en": "See? I'm perfectly fine now! By\ntomorrow... I'll be able to go to school."
  },
  {
   "id": "fn11_20:013:00",
@@ -177,13 +177,13 @@
   "id": "fn11_20:014:01",
   "speaker": "朝子",
   "jp": "{px}にも\n色々心配かけちゃって\nごめんね。",
-  "en": "I'm sorry for making you worry so much too, {px}."
+  "en": "I'm sorry for making you worry\nso much too, {px}."
  },
  {
   "id": "fn11_20:015:00",
   "speaker": "朝子",
   "jp": "ふふ、{px}を見てたら\nますます元気が\n出て来たわ。",
-  "en": "Hehe, just looking at you, {px}, I feel even more\nenergetic."
+  "en": "Hehe, just looking at you, {px},\nI feel even more energetic."
  },
  {
   "id": "fn11_20:015:01",
@@ -201,7 +201,7 @@
   "id": "fn11_20:016:01",
   "speaker": "朝子",
   "jp": "{px}にも\n色々心配かけちゃって\nごめんね。",
-  "en": "I'm sorry for making you worry so much too, {px}."
+  "en": "I'm sorry for making you worry\nso much too, {px}."
  },
  {
   "id": "fn11_20:017:00",
@@ -237,7 +237,7 @@
   "id": "fn11_20:019:01",
   "speaker": "朝子",
   "jp": "無理は……しないから。\nだからもう、そんな顔\nしないで頂戴。",
-  "en": "I won't... push myself. So please, don't make that face\nanymore."
+  "en": "I won't... push myself. So please,\ndon't make that face anymore."
  },
  {
   "id": "fn11_20:020:00",
@@ -249,7 +249,7 @@
   "id": "fn11_20:020:01",
   "speaker": "朝子",
   "jp": "無理は……しないから。\nだからもう、そんな顔\nしないで頂戴。",
-  "en": "I won't... push myself. So please, don't make that face\nanymore."
+  "en": "I won't... push myself. So please,\ndon't make that face anymore."
  },
  {
   "id": "fn11_20:021:00",
@@ -261,25 +261,25 @@
   "id": "fn11_20:023:00",
   "speaker": "朝子",
   "jp": "……私はここで\nもう少し境内の様子を\n見てから戻るわ。",
-  "en": "...I'm going to look around the shrine grounds a little\nlonger before I go back in."
+  "en": "...I'm going to look around the shrine\ngrounds a little longer before I go back in."
  },
  {
   "id": "fn11_20:023:01",
   "speaker": "朝子",
   "jp": "何となく……だけど、\nいつもより空気がピリピリ\nしてる気がするの。",
-  "en": "I can't quite say why... but the air feels tenser than\nusual."
+  "en": "I can't quite say why... but\nthe air feels tenser than usual."
  },
  {
   "id": "fn11_20:023:02",
   "speaker": "朝子",
   "jp": "何か出来る訳じゃないけど\n……気になって。",
-  "en": "It's not as if I can do anything about it, but... it\nbothers me."
+  "en": "It's not as if I can do anything\nabout it, but... it bothers me."
  },
  {
   "id": "fn11_20:023:03",
   "speaker": "朝子",
   "jp": "それじゃ、さっきの事、\nお父さんが買い物から戻ったら\nちゃんと伝えておくわね。",
-  "en": "Well then, I'll be sure to tell my father what we\ntalked about once he's back from shopping."
+  "en": "Well then, I'll be sure to tell my father what\nwe talked about once he's back from shopping."
  },
  {
   "id": "fn11_20:024:00",
@@ -303,7 +303,7 @@
   "id": "fn11_20:024:03",
   "speaker": "朝子",
   "jp": "上手く言えないんだけど、\nもうすぐ……終わる気がする。",
-  "en": "I can't explain it well, but I feel like... it's all going to\nend soon."
+  "en": "I can't explain it well, but I feel\nlike... it's all going to end soon."
  },
  {
   "id": "fn11_20:024:04",
@@ -333,7 +333,7 @@
   "id": "fn11_20:024:08",
   "speaker": "朝子",
   "jp": "あなたの眼を見ていると\nとても懐かしい気持ちになる。",
-  "en": "When I look into your eyes, I get this deeply\nnostalgic feeling."
+  "en": "When I look into your eyes, I\nget this deeply nostalgic feeling."
  },
  {
   "id": "fn11_20:024:09",
@@ -375,7 +375,7 @@
   "id": "fn11_20:025:04",
   "speaker": "朝子",
   "jp": "綺麗なだけじゃない。\n強い意志を持った\n男の子の眼ね。",
-  "en": "And not just beautiful. They're the eyes of a boy\nwith a strong will."
+  "en": "And not just beautiful. They're the\neyes of a boy with a strong will."
  },
  {
   "id": "fn11_20:025:05",
@@ -411,7 +411,7 @@
   "id": "fn11_20:026:02",
   "speaker": "朝子",
   "jp": "綺麗なだけじゃない。\n強い意志を持った\n男の子の眼ね。",
-  "en": "And not just beautiful. They're the eyes of a boy\nwith a strong will."
+  "en": "And not just beautiful. They're the\neyes of a boy with a strong will."
  },
  {
   "id": "fn11_20:026:03",
@@ -441,7 +441,7 @@
   "id": "fn11_20:027:02",
   "speaker": "朝子",
   "jp": "綺麗なだけじゃない。\n強い意志を持った\n男の子の眼ね。",
-  "en": "And not just beautiful. They're the eyes of a boy\nwith a strong will."
+  "en": "And not just beautiful. They're the\neyes of a boy with a strong will."
  },
  {
   "id": "fn11_20:027:03",
@@ -477,7 +477,7 @@
   "id": "fn11_20:028:02",
   "speaker": "朝子",
   "jp": "綺麗なだけじゃない。\n強い意志を持った\n男の子の眼ね。",
-  "en": "And not just beautiful. They're the eyes of a boy\nwith a strong will."
+  "en": "And not just beautiful. They're the\neyes of a boy with a strong will."
  },
  {
   "id": "fn11_20:028:03",
@@ -525,37 +525,37 @@
   "id": "fn11_20:030:01",
   "speaker": "朝子",
   "jp": "……私はここで\nもう少し境内の様子を\n見てから戻るわ。",
-  "en": "...I'm going to look around the shrine grounds a little\nlonger before I go back in."
+  "en": "...I'm going to look around the shrine\ngrounds a little longer before I go back in."
  },
  {
   "id": "fn11_20:030:02",
   "speaker": "朝子",
   "jp": "何となく……だけど、\nいつもより空気がピリピリ\nしてる気がするの。",
-  "en": "I can't quite say why... but the air feels tenser than\nusual."
+  "en": "I can't quite say why... but\nthe air feels tenser than usual."
  },
  {
   "id": "fn11_20:030:03",
   "speaker": "朝子",
   "jp": "何か出来る訳じゃないけど\n……気になって。",
-  "en": "It's not as if I can do anything about it, but... it\nbothers me."
+  "en": "It's not as if I can do anything\nabout it, but... it bothers me."
  },
  {
   "id": "fn11_20:030:04",
   "speaker": "朝子",
   "jp": "{px}も……\n何処かへ行くなら\n気をつけてね。",
-  "en": "{px}... if you're heading out somewhere, be careful,\nokay?"
+  "en": "{px}... if you're heading\nout somewhere, be careful, okay?"
  },
  {
   "id": "fn11_20:031:00",
   "speaker": "朝子",
   "jp": "だめね、こうして{ruby:神社|う　ち}にいると\n本当にあなたが生徒だって事\n忘れちゃうわ。",
-  "en": "Oh dear. When you're here at home with us, I really\nforget you're one of my students."
+  "en": "Oh dear. When you're here at home with\nus, I really forget you're one of my students."
  },
  {
   "id": "fn11_20:031:01",
   "speaker": "朝子",
   "jp": "まだ三学期だって\nあるんだもの。\nしっかりしなきゃね。",
-  "en": "There's still the third term ahead, after all. I need to\npull myself together."
+  "en": "There's still the third term ahead, after\nall. I need to pull myself together."
  },
  {
   "id": "fn11_20:032:00",
@@ -567,6 +567,6 @@
   "id": "fn11_20:032:01",
   "speaker": "朝子",
   "jp": "お父さんたら、\n何処まで買い物に\n行ったのかしら。",
-  "en": "Goodness, how far did Father go to do the\nshopping?"
+  "en": "Goodness, how far did Father\ngo to do the shopping?"
  }
 ]

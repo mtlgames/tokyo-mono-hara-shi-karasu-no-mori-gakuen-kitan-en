@@ -15,13 +15,13 @@
   "id": "dg05_01:000:02",
   "speaker": "義王",
   "jp": "いわゆるこれが\n宿敵ってェヤツか、オイ！！\n面白ェじゃねーか！！",
-  "en": "So this is what they call an archrival, huh!! Now\nthat's a blast!!"
+  "en": "So this is what they call an\narchrival, huh!! Now that's a blast!!"
  },
  {
   "id": "dg05_01:000:03",
   "speaker": "義王",
   "jp": "いいぜ、{px}。\nとことん{ruby:闘|や}り合おうぜ。",
-  "en": "Alright, {px}. Let's fight this out all the way."
+  "en": "Alright, {px}.\nLet's fight this out all the way."
  },
  {
   "id": "dg05_01:000:04",
@@ -45,7 +45,7 @@
   "id": "dg05_01:000:07",
   "speaker": "御霧",
   "jp": "だがまあ、勝つ事が\n不可能な相手、という\nほどではないな。",
-  "en": "Still, they're not an opponent we have no chance of\nbeating."
+  "en": "Still, they're not an opponent\nwe have no chance of beating."
  },
  {
   "id": "dg05_01:000:08",
@@ -57,7 +57,7 @@
   "id": "dg05_01:000:09",
   "speaker": "白",
   "jp": "{px}、こうなれば\n先に彼奴らの札を―――",
-  "en": "{px}, in that case, we must first take their cards--"
+  "en": "{px}, in that case,\nwe must first take their cards--"
  },
  {
   "id": "dg05_01:000:10",
@@ -69,7 +69,7 @@
   "id": "dg05_01:000:11",
   "speaker": "白",
   "jp": "{px}……。\n其方の持つ光札が、\n何かと呼応しておる……。",
-  "en": "{px}... The Bright card you hold is resonating with\nsomething..."
+  "en": "{px}... The Bright card\nyou hold is resonating with something..."
  },
  {
   "id": "dg05_01:000:12",
@@ -81,7 +81,7 @@
   "id": "dg05_01:000:13",
   "speaker": "鈴",
   "jp": "わ……はわわわわ～。\nも、ものすごい\n力の凝縮なのです～。",
-  "en": "Wah... hawawawawa! Th-that's a super huge\nconcentration of power!"
+  "en": "Wah... hawawawawa! Th-that's a\nsuper huge concentration of power!"
  },
  {
   "id": "dg05_01:000:14",
@@ -105,31 +105,31 @@
   "id": "dg05_01:000:17",
   "speaker": "白",
   "jp": "春の光札……。\n{ruby:洞|うろ}の底に眠っておったのか。",
-  "en": "The Bright card of Spring... So it lay slumbering at\nthe bottom of the Hollow."
+  "en": "The Bright card of Spring... So it lay\nslumbering at the bottom of the Hollow."
  },
  {
   "id": "dg05_01:000:18",
   "speaker": "義王",
   "jp": "きたきたきたきたァッ！！\nでっけェお宝の匂いが\nしてきやがったぜェッ！！",
-  "en": "Here it comes, here it comes, here it commmes!! I\ncan smell the big treasure now!!"
+  "en": "Here it comes, here it comes, here it\ncommmes!! I can smell the big treasure now!!"
  },
  {
   "id": "dg05_01:000:19",
   "speaker": "義王",
   "jp": "オイオイ、どうした御霧！！\nテメェの言った通りに\nなりやがったなァ、オイ！！",
-  "en": "Hey hey, how 'bout that, Migiri!! Turned out just\nlike you said, huh!!"
+  "en": "Hey hey, how 'bout that, Migiri!!\nTurned out just like you said, huh!!"
  },
  {
   "id": "dg05_01:000:20",
   "speaker": "御霧",
   "jp": "力と力のぶつかり合いが、\n更なる力を呼び起こす、か。",
-  "en": "A clash of power against power awakens a greater\npower, then."
+  "en": "A clash of power against power\nawakens a greater power, then."
  },
  {
   "id": "dg05_01:000:21",
   "speaker": "御霧",
   "jp": "……ふん。\nタイミングの良すぎる情報だ。",
-  "en": "...Hmph. That information came a little too\nconveniently."
+  "en": "...Hmph. That information\ncame a little too conveniently."
  },
  {
   "id": "dg05_01:000:22",
@@ -159,13 +159,13 @@
   "id": "dg05_01:000:26",
   "speaker": "白",
   "jp": "其方らの持つ札も\n光札の力と\n呼応しておるのじゃ。",
-  "en": "The cards you hold are resonating with the Bright\ncard's power as well."
+  "en": "The cards you hold are resonating\nwith the Bright card's power as well."
  },
  {
   "id": "dg05_01:000:27",
   "speaker": "白",
   "jp": "……それ以上近づかば、\n其方らなぞ一瞬で\n隠人と化すぞえ。",
-  "en": "...Come any closer, and you shall all become Oni in\nan instant."
+  "en": "...Come any closer, and you shall\nall become Oni in an instant."
  },
  {
   "id": "dg05_01:000:28",
@@ -177,7 +177,7 @@
   "id": "dg05_01:000:29",
   "speaker": "白",
   "jp": "ふん。\n光札を手にする資格があるは\n執行者のみ―――",
-  "en": "Hmph. Only the Executor is fit to hold a Bright\ncard--"
+  "en": "Hmph. Only the Executor is\nfit to hold a Bright card--"
  },
  {
   "id": "dg05_01:000:30",
@@ -189,7 +189,7 @@
   "id": "dg05_01:000:31",
   "speaker": "白",
   "jp": "いかん……\n情報の過負荷によって\n札の防衛機能が暴走しておる。",
-  "en": "This is bad... The information overload has sent the\ncard's defenses out of control."
+  "en": "This is bad... The information overload has\nsent the card's defenses out of control."
  },
  {
   "id": "dg05_01:000:32",

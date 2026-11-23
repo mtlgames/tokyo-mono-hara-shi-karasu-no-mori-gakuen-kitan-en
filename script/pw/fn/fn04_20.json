@@ -21,19 +21,19 @@
   "id": "fn04_20:002:01",
   "speaker": "朝子",
   "jp": "そうだ、紹介するわ。\nこちら新宿署の富樫さん。",
-  "en": "Oh, let me introduce you. This is Togashi-san from\nthe Shinjuku police station."
+  "en": "Oh, let me introduce you. This is\nTogashi-san from the Shinjuku police station."
  },
  {
   "id": "fn04_20:002:02",
   "speaker": "富樫",
   "jp": "紹介は必要ない。\nもう既に顔見知りだからな。",
-  "en": "No need for introductions. We already know each\nother."
+  "en": "No need for introductions.\nWe already know each other."
  },
  {
   "id": "fn04_20:002:03",
   "speaker": "朝子",
   "jp": "え……顔見知り？\n花さんと、って―――",
-  "en": "Huh... you know each other? You and Hana-san,\nyou mean--"
+  "en": "Huh... you know each other?\nYou and Hana-san, you mean--"
  },
  {
   "id": "fn04_20:003:00",
@@ -51,13 +51,13 @@
   "id": "fn04_20:004:00",
   "speaker": "朝子",
   "jp": "{px}ったら。\n真剣に訊いてるのよ？",
-  "en": "Honestly, {px}. I'm asking you seriously, you know."
+  "en": "Honestly, {px}. I'm\nasking you seriously, you know."
  },
  {
   "id": "fn04_20:004:01",
   "speaker": "朝子",
   "jp": "あなたはいつも\nそんな調子ですぐ\nはぐらかして……。",
-  "en": "You always act like that and dodge the question\nright away..."
+  "en": "You always act like that and\ndodge the question right away..."
  },
  {
   "id": "fn04_20:005:00",
@@ -75,7 +75,7 @@
   "id": "fn04_20:005:02",
   "speaker": "朝子",
   "jp": "そんな目に遭ったのなら、\nどうして教えてくれないの？",
-  "en": "If something like that happened to you, why didn't\nyou tell me?"
+  "en": "If something like that happened\nto you, why didn't you tell me?"
  },
  {
   "id": "fn04_20:006:00",
@@ -153,19 +153,19 @@
   "id": "fn04_20:013:00",
   "speaker": "富樫",
   "jp": "{px}とは、巡回中に\n話をした事があるだけだ。",
-  "en": "{px} and I have only talked once while I was on\npatrol."
+  "en": "{px} and I have only\ntalked once while I was on patrol."
  },
  {
   "id": "fn04_20:013:01",
   "speaker": "富樫",
   "jp": "私が知る限りでは、\nお前が取り乱すような事は\n何もない。",
-  "en": "As far as I know, there's nothing for you to get\nworked up about."
+  "en": "As far as I know, there's nothing\nfor you to get worked up about."
  },
  {
   "id": "fn04_20:013:02",
   "speaker": "富樫",
   "jp": "……それより、\n人前で名前を呼ぶのはよせ。",
-  "en": "...More importantly, stop calling me by my name in\npublic."
+  "en": "...More importantly, stop calling\nme by my name in public."
  },
  {
   "id": "fn04_20:013:03",
@@ -177,7 +177,7 @@
   "id": "fn04_20:013:04",
   "speaker": "朝子",
   "jp": "でも良かったわ。\n{px}に大事がなくて。",
-  "en": "Still, I'm glad. Nothing serious happened to {px}."
+  "en": "Still, I'm glad. Nothing serious\nhappened to {px}."
  },
  {
   "id": "fn04_20:013:05",
@@ -195,13 +195,13 @@
   "id": "fn04_20:013:07",
   "speaker": "朝子",
   "jp": "もっとあなたが\n安心して相談出来るように\nしっかりするから。",
-  "en": "I'll get my act together so you can feel safe coming\nto me."
+  "en": "I'll get my act together so you\ncan feel safe coming to me."
  },
  {
   "id": "fn04_20:013:08",
   "speaker": "朝子",
   "jp": "だから……本当に\n何かあったときは\nちゃんと相談してね。",
-  "en": "So... if something really does happen, make sure you\ntalk to me, okay?"
+  "en": "So... if something really does happen,\nmake sure you talk to me, okay?"
  },
  {
   "id": "fn04_20:014:00",
@@ -213,6 +213,6 @@
   "id": "fn04_20:014:01",
   "speaker": "朝子",
   "jp": "やっぱり、まずは\n寝起きから\n改善すべきよね……。",
-  "en": "I suppose the first thing to fix is how you get up in\nthe morning..."
+  "en": "I suppose the first thing to fix is\nhow you get up in the morning..."
  }
 ]

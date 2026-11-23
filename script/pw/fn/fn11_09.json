@@ -3,13 +3,13 @@
   "id": "fn11_09:001:00",
   "speaker": "御霧",
   "jp": "……こんなところに\n一人で来てる場合なのか？",
-  "en": "...Should you really be coming to a place like this\nalone?"
+  "en": "...Should you really be coming\nto a place like this alone?"
  },
  {
   "id": "fn11_09:001:01",
   "speaker": "御霧",
   "jp": "毎年{ruby:この日|・・・}は\n女共が五月蝿いだろ。\n人気者は辛いな？",
-  "en": "Every year on THIS day, the girls make a racket,\nright? Must be tough being popular."
+  "en": "Every year on THIS day, the girls make a\nracket, right? Must be tough being popular."
  },
  {
   "id": "fn11_09:002:00",
@@ -51,13 +51,13 @@
   "id": "fn11_09:006:00",
   "speaker": "御霧",
   "jp": "ほう、意外だな。\n愛想を振りまきまくってる\nお前の事だ。",
-  "en": "Hoh, that's a surprise. You, of all people, the one\nwho flashes that charm at everyone."
+  "en": "Hoh, that's a surprise. You, of all people, the\none who flashes that charm at everyone."
  },
  {
   "id": "fn11_09:006:01",
   "speaker": "御霧",
   "jp": "さぞかし引っ張りだこと\n思ったんだが。俺の情報網も\nまだまだ甘い……。",
-  "en": "I figured you'd be in high demand. Seems my\ninformation network still has holes..."
+  "en": "I figured you'd be in high demand. Seems\nmy information network still has holes..."
  },
  {
   "id": "fn11_09:007:00",
@@ -69,7 +69,7 @@
   "id": "fn11_09:007:01",
   "speaker": "御霧",
   "jp": "賢明な時間の使い方を\n心得ているようで\n安心した。",
-  "en": "Good to know you understand how to spend your\ntime wisely."
+  "en": "Good to know you understand\nhow to spend your time wisely."
  },
  {
   "id": "fn11_09:008:00",
@@ -81,13 +81,13 @@
   "id": "fn11_09:008:01",
   "speaker": "御霧",
   "jp": "お前の人望とやらも\nその程度だったというだけの\n事だろうが。",
-  "en": "All it means is that this so-called popularity of\nyours only goes that far."
+  "en": "All it means is that this so-called\npopularity of yours only goes that far."
  },
  {
   "id": "fn11_09:009:00",
   "speaker": "御霧",
   "jp": "……お前の人望もその程度\nって事だろう？",
-  "en": "...It just means your popularity only goes that far,\ndoesn't it?"
+  "en": "...It just means your popularity\nonly goes that far, doesn't it?"
  },
  {
   "id": "fn11_09:009:01",
@@ -135,7 +135,7 @@
   "id": "fn11_09:012:03",
   "speaker": "御霧",
   "jp": "くそッ……。\nお前の言動に今更\nいちいち取り乱すとはな。",
-  "en": "Damn it... To think I'd still get flustered by every\nlittle thing you say."
+  "en": "Damn it... To think I'd still get\nflustered by every little thing you say."
  },
  {
   "id": "fn11_09:013:00",
@@ -153,7 +153,7 @@
   "id": "fn11_09:015:00",
   "speaker": "御霧",
   "jp": "……良い機会だ。\nお前に少し話がある。",
-  "en": "...This is a good opportunity. There's something I\nwant to talk to you about."
+  "en": "...This is a good opportunity. There's\nsomething I want to talk to you about."
  },
  {
   "id": "fn11_09:015:01",
@@ -165,19 +165,19 @@
   "id": "fn11_09:015:02",
   "speaker": "御霧",
   "jp": "お前の力は、義王とは違う。\nねじ伏せるだけでは終わらない\nその力……。",
-  "en": "Your power is different from Gio's. A power that\ndoesn't end at just crushing things..."
+  "en": "Your power is different from Gio's. A power\nthat doesn't end at just crushing things..."
  },
  {
   "id": "fn11_09:015:03",
   "speaker": "御霧",
   "jp": "何もかもを巻き込む、無限の\n可能性をお前は持っている。",
-  "en": "You have the infinite potential to draw everything\nin."
+  "en": "You have the infinite potential\nto draw everything in."
  },
  {
   "id": "fn11_09:015:04",
   "speaker": "御霧",
   "jp": "……そこに、俺の情報力、\nネットワークが加われば\n無敵だと思わないか。",
-  "en": "...Add my information and my network to that, and\ndon't you think we'd be invincible?"
+  "en": "...Add my information and my network to\nthat, and don't you think we'd be invincible?"
  },
  {
   "id": "fn11_09:015:05",
@@ -189,7 +189,7 @@
   "id": "fn11_09:015:06",
   "speaker": "御霧",
   "jp": "お前と俺が組めば、\n世界が取れる。\n……俺は本気だぞ。",
-  "en": "If you and I team up, we could take the world. ...I'm\nserious."
+  "en": "If you and I team up, we could\ntake the world. ...I'm serious."
  },
  {
   "id": "fn11_09:016:00",
@@ -291,7 +291,7 @@
   "id": "fn11_09:023:00",
   "speaker": "御霧",
   "jp": "悩むと言う事は、\nその程度という事だな。",
-  "en": "If you have to think about it, that's all it's worth to\nyou."
+  "en": "If you have to think about\nit, that's all it's worth to you."
  },
  {
   "id": "fn11_09:024:00",
@@ -309,19 +309,19 @@
   "id": "fn11_09:025:00",
   "speaker": "御霧",
   "jp": "俺はお前の可能性を\n信じている。そして同時に\n……俺自身の可能性も。",
-  "en": "I believe in your potential. And at the same time... in\nmy own."
+  "en": "I believe in your potential. And\nat the same time... in my own."
  },
  {
   "id": "fn11_09:025:01",
   "speaker": "御霧",
   "jp": "{px}。\n俺と組む事でお前は更に\n高みへと昇るだろう。",
-  "en": "{px}. By teaming up with me, you'd rise even higher."
+  "en": "{px}. By teaming up\nwith me, you'd rise even higher."
  },
  {
   "id": "fn11_09:025:02",
   "speaker": "御霧",
   "jp": "それがわかった時、\n今度はお前の方から同じ提案を\nしてくるだろうよ。",
-  "en": "Once you realize that, you'll be the one coming to\nme with the same offer."
+  "en": "Once you realize that, you'll be the\none coming to me with the same offer."
  },
  {
   "id": "fn11_09:025:03",
@@ -351,13 +351,13 @@
   "id": "fn11_09:027:00",
   "speaker": "御霧",
   "jp": "いまはまだ、\n互いの立場ってもんがある。",
-  "en": "For now, we each still have our own positions to\nconsider."
+  "en": "For now, we each still have\nour own positions to consider."
  },
  {
   "id": "fn11_09:027:01",
   "speaker": "御霧",
   "jp": "それが全て終わったとき……\n楽しみにしてるぜ、\n{px}。",
-  "en": "When all of this is over... I'll be looking forward to it,\n{px}."
+  "en": "When all of this is over... I'll be looking\nforward to it, {px}."
  },
  {
   "id": "fn11_09:028:00",
@@ -369,7 +369,7 @@
   "id": "fn11_09:028:01",
   "speaker": "御霧",
   "jp": "{ruby:こんな日|・・・・}に契約成立、か。\nよくよく俺にとって\n縁のある日らしい。",
-  "en": "A deal sealed on THIS day, of all days. Seems it\nreally is a day with ties to me."
+  "en": "A deal sealed on THIS day, of all days.\nSeems it really is a day with ties to me."
  },
  {
   "id": "fn11_09:028:02",
@@ -399,19 +399,19 @@
   "id": "fn11_09:031:01",
   "speaker": "御霧",
   "jp": "……そうだな。サンタが\n何を持ってくるかは知らんが、\n俺からはこれをやるよ。",
-  "en": "...Well. I don't know what Santa will bring you, but\nhere's something from me."
+  "en": "...Well. I don't know what Santa will\nbring you, but here's something from me."
  },
  {
   "id": "fn11_09:031:02",
   "speaker": "御霧",
   "jp": "団員にせがまれたんだ。\nこのクソ寒いのに\n薄着の馬鹿ばかりでな。",
-  "en": "The Bandits pestered me for these. The idiots all go\naround in thin clothes in this damn cold."
+  "en": "The Bandits pestered me for these. The idiots\nall go around in thin clothes in this damn cold."
  },
  {
   "id": "fn11_09:031:03",
   "speaker": "御霧",
   "jp": "まったく、何でか俺は\nいつでもこういう立ち回りだ。",
-  "en": "Honestly, somehow I always end up playing this\nrole."
+  "en": "Honestly, somehow I always\nend up playing this role."
  },
  {
   "id": "fn11_09:032:00",
@@ -441,7 +441,7 @@
   "id": "fn11_09:032:04",
   "speaker": "御霧",
   "jp": "絶対的な力。そして情報。\nそれがなければ、\n{ruby:搾取|さくしゅ}されるだけだ。",
-  "en": "Absolute power. And information. Without those, you\njust get exploited."
+  "en": "Absolute power. And information.\nWithout those, you just get exploited."
  },
  {
   "id": "fn11_09:032:05",
@@ -453,7 +453,7 @@
   "id": "fn11_09:032:06",
   "speaker": "御霧",
   "jp": "母親と二人、\nチキンとケーキを前に\nいつまでも待っていた。",
-  "en": "My mother and I sat in front of the chicken and the\ncake, waiting for ages."
+  "en": "My mother and I sat in front of the\nchicken and the cake, waiting for ages."
  },
  {
   "id": "fn11_09:032:07",
@@ -465,7 +465,7 @@
   "id": "fn11_09:032:08",
   "speaker": "御霧",
   "jp": "サンタが俺に最後にくれたのは\n犯罪者の息子という烙印だ。",
-  "en": "The last thing Santa ever gave me was the brand of\na criminal's son."
+  "en": "The last thing Santa ever gave me\nwas the brand of a criminal's son."
  },
  {
   "id": "fn11_09:032:09",
@@ -489,7 +489,7 @@
   "id": "fn11_09:033:01",
   "speaker": "御霧",
   "jp": "そんな目で、見るな。\n……お前といると\n調子が狂う。",
-  "en": "Don't look at me like that. ...Being around you\nthrows me off."
+  "en": "Don't look at me like that. ...Being\naround you throws me off."
  },
  {
   "id": "fn11_09:033:02",
@@ -501,7 +501,7 @@
   "id": "fn11_09:034:00",
   "speaker": "御霧",
   "jp": "ああ、それでいい。\n所詮、他人にとっちゃ\n笑い話もいいところだ。",
-  "en": "Yeah, that's fine. To anyone else, it's nothing but a\njoke anyway."
+  "en": "Yeah, that's fine. To anyone else,\nit's nothing but a joke anyway."
  },
  {
   "id": "fn11_09:034:01",
@@ -543,7 +543,7 @@
   "id": "fn11_09:037:01",
   "speaker": "御霧",
   "jp": "そんな目で、見るな。\n……お前といると\n調子が狂う。",
-  "en": "Don't look at me like that. ...Being around you\nthrows me off."
+  "en": "Don't look at me like that. ...Being\naround you throws me off."
  },
  {
   "id": "fn11_09:037:02",
@@ -573,7 +573,7 @@
   "id": "fn11_09:039:01",
   "speaker": "御霧",
   "jp": "そんな目で、見るな。\n……お前といると\n調子が狂う。",
-  "en": "Don't look at me like that. ...Being around you\nthrows me off."
+  "en": "Don't look at me like that. ...Being\naround you throws me off."
  },
  {
   "id": "fn11_09:039:02",
@@ -603,37 +603,37 @@
   "id": "fn11_09:042:00",
   "speaker": "御霧",
   "jp": "さっきの件だが、いまはまだ\n互いの立場ってもんがある。",
-  "en": "About what I said earlier: for now, we each still\nhave our own positions to consider."
+  "en": "About what I said earlier: for now, we each\nstill have our own positions to consider."
  },
  {
   "id": "fn11_09:042:01",
   "speaker": "御霧",
   "jp": "それが全て終わったとき……\n楽しみにしてるぜ、\n{px}。",
-  "en": "When all of this is over... I'll be looking forward to it,\n{px}."
+  "en": "When all of this is over... I'll be looking\nforward to it, {px}."
  },
  {
   "id": "fn11_09:043:00",
   "speaker": "御霧",
   "jp": "……親父は官公庁に出入りの\nシステム屋だった。",
-  "en": "...My old man was a systems guy who did work for\ngovernment offices."
+  "en": "...My old man was a systems guy\nwho did work for government offices."
  },
  {
   "id": "fn11_09:043:01",
   "speaker": "御霧",
   "jp": "それがある時、大金絡みの不正\nに関わったとかで、\nあっという間のブタ箱行きだ。",
-  "en": "Then one day, they said he was involved in some\nfraud with big money behind it, and in no time he\nwas thrown in the slammer."
+  "en": "Then one day, they said he was involved in\nsome fraud with big money behind it, and\nin no time he was thrown in the slammer."
  },
  {
   "id": "fn11_09:043:02",
   "speaker": "御霧",
   "jp": "あの時の地検と裁判所の動きの\n早さと言ったら異常だった。",
-  "en": "The speed of the prosecutors and the courts back\nthen was just abnormal."
+  "en": "The speed of the prosecutors and the\ncourts back then was just abnormal."
  },
  {
   "id": "fn11_09:043:03",
   "speaker": "御霧",
   "jp": "まるで初めから\n{ruby:全て筋書き通り|・・・・・・・}みたいにな。",
-  "en": "As if everything had gone exactly according to a\nscript from the start."
+  "en": "As if everything had gone exactly\naccording to a script from the start."
  },
  {
   "id": "fn11_09:043:04",
@@ -645,25 +645,25 @@
   "id": "fn11_09:043:05",
   "speaker": "御霧",
   "jp": "俺は親父のようにはならない。\nそう決めて{ruby:寇聖|こうせい}に\n入ったはずだった。",
-  "en": "I won't end up like my old man. I made up my\nmind about that when I entered Kosei."
+  "en": "I won't end up like my old man. I made up\nmy mind about that when I entered Kosei."
  },
  {
   "id": "fn11_09:043:06",
   "speaker": "御霧",
   "jp": "……だが結局は俺も\n取引相手だったはずの筑紫に\nいい様に利用されただけだ。",
-  "en": "...But in the end, I just got used by Chikushi, who\nwas supposed to be my business partner."
+  "en": "...But in the end, I just got used by Chikushi,\nwho was supposed to be my business partner."
  },
  {
   "id": "fn11_09:043:07",
   "speaker": "御霧",
   "jp": "まあ―――お陰でお前のような\n逸材と巡り会えたんだ。\n感謝すべきかもな。",
-  "en": "Well-- Thanks to that, I met someone as talented as\nyou. Maybe I should be grateful."
+  "en": "Well-- Thanks to that, I met someone as\ntalented as you. Maybe I should be grateful."
  },
  {
   "id": "fn11_09:043:08",
   "speaker": "御霧",
   "jp": "……勘違いするなよ。\nいまのは最低限の事情説明だ。",
-  "en": "...Don't get the wrong idea. That was just the bare\nminimum of background."
+  "en": "...Don't get the wrong idea. That was\njust the bare minimum of background."
  },
  {
   "id": "fn11_09:043:09",
@@ -699,7 +699,7 @@
   "id": "fn11_09:045:00",
   "speaker": "御霧",
   "jp": "……まだ何か用があるのか？\nよくよく暇らしいな。",
-  "en": "...You still want something? You must have a lot of\nfree time."
+  "en": "...You still want something? You\nmust have a lot of free time."
  },
  {
   "id": "fn11_09:ksf:06cbf",

@@ -3,37 +3,37 @@
   "id": "fn13_15:001:00",
   "speaker": "輪",
   "jp": "あ、来た来た！\nやっぱりここで\n会えると思ってたんだ！",
-  "en": "Oh, there you are! I just knew I'd run into you\nhere!"
+  "en": "Oh, there you are! I just\nknew I'd run into you here!"
  },
  {
   "id": "fn13_15:001:01",
   "speaker": "輪",
   "jp": "忍術を使って、\n{ruby:幸徳路|こうとくじ}先輩の手伝い\nしてたとこなんだ。",
-  "en": "I was using my ninjutsu to help out\nKotokuji-senpai."
+  "en": "I was using my ninjutsu to\nhelp out Kotokuji-senpai."
  },
  {
   "id": "fn13_15:001:02",
   "speaker": "輪",
   "jp": "{ruby:旋火流|せんかりゅう}忍として花札のために\n活躍しないと格好悪いだろ？",
-  "en": "As a Senka-ryu ninja, it'd look lame if I didn't do\nmy part for the hanafuda, right?"
+  "en": "As a Senka-ryu ninja, it'd look lame if I\ndidn't do my part for the hanafuda, right?"
  },
  {
   "id": "fn13_15:001:03",
   "speaker": "輪",
   "jp": "それに、寝こんだじいちゃんに\nブユウデンを聞かせなきゃ\nいけないからなッ！",
-  "en": "Plus, I gotta tell Grandpa all about my heroic\nexploits while he's laid up in bed!"
+  "en": "Plus, I gotta tell Grandpa all about my\nheroic exploits while he's laid up in bed!"
  },
  {
   "id": "fn13_15:001:04",
   "speaker": "輪",
   "jp": "じいちゃん、すっかり\n{px}ファンだからさ。\n話をよく聞きたがるんだ。",
-  "en": "Grandpa's a total {px} fan now, see. He always wants\nto hear all about you."
+  "en": "Grandpa's a total {px} fan now,\nsee. He always wants to hear all about you."
  },
  {
   "id": "fn13_15:002:00",
   "speaker": "輪",
   "jp": "なあ、{px}。\nそのうちさ……\nじいちゃんと会ってくれよ。",
-  "en": "Hey, {px}. Sometime soon... come meet my grandpa,\nokay?"
+  "en": "Hey, {px}. Sometime\nsoon... come meet my grandpa, okay?"
  },
  {
   "id": "fn13_15:003:00",
@@ -57,7 +57,7 @@
   "id": "fn13_15:004:00",
   "speaker": "輪",
   "jp": "えへへ！\nじいちゃん、それ聞いたら\n張り切るぞッ！",
-  "en": "Ehehe! Grandpa's gonna be so pumped when he\nhears that!"
+  "en": "Ehehe! Grandpa's gonna be so\npumped when he hears that!"
  },
  {
   "id": "fn13_15:004:01",
@@ -69,7 +69,7 @@
   "id": "fn13_15:005:00",
   "speaker": "輪",
   "jp": "うわあ、楽しみだなぁ！\n早くじいちゃん、退院出来れば\nいいのにな！",
-  "en": "Wow, I can't wait! I wish Grandpa could hurry up\nand get discharged!"
+  "en": "Wow, I can't wait! I wish Grandpa\ncould hurry up and get discharged!"
  },
  {
   "id": "fn13_15:006:00",
@@ -93,7 +93,7 @@
   "id": "fn13_15:007:02",
   "speaker": "輪",
   "jp": "……しょうがないから\n絢人でも連れて行こうかな。",
-  "en": "...Guess I've got no choice. Maybe I'll just bring\nAyahito instead."
+  "en": "...Guess I've got no choice. Maybe\nI'll just bring Ayahito instead."
  },
  {
   "id": "fn13_15:007:03",
@@ -129,7 +129,7 @@
   "id": "fn13_15:009:01",
   "speaker": "輪",
   "jp": "じいちゃんが元気になったら、\n会いに行くかもだけどな！",
-  "en": "Though once Grandpa's better, he might come to see\nyou himself!"
+  "en": "Though once Grandpa's better, he\nmight come to see you himself!"
  },
  {
   "id": "fn13_15:010:00",
@@ -141,13 +141,13 @@
   "id": "fn13_15:010:01",
   "speaker": "輪",
   "jp": "ムリジイはしない。\nじいちゃん、残念だろうけど。",
-  "en": "I won't, um, forcify you. Grandpa'll be bummed,\nthough."
+  "en": "I won't, um, forcify you.\nGrandpa'll be bummed, though."
  },
  {
   "id": "fn13_15:011:00",
   "speaker": "輪",
   "jp": "返事はすぐじゃなくていい。\n後ででいいから\n聞かせてくれよ。な！",
-  "en": "You don't have to answer right away. Just tell me\nlater, okay? Promise!"
+  "en": "You don't have to answer right away.\nJust tell me later, okay? Promise!"
  },
  {
   "id": "fn13_15:012:00",
@@ -165,12 +165,12 @@
   "id": "fn13_15:013:00",
   "speaker": "輪",
   "jp": "こんな時こそ、\n忍犬の出番なんだけどなあ。",
-  "en": "Times like this are exactly when a ninja dog should\nstep in..."
+  "en": "Times like this are exactly when\na ninja dog should step in..."
  },
  {
   "id": "fn13_15:013:01",
   "speaker": "輪",
   "jp": "カナエさん、\nマスターがいなきゃ\n外に出てくれないんだよ……。",
-  "en": "But Kanae-san won't go outside unless the Master's\naround..."
+  "en": "But Kanae-san won't go outside\nunless the Master's around..."
  }
 ]

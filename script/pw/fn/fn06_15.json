@@ -3,7 +3,7 @@
   "id": "fn06_15:001:00",
   "speaker": "輪",
   "jp": "へへ～、さっきお風呂で\n閃いたんだ。新しい忍法！",
-  "en": "Hehe~ I came up with it in the bath just now. A\nnew ninja art!"
+  "en": "Hehe~ I came up with it in the\nbath just now. A new ninja art!"
  },
  {
   "id": "fn06_15:001:01",
@@ -15,7 +15,7 @@
   "id": "fn06_15:001:02",
   "speaker": "輪",
   "jp": "なあ、{px}。\n音が出るもの、持ってないか？",
-  "en": "Hey, {px}. Got anything that makes a sound?"
+  "en": "Hey, {px}. Got\nanything that makes a sound?"
  },
  {
   "id": "fn06_15:001:03",
@@ -33,7 +33,7 @@
   "id": "fn06_15:002:01",
   "speaker": "輪",
   "jp": "{px}、\n持って来てくれたか？\n音の出るもの！",
-  "en": "{px}, did you bring it? Somethin' that makes a\nsound!"
+  "en": "{px}, did you bring\nit? Somethin' that makes a sound!"
  },
  {
   "id": "fn06_15:004:00",
@@ -45,7 +45,7 @@
   "id": "fn06_15:004:01",
   "speaker": "輪",
   "jp": "そう、忍術史上に残るであろう\n必殺の忍法{ruby:大散華|ビックバン}！！",
-  "en": "Yep, the ultimate ninja art sure to go down in ninja\nhistory: the Big Bang!!"
+  "en": "Yep, the ultimate ninja art sure to go\ndown in ninja history: the Big Bang!!"
  },
  {
   "id": "fn06_15:004:02",
@@ -57,7 +57,7 @@
   "id": "fn06_15:004:03",
   "speaker": "輪",
   "jp": "御守り代わりにじいちゃんが\n作ってくれたんだ。",
-  "en": "My grandpa made these for me as good-luck\ncharms."
+  "en": "My grandpa made these for\nme as good-luck charms."
  },
  {
   "id": "fn06_15:004:04",
@@ -69,7 +69,7 @@
   "id": "fn06_15:004:05",
   "speaker": "輪",
   "jp": "よぉ～しっ、{px}！\nボクのチリザマ見ててくれッ！",
-  "en": "Allll right, {px}! Watch me go out with a bang!"
+  "en": "Allll right, {px}!\nWatch me go out with a bang!"
  },
  {
   "id": "fn06_15:004:06",
@@ -105,13 +105,13 @@
   "id": "fn06_15:008:00",
   "speaker": "輪",
   "jp": "まず、{ruby:大散華|ビックバン}に必要なのは\n敵の目を眩ます{ruby:初速度|トップスピード}！！",
-  "en": "First off, what the Big Bang needs is top speed to\ndazzle the enemy's eyes!!"
+  "en": "First off, what the Big Bang needs is\ntop speed to dazzle the enemy's eyes!!"
  },
  {
   "id": "fn06_15:008:01",
   "speaker": "輪",
   "jp": "{ruby:標的|ターゲット}は……野良猫！！\nあの警戒をかいくぐって、\n見事だっこしてみせる！",
-  "en": "The target is... a stray cat!! I'll slip right past its\nguard and scoop it up!"
+  "en": "The target is... a stray cat!! I'll slip\nright past its guard and scoop it up!"
  },
  {
   "id": "fn06_15:008:02",
@@ -129,7 +129,7 @@
   "id": "fn06_15:009:01",
   "speaker": "輪",
   "jp": "よーッし、見てろよ野良猫！\nまずはお前をだっこしてやる！",
-  "en": "Allll right, you just watch, stray cat! First I'm gonna\nscoop you up!"
+  "en": "Allll right, you just watch, stray\ncat! First I'm gonna scoop you up!"
  },
  {
   "id": "fn06_15:ksf:0121f",

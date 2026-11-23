@@ -9,31 +9,31 @@
   "id": "fn01_26:001:01",
   "speaker": "隻眼の老人",
   "jp": "この店にはどうしてか……\n色んな事情を抱えた\n連中が、集まる。",
-  "en": "For some reason, this shop draws... people carrying\nall sorts of troubles."
+  "en": "For some reason, this shop draws...\npeople carrying all sorts of troubles."
  },
  {
   "id": "fn01_26:001:02",
   "speaker": "隻眼の老人",
   "jp": "妙な目的を持つ者、\n助けを必要としている者、\n謎を追う者……色々だ。",
-  "en": "Those with strange aims, those in need of help,\nthose chasing mysteries... all kinds."
+  "en": "Those with strange aims, those in need of\nhelp, those chasing mysteries... all kinds."
  },
  {
   "id": "fn01_26:001:03",
   "speaker": "隻眼の老人",
   "jp": "もしお前が{ruby:その力|・・・}で\n彼らの望みを叶える事が\n出来るというのなら―――",
-  "en": "If that power of yours can grant what they wish\nfor--"
+  "en": "If that power of yours can\ngrant what they wish for--"
  },
  {
   "id": "fn01_26:001:04",
   "speaker": "隻眼の老人",
   "jp": "俺が仲介役となって\nお前に仕事を紹介しよう。",
-  "en": "then I'll act as the go-between and put work your\nway."
+  "en": "then I'll act as the go-between\nand put work your way."
  },
  {
   "id": "fn01_26:001:05",
   "speaker": "隻眼の老人",
   "jp": "いくらか手数料をもらうが、\n彼らからの依頼を達成すれば\n内容に応じて報酬を支払う。",
-  "en": "I take a bit of a fee, but finish their quests and\nyou'll be paid according to the job."
+  "en": "I take a bit of a fee, but finish their quests\nand you'll be paid according to the job."
  },
  {
   "id": "fn01_26:002:00",
@@ -63,19 +63,19 @@
   "id": "fn01_26:004:01",
   "speaker": "隻眼の老人",
   "jp": "人の想いを預かる仕事だ。\nいい加減な事は、するなよ。",
-  "en": "This work means holding people's hopes in trust.\nDon't do it halfway."
+  "en": "This work means holding people's\nhopes in trust. Don't do it halfway."
  },
  {
   "id": "fn01_26:005:00",
   "speaker": "隻眼の老人",
   "jp": "若い、な……。\n血気に{ruby:逸|はや}るばかりでは、\n真実を見誤る。",
-  "en": "Young, aren't you... Rush ahead on hot blood alone,\nand you'll misread the truth."
+  "en": "Young, aren't you... Rush ahead on hot\nblood alone, and you'll misread the truth."
  },
  {
   "id": "fn01_26:005:01",
   "speaker": "隻眼の老人",
   "jp": "だが……妙な依頼も、多い。\n向いているかもしれんな。",
-  "en": "Still... there are plenty of strange requests. You might\nbe suited to it."
+  "en": "Still... there are plenty of strange\nrequests. You might be suited to it."
  },
  {
   "id": "fn01_26:006:00",
@@ -93,7 +93,7 @@
   "id": "fn01_26:007:01",
   "speaker": "隻眼の老人",
   "jp": "人助けをする事で、\nお前自身の経験にもなり\n金も入る……。",
-  "en": "By helping people, you gain experience of your own,\nand you earn money..."
+  "en": "By helping people, you gain experience\nof your own, and you earn money..."
  },
  {
   "id": "fn01_26:007:02",
@@ -111,7 +111,7 @@
   "id": "fn01_26:009:00",
   "speaker": "隻眼の老人",
   "jp": "……心配せずとも\n初めから無理難題を\n押しつけたりは、しない。",
-  "en": "...No need to worry. I won't push anything impossible\non you from the start."
+  "en": "...No need to worry. I won't push anything\nimpossible on you from the start."
  },
  {
   "id": "fn01_26:009:01",
@@ -123,13 +123,13 @@
   "id": "fn01_26:010:00",
   "speaker": "隻眼の老人",
   "jp": "難しく考える事はない。\nようは、人助けだ。",
-  "en": "No need to overthink it. Simply put, it's helping\npeople."
+  "en": "No need to overthink it.\nSimply put, it's helping people."
  },
  {
   "id": "fn01_26:010:01",
   "speaker": "隻眼の老人",
   "jp": "その上、\nお前自身の経験にもなり\n金も入る……。",
-  "en": "On top of that, you gain experience of your own,\nand you earn money..."
+  "en": "On top of that, you gain experience\nof your own, and you earn money..."
  },
  {
   "id": "fn01_26:010:02",
@@ -141,13 +141,13 @@
   "id": "fn01_26:011:00",
   "speaker": "隻眼の老人",
   "jp": "無理にとは言わん。\n誰にでも出来る仕事では\nないから、な。",
-  "en": "I won't force you. It's not work just anyone can do,\nafter all."
+  "en": "I won't force you. It's not work\njust anyone can do, after all."
  },
  {
   "id": "fn01_26:012:00",
   "speaker": "隻眼の老人",
   "jp": "……ここに、いま預かっている\n依頼のリストがある。\n気になるなら見ていくといい。",
-  "en": "...Here's the list of quests I'm holding right now. Take\na look if you're curious."
+  "en": "...Here's the list of quests I'm holding\nright now. Take a look if you're curious."
  },
  {
   "id": "fn01_26:013:00",

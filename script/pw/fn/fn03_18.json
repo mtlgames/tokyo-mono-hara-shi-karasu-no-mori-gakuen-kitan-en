@@ -3,19 +3,19 @@
   "id": "fn03_18:001:00",
   "speaker": "鍵",
   "jp": "お帰んなさい、坊。\n仔犬ちゃんなら\n留守にしてますよ。",
-  "en": "Welcome back, young master. If you're after the pup,\nI'm afraid she's out."
+  "en": "Welcome back, young master. If you're\nafter the pup, I'm afraid she's out."
  },
  {
   "id": "fn03_18:001:01",
   "speaker": "鍵",
   "jp": "白札殿に連れ回されてる\n最中です。",
-  "en": "The honorable White Card's in the middle of\ndragging her all over town."
+  "en": "The honorable White Card's in the\nmiddle of dragging her all over town."
  },
  {
   "id": "fn03_18:001:02",
   "speaker": "鍵",
   "jp": "この辺はあのお方が\n以前目覚めた時からうんと\n時間が経ってますしね。",
-  "en": "It's been a good long while since that one last woke\nin these parts, after all."
+  "en": "It's been a good long while since that\none last woke in these parts, after all."
  },
  {
   "id": "fn03_18:001:03",
@@ -27,7 +27,7 @@
   "id": "fn03_18:001:04",
   "speaker": "鍵",
   "jp": "で、あれに見えるお嬢は\n私らのお掃除の真っ最中です。",
-  "en": "And the young miss you see over yonder is right in\nthe middle of cleaning the likes of us."
+  "en": "And the young miss you see over yonder is\nright in the middle of cleaning the likes of us."
  },
  {
   "id": "fn03_18:001:05",
@@ -39,31 +39,31 @@
   "id": "fn03_18:001:06",
   "speaker": "鍵",
   "jp": "この世に物質としてある以上\n汚れは溜まりますし\n壊れもするでしょう。",
-  "en": "So long as a thing exists as matter in this world,\ndirt'll pile up on it, and it'll break, too."
+  "en": "So long as a thing exists as matter in this\nworld, dirt'll pile up on it, and it'll break, too."
  },
  {
   "id": "fn03_18:001:07",
   "speaker": "鍵",
   "jp": "{ruby:穢|けが}れはたしかに神域じゃあ\n御法度とされてるようですが",
-  "en": "True, they do say impurity's strictly forbidden in\nsacred ground,"
+  "en": "True, they do say impurity's\nstrictly forbidden in sacred ground,"
  },
  {
   "id": "fn03_18:001:08",
   "speaker": "鍵",
   "jp": "私は大して\n気にした事がありやせん。",
-  "en": "but I've never much minded it myself, if you'll\npermit me."
+  "en": "but I've never much minded\nit myself, if you'll permit me."
  },
  {
   "id": "fn03_18:001:09",
   "speaker": "鍵",
   "jp": "問題の本質は\nそういうところじゃあ\nないんでね。",
-  "en": "The heart of the matter lies somewhere else entirely,\nyou see."
+  "en": "The heart of the matter lies\nsomewhere else entirely, you see."
  },
  {
   "id": "fn03_18:002:00",
   "speaker": "鍵",
   "jp": "どうです？坊は\n掃除がお好きですかい？",
-  "en": "What say you? Are you fond of cleaning, young\nmaster?"
+  "en": "What say you? Are you fond\nof cleaning, young master?"
  },
  {
   "id": "fn03_18:003:00",
@@ -75,7 +75,7 @@
   "id": "fn03_18:003:01",
   "speaker": "鍵",
   "jp": "並々ならぬお心だ。\n坊は出世しやすよ、きっと。",
-  "en": "Quite the uncommon spirit. You'll rise high in the\nworld, young master, mark my words."
+  "en": "Quite the uncommon spirit. You'll rise high\nin the world, young master, mark my words."
  },
  {
   "id": "fn03_18:004:00",
@@ -93,13 +93,13 @@
   "id": "fn03_18:005:00",
   "speaker": "鍵",
   "jp": "ほォ、散らかってる場所を\nみると我慢のならない{ruby:性質|たち}で？",
-  "en": "Oho, so you're the sort who can't abide the sight of\na messy room?"
+  "en": "Oho, so you're the sort who can't\nabide the sight of a messy room?"
  },
  {
   "id": "fn03_18:005:01",
   "speaker": "鍵",
   "jp": "並々ならぬお心だ。\n坊は出世するでしょうね、\nきっと。",
-  "en": "Quite the uncommon spirit. You'll rise high in the\nworld, young master, I'm sure of it."
+  "en": "Quite the uncommon spirit. You'll rise high\nin the world, young master, I'm sure of it."
  },
  {
   "id": "fn03_18:006:00",
@@ -111,7 +111,7 @@
   "id": "fn03_18:006:01",
   "speaker": "鍵",
   "jp": "そのそつない答え……。\n坊は出世しそうですねえ。",
-  "en": "Such a tactful answer... I'd wager you'll rise high in\nthe world, young master."
+  "en": "Such a tactful answer... I'd wager you'll\nrise high in the world, young master."
  },
  {
   "id": "fn03_18:007:00",
@@ -183,19 +183,19 @@
   "id": "fn03_18:012:02",
   "speaker": "鍵",
   "jp": "技が返って人々を豊かに\nした訳です。大したもんじゃ\nありやせんか。",
-  "en": "and those skills came back around to enrich the\npeople. Quite something, wouldn't you say?"
+  "en": "and those skills came back around to enrich\nthe people. Quite something, wouldn't you say?"
  },
  {
   "id": "fn03_18:012:03",
   "speaker": "鍵",
   "jp": "そういう心がけが、神域を\n清浄に保つ行為にも\n繋がってるんでしょうねえ。",
-  "en": "I suppose that same spirit is tied to keeping sacred\nground pure as well."
+  "en": "I suppose that same spirit is tied to\nkeeping sacred ground pure as well."
  },
  {
   "id": "fn03_18:012:04",
   "speaker": "鍵",
   "jp": "巡り巡ってまた\nこっちの力になりやすし、\n正直な話、嬉しいんでね。",
-  "en": "It all comes round again to lend us strength, and\ntruth be told, we're glad of it."
+  "en": "It all comes round again to lend us\nstrength, and truth be told, we're glad of it."
  },
  {
   "id": "fn03_18:012:05",
@@ -213,12 +213,12 @@
   "id": "fn03_18:013:00",
   "speaker": "鍵",
   "jp": "お嬢……掃除の腕は\nなかなかどうして。",
-  "en": "The young miss... she's not half bad at cleaning, is\nshe?"
+  "en": "The young miss... she's not\nhalf bad at cleaning, is she?"
  },
  {
   "id": "fn03_18:013:01",
   "speaker": "鍵",
   "jp": "仔犬ちゃんは綺麗好きだし、\n帰って来たら\n喜ぶでしょうねえ。",
-  "en": "The pup's fond of things being tidy. She'll be\npleased when she gets back, I'd wager."
+  "en": "The pup's fond of things being tidy. She'll\nbe pleased when she gets back, I'd wager."
  }
 ]

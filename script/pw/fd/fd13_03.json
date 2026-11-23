@@ -9,7 +9,7 @@
   "id": "fd13_03:001:01",
   "speaker": "燈治",
   "jp": "見ろよ、盗賊王が\n喧嘩売りに来たんだぜ。\n遠路はるばるご苦労なこった。",
-  "en": "Look, the Bandit King's come to sell me a fight. Real\nnice of him to come all this way."
+  "en": "Look, the Bandit King's come to sell me a\nfight. Real nice of him to come all this way."
  },
  {
   "id": "fd13_03:001:02",
@@ -21,13 +21,13 @@
   "id": "fd13_03:001:03",
   "speaker": "燈治",
   "jp": "ここで追い返したら\n男じゃねェだろ。",
-  "en": "Send him packin' now, and I ain't much of a man,\nright?"
+  "en": "Send him packin' now, and I\nain't much of a man, right?"
  },
  {
   "id": "fd13_03:001:04",
   "speaker": "燈治",
   "jp": "だが、どうも物足りねェ。\nこういうのには\n立ち会いがいねェとな。",
-  "en": "But somethin's missin'. A thing like this needs a\nwitness."
+  "en": "But somethin's missin'. A thing\nlike this needs a witness."
  },
  {
   "id": "fd13_03:001:05",
@@ -69,7 +69,7 @@
   "id": "fd13_03:004:00",
   "speaker": "燈治",
   "jp": "そう来なくちゃ、\nお前を待ってた意味がねェ。",
-  "en": "That's the spirit. Otherwise there'd be no point in\nwaitin' for you."
+  "en": "That's the spirit. Otherwise there'd\nbe no point in waitin' for you."
  },
  {
   "id": "fd13_03:004:01",
@@ -81,7 +81,7 @@
   "id": "fd13_03:005:00",
   "speaker": "燈治",
   "jp": "そうだぜ？\nこういうのには友人として\nちゃんと付き合わねえとな。",
-  "en": "That's right, y'know? As a friend, you gotta see a\nthing like this through."
+  "en": "That's right, y'know? As a friend, you\ngotta see a thing like this through."
  },
  {
   "id": "fd13_03:005:01",
@@ -99,7 +99,7 @@
   "id": "fd13_03:006:01",
   "speaker": "燈治",
   "jp": "喧嘩売られた相手が\nお前だったら\n俺はちゃんと立ち会うがな。",
-  "en": "If it was you who got picked a fight with, I'd sure\nas hell be there to watch."
+  "en": "If it was you who got picked a fight\nwith, I'd sure as hell be there to watch."
  },
  {
   "id": "fd13_03:006:02",
@@ -117,7 +117,7 @@
   "id": "fd13_03:007:01",
   "speaker": "燈治",
   "jp": "親友の一大事だぜ？\nそう言わず付き合えって。",
-  "en": "Your best friend's in a big fight, y'know? Don't be\nlike that, just stick around."
+  "en": "Your best friend's in a big fight, y'know?\nDon't be like that, just stick around."
  },
  {
   "id": "fd13_03:008:00",
@@ -129,13 +129,13 @@
   "id": "fd13_03:008:01",
   "speaker": "燈治",
   "jp": "それでも、お前の心配する\nような事にはならねェよ。",
-  "en": "Even so, it ain't gonna turn out like you're worried\nit will."
+  "en": "Even so, it ain't gonna turn\nout like you're worried it will."
  },
  {
   "id": "fd13_03:008:02",
   "speaker": "燈治",
   "jp": "面白い{ruby:喧嘩|モ　ン}見せてやるから、\nちゃんとそこにいろよ？",
-  "en": "I'll show you one hell of a fight, so stay right there,\ngot it?"
+  "en": "I'll show you one hell of a\nfight, so stay right there, got it?"
  },
  {
   "id": "fd13_03:009:00",

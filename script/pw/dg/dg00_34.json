@@ -3,25 +3,25 @@
   "id": "dg00_34:000:00",
   "speaker": "伊佐地",
   "jp": "《{ruby:隠者|いんじゃ}の{ruby:刻印|こくいん}》を得たいま、\nお前たちは、より有効に\nカミフダを使う事が出来る。",
-  "en": "Now that you've gained the Hermit's Mark, you can\nuse ORDS far more effectively."
+  "en": "Now that you've gained the Hermit's Mark,\nyou can use ORDS far more effectively."
  },
  {
   "id": "dg00_34:000:01",
   "speaker": "伊佐地",
   "jp": "まずは、カミフダを使って\n道具を強化する技だ。",
-  "en": "First, the technique of using ORDS to enhance your\ngear."
+  "en": "First, the technique of using\nORDS to enhance your gear."
  },
  {
   "id": "dg00_34:000:02",
   "speaker": "伊佐地",
   "jp": "装備品にカミフダの持つ\n情報を付加する事で、飛躍的に\n威力を上げる事が出来る。",
-  "en": "By adding the information an ORDS holds to your\nequipment, you can raise its power by leaps and\nbounds."
+  "en": "By adding the information an ORDS\nholds to your equipment, you can\nraise its power by leaps and bounds."
  },
  {
   "id": "dg00_34:000:03",
   "speaker": "伊佐地",
   "jp": "次にカミフダを使って\n結界を張る技だ。",
-  "en": "Next, the technique of using ORDS to set up a\nbarrier."
+  "en": "Next, the technique of using\nORDS to set up a barrier."
  },
  {
   "id": "dg00_34:000:04",
@@ -33,13 +33,13 @@
   "id": "dg00_34:000:05",
   "speaker": "伊佐地",
   "jp": "これで、お前たちは\n封札師としての基本的な全てを\n学んだ事になる。",
-  "en": "With that, you've learned all the basics of being a\nCard Sealer."
+  "en": "With that, you've learned all the\nbasics of being a Card Sealer."
  },
  {
   "id": "dg00_34:000:06",
   "speaker": "伊佐地",
   "jp": "残すは、最後の試験だけだ。\n最奥部にいる{ruby:隠人|お　に}を倒し、\nカミフダを取って戻って来い。",
-  "en": "All that's left is the final test. Defeat the Oni in the\ndeepest part, take its ORDS and come back."
+  "en": "All that's left is the final test. Defeat the Oni in\nthe deepest part, take its ORDS and come back."
  },
  {
   "id": "dg00_34:000:07",

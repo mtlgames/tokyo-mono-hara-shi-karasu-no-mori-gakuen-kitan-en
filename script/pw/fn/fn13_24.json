@@ -9,7 +9,7 @@
   "id": "fn13_24:001:01",
   "speaker": "久榮",
   "jp": "だが好都合だな。\nちょうど、話がしたいと\n思っていたところなんだ。",
-  "en": "Well, this works out nicely. I was just thinking I\nwanted to have a talk."
+  "en": "Well, this works out nicely. I was\njust thinking I wanted to have a talk."
  },
  {
   "id": "fn13_24:001:02",
@@ -27,7 +27,7 @@
   "id": "fn13_24:001:04",
   "speaker": "久榮",
   "jp": "キミの組織は、古代の叡智が\nもたらす危険から、人々を\n護るためとかうそぶいてるが、",
-  "en": "That organization of yours claims it exists to protect\npeople from the dangers that ancient wisdom brings,\nbut"
+  "en": "That organization of yours claims it\nexists to protect people from the\ndangers that ancient wisdom brings, but"
  },
  {
   "id": "fn13_24:001:05",
@@ -45,7 +45,7 @@
   "id": "fn13_24:002:01",
   "speaker": "久榮",
   "jp": "知らない方が\n幸せな事もある。\n確かに、そうなんだろう。",
-  "en": "Some things are better left unknown. I suppose that's\ntrue enough."
+  "en": "Some things are better left unknown.\nI suppose that's true enough."
  },
  {
   "id": "fn13_24:003:00",
@@ -69,7 +69,7 @@
   "id": "fn13_24:004:00",
   "speaker": "久榮",
   "jp": "確かに、知らない方が\n平穏無事に過ごせるしな。",
-  "en": "True, not knowing does let people live in peace and\nsafety."
+  "en": "True, not knowing does let\npeople live in peace and safety."
  },
  {
   "id": "fn13_24:004:01",
@@ -117,7 +117,7 @@
   "id": "fn13_24:009:00",
   "speaker": "久榮",
   "jp": "キミの仕事だろ？\nはっきりした方が\nいいんじゃないか。",
-  "en": "It's your job, isn't it? Shouldn't you be clear about\nit?"
+  "en": "It's your job, isn't it? Shouldn't\nyou be clear about it?"
  },
  {
   "id": "fn13_24:009:01",
@@ -135,7 +135,7 @@
   "id": "fn13_24:011:00",
   "speaker": "久榮",
   "jp": "私は、昔から詮索好きでね。\nどうしても裏を見たがる。\n隠れたものを探したがるのさ。",
-  "en": "I've always been the nosy type. I can't help wanting\nto see what's behind things. I go looking for\nwhatever's hidden."
+  "en": "I've always been the nosy type. I can't\nhelp wanting to see what's behind things.\nI go looking for whatever's hidden."
  },
  {
   "id": "fn13_24:011:01",
@@ -147,25 +147,25 @@
   "id": "fn13_24:011:02",
   "speaker": "久榮",
   "jp": "正直、{ruby:ＯＸＡＳ|キ　ミ　た　ち}にはあまり\n良い印象を抱いていなかった。",
-  "en": "Honestly, I didn't have a very good impression of\nOXAS--of your lot."
+  "en": "Honestly, I didn't have a very good\nimpression of OXAS--of your lot."
  },
  {
   "id": "fn13_24:011:03",
   "speaker": "久榮",
   "jp": "私が恋い焦がれてやまない\n浪漫そのものを\n封じ込めてしまうからだ。",
-  "en": "Because you seal away the very romance I can't\nstop yearning for."
+  "en": "Because you seal away the very\nromance I can't stop yearning for."
  },
  {
   "id": "fn13_24:011:04",
   "speaker": "久榮",
   "jp": "だが今回の件を\n目の当たりにして\n少し考えが変わったよ。",
-  "en": "But after seeing this whole affair with my own eyes,\nI've changed my mind a little."
+  "en": "But after seeing this whole affair with my\nown eyes, I've changed my mind a little."
  },
  {
   "id": "fn13_24:011:05",
   "speaker": "久榮",
   "jp": "ただの興味すらも、思わぬ\n災厄を呼び起こす事だって\nあるというのに、",
-  "en": "Even simple curiosity can stir up unexpected\ndisaster,"
+  "en": "Even simple curiosity can\nstir up unexpected disaster,"
  },
  {
   "id": "fn13_24:011:06",
@@ -195,7 +195,7 @@
   "id": "fn13_24:011:10",
   "speaker": "久榮",
   "jp": "キミの、おかげだ。\nありがとう、{px}。",
-  "en": "It's all thanks to you. Thank you, {px}."
+  "en": "It's all thanks to you. Thank\nyou, {px}."
  },
  {
   "id": "fn13_24:012:00",
@@ -207,6 +207,6 @@
   "id": "fn13_24:012:01",
   "speaker": "久榮",
   "jp": "キミの選ぶ道に\n{ruby:秘宝|しんじつ}の導きがあるように。",
-  "en": "May the Treasure of truth guide the path you\nchoose."
+  "en": "May the Treasure of truth\nguide the path you choose."
  }
 ]

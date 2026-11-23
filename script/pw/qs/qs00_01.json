@@ -9,7 +9,7 @@
   "id": "qs00_01:000:01",
   "speaker": "澁川",
   "jp": "丁度いい所に来たな。\n……こいつがいままで、お前の\n仕事を請け負っていた奴だ。",
-  "en": "You came at just the right time. ...This is the one\nwho's been taking on your jobs all along."
+  "en": "You came at just the right time. ...This is the\none who's been taking on your jobs all along."
  },
  {
   "id": "qs00_01:000:02",
@@ -21,7 +21,7 @@
   "id": "qs00_01:000:03",
   "speaker": "陸奥の刀鍛冶",
   "jp": "俺が研いだ刀……\n代々名だたる武将達が愛用した\n名刀だと、俺は聞いていた。",
-  "en": "The sword I polished... I was told it was a famous\nblade, cherished by renowned warlords for\ngenerations."
+  "en": "The sword I polished... I was told it\nwas a famous blade, cherished by\nrenowned warlords for generations."
  },
  {
   "id": "qs00_01:000:04",
@@ -33,7 +33,7 @@
   "id": "qs00_01:000:05",
   "speaker": "陸奥の刀鍛冶",
   "jp": "生き血を求めてすすり泣く、\n本物の妖刀だった……。",
-  "en": "--a true cursed blade, weeping for the blood of the\nliving..."
+  "en": "--a true cursed blade, weeping\nfor the blood of the living..."
  },
  {
   "id": "qs00_01:000:06",
@@ -93,7 +93,7 @@
   "id": "qs00_01:008:00",
   "speaker": "陸奥の刀鍛冶",
   "jp": "いや、すまない……\n君が困る様な事はないさ。\nむしろ、君は―――",
-  "en": "No, sorry... There's nothing for you to worry about.\nIf anything, you--"
+  "en": "No, sorry... There's nothing for you\nto worry about. If anything, you--"
  },
  {
   "id": "qs00_01:009:00",
@@ -117,7 +117,7 @@
   "id": "qs00_01:010:02",
   "speaker": "陸奥の刀鍛冶",
   "jp": "強い意志と自信を持ちながら、\n一切の{ruby:驕|おご}りが無い。",
-  "en": "Strong will and confidence, without a shred of\narrogance."
+  "en": "Strong will and confidence,\nwithout a shred of arrogance."
  },
  {
   "id": "qs00_01:010:03",
@@ -129,7 +129,7 @@
   "id": "qs00_01:010:04",
   "speaker": "陸奥の刀鍛冶",
   "jp": "澁川さん、俺……\nもっともっと、修行します！！",
-  "en": "Shibukawa-san, I'm... I'm going to train harder, way\nharder!!"
+  "en": "Shibukawa-san, I'm... I'm going\nto train harder, way harder!!"
  },
  {
   "id": "qs00_01:010:05",
@@ -153,25 +153,25 @@
   "id": "qs00_01:010:08",
   "speaker": "陸奥の刀鍛冶",
   "jp": "何度でも立ち上がれる、\nそんな気がする！！",
-  "en": "I feel like I could get back up as many times as it\ntakes!!"
+  "en": "I feel like I could get back up\nas many times as it takes!!"
  },
  {
   "id": "qs00_01:010:09",
   "speaker": "陸奥の刀鍛冶",
   "jp": "……ありがとう。\nそれじゃ、俺は陸奥に帰って\n呪いの解けた妖刀を―――",
-  "en": "...Thank you. Well then, I'll head back to Mutsu and\ntake that cursed blade, now free of its curse--"
+  "en": "...Thank you. Well then, I'll head back to Mutsu\nand take that cursed blade, now free of its curse--"
  },
  {
   "id": "qs00_01:010:10",
   "speaker": "陸奥の刀鍛冶",
   "jp": "俺の手で打ち直して、\n新しい名刀に\n生まれ変わらせてくるよ！！",
-  "en": "--and reforge it with my own hands, so it's reborn\nas a new famous blade!!"
+  "en": "--and reforge it with my own hands,\nso it's reborn as a new famous blade!!"
  },
  {
   "id": "qs00_01:010:11",
   "speaker": "陸奥の刀鍛冶",
   "jp": "じゃ、いつかまた会おう！！\n澁川さんも、お元気で！！",
-  "en": "Well, let's meet again someday!! Take care,\nShibukawa-san!!"
+  "en": "Well, let's meet again someday!!\nTake care, Shibukawa-san!!"
  },
  {
   "id": "qs00_01:010:12",

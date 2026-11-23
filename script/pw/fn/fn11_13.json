@@ -3,37 +3,37 @@
   "id": "fn11_13:001:00",
   "speaker": "英雄",
   "jp": "年に一度の輝き、か……。\n人の手が生む光とは、\n美しいものだな。",
-  "en": "Radiance that comes but once a year, eh... Light born\nof human hands is a beautiful thing."
+  "en": "Radiance that comes but once a year, eh... Light\nborn of human hands is a beautiful thing."
  },
  {
   "id": "fn11_13:001:01",
   "speaker": "英雄",
   "jp": "おや、{px}。\n目当ては、もしや同じかな？",
-  "en": "Oh, {px}. Could it be we're here for the same\nreason?"
+  "en": "Oh, {px}. Could it\nbe we're here for the same reason?"
  },
  {
   "id": "fn11_13:001:02",
   "speaker": "英雄",
   "jp": "見たまえ。\n今宵は地上の星が\n最も美しく輝く日だ！",
-  "en": "Behold! Tonight the stars upon the earth shine their\nmost beautiful!"
+  "en": "Behold! Tonight the stars upon the\nearth shine their most beautiful!"
  },
  {
   "id": "fn11_13:001:03",
   "speaker": "英雄",
   "jp": "一つ一つは小さな明かり。\nだが、誰かが灯さねば……\nこの美しい光景は産まれない。",
-  "en": "Each is but a tiny light. Yet if no one lit them... this\nbeautiful sight would never be born."
+  "en": "Each is but a tiny light. Yet if no one lit\nthem... this beautiful sight would never be born."
  },
  {
   "id": "fn11_13:001:04",
   "speaker": "英雄",
   "jp": "どんな小さな明かりとて、\n護らねばならぬ尊いもの……。",
-  "en": "No matter how small the light, it is a precious thing\nthat must be protected..."
+  "en": "No matter how small the light, it is a\nprecious thing that must be protected..."
  },
  {
   "id": "fn11_13:002:00",
   "speaker": "英雄",
   "jp": "どうだい、{px}。\n君もこの光景を見ていると\nそんな気持ちにならないかい？",
-  "en": "Well, {px}? Looking at this sight, don't you feel the\nsame?"
+  "en": "Well, {px}? Looking at\nthis sight, don't you feel the same?"
  },
  {
   "id": "fn11_13:003:00",
@@ -51,7 +51,7 @@
   "id": "fn11_13:004:00",
   "speaker": "英雄",
   "jp": "はッはッは！\n心躍るその気持ちもまた、\n正義の芽生えッ！",
-  "en": "Ha ha ha! That leaping heart, too, is the bud of\njustice!"
+  "en": "Ha ha ha! That leaping heart,\ntoo, is the bud of justice!"
  },
  {
   "id": "fn11_13:004:01",
@@ -87,7 +87,7 @@
   "id": "fn11_13:007:01",
   "speaker": "英雄",
   "jp": "だが、{px}。\n君ならいつか気付くだろう。",
-  "en": "But, {px}. Someday, you of all people will realize..."
+  "en": "But, {px}. Someday,\nyou of all people will realize..."
  },
  {
   "id": "fn11_13:007:02",
@@ -99,7 +99,7 @@
   "id": "fn11_13:008:00",
   "speaker": "英雄",
   "jp": "ほう？{px}、\n君にはそう見えるのだね。",
-  "en": "Oh? So that's how it looks to you, {px}."
+  "en": "Oh? So that's how it looks\nto you, {px}."
  },
  {
   "id": "fn11_13:008:01",
@@ -111,7 +111,7 @@
   "id": "fn11_13:008:02",
   "speaker": "英雄",
   "jp": "君がその{ruby:面|おもて}を上げた時……\n手遅れでない事を祈ろうッ！",
-  "en": "When at last you lift your face... let us pray it isn't\ntoo late!"
+  "en": "When at last you lift your face...\nlet us pray it isn't too late!"
  },
  {
   "id": "fn11_13:009:00",
@@ -129,7 +129,7 @@
   "id": "fn11_13:009:02",
   "speaker": "英雄",
   "jp": "そう感じる心が、正義を呼ぶ。\n君には、既に{ruby:英雄|ヒーロー}の魂が\n宿っている事をッ！",
-  "en": "A heart that feels that way calls forth justice. The\nsoul of a hero already dwells within you!"
+  "en": "A heart that feels that way calls forth justice.\nThe soul of a hero already dwells within you!"
  },
  {
   "id": "fn11_13:010:00",
@@ -141,7 +141,7 @@
   "id": "fn11_13:010:01",
   "speaker": "英雄",
   "jp": "{ruby:謙遜|けんそん}は美徳だが\n時と場合によろうッ！！",
-  "en": "Modesty is a virtue, but there's a time and a place\nfor it!!"
+  "en": "Modesty is a virtue, but there's\na time and a place for it!!"
  },
  {
   "id": "fn11_13:011:00",
@@ -153,7 +153,7 @@
   "id": "fn11_13:011:01",
   "speaker": "英雄",
   "jp": "{ruby:謙遜|けんそん}は美徳だが\n時と場合によろうッ！！",
-  "en": "Modesty is a virtue, but there's a time and a place\nfor it!!"
+  "en": "Modesty is a virtue, but there's\na time and a place for it!!"
  },
  {
   "id": "fn11_13:012:00",
@@ -177,7 +177,7 @@
   "id": "fn11_13:013:00",
   "speaker": "英雄",
   "jp": "実に素晴らしい！！\n君はやはり、{ruby:英雄|ヒーロー}の素質が\nあるよ、{px}。",
-  "en": "Truly splendid!! You have the makings of a hero\nafter all, {px}."
+  "en": "Truly splendid!! You have the makings\nof a hero after all, {px}."
  },
  {
   "id": "fn11_13:014:00",
@@ -201,7 +201,7 @@
   "id": "fn11_13:015:00",
   "speaker": "英雄",
   "jp": "見たまえ、{px}。誰かが\n微笑みで灯した光、そこから\nまた微笑みは産まれ、",
-  "en": "Behold, {px}. From a light someone lit with a smile,\nanother smile is born,"
+  "en": "Behold, {px}. From a light\nsomeone lit with a smile, another smile is born,"
  },
  {
   "id": "fn11_13:015:01",
@@ -255,13 +255,13 @@
   "id": "fn11_13:018:01",
   "speaker": "英雄",
   "jp": "だが、この嘉門　英雄！\n既に心は定まっているッ！！",
-  "en": "But I, Hideo Kamon, have already made up my\nmind!!"
+  "en": "But I, Hideo Kamon, have\nalready made up my mind!!"
  },
  {
   "id": "fn11_13:018:02",
   "speaker": "英雄",
   "jp": "{px}、君は全てを\n預けるに足る親友であるとッ！",
-  "en": "You, {px}, are a best friend worthy of being\nentrusted with everything!"
+  "en": "You, {px}, are a best friend\nworthy of being entrusted with everything!"
  },
  {
   "id": "fn11_13:018:03",
@@ -291,13 +291,13 @@
   "id": "fn11_13:020:01",
   "speaker": "英雄",
   "jp": "君には特大の素晴らしいものを\n用意せねばならんからな！",
-  "en": "For you, I must prepare something extra-large and\nsplendid!"
+  "en": "For you, I must prepare something\nextra-large and splendid!"
  },
  {
   "id": "fn11_13:021:00",
   "speaker": "英雄",
   "jp": "はッはッは！\nいまは握手もハグも受けて\n立とうではないかッ！",
-  "en": "Ha ha ha! For now, I'll gladly accept a handshake or\na hug!"
+  "en": "Ha ha ha! For now, I'll gladly\naccept a handshake or a hug!"
  },
  {
   "id": "fn11_13:022:00",
@@ -309,13 +309,13 @@
   "id": "fn11_13:022:01",
   "speaker": "英雄",
   "jp": "矢張り君こそ私の求める\n人物だった！！",
-  "en": "Just as I thought, you are the very person I was\nlooking for!!"
+  "en": "Just as I thought, you are the\nvery person I was looking for!!"
  },
  {
   "id": "fn11_13:023:00",
   "speaker": "英雄",
   "jp": "はッはッは、驚かないねッ。\nもう少し派手なリアクションを\n所望したいところだッ！",
-  "en": "Ha ha ha, you're not surprised! I'd have liked a\nsomewhat flashier reaction!"
+  "en": "Ha ha ha, you're not surprised! I'd have\nliked a somewhat flashier reaction!"
  },
  {
   "id": "fn11_13:023:01",
@@ -333,7 +333,7 @@
   "id": "fn11_13:024:01",
   "speaker": "英雄",
   "jp": "だがしかし、正体を明かすのは\n{ruby:英雄|ヒーロー}道に反する、重大な\n問題なのだッ！",
-  "en": "But revealing one's true identity goes against the\nWay of the Hero--a grave matter!"
+  "en": "But revealing one's true identity goes against\nthe Way of the Hero--a grave matter!"
  },
  {
   "id": "fn11_13:024:02",
@@ -351,13 +351,13 @@
   "id": "fn11_13:025:01",
   "speaker": "英雄",
   "jp": "平凡な一生徒である私が\n謎の{ruby:英雄|ヒーロー}の正体……。",
-  "en": "That I, an ordinary student, am the mysterious hero\nin disguise..."
+  "en": "That I, an ordinary student, am\nthe mysterious hero in disguise..."
  },
  {
   "id": "fn11_13:025:02",
   "speaker": "英雄",
   "jp": "信じたくない気持ちもわかるが\nこれが事実なのだよッ！",
-  "en": "I understand you don't want to believe it, but this is\nthe truth!"
+  "en": "I understand you don't want to\nbelieve it, but this is the truth!"
  },
  {
   "id": "fn11_13:026:00",
@@ -369,13 +369,13 @@
   "id": "fn11_13:026:01",
   "speaker": "英雄",
   "jp": "しかし、心配は無用だよッ。\n確かに私は、ただの平凡な\n一生徒に過ぎぬ身ではある。",
-  "en": "But worry not! True, I am nothing more than an\nordinary student."
+  "en": "But worry not! True, I am nothing\nmore than an ordinary student."
  },
  {
   "id": "fn11_13:026:02",
   "speaker": "英雄",
   "jp": "だが、私には誰にも負けぬ\n正義に燃える心があるッ！",
-  "en": "But I have a heart that burns for justice like no one\nelse's!"
+  "en": "But I have a heart that burns\nfor justice like no one else's!"
  },
  {
   "id": "fn11_13:026:03",
@@ -393,7 +393,7 @@
   "id": "fn11_13:027:01",
   "speaker": "英雄",
   "jp": "だが、これが真実。\n私こそが、東京ＢＭなのだッ！",
-  "en": "But this is the truth. I am none other than Tokyo\nBM!"
+  "en": "But this is the truth. I am\nnone other than Tokyo BM!"
  },
  {
   "id": "fn11_13:028:00",
@@ -405,7 +405,7 @@
   "id": "fn11_13:028:01",
   "speaker": "英雄",
   "jp": "なにしろ、謎の{ruby:英雄|ヒーロー}が\nこれほど身近にいた訳だッ。\nそれもまた仕方あるまいッ！",
-  "en": "After all, the mysterious hero was this close to you\nall along! It can't be helped!"
+  "en": "After all, the mysterious hero was this\nclose to you all along! It can't be helped!"
  },
  {
   "id": "fn11_13:029:00",
@@ -429,7 +429,7 @@
   "id": "fn11_13:029:03",
   "speaker": "英雄",
   "jp": "父母が事故で亡くなった後、\n神隠しにあった私を、ただ一人\n信じて待ち続けてくれた……。",
-  "en": "After my parents died in an accident and I was\nspirited away, he alone believed in me and kept\nwaiting..."
+  "en": "After my parents died in an accident\nand I was spirited away, he alone\nbelieved in me and kept waiting..."
  },
  {
   "id": "fn11_13:029:04",
@@ -441,19 +441,19 @@
   "id": "fn11_13:029:05",
   "speaker": "英雄",
   "jp": "そしてッ、いまッ！\n私が信じる家族の中に、\n君の名が加わったッ！！",
-  "en": "And now! Your name has joined the family I\nbelieve in!!"
+  "en": "And now! Your name has\njoined the family I believe in!!"
  },
  {
   "id": "fn11_13:029:06",
   "speaker": "英雄",
   "jp": "……いいものだな。\n秘密を共有し、同じ景色を\n胸に持つ{ruby:盟友|と　も}というものは。",
-  "en": "...It's a fine thing, isn't it? A sworn comrade who\nshares a secret and holds the same view in his\nheart."
+  "en": "...It's a fine thing, isn't it? A sworn\ncomrade who shares a secret and\nholds the same view in his heart."
  },
  {
   "id": "fn11_13:029:07",
   "speaker": "英雄",
   "jp": "さあ、{px}！\nこの微笑みを大量生産する\n素晴らしい、聖夜ッ！！",
-  "en": "Now, {px}! On this wonderful holy night,\nmass-producing these smiles!!"
+  "en": "Now, {px}! On this wonderful\nholy night, mass-producing these smiles!!"
  },
  {
   "id": "fn11_13:029:08",
@@ -483,7 +483,7 @@
   "id": "fn11_13:032:00",
   "speaker": "英雄",
   "jp": "ならば私も本気を出そうッ！\nこの{ruby:英雄|ヒーロー}に\nついてこれるかなッ！？",
-  "en": "Then I too shall go all out! Can you keep up with\nthis hero!?"
+  "en": "Then I too shall go all out! Can\nyou keep up with this hero!?"
  },
  {
   "id": "fn11_13:032:01",
@@ -519,7 +519,7 @@
   "id": "fn11_13:035:00",
   "speaker": "英雄",
   "jp": "おぉっと、逃がさないぞッ！\nさあ、共に{ruby:征|ゆ}こう！",
-  "en": "Whoa there, you won't escape me! Now, let us\nmarch forth together!"
+  "en": "Whoa there, you won't escape me!\nNow, let us march forth together!"
  },
  {
   "id": "fn11_13:036:00",

@@ -15,13 +15,13 @@
   "id": "fn08_12:001:02",
   "speaker": "道佳",
   "jp": "あの方を裏切りたくなかった。\nでも、{px}、\n貴方の力にもなりたくて……。",
-  "en": "I didn't want to betray that person. But, {px}, I\nwanted to help you too..."
+  "en": "I didn't want to betray that person. But,\n{px}, I wanted to help you too..."
  },
  {
   "id": "fn08_12:001:03",
   "speaker": "道佳",
   "jp": "迷ってるだけで、\n結局……何も出来なかった。",
-  "en": "All I did was waver, and in the end... I couldn't do a\nthing."
+  "en": "All I did was waver, and in\nthe end... I couldn't do a thing."
  },
  {
   "id": "fn08_12:001:04",
@@ -33,7 +33,7 @@
   "id": "fn08_12:001:05",
   "speaker": "道佳",
   "jp": "{px}……。\nこんなミカみゅんでも、\nアナタの力になれるかしら？",
-  "en": "{px}... Even a Mikamyun like this... can I still be of\nhelp to you?"
+  "en": "{px}... Even a Mikamyun\nlike this... can I still be of help to you?"
  },
  {
   "id": "fn08_12:002:00",
@@ -75,7 +75,7 @@
   "id": "fn08_12:004:01",
   "speaker": "道佳",
   "jp": "でも、アナタが望むなら……、\nミカみゅん、頑張る！！",
-  "en": "But if that's what you want... Mikamyun will do her\nbest!!"
+  "en": "But if that's what you want...\nMikamyun will do her best!!"
  },
  {
   "id": "fn08_12:005:00",
@@ -99,7 +99,7 @@
   "id": "fn08_12:006:01",
   "speaker": "道佳",
   "jp": "アタシ、{px}の\n言葉に相応しい女の子に\nなってみせるわッ！！",
-  "en": "I'll become a girl worthy of {px}'s words, just you\nwatch!!"
+  "en": "I'll become a girl worthy of\n{px}'s words, just you watch!!"
  },
  {
   "id": "fn08_12:007:00",
@@ -159,13 +159,13 @@
   "id": "fn08_12:011:03",
   "speaker": "道佳",
   "jp": "{px}、\nミカみゅん、精一杯頑張る☆",
-  "en": "{px}, Mikamyun will do her very best~"
+  "en": "{px}, Mikamyun\nwill do her very best~"
  },
  {
   "id": "fn08_12:012:00",
   "speaker": "道佳",
   "jp": "ミカみゅんの心はもう、\n{px}のモノよん。",
-  "en": "Mikamyun's heart already belongs to {px}~"
+  "en": "Mikamyun's heart already\nbelongs to {px}~"
  },
  {
   "id": "fn08_12:012:01",

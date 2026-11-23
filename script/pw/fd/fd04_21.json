@@ -3,43 +3,43 @@
   "id": "fd04_21:001:00",
   "speaker": "久榮",
   "jp": "よう、{px}。\nどうした、こんな所まで。",
-  "en": "Hey, {px}. What brings you all the way out here?"
+  "en": "Hey, {px}. What\nbrings you all the way out here?"
  },
  {
   "id": "fd04_21:001:01",
   "speaker": "久榮",
   "jp": "ちょいと、図書室で広げるにゃ\n相応しくない資料なんでね。",
-  "en": "These materials aren't quite the kind you spread out\nin the library, you see."
+  "en": "These materials aren't quite the kind\nyou spread out in the library, you see."
  },
  {
   "id": "fd04_21:001:02",
   "speaker": "久榮",
   "jp": "業務は図書委員に任せて、\nここで資料整理ってわけだ。",
-  "en": "So I've left the desk to the library committee and I'm\nsorting through them here."
+  "en": "So I've left the desk to the library committee\nand I'm sorting through them here."
  },
  {
   "id": "fd04_21:001:03",
   "speaker": "久榮",
   "jp": "しかし、頼まれたとは言え、\nずいぶんな量になるな……。",
-  "en": "Still, I may have been asked to do it, but it's turned\ninto quite the pile..."
+  "en": "Still, I may have been asked to do\nit, but it's turned into quite the pile..."
  },
  {
   "id": "fd04_21:001:04",
   "speaker": "久榮",
   "jp": "その分、達成感もあるし\n楽しいもんだけどな。",
-  "en": "Mind you, that makes it all the more satisfying. Fun,\neven."
+  "en": "Mind you, that makes it all\nthe more satisfying. Fun, even."
  },
  {
   "id": "fd04_21:001:05",
   "speaker": "久榮",
   "jp": "どうだ、{px}。\n今の仕事は……楽しいか？",
-  "en": "What about you, {px}? Your current job... is it fun?"
+  "en": "What about you, {px}?\nYour current job... is it fun?"
  },
  {
   "id": "fd04_21:002:00",
   "speaker": "久榮",
   "jp": "はは、そこまで言えるなら\nお前にとってそれは天職って\nやつなのかもな。",
-  "en": "Haha, if you can say that much, maybe it's what\nthey call your true calling."
+  "en": "Haha, if you can say that much, maybe\nit's what they call your true calling."
  },
  {
   "id": "fd04_21:003:00",
@@ -57,7 +57,7 @@
   "id": "fd04_21:004:00",
   "speaker": "久榮",
   "jp": "はは、分かった分かった。\nお前がどれだけその仕事に\n誇りを持っているかも、な。",
-  "en": "Haha, all right, all right. I get it. How proud you are\nof that work, too."
+  "en": "Haha, all right, all right. I get it. How\nproud you are of that work, too."
  },
  {
   "id": "fd04_21:005:00",
@@ -69,7 +69,7 @@
   "id": "fd04_21:006:00",
   "speaker": "久榮",
   "jp": "ふふ、若いな。\nそうガチガチになってちゃ、\nいつか躓くぞ？",
-  "en": "Heh, so young. Stay that stiff and you'll trip up\nsomeday, you know?"
+  "en": "Heh, so young. Stay that stiff and\nyou'll trip up someday, you know?"
  },
  {
   "id": "fd04_21:007:00",
@@ -87,7 +87,7 @@
   "id": "fd04_21:009:00",
   "speaker": "久榮",
   "jp": "まだ決めかねてる、か。\nいいね、少年。\n多いに悩め。",
-  "en": "Still can't decide, huh? Good, kiddo. Agonize all you\nlike."
+  "en": "Still can't decide, huh? Good,\nkiddo. Agonize all you like."
  },
  {
   "id": "fd04_21:010:00",
@@ -105,19 +105,19 @@
   "id": "fd04_21:011:01",
   "speaker": "久榮",
   "jp": "色んな生徒が集まるし、\n中には規格外れもいるしな。",
-  "en": "All sorts of students come through, and some of\nthem don't fit any mold."
+  "en": "All sorts of students come through,\nand some of them don't fit any mold."
  },
  {
   "id": "fd04_21:011:02",
   "speaker": "久榮",
   "jp": "{ruby:生計|たつき}として仕方無く、ってのも\n味気ない。",
-  "en": "Doing it only because you have to make a living is\nso dreary."
+  "en": "Doing it only because you have\nto make a living is so dreary."
  },
  {
   "id": "fd04_21:011:03",
   "speaker": "久榮",
   "jp": "それに、いやいや得た金より、\n楽しんで得た金の方が\n気分も良いってものだろう？",
-  "en": "Besides, money you earned having fun feels better\nthan money you earned grudgingly, wouldn't you\nsay?"
+  "en": "Besides, money you earned having\nfun feels better than money you\nearned grudgingly, wouldn't you say?"
  },
  {
   "id": "fd04_21:011:04",
@@ -135,6 +135,6 @@
   "id": "fd04_21:012:01",
   "speaker": "久榮",
   "jp": "プリント作りも小テストも、\n全部、私の楽しみってワケだ。",
-  "en": "Making handouts, pop quizzes... it's all fun for me,\nsee."
+  "en": "Making handouts, pop quizzes...\nit's all fun for me, see."
  }
 ]

@@ -15,25 +15,25 @@
   "id": "fd02_20:001:02",
   "speaker": "朝子",
   "jp": "―――あら、{px}。\n恥ずかしいところ\n見られちゃったわね。",
-  "en": "--Oh, {px}. You caught me at an embarrassing\nmoment."
+  "en": "--Oh, {px}. You caught\nme at an embarrassing moment."
  },
  {
   "id": "fd02_20:001:03",
   "speaker": "朝子",
   "jp": "実は午後の授業で使う\nプリントの原本が何処かに\nいっちゃったのよ。",
-  "en": "The truth is, the original handout for my afternoon\nclass has gone missing somewhere."
+  "en": "The truth is, the original handout for my\nafternoon class has gone missing somewhere."
  },
  {
   "id": "fd02_20:002:00",
   "speaker": "朝子",
   "jp": "気になるところは探したし、\nそうなると、後は……",
-  "en": "I've searched everywhere I can think of, so that only\nleaves..."
+  "en": "I've searched everywhere I can\nthink of, so that only leaves..."
  },
  {
   "id": "fd02_20:003:00",
   "speaker": "朝子",
   "jp": "ど、どうしよう！？\nいまから走って帰れば\n間に合うかも―――",
-  "en": "Wh-what do I do!? If I run home right now, I might\nmake it in time--"
+  "en": "Wh-what do I do!? If I run home\nright now, I might make it in time--"
  },
  {
   "id": "fd02_20:003:01",
@@ -69,7 +69,7 @@
   "id": "fd02_20:004:00",
   "speaker": "朝子",
   "jp": "……もう、いくら私が\nそそっかしくても大事なものを\n捨てたりは―――",
-  "en": "...Honestly, no matter how scatterbrained I am, I'd\nnever throw away something important--"
+  "en": "...Honestly, no matter how scatterbrained I am,\nI'd never throw away something important--"
  },
  {
   "id": "fd02_20:004:01",
@@ -99,7 +99,7 @@
   "id": "fd02_20:005:01",
   "speaker": "朝子",
   "jp": "昨日、牧村先生に\n引用部分の確認を\nお願いしてそのまま―――",
-  "en": "Yesterday I asked Makimura-sensei to check the\nquoted passages, and then I just left it--"
+  "en": "Yesterday I asked Makimura-sensei to check\nthe quoted passages, and then I just left it--"
  },
  {
   "id": "fd02_20:005:02",
@@ -111,13 +111,13 @@
   "id": "fd02_20:006:00",
   "speaker": "朝子",
   "jp": "騒がせてごめんね。\nありがとう、{px}。",
-  "en": "Sorry for all the fuss. Thank you, {px}."
+  "en": "Sorry for all the fuss. Thank\nyou, {px}."
  },
  {
   "id": "fd02_20:006:01",
   "speaker": "朝子",
   "jp": "はあ……。\n整理術の本でも買えば\n少しはましになるのかしら。",
-  "en": "Sigh... I wonder if buying a book on organizing\nwould help me even a little."
+  "en": "Sigh... I wonder if buying a book on\norganizing would help me even a little."
  },
  {
   "id": "fd02_20:007:00",

@@ -145,8 +145,11 @@ def test_eboot_move(sc):
 
 
 def test_eboot_writes_in_range(sc):
-    """romdiff gate on the shipped EBOOT: every changed byte is the engine patch, an EBOOT string slot, a relocated
-    pointer to a string, the program header table, or the appended string segment."""
+    """romdiff gate on the shipped EBOOT: every changed byte is a logged engine write (expected original bytes
+    checked), the slot of a string with English (whose original bytes must be its Japanese), a relocated pointer
+    to one, the program header table, or the appended string segment. Non-text slots (name-entry grid, ASCII and
+    kinsoku tables) are not allowed."""
+    import batches
     import eboot
     import eboot_text
     import engine
@@ -154,16 +157,56 @@ def test_eboot_writes_in_range(sc):
     if not eboot_text.ELF.exists():
         pytest.skip("no decrypted EBOOT")
     orig = eboot_text.ELF.read_bytes()
-    eng = bytes(engine.patch(eboot.Patcher(bytearray(orig))))
+    p = eboot.Patcher(bytearray(orig))
+    eng = bytes(engine.patch(p))
     new = bytes(insert.eboot_patch(bytearray(eng), insert.Text("en"), sc))
-    slots = {int(x["id"].split(":")[1], 16): x["slot"] for x in sc["eboot.json"]}
+    text = [x for x in sc["eboot.json"] if batches.is_text(x) and x.get("en")]
+    slots = {int(x["id"].split(":")[1], 16): x["slot"] for x in text}
     sites = [s + eboot.FILE0 for va, ps in eboot.pointers(bytearray(orig)).items() if va + eboot.FILE0 in slots
              for _, s, _, _ in ps]
-    allowed = ([range(i, i + 1) for i in range(len(orig)) if orig[i] != eng[i]]
-               + [range(o, o + n) for o, n in slots.items()] + [range(s, s + 4) for s in sites]
+    writes = p.log + [(o, x["jp"].encode(x["enc"]) + b"\0", new[o:o + len(x["jp"].encode(x["enc"])) + 1], x["id"])
+                      for x in text for o in [int(x["id"].split(":")[1], 16)]]
+    allowed = ([range(o, o + n) for o, n in slots.items()] + [range(s, s + 4) for s in sites]
                + [range(0x2C, 0x2E), range(0x34, 0xC0), range(len(orig), len(new))])
-    errs, _ = romdiff.check(orig, new, allowed, [])
+    errs, _ = romdiff.check(orig, new, allowed, writes)
     assert not errs, errs[:10]
+    assert len(p.log) >= 38 and all(len(a) == len(b) for _, a, b, _ in p.log)
+
+
+@pytest.mark.skipif(not (ROOT / "rom").is_dir() or not any((ROOT / "rom").glob("*.iso")), reason="no ROM")
+def test_built_iso_changes(tmp_path, sc):
+    """romdiff for the rebuilt CROW.PAK (recompressed, so compared leaf by leaf): same leaf set, only the leaves
+    build.edits() names changed and exactly to its bytes, every table pointer of an entry with English reads that
+    English and every other one its original string; every other ISO file is byte-identical."""
+    import build
+    import iso9660
+    import tables
+    out = tmp_path / "en.iso"
+    build.build(out)
+    want = build.edits(insert.Text("en"))
+    en = {x["id"]: x["en"] for f, xs in sc.items() if f.startswith("tables/") for x in xs if x.get("en")}
+    seen = set()
+    for (p, a), (q, b) in zip(members("", iso=build.ISO), members("", iso=out), strict=True):
+        assert p == q
+        if a == b:
+            assert p not in want or want[p] == a, p
+            continue
+        seen.add(p)
+        assert want.get(p) == b, p
+        if p.startswith(insert.TABLE_DIRS) and csvb.chunks(a).get("TblB") is not None:
+            stem, first = Path(p).stem, tables.offsets(a)
+            for (r, c, op, raw), (r2, c2, _, nraw) in zip(csvb.strings(a), csvb.strings(b), strict=True):
+                i = f"{stem}:{first[op][0]:04d}:{first[op][1]:02x}" if op in first else None
+                assert (r, c) == (r2, c2) and nraw == (insert.ascii_bytes(en[i], i).replace(b"\r", b"")
+                                                       if i in en else raw), (p, r, c)
+    assert seen == {p for p, d in want.items() if d is not None}
+    with open(build.ISO, "rb") as f, open(out, "rb") as g:
+        for (p, lba, n, _), (p2, lba2, n2, _) in zip(iso9660.listing(f), iso9660.listing(g), strict=True):
+            assert p == p2
+            if p not in (build.CROW, build.EBOOT):
+                f.seek(lba * 2048)
+                g.seek(lba2 * 2048)
+                assert n == n2 and f.read(n) == g.read(n2), p
 
 
 def test_non_text_never_marked(sc):

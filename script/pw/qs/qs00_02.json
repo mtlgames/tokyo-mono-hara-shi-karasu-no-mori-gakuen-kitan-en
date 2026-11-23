@@ -3,43 +3,43 @@
   "id": "qs00_02:000:00",
   "speaker": "澁川",
   "jp": "……うむ。\n無事達成したようだな。\nまた何かあれば頼―――",
-  "en": "...Mm. Looks like you pulled it off. If anything else\ncomes up, I'll count on--"
+  "en": "...Mm. Looks like you pulled it off. If\nanything else comes up, I'll count on--"
  },
  {
   "id": "qs00_02:000:01",
   "speaker": "北米のハッカー",
   "jp": "オゥサム！！一目でわかったぜ！\nユーがメシア様だな！",
-  "en": "Awesome!! I knew it the second I saw ya! You're\nthe Messiah, man!"
+  "en": "Awesome!! I knew it the second I\nsaw ya! You're the Messiah, man!"
  },
  {
   "id": "qs00_02:000:02",
   "speaker": "北米のハッカー",
   "jp": "ハロー、ナイストゥミーチュ！\nヘイ、グッシェークハンッ！",
-  "en": "Hello, nice to meet-cha! Hey, gimme a good\nshake-hand!"
+  "en": "Hello, nice to meet-cha! Hey,\ngimme a good shake-hand!"
  },
  {
   "id": "qs00_02:000:03",
   "speaker": "北米のハッカー",
   "jp": "ヘイヘイヘイ、マスター。\nユーはトンでもない天才を\nオイラに紹介しちまったぜ。",
-  "en": "Hey hey hey, Master. You hooked me up with one\ncrazy genius, y'know."
+  "en": "Hey hey hey, Master. You hooked\nme up with one crazy genius, y'know."
  },
  {
   "id": "qs00_02:000:04",
   "speaker": "北米のハッカー",
   "jp": "何しろ、世界、いや宇宙で\n一位のハッカーであるオイラの\nピンチを救っちまったんだぜ！",
-  "en": "I mean, this kid saved the bacon of yours truly, the\nnumber-one hacker in the world--no, in the\nuniverse!"
+  "en": "I mean, this kid saved the bacon of\nyours truly, the number-one hacker\nin the world--no, in the universe!"
  },
  {
   "id": "qs00_02:000:05",
   "speaker": "北米のハッカー",
   "jp": "これでオイラを雇いたくて\n仕方無い権力者共も\n救われたってワケだ。",
-  "en": "Which means all them big shots dyin' to hire me got\nsaved too, see?"
+  "en": "Which means all them big shots\ndyin' to hire me got saved too, see?"
  },
  {
   "id": "qs00_02:000:06",
   "speaker": "北米のハッカー",
   "jp": "つまり！ユーは腐れた世界を\n救ったメシア様なのさ！\nドゥーユーアンダスタン！？",
-  "en": "So! You're the Messiah who saved this rotten world!\nDo you understand!?"
+  "en": "So! You're the Messiah who saved this\nrotten world! Do you understand!?"
  },
  {
   "id": "qs00_02:001:00",
@@ -51,7 +51,7 @@
   "id": "qs00_02:002:00",
   "speaker": "北米のハッカー",
   "jp": "そうさ、ブラザー！\n世界を救えるのはユー！\nそれだけさ！！",
-  "en": "That's right, brother! The one who can save the\nworld is you! That's all there is to it!!"
+  "en": "That's right, brother! The one who can save\nthe world is you! That's all there is to it!!"
  },
  {
   "id": "qs00_02:003:00",
@@ -69,7 +69,7 @@
   "id": "qs00_02:005:00",
   "speaker": "北米のハッカー",
   "jp": "ダムシッ！本当の価値ある奴は\n自分のソレがわからねぇって\nいうが……",
-  "en": "Damn it! They say folks with real worth never\nknow it themselves..."
+  "en": "Damn it! They say folks with real\nworth never know it themselves..."
  },
  {
   "id": "qs00_02:005:01",
@@ -87,13 +87,13 @@
   "id": "qs00_02:006:01",
   "speaker": "北米のハッカー",
   "jp": "ケンキョのビトクなんか\nメシア様にゃ似合わないさ！",
-  "en": "Humble modesty, that ain't no good look for a\nMessiah!"
+  "en": "Humble modesty, that ain't\nno good look for a Messiah!"
  },
  {
   "id": "qs00_02:007:00",
   "speaker": "北米のハッカー",
   "jp": "オゥ、ボーイ……。\n自覚しなよ、ユーは確かに\nオイラのメシア様なのさ！",
-  "en": "Oh, boy... Get it through your head, man. You're my\nMessiah, for real!"
+  "en": "Oh, boy... Get it through your head,\nman. You're my Messiah, for real!"
  },
  {
   "id": "qs00_02:008:00",
@@ -105,7 +105,7 @@
   "id": "qs00_02:008:01",
   "speaker": "北米のハッカー",
   "jp": "流石メシアだな、フジヤマ\nハラキリゲイーシャ！",
-  "en": "That's my Messiah for ya! Fujiyama Harakiri\nGeishaaa!"
+  "en": "That's my Messiah for ya!\nFujiyama Harakiri Geishaaa!"
  },
  {
   "id": "qs00_02:009:00",
@@ -123,13 +123,13 @@
   "id": "qs00_02:010:01",
   "speaker": "北米のハッカー",
   "jp": "本来の用件は、\n{ruby:とっくに済ませてる|・・・・・・・・・}。\n携帯、見てみな？",
-  "en": "The real business, I already took care of ages ago.\nCheck your phone, why don'tcha?"
+  "en": "The real business, I already took care of\nages ago. Check your phone, why don'tcha?"
  },
  {
   "id": "qs00_02:010:02",
   "speaker": "北米のハッカー",
   "jp": "オイラは多忙だがメシア様の\n頼みとありゃあ優先するぜ！",
-  "en": "I'm a busy guy, but if the Messiah asks, it goes to\nthe top of the list!"
+  "en": "I'm a busy guy, but if the Messiah\nasks, it goes to the top of the list!"
  },
  {
   "id": "qs00_02:010:03",
@@ -177,7 +177,7 @@
   "id": "qs00_02:010:10",
   "speaker": "北米のハッカーの声",
   "jp": "ウッ、ウェイウェイウェイ！\n話せばわかる！話せば―――",
-  "en": "Wh-Whoa whoa whoa! We can talk this out! Just\ntalk--"
+  "en": "Wh-Whoa whoa whoa! We\ncan talk this out! Just talk--"
  },
  {
   "id": "qs00_02:010:11",
@@ -189,7 +189,7 @@
   "id": "qs00_02:010:12",
   "speaker": "澁川",
   "jp": "まったく騒がしい……。\nしかも、奴の触ったところは\nどこも油だらけに―――",
-  "en": "What a racket... And everything he touched is\ncovered in grease--"
+  "en": "What a racket... And everything\nhe touched is covered in grease--"
  },
  {
   "id": "qs00_02:010:13",

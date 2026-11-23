@@ -15,7 +15,7 @@
   "id": "fd09_04:001:02",
   "speaker": "弥紀",
   "jp": "ちょっとごめんね。\nこっちの髪はこれくらいで、\nこっちはこう……。",
-  "en": "Sorry, hold still a sec. This side of your hair goes\nabout like this, and this side like so..."
+  "en": "Sorry, hold still a sec. This side of your hair\ngoes about like this, and this side like so..."
  },
  {
   "id": "fd09_04:001:03",
@@ -27,13 +27,13 @@
   "id": "fd09_04:002:00",
   "speaker": "弥紀",
   "jp": "ふふ、ありがとう。\nスタイリストとして\n嬉しいな。",
-  "en": "Hehe, thank you. That makes me happy as your\nstylist."
+  "en": "Hehe, thank you. That makes\nme happy as your stylist."
  },
  {
   "id": "fd09_04:003:00",
   "speaker": "弥紀",
   "jp": "喜んでもらえてよかった！\n頑張った甲斐があったかな。",
-  "en": "I'm so glad you like it! I guess all that effort paid\noff."
+  "en": "I'm so glad you like it! I\nguess all that effort paid off."
  },
  {
   "id": "fd09_04:004:00",
@@ -87,25 +87,25 @@
   "id": "fd09_04:009:00",
   "speaker": "弥紀",
   "jp": "自信持って、{px}。\nとっても可愛いよ。",
-  "en": "Have some confidence, {px}. You look super cute."
+  "en": "Have some confidence,\n{px}. You look super cute."
  },
  {
   "id": "fd09_04:010:00",
   "speaker": "弥紀",
   "jp": "……分け目、逆の方が\nよかったのかな？",
-  "en": "...Maybe it'd have been better parted on the other\nside?"
+  "en": "...Maybe it'd have been better\nparted on the other side?"
  },
  {
   "id": "fd09_04:011:00",
   "speaker": "弥紀",
   "jp": "でも、他の人にメイクしたり\nお洋服を考えたりするのって\n楽しいね。",
-  "en": "But doing other people's makeup and picking out\ntheir clothes is fun, isn't it?"
+  "en": "But doing other people's makeup and\npicking out their clothes is fun, isn't it?"
  },
  {
   "id": "fd09_04:011:01",
   "speaker": "弥紀",
   "jp": "きっと黒服さんどころか、\nクラスのみんなだって\nわからないんじゃないかな？",
-  "en": "I bet not even the Men in Black, or even everyone\nin our class, would recognize you."
+  "en": "I bet not even the Men in Black, or even\neveryone in our class, would recognize you."
  },
  {
   "id": "fd09_04:012:00",

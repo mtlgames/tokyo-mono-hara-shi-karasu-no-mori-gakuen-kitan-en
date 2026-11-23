@@ -9,13 +9,13 @@
   "id": "fd06_04:001:01",
   "speaker": "弥紀",
   "jp": "えへへ……お弁当、\n今日は余裕があったから、\nいっぱい詰めてきたんだ。",
-  "en": "Ehehe... I had extra time today, so I packed my\nlunch box really full."
+  "en": "Ehehe... I had extra time today, so\nI packed my lunch box really full."
  },
  {
   "id": "fd06_04:001:02",
   "speaker": "弥紀",
   "jp": "うちでは昔からお弁当は\nわたしの担当ってことに\nなってるの。",
-  "en": "At my house, making the lunches has always been\nmy job."
+  "en": "At my house, making the\nlunches has always been my job."
  },
  {
   "id": "fd06_04:001:03",
@@ -57,7 +57,7 @@
   "id": "fd06_04:003:00",
   "speaker": "弥紀",
   "jp": "そんなに大した物じゃないけど\n……喜んでくれるなら、\n嬉しいな。",
-  "en": "It's nothing special, but... if it makes you happy, then\nI'm glad."
+  "en": "It's nothing special, but... if it\nmakes you happy, then I'm glad."
  },
  {
   "id": "fd06_04:003:01",
@@ -93,7 +93,7 @@
   "id": "fd06_04:006:00",
   "speaker": "弥紀",
   "jp": "あ……。\nそうだよね、さっきカレー\n食べに行ってたものね。",
-  "en": "Oh... That's right, you just went out for curry, didn't\nyou?"
+  "en": "Oh... That's right, you just\nwent out for curry, didn't you?"
  },
  {
   "id": "fd06_04:006:01",
@@ -117,7 +117,7 @@
   "id": "fd06_04:008:00",
   "speaker": "弥紀",
   "jp": "あ、そうか。\nカレー屋さんの帰りじゃ\nお腹いっぱいだよね。",
-  "en": "Oh, right. If you just got back from the curry shop,\nyou must be full."
+  "en": "Oh, right. If you just got back from\nthe curry shop, you must be full."
  },
  {
   "id": "fd06_04:008:01",
@@ -129,7 +129,7 @@
   "id": "fd06_04:009:00",
   "speaker": "弥紀",
   "jp": "どうしたの？\nいっぱいあるし、\n遠慮なんか……。",
-  "en": "What's wrong? There's lots, so you don't need to be\nshy..."
+  "en": "What's wrong? There's lots,\nso you don't need to be shy..."
  },
  {
   "id": "fd06_04:009:01",
@@ -153,13 +153,13 @@
   "id": "fd06_04:011:01",
   "speaker": "弥紀",
   "jp": "今度はどんなおかずが\nいいか、{px}の\n意見も聞かせてね。",
-  "en": "Tell me what kind of side dishes you'd like next\ntime, okay, {px}?"
+  "en": "Tell me what kind of side dishes you'd\nlike next time, okay, {px}?"
  },
  {
   "id": "fd06_04:012:00",
   "speaker": "弥紀",
   "jp": "次は、お腹いっぱいでも\nつい手が出ちゃうような\n一口おかずを目指してみるね。",
-  "en": "Next time, I'll aim for bite-sized dishes you can't\nresist even when you're full."
+  "en": "Next time, I'll aim for bite-sized dishes\nyou can't resist even when you're full."
  },
  {
   "id": "fd06_04:013:00",

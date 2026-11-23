@@ -44,6 +44,10 @@ shop       script=FN08_27 block=3 set=chapter=8 mash=600:-
 # trade (tradeNN): from a warp the item list is not drawn (black), circle shows its このアイテムを渡しますか？ dialog
 trade      script=FN05_25 block=3 set=chapter=5 mash=600:- route=600 -;6 circle;150 -
 
+# --- name splice past the 161-byte scratch (docs/re/engine.md §Name codes): longest {px} messages
+splice1    script=MS05_00 block=167 mash=600:-
+splice2    script=MS06_01 block=143 mash=600:-
+
 # --- endings: the scripts play the ending movie with the staff credits (MS11_04 bad end, MS13_03 true end)
 badend     script=MS11_04 mash=9000:circle
 trueend    script=MS13_03 mash=20000:circle

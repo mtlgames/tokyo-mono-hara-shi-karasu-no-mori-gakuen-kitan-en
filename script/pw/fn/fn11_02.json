@@ -69,7 +69,7 @@
   "id": "fn11_02:005:00",
   "speaker": "いちる",
   "jp": "……ごめん、いまは\n一人にしてくれると\n嬉しいな。",
-  "en": "...Sorry, I'd really like it if you could leave me alone\nright now."
+  "en": "...Sorry, I'd really like it if you\ncould leave me alone right now."
  },
  {
   "id": "fn11_02:005:01",
@@ -81,13 +81,13 @@
   "id": "fn11_02:006:00",
   "speaker": "いちる",
   "jp": "……ホントはね、\nちゃんと今日に間に合わせる\nつもりだったんだ。",
-  "en": "...Truth is, I was planning to have it done in time for\ntoday."
+  "en": "...Truth is, I was planning to\nhave it done in time for today."
  },
  {
   "id": "fn11_02:006:01",
   "speaker": "いちる",
   "jp": "でも、最近トレーニング\n増やしたから、そのせいで\n帰るとすぐ寝ちゃってて……。",
-  "en": "But I've been training more lately, so I keep crashing\nthe second I get home..."
+  "en": "But I've been training more lately, so I\nkeep crashing the second I get home..."
  },
  {
   "id": "fn11_02:006:02",
@@ -111,7 +111,7 @@
   "id": "fn11_02:006:05",
   "speaker": "いちる",
   "jp": "あはは、三人分もとか、\n我ながらムボーにも\n程があるよね。",
-  "en": "Ahaha, three pairs, even. Talk about biting off way\nmore than I can chew, huh?"
+  "en": "Ahaha, three pairs, even. Talk about biting\noff way more than I can chew, huh?"
  },
  {
   "id": "fn11_02:006:06",
@@ -129,13 +129,13 @@
   "id": "fn11_02:006:08",
   "speaker": "いちる",
   "jp": "いまだって{px}と\n{ruby:雉明|ちあき}クンとお揃いだし……\nあ、伊佐地センセもか。",
-  "en": "Even now, I match with you, {px}, and Chiaki-kun...\nOh, and Isachi-sensei too."
+  "en": "Even now, I match with you, {px},\nand Chiaki-kun... Oh, and Isachi-sensei too."
  },
  {
   "id": "fn11_02:006:09",
   "speaker": "いちる",
   "jp": "でも片っぽだけだと寒いし\nそれに……\nちょっと恥ずかしくない？",
-  "en": "But just one on its own gets cold, and besides... isn't\nit kinda embarrassing?"
+  "en": "But just one on its own gets cold, and\nbesides... isn't it kinda embarrassing?"
  },
  {
   "id": "fn11_02:007:00",
@@ -177,7 +177,7 @@
   "id": "fn11_02:008:01",
   "speaker": "いちる",
   "jp": "だから、手袋って。\nあははッ。\nちょっと単純だったかな。",
-  "en": "So that's why I thought, gloves. Ahaha. Was that a\nlittle too simple?"
+  "en": "So that's why I thought, gloves.\nAhaha. Was that a little too simple?"
  },
  {
   "id": "fn11_02:009:00",
@@ -189,7 +189,7 @@
   "id": "fn11_02:009:01",
   "speaker": "いちる",
   "jp": "そうだよね、片っぽとか\n目立つし、ほんと\n恥ずかしいよねッ！",
-  "en": "Right? Wearing just one really stands out, and it's\nsooo embarrassing!"
+  "en": "Right? Wearing just one really stands\nout, and it's sooo embarrassing!"
  },
  {
   "id": "fn11_02:009:02",
@@ -213,7 +213,7 @@
   "id": "fn11_02:010:01",
   "speaker": "いちる",
   "jp": "だから、手袋って。\nあははッ。\nちょっと単純だったかな。",
-  "en": "So that's why I thought, gloves. Ahaha. Was that a\nlittle too simple?"
+  "en": "So that's why I thought, gloves.\nAhaha. Was that a little too simple?"
  },
  {
   "id": "fn11_02:011:00",
@@ -225,7 +225,7 @@
   "id": "fn11_02:011:01",
   "speaker": "いちる",
   "jp": "グローブ、色が濃いでしょ？\nそれで……\n浮いてるような気がして……。",
-  "en": "The glove's a pretty dark color, right? So... I feel like\nI stick out..."
+  "en": "The glove's a pretty dark color,\nright? So... I feel like I stick out..."
  },
  {
   "id": "fn11_02:011:02",
@@ -249,7 +249,7 @@
   "id": "fn11_02:012:01",
   "speaker": "いちる",
   "jp": "{px}は、全然\n何とも思わないんだ……。\nそっかあ……。",
-  "en": "It doesn't bother you at all, {px}... I see..."
+  "en": "It doesn't bother you at all,\n{px}... I see..."
  },
  {
   "id": "fn11_02:012:02",
@@ -261,7 +261,7 @@
   "id": "fn11_02:013:00",
   "speaker": "いちる",
   "jp": "ご、ごめん！\nあの……変なコト言って\nホントにごめん！",
-  "en": "S-sorry! Um... I'm really sorry for saying something\nweird!"
+  "en": "S-sorry! Um... I'm really sorry\nfor saying something weird!"
  },
  {
   "id": "fn11_02:013:01",
@@ -273,13 +273,13 @@
   "id": "fn11_02:013:02",
   "speaker": "いちる",
   "jp": "黒いし、片っぽだし\nなんか目立つなァって\n最近気付いて……。",
-  "en": "It's black, and it's just the one, and lately I noticed it\nkinda stands out..."
+  "en": "It's black, and it's just the one, and\nlately I noticed it kinda stands out..."
  },
  {
   "id": "fn11_02:013:03",
   "speaker": "いちる",
   "jp": "そしたら急に……\n浮いてるなって思って……。",
-  "en": "And then all of a sudden... I felt like I was the odd\none out..."
+  "en": "And then all of a sudden... I\nfelt like I was the odd one out..."
  },
  {
   "id": "fn11_02:014:00",
@@ -297,7 +297,7 @@
   "id": "fn11_02:016:00",
   "speaker": "いちる",
   "jp": "……と、まァ\nそういう訳だから！\n今日中には渡せないけど、",
-  "en": "...So, yeah, that's how it is! I can't give them to you\ntoday, but..."
+  "en": "...So, yeah, that's how it is! I can't\ngive them to you today, but..."
  },
  {
   "id": "fn11_02:016:01",
@@ -309,13 +309,13 @@
   "id": "fn11_02:017:00",
   "speaker": "いちる",
   "jp": "最近ね、なんか周りのみんなが\n気になってしょうがないの。",
-  "en": "Lately, I just can't stop worrying about what\neveryone around me thinks."
+  "en": "Lately, I just can't stop worrying about\nwhat everyone around me thinks."
  },
  {
   "id": "fn11_02:017:01",
   "speaker": "いちる",
   "jp": "昔はあたし、友達いなかった\nからさ。あんまり気にして\nなかったんだけど……。",
-  "en": "Back then, I didn't have any friends, see. So I never\nreally cared, but..."
+  "en": "Back then, I didn't have any friends,\nsee. So I never really cared, but..."
  },
  {
   "id": "fn11_02:017:02",
@@ -333,25 +333,25 @@
   "id": "fn11_02:017:04",
   "speaker": "いちる",
   "jp": "もっとみんなと自然に\n仲良くなれるんじゃ\nないかなって……。",
-  "en": "maybe I could get along with everyone more\nnaturally..."
+  "en": "maybe I could get along with\neveryone more naturally..."
  },
  {
   "id": "fn11_02:017:05",
   "speaker": "いちる",
   "jp": "……ホント、馬鹿だよね。\nなに勘違いしてたんだろ。",
-  "en": "...Seriously, how dumb is that? What was I even\nthinking?"
+  "en": "...Seriously, how dumb is that?\nWhat was I even thinking?"
  },
  {
   "id": "fn11_02:017:06",
   "speaker": "いちる",
   "jp": "このグローブをする資格が\nあったから、みんなにだって\n相手にしてもらえたのに。",
-  "en": "It's because I earned the right to wear this glove\nthat everyone gave me the time of day in the first\nplace."
+  "en": "It's because I earned the right to\nwear this glove that everyone gave\nme the time of day in the first place."
  },
  {
   "id": "fn11_02:017:07",
   "speaker": "いちる",
   "jp": "それがなかったら……\n{px}とだって、\nこんな風に話せなかったよね。",
-  "en": "Without it... I couldn't even talk with you like this,\n{px}."
+  "en": "Without it... I couldn't even talk with\nyou like this, {px}."
  },
  {
   "id": "fn11_02:018:00",
@@ -459,19 +459,19 @@
   "id": "fn11_02:027:01",
   "speaker": "いちる",
   "jp": "ありがと、{px}。\nキミと話してたらなんか\n整理が付いた気がする。",
-  "en": "Thanks, {px}. Talking with you, I feel like I've got\nmy head sorted out."
+  "en": "Thanks, {px}. Talking with\nyou, I feel like I've got my head sorted out."
  },
  {
   "id": "fn11_02:027:02",
   "speaker": "いちる",
   "jp": "でも、手袋は作るからね！\nキミの分と……\n雉明クンの分も！",
-  "en": "But I'm still making those gloves! One pair for you...\nand one for Chiaki-kun!"
+  "en": "But I'm still making those gloves! One\npair for you... and one for Chiaki-kun!"
  },
  {
   "id": "fn11_02:027:03",
   "speaker": "いちる",
   "jp": "完成するまでまだかかるから、\nそれまで勝手にどっか行っちゃ\n……駄目だからね。",
-  "en": "It'll be a while till they're done, so don't you go\nwandering off anywhere before then... okay?"
+  "en": "It'll be a while till they're done, so don't you\ngo wandering off anywhere before then... okay?"
  },
  {
   "id": "fn11_02:027:04",
@@ -495,25 +495,25 @@
   "id": "fn11_02:028:02",
   "speaker": "いちる",
   "jp": "初めから普通に同じ学校にいて\n同じクラスになって―――",
-  "en": "we'd been at the same school from the start, like\nnormal, and ended up in the same class--"
+  "en": "we'd been at the same school from the start,\nlike normal, and ended up in the same class--"
  },
  {
   "id": "fn11_02:028:03",
   "speaker": "いちる",
   "jp": "たまに、席とか\n隣になっちゃったりして……",
-  "en": "and sometimes we got seats right next to each\nother..."
+  "en": "and sometimes we got seats\nright next to each other..."
  },
  {
   "id": "fn11_02:028:04",
   "speaker": "いちる",
   "jp": "あ、それはちょっと\n楽しそうなんだけど……\nじゃ、なくて、とにかく！！",
-  "en": "Oh, that actually sounds kinda fun... No, that's not it,\nanyway!!"
+  "en": "Oh, that actually sounds kinda\nfun... No, that's not it, anyway!!"
  },
  {
   "id": "fn11_02:028:05",
   "speaker": "いちる",
   "jp": "もしそんな風に出会ってても、\n{px}はあたしのコト……\n気にかけてくれたかな。",
-  "en": "If we'd met like that, {px}... would you still have\ncared about me?"
+  "en": "If we'd met like that, {px}...\nwould you still have cared about me?"
  },
  {
   "id": "fn11_02:029:00",
@@ -525,7 +525,7 @@
   "id": "fn11_02:029:01",
   "speaker": "いちる",
   "jp": "よかった……。\nキミがそう言ってくれたら、\nもう全部よかったって思える。",
-  "en": "I'm so glad... Hearing you say that makes me feel\nlike everything was worth it."
+  "en": "I'm so glad... Hearing you say that makes\nme feel like everything was worth it."
  },
  {
   "id": "fn11_02:029:02",
@@ -651,13 +651,13 @@
   "id": "fn11_02:035:00",
   "speaker": "いちる",
   "jp": "あ……あはは、\nうん、そっか。\nもう気にしないで！",
-  "en": "Ah... ahaha, yeah, I see. Don't worry about it\nanymore!"
+  "en": "Ah... ahaha, yeah, I see. Don't\nworry about it anymore!"
  },
  {
   "id": "fn11_02:036:00",
   "speaker": "いちる",
   "jp": "あ……あはは、\nうん、そっか。\nもう気にしないで！",
-  "en": "Ah... ahaha, yeah, I see. Don't worry about it\nanymore!"
+  "en": "Ah... ahaha, yeah, I see. Don't\nworry about it anymore!"
  },
  {
   "id": "fn11_02:037:00",
@@ -669,19 +669,19 @@
   "id": "fn11_02:038:00",
   "speaker": "いちる",
   "jp": "……うん。\nキミと話してたらなんか\n整理が付いた気がする。",
-  "en": "...Yeah. Talking with you, I feel like I've got my head\nsorted out."
+  "en": "...Yeah. Talking with you, I feel\nlike I've got my head sorted out."
  },
  {
   "id": "fn11_02:038:01",
   "speaker": "いちる",
   "jp": "でも、手袋は作るからね！\nキミの分と……\n雉明クンの分も！",
-  "en": "But I'm still making those gloves! One pair for you...\nand one for Chiaki-kun!"
+  "en": "But I'm still making those gloves! One\npair for you... and one for Chiaki-kun!"
  },
  {
   "id": "fn11_02:038:02",
   "speaker": "いちる",
   "jp": "完成するまでまだかかるから、\nそれまで勝手にどっか行っちゃ\n……駄目だからね。",
-  "en": "It'll be a while till they're done, so don't you go\nwandering off anywhere before then... okay?"
+  "en": "It'll be a while till they're done, so don't you\ngo wandering off anywhere before then... okay?"
  },
  {
   "id": "fn11_02:038:03",
@@ -693,25 +693,25 @@
   "id": "fn11_02:039:00",
   "speaker": "いちる",
   "jp": "プレゼントは\n間に合わなかったけど、\n伝えられて良かった。",
-  "en": "The present didn't make it in time, but I'm glad I got\nto tell you."
+  "en": "The present didn't make it in time,\nbut I'm glad I got to tell you."
  },
  {
   "id": "fn11_02:039:01",
   "speaker": "いちる",
   "jp": "あたしはもう{px}から\nすごいプレゼント、\nもらったから。",
-  "en": "'Cause I already got an amazing present from you,\n{px}."
+  "en": "'Cause I already got an amazing\npresent from you, {px}."
  },
  {
   "id": "fn11_02:039:02",
   "speaker": "いちる",
   "jp": "……同じ力なんてなくたって\nちゃんと、仲良くなれる。",
-  "en": "...Even without the same powers, people can still\nbecome real friends."
+  "en": "...Even without the same powers,\npeople can still become real friends."
  },
  {
   "id": "fn11_02:039:03",
   "speaker": "いちる",
   "jp": "{px}が、あたしに\nそう思える勇気を\nくれたんだよ。",
-  "en": "You gave me the courage to believe that, {px}."
+  "en": "You gave me the courage to\nbelieve that, {px}."
  },
  {
   "id": "fn11_02:039:04",
@@ -723,13 +723,13 @@
   "id": "fn11_02:039:05",
   "speaker": "いちる",
   "jp": "でも、手袋は作るからね！\nキミの分と……\n雉明クンの分も！",
-  "en": "But I'm still making those gloves! One pair for you...\nand one for Chiaki-kun!"
+  "en": "But I'm still making those gloves! One\npair for you... and one for Chiaki-kun!"
  },
  {
   "id": "fn11_02:039:06",
   "speaker": "いちる",
   "jp": "完成するまでまだかかるから、\nそれまで勝手にどっか行っちゃ\n……駄目だからね。",
-  "en": "It'll be a while till they're done, so don't you go\nwandering off anywhere before then... okay?"
+  "en": "It'll be a while till they're done, so don't you\ngo wandering off anywhere before then... okay?"
  },
  {
   "id": "fn11_02:039:07",
@@ -765,7 +765,7 @@
   "id": "fn11_02:041:01",
   "speaker": "いちる",
   "jp": "ほ、他に何か大事な用事が\nあるんじゃないかなーって\n思うけど……。",
-  "en": "I-I kinda think you might have something more\nimportant to do, y'know..."
+  "en": "I-I kinda think you might have\nsomething more important to do, y'know..."
  },
  {
   "id": "fn11_02:042:00",

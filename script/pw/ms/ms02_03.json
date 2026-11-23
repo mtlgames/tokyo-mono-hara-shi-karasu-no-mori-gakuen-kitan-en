@@ -9,13 +9,13 @@
   "id": "ms02_03:000:01",
   "speaker": "長英",
   "jp": "そうですか……\n{ruby:夜刀神|やとがみ}さんと思うてたのは\nその、何とか言う花札で……。",
-  "en": "I see... So what I thought was Lord Yatogami was\nthat hanafuda card, or whatever ye call it..."
+  "en": "I see... So what I thought was Lord Yatogami\nwas that hanafuda card, or whatever ye call it..."
  },
  {
   "id": "ms02_03:000:02",
   "speaker": "長英",
   "jp": "あまりよく覚えとらんが、\nわしゃァ、取り返しの\nつかん事したんじゃな……。",
-  "en": "I don't remember much, but... I've gone and done\nsomethin' I can't ever take back, ain't I..."
+  "en": "I don't remember much, but... I've gone and\ndone somethin' I can't ever take back, ain't I..."
  },
  {
   "id": "ms02_03:000:03",
@@ -27,7 +27,7 @@
   "id": "ms02_03:000:04",
   "speaker": "白",
   "jp": "其方に取り憑いた札が\n内に秘められた願望と結びつき\n無意識に力を振るったのじゃ。",
-  "en": "The card that possessed you bound itself to the\ndesires hidden within, and wielded its power without\nyour knowing."
+  "en": "The card that possessed you bound\nitself to the desires hidden within, and\nwielded its power without your knowing."
  },
  {
   "id": "ms02_03:000:05",
@@ -39,13 +39,13 @@
   "id": "ms02_03:000:06",
   "speaker": "長英",
   "jp": "いえ、でも結局は\nわしの弱い心が\n原因で起こった事じゃ。",
-  "en": "Nay, but in the end, it all happened on account o'\nmy weak heart."
+  "en": "Nay, but in the end, it all happened\non account o' my weak heart."
  },
  {
   "id": "ms02_03:000:07",
   "speaker": "長英",
   "jp": "人を襲って、\n怪我ァさせて……。\n許される事じゃないけェ。",
-  "en": "Attackin' people, hurtin' 'em... That ain't somethin'\nthat can be forgiven."
+  "en": "Attackin' people, hurtin' 'em... That\nain't somethin' that can be forgiven."
  },
  {
   "id": "ms02_03:000:08",
@@ -99,7 +99,7 @@
   "id": "ms02_03:003:00",
   "speaker": "弥紀",
   "jp": "ふふ、\n{px}の笑顔、\n何だかほっとする。",
-  "en": "Hehe, your smile, {px}... It's kind of a relief."
+  "en": "Hehe, your smile, {px}...\nIt's kind of a relief."
  },
  {
   "id": "ms02_03:004:00",
@@ -111,7 +111,7 @@
   "id": "ms02_03:004:01",
   "speaker": "弥紀",
   "jp": "{px}もみんなも、\n絶対、無事に戻ってくるって。",
-  "en": "I knew you and everyone would come back safe,\n{px}. I just knew it."
+  "en": "I knew you and everyone would come back\nsafe, {px}. I just knew it."
  },
  {
   "id": "ms02_03:005:00",
@@ -153,7 +153,7 @@
   "id": "ms02_03:011:00",
   "speaker": "巴",
   "jp": "ちょっと、{px}。\n何でそこで\n弥紀を困らせてんのよ。",
-  "en": "Hey, {px}. Why are you making Minori worry at a\ntime like this?"
+  "en": "Hey, {px}. Why are you\nmaking Minori worry at a time like this?"
  },
  {
   "id": "ms02_03:011:01",
@@ -219,7 +219,7 @@
   "id": "ms02_03:012:08",
   "speaker": "弥紀",
   "jp": "入院、してた子も、\n明日には、きっと、\n退院出来る、よ……。",
-  "en": "The ones... in the hospital... should be able to... go\nhome tomorrow..."
+  "en": "The ones... in the hospital... should\nbe able to... go home tomorrow..."
  },
  {
   "id": "ms02_03:012:09",
@@ -243,7 +243,7 @@
   "id": "ms02_03:012:12",
   "speaker": "弥紀",
   "jp": "みんな、怒ってないって……\n宍戸くんの心配、してたよ。",
-  "en": "They said... they're not angry... They were worried\nabout you, Shishido-kun."
+  "en": "They said... they're not angry... They\nwere worried about you, Shishido-kun."
  },
  {
   "id": "ms02_03:012:13",
@@ -285,7 +285,7 @@
   "id": "ms02_03:014:03",
   "speaker": "長英",
   "jp": "穂坂先輩まで、\nわしのために、\nこがァなるまで……。",
-  "en": "Even Hosaka-senpai, wearin' herself down like this\nfor my sake..."
+  "en": "Even Hosaka-senpai, wearin' herself\ndown like this for my sake..."
  },
  {
   "id": "ms02_03:014:04",
@@ -327,7 +327,7 @@
   "id": "ms02_03:015:05",
   "speaker": "長英",
   "jp": "穂坂先輩まで、\nわしのために、\nこがァなるまで……。",
-  "en": "Even Hosaka-senpai, wearin' herself down like this\nfor my sake..."
+  "en": "Even Hosaka-senpai, wearin' herself\ndown like this for my sake..."
  },
  {
   "id": "ms02_03:015:06",
@@ -345,13 +345,13 @@
   "id": "ms02_03:016:01",
   "speaker": "燈治",
   "jp": "負けても、駄目でも、\nみっともなくてもよ。",
-  "en": "Even if you lose, even if you screw up, even if you\nlook like a fool."
+  "en": "Even if you lose, even if you screw\nup, even if you look like a fool."
  },
  {
   "id": "ms02_03:016:02",
   "speaker": "巴",
   "jp": "罪は確かに罪かもしれないけど\n償い方は一つじゃない。",
-  "en": "A crime may well be a crime, but there's more than\none way to atone for it."
+  "en": "A crime may well be a crime, but there's\nmore than one way to atone for it."
  },
  {
   "id": "ms02_03:016:03",
@@ -399,13 +399,13 @@
   "id": "ms02_03:016:10",
   "speaker": "燈治",
   "jp": "お前な、デカイ図体して\n細かい事、気にしすぎ\nなんだよ。",
-  "en": "Y'know, for a guy your size, you sweat the small\nstuff way too much."
+  "en": "Y'know, for a guy your size, you\nsweat the small stuff way too much."
  },
  {
   "id": "ms02_03:016:11",
   "speaker": "燈治",
   "jp": "そんなんじゃ、\n剣先だって鈍るばかりだぜ？",
-  "en": "Keep that up and your sword's just gonna keep\ngettin' duller, y'know?"
+  "en": "Keep that up and your sword's just\ngonna keep gettin' duller, y'know?"
  },
  {
   "id": "ms02_03:016:12",
@@ -417,7 +417,7 @@
   "id": "ms02_03:016:13",
   "speaker": "長英",
   "jp": "ただ型を繰り返す。\nただ己を見つめる。\nそれが剣の道じゃ言うに……。",
-  "en": "Just repeat the forms. Just look within yerself. That's\nthe way o' the sword, and yet..."
+  "en": "Just repeat the forms. Just look within yerself.\nThat's the way o' the sword, and yet..."
  },
  {
   "id": "ms02_03:016:14",
@@ -429,7 +429,7 @@
   "id": "ms02_03:016:15",
   "speaker": "長英",
   "jp": "わしの剣の道は、\nまだまだじゃけェ。",
-  "en": "I've still got a long way to go on the way o' the\nsword."
+  "en": "I've still got a long way to\ngo on the way o' the sword."
  },
  {
   "id": "ms02_03:018:00",
@@ -447,7 +447,7 @@
   "id": "ms02_03:018:02",
   "speaker": "長英",
   "jp": "この力ァ、{px}のために\n得たようなもんじゃけェ。",
-  "en": "It's like I got this power just for yer sake, {px}."
+  "en": "It's like I got this power just for\nyer sake, {px}."
  },
  {
   "id": "ms02_03:019:00",
@@ -459,7 +459,7 @@
   "id": "ms02_03:019:01",
   "speaker": "長英",
   "jp": "{px}のために粉骨砕身、\nどこまでもついて行くけェ！！",
-  "en": "I'll work myself to the bone for ye, {px}, and follow\nye to the ends o' the earth!!"
+  "en": "I'll work myself to the bone for\nye, {px}, and follow\nye to the ends o' the earth!!"
  },
  {
   "id": "ms02_03:020:00",
@@ -489,7 +489,7 @@
   "id": "ms02_03:022:00",
   "speaker": "長英",
   "jp": "ありがとォの、{px}！！\n荒事はわしに\n任せてつかァさい！！",
-  "en": "Thank ye kindly, {px}!! Leave the rough stuff to me!!"
+  "en": "Thank ye kindly, {px}!!\nLeave the rough stuff to me!!"
  },
  {
   "id": "ms02_03:023:00",
@@ -531,7 +531,7 @@
   "id": "ms02_03:028:01",
   "speaker": "燈治",
   "jp": "ッたく、\n大げさなんだよ、お前は。",
-  "en": "Jeez, you always gotta make such a big deal outta\neverything."
+  "en": "Jeez, you always gotta make\nsuch a big deal outta everything."
  },
  {
   "id": "ms02_03:028:02",
@@ -543,7 +543,7 @@
   "id": "ms02_03:028:03",
   "speaker": "巴",
   "jp": "存分に働いてもらいなさいよ、\n{px}。",
-  "en": "Put him to work as much as you like, {px}."
+  "en": "Put him to work as much as\nyou like, {px}."
  },
  {
   "id": "ms02_03:029:00",
@@ -555,7 +555,7 @@
   "id": "ms02_03:029:01",
   "speaker": "燈治",
   "jp": "事によっちゃ、俺たちよりも\nお前の事を必要としてる\n奴らがいる。違うか？",
-  "en": "Dependin' on how things go, there're guys who need\nyou more'n we do. Am I wrong?"
+  "en": "Dependin' on how things go, there're guys\nwho need you more'n we do. Am I wrong?"
  },
  {
   "id": "ms02_03:029:02",
@@ -573,13 +573,13 @@
   "id": "ms02_03:029:04",
   "speaker": "白",
   "jp": "このまま花札から離れておれば\nすぐに消えるじゃろう。",
-  "en": "If you keep away from the hanafuda, it will soon\nfade."
+  "en": "If you keep away from the\nhanafuda, it will soon fade."
  },
  {
   "id": "ms02_03:029:05",
   "speaker": "長英",
   "jp": "……わかった。\nわしも男じゃ。\nこれ以上、無様な真似はせん。",
-  "en": "...Understood. I'm a man. I won't make a fool o'\nmyself any more'n I already have."
+  "en": "...Understood. I'm a man. I won't make a\nfool o' myself any more'n I already have."
  },
  {
   "id": "ms02_03:030:00",
@@ -591,7 +591,7 @@
   "id": "ms02_03:030:01",
   "speaker": "白",
   "jp": "このまま花札から離れておれば\nすぐに消えるじゃろう。",
-  "en": "If you keep away from the hanafuda, it will soon\nfade."
+  "en": "If you keep away from the\nhanafuda, it will soon fade."
  },
  {
   "id": "ms02_03:030:02",
@@ -609,7 +609,7 @@
   "id": "ms02_03:030:04",
   "speaker": "長英",
   "jp": "いや、駄目じゃ。\n漢は黙って実力勝負じゃッ！！",
-  "en": "Nay, no good. A real man shuts his mouth and wins\non his own strength!!"
+  "en": "Nay, no good. A real man shuts his\nmouth and wins on his own strength!!"
  },
  {
   "id": "ms02_03:031:00",
@@ -627,13 +627,13 @@
   "id": "ms02_03:031:02",
   "speaker": "巴",
   "jp": "そうね、花札を奪っていった\nアイツ……。\n一体、何者かしら。",
-  "en": "Right. That guy who ran off with the hanafuda\ncard... Who on earth was he?"
+  "en": "Right. That guy who ran off with the\nhanafuda card... Who on earth was he?"
  },
  {
   "id": "ms02_03:031:03",
   "speaker": "巴",
   "jp": "あの制服……\nそれにあのバンダナのマークは\n確か……。",
-  "en": "That uniform... And the mark on that bandana, if I\nremember right..."
+  "en": "That uniform... And the mark on\nthat bandana, if I remember right..."
  },
  {
   "id": "ms02_03:031:04",
@@ -651,7 +651,7 @@
   "id": "ms02_03:031:06",
   "speaker": "燈治",
   "jp": "だが―――{px}以外に\n真っ当な理由で札を必要と\nしてる奴はいない……。",
-  "en": "But--besides {px}, nobody needs the cards for any\ndecent reason..."
+  "en": "But--besides {px}, nobody\nneeds the cards for any decent reason..."
  },
  {
   "id": "ms02_03:031:07",
@@ -669,7 +669,7 @@
   "id": "ms02_03:031:09",
   "speaker": "白",
   "jp": "ヒトの身のまま、全ての札を\n治める事が出来るのは\n執行者のみ―――",
-  "en": "Only an Executor can govern every card while\nremaining human--"
+  "en": "Only an Executor can govern every\ncard while remaining human--"
  },
  {
   "id": "ms02_03:031:10",
@@ -693,19 +693,19 @@
   "id": "ms02_03:031:13",
   "speaker": "燈治",
   "jp": "……{px}、\n俺の拳はお前に預ける。",
-  "en": "...{px}, I'm puttin' my fists in your hands."
+  "en": "...{px}, I'm\nputtin' my fists in your hands."
  },
  {
   "id": "ms02_03:031:14",
   "speaker": "燈治",
   "jp": "それが……この力の\n一番有効で正当な使い道だと\n確信が持てたからな。",
-  "en": "'Cause I'm sure now... that's the most useful, most\nlegit way to use this power."
+  "en": "'Cause I'm sure now... that's the most\nuseful, most legit way to use this power."
  },
  {
   "id": "ms02_03:031:15",
   "speaker": "燈治",
   "jp": "呪言花札って奴が、\n人をあんな風に変えちまうなら\n絶対に放ってはおけねェ。",
-  "en": "If these Curse Hanafuda things can change people\nlike that, there's no way I'm lettin' 'em be."
+  "en": "If these Curse Hanafuda things can change\npeople like that, there's no way I'm lettin' 'em be."
  },
  {
   "id": "ms02_03:031:16",
@@ -717,7 +717,7 @@
   "id": "ms02_03:031:17",
   "speaker": "燈治",
   "jp": "……改めて、\nよろしく頼むぜ、{px}。",
-  "en": "...So once more, I'm countin' on ya, {px}."
+  "en": "...So once more, I'm countin'\non ya, {px}."
  },
  {
   "id": "ms02_03:ksf:07edf",

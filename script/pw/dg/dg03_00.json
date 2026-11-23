@@ -39,7 +39,7 @@
   "id": "dg03_00:004:00",
   "speaker": "絢人",
   "jp": "なるほど、\n困難であればあるほど\n燃え上がる{ruby:性質|た　ち}か。",
-  "en": "I see. The more difficult things get, the more fired\nup you become, is that it?"
+  "en": "I see. The more difficult things get, the\nmore fired up you become, is that it?"
  },
  {
   "id": "dg03_00:004:01",
@@ -129,7 +129,7 @@
   "id": "dg03_00:011:00",
   "speaker": "幼い声",
   "jp": "{ruby:絢人|あやひと}、もういい。\n盗っ人にそれ以上、\n情けは必要ない！！",
-  "en": "Ayahito, that's enough. This thief doesn't deserve\nany more mercy!!"
+  "en": "Ayahito, that's enough. This thief\ndoesn't deserve any more mercy!!"
  },
  {
   "id": "dg03_00:011:01",
@@ -159,7 +159,7 @@
   "id": "dg03_00:011:05",
   "speaker": "絢人",
   "jp": "輪、そんな術、\n{ruby:旋火流|せんかりゅう}にないだろう？",
-  "en": "Rin, there's no technique like that in Senka-ryu, is\nthere?"
+  "en": "Rin, there's no technique like\nthat in Senka-ryu, is there?"
  },
  {
   "id": "dg03_00:011:06",
@@ -171,7 +171,7 @@
   "id": "dg03_00:011:07",
   "speaker": "輪",
   "jp": "じいちゃんだって、\n忍術には現代アレンジが\n必要だって言ってた！！",
-  "en": "Grandpa said so too! Ninjutsu needs a modern\ntwist!!"
+  "en": "Grandpa said so too! Ninjutsu\nneeds a modern twist!!"
  },
  {
   "id": "dg03_00:011:08",
@@ -243,7 +243,7 @@
   "id": "dg03_00:011:19",
   "speaker": "輪",
   "jp": "{ruby:呪言|じゅごん}花札は、{ruby:旋火流忍|せんかりゅうしのび}が\n{ruby:主家|しゅけ}、{ruby:西園寺|さいおんじ}より\n護りを命ぜられた宝だ。",
-  "en": "The Curse Hanafuda are a treasure the Senka-ryu\nninja were ordered to guard by the house we serve,\nthe Saionji."
+  "en": "The Curse Hanafuda are a treasure the\nSenka-ryu ninja were ordered to guard\nby the house we serve, the Saionji."
  },
  {
   "id": "dg03_00:012:00",
@@ -261,7 +261,7 @@
   "id": "dg03_00:013:01",
   "speaker": "絢人",
   "jp": "ああ、{px}。\nそれは多分、輪にはまだ\n理解出来ないと思うよ。",
-  "en": "Ah, {px}. I don't think Rin can quite understand that\nyet."
+  "en": "Ah, {px}. I don't think\nRin can quite understand that yet."
  },
  {
   "id": "dg03_00:013:02",
@@ -279,13 +279,13 @@
   "id": "dg03_00:015:00",
   "speaker": "輪",
   "jp": "それはこっちのセリフだ！！\n盗人騒々しい！！",
-  "en": "That's my line!! Talk about the pot calling the\nkettle... blue!!"
+  "en": "That's my line!! Talk about the\npot calling the kettle... blue!!"
  },
  {
   "id": "dg03_00:015:01",
   "speaker": "絢人",
   "jp": "輪、それを言うなら\n猛々しい、だよ。",
-  "en": "Rin, I believe the expression is \"the pot calling the\nkettle black.\""
+  "en": "Rin, I believe the expression is\n\"the pot calling the kettle black.\""
  },
  {
   "id": "dg03_00:015:02",
@@ -357,7 +357,7 @@
   "id": "dg03_00:022:00",
   "speaker": "輪",
   "jp": "いざ、勝負だ！！\n旋火流忍術の神髄、\nとくと味わうがいい！！",
-  "en": "Now, have at you!! Get a good taste of the true\nessence of Senka-ryu ninjutsu!!"
+  "en": "Now, have at you!! Get a good taste of\nthe true essence of Senka-ryu ninjutsu!!"
  },
  {
   "id": "dg03_00:022:01",
@@ -381,6 +381,6 @@
   "id": "dg03_00:022:04",
   "speaker": "絢人",
   "jp": "悪いね、{px}。\nその力、渡してもらうよ―――",
-  "en": "Sorry, {px}. I'll be taking that power of yours--"
+  "en": "Sorry, {px}. I'll\nbe taking that power of yours--"
  }
 ]

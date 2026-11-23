@@ -3,7 +3,7 @@
   "id": "qs00_20:000:00",
   "speaker": "澁川",
   "jp": "これで、俺が紹介した、\n全ての依頼が達成された。",
-  "en": "With this, every quest I've introduced you to is\ncomplete."
+  "en": "With this, every quest I've\nintroduced you to is complete."
  },
  {
   "id": "qs00_20:000:01",
@@ -33,7 +33,7 @@
   "id": "qs00_20:000:05",
   "speaker": "澁川",
   "jp": "どう扱うかはお前の自由だが\n必ず……結果は報告しに来い。",
-  "en": "What you do with it is up to you, but... be sure to\ncome back and report the result."
+  "en": "What you do with it is up to you, but... be\nsure to come back and report the result."
  },
  {
   "id": "qs00_20:000:06",
@@ -51,7 +51,7 @@
   "id": "qs00_20:001:01",
   "speaker": "澁川",
   "jp": "だが、そんなお前だから\nここまでやり遂げる事が\n出来たのかもしれん。",
-  "en": "But maybe that's exactly why you were able to see\nit all through."
+  "en": "But maybe that's exactly why you\nwere able to see it all through."
  },
  {
   "id": "qs00_20:001:02",
@@ -69,13 +69,13 @@
   "id": "qs00_20:002:00",
   "speaker": "澁川",
   "jp": "……そんなお前だから\nここまでやり遂げる事が\n出来たのかもしれんな。",
-  "en": "...Maybe that's exactly why you were able to see it\nall through."
+  "en": "...Maybe that's exactly why you\nwere able to see it all through."
  },
  {
   "id": "qs00_20:002:01",
   "speaker": "澁川",
   "jp": "俺はこの店で\nお前が戻るのを待っている。",
-  "en": "I'll be waiting here in this shop for you to come\nback."
+  "en": "I'll be waiting here in this\nshop for you to come back."
  },
  {
   "id": "qs00_20:002:02",
@@ -87,7 +87,7 @@
   "id": "qs00_20:003:00",
   "speaker": "澁川",
   "jp": "……そんなお前だから\nここまでやり遂げる事が\n出来たのかもしれんな。",
-  "en": "...Maybe that's exactly why you were able to see it\nall through."
+  "en": "...Maybe that's exactly why you\nwere able to see it all through."
  },
  {
   "id": "qs00_20:003:01",
@@ -105,7 +105,7 @@
   "id": "qs00_20:004:00",
   "speaker": "澁川",
   "jp": "ああ。\n俺はこの店で\nお前が戻るのを待っている。",
-  "en": "Yeah. I'll be waiting here in this shop for you to\ncome back."
+  "en": "Yeah. I'll be waiting here in\nthis shop for you to come back."
  },
  {
   "id": "qs00_20:004:01",
@@ -123,7 +123,7 @@
   "id": "qs00_20:005:01",
   "speaker": "澁川",
   "jp": "運命という名の道を\n切り開くのは、他ならぬ\nお前自身の意志だ。",
-  "en": "The one who carves out the path called fate is none\nother than you, by your own will."
+  "en": "The one who carves out the path called fate\nis none other than you, by your own will."
  },
  {
   "id": "qs00_20:005:02",
@@ -135,13 +135,13 @@
   "id": "qs00_20:006:00",
   "speaker": "澁川",
   "jp": "……参ったな。\nそこまで強情な奴だったとは。",
-  "en": "...You've got me. I didn't know you were that\nstubborn."
+  "en": "...You've got me. I didn't know\nyou were that stubborn."
  },
  {
   "id": "qs00_20:006:01",
   "speaker": "澁川",
   "jp": "俺の依頼だけは\n達成する気がない、か……。\nとんだ{ruby:天邪鬼|あまのじゃく}だな、お前は。",
-  "en": "So mine's the one quest you won't complete, huh...\nWhat a contrarian you are."
+  "en": "So mine's the one quest you won't\ncomplete, huh... What a contrarian you are."
  },
  {
   "id": "qs00_20:007:00",
@@ -153,19 +153,19 @@
   "id": "qs00_20:007:01",
   "speaker": "澁川",
   "jp": "運命という名の道を\n切り開くのは、他ならぬ\nお前自身の意志だぞ。",
-  "en": "The one who carves out the path called fate is none\nother than you, by your own will."
+  "en": "The one who carves out the path called fate\nis none other than you, by your own will."
  },
  {
   "id": "qs00_20:008:00",
   "speaker": "澁川",
   "jp": "先の事はわからん……か。\n優等生の答えだな。",
-  "en": "\"Who knows what lies ahead\"... huh. That's a model\nstudent's answer."
+  "en": "\"Who knows what lies ahead\"... huh.\nThat's a model student's answer."
  },
  {
   "id": "qs00_20:008:01",
   "speaker": "澁川",
   "jp": "若い頃はもう少し\n無茶をしてもいいものだぞ。",
-  "en": "When you're young, it's fine to be a little more\nreckless."
+  "en": "When you're young, it's fine\nto be a little more reckless."
  },
  {
   "id": "qs00_20:009:00",
@@ -183,12 +183,12 @@
   "id": "qs00_20:010:00",
   "speaker": "澁川",
   "jp": "……これからは、\nお前自身が築いた実績によって\n新たな依頼が来る事だろう。",
-  "en": "...From now on, new quests will probably come to\nyou on the strength of your own track record."
+  "en": "...From now on, new quests will probably come\nto you on the strength of your own track record."
  },
  {
   "id": "qs00_20:010:01",
   "speaker": "澁川",
   "jp": "たまにはまた、彼らの願いを\n聞いてやるといい。",
-  "en": "Once in a while, you should listen to what those\npeople wish for."
+  "en": "Once in a while, you should listen\nto what those people wish for."
  }
 ]

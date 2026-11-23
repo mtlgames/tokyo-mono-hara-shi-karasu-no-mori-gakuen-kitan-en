@@ -9,25 +9,25 @@
   "id": "dg04_00:000:01",
   "speaker": "弾けるような声",
   "jp": "他にもあると思ったのに、\n手に入れたのが一枚ダケなんて\nつまんないヨ！！",
-  "en": "Angie thought there would be more, but only\ngetting one card is sooo boring!!"
+  "en": "Angie thought there would be more, but\nonly getting one card is sooo boring!!"
  },
  {
   "id": "dg04_00:000:02",
   "speaker": "盗賊団員",
   "jp": "……とか言って、\nさっきから全然\n探してないじゃないッスか。",
-  "en": "...Y'say that, but you ain't been lookin' at all this\nwhole time, have ya?"
+  "en": "...Y'say that, but you ain't been lookin'\nat all this whole time, have ya?"
  },
  {
   "id": "dg04_00:000:03",
   "speaker": "弾けるような声",
   "jp": "わかってないナー、\n悪の女幹部は、地道に\n捜しモノなんてしないんだヨ？",
-  "en": "You don't get it at all! An evil lady boss doesn't do\nboring old searching herself, you know?"
+  "en": "You don't get it at all! An evil lady boss doesn't\ndo boring old searching herself, you know?"
  },
  {
   "id": "dg04_00:000:04",
   "speaker": "弾けるような声",
   "jp": "ホラホラ、ヤロウドモ！！\nキリキリ働きナー、だヨ！！",
-  "en": "Come on, come on, you scoundrels!! Get to work,\nchop chop!!"
+  "en": "Come on, come on, you scoundrels!!\nGet to work, chop chop!!"
  },
  {
   "id": "dg04_00:000:05",
@@ -39,7 +39,7 @@
   "id": "dg04_00:000:06",
   "speaker": "白",
   "jp": "ふん……\n其方ら如きにそう{ruby:易々|やすやす}と\n見つけ出せるものではないわ。",
-  "en": "Hmph... It is no thing the likes of you could ever\nfind so easily."
+  "en": "Hmph... It is no thing the likes\nof you could ever find so easily."
  },
  {
   "id": "dg04_00:000:07",
@@ -57,19 +57,19 @@
   "id": "dg04_00:001:00",
   "speaker": "アンジー",
   "jp": "フフッ、\n嬉しいヨ、{px}。\nちょうど退屈してたからネ。",
-  "en": "Hehe, Angie is happy, {px}. I was just getting bored."
+  "en": "Hehe, Angie is happy, {px}.\nI was just getting bored."
  },
  {
   "id": "dg04_00:002:00",
   "speaker": "アンジー",
   "jp": "こんな場面で\nそんなコト言うなんて、\nやっぱり、カッコイイネ！！",
-  "en": "Saying something like that at a time like this...\nYou're so cool after all!!"
+  "en": "Saying something like that at a time\nlike this... You're so cool after all!!"
  },
  {
   "id": "dg04_00:002:01",
   "speaker": "アンジー",
   "jp": "さすが、{px}ッ。\n退屈が躍り上がって\n逃げてくヨ！！",
-  "en": "That's {px} for you! Boredom is jumping up and\nrunning away!!"
+  "en": "That's {px} for you!\nBoredom is jumping up and running away!!"
  },
  {
   "id": "dg04_00:003:00",
@@ -81,7 +81,7 @@
   "id": "dg04_00:003:01",
   "speaker": "アンジー",
   "jp": "さすが、{px}ッ。\n退屈が躍り上がって\n逃げてくヨ！！",
-  "en": "That's {px} for you! Boredom is jumping up and\nrunning away!!"
+  "en": "That's {px} for you!\nBoredom is jumping up and running away!!"
  },
  {
   "id": "dg04_00:004:00",
@@ -93,7 +93,7 @@
   "id": "dg04_00:004:01",
   "speaker": "アンジー",
   "jp": "正義と悪、\n宿命の対決シーンだヨ！！",
-  "en": "Good versus evil! The scene of our fated\nshowdown!!"
+  "en": "Good versus evil! The scene\nof our fated showdown!!"
  },
  {
   "id": "dg04_00:005:00",
@@ -105,7 +105,7 @@
   "id": "dg04_00:005:01",
   "speaker": "アンジー",
   "jp": "正義と悪に別れた二人……\n感動のご対面、だヨ！！",
-  "en": "Two people split between good and evil... A dramatic\nface-to-face!!"
+  "en": "Two people split between good\nand evil... A dramatic face-to-face!!"
  },
  {
   "id": "dg04_00:006:00",
@@ -141,7 +141,7 @@
   "id": "dg04_00:008:01",
   "speaker": "アンジー",
   "jp": "顔あげて、{px}。\n感動の再会が台無しだヨ？",
-  "en": "Chin up, {px}. You're ruining our touching reunion,\nno?"
+  "en": "Chin up, {px}. You're\nruining our touching reunion, no?"
  },
  {
   "id": "dg04_00:009:00",
@@ -177,43 +177,43 @@
   "id": "dg04_00:012:02",
   "speaker": "絢人",
   "jp": "流石の僕でも、麗しき君の名を\nここまでしか調べる事は\n出来なかった。",
-  "en": "Even I could learn no more of your lovely name\nthan that."
+  "en": "Even I could learn no more of\nyour lovely name than that."
  },
  {
   "id": "dg04_00:012:03",
   "speaker": "絢人",
   "jp": "美しい人。\n君は実に実にミステリアスな\n{ruby:Ｍａｌｅｆｉｃａ|ま　　　じ　　　ょ}だ。",
-  "en": "Beautiful one. You are a truly, truly mysterious\nmalefica--a witch."
+  "en": "Beautiful one. You are a truly,\ntruly mysterious malefica--a witch."
  },
  {
   "id": "dg04_00:012:04",
   "speaker": "アンジー",
   "jp": "{ruby:Ｇｒａｃｉａｓ|あ　り　が　と　う}、セニョール。\nでもアンはＢＲＵＪＡって\n呼ばれる方が好きカナ。",
-  "en": "Gracias, senor. But Angie likes being called a bruja\nbetter."
+  "en": "Gracias, senor. But Angie likes\nbeing called a bruja better."
  },
  {
   "id": "dg04_00:012:05",
   "speaker": "アンジー",
   "jp": "それでセニョールは何をしに？\nお望みとあらば、いくらでも\n殴ってあげるケド？",
-  "en": "So what did senor come here for? If you want,\nAngie can punch you as much as you like, you\nknow?"
+  "en": "So what did senor come here for?\nIf you want, Angie can punch you\nas much as you like, you know?"
  },
  {
   "id": "dg04_00:012:06",
   "speaker": "絢人",
   "jp": "それは実に魅力的な誘惑だが、\n生憎、その前にやらなくては\nならない事があってね。",
-  "en": "A truly enticing temptation, but unfortunately, there's\nsomething I must take care of first."
+  "en": "A truly enticing temptation, but unfortunately,\nthere's something I must take care of first."
  },
  {
   "id": "dg04_00:012:07",
   "speaker": "絢人",
   "jp": "―――花札を返してもらおう。\nあれは大切な預かり物なんだ。",
-  "en": "--I'll have that hanafuda card back. It's a precious\nthing entrusted to my care."
+  "en": "--I'll have that hanafuda card back. It's\na precious thing entrusted to my care."
  },
  {
   "id": "dg04_00:012:08",
   "speaker": "アンジー",
   "jp": "アハハッ、ダメダメ！！\n護れなかったヒトには\n何の権利もないヨ？",
-  "en": "Ahaha, no, no!! People who couldn't protect it have\nno rights at all, you know?"
+  "en": "Ahaha, no, no!! People who couldn't\nprotect it have no rights at all, you know?"
  },
  {
   "id": "dg04_00:012:09",
@@ -231,7 +231,7 @@
   "id": "dg04_00:013:01",
   "speaker": "アンジー",
   "jp": "{px}なら\nこの意味、わかるよネ？",
-  "en": "{px}, you understand what that means, no?"
+  "en": "{px}, you\nunderstand what that means, no?"
  },
  {
   "id": "dg04_00:014:00",
@@ -249,13 +249,13 @@
   "id": "dg04_00:014:02",
   "speaker": "白",
   "jp": "其方の持っておる札、\nまとめて返してもらうぞ。",
-  "en": "The card you hold as well. We shall take them all\nback."
+  "en": "The card you hold as well.\nWe shall take them all back."
  },
  {
   "id": "dg04_00:014:03",
   "speaker": "アンジー",
   "jp": "アハハッ、ダメダメ！！\n護れなかったヒトには\n何の権利もないヨ？",
-  "en": "Ahaha, no, no!! People who couldn't protect it have\nno rights at all, you know?"
+  "en": "Ahaha, no, no!! People who couldn't\nprotect it have no rights at all, you know?"
  },
  {
   "id": "dg04_00:014:04",
@@ -273,7 +273,7 @@
   "id": "dg04_00:015:01",
   "speaker": "アンジー",
   "jp": "{px}なら\nこの意味、わかるよネ？",
-  "en": "{px}, you understand what that means, no?"
+  "en": "{px}, you\nunderstand what that means, no?"
  },
  {
   "id": "dg04_00:016:00",
@@ -285,13 +285,13 @@
   "id": "dg04_00:016:01",
   "speaker": "アンジー",
   "jp": "{ruby:惹|ひ}かれ合う二人は\nやっぱり戦う運命？",
-  "en": "Are two people drawn to each other fated to fight\nafter all?"
+  "en": "Are two people drawn to each\nother fated to fight after all?"
  },
  {
   "id": "dg04_00:017:00",
   "speaker": "アンジー",
   "jp": "そうそう、\nとっても単純明快ッ！！\n{ruby:鬼印盗賊団|ウ　　　　チ}のイイ所だヨ！！",
-  "en": "Yes, yes, super simple and clear!! That's the best part\nof us Oni Mark Bandits!!"
+  "en": "Yes, yes, super simple and clear!! That's\nthe best part of us Oni Mark Bandits!!"
  },
  {
   "id": "dg04_00:018:00",
@@ -309,13 +309,13 @@
   "id": "dg04_00:019:00",
   "speaker": "アンジー",
   "jp": "そうそう、その通り！\nさすがだネ、{px}！！",
-  "en": "Yes, yes, exactly! Just what I expected, {px}!!"
+  "en": "Yes, yes, exactly! Just what I\nexpected, {px}!!"
  },
  {
   "id": "dg04_00:020:00",
   "speaker": "アンジー",
   "jp": "アハハッ！！\nそうそう、それと同じで\nとっても単純明快！！",
-  "en": "Ahaha!! Yes, yes, it's just like that--super simple and\nclear!!"
+  "en": "Ahaha!! Yes, yes, it's just like\nthat--super simple and clear!!"
  },
  {
   "id": "dg04_00:021:00",
@@ -327,7 +327,7 @@
   "id": "dg04_00:021:01",
   "speaker": "アンジー",
   "jp": "強いからこそ手に入れられるし\n護るコトも出来る……。\nそうじゃないカナ？",
-  "en": "Because you are strong, you can take things, and\nprotect things too... Isn't that so?"
+  "en": "Because you are strong, you can take\nthings, and protect things too... Isn't that so?"
  },
  {
   "id": "dg04_00:021:02",
@@ -345,7 +345,7 @@
   "id": "dg04_00:022:01",
   "speaker": "アンジー",
   "jp": "強いからこそ手に入れられるし\n護るコトも出来る……。\nそうじゃないカナ？",
-  "en": "Because you are strong, you can take things, and\nprotect things too... Isn't that so?"
+  "en": "Because you are strong, you can take\nthings, and protect things too... Isn't that so?"
  },
  {
   "id": "dg04_00:022:02",
@@ -387,12 +387,12 @@
   "id": "dg04_00:025:02",
   "speaker": "アンジー",
   "jp": "さ、難しいコトはいいから\n{ruby:Ｖａｍｏｓ　ａ　ｂａｉｌａｒ|お　ど　っ　ち　ゃ　お　う}",
-  "en": "Come on, forget the hard stuff. Vamos a bailar--let's\ndance!"
+  "en": "Come on, forget the hard stuff.\nVamos a bailar--let's dance!"
  },
  {
   "id": "dg04_00:025:03",
   "speaker": "アンジー",
   "jp": "アンに勝てたら、\n{px}の欲しいモノ、\nあげるよ―――！！",
-  "en": "If you beat Angie, I'll give you what you want,\n{px}--!!"
+  "en": "If you beat Angie, I'll give you what\nyou want, {px}--!!"
  }
 ]

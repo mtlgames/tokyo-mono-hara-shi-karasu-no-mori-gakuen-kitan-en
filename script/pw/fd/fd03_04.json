@@ -9,7 +9,7 @@
   "id": "fd03_04:001:01",
   "speaker": "弥紀",
   "jp": "練習熱心だね。\n部長としては、嬉しいなあ。",
-  "en": "You're so dedicated. As club president, that makes\nme happy."
+  "en": "You're so dedicated. As club\npresident, that makes me happy."
  },
  {
   "id": "fd03_04:002:00",
@@ -27,7 +27,7 @@
   "id": "fd03_04:003:00",
   "speaker": "弥紀",
   "jp": "練習って、楽しいよね。\n後で合わせることを思うと\nわくわくするもの。",
-  "en": "Practice is fun, isn't it? Thinking about singing\ntogether later gets me all excited."
+  "en": "Practice is fun, isn't it? Thinking about\nsinging together later gets me all excited."
  },
  {
   "id": "fd03_04:004:00",
@@ -39,7 +39,7 @@
   "id": "fd03_04:004:01",
   "speaker": "弥紀",
   "jp": "{px}がいたらもっと\n進めたかもしれないよね。",
-  "en": "If you'd been with us, {px}, we might have made it\nfurther."
+  "en": "If you'd been with us, {px},\nwe might have made it further."
  },
  {
   "id": "fd03_04:005:00",
@@ -63,7 +63,7 @@
   "id": "fd03_04:006:01",
   "speaker": "弥紀",
   "jp": "早とちりしちゃって\nごめんね、{px}。",
-  "en": "Sorry for jumping to conclusions, {px}."
+  "en": "Sorry for jumping to\nconclusions, {px}."
  },
  {
   "id": "fd03_04:007:00",
@@ -75,7 +75,7 @@
   "id": "fd03_04:007:01",
   "speaker": "弥紀",
   "jp": "でも音楽室に人が来てくれる\nだけで、嬉しいな。",
-  "en": "Still, I'm happy just to have someone come by the\nmusic room."
+  "en": "Still, I'm happy just to have\nsomeone come by the music room."
  },
  {
   "id": "fd03_04:008:00",
@@ -87,7 +87,7 @@
   "id": "fd03_04:008:01",
   "speaker": "弥紀",
   "jp": "早とちりしちゃって\nごめんね、{px}。",
-  "en": "Sorry for jumping to conclusions, {px}."
+  "en": "Sorry for jumping to\nconclusions, {px}."
  },
  {
   "id": "fd03_04:009:00",
@@ -99,7 +99,7 @@
   "id": "fd03_04:009:01",
   "speaker": "弥紀",
   "jp": "でも、音楽室を使うのは\n大歓迎だからね。",
-  "en": "Well, you're more than welcome to use the music\nroom anyway."
+  "en": "Well, you're more than welcome\nto use the music room anyway."
  },
  {
   "id": "fd03_04:010:00",
@@ -111,25 +111,25 @@
   "id": "fd03_04:011:00",
   "speaker": "弥紀",
   "jp": "{px}が\n入ってくれたお陰で、男声も\nかなり厚みが出たんだよ。",
-  "en": "Thanks to you joining, {px}, the men's voices have\ngotten a lot fuller."
+  "en": "Thanks to you joining, {px},\nthe men's voices have gotten a lot fuller."
  },
  {
   "id": "fd03_04:011:01",
   "speaker": "弥紀",
   "jp": "うちは女子が多いから、\n男子には肩身の狭い思いを\nさせちゃってて……。",
-  "en": "Our club's mostly girls, so the boys have always felt\na bit out of place..."
+  "en": "Our club's mostly girls, so the boys\nhave always felt a bit out of place..."
  },
  {
   "id": "fd03_04:011:02",
   "speaker": "弥紀",
   "jp": "だから、{px}が\n入ってくれて本当に嬉しいの。",
-  "en": "That's why I'm really happy you joined, {px}."
+  "en": "That's why I'm really happy\nyou joined, {px}."
  },
  {
   "id": "fd03_04:011:03",
   "speaker": "弥紀",
   "jp": "頼りない部長だけど、\nこれからもよろしくね。",
-  "en": "I'm not much of a president, but I'm counting on\nyou from here on."
+  "en": "I'm not much of a president, but\nI'm counting on you from here on."
  },
  {
   "id": "fd03_04:012:00",
@@ -141,13 +141,13 @@
   "id": "fd03_04:012:01",
   "speaker": "弥紀",
   "jp": "言ってなかったよね。\nわたし、合唱部の部長なんだ。",
-  "en": "I never told you, did I? I'm the president of the\nchoir club."
+  "en": "I never told you, did I? I'm\nthe president of the choir club."
  },
  {
   "id": "fd03_04:012:02",
   "speaker": "弥紀",
   "jp": "この時間にここで、合唱部員\n以外の人に会うなんて\n思ってもみなかったな。",
-  "en": "I never thought I'd run into anyone but choir\nmembers here at this time."
+  "en": "I never thought I'd run into anyone\nbut choir members here at this time."
  },
  {
   "id": "fd03_04:012:03",
@@ -159,7 +159,7 @@
   "id": "fd03_04:012:04",
   "speaker": "弥紀",
   "jp": "そうだ、部長なんだから\nここは示しをつけて\nおかないと！",
-  "en": "Oh right, I'm the president, so I have to set an\nexample here!"
+  "en": "Oh right, I'm the president, so\nI have to set an example here!"
  },
  {
   "id": "fd03_04:012:05",
@@ -189,7 +189,7 @@
   "id": "fd03_04:014:01",
   "speaker": "弥紀",
   "jp": "なんて、{px}の\n部活の人に悪いよね。",
-  "en": "Just kidding. That wouldn't be fair to your own\nclub, {px}."
+  "en": "Just kidding. That wouldn't be fair to\nyour own club, {px}."
  },
  {
   "id": "fd03_04:015:00",
@@ -219,7 +219,7 @@
   "id": "fd03_04:019:00",
   "speaker": "弥紀",
   "jp": "あ……違うの。\n無理にお願いしてる\n訳じゃなくって……。",
-  "en": "Oh... That's not it. I'm not trying to force you or\nanything..."
+  "en": "Oh... That's not it. I'm not trying\nto force you or anything..."
  },
  {
   "id": "fd03_04:019:01",
@@ -231,13 +231,13 @@
   "id": "fd03_04:020:00",
   "speaker": "弥紀",
   "jp": "そんなに悩まないで、\n気軽に考えてくれていいよ。",
-  "en": "Don't worry about it so much. Just think of it\ncasually."
+  "en": "Don't worry about it so much.\nJust think of it casually."
  },
  {
   "id": "fd03_04:020:01",
   "speaker": "弥紀",
   "jp": "本当に\n気が向いた時でいいから。\n来てくれたら嬉しいな。",
-  "en": "Really, just whenever you feel like it. I'd be happy if\nyou came."
+  "en": "Really, just whenever you feel\nlike it. I'd be happy if you came."
  },
  {
   "id": "fd03_04:021:00",
@@ -255,13 +255,13 @@
   "id": "fd03_04:022:00",
   "speaker": "弥紀",
   "jp": "音楽室、この時間は\n日当たりがいいから\nあったかくて……。",
-  "en": "At this time of day the music room gets lots of sun,\nso it's nice and warm..."
+  "en": "At this time of day the music room\ngets lots of sun, so it's nice and warm..."
  },
  {
   "id": "fd03_04:022:01",
   "speaker": "弥紀",
   "jp": "それに人もいないでしょう？\nつい眠くなっちゃうんだよ。",
-  "en": "And there's no one around, right? I just get so\nsleepy."
+  "en": "And there's no one around,\nright? I just get so sleepy."
  },
  {
   "id": "fd03_04:022:02",
@@ -273,19 +273,19 @@
   "id": "fd03_04:022:03",
   "speaker": "弥紀",
   "jp": "昼間に寝ちゃうと、\n午後って少し\nだるい感じがするものね。",
-  "en": "When you nap during the day, you feel kind of\nsluggish all afternoon, don't you?"
+  "en": "When you nap during the day, you feel\nkind of sluggish all afternoon, don't you?"
  },
  {
   "id": "fd03_04:022:04",
   "speaker": "弥紀",
   "jp": "でも、{px}みたいな\nお仕事だと\n勝手が違うだろうから",
-  "en": "But with a job like yours, {px}, I guess things are\ndifferent,"
+  "en": "But with a job like yours, {px},\nI guess things are different,"
  },
  {
   "id": "fd03_04:022:05",
   "speaker": "弥紀",
   "jp": "短時間でも\n睡眠を取らなきゃ\nだめだ！っていう時は",
-  "en": "so when you feel like you just have to get some\nsleep, even for a little while,"
+  "en": "so when you feel like you just have to\nget some sleep, even for a little while,"
  },
  {
   "id": "fd03_04:022:06",

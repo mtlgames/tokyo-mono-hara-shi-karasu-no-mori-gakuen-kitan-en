@@ -15,19 +15,19 @@
   "id": "ms01_00:000:02",
   "speaker": "テニス部員Ｂ",
   "jp": "う～ん、見つかんない……。\nコレ放置したらやっぱ\n先輩、キレるよね……。",
-  "en": "Mmm, I can't find it... If we just leave it, our senpai's\ngonna totally lose it, huh..."
+  "en": "Mmm, I can't find it... If we just leave it,\nour senpai's gonna totally lose it, huh..."
  },
  {
   "id": "ms01_00:000:03",
   "speaker": "テニス部員Ａ",
   "jp": "あーもォ面倒臭い。\n昨日みたいな地震とか起きて\nうやむやになんないかなァ。",
-  "en": "Ugh, this is such a pain. I wish there'd be another\nearthquake like yesterday so everyone would forget\nabout it."
+  "en": "Ugh, this is such a pain. I wish there'd\nbe another earthquake like yesterday\nso everyone would forget about it."
  },
  {
   "id": "ms01_00:000:04",
   "speaker": "テニス部員Ｂ",
   "jp": "あ、あれ、すごかったよね。\n下からドンッてなってさ―――",
-  "en": "Oh, that was crazy, right? There was this big\n*BOOM* from underneath--"
+  "en": "Oh, that was crazy, right? There was\nthis big *BOOM* from underneath--"
  },
  {
   "id": "ms01_00:000:05",
@@ -45,7 +45,7 @@
   "id": "ms01_00:000:07",
   "speaker": "テニス部員Ｂ",
   "jp": "いま何か……\n飛んでなかった？\n白っぽいの……。",
-  "en": "Did something just... fly by? Something kind of\nwhite..."
+  "en": "Did something just... fly by?\nSomething kind of white..."
  },
  {
   "id": "ms01_00:000:08",
@@ -75,7 +75,7 @@
   "id": "ms01_00:000:12",
   "speaker": "テニス部員Ａ",
   "jp": "骨みたいの見つかったとか、\nヤバイもの埋まってるから\nうかつに撤去出来ないとか。",
-  "en": "Like how they found something that looked like\nbones, or how there's something bad buried there so\nthey can't just tear it down."
+  "en": "Like how they found something that looked\nlike bones, or how there's something bad\nburied there so they can't just tear it down."
  },
  {
   "id": "ms01_00:000:13",
@@ -123,7 +123,7 @@
   "id": "ms01_00:000:20",
   "speaker": "気怠い声",
   "jp": "こんな時期に\n転校してくるなんて\nおかしいとは思ったが―――",
-  "en": "I thought it was odd, someone transferring in at this\ntime of year, but--"
+  "en": "I thought it was odd, someone\ntransferring in at this time of year, but--"
  },
  {
   "id": "ms01_00:000:21",
@@ -147,7 +147,7 @@
   "id": "ms01_00:000:24",
   "speaker": "気怠げな女教師",
   "jp": "私の名は、{ruby:牧村|まきむら}　{ruby:久榮|ひさえ}。\n担任は持っていないが、\n世界史を教えている。",
-  "en": "My name is Hisae Makimura. I don't have a\nhomeroom, but I teach world history."
+  "en": "My name is Hisae Makimura. I don't have\na homeroom, but I teach world history."
  },
  {
   "id": "ms01_00:000:25",
@@ -171,13 +171,13 @@
   "id": "ms01_00:000:28",
   "speaker": "久榮",
   "jp": "基本的には\n部外者だと思ってもらった\n方がいいだろう。",
-  "en": "...basically, you'd do best to think of me as an\noutsider."
+  "en": "...basically, you'd do best to\nthink of me as an outsider."
  },
  {
   "id": "ms01_00:001:00",
   "speaker": "久榮",
   "jp": "つまり、キミと私は単なる\n一生徒と一教師と言う訳だ。\nいいな？",
-  "en": "In other words, you and I are just a student and a\nteacher. Understood?"
+  "en": "In other words, you and I are just a\nstudent and a teacher. Understood?"
  },
  {
   "id": "ms01_00:002:00",
@@ -189,19 +189,19 @@
   "id": "ms01_00:002:01",
   "speaker": "久榮",
   "jp": "私を口説くには\n二十年は早いな、坊や。",
-  "en": "You're twenty years too early to be hitting on me,\nkiddo."
+  "en": "You're twenty years too early\nto be hitting on me, kiddo."
  },
  {
   "id": "ms01_00:003:00",
   "speaker": "久榮",
   "jp": "おや、私のような女とは、\n関わり合いになりたくない\nとでも？",
-  "en": "Oh? So you'd rather not get mixed up with a\nwoman like me?"
+  "en": "Oh? So you'd rather not get\nmixed up with a woman like me?"
  },
  {
   "id": "ms01_00:003:01",
   "speaker": "久榮",
   "jp": "生憎、そう言われると\nつきまといたくなってくるな。",
-  "en": "Unfortunately, hearing that only makes me want to\ntag along after you."
+  "en": "Unfortunately, hearing that only makes\nme want to tag along after you."
  },
  {
   "id": "ms01_00:004:00",
@@ -225,7 +225,7 @@
   "id": "ms01_00:005:01",
   "speaker": "久榮",
   "jp": "仲良く穏便に、\n互いの成すべき事を\nやっていこうじゃないか。",
-  "en": "Let's get along peaceably and each do what we have\nto do, shall we?"
+  "en": "Let's get along peaceably and each\ndo what we have to do, shall we?"
  },
  {
   "id": "ms01_00:006:00",
@@ -237,7 +237,7 @@
   "id": "ms01_00:006:01",
   "speaker": "久榮",
   "jp": "キミはキミ、\n私は私の成すべき事を\n成すだけだと言っている。",
-  "en": "All I'm saying is that you'll do what you have to do,\nand I'll do what I have to do."
+  "en": "All I'm saying is that you'll do what you\nhave to do, and I'll do what I have to do."
  },
  {
   "id": "ms01_00:007:00",
@@ -249,7 +249,7 @@
   "id": "ms01_00:007:01",
   "speaker": "久榮",
   "jp": "まァ、心配しなくても\n一般的な高校生男子の\n悩み相談になら乗ってやるさ。",
-  "en": "Well, don't worry. If you have the usual high school\nboy troubles, I'll lend an ear."
+  "en": "Well, don't worry. If you have the usual\nhigh school boy troubles, I'll lend an ear."
  },
  {
   "id": "ms01_00:008:00",
@@ -261,13 +261,13 @@
   "id": "ms01_00:008:01",
   "speaker": "久榮",
   "jp": "まァ、心配しなくても\n一般的な高校生男子の\n悩み相談になら乗ってやるさ。",
-  "en": "Well, don't worry. If you have the usual high school\nboy troubles, I'll lend an ear."
+  "en": "Well, don't worry. If you have the usual\nhigh school boy troubles, I'll lend an ear."
  },
  {
   "id": "ms01_00:009:00",
   "speaker": "久榮",
   "jp": "そう心配しなくても\n一般的な高校生男子の\n悩み相談になら乗ってやるさ。",
-  "en": "Don't worry so much. If you have the usual high\nschool boy troubles, I'll lend an ear."
+  "en": "Don't worry so much. If you have the usual\nhigh school boy troubles, I'll lend an ear."
  },
  {
   "id": "ms01_00:010:00",
@@ -291,19 +291,19 @@
   "id": "ms01_00:011:01",
   "speaker": "久榮",
   "jp": "これからの成績は\nキミの努力次第という訳だ。\n頑張れよ。",
-  "en": "From here on, your grades depend on your own\neffort. Do your best."
+  "en": "From here on, your grades depend\non your own effort. Do your best."
  },
  {
   "id": "ms01_00:011:02",
   "speaker": "久榮",
   "jp": "ここは校舎は古いが、その分\n歴史と伝統のある\nなかなか居心地のいい学校だ。",
-  "en": "The buildings here are old, but that means it's a\nschool with history and tradition. Quite a\ncomfortable place."
+  "en": "The buildings here are old, but that\nmeans it's a school with history and\ntradition. Quite a comfortable place."
  },
  {
   "id": "ms01_00:011:03",
   "speaker": "久榮",
   "jp": "多少の問題児など\nものともしない\n教師も揃っているしな。",
-  "en": "And we've got a full staff of teachers who aren't\nfazed by a problem child or two."
+  "en": "And we've got a full staff of teachers who\naren't fazed by a problem child or two."
  },
  {
   "id": "ms01_00:011:04",
@@ -327,7 +327,7 @@
   "id": "ms01_00:011:07",
   "speaker": "久榮",
   "jp": "持ってくるなとまでは言わんが\nもし私の授業中に\n鳴らすようなら―――",
-  "en": "I won't go so far as to say don't bring it, but if it\never rings during my class--"
+  "en": "I won't go so far as to say don't bring\nit, but if it ever rings during my class--"
  },
  {
   "id": "ms01_00:011:08",
@@ -339,13 +339,13 @@
   "id": "ms01_00:011:09",
   "speaker": "久榮",
   "jp": "キミの未来予想図を\n年刻みで書かせたあげく\n廊下に貼り出すからな。",
-  "en": "...then have you write out your future year by year\nand post it in the hallway."
+  "en": "...then have you write out your future\nyear by year and post it in the hallway."
  },
  {
   "id": "ms01_00:011:10",
   "speaker": "久榮",
   "jp": "それで、だ。\nキミの所属はどうやら\n３ー２のようだが……",
-  "en": "Now then. It seems you've been assigned to class\n3-2, but..."
+  "en": "Now then. It seems you've been\nassigned to class 3-2, but..."
  },
  {
   "id": "ms01_00:011:11",
@@ -357,13 +357,13 @@
   "id": "ms01_00:011:12",
   "speaker": "久榮",
   "jp": "まったく……。\nちゃんと日付の変わる前に\n帰してやったろうに。",
-  "en": "Honestly... I made sure to send her home before\nmidnight, too."
+  "en": "Honestly... I made sure to send\nher home before midnight, too."
  },
  {
   "id": "ms01_00:011:13",
   "speaker": "久榮",
   "jp": "仕方ない。\n遅刻魔の担任に代わって\n私が{ruby:Ｈ　Ｒ|ホームルーム}をやろう。",
-  "en": "Can't be helped. I'll take homeroom in place of your\nperpetually late teacher."
+  "en": "Can't be helped. I'll take homeroom in\nplace of your perpetually late teacher."
  },
  {
   "id": "ms01_00:011:14",
@@ -381,7 +381,7 @@
   "id": "ms01_00:011:16",
   "speaker": "久榮",
   "jp": "ほら、静かにしろー。\n毎度{ruby:恒例|こうれい}、\n代打担任が来てやったぞ。",
-  "en": "All right, quiet down. Your usual pinch-hitter\nhomeroom teacher is here."
+  "en": "All right, quiet down. Your usual\npinch-hitter homeroom teacher is here."
  },
  {
   "id": "ms01_00:011:17",
@@ -393,13 +393,13 @@
   "id": "ms01_00:011:18",
   "speaker": "男子生徒Ｂ",
   "jp": "センセー、ウチの担任、\n今日はどうなってんの？",
-  "en": "Sensei, what happened to our homeroom teacher\ntoday?"
+  "en": "Sensei, what happened to our\nhomeroom teacher today?"
  },
  {
   "id": "ms01_00:011:19",
   "speaker": "久榮",
   "jp": "連絡はないようだから、\n大方、その辺走ってる頃だろ。",
-  "en": "Seems she hasn't called in, so she's probably running\naround out there somewhere."
+  "en": "Seems she hasn't called in, so she's probably\nrunning around out there somewhere."
  },
  {
   "id": "ms01_00:011:20",
@@ -453,13 +453,13 @@
   "id": "ms01_00:011:28",
   "speaker": "久榮",
   "jp": "今日からこのクラスに入る\n転校生の{pm}　{pn}だ。",
-  "en": "Starting today, this is your new transfer student, {pn}\n{pm}."
+  "en": "Starting today, this is your new\ntransfer student, {pn} {pm}."
  },
  {
   "id": "ms01_00:011:29",
   "speaker": "久榮",
   "jp": "適当に仲良くしたり\n{ruby:喧嘩|けんか}したりして\n青春を{ruby:謳歌|おうか}する事。",
-  "en": "Get along with him, fight with him, whatever. Enjoy\nyour youth."
+  "en": "Get along with him, fight with\nhim, whatever. Enjoy your youth."
  },
  {
   "id": "ms01_00:011:30",
@@ -513,7 +513,7 @@
   "id": "ms01_00:011:38",
   "speaker": "久榮",
   "jp": "なら{px}の事は\n穂坂に頼むとして―――",
-  "en": "Then I'll leave {px} to you, Hosaka, and--"
+  "en": "Then I'll leave {px}\nto you, Hosaka, and--"
  },
  {
   "id": "ms01_00:011:39",
@@ -567,7 +567,7 @@
   "id": "ms01_00:011:47",
   "speaker": "久榮",
   "jp": "転校生の紹介は\n済ませておいた。\n後は任せたよ、{ruby:先生|・・}。",
-  "en": "I've already introduced the transfer student. I'll leave\nthe rest to you, \"teacher.\""
+  "en": "I've already introduced the transfer\nstudent. I'll leave the rest to you, \"teacher.\""
  },
  {
   "id": "ms01_00:011:48",
@@ -591,13 +591,13 @@
   "id": "ms01_00:011:51",
   "speaker": "慌ただしい女教師",
   "jp": "私が担任の{ruby:羽鳥|はとり}　{ruby:朝子|あさこ}です。\n現代国語を担当しているわ。",
-  "en": "I'm your homeroom teacher, Asako Hatori. I teach\nmodern Japanese."
+  "en": "I'm your homeroom teacher, Asako\nHatori. I teach modern Japanese."
  },
  {
   "id": "ms01_00:012:00",
   "speaker": "{ruby:朝子|あさこ}",
   "jp": "卒業までわずかな間だけど、\nよろしくね。",
-  "en": "There's only a little while until graduation, but I'm\nglad to have you."
+  "en": "There's only a little while until\ngraduation, but I'm glad to have you."
  },
  {
   "id": "ms01_00:013:00",
@@ -621,13 +621,13 @@
   "id": "ms01_00:014:01",
   "speaker": "朝子",
   "jp": "初日からこんなじゃ\n嫌われちゃうんじゃないかと\n心配しちゃった。",
-  "en": "I was worried you'd end up hating me, with a first\nday like this."
+  "en": "I was worried you'd end up hating\nme, with a first day like this."
  },
  {
   "id": "ms01_00:014:02",
   "speaker": "朝子",
   "jp": "改めて、卒業まで\n一緒に頑張りましょうね。",
-  "en": "Once again, let's do our best together until\ngraduation."
+  "en": "Once again, let's do our best\ntogether until graduation."
  },
  {
   "id": "ms01_00:015:00",
@@ -639,7 +639,7 @@
   "id": "ms01_00:015:01",
   "speaker": "朝子",
   "jp": "改めて、卒業まで\n一緒に頑張りましょう。",
-  "en": "Once again, let's do our best together until\ngraduation."
+  "en": "Once again, let's do our best\ntogether until graduation."
  },
  {
   "id": "ms01_00:016:00",
@@ -651,13 +651,13 @@
   "id": "ms01_00:017:00",
   "speaker": "朝子",
   "jp": "た、確かに、教師として\nまだまだ半人前な事は\n自覚してます。",
-  "en": "I-I'm well aware that I'm still not much of a teacher\nyet."
+  "en": "I-I'm well aware that I'm still\nnot much of a teacher yet."
  },
  {
   "id": "ms01_00:017:01",
   "speaker": "朝子",
   "jp": "先生も努力するから、\n{pm}君も卒業まで\n一緒に頑張りましょう。",
-  "en": "I'll work hard too, so let's do our best together until\ngraduation, {pm}-kun."
+  "en": "I'll work hard too, so let's do our best\ntogether until graduation, {pm}-kun."
  },
  {
   "id": "ms01_00:018:00",
@@ -669,7 +669,7 @@
   "id": "ms01_00:018:01",
   "speaker": "朝子",
   "jp": "先生も努力するから、\n{pm}君も卒業まで\n一緒に頑張りましょう。",
-  "en": "I'll work hard too, so let's do our best together until\ngraduation, {pm}-kun."
+  "en": "I'll work hard too, so let's do our best\ntogether until graduation, {pm}-kun."
  },
  {
   "id": "ms01_00:019:00",
@@ -687,7 +687,7 @@
   "id": "ms01_00:019:02",
   "speaker": "朝子",
   "jp": "先生も努力するから、\n{pm}君も卒業まで\n一緒に頑張りましょう。",
-  "en": "I'll work hard too, so let's do our best together until\ngraduation, {pm}-kun."
+  "en": "I'll work hard too, so let's do our best\ntogether until graduation, {pm}-kun."
  },
  {
   "id": "ms01_00:020:00",
@@ -705,7 +705,7 @@
   "id": "ms01_00:020:02",
   "speaker": "朝子",
   "jp": "先生も努力するから、\n{pm}君も卒業まで\n一緒に頑張りましょう。",
-  "en": "I'll work hard too, so let's do our best together until\ngraduation, {pm}-kun."
+  "en": "I'll work hard too, so let's do our best\ntogether until graduation, {pm}-kun."
  },
  {
   "id": "ms01_00:021:00",
@@ -717,7 +717,7 @@
   "id": "ms01_00:021:01",
   "speaker": "朝子",
   "jp": "先生も努力するから、\n{pm}君も卒業まで\n一緒に頑張りましょう。",
-  "en": "I'll work hard too, so let's do our best together until\ngraduation, {pm}-kun."
+  "en": "I'll work hard too, so let's do our best\ntogether until graduation, {pm}-kun."
  },
  {
   "id": "ms01_00:022:00",
@@ -729,7 +729,7 @@
   "id": "ms01_00:022:01",
   "speaker": "朝子",
   "jp": "まず初めに……\nもう知ってる人も\nいるかも知れないけど、",
-  "en": "First of all... some of you may already know this,\nbut..."
+  "en": "First of all... some of you\nmay already know this, but..."
  },
  {
   "id": "ms01_00:022:02",
@@ -753,7 +753,7 @@
   "id": "ms01_00:022:05",
   "speaker": "朝子",
   "jp": "原因がはっきりするまで\n校舎裏には近寄らないように\nしてください。",
-  "en": "Until we know what's going on, please stay away\nfrom the area behind the school building."
+  "en": "Until we know what's going on, please stay\naway from the area behind the school building."
  },
  {
   "id": "ms01_00:022:06",
@@ -777,7 +777,7 @@
   "id": "ms01_00:022:09",
   "speaker": "おっとりした女生徒",
   "jp": "あのッ、まだちゃんと\n自己紹介してなかったよね。",
-  "en": "Um, I haven't properly introduced myself yet, have\nI?"
+  "en": "Um, I haven't properly\nintroduced myself yet, have I?"
  },
  {
   "id": "ms01_00:022:10",
@@ -789,7 +789,7 @@
   "id": "ms01_00:022:11",
   "speaker": "{ruby:弥紀|みのり}",
   "jp": "いまからお昼休みだから\n購買のある食堂に案内するね。",
-  "en": "It's lunch break now, so I'll show you to the\ncafeteria with the school store."
+  "en": "It's lunch break now, so I'll show you\nto the cafeteria with the school store."
  },
  {
   "id": "ms01_00:023:00",
@@ -813,7 +813,7 @@
   "id": "ms01_00:024:02",
   "speaker": "弥紀",
   "jp": "食堂で買えるパンもお弁当も\nすっごく美味しいから\n楽しみにしててね。",
-  "en": "The bread and boxed lunches at the cafeteria are\nsuper tasty, so look forward to it."
+  "en": "The bread and boxed lunches at the cafeteria\nare super tasty, so look forward to it."
  },
  {
   "id": "ms01_00:025:00",
@@ -825,7 +825,7 @@
   "id": "ms01_00:025:01",
   "speaker": "弥紀",
   "jp": "食堂で買えるパンもお弁当も\nすっごく美味しいから\n楽しみにしててね。",
-  "en": "The bread and boxed lunches at the cafeteria are\nsuper tasty, so look forward to it."
+  "en": "The bread and boxed lunches at the cafeteria\nare super tasty, so look forward to it."
  },
  {
   "id": "ms01_00:026:00",
@@ -837,13 +837,13 @@
   "id": "ms01_00:026:01",
   "speaker": "弥紀",
   "jp": "食堂で買えるパンもお弁当も\nすっごく美味しいから\n安心していいよ。",
-  "en": "The bread and boxed lunches at the cafeteria are\nsuper tasty, so don't worry."
+  "en": "The bread and boxed lunches at the\ncafeteria are super tasty, so don't worry."
  },
  {
   "id": "ms01_00:027:00",
   "speaker": "弥紀",
   "jp": "うん。\n食堂で買えるパンもお弁当も\nすっごく美味しいんだよ。",
-  "en": "Yeah. The bread and boxed lunches at the cafeteria\nare super tasty."
+  "en": "Yeah. The bread and boxed lunches\nat the cafeteria are super tasty."
  },
  {
   "id": "ms01_00:028:00",
@@ -879,7 +879,7 @@
   "id": "ms01_00:030:01",
   "speaker": "弥紀",
   "jp": "食堂で買えるパンもお弁当も\nすっごく美味しいから\n大丈夫だよ。",
-  "en": "The bread and boxed lunches at the cafeteria are\nsuper tasty, so it's fine."
+  "en": "The bread and boxed lunches at the\ncafeteria are super tasty, so it's fine."
  },
  {
   "id": "ms01_00:031:00",

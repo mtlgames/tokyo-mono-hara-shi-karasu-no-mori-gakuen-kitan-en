@@ -125,7 +125,16 @@ see them. Other screens that print item names (shop, equip, battle/dungeon log `
   message crashed (ms01_00:011:49 "...right!! {pn} {pm}-kun!!"). JP never has that (max 17). The clear now covers
   161 bytes (6 `addiu rX, sp, 0x21` -> 0xa1).
 - Message pass output goes through a 161-byte .bss buffer (0x76299C, then 147 bytes of gap to the name pass output at
-  0x762AD0); messages over ~300 bytes after splicing would reach it (English max ~230).
+  0x762AD0); messages over ~300 bytes after splicing would reach it. Longest English message 288 bytes as stored
+  (ms06_01:129:43, no name code).
+- **Scratch overflow (checked 2026-11-24):** each pass builds the spliced message in the 161-byte scratch at sp+0
+  and copies it back into the caller's buffer (strcpy at 0x089EC1AC); the 6 name buffers follow at sp+0xA1 + 0xA1*i
+  (pmyh, pnyh, pm1, pn1, pm, pn). A message longer than 161 bytes runs into the **pmyh** buffer only (up to 322
+  bytes), and no English nickname format or message uses pmyh, so nothing reads the overwritten bytes. In game:
+  scenes `splice1` (ms05_00:167:00, {px} at byte ~200 of 224) and `splice2` (ms06_01:143:00, 252 bytes) show
+  the name right (work/qa/warp/en/splice1/sheet.png). Lint (`batches.py` SPLICE_MAX): every dialogue message with
+  each name code at its longest value (`var_values`: 5-W player name, widest nickname "Big Bro WWWWW") <= 300
+  bytes; a future pmyh use needs a byte limit of 160 instead.
 
 ## Open (next steps)
 - Readability (polish): the left gradient panel (`adv/talk/adv_talk.g2d`, `adv_emotion2.gim`) covers only x 0-150;

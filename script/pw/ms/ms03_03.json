@@ -9,13 +9,13 @@
   "id": "ms03_03:000:01",
   "speaker": "{ruby:燈治|とうじ}",
   "jp": "それにしても、\nまさか本当に、忍者とはね。",
-  "en": "Man, though... An actual ninja. Who'd've thought,\nhuh?"
+  "en": "Man, though... An actual\nninja. Who'd've thought, huh?"
  },
  {
   "id": "ms03_03:000:02",
   "speaker": "{ruby:巴|ともえ}",
   "jp": "いるところには\nいるものなのね……。\nホント、驚いたわ。",
-  "en": "I guess they really do exist, if you know where to\nlook... Honestly, I'm amazed."
+  "en": "I guess they really do exist, if you know\nwhere to look... Honestly, I'm amazed."
  },
  {
   "id": "ms03_03:000:03",
@@ -33,13 +33,13 @@
   "id": "ms03_03:000:05",
   "speaker": "弥紀",
   "jp": "あ、そうだ{px}、\nあれ……持ってるよね？",
-  "en": "Oh, that's right, {px}. You've got... that, haven't you?"
+  "en": "Oh, that's right, {px}.\nYou've got... that, haven't you?"
  },
  {
   "id": "ms03_03:001:00",
   "speaker": "弥紀",
   "jp": "よかった。\n輪ちゃんに返さないとね。",
-  "en": "Thank goodness. We need to give it back to\nRin-chan."
+  "en": "Thank goodness. We need\nto give it back to Rin-chan."
  },
  {
   "id": "ms03_03:001:01",
@@ -111,7 +111,7 @@
   "id": "ms03_03:003:05",
   "speaker": "輪",
   "jp": "花札は、倉の隠し扉の奥に\nしまってあった。\nもう何年もの間、ずっと……。",
-  "en": "The hanafuda were kept behind a hidden door in\nthe storehouse. For years and years, they just stayed\nthere..."
+  "en": "The hanafuda were kept behind a\nhidden door in the storehouse. For\nyears and years, they just stayed there..."
  },
  {
   "id": "ms03_03:003:06",
@@ -123,7 +123,7 @@
   "id": "ms03_03:003:07",
   "speaker": "輪",
   "jp": "そうして誰の記憶からも、\n{ruby:呪言|じゅごん}花札の存在が消えるコトが\n{ruby:西園寺|さいおんじ}殿の望みなんだ、って。",
-  "en": "He said Lord Saionji wanted the Curse Hanafuda to\nvanish from everyone's memory that way."
+  "en": "He said Lord Saionji wanted the Curse Hanafuda\nto vanish from everyone's memory that way."
  },
  {
   "id": "ms03_03:003:08",
@@ -135,7 +135,7 @@
   "id": "ms03_03:003:09",
   "speaker": "輪",
   "jp": "だけど、あるとき、\nボクが学校から帰ると、\nじいちゃんが倒れてて―――",
-  "en": "But then one day, I came home from school, and\nGrandpa was lying on the floor--"
+  "en": "But then one day, I came home from school,\nand Grandpa was lying on the floor--"
  },
  {
   "id": "ms03_03:003:10",
@@ -183,7 +183,7 @@
   "id": "ms03_03:003:17",
   "speaker": "輪",
   "jp": "いまは、{px}が\n持つのが正しいんだって\nわかったから。",
-  "en": "'Cause I get it now. Right now, {px} is the one who\nshould have them."
+  "en": "'Cause I get it now. Right now, {px}\nis the one who should have them."
  },
  {
   "id": "ms03_03:003:18",
@@ -213,7 +213,7 @@
   "id": "ms03_03:003:22",
   "speaker": "白",
   "jp": "まあ、ここまで使いこなして\nおったのじゃ\n当然とも言えるな。",
-  "en": "Well, given how freely she wielded them until now,\nI daresay 'tis only to be expected."
+  "en": "Well, given how freely she wielded them\nuntil now, I daresay 'tis only to be expected."
  },
  {
   "id": "ms03_03:003:23",
@@ -243,7 +243,7 @@
   "id": "ms03_03:003:27",
   "speaker": "白",
   "jp": "札より離れ、百日も経てば\nそれも消えてしまうがの。",
-  "en": "Though once you have been parted from the cards\na hundred days, it too shall fade."
+  "en": "Though once you have been parted from\nthe cards a hundred days, it too shall fade."
  },
  {
   "id": "ms03_03:003:28",
@@ -255,13 +255,13 @@
   "id": "ms03_03:003:29",
   "speaker": "輪",
   "jp": "―――いや、いい。\nこんな力なんかなくたって\nボクは元々、忍者だからなッ。",
-  "en": "--Nah, it's fine. I don't need some power like that. I\nwas a ninja to begin with!"
+  "en": "--Nah, it's fine. I don't need some power\nlike that. I was a ninja to begin with!"
  },
  {
   "id": "ms03_03:003:30",
   "speaker": "輪",
   "jp": "{px}、\nオマエが全部集めて、\nその札を封印したら、",
-  "en": "{px}, once you've gathered them all and sealed those\ncards away,"
+  "en": "{px}, once you've gathered\nthem all and sealed those cards away,"
  },
  {
   "id": "ms03_03:003:31",
@@ -285,7 +285,7 @@
   "id": "ms03_03:005:01",
   "speaker": "輪",
   "jp": "でも、信じるよ。\n{px}のコト。",
-  "en": "But I'll believe you. I'll believe in you, {px}."
+  "en": "But I'll believe you. I'll believe\nin you, {px}."
  },
  {
   "id": "ms03_03:005:02",
@@ -309,7 +309,7 @@
   "id": "ms03_03:007:01",
   "speaker": "輪",
   "jp": "{px}を信じるよ。\nだから……\nボクのコトも信じろ！！",
-  "en": "I believe in you, {px}. So... you'd better believe in me\ntoo!!"
+  "en": "I believe in you, {px}.\nSo... you'd better believe in me too!!"
  },
  {
   "id": "ms03_03:008:00",
@@ -351,7 +351,7 @@
   "id": "ms03_03:011:01",
   "speaker": "輪",
   "jp": "頼むよ。\n{px}にしか出来ない\nコトなんだろ？",
-  "en": "Please. It's something only you can do, {px}, right?"
+  "en": "Please. It's something only you\ncan do, {px}, right?"
  },
  {
   "id": "ms03_03:011:02",
@@ -399,13 +399,13 @@
   "id": "ms03_03:015:01",
   "speaker": "輪",
   "jp": "これからはボクも\n{px}を手伝うッ！！",
-  "en": "From now on, I'm gonna help you out too, {px}!!"
+  "en": "From now on, I'm gonna help\nyou out too, {px}!!"
  },
  {
   "id": "ms03_03:015:02",
   "speaker": "輪",
   "jp": "ただ待ってるだけってのも\n心配だからなッ。",
-  "en": "Just sitting around waiting would make me worry\ntoo much!"
+  "en": "Just sitting around waiting\nwould make me worry too much!"
  },
  {
   "id": "ms03_03:015:03",
@@ -423,13 +423,13 @@
   "id": "ms03_03:016:00",
   "speaker": "輪",
   "jp": "{px}が全部札を\n集めるまでに、ボクもまだまだ\n修行しなくちゃな……。",
-  "en": "I've gotta keep training hard too, before {px} finishes\ngathering all the cards..."
+  "en": "I've gotta keep training hard too, before\n{px} finishes gathering all the cards..."
  },
  {
   "id": "ms03_03:016:01",
   "speaker": "燈治",
   "jp": "そうそう、お前には\n集め終わった後の\n役目があるんだろ？",
-  "en": "Yeah, that's right. You've got a job to do once\nthey're all collected, don't ya?"
+  "en": "Yeah, that's right. You've got a job to\ndo once they're all collected, don't ya?"
  },
  {
   "id": "ms03_03:016:02",
@@ -465,7 +465,7 @@
   "id": "ms03_03:017:02",
   "speaker": "絢人",
   "jp": "まあ、たまには対価が\n欲しいところだけど……。",
-  "en": "Though I would like some compensation now and\nthen..."
+  "en": "Though I would like some\ncompensation now and then..."
  },
  {
   "id": "ms03_03:017:03",
@@ -489,19 +489,19 @@
   "id": "ms03_03:017:06",
   "speaker": "白",
   "jp": "よいのかえ？\nそれは{ruby:徒|ただ}のヒトの身で\n自在に扱える力ではない。",
-  "en": "Are you certain? That is no power a mere human\ncan wield at will."
+  "en": "Are you certain? That is no power\na mere human can wield at will."
  },
  {
   "id": "ms03_03:017:07",
   "speaker": "白",
   "jp": "札からもたらされる情報に\n浸食され、やがては\nヒトならざる者へと堕ちるぞ。",
-  "en": "The knowledge the cards pour into you will eat\naway at you, until at last you fall into something no\nlonger human."
+  "en": "The knowledge the cards pour into you\nwill eat away at you, until at last you\nfall into something no longer human."
  },
  {
   "id": "ms03_03:018:00",
   "speaker": "絢人",
   "jp": "そうしたら、\nそのときは君が僕を消して\n札を手に入れればいい。",
-  "en": "If that happens, then you can simply erase me and\ntake the cards."
+  "en": "If that happens, then you can\nsimply erase me and take the cards."
  },
  {
   "id": "ms03_03:018:01",
@@ -513,7 +513,7 @@
   "id": "ms03_03:019:00",
   "speaker": "絢人",
   "jp": "ああ、やはり君は、\n強い意志を持った\n目をしているな。",
-  "en": "Ah, just as I thought. You have the eyes of\nsomeone with a strong will."
+  "en": "Ah, just as I thought. You have the\neyes of someone with a strong will."
  },
  {
   "id": "ms03_03:019:01",
@@ -537,7 +537,7 @@
   "id": "ms03_03:021:00",
   "speaker": "絢人",
   "jp": "そうだね、そうなれば\n君ともう一度\n死闘を演じられるかな？",
-  "en": "Indeed. If it comes to that, perhaps you and I can\nstage another life-or-death battle?"
+  "en": "Indeed. If it comes to that, perhaps you and\nI can stage another life-or-death battle?"
  },
  {
   "id": "ms03_03:021:01",
@@ -555,7 +555,7 @@
   "id": "ms03_03:022:01",
   "speaker": "絢人",
   "jp": "その強い意志……\n使命を帯びた者の目だ。",
-  "en": "That strong will... Those are the eyes of one who\nbears a mission."
+  "en": "That strong will... Those are the\neyes of one who bears a mission."
  },
  {
   "id": "ms03_03:023:00",
@@ -567,7 +567,7 @@
   "id": "ms03_03:023:01",
   "speaker": "絢人",
   "jp": "……理解は出来るが、\n共感は出来ない。\n残念だけどね。",
-  "en": "...I can understand it, but I can't sympathize. A pity,\nreally."
+  "en": "...I can understand it, but I\ncan't sympathize. A pity, really."
  },
  {
   "id": "ms03_03:024:00",
@@ -591,7 +591,7 @@
   "id": "ms03_03:025:01",
   "speaker": "絢人",
   "jp": "僕などに心を砕くのは\n無意味だよ。",
-  "en": "Worrying your heart over the likes of me is\npointless."
+  "en": "Worrying your heart over\nthe likes of me is pointless."
  },
  {
   "id": "ms03_03:026:00",
@@ -633,7 +633,7 @@
   "id": "ms03_03:028:03",
   "speaker": "絢人",
   "jp": "ああ、勿論、\n美しい人たちは\nいつでも歓迎さ。",
-  "en": "Ah, and of course, beautiful people are welcome\nanytime."
+  "en": "Ah, and of course, beautiful\npeople are welcome anytime."
  },
  {
   "id": "ms03_03:028:04",
@@ -687,7 +687,7 @@
   "id": "ms03_03:028:12",
   "speaker": "白",
   "jp": "知識を循環させる者―――\nその役割を負う者ほど、\n札の神秘に魅了されおる。",
-  "en": "Those who keep knowledge flowing-- the ones who\nbear that role are the most enthralled by the\nmystery of the cards."
+  "en": "Those who keep knowledge flowing--\nthe ones who bear that role are the most\nenthralled by the mystery of the cards."
  },
  {
   "id": "ms03_03:028:13",
@@ -699,7 +699,7 @@
   "id": "ms03_03:028:14",
   "speaker": "白",
   "jp": "物は移ろい、\n氣の流れさえ\n時と共に変じていく。",
-  "en": "Things change, and even the flow of ki shifts with\nthe passing of time."
+  "en": "Things change, and even the flow\nof ki shifts with the passing of time."
  },
  {
   "id": "ms03_03:028:15",

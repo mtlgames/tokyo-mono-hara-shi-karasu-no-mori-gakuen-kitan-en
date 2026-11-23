@@ -9,7 +9,7 @@
   "id": "dg13_04:000:01",
   "speaker": "巴",
   "jp": "こんなところで\n消耗してる場合じゃ\nないってのに……！！",
-  "en": "We can't afford to wear ourselves out in a place like\nthis...!!"
+  "en": "We can't afford to wear ourselves\nout in a place like this...!!"
  },
  {
   "id": "dg13_04:000:02",
@@ -51,7 +51,7 @@
   "id": "dg13_04:002:02",
   "speaker": "燈治",
   "jp": "俺の……いや、\n俺たちの言いたい事は、\nわかってるよな？",
-  "en": "You know what I-- no, what we're tryin' to say,\nright?"
+  "en": "You know what I-- no, what\nwe're tryin' to say, right?"
  },
  {
   "id": "dg13_04:003:00",
@@ -158,7 +158,7 @@
   "id": "dg13_04:013:02",
   "speaker": "弥紀",
   "jp": "わたしは……わたしたちは\n{px}のことを信じてる。\n……{px}は？",
-  "en": "I... We believe in you, {px}. ...What about you, {px}?"
+  "en": "I... We believe in you, {px}.\n...What about you, {px}?"
  },
  {
   "id": "dg13_04:014:00",
@@ -230,25 +230,25 @@
   "id": "dg13_04:024:00",
   "speaker": "巴",
   "jp": "……一人頭、何体かしら？\nまあ大した事じゃ\nないのは確かね。",
-  "en": "...How many each, I wonder? Well, it's certainly\nnothing to worry about."
+  "en": "...How many each, I wonder? Well,\nit's certainly nothing to worry about."
  },
  {
   "id": "dg13_04:024:01",
   "speaker": "巴",
   "jp": "お勧めでない系のカレーに、\nラッシーは必須として……\nその後は美味しい珈琲かしら。",
-  "en": "Curry from the not-recommended part of the menu,\na lassi of course... and after that, a nice cup of\ncoffee, I think."
+  "en": "Curry from the not-recommended part\nof the menu, a lassi of course... and\nafter that, a nice cup of coffee, I think."
  },
  {
   "id": "dg13_04:024:02",
   "speaker": "巴",
   "jp": "この貸しの分、\n{ruby:奢|おご}ってもらうわよ。\n{ruby:明日の|・・・}お昼ご飯。",
-  "en": "You're treating me to make up for this favor, you\nknow. Lunch, tomorrow."
+  "en": "You're treating me to make up for this\nfavor, you know. Lunch, tomorrow."
  },
  {
   "id": "dg13_04:025:00",
   "speaker": "巴",
   "jp": "ば、馬鹿じゃないの！？\nこんな時にそんな事\n言うなんて……。",
-  "en": "A-are you an idiot!? Saying something like that at a\ntime like this..."
+  "en": "A-are you an idiot!? Saying\nsomething like that at a time like this..."
  },
  {
   "id": "dg13_04:025:01",
@@ -344,7 +344,7 @@
   "id": "dg13_04:036:02",
   "speaker": "紅緒",
   "jp": "貴方の言葉ならきっと、\n{ruby:兄|あに}さまにも届く……\n私はそう信じています。",
-  "en": "Your words will surely reach my brother too... That\nis what I believe."
+  "en": "Your words will surely reach my\nbrother too... That is what I believe."
  },
  {
   "id": "dg13_04:036:03",
@@ -374,7 +374,7 @@
   "id": "dg13_04:037:02",
   "speaker": "紅緒",
   "jp": "大切なあなたと、\nあなたの大切な\n皆を護る為……。",
-  "en": "To protect you, who are precious to me, and\neveryone who is precious to you..."
+  "en": "To protect you, who are precious to me,\nand everyone who is precious to you..."
  },
  {
   "id": "dg13_04:037:03",
@@ -440,7 +440,7 @@
   "id": "dg13_04:041:02",
   "speaker": "巴",
   "jp": "このあたしが仕切る戦場に\n敗北はあり得ない―――！！",
-  "en": "On a battlefield under my command, defeat is not\nan option--!!"
+  "en": "On a battlefield under my\ncommand, defeat is not an option--!!"
  },
  {
   "id": "dg13_04:043:00",

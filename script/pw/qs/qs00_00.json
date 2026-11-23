@@ -3,19 +3,19 @@
   "id": "qs00_00:000:00",
   "speaker": "澁川",
   "jp": "……{px}。\nお前に会いたいと言う\n客が来ているぞ。",
-  "en": "...{px}. There's a visitor here who says she wants to\nmeet you."
+  "en": "...{px}. There's a visitor\nhere who says she wants to meet you."
  },
  {
   "id": "qs00_00:000:01",
   "speaker": "料亭のおかみ",
   "jp": "まあ……あなたが、\n私の頼みごとを果たして\n下さった方ですね。",
-  "en": "Oh my... So you're the one who took care of my\nrequest."
+  "en": "Oh my... So you're the one\nwho took care of my request."
  },
  {
   "id": "qs00_00:000:02",
   "speaker": "料亭のおかみ",
   "jp": "本当に有難うございました。\n……それにしても、こんなに\nお若い人だったなんて。",
-  "en": "Thank you so very much. ...Still, I never imagined\nyou'd be so young."
+  "en": "Thank you so very much. ...Still, I\nnever imagined you'd be so young."
  },
  {
   "id": "qs00_00:001:00",
@@ -27,37 +27,37 @@
   "id": "qs00_00:002:00",
   "speaker": "料亭のおかみ",
   "jp": "……ふふ、頼もしいわ。\nきっと{ruby:一廉|ひとかど}の人物に\nなられるでしょうね。",
-  "en": "...Hehe, how reassuring. I'm sure you'll grow into a\nperson of real standing."
+  "en": "...Hehe, how reassuring. I'm sure you'll\ngrow into a person of real standing."
  },
  {
   "id": "qs00_00:003:00",
   "speaker": "料亭のおかみ",
   "jp": "あら、こんなに頼もしい\n方だったなんて。\n嬉しい限りだわ。",
-  "en": "Oh, I had no idea you'd be so dependable. I couldn't\nbe happier."
+  "en": "Oh, I had no idea you'd be so\ndependable. I couldn't be happier."
  },
  {
   "id": "qs00_00:004:00",
   "speaker": "料亭のおかみ",
   "jp": "礼儀正しくて、愛想も良い。\n本当に立派な子ね。",
-  "en": "Polite and charming, too. What a fine young man\nyou are."
+  "en": "Polite and charming, too. What\na fine young man you are."
  },
  {
   "id": "qs00_00:005:00",
   "speaker": "料亭のおかみ",
   "jp": "……ふふ、そういう意味で\n言った訳じゃありませんよ。\nどうか怒らないで。",
-  "en": "...Hehe, I didn't mean it that way. Please don't be\nangry."
+  "en": "...Hehe, I didn't mean it that\nway. Please don't be angry."
  },
  {
   "id": "qs00_00:006:00",
   "speaker": "料亭のおかみ",
   "jp": "そんなに嫌わないで？\nあなたには感謝しているのよ。",
-  "en": "Don't dislike me so much, hm? I'm grateful to you,\nyou know."
+  "en": "Don't dislike me so much, hm?\nI'm grateful to you, you know."
  },
  {
   "id": "qs00_00:007:00",
   "speaker": "料亭のおかみ",
   "jp": "わら、若いのはいい事よ。\n特にあなたの様な\n立派な若い子は、素敵だわ。",
-  "en": "Oh, being young is a fine thing. Especially a fine\nyoung man like you. How lovely."
+  "en": "Oh, being young is a fine thing. Especially\na fine young man like you. How lovely."
  },
  {
   "id": "qs00_00:008:00",
@@ -75,19 +75,19 @@
   "id": "qs00_00:010:00",
   "speaker": "料亭のおかみ",
   "jp": "うちの料亭では昔から、\n真夜中になると{ruby:何処|ど　こ}からか\n女の子の声が聞こえてきて……",
-  "en": "At our restaurant, for as long as anyone remembers,\na girl's voice could be heard from somewhere in the\ndead of night..."
+  "en": "At our restaurant, for as long as anyone\nremembers, a girl's voice could be heard\nfrom somewhere in the dead of night..."
  },
  {
   "id": "qs00_00:010:01",
   "speaker": "料亭のおかみ",
   "jp": "聞いた話だと、\nその声は百年も前から\n続いていたそうなんですよ。",
-  "en": "From what I heard, that voice had been going on\nfor a hundred years."
+  "en": "From what I heard, that voice had\nbeen going on for a hundred years."
  },
  {
   "id": "qs00_00:010:02",
   "speaker": "料亭のおかみ",
   "jp": "なんでも百年前、\n料亭の庭で遊んでいた女の子が\n神隠しに遭ったとかで……。",
-  "en": "They say that a hundred years ago, a girl playing in\nthe restaurant's garden was spirited away..."
+  "en": "They say that a hundred years ago, a girl playing\nin the restaurant's garden was spirited away..."
  },
  {
   "id": "qs00_00:010:03",
@@ -99,7 +99,7 @@
   "id": "qs00_00:010:04",
   "speaker": "料亭のおかみ",
   "jp": "ずっと、ずっと……\n見つけてもらいたくて\n呼んでいたのかと思うと、",
-  "en": "When I think she spent all that time... calling out,\nwanting to be found,"
+  "en": "When I think she spent all that time...\ncalling out, wanting to be found,"
  },
  {
   "id": "qs00_00:010:05",
@@ -111,7 +111,7 @@
   "id": "qs00_00:010:06",
   "speaker": "料亭のおかみ",
   "jp": "良かったら今度、\nうちの料亭にいらっしゃいな。\nお礼にご馳走するわよ。",
-  "en": "If you like, do come by our restaurant sometime. I'll\ntreat you to a meal as thanks."
+  "en": "If you like, do come by our restaurant\nsometime. I'll treat you to a meal as thanks."
  },
  {
   "id": "qs00_00:010:07",
@@ -129,7 +129,7 @@
   "id": "qs00_00:010:09",
   "speaker": "料亭のおかみ",
   "jp": "あなたのお顔を拝見出来たら\nきっとあの女の子の―――",
-  "en": "I thought that if I could see your face, I might hear\nthat girl's--"
+  "en": "I thought that if I could see your\nface, I might hear that girl's--"
  },
  {
   "id": "qs00_00:010:10",
@@ -141,7 +141,7 @@
   "id": "qs00_00:010:11",
   "speaker": "料亭のおかみ",
   "jp": "では、改めて……\nこの度は、\n誠に有難うございました。",
-  "en": "Well then, once more... Thank you, truly, for\neverything."
+  "en": "Well then, once more... Thank\nyou, truly, for everything."
  },
  {
   "id": "qs00_00:010:12",
@@ -153,6 +153,6 @@
   "id": "qs00_00:010:13",
   "speaker": "澁川",
   "jp": "それでも、\n会いたい人に会えるのなら……\n待つ事は決して苦ではないな。",
-  "en": "Still, if it means meeting the one you long to see...\nthe waiting is never a hardship."
+  "en": "Still, if it means meeting the one you long\nto see... the waiting is never a hardship."
  }
 ]

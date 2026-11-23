@@ -15,7 +15,7 @@
   "id": "fn11_07:001:02",
   "speaker": "蒐",
   "jp": "あ、{px}だ。\n四角、しにきた？\nここなら、最適。快適。無敵。",
-  "en": "Oh, it's {px}. Here for some square time? This place\nis ideal. Idyllic. Invincible."
+  "en": "Oh, it's {px}. Here for some square\ntime? This place is ideal. Idyllic. Invincible."
  },
  {
   "id": "fn11_07:001:03",
@@ -45,19 +45,19 @@
   "id": "fn11_07:003:01",
   "speaker": "蒐",
   "jp": "でも、{px}は\nわかってる人。だから、特別。\n四角特別枠。",
-  "en": "But you get it, {px}. So you're special. A special\nsquare exception."
+  "en": "But you get it, {px}. So\nyou're special. A special square exception."
  },
  {
   "id": "fn11_07:004:00",
   "speaker": "蒐",
   "jp": "この部屋、\n落ち着くから、すき。\n……{px}は？",
-  "en": "I like this room, 'cause it's calming. ...What about you,\n{px}?"
+  "en": "I like this room, 'cause it's calming.\n...What about you, {px}?"
  },
  {
   "id": "fn11_07:005:00",
   "speaker": "蒐",
   "jp": "くふ、わかってる。\nさすが四角ソムリエに近い人。",
-  "en": "Kufu, you get it. Just what I'd expect from someone\nclose to being a square sommelier."
+  "en": "Kufu, you get it. Just what I'd expect from\nsomeone close to being a square sommelier."
  },
  {
   "id": "fn11_07:006:00",
@@ -75,7 +75,7 @@
   "id": "fn11_07:007:01",
   "speaker": "蒐",
   "jp": "それ以上、熱いと……\n出入り禁止、しちゃうけど。",
-  "en": "Any more heated than that, though... and I'll ban\nyou from the room."
+  "en": "Any more heated than that, though...\nand I'll ban you from the room."
  },
  {
   "id": "fn11_07:008:00",
@@ -147,7 +147,7 @@
   "id": "fn11_07:013:02",
   "speaker": "蒐",
   "jp": "……まどろみって、\nなんか音も字も四角くない。",
-  "en": "...Somehow, \"drowsy\" isn't square, in sound or in\nletters."
+  "en": "...Somehow, \"drowsy\" isn't\nsquare, in sound or in letters."
  },
  {
   "id": "fn11_07:014:00",
@@ -189,7 +189,7 @@
   "id": "fn11_07:017:02",
   "speaker": "蒐",
   "jp": "この部室、ぼくが集めた\n選りすぐりの四角ばっかり。",
-  "en": "This club room is full of the finest squares I've\ncollected."
+  "en": "This club room is full of the\nfinest squares I've collected."
  },
  {
   "id": "fn11_07:017:03",
@@ -201,13 +201,13 @@
   "id": "fn11_07:017:04",
   "speaker": "蒐",
   "jp": "だからね、ぼく、\nいま、目録作ってる。\nもう少しで、最後の作業。",
-  "en": "So, I'm making a catalog right now. It's almost at the\nlast step."
+  "en": "So, I'm making a catalog right\nnow. It's almost at the last step."
  },
  {
   "id": "fn11_07:017:05",
   "speaker": "蒐",
   "jp": "……ね。{px}。\nここ。ちょっと名前、書いて？",
-  "en": "...Hey, {px}. Right here. Write your name for me?"
+  "en": "...Hey, {px}. Right\nhere. Write your name for me?"
  },
  {
   "id": "fn11_07:018:00",
@@ -279,7 +279,7 @@
   "id": "fn11_07:022:01",
   "speaker": "蒐",
   "jp": "この部室にある四角、\nみんな並べて書いたよ。",
-  "en": "I wrote down every square in this club room, all in\na row."
+  "en": "I wrote down every square in\nthis club room, all in a row."
  },
  {
   "id": "fn11_07:022:02",
@@ -291,7 +291,7 @@
   "id": "fn11_07:022:03",
   "speaker": "蒐",
   "jp": "この中にね、大きい四角に、\n小さい四角。いっぱい四角を\n見つけたよ。",
-  "en": "In here, I found big squares, and little squares. Lots\nand lots of squares."
+  "en": "In here, I found big squares, and little\nsquares. Lots and lots of squares."
  },
  {
   "id": "fn11_07:022:04",
@@ -363,7 +363,7 @@
   "id": "fn11_07:027:00",
   "speaker": "蒐",
   "jp": "くふふ、わからないのも\nまた四角い。\nさすがぼくの見つけた四角。",
-  "en": "Kufufu, not knowing is square too. Just what I'd\nexpect from the square I found."
+  "en": "Kufufu, not knowing is square too. Just\nwhat I'd expect from the square I found."
  },
  {
   "id": "fn11_07:027:01",
@@ -381,7 +381,7 @@
   "id": "fn11_07:028:00",
   "speaker": "蒐",
   "jp": "くふふ、わからないのも\nまた四角い感じ。\nさすがぼくの見つけた四角。",
-  "en": "Kufufu, not knowing feels square too. Just what I'd\nexpect from the square I found."
+  "en": "Kufufu, not knowing feels square too. Just\nwhat I'd expect from the square I found."
  },
  {
   "id": "fn11_07:028:01",
@@ -429,25 +429,25 @@
   "id": "fn11_07:032:00",
   "speaker": "蒐",
   "jp": "{px}はね。\n和、って感じ。",
-  "en": "You know, {px}, you feel like \"harmony.\""
+  "en": "You know, {px},\nyou feel like \"harmony.\""
  },
  {
   "id": "fn11_07:032:01",
   "speaker": "蒐",
   "jp": "和って、丸い感じだけど、\n実は違うかもって、最近思う。",
-  "en": "Harmony feels round, but lately I've been thinking\nmaybe it's not."
+  "en": "Harmony feels round, but lately\nI've been thinking maybe it's not."
  },
  {
   "id": "fn11_07:032:02",
   "speaker": "蒐",
   "jp": "辺と辺が繋がる。大きくなる。\nね？四角も和。",
-  "en": "Sides join up with sides. It gets bigger. See? Squares\nare harmony too."
+  "en": "Sides join up with sides. It gets\nbigger. See? Squares are harmony too."
  },
  {
   "id": "fn11_07:032:03",
   "speaker": "蒐",
   "jp": "そんな不思議四角が、リストの\n最後に綺麗に四角く収まった。",
-  "en": "And a mysterious square like that fit neatly,\nsquarely, at the end of my list."
+  "en": "And a mysterious square like that fit\nneatly, squarely, at the end of my list."
  },
  {
   "id": "fn11_07:032:04",
@@ -477,7 +477,7 @@
   "id": "fn11_07:034:01",
   "speaker": "蒐",
   "jp": "和って、右側が四角いよね。\nくふふ。",
-  "en": "The kanji for \"harmony\" has a square on its right\nside, you know. Kufufu."
+  "en": "The kanji for \"harmony\" has a square\non its right side, you know. Kufufu."
  },
  {
   "id": "fn11_07:035:00",

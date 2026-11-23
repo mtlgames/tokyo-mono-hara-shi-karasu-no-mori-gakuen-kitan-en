@@ -39,19 +39,19 @@
   "id": "ms03_02:000:06",
   "speaker": "巴",
   "jp": "盗賊団と{ruby:連|つる}んでいる風には\n見えなかったけどね。",
-  "en": "He didn't look like he was in cahoots with the\nbandits, though."
+  "en": "He didn't look like he was in\ncahoots with the bandits, though."
  },
  {
   "id": "ms03_02:001:00",
   "speaker": "巴",
   "jp": "とにかく手分けして、\n怪しい所を探してみましょ。",
-  "en": "Anyway, let's split up and look for anything\nsuspicious."
+  "en": "Anyway, let's split up and\nlook for anything suspicious."
  },
  {
   "id": "ms03_02:001:01",
   "speaker": "巴",
   "jp": "{px}も、頼んだわよ。\nじゃ、また後で。",
-  "en": "I'm counting on you too, {px}. See you later."
+  "en": "I'm counting on you too,\n{px}. See you later."
  },
  {
   "id": "ms03_02:002:00",
@@ -75,7 +75,7 @@
   "id": "ms03_02:002:03",
   "speaker": "燈治",
   "jp": "どうした、{px}。\nこっちなら俺が探してるぜ？",
-  "en": "What's up, {px}? I'm already searchin' over here,\ny'know."
+  "en": "What's up, {px}? I'm\nalready searchin' over here, y'know."
  },
  {
   "id": "ms03_02:002:04",
@@ -105,7 +105,7 @@
   "id": "ms03_02:004:01",
   "speaker": "燈治",
   "jp": "隠れんぼしてんじゃねェんだ。\n俺を見つけたって\nしょうがねェだろ。",
-  "en": "We ain't playin' hide-and-seek. Ain't no use findin'\nme."
+  "en": "We ain't playin' hide-and-seek.\nAin't no use findin' me."
  },
  {
   "id": "ms03_02:005:00",
@@ -117,7 +117,7 @@
   "id": "ms03_02:005:01",
   "speaker": "燈治",
   "jp": "いや、どう見ても\nお前の視界には、俺しか\n入ってない気がするが……。",
-  "en": "Uh, from where I'm standin', the only thing in your\nline of sight is me..."
+  "en": "Uh, from where I'm standin', the only\nthing in your line of sight is me..."
  },
  {
   "id": "ms03_02:006:00",
@@ -135,7 +135,7 @@
   "id": "ms03_02:008:00",
   "speaker": "燈治",
   "jp": "まァ、そうだよな。\nそう簡単に見つかったら\n苦労しねェよ。",
-  "en": "Well, yeah. If it were that easy to find, we wouldn't\nbe sweatin' it."
+  "en": "Well, yeah. If it were that easy to\nfind, we wouldn't be sweatin' it."
  },
  {
   "id": "ms03_02:009:00",
@@ -147,7 +147,7 @@
   "id": "ms03_02:010:00",
   "speaker": "燈治",
   "jp": "……だな。\nそう簡単に見つかったら\n苦労しねェよ。",
-  "en": "...Yeah. If it were that easy to find, we wouldn't be\nsweatin' it."
+  "en": "...Yeah. If it were that easy to\nfind, we wouldn't be sweatin' it."
  },
  {
   "id": "ms03_02:011:00",
@@ -159,13 +159,13 @@
   "id": "ms03_02:012:00",
   "speaker": "燈治",
   "jp": "まァ、それほど広い\n場所って訳じゃなし、\nそのうち何か見つかるだろ。",
-  "en": "Well, it ain't that big a place. We'll turn somethin' up\nsooner or later."
+  "en": "Well, it ain't that big a place. We'll\nturn somethin' up sooner or later."
  },
  {
   "id": "ms03_02:012:01",
   "speaker": "燈治",
   "jp": "花園神社か……。\n俺も祭りの時にくらいしか\n来ねェからな。",
-  "en": "Hanazono Shrine, huh... I only ever come here for\nfestivals."
+  "en": "Hanazono Shrine, huh... I only\never come here for festivals."
  },
  {
   "id": "ms03_02:012:02",
@@ -231,7 +231,7 @@
   "id": "ms03_02:013:05",
   "speaker": "弥紀",
   "jp": "怪しいものって、\nどういう基準で探したら\nいいのかな。",
-  "en": "How are you supposed to decide what counts as\nsuspicious?"
+  "en": "How are you supposed to decide\nwhat counts as suspicious?"
  },
  {
   "id": "ms03_02:014:00",
@@ -243,13 +243,13 @@
   "id": "ms03_02:014:01",
   "speaker": "弥紀",
   "jp": "目に焼き付いて\n離れない、って感じかな？",
-  "en": "Like something that burns into your eyes and won't\ngo away?"
+  "en": "Like something that burns into\nyour eyes and won't go away?"
  },
  {
   "id": "ms03_02:014:02",
   "speaker": "弥紀",
   "jp": "ふふッ、{px}って\n説明するのが上手だね。",
-  "en": "Hehe, you're good at explaining things, {px}."
+  "en": "Hehe, you're good at explaining\nthings, {px}."
  },
  {
   "id": "ms03_02:015:00",
@@ -261,19 +261,19 @@
   "id": "ms03_02:015:01",
   "speaker": "弥紀",
   "jp": "うん、それなら探せるかも。\nありがとう、{px}。",
-  "en": "Yeah, I think I can find that. Thanks, {px}."
+  "en": "Yeah, I think I can find that.\nThanks, {px}."
  },
  {
   "id": "ms03_02:016:00",
   "speaker": "弥紀",
   "jp": "うーん、見てると\nあっつくなってくる\n感じ……かな？",
-  "en": "Hmm, something that makes you feel all hot when\nyou look at it... maybe?"
+  "en": "Hmm, something that makes you feel\nall hot when you look at it... maybe?"
  },
  {
   "id": "ms03_02:016:01",
   "speaker": "弥紀",
   "jp": "ふふッ、そういえば\n{px}って\n丁度そんな感じだね。",
-  "en": "Hehe, come to think of it, that's just how you are,\n{px}."
+  "en": "Hehe, come to think of it, that's just\nhow you are, {px}."
  },
  {
   "id": "ms03_02:017:00",
@@ -291,7 +291,7 @@
   "id": "ms03_02:018:00",
   "speaker": "弥紀",
   "jp": "え……？\n怒りたくなるようなものを\n探すの、かな……。",
-  "en": "Huh...? So I should look for something that makes\nme angry...?"
+  "en": "Huh...? So I should look for\nsomething that makes me angry...?"
  },
  {
   "id": "ms03_02:018:01",
@@ -303,7 +303,7 @@
   "id": "ms03_02:019:00",
   "speaker": "弥紀",
   "jp": "嫌な感じを\n探せばいいのかな……？",
-  "en": "So I should look for something that gives off a bad\nfeeling...?"
+  "en": "So I should look for something\nthat gives off a bad feeling...?"
  },
  {
   "id": "ms03_02:019:01",
@@ -345,7 +345,7 @@
   "id": "ms03_02:023:00",
   "speaker": "弥紀",
   "jp": "……花園神社、\n来るのはちょっと\n久しぶりなんだ。",
-  "en": "...It's been a while since I last came to Hanazono\nShrine."
+  "en": "...It's been a while since I last\ncame to Hanazono Shrine."
  },
  {
   "id": "ms03_02:023:01",
@@ -363,7 +363,7 @@
   "id": "ms03_02:023:03",
   "speaker": "弥紀",
   "jp": "小さい頃はもうちょっと\n運動神経もよかった\n気がするんだけどな……。",
-  "en": "I feel like I was a little more athletic back when I\nwas small..."
+  "en": "I feel like I was a little more\nathletic back when I was small..."
  },
  {
   "id": "ms03_02:023:04",
@@ -411,7 +411,7 @@
   "id": "ms03_02:024:03",
   "speaker": "巴",
   "jp": "へえ……\nひょっとしてあたしの事\n心配で付いてきたってワケ？",
-  "en": "Hmm... Don't tell me you followed me because you\nwere worried about me?"
+  "en": "Hmm... Don't tell me you followed me\nbecause you were worried about me?"
  },
  {
   "id": "ms03_02:025:00",
@@ -435,7 +435,7 @@
   "id": "ms03_02:026:00",
   "speaker": "巴",
   "jp": "べ、別に{px}に\n心配されなくたって\nあたしは大丈夫よッ。",
-  "en": "I-I'll be fine without you worrying about me, {px}!"
+  "en": "I-I'll be fine without you worrying\nabout me, {px}!"
  },
  {
   "id": "ms03_02:026:01",
@@ -453,13 +453,13 @@
   "id": "ms03_02:027:00",
   "speaker": "巴",
   "jp": "……別に{px}に\n心配されなくたって\nあたしは大丈夫よ。",
-  "en": "...I'll be fine without you worrying about me, {px}."
+  "en": "...I'll be fine without you worrying\nabout me, {px}."
  },
  {
   "id": "ms03_02:027:01",
   "speaker": "巴",
   "jp": "いいから少しは\n真面目に探してよねッ。",
-  "en": "Just take the search a little more seriously, would\nyou!"
+  "en": "Just take the search a little\nmore seriously, would you!"
  },
  {
   "id": "ms03_02:028:00",
@@ -477,7 +477,7 @@
   "id": "ms03_02:029:01",
   "speaker": "巴",
   "jp": "まったくもう、\n手分けして探さなきゃ\n意味ないでしょ。",
-  "en": "Honestly, there's no point unless we split up to\nsearch."
+  "en": "Honestly, there's no point\nunless we split up to search."
  },
  {
   "id": "ms03_02:030:00",
@@ -489,7 +489,7 @@
   "id": "ms03_02:030:01",
   "speaker": "巴",
   "jp": "まったくもう、\n手分けして探さなきゃ\n意味ないでしょ。",
-  "en": "Honestly, there's no point unless we split up to\nsearch."
+  "en": "Honestly, there's no point\nunless we split up to search."
  },
  {
   "id": "ms03_02:031:00",
@@ -513,7 +513,7 @@
   "id": "ms03_02:032:01",
   "speaker": "巴",
   "jp": "まったくもう、\n手分けして探さなきゃ\n意味ないでしょ。",
-  "en": "Honestly, there's no point unless we split up to\nsearch."
+  "en": "Honestly, there's no point\nunless we split up to search."
  },
  {
   "id": "ms03_02:033:00",
@@ -525,7 +525,7 @@
   "id": "ms03_02:033:01",
   "speaker": "巴",
   "jp": "まったくもう、\n手分けして探さなきゃ\n意味ないでしょ。",
-  "en": "Honestly, there's no point unless we split up to\nsearch."
+  "en": "Honestly, there's no point\nunless we split up to search."
  },
  {
   "id": "ms03_02:034:00",
@@ -537,7 +537,7 @@
   "id": "ms03_02:034:01",
   "speaker": "巴",
   "jp": "花園神社には毎年、\n両親と初詣に来てるけど、",
-  "en": "I come to Hanazono Shrine every year with my\nparents for the New Year's visit, but"
+  "en": "I come to Hanazono Shrine every year with\nmy parents for the New Year's visit, but"
  },
  {
   "id": "ms03_02:034:02",
@@ -549,13 +549,13 @@
   "id": "ms03_02:034:03",
   "speaker": "巴",
   "jp": "……あ、い、言っておくけど、\n初詣はウチの家族行事だから！",
-  "en": "...Oh, j-just so you know, the New Year's visit is a\nfamily tradition at our house!"
+  "en": "...Oh, j-just so you know, the New Year's\nvisit is a family tradition at our house!"
  },
  {
   "id": "ms03_02:034:04",
   "speaker": "巴",
   "jp": "別に、他に一緒に行く人が\nいないからとかじゃ―――",
-  "en": "It's not like I don't have anyone else to go with or\nanything--"
+  "en": "It's not like I don't have anyone\nelse to go with or anything--"
  },
  {
   "id": "ms03_02:034:05",
@@ -567,7 +567,7 @@
   "id": "ms03_02:034:06",
   "speaker": "巴",
   "jp": "ねえ……\nあの{ruby:石碑|せきひ}の周り……\n何か変じゃない？",
-  "en": "Hey... Around that stone monument... Doesn't\nsomething seem off?"
+  "en": "Hey... Around that stone monument...\nDoesn't something seem off?"
  },
  {
   "id": "ms03_02:034:07",
@@ -591,7 +591,7 @@
   "id": "ms03_02:036:00",
   "speaker": "巴",
   "jp": "この{ruby:石碑|せきひ}……\nやっぱりちょっと\n変なのよ。",
-  "en": "This stone monument... There's definitely something\nweird about it."
+  "en": "This stone monument... There's\ndefinitely something weird about it."
  },
  {
   "id": "ms03_02:036:01",
@@ -651,13 +651,13 @@
   "id": "ms03_02:036:10",
   "speaker": "燈治",
   "jp": "おい飛坂……\nいま何か変じゃなかったか？",
-  "en": "Hey, Tobisaka... Wasn't somethin' off about what you\njust said?"
+  "en": "Hey, Tobisaka... Wasn't somethin'\noff about what you just said?"
  },
  {
   "id": "ms03_02:036:11",
   "speaker": "巴",
   "jp": "學園の地下と、\n雰囲気が似てるわね。",
-  "en": "It feels a lot like the underground beneath our\nschool."
+  "en": "It feels a lot like the\nunderground beneath our school."
  },
  {
   "id": "ms03_02:036:12",
@@ -669,13 +669,13 @@
   "id": "ms03_02:036:13",
   "speaker": "{ruby:白|まお}",
   "jp": "鴉乃杜と同じじゃな。\nこの{ruby:洞|うろ}、\n並ならぬ《氣》が満ちておる。",
-  "en": "'Tis the same as Karasu no Mori. This Hollow brims\nwith no ordinary Ki."
+  "en": "'Tis the same as Karasu no Mori. This\nHollow brims with no ordinary Ki."
  },
  {
   "id": "ms03_02:037:00",
   "speaker": "白",
   "jp": "この気配は……\nさしずめここが《春の洞》と\n言った所じゃろう。",
-  "en": "This presence... I daresay this place is what one\nwould call the Spring Hollow."
+  "en": "This presence... I daresay this place is\nwhat one would call the Spring Hollow."
  },
  {
   "id": "ms03_02:037:01",
@@ -753,7 +753,7 @@
   "id": "ms03_02:045:00",
   "speaker": "白",
   "jp": "怖じ気づく必要はなかろう。\n{ruby:白札|わらわ}を持つ身ならばな。",
-  "en": "There is no need to lose your nerve. Not when you\nbear me, the White Card."
+  "en": "There is no need to lose your nerve.\nNot when you bear me, the White Card."
  },
  {
   "id": "ms03_02:046:00",
@@ -783,7 +783,7 @@
   "id": "ms03_02:047:03",
   "speaker": "巴",
   "jp": "まったくもう、\n突然出てきて\n仕切らないでよね！！",
-  "en": "Honestly, don't just pop out of nowhere and start\nbossing us around!!"
+  "en": "Honestly, don't just pop out of\nnowhere and start bossing us around!!"
  },
  {
   "id": "ms03_02:047:04",

@@ -9,7 +9,7 @@
   "id": "fn06_16:001:01",
   "speaker": "紅緒",
   "jp": "……月を待ってたんです。\nこの街は、空が狭いでしょう？",
-  "en": "...I was waiting for the moon. The sky is narrow in\nthis city, isn't it?"
+  "en": "...I was waiting for the moon. The\nsky is narrow in this city, isn't it?"
  },
  {
   "id": "fn06_16:001:02",
@@ -45,7 +45,7 @@
   "id": "fn06_16:004:01",
   "speaker": "紅緒",
   "jp": "迷いの無い言葉です。\n……よく、伝わる。",
-  "en": "Words without hesitation. ...They come through\nclearly."
+  "en": "Words without hesitation.\n...They come through clearly."
  },
  {
   "id": "fn06_16:005:00",
@@ -57,7 +57,7 @@
   "id": "fn06_16:005:01",
   "speaker": "紅緒",
   "jp": "迷いの無い言葉です。\n……よく、伝わる。",
-  "en": "Words without hesitation. ...They come through\nclearly."
+  "en": "Words without hesitation.\n...They come through clearly."
  },
  {
   "id": "fn06_16:006:00",
@@ -81,7 +81,7 @@
   "id": "fn06_16:007:01",
   "speaker": "紅緒",
   "jp": "{ruby:忌憚|きたん}ない言葉を\n口に出来る人は少ない。\n……よくも悪くも。",
-  "en": "Few people can speak their minds without reserve.\n...For better or for worse."
+  "en": "Few people can speak their minds\nwithout reserve. ...For better or for worse."
  },
  {
   "id": "fn06_16:008:00",
@@ -117,7 +117,7 @@
   "id": "fn06_16:010:00",
   "speaker": "紅緒",
   "jp": "確かに……\n一言では、言い表す事が\n出来ませんね。",
-  "en": "Indeed... It can't be summed up in a single word, can\nit?"
+  "en": "Indeed... It can't be summed\nup in a single word, can it?"
  },
  {
   "id": "fn06_16:011:00",
@@ -135,13 +135,13 @@
   "id": "fn06_16:012:01",
   "speaker": "紅緒",
   "jp": "星が遠すぎる。\n偽物の光が溢れるこの街では、\nあまりにも……。",
-  "en": "The stars are too far away. In this city overflowing\nwith false light, far too far..."
+  "en": "The stars are too far away. In this city\noverflowing with false light, far too far..."
  },
  {
   "id": "fn06_16:012:02",
   "speaker": "紅緒",
   "jp": "皮肉です……月の光も\n{ruby:虚|うつ}ろな飾り物に過ぎないのに。",
-  "en": "How ironic... when the moonlight, too, is nothing\nmore than a hollow ornament."
+  "en": "How ironic... when the moonlight, too, is\nnothing more than a hollow ornament."
  },
  {
   "id": "fn06_16:012:03",

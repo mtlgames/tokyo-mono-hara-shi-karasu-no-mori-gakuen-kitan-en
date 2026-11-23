@@ -3,30 +3,30 @@
   "id": "dg03_10:000:00",
   "speaker": "白",
   "jp": "この洞に満ちておる気は、\n春の札のものか……。",
-  "en": "The ki filling this Hollow... it belongs to the spring\ncards."
+  "en": "The ki filling this Hollow... it\nbelongs to the spring cards."
  },
  {
   "id": "dg03_10:000:01",
   "speaker": "白",
   "jp": "{px}よ、隠人は憑いた\n札の力によって、\n異なる気を持っておる。",
-  "en": "{px}, the Oni carry different ki depending on the\npower of the cards possessing them."
+  "en": "{px}, the Oni carry\ndifferent ki depending on the\npower of the cards possessing them."
  },
  {
   "id": "dg03_10:000:02",
   "speaker": "白",
   "jp": "すなわち春、夏、秋、冬。\nこの四つじゃ。",
-  "en": "Namely spring, summer, autumn and winter. These\nfour."
+  "en": "Namely spring, summer,\nautumn and winter. These four."
  },
  {
   "id": "dg03_10:000:03",
   "speaker": "白",
   "jp": "これらの気は{ruby:相剋|そうこく}があっての、\n春の気は、夏の気に{ruby:剋|か}てず、\n夏の気は、秋の気に{ruby:剋|か}てぬ。",
-  "en": "These ki overcome one another in turn. Spring ki\ncannot overcome summer ki, and summer ki cannot\novercome autumn ki."
+  "en": "These ki overcome one another in turn.\nSpring ki cannot overcome summer ki, and\nsummer ki cannot overcome autumn ki."
  },
  {
   "id": "dg03_10:000:04",
   "speaker": "白",
   "jp": "札を道具に宿すならば、\n隠人の気に合わせて\n選ぶがよかろう。",
-  "en": "When you bind a card to a tool, you would do well\nto choose it to suit the Oni's ki."
+  "en": "When you bind a card to a tool, you would\ndo well to choose it to suit the Oni's ki."
  }
 ]

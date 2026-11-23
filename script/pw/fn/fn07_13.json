@@ -3,7 +3,7 @@
   "id": "fn07_13:001:00",
   "speaker": "英雄",
   "jp": "やあ！すまないが、少々\n待ってくれるかなッ？",
-  "en": "Hello there! Sorry, but could you wait just a\nmoment?"
+  "en": "Hello there! Sorry, but could\nyou wait just a moment?"
  },
  {
   "id": "fn07_13:001:01",
@@ -27,25 +27,25 @@
   "id": "fn07_13:001:04",
   "speaker": "英雄",
   "jp": "杖を壊してお嘆きのご婦人から\n修理を{ruby:承|うけたまわ}ったのだよッ。\n何でも、思い出の品らしい。",
-  "en": "A lady was lamenting her broken cane, so I took on\nthe job of repairing it! It seems it holds precious\nmemories."
+  "en": "A lady was lamenting her broken\ncane, so I took on the job of repairing\nit! It seems it holds precious memories."
  },
  {
   "id": "fn07_13:001:05",
   "speaker": "英雄",
   "jp": "ご婦人も、さぞや\nお喜びになるだろうッ！\nこれぞ{ruby:英雄|ヒーロー}の勤めッ！",
-  "en": "The lady will surely be overjoyed! This is the duty\nof a hero!"
+  "en": "The lady will surely be overjoyed!\nThis is the duty of a hero!"
  },
  {
   "id": "fn07_13:001:06",
   "speaker": "英雄",
   "jp": "{ruby:英雄|ヒーロー}とは、華麗に悪を\n討ち果たすだけではない。",
-  "en": "Being a hero isn't merely about gallantly striking\ndown evil."
+  "en": "Being a hero isn't merely about\ngallantly striking down evil."
  },
  {
   "id": "fn07_13:002:00",
   "speaker": "英雄",
   "jp": "{px}。\n君にはこの言葉の意味が\nわかるかい？",
-  "en": "{px}. Do you understand the meaning of these\nwords?"
+  "en": "{px}. Do you understand\nthe meaning of these words?"
  },
  {
   "id": "fn07_13:003:00",
@@ -69,7 +69,7 @@
   "id": "fn07_13:004:01",
   "speaker": "英雄",
   "jp": "君は理屈でなく、本能で\n{ruby:英雄|ヒーロー}の務めを理解して\nいるのだねッ！",
-  "en": "You understand a hero's duty not by reason, but by\ninstinct!"
+  "en": "You understand a hero's duty\nnot by reason, but by instinct!"
  },
  {
   "id": "fn07_13:005:00",
@@ -111,7 +111,7 @@
   "id": "fn07_13:009:01",
   "speaker": "英雄",
   "jp": "君の思い描く\n理想とは違うとッ！\n言うのだねッッ！！",
-  "en": "You're saying it differs from the ideal you envision!!\nIs that it!!"
+  "en": "You're saying it differs from the\nideal you envision!! Is that it!!"
  },
  {
   "id": "fn07_13:010:00",
@@ -135,19 +135,19 @@
   "id": "fn07_13:012:01",
   "speaker": "英雄",
   "jp": "執行者、そして封札師よ！\nこれが私の信頼の形だ！！",
-  "en": "Executor, and Card Sealer! This is the form my trust\ntakes!!"
+  "en": "Executor, and Card Sealer! This\nis the form my trust takes!!"
  },
  {
   "id": "fn07_13:013:00",
   "speaker": "英雄",
   "jp": "残念ながら、君と私の理想は\n違う道を示している様だ。",
-  "en": "Sadly, it seems your ideals and mine point down\ndifferent paths."
+  "en": "Sadly, it seems your ideals and\nmine point down different paths."
  },
  {
   "id": "fn07_13:013:01",
   "speaker": "英雄",
   "jp": "……君の選択は、\n更に険しい高みへの\n第一歩かもしれぬッ！！",
-  "en": "...Your choice may be the first step toward even\nsteeper heights!!"
+  "en": "...Your choice may be the first\nstep toward even steeper heights!!"
  },
  {
   "id": "fn07_13:013:02",
@@ -159,7 +159,7 @@
   "id": "fn07_13:013:03",
   "speaker": "英雄",
   "jp": "私はただ見守ろう！\n執行者よ、己の正義を胸に\n行くがいい！！",
-  "en": "I shall simply watch over you! Executor, go forth\nwith your own justice in your heart!!"
+  "en": "I shall simply watch over you! Executor, go\nforth with your own justice in your heart!!"
  },
  {
   "id": "fn07_13:014:00",
@@ -177,7 +177,7 @@
   "id": "fn07_13:014:02",
   "speaker": "英雄",
   "jp": "君の心は常に正義と共に在る！\nその呼びかけならば、\n私は如何なる時でも応えよう！",
-  "en": "Your heart is ever with justice! If it calls, I shall\nanswer at any time!"
+  "en": "Your heart is ever with justice! If\nit calls, I shall answer at any time!"
  },
  {
   "id": "fn07_13:014:03",
@@ -189,7 +189,7 @@
   "id": "fn07_13:015:00",
   "speaker": "英雄",
   "jp": "君の正義が揺らがぬものか、\n私はただ見守ろう！",
-  "en": "I shall simply watch over you, to see whether your\njustice holds firm!"
+  "en": "I shall simply watch over you, to\nsee whether your justice holds firm!"
  },
  {
   "id": "fn07_13:015:01",
@@ -201,6 +201,6 @@
   "id": "fn07_13:016:00",
   "speaker": "英雄",
   "jp": "はッはッは！\nなんだなんだ、何度来ても\n花札は一枚だけだぞッ！",
-  "en": "Ha ha ha! What's this, what's this? No matter how\nmany times you come, there's only one hanafuda\ncard!"
+  "en": "Ha ha ha! What's this, what's this?\nNo matter how many times you\ncome, there's only one hanafuda card!"
  }
 ]

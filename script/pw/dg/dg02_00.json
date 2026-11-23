@@ -9,7 +9,7 @@
   "id": "dg02_00:000:01",
   "speaker": "巴",
   "jp": "思ってたより、\n数段、ものすごいところね。",
-  "en": "This place is several times more incredible than I\nexpected."
+  "en": "This place is several times\nmore incredible than I expected."
  },
  {
   "id": "dg02_00:000:02",
@@ -195,7 +195,7 @@
   "id": "dg02_00:011:07",
   "speaker": "白",
   "jp": "ふむ。\nやはり札本体は\nヒトの力を得るを好むか。",
-  "en": "Hmm. So the card itself does prefer to take a\nhuman's strength."
+  "en": "Hmm. So the card itself does\nprefer to take a human's strength."
  },
  {
   "id": "dg02_00:011:08",
@@ -207,7 +207,7 @@
   "id": "dg02_00:011:09",
   "speaker": "白",
   "jp": "やかましい。\n札憑き如きが\n口を出すでないわ。",
-  "en": "Silence. A mere Card-Possessed has no business\nbutting in."
+  "en": "Silence. A mere Card-Possessed\nhas no business butting in."
  },
  {
   "id": "dg02_00:011:10",
@@ -225,19 +225,19 @@
   "id": "dg02_00:013:00",
   "speaker": "白",
   "jp": "……其方の言う事は\n時折ようわからぬ。",
-  "en": "...At times, I cannot make heads or tails of what you\nsay."
+  "en": "...At times, I cannot make\nheads or tails of what you say."
  },
  {
   "id": "dg02_00:014:00",
   "speaker": "白",
   "jp": "ふむ、確かにその方が\n手に入れ甲斐も\nあるというものよな。",
-  "en": "Hmm, true, that would make it all the more worth\nobtaining."
+  "en": "Hmm, true, that would make it\nall the more worth obtaining."
  },
  {
   "id": "dg02_00:015:00",
   "speaker": "白",
   "jp": "ふむ、確かにその方が\n手に入れ甲斐も\nあるというものよな。",
-  "en": "Hmm, true, that would make it all the more worth\nobtaining."
+  "en": "Hmm, true, that would make it\nall the more worth obtaining."
  },
  {
   "id": "dg02_00:016:00",
@@ -309,7 +309,7 @@
   "id": "dg02_00:023:00",
   "speaker": "白",
   "jp": "まあ、よいわ。\n妾とて、娘の苦しむ様を\n眺めて喜ぶ趣味はない。",
-  "en": "Well, no matter. Even I take no pleasure in watching\na girl suffer."
+  "en": "Well, no matter. Even I take no\npleasure in watching a girl suffer."
  },
  {
   "id": "dg02_00:023:01",
@@ -333,7 +333,7 @@
   "id": "dg02_00:025:01",
   "speaker": "札から聞こえる声",
   "jp": "{ruby:白札|わらわ}という道具を\n使いこなすのは\n其方の役目じゃ。",
-  "en": "To master the tool that is I, the White Card, is your\nduty."
+  "en": "To master the tool that is I,\nthe White Card, is your duty."
  },
  {
   "id": "dg02_00:025:02",
@@ -345,7 +345,7 @@
   "id": "dg02_00:026:00",
   "speaker": "札から聞こえる声",
   "jp": "妾はただの道具に過ぎぬ。\n事を成し遂げるものこそは\n執行者の意志と力ぞ。",
-  "en": "I am but a tool. What sees the deed done is the will\nand strength of the Executor."
+  "en": "I am but a tool. What sees the deed done\nis the will and strength of the Executor."
  },
  {
   "id": "dg02_00:026:01",
@@ -381,7 +381,7 @@
   "id": "dg02_00:028:03",
   "speaker": "白",
   "jp": "{px}、其方の周りは\n《氣》の強い者ばかりじゃの。",
-  "en": "{px}, everyone around you has such strong Ki."
+  "en": "{px}, everyone\naround you has such strong Ki."
  },
  {
   "id": "dg02_00:028:04",
@@ -399,7 +399,7 @@
   "id": "dg02_00:028:06",
   "speaker": "巴",
   "jp": "いまのが、花札……。\n体が裂けちゃうかと思った。",
-  "en": "So that was a hanafuda card... I thought my body\nwas going to tear apart."
+  "en": "So that was a hanafuda card... I thought\nmy body was going to tear apart."
  },
  {
   "id": "dg02_00:028:07",
@@ -429,7 +429,7 @@
   "id": "dg02_00:030:00",
   "speaker": "巴",
   "jp": "……まったく、\n{px}には{ruby:敵|かな}わないわね。",
-  "en": "...Honestly, I can never win against you, {px}."
+  "en": "...Honestly, I can never win\nagainst you, {px}."
  },
  {
   "id": "dg02_00:030:01",
@@ -447,7 +447,7 @@
   "id": "dg02_00:031:01",
   "speaker": "巴",
   "jp": "あたしだって、\nお礼くらい\n言うときは言うわよッ。",
-  "en": "Even I say thank you when it's called for, you\nknow!"
+  "en": "Even I say thank you when\nit's called for, you know!"
  },
  {
   "id": "dg02_00:032:00",
@@ -471,7 +471,7 @@
   "id": "dg02_00:034:00",
   "speaker": "巴",
   "jp": "そ、そんな事言ったって、\n札の方が飛んできたんだから\n不可抗力じゃない！！",
-  "en": "E-Even if you say that, the card came flying at ME,\nso I couldn't help it!!"
+  "en": "E-Even if you say that, the card came\nflying at ME, so I couldn't help it!!"
  },
  {
   "id": "dg02_00:034:01",
@@ -501,7 +501,7 @@
   "id": "dg02_00:036:00",
   "speaker": "巴",
   "jp": "そんな事ないわよ。\nアンタがいたから\nこうやって……。",
-  "en": "That's not true. It's because you were here that I\ncould..."
+  "en": "That's not true. It's because\nyou were here that I could..."
  },
  {
   "id": "dg02_00:036:01",
@@ -519,7 +519,7 @@
   "id": "dg02_00:037:01",
   "speaker": "巴",
   "jp": "あ、あたしだって、\nお礼くらい\n言うときは言うわよッ。",
-  "en": "E-Even I say thank you when it's called for, you\nknow!"
+  "en": "E-Even I say thank you when\nit's called for, you know!"
  },
  {
   "id": "dg02_00:038:00",
@@ -549,19 +549,19 @@
   "id": "dg02_00:039:03",
   "speaker": "白",
   "jp": "妾たちは札を集めるのが使命。\n札憑きになったからには、\n其方もそのために働くがよい。",
-  "en": "Our mission is to gather the cards. Now that you\nare Card-Possessed, you too shall work toward that\nend."
+  "en": "Our mission is to gather the cards.\nNow that you are Card-Possessed,\nyou too shall work toward that end."
  },
  {
   "id": "dg02_00:039:04",
   "speaker": "巴",
   "jp": "あ、そうそう。\n気になってたんだけど、\nその札憑き、って何なの？",
-  "en": "Oh, right. I've been wondering, what IS this\n\"Card-Possessed\" thing?"
+  "en": "Oh, right. I've been wondering, what\nIS this \"Card-Possessed\" thing?"
  },
  {
   "id": "dg02_00:039:05",
   "speaker": "燈治",
   "jp": "ああ、穂坂と俺も、\nあの花札に\n一度取り憑かれてんだよ。",
-  "en": "Ah, Hosaka and me got possessed by those\nhanafuda cards once, too."
+  "en": "Ah, Hosaka and me got possessed\nby those hanafuda cards once, too."
  },
  {
   "id": "dg02_00:039:06",
@@ -573,7 +573,7 @@
   "id": "dg02_00:039:07",
   "speaker": "燈治",
   "jp": "それ以来、\nちょっとした《力》が\n使えるようになってな。",
-  "en": "Ever since, we've been able to use a little bit of\nPower."
+  "en": "Ever since, we've been able\nto use a little bit of Power."
  },
  {
   "id": "dg02_00:039:08",
@@ -597,7 +597,7 @@
   "id": "dg02_00:039:11",
   "speaker": "巴",
   "jp": "あのとき、ね。\nちょっと気遣いが\n足りなかったなって……。",
-  "en": "Back then, you know... I think I wasn't considerate\nenough..."
+  "en": "Back then, you know... I think\nI wasn't considerate enough..."
  },
  {
   "id": "dg02_00:039:12",

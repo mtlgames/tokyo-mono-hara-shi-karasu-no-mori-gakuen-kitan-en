@@ -3,25 +3,25 @@
   "id": "fn08_14:001:00",
   "speaker": "絢人",
   "jp": "やあ、{px}。\n先ほどの突入は見事だったよ。",
-  "en": "Hello, {px}. That raid earlier was splendid."
+  "en": "Hello, {px}.\nThat raid earlier was splendid."
  },
  {
   "id": "fn08_14:001:01",
   "speaker": "絢人",
   "jp": "マスターも……流石だね。\nまさに昔取った杵柄かな。",
-  "en": "The master, too... impressive as ever. Old skills never\nfade, I suppose."
+  "en": "The master, too... impressive as ever.\nOld skills never fade, I suppose."
  },
  {
   "id": "fn08_14:001:02",
   "speaker": "絢人",
   "jp": "意外なコネも知ったし、新しい\n顧客層が開拓出来そうだよ。",
-  "en": "I learned of some unexpected connections, too. I may\nbe able to open up a whole new client base."
+  "en": "I learned of some unexpected connections, too. I\nmay be able to open up a whole new client base."
  },
  {
   "id": "fn08_14:001:03",
   "speaker": "絢人",
   "jp": "……僕の求める依頼者が\n増えるとは限らないけれど。",
-  "en": "...Though that's no guarantee the kind of client I\nseek will grow in number."
+  "en": "...Though that's no guarantee the kind\nof client I seek will grow in number."
  },
  {
   "id": "fn08_14:001:04",
@@ -33,7 +33,7 @@
   "id": "fn08_14:001:05",
   "speaker": "絢人",
   "jp": "{px}。\n君も、ぶたれてみないかい？",
-  "en": "{px}. Wouldn't you like to try being slapped too?"
+  "en": "{px}. Wouldn't you\nlike to try being slapped too?"
  },
  {
   "id": "fn08_14:002:00",
@@ -45,13 +45,13 @@
   "id": "fn08_14:002:01",
   "speaker": "絢人",
   "jp": "君からにじみ出るその気持ち。\nそれが彼女たちの拳にも\n詰まっている……！",
-  "en": "That feeling seeping out of you. It's packed into\ntheir fists, too...!"
+  "en": "That feeling seeping out of you.\nIt's packed into their fists, too...!"
  },
  {
   "id": "fn08_14:003:00",
   "speaker": "絢人",
   "jp": "ふふふ……、そんな軽く\n新しい扉を開いていいのかい？",
-  "en": "Fufufu... Is it all right to open a new door so\nlightly?"
+  "en": "Fufufu... Is it all right to\nopen a new door so lightly?"
  },
  {
   "id": "fn08_14:003:01",
@@ -69,19 +69,19 @@
   "id": "fn08_14:004:01",
   "speaker": "絢人",
   "jp": "それじゃあ、その意気のまま、\n彼女たちの拳にぶつかると\nしようじゃないか！",
-  "en": "Then, in that very spirit, let's go throw ourselves\nagainst their fists!"
+  "en": "Then, in that very spirit, let's go\nthrow ourselves against their fists!"
  },
  {
   "id": "fn08_14:005:00",
   "speaker": "絢人",
   "jp": "ああ、そうだよ。\n何事も経験だからね。",
-  "en": "Yes, that's right. Everything is an experience, after\nall."
+  "en": "Yes, that's right. Everything\nis an experience, after all."
  },
  {
   "id": "fn08_14:006:00",
   "speaker": "絢人",
   "jp": "逆方向をお望みか……。\nれも一つの道だけれどね。",
-  "en": "You'd prefer the other direction... That's one path\ntoo, I suppose."
+  "en": "You'd prefer the other direction...\nThat's one path too, I suppose."
  },
  {
   "id": "fn08_14:006:01",
@@ -99,13 +99,13 @@
   "id": "fn08_14:007:01",
   "speaker": "絢人",
   "jp": "君ならこの素晴らしさが\n分かると思ったんだけどね。",
-  "en": "I thought you of all people would understand how\nwonderful it is."
+  "en": "I thought you of all people would\nunderstand how wonderful it is."
  },
  {
   "id": "fn08_14:008:00",
   "speaker": "絢人",
   "jp": "重く考えすぎているだけだよ。\n軽く、一度で良いんだ。",
-  "en": "You're simply overthinking it. Lightly, just once is\nenough."
+  "en": "You're simply overthinking it.\nLightly, just once is enough."
  },
  {
   "id": "fn08_14:008:01",
@@ -141,7 +141,7 @@
   "id": "fn08_14:011:01",
   "speaker": "絢人",
   "jp": "普通の本だよ、ただの本だよ。\n凄く目に良い本、ってだけさ。",
-  "en": "It's an ordinary book, just a book. Simply a book\nthat's a real feast for the eyes."
+  "en": "It's an ordinary book, just a book. Simply\na book that's a real feast for the eyes."
  },
  {
   "id": "fn08_14:011:02",
@@ -153,13 +153,13 @@
   "id": "fn08_14:012:00",
   "speaker": "絢人",
   "jp": "一つの{ruby:交流方法|コミュニケーション}として、\n考えてみて欲しいな。",
-  "en": "I'd like you to think of it as one form of\ncommunication."
+  "en": "I'd like you to think of it as\none form of communication."
  },
  {
   "id": "fn08_14:012:01",
   "speaker": "絢人",
   "jp": "……君には必要のない事かも\nしれないけどね。",
-  "en": "...Though perhaps it's something you have no need\nof."
+  "en": "...Though perhaps it's something\nyou have no need of."
  },
  {
   "id": "fn08_14:013:00",

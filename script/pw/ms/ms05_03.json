@@ -27,7 +27,7 @@
   "id": "ms05_03:000:04",
   "speaker": "燈治",
   "jp": "俺たちは、いつまで\nここでこうしてりゃいいんだ？",
-  "en": "How long're we supposed to just sit around here\nlike this?"
+  "en": "How long're we supposed to\njust sit around here like this?"
  },
  {
   "id": "ms05_03:000:05",
@@ -51,13 +51,13 @@
   "id": "ms05_03:000:08",
   "speaker": "英雄",
   "jp": "まあ、そう驚かないで\nくれたまえ！！\n私は覆面の彼の友人だ！！",
-  "en": "Now, now, don't look so surprised!! I am a friend of\nthe masked man!!"
+  "en": "Now, now, don't look so surprised!!\nI am a friend of the masked man!!"
  },
  {
   "id": "ms05_03:000:09",
   "speaker": "英雄",
   "jp": "彼はなかなか忙しい身でね。\n新たな悪を追って\n行ってしまったのだ。",
-  "en": "He's a very busy fellow, you see. He has gone off in\npursuit of a new evil."
+  "en": "He's a very busy fellow, you see. He\nhas gone off in pursuit of a new evil."
  },
  {
   "id": "ms05_03:001:00",
@@ -69,7 +69,7 @@
   "id": "ms05_03:002:00",
   "speaker": "英雄",
   "jp": "はッはッは！！\nそこまで歓迎してもらえるとは\n嬉しい限りだ！！",
-  "en": "Ha ha ha!! I'm simply delighted to receive such a\nwarm welcome!!"
+  "en": "Ha ha ha!! I'm simply delighted\nto receive such a warm welcome!!"
  },
  {
   "id": "ms05_03:002:01",
@@ -81,7 +81,7 @@
   "id": "ms05_03:003:00",
   "speaker": "英雄",
   "jp": "はッはッは！！\nそこまで歓迎してもらえるとは\n嬉しい限りだ！！",
-  "en": "Ha ha ha!! I'm simply delighted to receive such a\nwarm welcome!!"
+  "en": "Ha ha ha!! I'm simply delighted\nto receive such a warm welcome!!"
  },
  {
   "id": "ms05_03:003:01",
@@ -177,19 +177,19 @@
   "id": "ms05_03:011:01",
   "speaker": "燈治",
   "jp": "ああ……。\n最早、突っ込む気すら\n起きねェぜ……。",
-  "en": "Yeah... I ain't even got the energy to call him out\nanymore..."
+  "en": "Yeah... I ain't even got the\nenergy to call him out anymore..."
  },
  {
   "id": "ms05_03:011:02",
   "speaker": "英雄",
   "jp": "はッはッは！！\nどうした、諸君！！\n元気がないぞ！？",
-  "en": "Ha ha ha!! What's the matter, everyone!! Where's\nyour spirit!?"
+  "en": "Ha ha ha!! What's the matter,\neveryone!! Where's your spirit!?"
  },
  {
   "id": "ms05_03:011:03",
   "speaker": "英雄",
   "jp": "悪はいつ何処からやってくるか\nわからない！！\n気を抜くなよ！！",
-  "en": "There's no telling when or where evil will strike!!\nStay on your guard!!"
+  "en": "There's no telling when or where\nevil will strike!! Stay on your guard!!"
  },
  {
   "id": "ms05_03:011:04",
@@ -213,7 +213,7 @@
   "id": "ms05_03:011:07",
   "speaker": "英雄",
   "jp": "{ruby:嘉門|カモンッ}！！でも\n{ruby:英雄|ヒーロー}！！でも、\n好きな方で呼んでくれたまえ！！",
-  "en": "Call me \"C'mon!\" Kamon or Hideo the\n\"Hero!\"--whichever you prefer!!"
+  "en": "Call me \"C'mon!\" Kamon or Hideo\nthe \"Hero!\"--whichever you prefer!!"
  },
  {
   "id": "ms05_03:011:08",
@@ -242,7 +242,7 @@
   "id": "ms05_03:011:12",
   "speaker": "英雄",
   "jp": "兄君の友人の姉上のご亭主の\n師匠のそのまた師匠から\n聞いた事がある。",
-  "en": "...elder brother's friend's elder sister's husband's\nmaster's own master!"
+  "en": "...elder brother's friend's elder sister's\nhusband's master's own master!"
  },
  {
   "id": "ms05_03:011:13",
@@ -284,13 +284,13 @@
   "id": "ms05_03:015:00",
   "speaker": "英雄",
   "jp": "―――よく言った！！\nさすがは彼が見込んだ\n正義の使徒だけはあるッ！！",
-  "en": "--Well said!! Truly an apostle of justice, worthy of\nthe faith he placed in you!!"
+  "en": "--Well said!! Truly an apostle of justice,\nworthy of the faith he placed in you!!"
  },
  {
   "id": "ms05_03:015:01",
   "speaker": "英雄",
   "jp": "どうやら君はすでに\n事態の重要性を\n理解しているようだ。",
-  "en": "It seems you already grasp the gravity of the\nsituation."
+  "en": "It seems you already grasp\nthe gravity of the situation."
  },
  {
   "id": "ms05_03:016:00",
@@ -302,7 +302,7 @@
   "id": "ms05_03:016:01",
   "speaker": "英雄",
   "jp": "我々にはわからずとも、\n君には君の\n大義があるのだろう。",
-  "en": "Even if we cannot understand it, you must have a\ngreat cause of your own."
+  "en": "Even if we cannot understand it, you\nmust have a great cause of your own."
  },
  {
   "id": "ms05_03:017:00",
@@ -338,13 +338,13 @@
   "id": "ms05_03:017:05",
   "speaker": "英雄",
   "jp": "呪言花札は、速やかに\n回収されねばならない。",
-  "en": "The Curse Hanafuda must be recovered without\ndelay."
+  "en": "The Curse Hanafuda must\nbe recovered without delay."
  },
  {
   "id": "ms05_03:017:06",
   "speaker": "英雄",
   "jp": "だが我々は、君がその役目を\n負うに相応しいか、\n見定められずにいる。",
-  "en": "But we have yet to determine whether you are fit to\nbear that duty."
+  "en": "But we have yet to determine\nwhether you are fit to bear that duty."
  },
  {
   "id": "ms05_03:017:07",
@@ -362,13 +362,13 @@
   "id": "ms05_03:017:09",
   "speaker": "英雄",
   "jp": "詳しく知りたければ\n{ruby:八汎|やひろ}學院に来るといい。",
-  "en": "If you wish to know more, come to Yahiro\nAcademy."
+  "en": "If you wish to know more,\ncome to Yahiro Academy."
  },
  {
   "id": "ms05_03:017:10",
   "speaker": "英雄",
   "jp": "私より事態に詳しい者が、\nそこで―――",
-  "en": "Someone who knows more about the situation than I\ndo is there--"
+  "en": "Someone who knows more about\nthe situation than I do is there--"
  },
  {
   "id": "ms05_03:017:11",
@@ -392,7 +392,7 @@
   "id": "ms05_03:017:14",
   "speaker": "毅然とした声",
   "jp": "黄昏時だけは、\nこの街の展望も悪くない―――",
-  "en": "Only at twilight is the view of this city not half\nbad--"
+  "en": "Only at twilight is the view\nof this city not half bad--"
  },
  {
   "id": "ms05_03:017:15",
@@ -428,7 +428,7 @@
   "id": "ms05_03:017:20",
   "speaker": "零",
   "jp": "あの場所は、春と違って\n容易に出入り出来ない。",
-  "en": "Unlike Spring, that place can't be entered or left so\neasily."
+  "en": "Unlike Spring, that place can't\nbe entered or left so easily."
  },
  {
   "id": "ms05_03:017:21",
@@ -470,13 +470,13 @@
   "id": "ms05_03:017:27",
   "speaker": "毅然とした声",
   "jp": "君も彼女と同じだな。\n私とは違う未来を見ている。",
-  "en": "You are just like her. You see a different future\nthan I do."
+  "en": "You are just like her. You see\na different future than I do."
  },
  {
   "id": "ms05_03:017:28",
   "speaker": "毅然とした声",
   "jp": "それでも―――\n全ての鍵を握るのは、\nたった一人だ。",
-  "en": "Even so-- the key to it all is held by just one\nperson."
+  "en": "Even so-- the key to it all\nis held by just one person."
  },
  {
   "id": "ms05_03:017:29",

@@ -21,7 +21,7 @@
   "id": "dg02_02:000:03",
   "speaker": "白",
   "jp": "駄目じゃ。\n思ったよりも\n同化が進行しておる……。",
-  "en": "It is no use. The assimilation has progressed further\nthan I thought..."
+  "en": "It is no use. The assimilation has\nprogressed further than I thought..."
  },
  {
   "id": "dg02_02:000:04",
@@ -213,7 +213,7 @@
   "id": "dg02_02:011:12",
   "speaker": "長英",
   "jp": "こんな……\n無様な姿ァさらして、\n先輩方に、体張ってもろうて。",
-  "en": "Showin' such a disgraceful sight... makin' ye senpai\nput yer bodies on the line for me."
+  "en": "Showin' such a disgraceful sight... makin' ye\nsenpai put yer bodies on the line for me."
  },
  {
   "id": "dg02_02:011:13",
@@ -225,7 +225,7 @@
   "id": "dg02_02:011:14",
   "speaker": "長英",
   "jp": "こない、情けのない男に、\n剣技の長など\n務まるはず―――",
-  "en": "A man this pathetic could never serve as head o'\nthe sword arts--"
+  "en": "A man this pathetic could never\nserve as head o' the sword arts--"
  },
  {
   "id": "dg02_02:012:00",
@@ -351,7 +351,7 @@
   "id": "dg02_02:015:11",
   "speaker": "巴",
   "jp": "それだけは無くならないし\n変わらない。アンタはちゃんと\nここにいるわ。",
-  "en": "That's the one thing that won't disappear or change.\nYou're right here."
+  "en": "That's the one thing that won't\ndisappear or change. You're right here."
  },
  {
   "id": "dg02_02:015:12",
@@ -393,7 +393,7 @@
   "id": "dg02_02:017:01",
   "speaker": "長英",
   "jp": "{px}……。\nなんちゅう\nでっかいお人じゃあ……。",
-  "en": "{px}... What a big-hearted man you are..."
+  "en": "{px}... What\na big-hearted man you are..."
  },
  {
   "id": "dg02_02:018:00",
@@ -417,7 +417,7 @@
   "id": "dg02_02:019:01",
   "speaker": "長英",
   "jp": "{px}……。\nなんちゅう\nでっかいお人じゃあ……。",
-  "en": "{px}... What a big-hearted man you are..."
+  "en": "{px}... What\na big-hearted man you are..."
  },
  {
   "id": "dg02_02:020:00",
@@ -435,7 +435,7 @@
   "id": "dg02_02:021:00",
   "speaker": "長英",
   "jp": "そ、そうじゃ。\nいつまでもグジグジしとる\n場合じゃないけェ。",
-  "en": "R-right. This ain't the time to be mopin' around\nforever."
+  "en": "R-right. This ain't the time\nto be mopin' around forever."
  },
  {
   "id": "dg02_02:021:01",
@@ -453,7 +453,7 @@
   "id": "dg02_02:023:00",
   "speaker": "長英",
   "jp": "そ、そうじゃ。\nいつまでもグジグジしとる\n場合じゃないけェ。",
-  "en": "R-right. This ain't the time to be mopin' around\nforever."
+  "en": "R-right. This ain't the time\nto be mopin' around forever."
  },
  {
   "id": "dg02_02:023:01",
@@ -549,13 +549,13 @@
   "id": "dg02_02:026:10",
   "speaker": "冷たい瞳の男",
   "jp": "札は力に{ruby:惹|ひ}かれ、\n寄り集まる……。",
-  "en": "The cards are drawn to power, and they gather\ntogether..."
+  "en": "The cards are drawn to power,\nand they gather together..."
  },
  {
   "id": "dg02_02:026:11",
   "speaker": "冷たい瞳の男",
   "jp": "とは言え、まさか同時に三枚も\n拝む事になるとは\n思わなかったがな。",
-  "en": "Even so, I never thought I'd get to lay eyes on three\nof them at once."
+  "en": "Even so, I never thought I'd get to\nlay eyes on three of them at once."
  },
  {
   "id": "dg02_02:027:00",
@@ -627,7 +627,7 @@
   "id": "dg02_02:034:00",
   "speaker": "冷たい瞳の男",
   "jp": "恨むなら、\n己の{ruby:迂闊|うかつ}さを恨むんだな。",
-  "en": "If you want someone to blame, blame your own\ncarelessness."
+  "en": "If you want someone to blame,\nblame your own carelessness."
  },
  {
   "id": "dg02_02:035:00",
@@ -675,7 +675,7 @@
   "id": "dg02_02:037:05",
   "speaker": "白",
   "jp": "{ruby:彼奴|あやつ}……\n手にして瞬時に\n札の力を得たのか……！？",
-  "en": "That one... The instant he took the card, he gained\nits power...!?"
+  "en": "That one... The instant he took\nthe card, he gained its power...!?"
  },
  {
   "id": "dg02_02:037:06",
@@ -687,7 +687,7 @@
   "id": "dg02_02:037:07",
   "speaker": "白",
   "jp": "……ええい、それにしても\n札を射貫くなど！\nなんたる{ruby:狼藉|ろうぜき}か！",
-  "en": "...Bah, be that as it may, to shoot an arrow through a\ncard! What an outrage!"
+  "en": "...Bah, be that as it may, to shoot an\narrow through a card! What an outrage!"
  },
  {
   "id": "dg02_02:037:08",
@@ -699,13 +699,13 @@
   "id": "dg02_02:037:09",
   "speaker": "白",
   "jp": "……何も紙で出来ておる\n訳ではないからの。\n性質上、問題は無い。",
-  "en": "...It is not as though it is made of mere paper. By its\nnature, it suffers no harm."
+  "en": "...It is not as though it is made of mere\npaper. By its nature, it suffers no harm."
  },
  {
   "id": "dg02_02:037:10",
   "speaker": "白",
   "jp": "時間が経てば\n自己修復もするが……\nそういう問題ではない！！",
-  "en": "Given time, it will even mend itself... But that is not\nthe point!!"
+  "en": "Given time, it will even mend\nitself... But that is not the point!!"
  },
  {
   "id": "dg02_02:037:11",
@@ -717,7 +717,7 @@
   "id": "dg02_02:037:12",
   "speaker": "長英",
   "jp": "あ、あのう……\n先輩方、いまのは一体……？",
-  "en": "U-um... Senpai, what in the world was that just\nnow...?"
+  "en": "U-um... Senpai, what in the\nworld was that just now...?"
  },
  {
   "id": "dg02_02:037:13",

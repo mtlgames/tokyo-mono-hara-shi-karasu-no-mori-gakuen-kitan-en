@@ -9,13 +9,13 @@
   "id": "fn05_07:001:01",
   "speaker": "蒐",
   "jp": "新しい四角がね、出たんだよ。\n新しい、キラキラ……。\n新しい四角……。",
-  "en": "New squares came out, you know. New, sparkly...\nNew squares..."
+  "en": "New squares came out, you know.\nNew, sparkly... New squares..."
  },
  {
   "id": "fn05_07:001:02",
   "speaker": "蒐",
   "jp": "新しい四角を四角く収納、\n四角く整理。",
-  "en": "Storing the new squares squarely. Organizing them\nsquarely."
+  "en": "Storing the new squares squarely.\nOrganizing them squarely."
  },
  {
   "id": "fn05_07:001:03",
@@ -32,7 +32,7 @@
   "id": "fn05_07:001:05",
   "speaker": "蒐",
   "jp": "{px}も、何か……\n新しい、四角持ってる？",
-  "en": "{px}, do you have... a new square too?"
+  "en": "{px}, do you\nhave... a new square too?"
  },
  {
   "id": "fn05_07:001:06",
@@ -68,7 +68,7 @@
   "id": "fn05_07:003:01",
   "speaker": "蒐",
   "jp": "でも{px}が持ってる\n四角なら、アレだよね。",
-  "en": "But if it's a square {px} has, it's that, right?"
+  "en": "But if it's a square {px}\nhas, it's that, right?"
  },
  {
   "id": "fn05_07:003:02",
@@ -92,7 +92,7 @@
   "id": "fn05_07:004:02",
   "speaker": "蒐",
   "jp": "この四角、集まりたがってる。\n集めてる人の所、行くのが\n四角の幸せ……ガマン。",
-  "en": "This square wants to be gathered together. Going to\nthe one who collects them is the square's happiness...\nSo I'll hold back."
+  "en": "This square wants to be gathered together.\nGoing to the one who collects them is the\nsquare's happiness... So I'll hold back."
  },
  {
   "id": "fn05_07:004:03",
@@ -104,7 +104,7 @@
   "id": "fn05_07:004:04",
   "speaker": "蒐",
   "jp": "でも、{px}だから\n集まりたい。ガマン。",
-  "en": "But it's {px}, so it wants to gather there. I'll hold\nback."
+  "en": "But it's {px}, so it\nwants to gather there. I'll hold back."
  },
  {
   "id": "fn05_07:005:00",
@@ -212,7 +212,7 @@
   "id": "fn05_07:016:03",
   "speaker": "蒐",
   "jp": "色々四角く入れてね。\n四角く、ね。",
-  "en": "Put all kinds of things in it squarely. Squarely,\nokay?"
+  "en": "Put all kinds of things in\nit squarely. Squarely, okay?"
  },
  {
   "id": "fn05_07:016:04",
@@ -224,13 +224,13 @@
   "id": "fn05_07:017:00",
   "speaker": "蒐",
   "jp": "……四角の導きがなければ、\nしょうがない、かも。",
-  "en": "...If the squares don't guide you, it can't be helped,\nmaybe."
+  "en": "...If the squares don't guide\nyou, it can't be helped, maybe."
  },
  {
   "id": "fn05_07:017:01",
   "speaker": "蒐",
   "jp": "寄っていく四角と、\n寄れない四角もある、よね。",
-  "en": "Some squares come together, and some squares can't,\nright?"
+  "en": "Some squares come together,\nand some squares can't, right?"
  },
  {
   "id": "fn05_07:017:02",

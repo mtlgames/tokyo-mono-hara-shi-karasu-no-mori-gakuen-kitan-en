@@ -3,13 +3,13 @@
   "id": "fn06_17:001:00",
   "speaker": "白",
   "jp": "……妾がついておりながら、\n花札が奪われるとはの。",
-  "en": "...That a card should be stolen while I was there to\nwatch over it."
+  "en": "...That a card should be stolen\nwhile I was there to watch over it."
  },
  {
   "id": "fn06_17:001:01",
   "speaker": "白",
   "jp": "妾は白札じゃというに……\nあのような場に執行者を\n導いてしまうなど―――",
-  "en": "And I, the White Card, no less... To lead an Executor\ninto such a place--"
+  "en": "And I, the White Card, no less... To\nlead an Executor into such a place--"
  },
  {
   "id": "fn06_17:001:02",
@@ -21,7 +21,7 @@
   "id": "fn06_17:001:03",
   "speaker": "白",
   "jp": "この勘の鈍りよう、\nこんな事はいままで\n一度もなかった。",
-  "en": "My instincts dulled like this... Never once has such a\nthing happened to me before."
+  "en": "My instincts dulled like this... Never once\nhas such a thing happened to me before."
  },
  {
   "id": "fn06_17:002:00",
@@ -33,7 +33,7 @@
   "id": "fn06_17:003:00",
   "speaker": "白",
   "jp": "……{px}。\nなんじゃ、ここぞとばかりに。",
-  "en": "...{px}. What is it? You seize your chance, do you?"
+  "en": "...{px}. What is it?\nYou seize your chance, do you?"
  },
  {
   "id": "fn06_17:003:01",
@@ -51,7 +51,7 @@
   "id": "fn06_17:003:03",
   "speaker": "白",
   "jp": "其方に慰められては、\n形無しじゃ……全く。",
-  "en": "To be consoled by you... I am quite undone.\nHonestly."
+  "en": "To be consoled by you... I\nam quite undone. Honestly."
  },
  {
   "id": "fn06_17:004:00",
@@ -63,7 +63,7 @@
   "id": "fn06_17:004:01",
   "speaker": "白",
   "jp": "其方も其方よ。\n何故そのように\n気楽に構えておられるのじゃ？",
-  "en": "And you are no better. How can you remain so at\nease?"
+  "en": "And you are no better. How\ncan you remain so at ease?"
  },
  {
   "id": "fn06_17:005:00",
@@ -75,7 +75,7 @@
   "id": "fn06_17:005:01",
   "speaker": "白",
   "jp": "白札が\n執行者に慰められては\n形無しじゃ、全く。",
-  "en": "The White Card, consoled by her Executor... I am\nquite undone, honestly."
+  "en": "The White Card, consoled by her\nExecutor... I am quite undone, honestly."
  },
  {
   "id": "fn06_17:006:00",
@@ -105,13 +105,13 @@
   "id": "fn06_17:008:00",
   "speaker": "白",
   "jp": "…………。\nこれが妾の普段通りと\n思われては心外じゃ。",
-  "en": "... I would be most displeased if you took this for\nmy usual self."
+  "en": "... I would be most displeased if\nyou took this for my usual self."
  },
  {
   "id": "fn06_17:009:00",
   "speaker": "白",
   "jp": "執行者に同情される日が\n来るとはのう。",
-  "en": "To think the day would come when an Executor\npities me."
+  "en": "To think the day would come\nwhen an Executor pities me."
  },
  {
   "id": "fn06_17:009:01",
@@ -123,7 +123,7 @@
   "id": "fn06_17:010:00",
   "speaker": "白",
   "jp": "はっきり言うてもいいのじゃ。\n其方はお人好しじゃの。",
-  "en": "You may say it plainly. You are a soft touch, are\nyou not?"
+  "en": "You may say it plainly. You\nare a soft touch, are you not?"
  },
  {
   "id": "fn06_17:011:00",
@@ -135,13 +135,13 @@
   "id": "fn06_17:012:00",
   "speaker": "白",
   "jp": "くよくよしても始まらぬな。\nいまは盗人を一刻も早く\n捕まえる事こそ肝要。",
-  "en": "Brooding will get us nowhere. What matters now is\ncatching the thief as swiftly as we can."
+  "en": "Brooding will get us nowhere. What matters\nnow is catching the thief as swiftly as we can."
  },
  {
   "id": "fn06_17:012:01",
   "speaker": "白",
   "jp": "居場所は\n掴んでおるのじゃろ？\n早う向かおうぞ。",
-  "en": "You know where they are, do you not? Let us\nmake haste."
+  "en": "You know where they are, do\nyou not? Let us make haste."
  },
  {
   "id": "fn06_17:013:00",
@@ -153,6 +153,6 @@
   "id": "fn06_17:013:01",
   "speaker": "白",
   "jp": "光札の反応は、冬の{ruby:洞|うろ}にある。\n早う向かおうぞ。",
-  "en": "The Bright Card's presence lies in the Winter\nHollow. Let us make haste."
+  "en": "The Bright Card's presence lies in the\nWinter Hollow. Let us make haste."
  }
 ]

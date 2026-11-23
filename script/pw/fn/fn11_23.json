@@ -21,7 +21,7 @@
   "id": "fn11_23:001:03",
   "speaker": "筑紫",
   "jp": "……そう言えば、\n君はここの常連なのだったな。",
-  "en": "...Come to think of it, you're a regular here, aren't\nyou?"
+  "en": "...Come to think of it, you're\na regular here, aren't you?"
  },
  {
   "id": "fn11_23:001:04",
@@ -39,7 +39,7 @@
   "id": "fn11_23:002:01",
   "speaker": "筑紫",
   "jp": "……その、\n君の言う事は、\n私には少しわかりにくいが、",
-  "en": "...Well, I find what you say a little hard to follow,\nbut..."
+  "en": "...Well, I find what you say\na little hard to follow, but..."
  },
  {
   "id": "fn11_23:002:02",
@@ -57,7 +57,7 @@
   "id": "fn11_23:003:01",
   "speaker": "筑紫",
   "jp": "……いいんだ。\n私が君にした事を思えば\n当然の事だ。",
-  "en": "...It's all right. After what I did to you, it's only\nnatural."
+  "en": "...It's all right. After what I\ndid to you, it's only natural."
  },
  {
   "id": "fn11_23:004:00",
@@ -69,7 +69,7 @@
   "id": "fn11_23:004:01",
   "speaker": "筑紫",
   "jp": "……いいんだ。\n私が君にした事を思えば\n当然の事だ。",
-  "en": "...It's all right. After what I did to you, it's only\nnatural."
+  "en": "...It's all right. After what I\ndid to you, it's only natural."
  },
  {
   "id": "fn11_23:005:00",
@@ -81,7 +81,7 @@
   "id": "fn11_23:005:01",
   "speaker": "筑紫",
   "jp": "……いいんだ。\n私が君にした事を思えば\n当然の事だ。",
-  "en": "...It's all right. After what I did to you, it's only\nnatural."
+  "en": "...It's all right. After what I\ndid to you, it's only natural."
  },
  {
   "id": "fn11_23:006:00",
@@ -93,7 +93,7 @@
   "id": "fn11_23:006:01",
   "speaker": "筑紫",
   "jp": "私は今日がここの見納めに\nなるだろうと……思って……。",
-  "en": "I thought today would probably be my last time\nseeing this place..."
+  "en": "I thought today would probably\nbe my last time seeing this place..."
  },
  {
   "id": "fn11_23:006:02",
@@ -141,13 +141,13 @@
   "id": "fn11_23:009:01",
   "speaker": "筑紫",
   "jp": "無理をする必要は無い。\n私が君にした事を思えば\n当然の事だ。",
-  "en": "There's no need to force yourself. After what I did\nto you, it's only natural."
+  "en": "There's no need to force yourself. After\nwhat I did to you, it's only natural."
  },
  {
   "id": "fn11_23:010:00",
   "speaker": "筑紫",
   "jp": "……いいんだ。\n私が君にした事を思えば\n当然の事だ。",
-  "en": "...It's all right. After what I did to you, it's only\nnatural."
+  "en": "...It's all right. After what I\ndid to you, it's only natural."
  },
  {
   "id": "fn11_23:011:00",
@@ -171,7 +171,7 @@
   "id": "fn11_23:013:01",
   "speaker": "筑紫",
   "jp": "目障りかも知れないが\nもう少しだけ、\nいさせてくれ。",
-  "en": "I may be an eyesore, but let me stay just a little\nlonger."
+  "en": "I may be an eyesore, but let\nme stay just a little longer."
  },
  {
   "id": "fn11_23:014:00",
@@ -183,7 +183,7 @@
   "id": "fn11_23:014:01",
   "speaker": "筑紫",
   "jp": "だが……いざとなると\n何から話せばいいのか\nまるでわからない。",
-  "en": "But... now that the moment's come, I have no idea\nwhere to begin."
+  "en": "But... now that the moment's come,\nI have no idea where to begin."
  },
  {
   "id": "fn11_23:014:02",
@@ -195,49 +195,49 @@
   "id": "fn11_23:014:03",
   "speaker": "筑紫",
   "jp": "私は既に{ruby:更迭|こうてつ}された身だが、\n今後の処遇については\n上の方でもめているようだ。",
-  "en": "I've already been removed from my post, but it\nseems those above are still arguing over what to do\nwith me."
+  "en": "I've already been removed from my\npost, but it seems those above are still\narguing over what to do with me."
  },
  {
   "id": "fn11_23:014:04",
   "speaker": "筑紫",
   "jp": "何処も私の持っている情報が\n欲しいのだろうが、私は当然\n誰にも{ruby:顛末|てんまつ}を語る気は無い。",
-  "en": "Everyone wants the information I hold, I suppose,\nbut naturally I have no intention of telling anyone\nhow it all played out."
+  "en": "Everyone wants the information I hold, I\nsuppose, but naturally I have no intention\nof telling anyone how it all played out."
  },
  {
   "id": "fn11_23:014:05",
   "speaker": "筑紫",
   "jp": "例え、それによって一生\n不自由な生活を送らざるを\n得なくなったとしてもだ。",
-  "en": "Even if it means living the rest of my life without\nmy freedom."
+  "en": "Even if it means living the rest\nof my life without my freedom."
  },
  {
   "id": "fn11_23:014:06",
   "speaker": "筑紫",
   "jp": "……君たちの不利益に\nなるような事は絶対にない。\nだから、安心して欲しい。",
-  "en": "...I will never do anything to put you all at a\ndisadvantage. So please, rest easy."
+  "en": "...I will never do anything to put you all\nat a disadvantage. So please, rest easy."
  },
  {
   "id": "fn11_23:015:00",
   "speaker": "筑紫",
   "jp": "……ああ。\nこの身に代えても\n約束は、守る。",
-  "en": "...Yes. I'll keep my promise, even if it costs me my\nlife."
+  "en": "...Yes. I'll keep my promise,\neven if it costs me my life."
  },
  {
   "id": "fn11_23:016:00",
   "speaker": "筑紫",
   "jp": "……ああ。\nこの身に代えても\n約束は、守る。",
-  "en": "...Yes. I'll keep my promise, even if it costs me my\nlife."
+  "en": "...Yes. I'll keep my promise,\neven if it costs me my life."
  },
  {
   "id": "fn11_23:017:00",
   "speaker": "筑紫",
   "jp": "……ああ。\nこの身に代えても\n約束は、守る。",
-  "en": "...Yes. I'll keep my promise, even if it costs me my\nlife."
+  "en": "...Yes. I'll keep my promise,\neven if it costs me my life."
  },
  {
   "id": "fn11_23:018:00",
   "speaker": "筑紫",
   "jp": "……ああ。\nこの身に代えても\n約束は、守る。",
-  "en": "...Yes. I'll keep my promise, even if it costs me my\nlife."
+  "en": "...Yes. I'll keep my promise,\neven if it costs me my life."
  },
  {
   "id": "fn11_23:019:00",
@@ -285,7 +285,7 @@
   "id": "fn11_23:022:01",
   "speaker": "筑紫",
   "jp": "この程度の事では……\n償いの内にも入らない。",
-  "en": "Something like this... doesn't even begin to count as\natonement."
+  "en": "Something like this... doesn't even\nbegin to count as atonement."
  },
  {
   "id": "fn11_23:023:00",
@@ -309,7 +309,7 @@
   "id": "fn11_23:024:02",
   "speaker": "筑紫",
   "jp": "君こそが、この国を\n―――人々の未来を救うと。",
-  "en": "I believe that you are the one who will save this\ncountry-- the future of its people."
+  "en": "I believe that you are the one who will\nsave this country-- the future of its people."
  },
  {
   "id": "fn11_23:025:00",
@@ -345,13 +345,13 @@
   "id": "fn11_23:025:05",
   "speaker": "筑紫",
   "jp": "積み上げてきた過去、\nそして{ruby:現在|い　ま}の大切さ……",
-  "en": "The past we've built up, and how precious the\npresent is..."
+  "en": "The past we've built up, and\nhow precious the present is..."
  },
  {
   "id": "fn11_23:025:06",
   "speaker": "筑紫",
   "jp": "未来を夢想するばかりに\n私が忘れていたものだ。",
-  "en": "Those are what I'd forgotten, lost in dreams of the\nfuture."
+  "en": "Those are what I'd forgotten,\nlost in dreams of the future."
  },
  {
   "id": "fn11_23:025:07",
@@ -363,7 +363,7 @@
   "id": "fn11_23:025:08",
   "speaker": "筑紫",
   "jp": "それでも……\nこんな私にも、\n護れるものはあるだろうか？",
-  "en": "Even so... is there something that even someone like\nme can protect?"
+  "en": "Even so... is there something that\neven someone like me can protect?"
  },
  {
   "id": "fn11_23:026:00",
@@ -387,7 +387,7 @@
   "id": "fn11_23:027:00",
   "speaker": "筑紫",
   "jp": "……本当に、君を見ていると\n不可能などないのではないかと\n思いそうになる。",
-  "en": "...Truly, when I look at you, I almost start to think\nnothing is impossible."
+  "en": "...Truly, when I look at you, I almost\nstart to think nothing is impossible."
  },
  {
   "id": "fn11_23:027:01",
@@ -405,7 +405,7 @@
   "id": "fn11_23:028:00",
   "speaker": "筑紫",
   "jp": "……本当に、君を見ていると\n不可能などないのではないかと\n思いそうになる。",
-  "en": "...Truly, when I look at you, I almost start to think\nnothing is impossible."
+  "en": "...Truly, when I look at you, I almost\nstart to think nothing is impossible."
  },
  {
   "id": "fn11_23:028:01",
@@ -471,7 +471,7 @@
   "id": "fn11_23:035:00",
   "speaker": "筑紫",
   "jp": "ありがとう、{px}。\n君にはっきり言われて\n胸のつかえが取れたようだ。",
-  "en": "Thank you, {px}. Hearing you say it plainly has\ntaken a weight off my chest."
+  "en": "Thank you, {px}. Hearing you\nsay it plainly has taken a weight off my chest."
  },
  {
   "id": "fn11_23:035:01",
@@ -483,13 +483,13 @@
   "id": "fn11_23:035:02",
   "speaker": "筑紫",
   "jp": "君こそが、この国を\n―――人々の未来を救うと。",
-  "en": "To believe that you are the one who will save this\ncountry-- the future of its people."
+  "en": "To believe that you are the one who will\nsave this country-- the future of its people."
  },
  {
   "id": "fn11_23:036:00",
   "speaker": "筑紫",
   "jp": "……{px}、\nもしも許されるなら一つだけ\n君に頼みがある。",
-  "en": "...{px}, if I may, there's just one thing I'd like to ask\nof you."
+  "en": "...{px}, if I may, there's\njust one thing I'd like to ask of you."
  },
  {
   "id": "fn11_23:036:01",
@@ -507,7 +507,7 @@
   "id": "fn11_23:036:03",
   "speaker": "筑紫",
   "jp": "出来る事ならば私は\nそれを護る為に、\nこれからを生きてみたい。",
-  "en": "If I can, I'd like to live the rest of my life protecting\nit."
+  "en": "If I can, I'd like to live the\nrest of my life protecting it."
  },
  {
   "id": "fn11_23:036:04",
@@ -519,7 +519,7 @@
   "id": "fn11_23:036:05",
   "speaker": "筑紫",
   "jp": "君こそが、この国を\n―――人々の未来を救うと。",
-  "en": "I believe that you are the one who will save this\ncountry-- the future of its people."
+  "en": "I believe that you are the one who will\nsave this country-- the future of its people."
  },
  {
   "id": "fn11_23:037:00",
@@ -537,7 +537,7 @@
   "id": "fn11_23:037:02",
   "speaker": "筑紫",
   "jp": "大体、おかしいと思ったんだ。\nあの伊佐地が、まさか\n図書館勤務なんて―――",
-  "en": "I knew something was off. Isachi, of all people,\nworking at a library--"
+  "en": "I knew something was off. Isachi,\nof all people, working at a library--"
  },
  {
   "id": "fn11_23:037:03",
@@ -555,7 +555,7 @@
   "id": "fn11_23:037:05",
   "speaker": "筑紫",
   "jp": "ああ、そうだな。\n一体、何冊無くされた事か。",
-  "en": "Yes, you did. And how many of them did you lose,\nI wonder?"
+  "en": "Yes, you did. And how many\nof them did you lose, I wonder?"
  },
  {
   "id": "fn11_23:037:06",
@@ -567,13 +567,13 @@
   "id": "fn11_23:037:07",
   "speaker": "筑紫",
   "jp": "まあ、お前の仕事が\n書架の整理でないなら\n安心したよ。",
-  "en": "Well, I'm relieved to hear your job isn't shelving\nbooks."
+  "en": "Well, I'm relieved to hear\nyour job isn't shelving books."
  },
  {
   "id": "fn11_23:037:08",
   "speaker": "筑紫",
   "jp": "{px}、\n君も本は大切にな。",
-  "en": "{px}, you take good care of your books too."
+  "en": "{px}, you take\ngood care of your books too."
  },
  {
   "id": "fn11_23:038:00",
@@ -585,7 +585,7 @@
   "id": "fn11_23:038:01",
   "speaker": "筑紫",
   "jp": "帰りたくなくなってしまうが\n……そういう訳にもいくまい。",
-  "en": "It makes me not want to go home... but I can hardly\ndo that."
+  "en": "It makes me not want to go\nhome... but I can hardly do that."
  },
  {
   "id": "fn11_23:039:00",

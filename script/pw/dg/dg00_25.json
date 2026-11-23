@@ -15,18 +15,18 @@
   "id": "dg00_25:000:02",
   "speaker": "伊佐地",
   "jp": "{px}は、{ruby:隠人|お　に}の攻撃で\n軽度の麻痺状態にある。\n攻撃には回れないだろう。",
-  "en": "{px} is mildly paralyzed from the Oni's attack.\nProbably can't join the offensive."
+  "en": "{px} is mildly paralyzed from the\nOni's attack. Probably can't join the offensive."
  },
  {
   "id": "dg00_25:000:03",
   "speaker": "伊佐地",
   "jp": "{ruby:武藤|むとう}、{ruby:雉明|ちあき}。\n{px}が動けない時こそ\nお前たちが頼りだ。",
-  "en": "Muto, Chiaki. When {px} can't move is exactly when\nwe're counting on you two."
+  "en": "Muto, Chiaki. When {px} can't\nmove is exactly when we're counting on you two."
  },
  {
   "id": "dg00_25:000:04",
   "speaker": "伊佐地",
   "jp": "{px}、指示を出せ。\nお前たちなら必ず、\n切り抜けられる。",
-  "en": "{px}, give the orders. You lot can get through this, I\nknow it."
+  "en": "{px}, give the orders.\nYou lot can get through this, I know it."
  }
 ]

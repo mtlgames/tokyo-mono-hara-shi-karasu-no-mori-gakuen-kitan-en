@@ -45,13 +45,13 @@
   "id": "dg13_03:003:00",
   "speaker": "白",
   "jp": "神とすら対峙したのじゃ。\nむしろよくここまで均衡を\n保ったと言うべきじゃろう。",
-  "en": "We stood against a god, no less. Rather, I daresay it\nis a wonder the balance held this long."
+  "en": "We stood against a god, no less. Rather, I daresay\nit is a wonder the balance held this long."
  },
  {
   "id": "dg13_03:003:01",
   "speaker": "白",
   "jp": "……此度の執行者は\nよほど札と相性が\n良いようじゃな。",
-  "en": "...This Executor must be most unusually well\nmatched with the cards."
+  "en": "...This Executor must be most\nunusually well matched with the cards."
  },
  {
   "id": "dg13_03:003:02",
@@ -69,13 +69,13 @@
   "id": "dg13_03:003:04",
   "speaker": "白",
   "jp": "こうして、最後まで其方と共に\n在れたのじゃからな。",
-  "en": "For I was able to stand at your side until the very\nend."
+  "en": "For I was able to stand at\nyour side until the very end."
  },
  {
   "id": "dg13_03:003:05",
   "speaker": "白",
   "jp": "―――さあ、\n後は《呪言花札》の始末を\n付けるだけじゃ。",
-  "en": "--Now then. All that remains is to settle the matter\nof the Curse Hanafuda."
+  "en": "--Now then. All that remains is to\nsettle the matter of the Curse Hanafuda."
  },
  {
   "id": "dg13_03:003:06",
@@ -87,37 +87,37 @@
   "id": "dg13_03:003:07",
   "speaker": "零",
   "jp": "きみとおれの間で\n花札の力に反作用を起こし、\n札の情報量を空にしていく。",
-  "en": "Between you and me, we'll set off a counter-reaction\nin the hanafuda's power and drain the cards of their\ninformation."
+  "en": "Between you and me, we'll set off a\ncounter-reaction in the hanafuda's power\nand drain the cards of their information."
  },
  {
   "id": "dg13_03:003:08",
   "speaker": "零",
   "jp": "龍脈へはおれが媒介となって\n力を戻そう。",
-  "en": "I'll act as the medium and return the power to the\ndragon vein."
+  "en": "I'll act as the medium and return\nthe power to the dragon vein."
  },
  {
   "id": "dg13_03:003:09",
   "speaker": "零",
   "jp": "十分な力を還してやることが\n出来れば、この地の滅びも\n少しは遠ざかるはずだ。",
-  "en": "If we can give back enough of it, the ruin of this\nland should be pushed back, at least a little."
+  "en": "If we can give back enough of it, the ruin of\nthis land should be pushed back, at least a little."
  },
  {
   "id": "dg13_03:003:10",
   "speaker": "白",
   "jp": "残った力を、\n{px}を通して\n妾が受け止める。",
-  "en": "Whatever power remains, I shall receive through {px}."
+  "en": "Whatever power remains, I shall\nreceive through {px}."
  },
  {
   "id": "dg13_03:003:11",
   "speaker": "白",
   "jp": "無論……妾一人では\n許容量に限界もあるがの。",
-  "en": "Though of course... alone, there is a limit to what I\ncan bear."
+  "en": "Though of course... alone, there\nis a limit to what I can bear."
  },
  {
   "id": "dg13_03:003:12",
   "speaker": "白",
   "jp": "残りは{ruby:全員|・・}で\n負うより他にあるまい。",
-  "en": "The rest, there is no choice but for everyone to\nshoulder together."
+  "en": "The rest, there is no choice but\nfor everyone to shoulder together."
  },
  {
   "id": "dg13_03:003:13",
@@ -135,7 +135,7 @@
   "id": "dg13_03:003:15",
   "speaker": "零",
   "jp": "……{px}、\n白とおれで限界まで処理する。\nきみに負担はかけない。",
-  "en": "...{px}, Mao and I will process as much as we can. I\nwon't put any burden on you."
+  "en": "...{px}, Mao and I will process as\nmuch as we can. I won't put any burden on you."
  },
  {
   "id": "dg13_03:004:00",
@@ -153,13 +153,13 @@
   "id": "dg13_03:005:01",
   "speaker": "白",
   "jp": "やれやれ。\nこの期に及んで、其方は\n何もわかっておらぬ。",
-  "en": "Honestly. Even at this late hour, you understand\nnothing."
+  "en": "Honestly. Even at this late\nhour, you understand nothing."
  },
  {
   "id": "dg13_03:005:02",
   "speaker": "白",
   "jp": "そんな選択をしてみよ、\n{ruby:彼奴ら|・・・}が黙ってはおらぬぞ。",
-  "en": "Make such a choice, and those friends of yours will\nhardly keep quiet about it."
+  "en": "Make such a choice, and those friends\nof yours will hardly keep quiet about it."
  },
  {
   "id": "dg13_03:005:03",
@@ -177,7 +177,7 @@
   "id": "dg13_03:005:05",
   "speaker": "零",
   "jp": "だが、この力に\n直接触れれば\nどうなるか―――",
-  "en": "But if they were to touch this power directly, what\nwould happen--"
+  "en": "But if they were to touch this power\ndirectly, what would happen--"
  },
  {
   "id": "dg13_03:005:06",
@@ -189,7 +189,7 @@
   "id": "dg13_03:005:07",
   "speaker": "白",
   "jp": "ヒトの……\n絆と想いこそが、\n未来を開くと―――",
-  "en": "That it is the bonds... and feelings of humans that\nopen the way to the future--"
+  "en": "That it is the bonds... and feelings of\nhumans that open the way to the future--"
  },
  {
   "id": "dg13_03:006:00",
@@ -201,13 +201,13 @@
   "id": "dg13_03:006:01",
   "speaker": "白",
   "jp": "やれやれ。\nこの期に及んで、其方らは\n何もわかっておらぬ。",
-  "en": "Honestly. Even at this late hour, the pair of you\nunderstand nothing."
+  "en": "Honestly. Even at this late hour,\nthe pair of you understand nothing."
  },
  {
   "id": "dg13_03:006:02",
   "speaker": "白",
   "jp": "そんな選択をしてみよ、\n{ruby:彼奴ら|・・・}が黙ってはおらぬぞ。",
-  "en": "Make such a choice, and those friends of yours will\nhardly keep quiet about it."
+  "en": "Make such a choice, and those friends\nof yours will hardly keep quiet about it."
  },
  {
   "id": "dg13_03:006:03",
@@ -225,7 +225,7 @@
   "id": "dg13_03:006:05",
   "speaker": "零",
   "jp": "だが、この力に\n直接触れれば\nどうなるか―――",
-  "en": "But if they were to touch this power directly, what\nwould happen--"
+  "en": "But if they were to touch this power\ndirectly, what would happen--"
  },
  {
   "id": "dg13_03:006:06",
@@ -237,7 +237,7 @@
   "id": "dg13_03:006:07",
   "speaker": "白",
   "jp": "ヒトの……\n絆と想いこそが、\n未来を開くと―――",
-  "en": "That it is the bonds... and feelings of humans that\nopen the way to the future--"
+  "en": "That it is the bonds... and feelings of\nhumans that open the way to the future--"
  },
  {
   "id": "dg13_03:007:00",
@@ -273,7 +273,7 @@
   "id": "dg13_03:007:05",
   "speaker": "零",
   "jp": "ひとの、絆と想いこそが\n未来を開く……。",
-  "en": "The bonds and feelings of people are what open the\nway to the future..."
+  "en": "The bonds and feelings of people are\nwhat open the way to the future..."
  },
  {
   "id": "dg13_03:007:06",
@@ -309,7 +309,7 @@
   "id": "dg13_03:008:04",
   "speaker": "{ruby:万黎|ばんり}",
   "jp": "俺が調節弁となり\n龍脈へと力を戻す。",
-  "en": "I'll act as a regulating valve and return the power to\nthe dragon vein."
+  "en": "I'll act as a regulating valve and\nreturn the power to the dragon vein."
  },
  {
   "id": "dg13_03:008:05",
@@ -327,13 +327,13 @@
   "id": "dg13_03:008:07",
   "speaker": "万黎",
   "jp": "……人とは、\n古来よりこうして\n生きてきたのだったな。",
-  "en": "...So this is how humans have lived since ancient\ntimes."
+  "en": "...So this is how humans have\nlived since ancient times."
  },
  {
   "id": "dg13_03:008:08",
   "speaker": "万黎",
   "jp": "手を携え、知恵を絞り、\n強き意志を持って―――\n未来を勝ち得てきたのだ。",
-  "en": "Joining hands, putting their heads together, holding\nfast to their will-- that is how they have won their\nfuture."
+  "en": "Joining hands, putting their heads\ntogether, holding fast to their will--\nthat is how they have won their future."
  },
  {
   "id": "dg13_03:008:09",
@@ -375,7 +375,7 @@
   "id": "dg13_03:011:00",
   "speaker": "万黎",
   "jp": "ふッ……。\nお前となら、別の語り方も\nありそうだ。",
-  "en": "Heh... With you, there may be another way to talk\nthings out."
+  "en": "Heh... With you, there may be\nanother way to talk things out."
  },
  {
   "id": "dg13_03:012:00",
@@ -387,7 +387,7 @@
   "id": "dg13_03:013:00",
   "speaker": "万黎",
   "jp": "ふッ……。\nお前となら、別の語り方も\nありそうだ。",
-  "en": "Heh... With you, there may be another way to talk\nthings out."
+  "en": "Heh... With you, there may be\nanother way to talk things out."
  },
  {
   "id": "dg13_03:014:00",
@@ -399,7 +399,7 @@
   "id": "dg13_03:014:01",
   "speaker": "万黎",
   "jp": "お前となら、\n別の語り方の方も\nありそうだな。",
-  "en": "With you, there may well be another way to talk\nthings out."
+  "en": "With you, there may well be\nanother way to talk things out."
  },
  {
   "id": "dg13_03:015:00",
@@ -411,7 +411,7 @@
   "id": "dg13_03:015:01",
   "speaker": "万黎",
   "jp": "久しぶりに……\n人の言葉が、聞きたい。",
-  "en": "For the first time in a long while... I want to hear\nhuman words."
+  "en": "For the first time in a long while...\nI want to hear human words."
  },
  {
   "id": "dg13_03:016:00",
@@ -423,25 +423,25 @@
   "id": "dg13_03:016:01",
   "speaker": "万黎",
   "jp": "久しぶりに……\n人の言葉が、聞きたい。",
-  "en": "For the first time in a long while... I want to hear\nhuman words."
+  "en": "For the first time in a long while...\nI want to hear human words."
  },
  {
   "id": "dg13_03:017:00",
   "speaker": "万黎",
   "jp": "ふッ……。\nお前となら、別の語り方も\nありそうだ。",
-  "en": "Heh... With you, there may be another way to talk\nthings out."
+  "en": "Heh... With you, there may be\nanother way to talk things out."
  },
  {
   "id": "dg13_03:018:00",
   "speaker": "鍵",
   "jp": "そういう事なら、\n私らも微弱ながらお手伝い\nさせていただきやすよ。",
-  "en": "If that's how it is, then permit us to lend what\nhumble help we can, eh."
+  "en": "If that's how it is, then permit us to\nlend what humble help we can, eh."
  },
  {
   "id": "dg13_03:018:01",
   "speaker": "鍵",
   "jp": "ちょいと氣の流れを\n整えるくらいの力は\nありやすんでね。",
-  "en": "We've got just about enough power to smooth out\nthe flow of ki a little, you see."
+  "en": "We've got just about enough power to\nsmooth out the flow of ki a little, you see."
  },
  {
   "id": "dg13_03:018:02",
@@ -453,7 +453,7 @@
   "id": "dg13_03:018:03",
   "speaker": "鈴",
   "jp": "{px}が……\n無事に戻ってくるまで、\n頑張って、泣かないです！",
-  "en": "Until {px}... comes back safe, Suzu will do her best\nand not cry!"
+  "en": "Until {px}... comes back\nsafe, Suzu will do her best and not cry!"
  },
  {
   "id": "dg13_03:018:04",
@@ -465,7 +465,7 @@
   "id": "dg13_03:018:05",
   "speaker": "白",
   "jp": "では、放出した力を、\n{ruby:洞|うろ}におる全員で分散する。",
-  "en": "Then the released power shall be divided among\neveryone in the Hollow."
+  "en": "Then the released power shall be\ndivided among everyone in the Hollow."
  },
  {
   "id": "dg13_03:018:06",
@@ -483,19 +483,19 @@
   "id": "dg13_03:020:01",
   "speaker": "いちる",
   "jp": "{px}、雉明クン……。\nあたしたち、ずっと……\n一緒だからねッ。",
-  "en": "{px}, Chiaki-kun... We'll always... be together, okay!"
+  "en": "{px}, Chiaki-kun...\nWe'll always... be together, okay!"
  },
  {
   "id": "dg13_03:022:00",
   "speaker": "燈治",
   "jp": "おいおい、\n誰に向かって言ってんだ？\n待ちくたびれたぜ。",
-  "en": "C'mon, who d'you think you're talkin' to? I'm sick of\nwaitin'."
+  "en": "C'mon, who d'you think you're\ntalkin' to? I'm sick of waitin'."
  },
  {
   "id": "dg13_03:022:01",
   "speaker": "燈治",
   "jp": "{px}、お前にゃ\n俺たちがついてる。\nだから、何も心配すんな。",
-  "en": "{px}, you've got us backin' you up. So don't worry\nabout a thing."
+  "en": "{px}, you've got us backin'\nyou up. So don't worry about a thing."
  },
  {
   "id": "dg13_03:024:00",
@@ -513,7 +513,7 @@
   "id": "dg13_03:026:00",
   "speaker": "巴",
   "jp": "まあ、このくらい\nあたしたちにかかれば\n楽勝でしょ。",
-  "en": "Well, for us, something like this should be a piece of\ncake."
+  "en": "Well, for us, something like\nthis should be a piece of cake."
  },
  {
   "id": "dg13_03:026:01",
@@ -543,7 +543,7 @@
   "id": "dg13_03:030:01",
   "speaker": "蒐",
   "jp": "ん～……\n{px}も一緒、なら、\nそれもいい、かな？",
-  "en": "Hmmm... If {px}'s with us... then maybe that's okay?"
+  "en": "Hmmm... If {px}'s\nwith us... then maybe that's okay?"
  },
  {
   "id": "dg13_03:032:00",
@@ -555,67 +555,67 @@
   "id": "dg13_03:032:01",
   "speaker": "絢人",
   "jp": "この僕が、世界を救う……か。\nこれだから、君といるのは\n飽きないよ、{px}。",
-  "en": "Me, saving the world... huh. This is exactly why\nbeing with you never gets boring, {px}."
+  "en": "Me, saving the world... huh. This is\nexactly why being with you never\ngets boring, {px}."
  },
  {
   "id": "dg13_03:034:00",
   "speaker": "輪",
   "jp": "よしッ！\nよく……わかんないけど、\nこれが終われば帰れるんだな。",
-  "en": "All right! I don't really... get it, but once this is over\nwe can go home, right?"
+  "en": "All right! I don't really... get it, but once\nthis is over we can go home, right?"
  },
  {
   "id": "dg13_03:034:01",
   "speaker": "輪",
   "jp": "今日はマスターが\nご馳走だって言ってた！\n{px}も来いよなッ！！",
-  "en": "The Master said he's making a feast today! You're\ncomin' too, {px}!!"
+  "en": "The Master said he's making a feast today!\nYou're comin' too, {px}!!"
  },
  {
   "id": "dg13_03:036:00",
   "speaker": "要",
   "jp": "まったく……まさかうちが\nこないな場に立ち会う事になる\nとは思いもしませんでしたえ。",
-  "en": "Honestly... I never once imagined I'd be present at an\noccasion like this."
+  "en": "Honestly... I never once imagined I'd\nbe present at an occasion like this."
  },
  {
   "id": "dg13_03:036:01",
   "speaker": "要",
   "jp": "{px}……。\nそれもこれも皆、\nあんさんのおかげどすな。",
-  "en": "{px}... All of this, every bit of it, is thanks to you,\nisn't it."
+  "en": "{px}... All of this, every\nbit of it, is thanks to you, isn't it."
  },
  {
   "id": "dg13_03:038:00",
   "speaker": "道佳",
   "jp": "ミカみゅん、感激っ☆\nこんな世紀の一瞬に\n立ち会えるなんて！",
-  "en": "Mikamyun is so moved~! Getting to be here for the\nmoment of the century!"
+  "en": "Mikamyun is so moved~! Getting to be\nhere for the moment of the century!"
  },
  {
   "id": "dg13_03:038:01",
   "speaker": "道佳",
   "jp": "さ、{px}。\nアタシたちの初めての\n共同作業……頑張りましょ☆",
-  "en": "Now, {px}. Our first task together as a couple, like\ncutting the wedding cake... Let's give it our all~"
+  "en": "Now, {px}. Our first task\ntogether as a couple, like cutting the\nwedding cake... Let's give it our all~"
  },
  {
   "id": "dg13_03:040:00",
   "speaker": "英雄",
   "jp": "はッはッはッ！\n準備など、{px}と\n出会った時から出来ているッ！！",
-  "en": "Ha! Ha! Ha! I've been ready ever since the day I\nmet {px}!!"
+  "en": "Ha! Ha! Ha! I've been ready ever since\nthe day I met {px}!!"
  },
  {
   "id": "dg13_03:040:01",
   "speaker": "英雄",
   "jp": "さあ行こう、{ruby:戦友|と　も}よ！\nいまこそ正義完遂の時ッ！！",
-  "en": "Come, let us go, my comrade! Now is the hour that\njustice is fulfilled!!"
+  "en": "Come, let us go, my comrade! Now\nis the hour that justice is fulfilled!!"
  },
  {
   "id": "dg13_03:042:00",
   "speaker": "義王",
   "jp": "はッはァ！！\n最後の最後で俄然、\n面白くなってきやがった。",
-  "en": "Ha-hah!! Right at the very end, things just got real\ninteresting."
+  "en": "Ha-hah!! Right at the very end,\nthings just got real interesting."
  },
  {
   "id": "dg13_03:042:01",
   "speaker": "義王",
   "jp": "ま、何だかんだ言っても\n結局勝つのはオレ様たちだ。\nなァ、{px}ッ！！",
-  "en": "Well, whatever anyone says, in the end it's the great\nme and my crew who win. Right, {px}!!"
+  "en": "Well, whatever anyone says, in the\nend it's the great me and my crew\nwho win. Right, {px}!!"
  },
  {
   "id": "dg13_03:044:00",
@@ -627,19 +627,19 @@
   "id": "dg13_03:044:01",
   "speaker": "アンジー",
   "jp": "{px}と一緒なら、\nきっと、最後には\n笑える気がするヨ！",
-  "en": "As long as I'm with {px}, I feel like we'll surely be\nsmiling at the end!"
+  "en": "As long as I'm with {px}, I\nfeel like we'll surely be smiling at the end!"
  },
  {
   "id": "dg13_03:046:00",
   "speaker": "御霧",
   "jp": "シミュレーションなら\nとうに済んでいる。\nもっとも―――",
-  "en": "I finished running the simulations long ago.\nThough--"
+  "en": "I finished running the\nsimulations long ago. Though--"
  },
  {
   "id": "dg13_03:046:01",
   "speaker": "御霧",
   "jp": "お前という不確定要素が\n大きすぎて、\nあてにはならんだろうがな。",
-  "en": "With an unknown variable as big as you in the mix,\nI doubt they're worth much."
+  "en": "With an unknown variable as big as you\nin the mix, I doubt they're worth much."
  },
  {
   "id": "dg13_03:048:00",
@@ -651,7 +651,7 @@
   "id": "dg13_03:048:01",
   "speaker": "紅緒",
   "jp": "{px}……\n私も連れて行ってください。\n貴方の望む、{ruby:未来|あした}へ―――",
-  "en": "{px}... Please, take me with you. To the tomorrow\nyou wish for--"
+  "en": "{px}... Please, take me with\nyou. To the tomorrow you wish for--"
  },
  {
   "id": "dg13_03:049:00",

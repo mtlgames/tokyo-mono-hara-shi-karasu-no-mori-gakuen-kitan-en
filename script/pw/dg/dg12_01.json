@@ -15,7 +15,7 @@
   "id": "dg12_01:001:02",
   "speaker": "紅緒",
   "jp": "やはり……貴方なら、\n取り戻せるかもしれない。",
-  "en": "Just as I thought... you may be able to bring him\nback."
+  "en": "Just as I thought... you may\nbe able to bring him back."
  },
  {
   "id": "dg12_01:001:03",
@@ -63,7 +63,7 @@
   "id": "dg12_01:003:04",
   "speaker": "紅緒",
   "jp": "ただ、剣の師が、\n《{ruby:勁術|けいじゅつ}》に長けた\n方でしたので。",
-  "en": "It is only that my sword master was well versed in\nKeijutsu."
+  "en": "It is only that my sword master\nwas well versed in Keijutsu."
  },
  {
   "id": "dg12_01:003:05",
@@ -81,25 +81,25 @@
   "id": "dg12_01:003:07",
   "speaker": "紅緒",
   "jp": "お師さまは、親にも\n教師にも見限られた私に、\n様々な事を教えてくれました。",
-  "en": "When my parents and teachers had given up on me,\nmy master taught me a great many things."
+  "en": "When my parents and teachers had given up on\nme, my master taught me a great many things."
  },
  {
   "id": "dg12_01:003:08",
   "speaker": "紅緒",
   "jp": "生きる術を、\nそして、人の心の温かさを。",
-  "en": "The means to live... and the warmth of the human\nheart."
+  "en": "The means to live... and the\nwarmth of the human heart."
  },
  {
   "id": "dg12_01:003:09",
   "speaker": "紅緒",
   "jp": "お師さまと{ruby:兄|あに}さまのお陰で\n私は初めて、家族というものを\n知る事が出来た……。",
-  "en": "Thanks to my master and Nii-sama, I came to know,\nfor the first time, what it is to have a family..."
+  "en": "Thanks to my master and Nii-sama, I came to\nknow, for the first time, what it is to have a family..."
  },
  {
   "id": "dg12_01:003:10",
   "speaker": "紅緒",
   "jp": "ですが兄さまは……剣を捨て、\n更なる力を求めるようになって\n変わってしまいました。",
-  "en": "But Nii-sama... cast aside the sword, and began to\nseek even greater power. He changed."
+  "en": "But Nii-sama... cast aside the sword, and began\nto seek even greater power. He changed."
  },
  {
   "id": "dg12_01:003:11",
@@ -117,7 +117,7 @@
   "id": "dg12_01:004:00",
   "speaker": "紅緒",
   "jp": "……{px}、\n貴方の目は少し、\nお師さまに似ている気がする。",
-  "en": "...{px}, I feel your eyes are a little like my master's."
+  "en": "...{px}, I feel your\neyes are a little like my master's."
  },
  {
   "id": "dg12_01:004:01",
@@ -147,13 +147,13 @@
   "id": "dg12_01:006:00",
   "speaker": "紅緒",
   "jp": "……{px}、\n貴方の目は少し、\nお師さまに似ている気がする。",
-  "en": "...{px}, I feel your eyes are a little like my master's."
+  "en": "...{px}, I feel your\neyes are a little like my master's."
  },
  {
   "id": "dg12_01:006:01",
   "speaker": "紅緒",
   "jp": "だからこそ、\n貴方を信じてみようと\n思ったのかもしれません。",
-  "en": "Perhaps that is exactly why I decided to try trusting\nyou."
+  "en": "Perhaps that is exactly why\nI decided to try trusting you."
  },
  {
   "id": "dg12_01:007:00",
@@ -255,7 +255,7 @@
   "id": "dg12_01:013:04",
   "speaker": "紅緒",
   "jp": "《大いなる遺志》に通じ、\n世界の真理を得て……\nしまった方です。",
-  "en": "One who reached the Great Will, and attained the\ntruth of the world... much to his ruin."
+  "en": "One who reached the Great Will, and attained\nthe truth of the world... much to his ruin."
  },
  {
   "id": "dg12_01:013:05",
@@ -267,19 +267,19 @@
   "id": "dg12_01:013:06",
   "speaker": "紅緒",
   "jp": "あらゆる時、\nあらゆる場所、\n{ruby:普|あまね}く全てを知るもの―――",
-  "en": "That which knows all things, in every time, in every\nplace--"
+  "en": "That which knows all things,\nin every time, in every place--"
  },
  {
   "id": "dg12_01:013:07",
   "speaker": "紅緒",
   "jp": "{ruby:古|いにしえ}より続く体術、魔術、\n秘術は皆、それと繋がるための\n奥義を持つといいます。",
-  "en": "They say every martial art, every magic and secret\nart handed down from ancient times holds a hidden\nteaching for connecting with it."
+  "en": "They say every martial art, every magic and\nsecret art handed down from ancient times\nholds a hidden teaching for connecting with it."
  },
  {
   "id": "dg12_01:013:08",
   "speaker": "紅緒",
   "jp": "私たちとは異なる次元に\n存在する{ruby:叡智|えいち}―――",
-  "en": "A wisdom that exists in a dimension apart from our\nown--"
+  "en": "A wisdom that exists in a\ndimension apart from our own--"
  },
  {
   "id": "dg12_01:013:09",
@@ -363,19 +363,19 @@
   "id": "dg12_01:019:04",
   "speaker": "紅緒",
   "jp": "一刻も早く札の力を\n大地に戻さなくては、\n滅びは免れません。",
-  "en": "Unless the cards' power is returned to the earth as\nsoon as possible, ruin cannot be avoided."
+  "en": "Unless the cards' power is returned to the earth\nas soon as possible, ruin cannot be avoided."
  },
  {
   "id": "dg12_01:019:05",
   "speaker": "紅緒",
   "jp": "……{px}、\nもしも貴方が、あの時\n札を《封印》していれば―――",
-  "en": "...{px}, if you had Sealed the cards back then--"
+  "en": "...{px}, if you had\nSealed the cards back then--"
  },
  {
   "id": "dg12_01:019:06",
   "speaker": "紅緒",
   "jp": "この地は二年という\n期限を待つ事なく\n消失していたでしょう。",
-  "en": "this land would have vanished without waiting out\nits two-year limit."
+  "en": "this land would have vanished\nwithout waiting out its two-year limit."
  },
  {
   "id": "dg12_01:019:07",
@@ -387,7 +387,7 @@
   "id": "dg12_01:019:08",
   "speaker": "白",
   "jp": "其方は何故、\nヒトの身でありながら\nこの地が消え去るのを望んだ？",
-  "en": "Why would you, a human, wish for this land to\nvanish?"
+  "en": "Why would you, a human,\nwish for this land to vanish?"
  },
  {
   "id": "dg12_01:019:09",
@@ -405,7 +405,7 @@
   "id": "dg12_01:019:11",
   "speaker": "紅緒",
   "jp": "虚空蔵よりもたらされた叡智に\n従い、{ruby:人間を人間でないもの|・・・・・・・・・・}に\n変えようとしています。",
-  "en": "is following the wisdom brought forth from the\nAkashic Record, and seeks to turn humans into\nsomething that is not human at all."
+  "en": "is following the wisdom brought forth from\nthe Akashic Record, and seeks to turn humans\ninto something that is not human at all."
  },
  {
   "id": "dg12_01:019:12",
@@ -417,7 +417,7 @@
   "id": "dg12_01:019:13",
   "speaker": "紅緒",
   "jp": "その為に、\n花札に取り込まれた\n龍脈の力が必要なのだと……。",
-  "en": "And for that, he says he needs the power of the\ndragon vein absorbed into the hanafuda..."
+  "en": "And for that, he says he needs the power of\nthe dragon vein absorbed into the hanafuda..."
  },
  {
   "id": "dg12_01:019:14",
@@ -429,13 +429,13 @@
   "id": "dg12_01:019:15",
   "speaker": "白",
   "jp": "そうか……\nそれで花札の《解放》が\n必要だったのじゃな。",
-  "en": "I see... So that is why the hanafuda had to be\nReleased."
+  "en": "I see... So that is why the\nhanafuda had to be Released."
  },
  {
   "id": "dg12_01:019:16",
   "speaker": "白",
   "jp": "{px}と鬼札の戦いで\n放出される力をそのまま\n利用しようとしたのか。",
-  "en": "He meant to make use of the power unleashed in\n{px}'s battles with the Demon Cards, as it was."
+  "en": "He meant to make use of the power\nunleashed in {px}'s\nbattles with the Demon Cards, as it was."
  },
  {
   "id": "dg12_01:019:17",
@@ -471,7 +471,7 @@
   "id": "dg12_01:020:00",
   "speaker": "紅緒",
   "jp": "……現在を享受した結果、\n未来を失うとしてもですか？",
-  "en": "...Even if enjoying the present means losing the\nfuture?"
+  "en": "...Even if enjoying the present\nmeans losing the future?"
  },
  {
   "id": "dg12_01:020:01",
@@ -483,13 +483,13 @@
   "id": "dg12_01:020:02",
   "speaker": "紅緒",
   "jp": "ですが……私は決めました。\n{px}、貴方を信じると。",
-  "en": "But... I have made up my mind. {px}, I will trust you."
+  "en": "But... I have made up my mind.\n{px}, I will trust you."
  },
  {
   "id": "dg12_01:021:00",
   "speaker": "紅緒",
   "jp": "その為に……\n現在を犠牲にする事が\n最良の方法なのですか？",
-  "en": "And to that end... is sacrificing the present truly the\nbest way?"
+  "en": "And to that end... is sacrificing\nthe present truly the best way?"
  },
  {
   "id": "dg12_01:021:01",
@@ -501,7 +501,7 @@
   "id": "dg12_01:021:02",
   "speaker": "紅緒",
   "jp": "ですが……私は決めました。\n{px}、貴方を信じると。",
-  "en": "But... I have made up my mind. {px}, I will trust you."
+  "en": "But... I have made up my mind.\n{px}, I will trust you."
  },
  {
   "id": "dg12_01:022:00",
@@ -537,7 +537,7 @@
   "id": "dg12_01:023:02",
   "speaker": "紅緒",
   "jp": "ですが……私は決めました。\n{px}、貴方を信じると。",
-  "en": "But... I have made up my mind. {px}, I will trust you."
+  "en": "But... I have made up my mind.\n{px}, I will trust you."
  },
  {
   "id": "dg12_01:024:00",
@@ -549,7 +549,7 @@
   "id": "dg12_01:024:01",
   "speaker": "紅緒",
   "jp": "{ruby:洞|うろ}の入口までは\n私にもわかりません……。\nですが―――",
-  "en": "Even I do not know where the entrance to its\nHollow is... But--"
+  "en": "Even I do not know where the\nentrance to its Hollow is... But--"
  },
  {
   "id": "dg12_01:024:02",
@@ -579,7 +579,7 @@
   "id": "dg12_01:025:03",
   "speaker": "紅緒",
   "jp": "あまり使い慣れて\nいないのですが……\n頑張ります。",
-  "en": "I am not very used to using one, but... I will do my\nbest."
+  "en": "I am not very used to using\none, but... I will do my best."
  },
  {
   "id": "dg12_01:026:00",
@@ -627,7 +627,7 @@
   "id": "dg12_01:033:02",
   "speaker": "燈治",
   "jp": "……冗談じゃねェぞ。\n勝手に人間やめさせられて\nたまるかよッ。",
-  "en": "...Gimme a break. Like hell I'm lettin' some guy make\nme quit bein' human on his own say-so."
+  "en": "...Gimme a break. Like hell I'm lettin' some guy\nmake me quit bein' human on his own say-so."
  },
  {
   "id": "dg12_01:033:03",
@@ -639,13 +639,13 @@
   "id": "dg12_01:033:04",
   "speaker": "燈治",
   "jp": "……まあ、ここでこれ以上\n息巻いててもしょうがねェか。",
-  "en": "...Well, ain't no use fumin' about it down here any\nlonger."
+  "en": "...Well, ain't no use fumin'\nabout it down here any longer."
  },
  {
   "id": "dg12_01:033:05",
   "speaker": "燈治",
   "jp": "終業式は終わっちまったろうが\nＨＲには間に合うだろ。",
-  "en": "The closing ceremony's prob'ly over, but we oughta\nmake it for homeroom."
+  "en": "The closing ceremony's prob'ly over,\nbut we oughta make it for homeroom."
  },
  {
   "id": "dg12_01:033:06",
@@ -663,7 +663,7 @@
   "id": "dg12_01:034:01",
   "speaker": "弥紀",
   "jp": "{ruby:楼|たかどの}　{ruby:万黎|ばんり}……さん。\n一体、どんな人だろう。",
-  "en": "Banri Takadono-san... I wonder what kind of person\nhe is."
+  "en": "Banri Takadono-san... I wonder\nwhat kind of person he is."
  },
  {
   "id": "dg12_01:034:02",
@@ -681,7 +681,7 @@
   "id": "dg12_01:034:04",
   "speaker": "弥紀",
   "jp": "終業式は終わっちゃったけど\nＨＲには間に合うかな……。",
-  "en": "The closing ceremony's over, but maybe we can still\nmake it for homeroom..."
+  "en": "The closing ceremony's over, but maybe\nwe can still make it for homeroom..."
  },
  {
   "id": "dg12_01:034:05",
@@ -711,7 +711,7 @@
   "id": "dg12_01:035:03",
   "speaker": "巴",
   "jp": "結局、終業式は\nサボる羽目になったけど、\nＨＲにはまだ間に合うわ。",
-  "en": "I ended up skipping the closing ceremony after all,\nbut we can still make it for homeroom."
+  "en": "I ended up skipping the closing ceremony after\nall, but we can still make it for homeroom."
  },
  {
   "id": "dg12_01:035:04",
@@ -747,7 +747,7 @@
   "id": "dg12_01:036:04",
   "speaker": "長英",
   "jp": "終業式は終わったじゃろが\nＨＲには間に合うけェ。",
-  "en": "The closing ceremony's likely over, but we'll make it\nfor homeroom."
+  "en": "The closing ceremony's likely over,\nbut we'll make it for homeroom."
  },
  {
   "id": "dg12_01:036:05",
@@ -771,7 +771,7 @@
   "id": "dg12_01:037:02",
   "speaker": "蒐",
   "jp": "うーん。\n会いたいような、\nそうでもない、ような。",
-  "en": "Hmm. I kind of, want to meet him... and kind of,\ndon't."
+  "en": "Hmm. I kind of, want to\nmeet him... and kind of, don't."
  },
  {
   "id": "dg12_01:037:03",
@@ -783,7 +783,7 @@
   "id": "dg12_01:037:04",
   "speaker": "蒐",
   "jp": "終業式……\n終わっちゃった、よね。\nでもＨＲ、あるかも？",
-  "en": "The closing ceremony... is over, right? But maybe,\nthere's still homeroom?"
+  "en": "The closing ceremony... is over, right?\nBut maybe, there's still homeroom?"
  },
  {
   "id": "dg12_01:037:05",

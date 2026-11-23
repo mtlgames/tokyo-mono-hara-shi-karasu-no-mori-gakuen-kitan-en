@@ -27,7 +27,7 @@
   "id": "fn05_01:001:04",
   "speaker": "零",
   "jp": "……{px}。\nきみに{ruby:光札|そ　れ}を渡したら\n行こうと思っていた。",
-  "en": "...{px}. I meant to go once I'd given you that."
+  "en": "...{px}. I meant\nto go once I'd given you that."
  },
  {
   "id": "fn05_01:001:05",
@@ -57,7 +57,7 @@
   "id": "fn05_01:003:00",
   "speaker": "零",
   "jp": "ああ、悪くない。\n……こうやって\n思いがけない出会いもある。",
-  "en": "Yes, it isn't bad. ...And there are unexpected meetings\nlike this one."
+  "en": "Yes, it isn't bad. ...And there are\nunexpected meetings like this one."
  },
  {
   "id": "fn05_01:003:01",
@@ -171,7 +171,7 @@
   "id": "fn05_01:012:01",
   "speaker": "零",
   "jp": "飽きがこなくて、\n去り際を見失って\nいるところだ。",
-  "en": "I can't seem to tire of it. I've lost my chance to\nleave."
+  "en": "I can't seem to tire of it.\nI've lost my chance to leave."
  },
  {
   "id": "fn05_01:012:02",

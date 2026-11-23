@@ -3,7 +3,7 @@
   "id": "fn06_23:001:00",
   "speaker": "筑紫",
   "jp": "いつ来ても騒がしい場所だ。\nいや、活気に溢れていると\n言うべきか……。",
-  "en": "Noisy as ever, no matter when I come. Or perhaps I\nshould say it overflows with life..."
+  "en": "Noisy as ever, no matter when I come. Or\nperhaps I should say it overflows with life..."
  },
  {
   "id": "fn06_23:001:01",
@@ -15,31 +15,31 @@
   "id": "fn06_23:001:02",
   "speaker": "筑紫",
   "jp": "例えばこの街が\nある日突然、地図上から\n消え去ったとしても、",
-  "en": "Even if this city were to vanish from the map one\nday without warning,"
+  "en": "Even if this city were to vanish from\nthe map one day without warning,"
  },
  {
   "id": "fn06_23:001:03",
   "speaker": "筑紫",
   "jp": "人々は己の日々を\n生きるのに夢中で、\nすぐに忘れてしまうだろう。",
-  "en": "people would be so absorbed in living their own\ndays that they would soon forget."
+  "en": "people would be so absorbed in living their\nown days that they would soon forget."
  },
  {
   "id": "fn06_23:001:04",
   "speaker": "筑紫",
   "jp": "目先の事にしか関心が\nいかなければ、考えも\n浅くなる。",
-  "en": "When you care only about what is right in front of\nyou, your thinking grows shallow, too."
+  "en": "When you care only about what is right in\nfront of you, your thinking grows shallow, too."
  },
  {
   "id": "fn06_23:001:05",
   "speaker": "筑紫",
   "jp": "周囲への無関心が過ぎて\n大局を見る目を塞がれた者の\nなんと多い事か……。",
-  "en": "How many people have grown so indifferent to their\nsurroundings that they can no longer see the bigger\npicture..."
+  "en": "How many people have grown so\nindifferent to their surroundings that they\ncan no longer see the bigger picture..."
  },
  {
   "id": "fn06_23:001:06",
   "speaker": "筑紫",
   "jp": "あの虚ろな眼差しに\n生気を取り戻す術は―――\nもうないのかもしれないな。",
-  "en": "Perhaps there is no longer any way to bring life\nback to those hollow eyes--"
+  "en": "Perhaps there is no longer any way to\nbring life back to those hollow eyes--"
  },
  {
   "id": "fn06_23:002:00",
@@ -57,13 +57,13 @@
   "id": "fn06_23:002:02",
   "speaker": "筑紫",
   "jp": "本当に、無くさなければ\nわからないのか―――\n人はそこまで、愚かなのか？",
-  "en": "Do we truly not understand until we've lost it-- Are\npeople really that foolish?"
+  "en": "Do we truly not understand until we've\nlost it-- Are people really that foolish?"
  },
  {
   "id": "fn06_23:003:00",
   "speaker": "筑紫",
   "jp": "その方が都合が良いとでも？\n企みのある目には\n見えないが……。",
-  "en": "You mean it suits you better that way? You don't\nhave the eyes of a schemer, though..."
+  "en": "You mean it suits you better that way? You\ndon't have the eyes of a schemer, though..."
  },
  {
   "id": "fn06_23:003:01",
@@ -81,7 +81,7 @@
   "id": "fn06_23:004:01",
   "speaker": "筑紫",
   "jp": "企みのある目には\n見えないが……\n偽悪趣味は感心しないな。",
-  "en": "You don't have the eyes of a schemer, though... I\ncan't say I admire playing the villain."
+  "en": "You don't have the eyes of a schemer,\nthough... I can't say I admire playing the villain."
  },
  {
   "id": "fn06_23:005:00",
@@ -123,7 +123,7 @@
   "id": "fn06_23:007:01",
   "speaker": "筑紫",
   "jp": "君は、いやに\nはっきりと言うのだな。\n……真っ直ぐな目だ。",
-  "en": "You say so with remarkable conviction. ...Those are\nhonest eyes."
+  "en": "You say so with remarkable\nconviction. ...Those are honest eyes."
  },
  {
   "id": "fn06_23:007:02",
@@ -159,7 +159,7 @@
   "id": "fn06_23:009:01",
   "speaker": "筑紫",
   "jp": "一人でも多くの人間が\nその意志を持つだけで\n少しは変わる物もあるだろう。",
-  "en": "If even one more person holds that will, some things\nmight change, if only a little."
+  "en": "If even one more person holds that will,\nsome things might change, if only a little."
  },
  {
   "id": "fn06_23:009:02",
@@ -183,13 +183,13 @@
   "id": "fn06_23:011:00",
   "speaker": "筑紫",
   "jp": "……君を見ていると、\nどうも余計な話を\nしてしまうようだ。",
-  "en": "...Something about you makes me say more than I\nshould."
+  "en": "...Something about you makes\nme say more than I should."
  },
  {
   "id": "fn06_23:011:01",
   "speaker": "筑紫",
   "jp": "忘れろ……とは言わないが\nあまり私の言う事にも\n流されない事だ。",
-  "en": "I won't tell you to forget it... but don't let yourself be\nswayed too much by what I say, either."
+  "en": "I won't tell you to forget it... but don't let yourself\nbe swayed too much by what I say, either."
  },
  {
   "id": "fn06_23:011:02",
@@ -207,6 +207,6 @@
   "id": "fn06_23:012:01",
   "speaker": "筑紫",
   "jp": "……まだ何かあるのか？\nすまないが、\nいまは取り込み中だ。",
-  "en": "...Is there something else? I'm sorry, but I'm busy at\nthe moment."
+  "en": "...Is there something else? I'm\nsorry, but I'm busy at the moment."
  }
 ]

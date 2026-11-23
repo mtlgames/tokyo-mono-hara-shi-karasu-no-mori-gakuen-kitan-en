@@ -3,13 +3,13 @@
   "id": "fn11_01:001:00",
   "speaker": "零",
   "jp": "あ……すまない。勝手に\n入って。きみの{ruby:学舎|まなびや}を、\n見てみたかったんだ。",
-  "en": "Ah... Sorry, for coming in on my own. I wanted to\nsee your place of learning."
+  "en": "Ah... Sorry, for coming in on my own.\nI wanted to see your place of learning."
  },
  {
   "id": "fn11_01:001:01",
   "speaker": "零",
   "jp": "ここは……本が、たくさん\nあるな。どれもすり切れていて\n……時間を感じる。",
-  "en": "This place... has so many books. They're all worn\nthin... I can feel the time in them."
+  "en": "This place... has so many books. They're\nall worn thin... I can feel the time in them."
  },
  {
   "id": "fn11_01:001:02",
@@ -39,7 +39,7 @@
   "id": "fn11_01:003:02",
   "speaker": "零",
   "jp": "積み重ねられた知識と記憶、\nひとの手が紡ぐ歴史に対する\nいとおしさだ。",
-  "en": "It's a fondness for piled-up knowledge and memories,\nfor the history woven by human hands."
+  "en": "It's a fondness for piled-up knowledge and\nmemories, for the history woven by human hands."
  },
  {
   "id": "fn11_01:004:00",
@@ -57,7 +57,7 @@
   "id": "fn11_01:004:02",
   "speaker": "零",
   "jp": "新しい知識に触れる喜びは\n何物にも代え難い。",
-  "en": "Nothing can replace the joy of encountering new\nknowledge."
+  "en": "Nothing can replace the joy of\nencountering new knowledge."
  },
  {
   "id": "fn11_01:005:00",
@@ -153,7 +153,7 @@
   "id": "fn11_01:014:01",
   "speaker": "零",
   "jp": "言われてみればあまり、\n麺だけという食事は\n食べた事がないな……。",
-  "en": "Now that you mention it, I've hardly ever eaten a\nmeal that's nothing but noodles..."
+  "en": "Now that you mention it, I've hardly ever\neaten a meal that's nothing but noodles..."
  },
  {
   "id": "fn11_01:014:02",
@@ -183,7 +183,7 @@
   "id": "fn11_01:016:01",
   "speaker": "零",
   "jp": "確か、四種類の香辛料を\n基本とし、様々な調合によって\n無限の可能性を生む究極料理、",
-  "en": "If I recall, it's the ultimate dish: built on four basic\nspices, with endless possibilities born from countless\nmixes..."
+  "en": "If I recall, it's the ultimate dish: built\non four basic spices, with endless\npossibilities born from countless mixes..."
  },
  {
   "id": "fn11_01:016:02",
@@ -219,7 +219,7 @@
   "id": "fn11_01:017:04",
   "speaker": "零",
   "jp": "それでも、きみや武藤と\n出会ってからは、自然と\n言葉が出て来るようになった。",
-  "en": "Even so, since I met you and Muto, the words have\nstarted coming naturally."
+  "en": "Even so, since I met you and Muto, the\nwords have started coming naturally."
  },
  {
   "id": "fn11_01:017:05",
@@ -243,13 +243,13 @@
   "id": "fn11_01:017:08",
   "speaker": "零",
   "jp": "―――{px}。\nおれにはおれの、\n叶えたい望みがある。",
-  "en": "--{px}. I have a wish of my own that I want to\nfulfill."
+  "en": "--{px}. I have a wish\nof my own that I want to fulfill."
  },
  {
   "id": "fn11_01:017:09",
   "speaker": "零",
   "jp": "それはとても\n単純なものだったはずなのに\nそれがいまでは―――",
-  "en": "It should have been something very simple, and yet\nnow--"
+  "en": "It should have been something\nvery simple, and yet now--"
  },
  {
   "id": "fn11_01:017:10",
@@ -285,7 +285,7 @@
   "id": "fn11_01:018:02",
   "speaker": "零",
   "jp": "こうして話していると\nそんな気がしてくる。",
-  "en": "Talking with you like this, I start to feel that there\nis."
+  "en": "Talking with you like this,\nI start to feel that there is."
  },
  {
   "id": "fn11_01:018:03",
@@ -303,7 +303,7 @@
   "id": "fn11_01:019:01",
   "speaker": "零",
   "jp": "なら、これ以上おれが\n悩む必要は無いのかも\n知れない。",
-  "en": "Then maybe there's no need for me to agonize any\nfurther."
+  "en": "Then maybe there's no need\nfor me to agonize any further."
  },
  {
   "id": "fn11_01:019:02",
@@ -321,7 +321,7 @@
   "id": "fn11_01:020:01",
   "speaker": "零",
   "jp": "きみの持つ答えは……\nおれの問いかけへの回答では\nないのかもしれないが……",
-  "en": "The answer you hold... might not be a reply to my\nquestion, but..."
+  "en": "The answer you hold... might not\nbe a reply to my question, but..."
  },
  {
   "id": "fn11_01:020:02",
@@ -339,7 +339,7 @@
   "id": "fn11_01:021:01",
   "speaker": "零",
   "jp": "なら、これ以上おれが\n悩む必要は無いのかも\n知れないな。",
-  "en": "Then maybe there's no need for me to agonize any\nfurther."
+  "en": "Then maybe there's no need\nfor me to agonize any further."
  },
  {
   "id": "fn11_01:022:00",
@@ -405,7 +405,7 @@
   "id": "fn11_01:025:02",
   "speaker": "零",
   "jp": "初めから……\n選ぶことの出来る答えは\n一つなんだ。",
-  "en": "From the very beginning... there was only one\nanswer I could choose."
+  "en": "From the very beginning... there was\nonly one answer I could choose."
  },
  {
   "id": "fn11_01:026:00",
@@ -417,13 +417,13 @@
   "id": "fn11_01:028:00",
   "speaker": "零",
   "jp": "……ありがとう。きみと\n話していて、整理はついた\nように感じる。",
-  "en": "...Thank you. Talking with you, I feel like I've sorted\nthings out."
+  "en": "...Thank you. Talking with you,\nI feel like I've sorted things out."
  },
  {
   "id": "fn11_01:028:01",
   "speaker": "零",
   "jp": "何も心配はいらない。\nもうすぐ……すべて終わる。",
-  "en": "There's nothing to worry about. Soon... it will all be\nover."
+  "en": "There's nothing to worry\nabout. Soon... it will all be over."
  },
  {
   "id": "fn11_01:029:00",
@@ -435,7 +435,7 @@
   "id": "fn11_01:029:01",
   "speaker": "零",
   "jp": "最初から答えは一つしかない。\nわかっていたはずだったんだ。",
-  "en": "There was only ever one answer. I should have\nknown that all along."
+  "en": "There was only ever one answer. I\nshould have known that all along."
  },
  {
   "id": "fn11_01:029:02",
@@ -459,7 +459,7 @@
   "id": "fn11_01:029:05",
   "speaker": "零",
   "jp": "きみは何も心配しなくていい。\nもうすぐすべて……終わる。",
-  "en": "You don't need to worry about anything. Soon it\nwill all... be over."
+  "en": "You don't need to worry about\nanything. Soon it will all... be over."
  },
  {
   "id": "fn11_01:029:06",
@@ -477,7 +477,7 @@
   "id": "fn11_01:030:00",
   "speaker": "零",
   "jp": "……ここの図書室は\n本の整理が\nされていないんだな。",
-  "en": "...The books in this library aren't kept in order, are\nthey?"
+  "en": "...The books in this library\naren't kept in order, are they?"
  },
  {
   "id": "fn11_01:030:01",
@@ -489,7 +489,7 @@
   "id": "fn11_01:030:02",
   "speaker": "零",
   "jp": "整理するのはまた\n違った感情からなんだろうか。",
-  "en": "Maybe keeping things in order comes from a\ndifferent kind of feeling."
+  "en": "Maybe keeping things in order comes\nfrom a different kind of feeling."
  },
  {
   "id": "fn11_01:ksf:075cf",

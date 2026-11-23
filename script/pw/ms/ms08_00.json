@@ -21,19 +21,19 @@
   "id": "ms08_00:000:03",
   "speaker": "制服の男たち",
   "jp": "どう見ても\nただの古い書庫なんですが、\nこんなところに本当に―――？",
-  "en": "No matter how you look at it, this is just an old\narchive. Is it really here--?"
+  "en": "No matter how you look at it, this is\njust an old archive. Is it really here--?"
  },
  {
   "id": "ms08_00:000:04",
   "speaker": "背広の男",
   "jp": "無駄な憶測をしている\n暇があったら、一刻も早く\n目的の物を探せ。",
-  "en": "If you have time for pointless speculation, find what\nwe're after, and fast."
+  "en": "If you have time for pointless speculation,\nfind what we're after, and fast."
  },
  {
   "id": "ms08_00:000:05",
   "speaker": "背広の男",
   "jp": "我々の威信にかけて、\n必ず証拠品を押収するんだ。",
-  "en": "Our reputation is at stake. We will seize that\nevidence, no matter what."
+  "en": "Our reputation is at stake. We will\nseize that evidence, no matter what."
  },
  {
   "id": "ms08_00:000:06",
@@ -45,13 +45,13 @@
   "id": "ms08_00:000:07",
   "speaker": "伊佐地",
   "jp": "……破防法たァまた\n随分と大げさなのを\n持ち出してきたもんだ。",
-  "en": "...The Subversive Activities Prevention Act? That's a\npretty big gun you've dragged out."
+  "en": "...The Subversive Activities Prevention Act?\nThat's a pretty big gun you've dragged out."
  },
  {
   "id": "ms08_00:000:08",
   "speaker": "伊佐地",
   "jp": "こんな薄汚い図書館の地下蔵で\n人員たかだか数名の組織が\nテロを画策してるってのか？",
-  "en": "You're telling me an outfit of a mere handful of\npeople is plotting terrorism in the basement of this\ngrimy library?"
+  "en": "You're telling me an outfit of a mere\nhandful of people is plotting terrorism\nin the basement of this grimy library?"
  },
  {
   "id": "ms08_00:000:09",
@@ -69,13 +69,13 @@
   "id": "ms08_00:000:11",
   "speaker": "筑紫",
   "jp": "収集部に属しながらその実、\n何をしているかわからない上、\n人の出入りも激しい―――",
-  "en": "It belongs to the Collection Department, yet no one\nknows what it actually does, and people come and\ngo constantly--"
+  "en": "It belongs to the Collection Department,\nyet no one knows what it actually does,\nand people come and go constantly--"
  },
  {
   "id": "ms08_00:000:12",
   "speaker": "筑紫",
   "jp": "このような公的機関が、\nここまで放置されてきた事の\n方がよほど異常だ。",
-  "en": "It is far more abnormal that a public agency like this\nhas been left unchecked for so long."
+  "en": "It is far more abnormal that a public agency\nlike this has been left unchecked for so long."
  },
  {
   "id": "ms08_00:000:13",
@@ -93,19 +93,19 @@
   "id": "ms08_00:000:15",
   "speaker": "伊佐地",
   "jp": "ここ数日で寄せられた\n異常な数の収集依頼も\nお前らお得意の情報操作だな。",
-  "en": "The abnormal number of collection requests that\ncame in these past few days is your usual\ninformation manipulation, too."
+  "en": "The abnormal number of collection\nrequests that came in these past few days\nis your usual information manipulation, too."
  },
  {
   "id": "ms08_00:000:16",
   "speaker": "伊佐地",
   "jp": "だが、こんな強行を、\n上が許可したとは思えない。",
-  "en": "But I can't believe the higher-ups approved a\nstrong-arm move like this."
+  "en": "But I can't believe the higher-ups\napproved a strong-arm move like this."
  },
  {
   "id": "ms08_00:000:17",
   "speaker": "伊佐地",
   "jp": "単独でここまで場を仕切るとは\n随分と偉くなったもんだな、\n―――筑紫三尉？",
-  "en": "Running the whole show on your own... you've\ncome up in the world, haven't you, Second\nLieutenant Chikushi?"
+  "en": "Running the whole show on your own...\nyou've come up in the world, haven't\nyou, Second Lieutenant Chikushi?"
  },
  {
   "id": "ms08_00:000:18",
@@ -123,7 +123,7 @@
   "id": "ms08_00:000:20",
   "speaker": "筑紫",
   "jp": "現状最高責任者代行である\n伊佐地主任には、\n速やかな全面協力を要請する。",
-  "en": "Chief Isachi, as acting head-in-charge, I request your\nprompt and full cooperation."
+  "en": "Chief Isachi, as acting head-in-charge, I\nrequest your prompt and full cooperation."
  },
  {
   "id": "ms08_00:000:21",
@@ -141,13 +141,13 @@
   "id": "ms08_00:000:23",
   "speaker": "筑紫",
   "jp": "この組織の特異性を証明し、\n我々の行動を制限出来る立場の\n者はいま、国内にいない。",
-  "en": "There is no one in the country right now who can\nvouch for this organization's special status and\nrestrict our actions."
+  "en": "There is no one in the country right now\nwho can vouch for this organization's\nspecial status and restrict our actions."
  },
  {
   "id": "ms08_00:000:24",
   "speaker": "伊佐地",
   "jp": "……何故{ruby:いま|・・}だ？\nお前んとこの情報網なら、\nもっと早く調べはついたろう。",
-  "en": "...Why NOW? Your intelligence network could've\ndug this up much sooner."
+  "en": "...Why NOW? Your intelligence network\ncould've dug this up much sooner."
  },
  {
   "id": "ms08_00:000:25",
@@ -171,7 +171,7 @@
   "id": "ms08_00:000:28",
   "speaker": "筑紫",
   "jp": "気遣いは無用だ。\nそちらにもすでに\n手は打ってある。",
-  "en": "Your concern is unnecessary. We have already taken\nsteps on that front as well."
+  "en": "Your concern is unnecessary. We have\nalready taken steps on that front as well."
  },
  {
   "id": "ms08_00:000:29",
@@ -183,13 +183,13 @@
   "id": "ms08_00:000:30",
   "speaker": "筑紫",
   "jp": "任務の為とはいえ、まさか\nあんな年端もいかぬ新米を\n{ruby:人柱|・・}にするとはな。",
-  "en": "Mission or not, I never thought you'd make a human\nSACRIFICE of a rookie that young."
+  "en": "Mission or not, I never thought you'd make\na human SACRIFICE of a rookie that young."
  },
  {
   "id": "ms08_00:000:31",
   "speaker": "伊佐地",
   "jp": "―――違う！！\nあいつは正式な執行者の\n血統じゃないはずだ！",
-  "en": "--That's not it!! That kid shouldn't even be of the\ntrue Executor bloodline!"
+  "en": "--That's not it!! That kid shouldn't\neven be of the true Executor bloodline!"
  },
  {
   "id": "ms08_00:000:32",
@@ -213,13 +213,13 @@
   "id": "ms08_00:000:35",
   "speaker": "伊佐地",
   "jp": "確かに……\nあれを無力化するには、古式に\n{ruby:法|のっと}り封印する以外にない。",
-  "en": "True... the only way to neutralize that is to seal it\naccording to the old rites."
+  "en": "True... the only way to neutralize that\nis to seal it according to the old rites."
  },
  {
   "id": "ms08_00:000:36",
   "speaker": "伊佐地",
   "jp": "だが、そうなれば\n執行者である{px}―――",
-  "en": "But if it comes to that, {px}, as the Executor--"
+  "en": "But if it comes to that,\n{px}, as the Executor--"
  },
  {
   "id": "ms08_00:000:37",
@@ -267,7 +267,7 @@
   "id": "ms08_00:000:44",
   "speaker": "筑紫",
   "jp": "案内してもらうぞ。\nＯＸＡＳ日本支部の保管する\n遺物の元へな―――",
-  "en": "You will take us to them. To the relics kept by\nOXAS's Japan branch--"
+  "en": "You will take us to them. To the\nrelics kept by OXAS's Japan branch--"
  },
  {
   "id": "ms08_00:001:00",
@@ -285,13 +285,13 @@
   "id": "ms08_00:003:01",
   "speaker": "白",
   "jp": "清司郎の奴ならば、\n朝子の様子を見に行っておる。",
-  "en": "If it is Seishiro you seek, he has gone to look in on\nAsako."
+  "en": "If it is Seishiro you seek, he\nhas gone to look in on Asako."
  },
  {
   "id": "ms08_00:003:02",
   "speaker": "白",
   "jp": "よもや、\n起き上がってこれぬほど\n調子を崩しておるとはの。",
-  "en": "Who would have thought her so unwell she could\nnot even rise from bed."
+  "en": "Who would have thought her so unwell\nshe could not even rise from bed."
  },
  {
   "id": "ms08_00:003:03",
@@ -315,7 +315,7 @@
   "id": "ms08_00:003:06",
   "speaker": "白",
   "jp": "何じゃそれは……。\n妾の言う事が\n聞こえなかったかえ？",
-  "en": "What manner of answer is that...? Did you not hear\nwhat I said?"
+  "en": "What manner of answer is that...?\nDid you not hear what I said?"
  },
  {
   "id": "ms08_00:003:07",
@@ -339,7 +339,7 @@
   "id": "ms08_00:003:10",
   "speaker": "白",
   "jp": "どれ、{ruby:寝汚|いぎたな}い娘の顔でも\n見に行ってやるとしようかの。",
-  "en": "Come, I shall go and have a look at the face of that\nsleepyhead girl."
+  "en": "Come, I shall go and have a look\nat the face of that sleepyhead girl."
  },
  {
   "id": "ms08_00:003:11",
@@ -369,7 +369,7 @@
   "id": "ms08_00:005:01",
   "speaker": "清司郎",
   "jp": "……これ以上、踏み込むな。\nお前は自分の仕事に\n専念してりゃいい。",
-  "en": "...Don't stick your nose in any further. Just focus on\nyour own job."
+  "en": "...Don't stick your nose in any\nfurther. Just focus on your own job."
  },
  {
   "id": "ms08_00:006:00",
@@ -393,7 +393,7 @@
   "id": "ms08_00:007:01",
   "speaker": "清司郎",
   "jp": "……これ以上、踏み込むな。\nお前は自分の仕事に\n専念してりゃいい。",
-  "en": "...Don't stick your nose in any further. Just focus on\nyour own job."
+  "en": "...Don't stick your nose in any\nfurther. Just focus on your own job."
  },
  {
   "id": "ms08_00:008:00",
@@ -411,7 +411,7 @@
   "id": "ms08_00:009:01",
   "speaker": "清司郎",
   "jp": "これ以上、踏み込むな。\nお前は自分の仕事に\n専念してりゃいい。",
-  "en": "Don't stick your nose in any further. Just focus on\nyour own job."
+  "en": "Don't stick your nose in any\nfurther. Just focus on your own job."
  },
  {
   "id": "ms08_00:010:00",
@@ -423,7 +423,7 @@
   "id": "ms08_00:010:01",
   "speaker": "清司郎",
   "jp": "これ以上、踏み込むな。\nお前は自分の仕事に\n専念してりゃいい。",
-  "en": "Don't stick your nose in any further. Just focus on\nyour own job."
+  "en": "Don't stick your nose in any\nfurther. Just focus on your own job."
  },
  {
   "id": "ms08_00:011:00",
@@ -465,13 +465,13 @@
   "id": "ms08_00:014:01",
   "speaker": "白",
   "jp": "こんな状況、\nあの娘が見たら\n何と言うかのう。",
-  "en": "I wonder what that girl would say if she saw things\nlike this."
+  "en": "I wonder what that girl would\nsay if she saw things like this."
  },
  {
   "id": "ms08_00:014:02",
   "speaker": "清司郎",
   "jp": "ふざけるな！！\n一体、誰のせいで\nこんな事に―――",
-  "en": "Don't screw with me!! Whose fault do you think it\nis that things ended up like--"
+  "en": "Don't screw with me!! Whose fault do you\nthink it is that things ended up like--"
  },
  {
   "id": "ms08_00:014:03",
@@ -489,7 +489,7 @@
   "id": "ms08_00:014:05",
   "speaker": "白",
   "jp": "こうなったのは妾のせいでも、\nましてや{px}の\nせいでもない。",
-  "en": "It is not my fault things have come to this, much\nless {px}'s."
+  "en": "It is not my fault things have come to\nthis, much less {px}'s."
  },
  {
   "id": "ms08_00:014:06",
@@ -507,7 +507,7 @@
   "id": "ms08_00:015:00",
   "speaker": "白",
   "jp": "{px}、\n其方は朝子が\n心配ではないのかえ？",
-  "en": "{px}, are you not worried about Asako?"
+  "en": "{px}, are you\nnot worried about Asako?"
  },
  {
   "id": "ms08_00:016:00",
@@ -519,7 +519,7 @@
   "id": "ms08_00:016:01",
   "speaker": "白",
   "jp": "其方を見ていると、\n妾にも少しだけ\n理解出来る気がする。",
-  "en": "Watching you, I feel I can understand it, if only a\nlittle."
+  "en": "Watching you, I feel I can\nunderstand it, if only a little."
  },
  {
   "id": "ms08_00:016:02",
@@ -573,7 +573,7 @@
   "id": "ms08_00:020:01",
   "speaker": "白",
   "jp": "……其方を見ていると、\n妾にも少しだけ\n理解出来る気がする。",
-  "en": "...Watching you, I feel I can understand it, if only a\nlittle."
+  "en": "...Watching you, I feel I can\nunderstand it, if only a little."
  },
  {
   "id": "ms08_00:020:02",
@@ -597,7 +597,7 @@
   "id": "ms08_00:022:01",
   "speaker": "白",
   "jp": "其方を見ていると、\n妾にも少しだけ\n理解出来る気がする。",
-  "en": "Watching you, I feel I can understand it, if only a\nlittle."
+  "en": "Watching you, I feel I can\nunderstand it, if only a little."
  },
  {
   "id": "ms08_00:022:02",
@@ -609,7 +609,7 @@
   "id": "ms08_00:023:00",
   "speaker": "白",
   "jp": "誰に{ruby:憚|はばか}る必要もあるまい。\nそなた自身の想いじゃ。",
-  "en": "There is no one you need hold back for. Those\nfeelings are your own."
+  "en": "There is no one you need hold back\nfor. Those feelings are your own."
  },
  {
   "id": "ms08_00:023:01",
@@ -621,7 +621,7 @@
   "id": "ms08_00:024:00",
   "speaker": "白",
   "jp": "言葉にはせぬ、か。\nなかなかに男前な事よの。",
-  "en": "You will not put it into words, then? How very\nmanly of you."
+  "en": "You will not put it into words,\nthen? How very manly of you."
  },
  {
   "id": "ms08_00:025:00",
@@ -633,7 +633,7 @@
   "id": "ms08_00:025:01",
   "speaker": "白",
   "jp": "一所で共に暮らす者を、\n家族、と言うのであろう？",
-  "en": "Those who live together under one roof are called\nfamily, are they not?"
+  "en": "Those who live together under one\nroof are called family, are they not?"
  },
  {
   "id": "ms08_00:025:02",
@@ -663,19 +663,19 @@
   "id": "ms08_00:025:06",
   "speaker": "白",
   "jp": "だからこそ、己を賭しても\n護るべきものを\n持つのじゃと―――",
-  "en": "And that is exactly why they hold things they must\nprotect, even at the cost of themselves--"
+  "en": "And that is exactly why they hold things they\nmust protect, even at the cost of themselves--"
  },
  {
   "id": "ms08_00:025:07",
   "speaker": "白",
   "jp": "妾らを番人と成した\n一番初めの{ruby:主|あるじ}殿が\nそう言うておった。",
-  "en": "So said our very first master, the one who made us\nguardians."
+  "en": "So said our very first master,\nthe one who made us guardians."
  },
  {
   "id": "ms08_00:025:08",
   "speaker": "白",
   "jp": "いまにしてみれば、\nあの御方は、親と呼ぶべき\n存在だったのじゃな。",
-  "en": "Looking back now, that one was someone I ought to\nhave called a parent."
+  "en": "Looking back now, that one was\nsomeone I ought to have called a parent."
  },
  {
   "id": "ms08_00:025:09",
@@ -753,7 +753,7 @@
   "id": "ms08_00:028:01",
   "speaker": "朝子",
   "jp": "今日の{px}……\n随分優しい顔をするのね。",
-  "en": "You have such a gentle look on your face today,\n{px}..."
+  "en": "You have such a gentle look on\nyour face today, {px}..."
  },
  {
   "id": "ms08_00:029:00",
@@ -771,7 +771,7 @@
   "id": "ms08_00:031:00",
   "speaker": "朝子",
   "jp": "……ありがとう。\n気を遣わせちゃったわね。",
-  "en": "...Thank you. I've made you worry about me, haven't\nI?"
+  "en": "...Thank you. I've made you\nworry about me, haven't I?"
  },
  {
   "id": "ms08_00:032:00",
@@ -831,7 +831,7 @@
   "id": "ms08_00:037:04",
   "speaker": "朝子",
   "jp": "お母さんと……誰、かな。\n白ちゃんみたいな\n服を着た―――",
-  "en": "About my mother and... who was it... someone in\nclothes like Mao-chan's--"
+  "en": "About my mother and... who was it...\nsomeone in clothes like Mao-chan's--"
  },
  {
   "id": "ms08_00:037:05",
@@ -849,7 +849,7 @@
   "id": "ms08_00:037:07",
   "speaker": "朝子",
   "jp": "{px}は……\nそろそろ学校ね。",
-  "en": "{px}... it's almost time for school, isn't it."
+  "en": "{px}... it's\nalmost time for school, isn't it."
  },
  {
   "id": "ms08_00:037:08",
@@ -861,7 +861,7 @@
   "id": "ms08_00:038:00",
   "speaker": "朝子",
   "jp": "駄目な担任で、\n本当に、ごめんね。",
-  "en": "I'm such a useless homeroom teacher. I'm really\nsorry."
+  "en": "I'm such a useless homeroom\nteacher. I'm really sorry."
  },
  {
   "id": "ms08_00:039:00",
@@ -909,7 +909,7 @@
   "id": "ms08_00:043:01",
   "speaker": "朝子",
   "jp": "……ありがとう。\n早く良くなって\n汚名返上しないとね。",
-  "en": "...Thank you. I'd better get well soon and redeem\nmyself."
+  "en": "...Thank you. I'd better get\nwell soon and redeem myself."
  },
  {
   "id": "ms08_00:044:00",
@@ -969,7 +969,7 @@
   "id": "ms08_00:049:00",
   "speaker": "白",
   "jp": "もう少し、\n{ruby:此処|こ　こ}にいたいなどと思うのは、\n可笑しいじゃろうか。",
-  "en": "Is it strange that I should wish to stay here a little\nlonger?"
+  "en": "Is it strange that I should wish\nto stay here a little longer?"
  },
  {
   "id": "ms08_00:050:00",
@@ -1011,7 +1011,7 @@
   "id": "ms08_00:052:01",
   "speaker": "白",
   "jp": "其方の言葉は\nほんに奇妙じゃが……\n悪くはないの。",
-  "en": "Your words are truly odd, yet... they are not\nunpleasant."
+  "en": "Your words are truly odd,\nyet... they are not unpleasant."
  },
  {
   "id": "ms08_00:053:00",
@@ -1101,7 +1101,7 @@
   "id": "ms08_00:059:03",
   "speaker": "白",
   "jp": "有事の際はすぐに駆けつける。\n……必ずの。",
-  "en": "Should anything happen, I shall rush to your side at\nonce. ...Without fail."
+  "en": "Should anything happen, I shall rush\nto your side at once. ...Without fail."
  },
  {
   "id": "ms08_00:059:04",
@@ -1113,7 +1113,7 @@
   "id": "ms08_00:060:00",
   "speaker": "白",
   "jp": "そうか。\n確かにあまりゆっくりしては\n学校に遅れるからの。",
-  "en": "Indeed. Linger too long and you will be late for\nschool."
+  "en": "Indeed. Linger too long and\nyou will be late for school."
  },
  {
   "id": "ms08_00:060:01",
@@ -1143,7 +1143,7 @@
   "id": "ms08_00:061:02",
   "speaker": "鍵",
   "jp": "……よく持った方だ。\n坊と白殿がここへ\n来られてから、今日まで。",
-  "en": "...She held out well, I'd say. From the day you and\nLady Mao came here, young master, right up till\ntoday."
+  "en": "...She held out well, I'd say. From the\nday you and Lady Mao came here,\nyoung master, right up till today."
  },
  {
   "id": "ms08_00:061:03",
@@ -1155,19 +1155,19 @@
   "id": "ms08_00:061:04",
   "speaker": "鍵",
   "jp": "坊。\nひとつ面白い事を\nお教えしやしょう。",
-  "en": "Young master. Let me tell you something interesting,\nif you'd permit me."
+  "en": "Young master. Let me tell you\nsomething interesting, if you'd permit me."
  },
  {
   "id": "ms08_00:061:05",
   "speaker": "鍵",
   "jp": "お嬢が伏せっているのは\n病のせいなどではない―――",
-  "en": "The young miss isn't laid up on account of any\nillness--"
+  "en": "The young miss isn't laid up\non account of any illness--"
  },
  {
   "id": "ms08_00:062:00",
   "speaker": "鍵",
   "jp": "そう言ったら\n坊はどうしやす？",
-  "en": "If I told you that, young master, what would you\ndo?"
+  "en": "If I told you that, young\nmaster, what would you do?"
  },
  {
   "id": "ms08_00:063:00",
@@ -1179,7 +1179,7 @@
   "id": "ms08_00:063:01",
   "speaker": "鍵",
   "jp": "確かに病でなければ、\n解決法もありやすからね。",
-  "en": "True enough, if it's no illness, then there's a way to\nfix it."
+  "en": "True enough, if it's no illness,\nthen there's a way to fix it."
  },
  {
   "id": "ms08_00:064:00",
@@ -1191,7 +1191,7 @@
   "id": "ms08_00:064:01",
   "speaker": "鍵",
   "jp": "確かに病でなければ、\n解決法もありやすからね。",
-  "en": "True enough, if it's no illness, then there's a way to\nfix it."
+  "en": "True enough, if it's no illness,\nthen there's a way to fix it."
  },
  {
   "id": "ms08_00:065:00",
@@ -1203,13 +1203,13 @@
   "id": "ms08_00:065:01",
   "speaker": "鍵",
   "jp": "確かに病でなければ、\n解決法もありやすからね。",
-  "en": "True enough, if it's no illness, then there's a way to\nfix it."
+  "en": "True enough, if it's no illness,\nthen there's a way to fix it."
  },
  {
   "id": "ms08_00:066:00",
   "speaker": "鍵",
   "jp": "……おっと、\nひょっとして全て\nお見通しって訳ですかい？",
-  "en": "...Oh my, could it be you've seen through it all\nalready?"
+  "en": "...Oh my, could it be you've\nseen through it all already?"
  },
  {
   "id": "ms08_00:066:01",
@@ -1227,7 +1227,7 @@
   "id": "ms08_00:067:01",
   "speaker": "鍵",
   "jp": "……なるほど、\n坊のお気持ちは\nよくわかりやしたよ。",
-  "en": "...I see. I understand your feelings well enough,\nyoung master."
+  "en": "...I see. I understand your feelings\nwell enough, young master."
  },
  {
   "id": "ms08_00:068:00",
@@ -1251,7 +1251,7 @@
   "id": "ms08_00:069:01",
   "speaker": "鍵",
   "jp": "つまり―――\n原因ははっきりしている\nという事ですよ。",
-  "en": "In other words-- the cause is perfectly clear, you\nsee."
+  "en": "In other words-- the cause\nis perfectly clear, you see."
  },
  {
   "id": "ms08_00:070:00",
@@ -1263,13 +1263,13 @@
   "id": "ms08_00:070:01",
   "speaker": "鍵",
   "jp": "つまり―――\n原因ははっきりしている\nという事ですよ。",
-  "en": "In other words-- the cause is perfectly clear, you\nsee."
+  "en": "In other words-- the cause\nis perfectly clear, you see."
  },
  {
   "id": "ms08_00:071:00",
   "speaker": "鍵",
   "jp": "何を思うも坊の自由。\n……そうでやすね。",
-  "en": "What you make of it is up to you, young master.\n...Quite so."
+  "en": "What you make of it is up to\nyou, young master. ...Quite so."
  },
  {
   "id": "ms08_00:072:00",
@@ -1281,7 +1281,7 @@
   "id": "ms08_00:072:01",
   "speaker": "鍵",
   "jp": "坊には一応、\n伝えておくのが道理かと\n思いやしたんでね。",
-  "en": "I just figured it was only proper to let you know,\nyoung master."
+  "en": "I just figured it was only proper\nto let you know, young master."
  },
  {
   "id": "ms08_00:072:02",
@@ -1329,13 +1329,13 @@
   "id": "ms08_00:074:01",
   "speaker": "鈴",
   "jp": "神社を大切にして\nくださってるお二人が\n苦しんでるというのに、",
-  "en": "The two who care so much for the shrine are\nsuffering,"
+  "en": "The two who care so much\nfor the shrine are suffering,"
  },
  {
   "id": "ms08_00:074:02",
   "speaker": "鈴",
   "jp": "こんな時、{ruby:神使|しんし}なんて\n何のお役にも\n立てないです……。",
-  "en": "and at a time like this, a divine messenger is no\nhelp at all..."
+  "en": "and at a time like this, a divine\nmessenger is no help at all..."
  },
  {
   "id": "ms08_00:075:00",
@@ -1347,7 +1347,7 @@
   "id": "ms08_00:075:01",
   "speaker": "鈴",
   "jp": "な、泣かないです！\nすずは強い神使なのです！",
-  "en": "S-Suzu isn't crying! Suzu is a strong divine\nmessenger!"
+  "en": "S-Suzu isn't crying! Suzu is\na strong divine messenger!"
  },
  {
   "id": "ms08_00:076:00",
@@ -1401,7 +1401,7 @@
   "id": "ms08_00:079:01",
   "speaker": "鈴",
   "jp": "な、泣かないです！\nすずは強い神使なのです！",
-  "en": "S-Suzu isn't crying! Suzu is a strong divine\nmessenger!"
+  "en": "S-Suzu isn't crying! Suzu is\na strong divine messenger!"
  },
  {
   "id": "ms08_00:080:00",
@@ -1431,7 +1431,7 @@
   "id": "ms08_00:081:01",
   "speaker": "鈴",
   "jp": "{px}にまで\nそんなお顔を\nさせてしまうとは……",
-  "en": "To make even you put on such a face, {px}..."
+  "en": "To make even you put on such\na face, {px}..."
  },
  {
   "id": "ms08_00:081:02",
@@ -1449,7 +1449,7 @@
   "id": "ms08_00:082:01",
   "speaker": "鈴",
   "jp": "{px}にまで\nそんなお顔を\nさせてしまうとは……",
-  "en": "To make even you put on such a face, {px}..."
+  "en": "To make even you put on such\na face, {px}..."
  },
  {
   "id": "ms08_00:082:02",
@@ -1479,13 +1479,13 @@
   "id": "ms08_00:085:02",
   "speaker": "鈴",
   "jp": "神社を大切にして\nくださってるお二人が\n苦しんでるというのに、",
-  "en": "The two who care so much for the shrine are\nsuffering,"
+  "en": "The two who care so much\nfor the shrine are suffering,"
  },
  {
   "id": "ms08_00:085:03",
   "speaker": "鈴",
   "jp": "こんな時、{ruby:神使|しんし}なんて\n何のお役にも\n立てないです……。",
-  "en": "and at a time like this, a divine messenger is no\nhelp at all..."
+  "en": "and at a time like this, a divine\nmessenger is no help at all..."
  },
  {
   "id": "ms08_00:086:00",
@@ -1497,7 +1497,7 @@
   "id": "ms08_00:086:01",
   "speaker": "鈴",
   "jp": "でも、でも……\nお辛そうで、すず……",
-  "en": "But, but... they look like they're hurting so much,\nand Suzu..."
+  "en": "But, but... they look like they're\nhurting so much, and Suzu..."
  },
  {
   "id": "ms08_00:087:00",
@@ -1557,7 +1557,7 @@
   "id": "ms08_00:091:02",
   "speaker": "鈴",
   "jp": "ですけど、お二人が\nあんまりにも辛そうで……",
-  "en": "But the two of them look like they're suffering so\nterribly..."
+  "en": "But the two of them look like\nthey're suffering so terribly..."
  },
  {
   "id": "ms08_00:092:00",
@@ -1599,7 +1599,7 @@
   "id": "ms08_00:095:01",
   "speaker": "鈴",
   "jp": "{px}！\nどうか不甲斐ないすずを\n叱ってくださいです！",
-  "en": "{px}! Please, scold Suzu for being so useless!"
+  "en": "{px}! Please,\nscold Suzu for being so useless!"
  },
  {
   "id": "ms08_00:096:00",
@@ -1617,7 +1617,7 @@
   "id": "ms08_00:096:02",
   "speaker": "鈴",
   "jp": "……むむむ、\n少しは強くなれた気が\nするです。",
-  "en": "...Mmmm. Suzu feels like she's gotten a little bit\nstronger."
+  "en": "...Mmmm. Suzu feels like she's\ngotten a little bit stronger."
  },
  {
   "id": "ms08_00:096:03",
@@ -1647,7 +1647,7 @@
   "id": "ms08_00:097:03",
   "speaker": "鈴",
   "jp": "ち、違うです！\n和んでる場合では\nないのです！",
-  "en": "N-no, that's wrong! This is no time for Suzu to be\ngetting all cozy!"
+  "en": "N-no, that's wrong! This is no time\nfor Suzu to be getting all cozy!"
  },
  {
   "id": "ms08_00:098:00",
@@ -1677,7 +1677,7 @@
   "id": "ms08_00:099:00",
   "speaker": "鍵",
   "jp": "やれやれ、仔犬ちゃんは\n元気が取り柄でしょうに。",
-  "en": "My, my. And here I thought pep was the pup's one\nsaving grace."
+  "en": "My, my. And here I thought pep\nwas the pup's one saving grace."
  },
  {
   "id": "ms08_00:099:01",
@@ -1701,13 +1701,13 @@
   "id": "ms08_00:099:04",
   "speaker": "鍵",
   "jp": "特に清さんは、\nお嬢が伏せる度\n荒れますからねえ。",
-  "en": "Sei-san in particular gets all stormy every time the\nyoung miss takes to her bed, you see."
+  "en": "Sei-san in particular gets all stormy every time\nthe young miss takes to her bed, you see."
  },
  {
   "id": "ms08_00:099:05",
   "speaker": "鍵",
   "jp": "別に坊を嫌っているという\n訳じゃありやせん。\nあまり気にしない事ですよ。",
-  "en": "It ain't that he dislikes you, young master. Best not\nto let it trouble you."
+  "en": "It ain't that he dislikes you, young\nmaster. Best not to let it trouble you."
  },
  {
   "id": "ms08_00:100:00",
@@ -1719,7 +1719,7 @@
   "id": "ms08_00:100:01",
   "speaker": "鍵",
   "jp": "その寛容な心こそが\nいまの清さんにとっては\n救いになるかもしれやせん。",
-  "en": "That forgiving heart of yours may be just what\nsaves Sei-san right now."
+  "en": "That forgiving heart of yours may be\njust what saves Sei-san right now."
  },
  {
   "id": "ms08_00:101:00",
@@ -1749,25 +1749,25 @@
   "id": "ms08_00:103:00",
   "speaker": "鍵",
   "jp": "ええ、そんな感じで\n軽く受け流して\nおくんなさい。",
-  "en": "Yes, just like that. Let it roll off you, if you'd be so\nkind."
+  "en": "Yes, just like that. Let it roll\noff you, if you'd be so kind."
  },
  {
   "id": "ms08_00:104:00",
   "speaker": "鍵",
   "jp": "いやいや、\nこいつはどうにも\n似た者同士って奴ですかい。",
-  "en": "Well, well. Seems the two of you are cut from the\nsame cloth, eh?"
+  "en": "Well, well. Seems the two of you\nare cut from the same cloth, eh?"
  },
  {
   "id": "ms08_00:104:01",
   "speaker": "鍵",
   "jp": "ですがいまの清さんに\n坊の真っ直ぐな気持ちを\n受け止める余裕はありやせん。",
-  "en": "But right now, Sei-san hasn't the room in him to\ntake in your honest feelings, young master."
+  "en": "But right now, Sei-san hasn't the room in him\nto take in your honest feelings, young master."
  },
  {
   "id": "ms08_00:104:02",
   "speaker": "鍵",
   "jp": "焦って無理に\n距離を詰めようと\nしない事ですよ。",
-  "en": "Best not to rush things and force yourself closer to\nhim."
+  "en": "Best not to rush things and\nforce yourself closer to him."
  },
  {
   "id": "ms08_00:105:00",
@@ -1779,37 +1779,37 @@
   "id": "ms08_00:105:01",
   "speaker": "鍵",
   "jp": "ですがいまの清さんに\n坊の真っ直ぐな気持ちを\n受け止める余裕はありやせん。",
-  "en": "But right now, Sei-san hasn't the room in him to\ntake in your honest feelings, young master."
+  "en": "But right now, Sei-san hasn't the room in him\nto take in your honest feelings, young master."
  },
  {
   "id": "ms08_00:105:02",
   "speaker": "鍵",
   "jp": "焦って無理に\n距離を詰めようと\nしない事ですよ。",
-  "en": "Best not to rush things and force yourself closer to\nhim."
+  "en": "Best not to rush things and\nforce yourself closer to him."
  },
  {
   "id": "ms08_00:106:00",
   "speaker": "鍵",
   "jp": "そうですねえ……\nひょっとすると清さんも\n同じ気持ちかもしれやせん。",
-  "en": "Let's see now... Perhaps Sei-san feels the very same\nway."
+  "en": "Let's see now... Perhaps Sei-san\nfeels the very same way."
  },
  {
   "id": "ms08_00:106:01",
   "speaker": "鍵",
   "jp": "ともかくいまは、\n無理に距離を詰めようと\nしない事です。",
-  "en": "In any case, for now, don't go forcing yourself closer\nto him."
+  "en": "In any case, for now, don't go\nforcing yourself closer to him."
  },
  {
   "id": "ms08_00:107:00",
   "speaker": "鍵",
   "jp": "そうですねえ……\nひょっとすると清さんも\n同じ気持ちかもしれやせん。",
-  "en": "Let's see now... Perhaps Sei-san feels the very same\nway."
+  "en": "Let's see now... Perhaps Sei-san\nfeels the very same way."
  },
  {
   "id": "ms08_00:107:01",
   "speaker": "鍵",
   "jp": "ともかくいまは、\n無理に距離を詰めようと\nしない事です。",
-  "en": "In any case, for now, don't go forcing yourself closer\nto him."
+  "en": "In any case, for now, don't go\nforcing yourself closer to him."
  },
  {
   "id": "ms08_00:108:00",
@@ -1833,7 +1833,7 @@
   "id": "ms08_00:109:02",
   "speaker": "鈴",
   "jp": "お二人とこの神社は、\n鍵さんとすずが万全の体制で\nお護りするです。",
-  "en": "Ken-san and Suzu will guard the two of them and\nthis shrine with everything we've got!"
+  "en": "Ken-san and Suzu will guard the two of them\nand this shrine with everything we've got!"
  },
  {
   "id": "ms08_00:109:03",
@@ -1857,13 +1857,13 @@
   "id": "ms08_00:112:01",
   "speaker": "弥紀",
   "jp": "四月から\n一度もなかったから\n心配だな……。",
-  "en": "She hasn't missed a single day since April... I'm\nworried."
+  "en": "She hasn't missed a single\nday since April... I'm worried."
  },
  {
   "id": "ms08_00:112:02",
   "speaker": "弥紀",
   "jp": "本当は、よく遅れてくるのも\n具合が悪かったからなのかな。",
-  "en": "Maybe the reason she's late so often is that she\nhasn't been feeling well."
+  "en": "Maybe the reason she's late so often\nis that she hasn't been feeling well."
  },
  {
   "id": "ms08_00:113:00",
@@ -1887,7 +1887,7 @@
   "id": "ms08_00:114:01",
   "speaker": "弥紀",
   "jp": "{px}、\n笑いごとには\n出来ないよ……。",
-  "en": "{px}, this isn't something to laugh about..."
+  "en": "{px}, this isn't\nsomething to laugh about..."
  },
  {
   "id": "ms08_00:115:00",
@@ -1935,7 +1935,7 @@
   "id": "ms08_00:118:01",
   "speaker": "弥紀",
   "jp": "わたしの考え過ぎだよね。\nごめん、変なこと言って。",
-  "en": "I'm just overthinking it. Sorry for saying something\nweird."
+  "en": "I'm just overthinking it. Sorry\nfor saying something weird."
  },
  {
   "id": "ms08_00:119:00",
@@ -1983,13 +1983,13 @@
   "id": "ms08_00:122:02",
   "speaker": "燈治",
   "jp": "大体、何が悲しくて毎朝\nあの横暴教師の{ruby:面|ツラ}を\n拝まなきゃならねェんだ。",
-  "en": "I mean, why the hell do I gotta look at that tyrant\nteacher's mug every damn mornin' anyway?"
+  "en": "I mean, why the hell do I gotta look at that\ntyrant teacher's mug every damn mornin' anyway?"
  },
  {
   "id": "ms08_00:122:03",
   "speaker": "気怠い声",
   "jp": "―――ふふん。\nまったくキミは\n素直じゃないな。",
-  "en": "--Heh. You really never could be honest, could\nyou?"
+  "en": "--Heh. You really never\ncould be honest, could you?"
  },
  {
   "id": "ms08_00:122:04",
@@ -2001,7 +2001,7 @@
   "id": "ms08_00:122:05",
   "speaker": "久榮",
   "jp": "毎日私に会えて嬉しいなら\nそう言えばいいものを。",
-  "en": "If you're so happy to see me every day, you should\njust say so."
+  "en": "If you're so happy to see me\nevery day, you should just say so."
  },
  {
   "id": "ms08_00:122:06",
@@ -2043,7 +2043,7 @@
   "id": "ms08_00:124:01",
   "speaker": "久榮",
   "jp": "……思える内が\n花とも言うしな。",
-  "en": "...They do say it's sweet while you can still believe\nit."
+  "en": "...They do say it's sweet\nwhile you can still believe it."
  },
  {
   "id": "ms08_00:125:00",
@@ -2067,7 +2067,7 @@
   "id": "ms08_00:126:01",
   "speaker": "久榮",
   "jp": "今日ばかりは\nキミのそういう態度が\n頼もしく思えるよ。",
-  "en": "Just for today, that attitude of yours actually seems\nreassuring."
+  "en": "Just for today, that attitude of\nyours actually seems reassuring."
  },
  {
   "id": "ms08_00:127:00",
@@ -2085,79 +2085,79 @@
   "id": "ms08_00:128:00",
   "speaker": "久榮",
   "jp": "ふッ、\n血気盛んで何よりだ。\n若人はそうじゃないとな。",
-  "en": "Heh. Full of fight, good. That's how the young\nought to be."
+  "en": "Heh. Full of fight, good. That's\nhow the young ought to be."
  },
  {
   "id": "ms08_00:128:01",
   "speaker": "久榮",
   "jp": "まあ、心配しなくても、\n説教の{ruby:類|たぐい}じゃないさ。",
-  "en": "Well, don't worry. It's not a lecture or anything of\nthe sort."
+  "en": "Well, don't worry. It's not a\nlecture or anything of the sort."
  },
  {
   "id": "ms08_00:128:02",
   "speaker": "久榮",
   "jp": "もっとも―――\nそれよりマシかどうかは\nわからんがな。",
-  "en": "Though-- whether it's any better than one, I\ncouldn't say."
+  "en": "Though-- whether it's any\nbetter than one, I couldn't say."
  },
  {
   "id": "ms08_00:129:00",
   "speaker": "久榮",
   "jp": "なんだ、興味がないのか？\n女教師直々の呼び出し\nだというのに。",
-  "en": "What, not interested? When a lady teacher is calling\nyou out in person?"
+  "en": "What, not interested? When a lady\nteacher is calling you out in person?"
  },
  {
   "id": "ms08_00:129:01",
   "speaker": "久榮",
   "jp": "まあ、心配しなくても、\n説教の{ruby:類|たぐい}じゃないさ。",
-  "en": "Well, don't worry. It's not a lecture or anything of\nthe sort."
+  "en": "Well, don't worry. It's not a\nlecture or anything of the sort."
  },
  {
   "id": "ms08_00:129:02",
   "speaker": "久榮",
   "jp": "もっとも―――\nそれよりマシかどうかは\nわからんがな。",
-  "en": "Though-- whether it's any better than one, I\ncouldn't say."
+  "en": "Though-- whether it's any\nbetter than one, I couldn't say."
  },
  {
   "id": "ms08_00:130:00",
   "speaker": "久榮",
   "jp": "心配しなくても、\n説教の{ruby:類|たぐい}じゃない。",
-  "en": "Don't worry. It's not a lecture or anything of the\nsort."
+  "en": "Don't worry. It's not a lecture\nor anything of the sort."
  },
  {
   "id": "ms08_00:130:01",
   "speaker": "久榮",
   "jp": "もっとも―――\nそれよりマシかどうかは\nわからんがな。",
-  "en": "Though-- whether it's any better than one, I\ncouldn't say."
+  "en": "Though-- whether it's any\nbetter than one, I couldn't say."
  },
  {
   "id": "ms08_00:131:00",
   "speaker": "久榮",
   "jp": "心配しなくても、\n説教の{ruby:類|たぐい}じゃない。",
-  "en": "Don't worry. It's not a lecture or anything of the\nsort."
+  "en": "Don't worry. It's not a lecture\nor anything of the sort."
  },
  {
   "id": "ms08_00:131:01",
   "speaker": "久榮",
   "jp": "もっとも―――\nそれよりマシかどうかは\nわからんがな。",
-  "en": "Though-- whether it's any better than one, I\ncouldn't say."
+  "en": "Though-- whether it's any\nbetter than one, I couldn't say."
  },
  {
   "id": "ms08_00:132:00",
   "speaker": "久榮",
   "jp": "なるほど、\n無理矢理なのが好みか。\nそれもまた浪漫だな。",
-  "en": "I see, so you'd rather be dragged off by force. That\nhas its own romance too."
+  "en": "I see, so you'd rather be dragged off by\nforce. That has its own romance too."
  },
  {
   "id": "ms08_00:133:00",
   "speaker": "燈治",
   "jp": "……代理担任が\nわざわざ{px}に\n何の用だよ。",
-  "en": "...What's the substitute homeroom teacher want with\n{px} anyway?"
+  "en": "...What's the substitute homeroom teacher\nwant with {px} anyway?"
  },
  {
   "id": "ms08_00:133:01",
   "speaker": "久榮",
   "jp": "気になるなら後で\n{px}から直接聞くんだな。",
-  "en": "If you're curious, ask {px} yourself later."
+  "en": "If you're curious, ask\n{px} yourself later."
  },
  {
   "id": "ms08_00:133:02",
@@ -2187,13 +2187,13 @@
   "id": "ms08_00:134:01",
   "speaker": "久榮",
   "jp": "キミの友人はどうも\n心配性なのが多いからな。",
-  "en": "An awful lot of your friends seem to be the\nworrying type."
+  "en": "An awful lot of your friends\nseem to be the worrying type."
  },
  {
   "id": "ms08_00:134:02",
   "speaker": "久榮",
   "jp": "まあ、\n朝子が休みなのが\nせめてもの救いか……。",
-  "en": "Well, at least Asako being off today is a small\nmercy..."
+  "en": "Well, at least Asako being\noff today is a small mercy..."
  },
  {
   "id": "ms08_00:134:03",
@@ -2211,13 +2211,13 @@
   "id": "ms08_00:134:05",
   "speaker": "久榮",
   "jp": "役所を名乗ってるが、\nどう見ても{ruby:堅気|カタギ}じゃない\n背広の似合わん連中だ。",
-  "en": "They claim to be from a government office, but\nthey're plainly not on the straight and narrow. A\nbunch who don't suit their suits."
+  "en": "They claim to be from a government office,\nbut they're plainly not on the straight and\nnarrow. A bunch who don't suit their suits."
  },
  {
   "id": "ms08_00:134:06",
   "speaker": "久榮",
   "jp": "念のため私も同席しよう。\n少しは安心だろう？",
-  "en": "I'll sit in too, just in case. That should put you a\nlittle at ease, hm?"
+  "en": "I'll sit in too, just in case. That\nshould put you a little at ease, hm?"
  },
  {
   "id": "ms08_00:135:00",
@@ -2241,7 +2241,7 @@
   "id": "ms08_00:136:01",
   "speaker": "久榮",
   "jp": "相手が何だろうと、\n生徒に手出しはさせんさ。",
-  "en": "Whoever they are, I won't let them lay a finger on a\nstudent of mine."
+  "en": "Whoever they are, I won't let them\nlay a finger on a student of mine."
  },
  {
   "id": "ms08_00:137:00",
@@ -2253,7 +2253,7 @@
   "id": "ms08_00:137:01",
   "speaker": "久榮",
   "jp": "まあ任せておけ。\n相手が何だろうと、\n生徒に手出しはさせんさ。",
-  "en": "Well, leave it to me. Whoever they are, I won't let\nthem lay a finger on a student of mine."
+  "en": "Well, leave it to me. Whoever they are, I won't\nlet them lay a finger on a student of mine."
  },
  {
   "id": "ms08_00:138:00",
@@ -2265,19 +2265,19 @@
   "id": "ms08_00:138:01",
   "speaker": "久榮",
   "jp": "まあ相手が何だろうと\n生徒に手出しはさせんさ。",
-  "en": "Well, whoever they are, I won't let them lay a finger\non a student of mine."
+  "en": "Well, whoever they are, I won't let\nthem lay a finger on a student of mine."
  },
  {
   "id": "ms08_00:139:00",
   "speaker": "久榮",
   "jp": "余計な口を挟む気はない。\nお前の事情はわかっているし、\n何事もなければそれでいい。",
-  "en": "I don't intend to butt in. I know your situation, and\nif nothing comes of this, all the better."
+  "en": "I don't intend to butt in. I know your situation,\nand if nothing comes of this, all the better."
  },
  {
   "id": "ms08_00:139:01",
   "speaker": "久榮",
   "jp": "ただ、教師として\n生徒を護るのは\n当然の義務だってだけだ。",
-  "en": "It's just that protecting students is a teacher's duty,\nthat's all."
+  "en": "It's just that protecting students\nis a teacher's duty, that's all."
  },
  {
   "id": "ms08_00:140:00",
@@ -2289,7 +2289,7 @@
   "id": "ms08_00:140:01",
   "speaker": "久榮",
   "jp": "相手が何者だろうと、\n生徒に手出しはさせん。",
-  "en": "Whatever they are, I won't let them lay a finger on\na student of mine."
+  "en": "Whatever they are, I won't let them\nlay a finger on a student of mine."
  },
  {
   "id": "ms08_00:141:00",
@@ -2301,7 +2301,7 @@
   "id": "ms08_00:141:01",
   "speaker": "久榮",
   "jp": "そうだな……確かにキミを\n護る為なら、少々手荒い真似も\n辞さないかもしれん。",
-  "en": "Well... it's true that to protect you, I might not shy\naway from getting a bit rough."
+  "en": "Well... it's true that to protect you, I might\nnot shy away from getting a bit rough."
  },
  {
   "id": "ms08_00:142:00",
@@ -2313,31 +2313,31 @@
   "id": "ms08_00:142:01",
   "speaker": "久榮",
   "jp": "相手が何者だろうと、\n生徒に手出しはさせん。",
-  "en": "Whatever they are, I won't let them lay a finger on\na student of mine."
+  "en": "Whatever they are, I won't let them\nlay a finger on a student of mine."
  },
  {
   "id": "ms08_00:143:00",
   "speaker": "久榮",
   "jp": "……こんな時くらい、\n教師の言う事は\n素直に聞いておけ。",
-  "en": "...At a time like this, at least, do as your teacher\nsays."
+  "en": "...At a time like this, at least,\ndo as your teacher says."
  },
  {
   "id": "ms08_00:143:01",
   "speaker": "久榮",
   "jp": "相手が何者だろうと、\n生徒に手出しはさせん。",
-  "en": "Whatever they are, I won't let them lay a finger on\na student of mine."
+  "en": "Whatever they are, I won't let them\nlay a finger on a student of mine."
  },
  {
   "id": "ms08_00:144:00",
   "speaker": "久榮",
   "jp": "それに―――\nキミに何かあったら担任に\n合わせる顔がないからな。",
-  "en": "Besides-- if anything happened to you, I couldn't\nface your homeroom teacher."
+  "en": "Besides-- if anything happened to you,\nI couldn't face your homeroom teacher."
  },
  {
   "id": "ms08_00:144:01",
   "speaker": "久榮",
   "jp": "さて、厄介な客を\nあまり待たせても\n面倒が増えるだけだ。",
-  "en": "Now, keeping troublesome guests waiting will only\nmake more trouble."
+  "en": "Now, keeping troublesome guests\nwaiting will only make more trouble."
  },
  {
   "id": "ms08_00:144:02",
@@ -2361,13 +2361,13 @@
   "id": "ms08_00:145:02",
   "speaker": "大柄な男",
   "jp": "まったく、\n生徒一人呼び出すのに\n一体どれだけ―――",
-  "en": "Honestly, how long does it take to call in one\nstudent--"
+  "en": "Honestly, how long does it\ntake to call in one student--"
  },
  {
   "id": "ms08_00:145:03",
   "speaker": "眼鏡の男",
   "jp": "―――どうも、先生。\nお忙しい中\nご足労おかけしました。",
-  "en": "--Ah, Sensei. Thank you for taking the trouble\nwhen you're so busy."
+  "en": "--Ah, Sensei. Thank you for taking\nthe trouble when you're so busy."
  },
  {
   "id": "ms08_00:145:04",
@@ -2385,13 +2385,13 @@
   "id": "ms08_00:145:06",
   "speaker": "久榮",
   "jp": "コイツはひどい問題児でね。\n私が監督を任されてる。",
-  "en": "This one's a terrible problem child. I've been put in\ncharge of supervising him."
+  "en": "This one's a terrible problem child. I've\nbeen put in charge of supervising him."
  },
  {
   "id": "ms08_00:145:07",
   "speaker": "久榮",
   "jp": "役所が出てくるような事態に\n巻き込まれているというなら\n尚更に席は外せないな。",
-  "en": "And if he's mixed up in something that brings a\ngovernment office calling, all the more reason I can't\nleave."
+  "en": "And if he's mixed up in something\nthat brings a government office calling,\nall the more reason I can't leave."
  },
  {
   "id": "ms08_00:145:08",
@@ -2403,7 +2403,7 @@
   "id": "ms08_00:146:00",
   "speaker": "眼鏡の男",
   "jp": "さて―――\nきみが{pm}　{pn}君に\n間違いないな？",
-  "en": "Now-- you are {pn} {pm}-kun, without a doubt?"
+  "en": "Now-- you are {pn}\n{pm}-kun, without a doubt?"
  },
  {
   "id": "ms08_00:147:00",
@@ -2463,7 +2463,7 @@
   "id": "ms08_00:156:00",
   "speaker": "眼鏡の男",
   "jp": "申し遅れたが\n我々はこういう者だ。",
-  "en": "Forgive me for not introducing myself sooner. This\nis who we are."
+  "en": "Forgive me for not introducing\nmyself sooner. This is who we are."
  },
  {
   "id": "ms08_00:156:01",
@@ -2493,7 +2493,7 @@
   "id": "ms08_00:156:05",
   "speaker": "眼鏡の男",
   "jp": "黙っていて頂こうか。\n一介の司書教諭に過ぎない\n貴女には関係ない話のはずだ。",
-  "en": "Kindly keep quiet. This should be no concern of\nyours, a mere teacher-librarian."
+  "en": "Kindly keep quiet. This should be no\nconcern of yours, a mere teacher-librarian."
  },
  {
   "id": "ms08_00:156:06",
@@ -2505,19 +2505,19 @@
   "id": "ms08_00:156:07",
   "speaker": "眼鏡の男",
   "jp": "国立国会図書館収集特課とは、\n国民の血税で養われている\n組織でありながら、",
-  "en": "The National Diet Library's Collection Division is an\norganization maintained by the people's hard-earned\ntaxes,"
+  "en": "The National Diet Library's Collection\nDivision is an organization maintained\nby the people's hard-earned taxes,"
  },
  {
   "id": "ms08_00:156:08",
   "speaker": "眼鏡の男",
   "jp": "その存在意義を公にもせず\nそればかりか怪しげな危険物を\n収集、{ruby:隠匿|いんとく}していた。",
-  "en": "yet it never made its purpose public. Worse, it was\ncollecting and concealing suspicious, dangerous\nobjects."
+  "en": "yet it never made its purpose public.\nWorse, it was collecting and concealing\nsuspicious, dangerous objects."
  },
  {
   "id": "ms08_00:156:09",
   "speaker": "眼鏡の男",
   "jp": "彼らの目的が何かは\n現在調査中だが、\nひとつだけ確かな事がある。",
-  "en": "Their aims are still under investigation, but one\nthing is certain."
+  "en": "Their aims are still under\ninvestigation, but one thing is certain."
  },
  {
   "id": "ms08_00:156:10",
@@ -2565,7 +2565,7 @@
   "id": "ms08_00:162:01",
   "speaker": "眼鏡の男",
   "jp": "君の様に若く純粋な青年を\n騙して利用するなど\n断じて許せない行為だ。",
-  "en": "Deceiving and using a pure young man like you is\nutterly unforgivable."
+  "en": "Deceiving and using a pure young\nman like you is utterly unforgivable."
  },
  {
   "id": "ms08_00:163:00",
@@ -2577,7 +2577,7 @@
   "id": "ms08_00:163:01",
   "speaker": "眼鏡の男",
   "jp": "君の様に若く純粋な青年を\n騙して利用するなど\n断じて許せない行為だ。",
-  "en": "Deceiving and using a pure young man like you is\nutterly unforgivable."
+  "en": "Deceiving and using a pure young\nman like you is utterly unforgivable."
  },
  {
   "id": "ms08_00:164:00",
@@ -2589,7 +2589,7 @@
   "id": "ms08_00:164:01",
   "speaker": "眼鏡の男",
   "jp": "信じていたものに\n裏切られたのだからな。",
-  "en": "You've been betrayed by the people you trusted,\nafter all."
+  "en": "You've been betrayed by the\npeople you trusted, after all."
  },
  {
   "id": "ms08_00:165:00",
@@ -2607,13 +2607,13 @@
   "id": "ms08_00:167:00",
   "speaker": "眼鏡の男",
   "jp": "しかし、幸いにも君はまだ\n組織に{ruby:拐|かどわ}かされたばかりだし、\nましてや未成年だ。",
-  "en": "Fortunately, however, you've only just been lured in\nby the organization, and on top of that, you're a\nminor."
+  "en": "Fortunately, however, you've only just\nbeen lured in by the organization,\nand on top of that, you're a minor."
  },
  {
   "id": "ms08_00:167:01",
   "speaker": "眼鏡の男",
   "jp": "我々としても、未来ある若者に\n国賊の汚名など着せたくは\nないのだよ。",
-  "en": "We have no wish to brand a young man with a\nfuture ahead of him a traitor to his country."
+  "en": "We have no wish to brand a young man with\na future ahead of him a traitor to his country."
  },
  {
   "id": "ms08_00:167:02",
@@ -2625,7 +2625,7 @@
   "id": "ms08_00:167:03",
   "speaker": "眼鏡の男",
   "jp": "彼らが君を利用して\n手に入れようとしたものを\n我々に渡すんだ。",
-  "en": "Hand over to us the thing they were using you to\nobtain."
+  "en": "Hand over to us the thing\nthey were using you to obtain."
  },
  {
   "id": "ms08_00:167:04",
@@ -2637,7 +2637,7 @@
   "id": "ms08_00:167:05",
   "speaker": "久榮",
   "jp": "{px}、騙されるな。\nこいつらの目的は初めから、\n{ruby:それ|・・}を手に入れる事だ。",
-  "en": "{px}, don't be fooled. From the very start, their goal\nwas to get their hands on that thing."
+  "en": "{px}, don't be fooled. From the very\nstart, their goal was to get their hands on that thing."
  },
  {
   "id": "ms08_00:167:06",
@@ -2649,7 +2649,7 @@
   "id": "ms08_00:168:00",
   "speaker": "眼鏡の男",
   "jp": "さあ、{pm}君。\n例の物を渡したまえ。",
-  "en": "Now, {pm}-kun. Hand over the item in question."
+  "en": "Now, {pm}-kun. Hand\nover the item in question."
  },
  {
   "id": "ms08_00:169:00",
@@ -2679,25 +2679,25 @@
   "id": "ms08_00:170:02",
   "speaker": "眼鏡の男",
   "jp": "いいかね。\n我々には君の身柄を拘束し、\n連行する権利がある。",
-  "en": "Listen. We have every right to take you into\ncustody and haul you away."
+  "en": "Listen. We have every right to take\nyou into custody and haul you away."
  },
  {
   "id": "ms08_00:170:03",
   "speaker": "眼鏡の男",
   "jp": "それを君の為を思って\nわざわざ同じテーブルに\nついてやっているのだ。",
-  "en": "For your own sake, we've gone out of our way to\nsit at the same table as you."
+  "en": "For your own sake, we've gone out of\nour way to sit at the same table as you."
  },
  {
   "id": "ms08_00:170:04",
   "speaker": "眼鏡の男",
   "jp": "にも関わらず、君があくまで\nあの反社会的組織に\n加担するというのなら、",
-  "en": "And yet, if you still insist on siding with that\nantisocial organization,"
+  "en": "And yet, if you still insist on siding\nwith that antisocial organization,"
  },
  {
   "id": "ms08_00:170:05",
   "speaker": "眼鏡の男",
   "jp": "我々も不本意ながら\n君を一容疑者として\n扱う事に―――",
-  "en": "then much as it pains us, we'll have no choice but\nto treat you as a suspect--"
+  "en": "then much as it pains us, we'll have no\nchoice but to treat you as a suspect--"
  },
  {
   "id": "ms08_00:171:00",
@@ -2721,7 +2721,7 @@
   "id": "ms08_00:171:03",
   "speaker": "いちる",
   "jp": "{px}、大丈夫！？\nひどいコトされなかった？",
-  "en": "{px}, are you okay!? They didn't do anything awful\nto you?"
+  "en": "{px}, are you okay!?\nThey didn't do anything awful to you?"
  },
  {
   "id": "ms08_00:172:00",
@@ -2733,7 +2733,7 @@
   "id": "ms08_00:172:01",
   "speaker": "いちる",
   "jp": "{px}のピンチには\n絶対あたしが駆けつける。",
-  "en": "Whenever you're in a pinch, {px}, I'll come running,\nno matter what."
+  "en": "Whenever you're in a pinch, {px},\nI'll come running, no matter what."
  },
  {
   "id": "ms08_00:172:02",
@@ -2769,7 +2769,7 @@
   "id": "ms08_00:176:01",
   "speaker": "いちる",
   "jp": "くっそー！！\nおじさんたち、\n絶対許さないんだからねッ！！",
-  "en": "Rrgh, darn it!! You old guys, I'm never, ever gonna\nforgive you!!"
+  "en": "Rrgh, darn it!! You old guys, I'm\nnever, ever gonna forgive you!!"
  },
  {
   "id": "ms08_00:177:00",
@@ -2781,7 +2781,7 @@
   "id": "ms08_00:177:01",
   "speaker": "いちる",
   "jp": "くっそー！！\nおじさんたち、\n絶対許さないんだからねッ！！",
-  "en": "Rrgh, darn it!! You old guys, I'm never, ever gonna\nforgive you!!"
+  "en": "Rrgh, darn it!! You old guys, I'm\nnever, ever gonna forgive you!!"
  },
  {
   "id": "ms08_00:178:00",
@@ -2793,7 +2793,7 @@
   "id": "ms08_00:178:01",
   "speaker": "いちる",
   "jp": "くっそー！！\nおじさんたち、\n絶対許さないんだからねッ！！",
-  "en": "Rrgh, darn it!! You old guys, I'm never, ever gonna\nforgive you!!"
+  "en": "Rrgh, darn it!! You old guys, I'm\nnever, ever gonna forgive you!!"
  },
  {
   "id": "ms08_00:179:00",
@@ -2811,13 +2811,13 @@
   "id": "ms08_00:181:00",
   "speaker": "大柄な男",
   "jp": "貴様、資料にあったぞ。\n確か特課の―――",
-  "en": "You, you were in the file. You're from the Division,\nthe--"
+  "en": "You, you were in the file.\nYou're from the Division, the--"
  },
  {
   "id": "ms08_00:181:01",
   "speaker": "いちる",
   "jp": "あーもう、うるさい！\nいまはそれどころじゃないの！！",
-  "en": "Ugh, shut up already! I don't have time for that\nright now!!"
+  "en": "Ugh, shut up already! I don't\nhave time for that right now!!"
  },
  {
   "id": "ms08_00:181:02",
@@ -2847,7 +2847,7 @@
   "id": "ms08_00:181:06",
   "speaker": "久榮",
   "jp": "まったく、\n収集特課ってのは\n騒々しいな。",
-  "en": "Honestly, the Collection Division is such a rowdy\nbunch."
+  "en": "Honestly, the Collection Division\nis such a rowdy bunch."
  },
  {
   "id": "ms08_00:181:07",
@@ -2871,7 +2871,7 @@
   "id": "ms08_00:181:10",
   "speaker": "久榮",
   "jp": "{px}、\n状況がわかるまで、\nキミはその娘と身を隠せ。",
-  "en": "{px}, until we know what's going on, you hide out\nwith that girl."
+  "en": "{px}, until we know what's\ngoing on, you hide out with that girl."
  },
  {
   "id": "ms08_00:181:11",
@@ -2889,19 +2889,19 @@
   "id": "ms08_00:182:01",
   "speaker": "久榮",
   "jp": "そういう言葉を囁くには\n絶妙のタイミングだ。\n悪くないよ、坊や。",
-  "en": "Perfect timing for whispering words like that. Not\nbad, kiddo."
+  "en": "Perfect timing for whispering\nwords like that. Not bad, kiddo."
  },
  {
   "id": "ms08_00:183:00",
   "speaker": "久榮",
   "jp": "そう素直に喜ばれると\n骨の折り甲斐も\nあるというものだな。",
-  "en": "When you're that openly pleased, it makes all the\neffort worth it."
+  "en": "When you're that openly pleased,\nit makes all the effort worth it."
  },
  {
   "id": "ms08_00:184:00",
   "speaker": "久榮",
   "jp": "キミのそういう\n単純明快なところは\n嫌いじゃあないよ。",
-  "en": "I don't dislike that simple, straightforward side of\nyours."
+  "en": "I don't dislike that simple,\nstraightforward side of yours."
  },
  {
   "id": "ms08_00:185:00",
@@ -2913,7 +2913,7 @@
   "id": "ms08_00:186:00",
   "speaker": "久榮",
   "jp": "キミに言われずとも\n勝ち目のない\n勝負はしない主義だ。",
-  "en": "You needn't tell me. I make a point of never fighting\na battle I can't win."
+  "en": "You needn't tell me. I make a point\nof never fighting a battle I can't win."
  },
  {
   "id": "ms08_00:186:01",
@@ -2937,7 +2937,7 @@
   "id": "ms08_00:188:00",
   "speaker": "久榮",
   "jp": "キミに言われずとも\n勝ち目のない\n勝負はしない主義だ。",
-  "en": "You needn't tell me. I make a point of never fighting\na battle I can't win."
+  "en": "You needn't tell me. I make a point\nof never fighting a battle I can't win."
  },
  {
   "id": "ms08_00:188:01",
@@ -2961,7 +2961,7 @@
   "id": "ms08_00:191:00",
   "speaker": "久榮",
   "jp": "まあ荒事なら\n昔とった何とかって奴だ。",
-  "en": "Well, if it comes to roughhousing, it's an old skill of\nmine. You never quite forget."
+  "en": "Well, if it comes to roughhousing, it's an\nold skill of mine. You never quite forget."
  },
  {
   "id": "ms08_00:191:01",
@@ -2979,7 +2979,7 @@
   "id": "ms08_00:191:03",
   "speaker": "久榮",
   "jp": "誰にも壊させやしないさ。\n{ruby:私たち|・・・}の居場所はな。",
-  "en": "I won't let anyone wreck it. The place where all of\nus belong."
+  "en": "I won't let anyone wreck it. The\nplace where all of us belong."
  },
  {
   "id": "ms08_00:191:04",
@@ -3003,7 +3003,7 @@
   "id": "ms08_00:191:07",
   "speaker": "久榮",
   "jp": "やれやれ……。\n何でわざわざ窓を割るかね。",
-  "en": "Good grief... Why'd she have to go and break the\nwindow?"
+  "en": "Good grief... Why'd she have\nto go and break the window?"
  },
  {
   "id": "ms08_00:191:08",
@@ -3021,13 +3021,13 @@
   "id": "ms08_00:191:10",
   "speaker": "久榮",
   "jp": "動き出した事態の先に、\n一体何があるのか―――",
-  "en": "Now that things are in motion, what on earth lies\nahead--"
+  "en": "Now that things are in motion,\nwhat on earth lies ahead--"
  },
  {
   "id": "ms08_00:191:11",
   "speaker": "久榮",
   "jp": "……キミだけの《{ruby:秘宝|しんじつ}》が\n見つかる事を祈ってるよ。",
-  "en": "...I hope you find a Treasure of truth that's yours\nalone."
+  "en": "...I hope you find a Treasure\nof truth that's yours alone."
  },
  {
   "id": "ms08_00:ksf:0eb9f",

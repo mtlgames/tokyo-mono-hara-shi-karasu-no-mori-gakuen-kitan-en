@@ -9,7 +9,7 @@
   "id": "dg00_01:000:01",
   "speaker": "いちる",
   "jp": "すごいよ、{px}！\nさすがはリーダー！！",
-  "en": "That was amazing, {px}! Just what I'd expect from\nour leader!!"
+  "en": "That was amazing, {px}!\nJust what I'd expect from our leader!!"
  },
  {
   "id": "dg00_01:001:00",
@@ -45,7 +45,7 @@
   "id": "dg00_01:004:00",
   "speaker": "いちる",
   "jp": "うん！\nホント、頼れるリーダーって\n感じだったよ！",
-  "en": "Yeah! You seriously felt like a leader we can count\non!"
+  "en": "Yeah! You seriously felt like\na leader we can count on!"
  },
  {
   "id": "dg00_01:005:00",
@@ -57,7 +57,7 @@
   "id": "dg00_01:005:01",
   "speaker": "いちる",
   "jp": "あたしはその、\n頼れるリーダーって\n感じだと思うけど……。",
-  "en": "I mean, I think you're, like, a leader we can count\non..."
+  "en": "I mean, I think you're, like,\na leader we can count on..."
  },
  {
   "id": "dg00_01:006:00",
@@ -69,7 +69,7 @@
   "id": "dg00_01:006:01",
   "speaker": "いちる",
   "jp": "うーん……なんかホントに\n頼れるリーダー、\nって感じだなあ。",
-  "en": "Hmm... You really do seem like a leader we can\ncount on."
+  "en": "Hmm... You really do seem\nlike a leader we can count on."
  },
  {
   "id": "dg00_01:007:00",
@@ -81,7 +81,7 @@
   "id": "dg00_01:007:01",
   "speaker": "いちる",
   "jp": "あたしはその、\n頼れるリーダー、\nって感じだと思うけど……。",
-  "en": "I mean, I think you're, like, a leader we can count\non..."
+  "en": "I mean, I think you're, like,\na leader we can count on..."
  },
  {
   "id": "dg00_01:008:00",
@@ -111,7 +111,7 @@
   "id": "dg00_01:010:00",
   "speaker": "いちる",
   "jp": "あ、ところで\nいまやっつけた変なの、\nあれって一体、何だったの？",
-  "en": "Oh, by the way, that weird thing we just beat...\nwhat the heck was it?"
+  "en": "Oh, by the way, that weird thing\nwe just beat... what the heck was it?"
  },
  {
   "id": "dg00_01:010:01",
@@ -135,7 +135,7 @@
   "id": "dg00_01:010:04",
   "speaker": "零",
   "jp": "カミフダから流出した情報が\n{ruby:有機体|ゆうきたい}と{ruby:融合|ゆうごう}し、新たな意志と\n生命を持つに至った{ruby:異形|いぎょう}。",
-  "en": "A monstrous being, born when information leaking\nfrom ORDS fuses with an organism and gains a new\nwill and life."
+  "en": "A monstrous being, born when information\nleaking from ORDS fuses with an\norganism and gains a new will and life."
  },
  {
   "id": "dg00_01:010:05",
@@ -147,13 +147,13 @@
   "id": "dg00_01:010:06",
   "speaker": "零",
   "jp": "その対象には当然、\n{ruby:膨大|ぼうだい}な情報量を有する\n人間も含まれている。",
-  "en": "Naturally, that includes humans, who hold vast\namounts of information."
+  "en": "Naturally, that includes humans, who\nhold vast amounts of information."
  },
  {
   "id": "dg00_01:010:07",
   "speaker": "いちる",
   "jp": "つまり、\nカミフダを放っておくと\n{ruby:隠人|お　に}がどんどん増えて―――",
-  "en": "So if we leave the ORDS alone, more and more Oni\nshow up, and--"
+  "en": "So if we leave the ORDS alone,\nmore and more Oni show up, and--"
  },
  {
   "id": "dg00_01:010:08",
@@ -189,7 +189,7 @@
   "id": "dg00_01:010:13",
   "speaker": "伊佐地",
   "jp": "……{ruby:雉明|ちあき}、\nお前は色々と詳しいようだが。\n誰から聞いた？",
-  "en": "...Chiaki, you seem to know a lot about all this. Who\ntold you?"
+  "en": "...Chiaki, you seem to know a lot\nabout all this. Who told you?"
  },
  {
   "id": "dg00_01:010:14",
@@ -249,13 +249,13 @@
   "id": "dg00_01:010:23",
   "speaker": "いちる",
   "jp": "{px}や{ruby:雉明|ちあき}クンと\n仲良くなりたい。",
-  "en": "I wanna be friends with {px} and Chiaki-kun."
+  "en": "I wanna be friends with\n{px} and Chiaki-kun."
  },
  {
   "id": "dg00_01:010:24",
   "speaker": "いちる",
   "jp": "だからもし、\n話したくないコトなら\n聞かない。",
-  "en": "So if it's something you don't want to talk about, I\nwon't ask."
+  "en": "So if it's something you don't\nwant to talk about, I won't ask."
  },
  {
   "id": "dg00_01:010:25",
@@ -291,13 +291,13 @@
   "id": "dg00_01:011:00",
   "speaker": "零",
   "jp": "{px}も……\nそう、思うのか？\nおれを……信じると？",
-  "en": "{px}... Do you feel the same? That you... trust me?"
+  "en": "{px}... Do you feel\nthe same? That you... trust me?"
  },
  {
   "id": "dg00_01:012:00",
   "speaker": "零",
   "jp": "不思議だな……。\nこのおれが、そんなことを\n言われる日が来るとは。",
-  "en": "How strange... I never thought the day would come\nwhen someone would say that to me."
+  "en": "How strange... I never thought the day would\ncome when someone would say that to me."
  },
  {
   "id": "dg00_01:012:01",
@@ -309,7 +309,7 @@
   "id": "dg00_01:012:02",
   "speaker": "零",
   "jp": "きみになら……\nいつか、話せることも\nあるかもしれない。",
-  "en": "With you... there may be things I can talk about,\nsomeday."
+  "en": "With you... there may be things\nI can talk about, someday."
  },
  {
   "id": "dg00_01:012:03",
@@ -327,7 +327,7 @@
   "id": "dg00_01:013:01",
   "speaker": "零",
   "jp": "きみになら……\nいつか、話せることも\nあるかもしれない。",
-  "en": "With you... there may be things I can talk about,\nsomeday."
+  "en": "With you... there may be things\nI can talk about, someday."
  },
  {
   "id": "dg00_01:013:02",
@@ -345,13 +345,13 @@
   "id": "dg00_01:014:01",
   "speaker": "零",
   "jp": "少し、驚いた。\nそんな風に言うひとは、\nあまりいなかったから。",
-  "en": "That surprised me a little. Not many people have\nsaid something like that to me."
+  "en": "That surprised me a little. Not many\npeople have said something like that to me."
  },
  {
   "id": "dg00_01:014:02",
   "speaker": "いちる",
   "jp": "なるほど！\n{px}のコトちょっとだけ\nわかった気がする。",
-  "en": "Gotcha! I feel like I get you a little better now, {px}."
+  "en": "Gotcha! I feel like I get you a little\nbetter now, {px}."
  },
  {
   "id": "dg00_01:014:03",
@@ -375,7 +375,7 @@
   "id": "dg00_01:015:01",
   "speaker": "零",
   "jp": "きみと武藤になら、\nいつか話せることも\nあるかもしれない。",
-  "en": "With you and Muto, there may be things I can talk\nabout, someday."
+  "en": "With you and Muto, there may be\nthings I can talk about, someday."
  },
  {
   "id": "dg00_01:015:02",
@@ -387,7 +387,7 @@
   "id": "dg00_01:015:03",
   "speaker": "いちる",
   "jp": "いつだっていいよ。\n雉明クンが話したいと\n思ったときで。",
-  "en": "Any time's fine. Whenever you feel like talking,\nChiaki-kun."
+  "en": "Any time's fine. Whenever you\nfeel like talking, Chiaki-kun."
  },
  {
   "id": "dg00_01:015:04",
@@ -399,7 +399,7 @@
   "id": "dg00_01:016:00",
   "speaker": "零",
   "jp": "……そうだな。\n真実を語らない者を\n信じることなど出来ない。",
-  "en": "...You're right. No one can trust someone who won't\nspeak the truth."
+  "en": "...You're right. No one can trust\nsomeone who won't speak the truth."
  },
  {
   "id": "dg00_01:016:01",
@@ -411,7 +411,7 @@
   "id": "dg00_01:017:00",
   "speaker": "零",
   "jp": "……そうだな。\n真実を語らない者を\n信じることなど出来ない。",
-  "en": "...You're right. No one can trust someone who won't\nspeak the truth."
+  "en": "...You're right. No one can trust\nsomeone who won't speak the truth."
  },
  {
   "id": "dg00_01:017:01",
@@ -429,7 +429,7 @@
   "id": "dg00_01:018:01",
   "speaker": "零",
   "jp": "きみになら……\nいつか、話せることも\nあるかもしれない。",
-  "en": "With you... there may be things I can talk about,\nsomeday."
+  "en": "With you... there may be things\nI can talk about, someday."
  },
  {
   "id": "dg00_01:018:02",
@@ -447,7 +447,7 @@
   "id": "dg00_01:019:01",
   "speaker": "零",
   "jp": "きみになら……\nいつか、話せることも\nあるかもしれない。",
-  "en": "With you... there may be things I can talk about,\nsomeday."
+  "en": "With you... there may be things\nI can talk about, someday."
  },
  {
   "id": "dg00_01:019:02",
@@ -459,7 +459,7 @@
   "id": "dg00_01:020:00",
   "speaker": "零",
   "jp": "……そうだな。\n真実を語らない者を\n信じることなど出来ない。",
-  "en": "...You're right. No one can trust someone who won't\nspeak the truth."
+  "en": "...You're right. No one can trust\nsomeone who won't speak the truth."
  },
  {
   "id": "dg00_01:020:01",
@@ -477,7 +477,7 @@
   "id": "dg00_01:021:01",
   "speaker": "零",
   "jp": "おれは……きみたちに\n聞いて欲しいと、何処かで\n思っているのかもしれない。",
-  "en": "Maybe... somewhere inside, I want the two of you to\nhear it."
+  "en": "Maybe... somewhere inside, I\nwant the two of you to hear it."
  },
  {
   "id": "dg00_01:021:02",
@@ -489,13 +489,13 @@
   "id": "dg00_01:021:03",
   "speaker": "いちる",
   "jp": "大体あたしたち、\nさっき初めて会った\nばっかりなんだから！",
-  "en": "I mean, we only just met for the first time a little\nwhile ago!"
+  "en": "I mean, we only just met for\nthe first time a little while ago!"
  },
  {
   "id": "dg00_01:021:04",
   "speaker": "いちる",
   "jp": "これからいくらでも\n仲良くなる時間はあるよ！",
-  "en": "There's gonna be all the time in the world to\nbecome friends!"
+  "en": "There's gonna be all the time\nin the world to become friends!"
  },
  {
   "id": "dg00_01:021:05",
@@ -561,7 +561,7 @@
   "id": "dg00_01:022:08",
   "speaker": "いちる",
   "jp": "とにかく早く終わらせて、\nどっかで美味しいものでも\n食べながら話そ！",
-  "en": "Anyway, let's hurry up and finish, then go talk\nsomewhere over something tasty!"
+  "en": "Anyway, let's hurry up and finish, then\ngo talk somewhere over something tasty!"
  },
  {
   "id": "dg00_01:022:09",

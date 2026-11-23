@@ -21,13 +21,13 @@
   "id": "fn11_26:004:01",
   "speaker": "澁川",
   "jp": "待ち合わせに使うのは構わんが\n飲み物くらいは注文して\nくれると助かる。",
-  "en": "You're welcome to meet someone here, but it'd help\nif you ordered at least a drink."
+  "en": "You're welcome to meet someone here, but\nit'd help if you ordered at least a drink."
  },
  {
   "id": "fn11_26:004:02",
   "speaker": "澁川",
   "jp": "お前くらいの年頃なら、\n今日は何かと大事な約束の\nある日だろう？",
-  "en": "At your age, today's a day for important dates, isn't\nit?"
+  "en": "At your age, today's a day\nfor important dates, isn't it?"
  },
  {
   "id": "fn11_26:005:00",
@@ -117,7 +117,7 @@
   "id": "fn11_26:015:00",
   "speaker": "澁川",
   "jp": "今日は珈琲の湯気も\n……心なしか、浮かれている。",
-  "en": "Even the steam off the coffee seems... a little giddy\ntoday."
+  "en": "Even the steam off the coffee\nseems... a little giddy today."
  },
  {
   "id": "fn11_26:015:01",
@@ -135,43 +135,43 @@
   "id": "fn11_26:016:01",
   "speaker": "澁川",
   "jp": "今日は、街が賑やかだな。\n……悪くない騒がしさだ。",
-  "en": "The streets are lively today. ...Not a bad kind of\nnoise."
+  "en": "The streets are lively today.\n...Not a bad kind of noise."
  },
  {
   "id": "fn11_26:016:02",
   "speaker": "澁川",
   "jp": "こんな日は大切な相手と\nゆっくり過ごすのが一番だが、",
-  "en": "On a day like this, it's best to spend some quiet\ntime with someone special,"
+  "en": "On a day like this, it's best to spend\nsome quiet time with someone special,"
  },
  {
   "id": "fn11_26:016:03",
   "speaker": "澁川",
   "jp": "気の合う仲間と馬鹿騒ぎして\n夜を明かすのも悪くない。",
-  "en": "but raising hell with good friends until dawn isn't\nbad either."
+  "en": "but raising hell with good friends\nuntil dawn isn't bad either."
  },
  {
   "id": "fn11_26:016:04",
   "speaker": "澁川",
   "jp": "俺も……若い頃は\n馬鹿ばかりやっていた。",
-  "en": "I... did nothing but stupid things when I was young,\ntoo."
+  "en": "I... did nothing but stupid\nthings when I was young, too."
  },
  {
   "id": "fn11_26:016:05",
   "speaker": "澁川",
   "jp": "それがいまでは、\n新宿なんて大都市の片隅で\n喫茶店の親父をしている。",
-  "en": "And now here I am, running a coffee shop in a\ncorner of a big city like Shinjuku."
+  "en": "And now here I am, running a coffee shop\nin a corner of a big city like Shinjuku."
  },
  {
   "id": "fn11_26:016:06",
   "speaker": "澁川",
   "jp": "{px}。\nお前の人生も……\nどう転がるか、わからない。",
-  "en": "{px}. Your life, too... there's no telling where it'll roll."
+  "en": "{px}. Your life, too...\nthere's no telling where it'll roll."
  },
  {
   "id": "fn11_26:016:07",
   "speaker": "澁川",
   "jp": "そう……もしかしたら、\nいつかこの店を\n継いでいるかもしれんぞ？",
-  "en": "Yeah... Maybe someday you'll even be the one\nrunning this place."
+  "en": "Yeah... Maybe someday you'll even\nbe the one running this place."
  },
  {
   "id": "fn11_26:017:00",
@@ -183,7 +183,7 @@
   "id": "fn11_26:017:01",
   "speaker": "澁川",
   "jp": "{px}、\nお前にならこの店を\n譲るのもいいかもしれん。",
-  "en": "{px}, handing this shop over to you might not be so\nbad."
+  "en": "{px}, handing this shop\nover to you might not be so bad."
  },
  {
   "id": "fn11_26:017:02",
@@ -231,7 +231,7 @@
   "id": "fn11_26:020:01",
   "speaker": "澁川",
   "jp": "気が向いたら、珈琲の\n淹れ方でも教えてやろう。",
-  "en": "If I feel like it, maybe I'll teach you how to brew\ncoffee."
+  "en": "If I feel like it, maybe I'll\nteach you how to brew coffee."
  },
  {
   "id": "fn11_26:021:00",
@@ -261,7 +261,7 @@
   "id": "fn11_26:023:01",
   "speaker": "澁川",
   "jp": "なに、俺もまだ\n引退するつもりはないさ。\nまだ……目的がある。",
-  "en": "Don't worry, I've got no plans to retire yet. I still...\nhave something to do."
+  "en": "Don't worry, I've got no plans to retire\nyet. I still... have something to do."
  },
  {
   "id": "fn11_26:024:00",
@@ -285,7 +285,7 @@
   "id": "fn11_26:026:00",
   "speaker": "澁川",
   "jp": "どうあろうとも……\nお前の、選択次第だ。\nだが……{px}。",
-  "en": "Whatever happens... it's your choice. But... {px}."
+  "en": "Whatever happens... it's your\nchoice. But... {px}."
  },
  {
   "id": "fn11_26:026:01",
@@ -303,7 +303,7 @@
   "id": "fn11_26:027:00",
   "speaker": "澁川",
   "jp": "……{px}。\nお前はもう既に人生で\n大切な事を知っている。",
-  "en": "...{px}. You already know what matters in life."
+  "en": "...{px}. You already\nknow what matters in life."
  },
  {
   "id": "fn11_26:027:01",
@@ -321,7 +321,7 @@
   "id": "fn11_26:027:03",
   "speaker": "澁川",
   "jp": "いつか、聞いて欲しい。\n古い、昔話を……。",
-  "en": "Someday, I'd like you to hear it. An old story from\nlong ago..."
+  "en": "Someday, I'd like you to hear\nit. An old story from long ago..."
  },
  {
   "id": "fn11_26:028:00",
@@ -351,7 +351,7 @@
   "id": "fn11_26:029:02",
   "speaker": "澁川",
   "jp": "……いつか、聞いて欲しい。\n古い、昔話を……。",
-  "en": "...Someday, I'd like you to hear it. An old story from\nlong ago..."
+  "en": "...Someday, I'd like you to hear\nit. An old story from long ago..."
  },
  {
   "id": "fn11_26:030:00",
@@ -363,7 +363,7 @@
   "id": "fn11_26:030:01",
   "speaker": "澁川",
   "jp": "その真っ直ぐな目を、\nどうか忘れないで欲しい。",
-  "en": "Please, don't ever forget that honest look in your\neyes."
+  "en": "Please, don't ever forget that\nhonest look in your eyes."
  },
  {
   "id": "fn11_26:031:00",
@@ -375,13 +375,13 @@
   "id": "fn11_26:031:01",
   "speaker": "澁川",
   "jp": "ただ、歳を食い、経験を積み\n失ってしまうものもある……。",
-  "en": "It's just that as you age and gain experience, some\nthings get lost..."
+  "en": "It's just that as you age and gain\nexperience, some things get lost..."
  },
  {
   "id": "fn11_26:031:02",
   "speaker": "澁川",
   "jp": "そういうものほど、\n得てして人生にとって\n大切な物だったりするんだ。",
-  "en": "And those are so often the things that mattered\nmost in life."
+  "en": "And those are so often the\nthings that mattered most in life."
  },
  {
   "id": "fn11_26:032:00",
@@ -393,7 +393,7 @@
   "id": "fn11_26:032:01",
   "speaker": "澁川",
   "jp": "いまは、まだわからない。\nそういうものか……。",
-  "en": "You don't understand it yet. I suppose that's how it\nis..."
+  "en": "You don't understand it yet.\nI suppose that's how it is..."
  },
  {
   "id": "fn11_26:032:02",
@@ -411,19 +411,19 @@
   "id": "fn11_26:033:01",
   "speaker": "澁川",
   "jp": "ただ、歳を食い、経験を積み\n失ってしまうものもある……。",
-  "en": "It's just that as you age and gain experience, some\nthings get lost..."
+  "en": "It's just that as you age and gain\nexperience, some things get lost..."
  },
  {
   "id": "fn11_26:033:02",
   "speaker": "澁川",
   "jp": "そういうものほど、\n得てして人生にとって\n大切な物だったりするんだ。",
-  "en": "And those are so often the things that mattered\nmost in life."
+  "en": "And those are so often the\nthings that mattered most in life."
  },
  {
   "id": "fn11_26:034:00",
   "speaker": "澁川",
   "jp": "……そうか。\nだからこそ、お前は人に\n笑顔を与えられるのかもな。",
-  "en": "...I see. Maybe that's exactly why you can make\npeople smile."
+  "en": "...I see. Maybe that's exactly why\nyou can make people smile."
  },
  {
   "id": "fn11_26:034:01",

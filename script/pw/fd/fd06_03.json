@@ -3,7 +3,7 @@
   "id": "fd06_03:001:00",
   "speaker": "燈治",
   "jp": "よう、お前も来たのか。\nこの寒いのに、物好きだな。",
-  "en": "Hey, you came too, huh? In this cold? You're a\nweird one."
+  "en": "Hey, you came too, huh? In\nthis cold? You're a weird one."
  },
  {
   "id": "fd06_03:001:01",
@@ -21,25 +21,25 @@
   "id": "fd06_03:001:03",
   "speaker": "燈治",
   "jp": "あー、ッたく……\nあの正義野郎のせいで\n妙にモヤモヤしやがる。",
-  "en": "Ahh, dammit... That justice freak's got me all wound\nup for some reason."
+  "en": "Ahh, dammit... That justice freak's got\nme all wound up for some reason."
  },
  {
   "id": "fd06_03:001:04",
   "speaker": "燈治",
   "jp": "闘う力がある奴同士の\n喧嘩ってのは、\n基本、殴り合いだろ。",
-  "en": "When two guys who can fight get into it, it's\nbasically a slugfest, right?"
+  "en": "When two guys who can fight get\ninto it, it's basically a slugfest, right?"
  },
  {
   "id": "fd06_03:001:05",
   "speaker": "燈治",
   "jp": "俺がお前に会う以前に関わって\nきた{ruby:喧嘩|の}は、大体そうだ。\n勝った方が正しい。",
-  "en": "The fights I got mixed up in before I met you were\nmostly like that. Whoever wins is right."
+  "en": "The fights I got mixed up in before I met you\nwere mostly like that. Whoever wins is right."
  },
  {
   "id": "fd06_03:001:06",
   "speaker": "燈治",
   "jp": "自分で言ってりゃ世話ねェが、\nまァ……内容が\n単純だったんだろうな。",
-  "en": "Not that I got room to talk, but... I guess they were\njust simple, y'know?"
+  "en": "Not that I got room to talk, but... I\nguess they were just simple, y'know?"
  },
  {
   "id": "fd06_03:001:07",
@@ -51,7 +51,7 @@
   "id": "fd06_03:001:08",
   "speaker": "燈治",
   "jp": "けど、そうじゃねェ喧嘩も\nある……むしろそっちの方が\n多いのかもしれねェ。",
-  "en": "But some fights ain't like that... Maybe there's even\nmore of those kind."
+  "en": "But some fights ain't like that... Maybe\nthere's even more of those kind."
  },
  {
   "id": "fd06_03:001:09",
@@ -63,7 +63,7 @@
   "id": "fd06_03:001:10",
   "speaker": "燈治",
   "jp": "なァ、{px}。\nお前はどうだ？\n拳を使わねェ喧嘩ってのはよ。",
-  "en": "Hey, {px}. What about you? Fights where you don't\nuse your fists?"
+  "en": "Hey, {px}. What about you?\nFights where you don't use your fists?"
  },
  {
   "id": "fd06_03:002:00",
@@ -75,7 +75,7 @@
   "id": "fd06_03:002:01",
   "speaker": "燈治",
   "jp": "まァ、それで何でも解決すりゃ\n世の中もっと平和だろうぜ。",
-  "en": "Well, if that settled everything, the world'd be a lot\nmore peaceful."
+  "en": "Well, if that settled everything, the\nworld'd be a lot more peaceful."
  },
  {
   "id": "fd06_03:003:00",
@@ -87,7 +87,7 @@
   "id": "fd06_03:003:01",
   "speaker": "燈治",
   "jp": "けど、お前がそうして\n構えててくれりゃ、\n俺も動きやすいぜ。",
-  "en": "But if you're ready like that, it makes it easier for\nme to move too."
+  "en": "But if you're ready like that, it\nmakes it easier for me to move too."
  },
  {
   "id": "fd06_03:004:00",
@@ -99,7 +99,7 @@
   "id": "fd06_03:004:01",
   "speaker": "燈治",
   "jp": "お前のそういう所が\nわかってもらえれば\n筋は通りそうな気がするぜ。",
-  "en": "If people get that side of you, I figure things'll work\nout."
+  "en": "If people get that side of you,\nI figure things'll work out."
  },
  {
   "id": "fd06_03:005:00",
@@ -117,7 +117,7 @@
   "id": "fd06_03:006:01",
   "speaker": "燈治",
   "jp": "まァ、お前のそういうノリが\n連んでて楽しいところでも\nあるけどよ。",
-  "en": "Well, that attitude of yours is part of what makes\nhangin' out with you fun."
+  "en": "Well, that attitude of yours is part of\nwhat makes hangin' out with you fun."
  },
  {
   "id": "fd06_03:007:00",
@@ -147,7 +147,7 @@
   "id": "fd06_03:009:00",
   "speaker": "燈治",
   "jp": "……ああ、\n悩んで解決策が\n出てくるならいいよな。",
-  "en": "...Yeah, it'd be nice if worryin' about it turned up an\nanswer."
+  "en": "...Yeah, it'd be nice if worryin'\nabout it turned up an answer."
  },
  {
   "id": "fd06_03:009:01",
@@ -177,7 +177,7 @@
   "id": "fd06_03:011:02",
   "speaker": "燈治",
   "jp": "……とは言え、\nあいつも結局は拳で解決してる\nような気がするけどな。",
-  "en": "...Then again, I got a feelin' he ends up settlin' things\nwith his fists too."
+  "en": "...Then again, I got a feelin' he ends\nup settlin' things with his fists too."
  },
  {
   "id": "fd06_03:012:00",
@@ -189,6 +189,6 @@
   "id": "fd06_03:012:01",
   "speaker": "燈治",
   "jp": "{ruby:嘉門|かもん}以上に面倒な奴は\nいねェだろうが、\n用心はしとこうぜ。",
-  "en": "I doubt there's anyone more of a pain than Kamon,\nbut let's stay on guard."
+  "en": "I doubt there's anyone more of a pain\nthan Kamon, but let's stay on guard."
  }
 ]

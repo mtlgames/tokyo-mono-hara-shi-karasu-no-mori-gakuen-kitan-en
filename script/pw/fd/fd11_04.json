@@ -15,7 +15,7 @@
   "id": "fd11_04:001:02",
   "speaker": "弥紀",
   "jp": "あなたは鴉乃杜に、いなくちゃ\nならない人なんだなって。",
-  "en": "You're someone Karasu no Mori just can't do\nwithout."
+  "en": "You're someone Karasu no\nMori just can't do without."
  },
  {
   "id": "fd11_04:001:03",
@@ -57,7 +57,7 @@
   "id": "fd11_04:003:01",
   "speaker": "弥紀",
   "jp": "本当に……\nずっと前からこうして\n一緒にいたみたい。",
-  "en": "Really... It's like we've been together like this since\nway back."
+  "en": "Really... It's like we've been\ntogether like this since way back."
  },
  {
   "id": "fd11_04:004:00",
@@ -69,7 +69,7 @@
   "id": "fd11_04:004:01",
   "speaker": "弥紀",
   "jp": "そうやって、{px}と\n壇くんが一緒にいて、\n巴が怒りに来て……。",
-  "en": "You, {px}, hanging out with Dan-kun, Tomoe coming\nover to yell at you two..."
+  "en": "You, {px}, hanging out with\nDan-kun, Tomoe coming over to yell at you two..."
  },
  {
   "id": "fd11_04:004:02",
@@ -87,7 +87,7 @@
   "id": "fd11_04:005:01",
   "speaker": "弥紀",
   "jp": "あなたがいない教室を\n考えるのは……嫌だもの。",
-  "en": "Picturing the classroom without you in it... I'd hate\nthat."
+  "en": "Picturing the classroom without\nyou in it... I'd hate that."
  },
  {
   "id": "fd11_04:006:00",
@@ -99,7 +99,7 @@
   "id": "fd11_04:006:01",
   "speaker": "弥紀",
   "jp": "そっか、\n{px}はもう\n{ruby:鴉乃杜|わたしたち}だけじゃなくて……",
-  "en": "I see... You don't just belong to us at Karasu no\nMori anymore, do you, {px}..."
+  "en": "I see... You don't just belong to us at Karasu\nno Mori anymore, do you, {px}..."
  },
  {
   "id": "fd11_04:006:02",
@@ -117,7 +117,7 @@
   "id": "fd11_04:007:01",
   "speaker": "弥紀",
   "jp": "……うん。\n{px}はもう\n{ruby:鴉乃杜|わたしたち}だけじゃなくて……",
-  "en": "...Yeah. You don't just belong to us at Karasu no\nMori anymore, do you, {px}..."
+  "en": "...Yeah. You don't just belong to us at Karasu\nno Mori anymore, do you, {px}..."
  },
  {
   "id": "fd11_04:007:02",
@@ -135,7 +135,7 @@
   "id": "fd11_04:008:01",
   "speaker": "弥紀",
   "jp": "そうだよね。\n{px}はもう\n{ruby:鴉乃杜|わたしたち}だけじゃなくて",
-  "en": "That's right. You don't just belong to us at Karasu\nno Mori anymore, {px}."
+  "en": "That's right. You don't just belong to us at\nKarasu no Mori anymore, {px}."
  },
  {
   "id": "fd11_04:008:02",
@@ -159,7 +159,7 @@
   "id": "fd11_04:009:01",
   "speaker": "弥紀",
   "jp": "{px}はもう\n{ruby:鴉乃杜|わたしたち}だけじゃなくて……",
-  "en": "You don't just belong to us at Karasu no Mori\nanymore, do you, {px}..."
+  "en": "You don't just belong to us at Karasu no\nMori anymore, do you, {px}..."
  },
  {
   "id": "fd11_04:009:02",

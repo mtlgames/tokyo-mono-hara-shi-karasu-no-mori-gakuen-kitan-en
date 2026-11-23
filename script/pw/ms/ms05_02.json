@@ -21,7 +21,7 @@
   "id": "ms05_02:000:03",
   "speaker": "燈治",
   "jp": "……と、どうやら、\n呼んでねェ奴らも\nいるみてェだがな。",
-  "en": "...Though it looks like some folks we didn't invite\nshowed up too."
+  "en": "...Though it looks like some folks\nwe didn't invite showed up too."
  },
  {
   "id": "ms05_02:000:04",
@@ -117,7 +117,7 @@
   "id": "ms05_02:003:00",
   "speaker": "輪",
   "jp": "{px}。\nこんなやつら蹴散らして\n早くアイツらを追おう！！",
-  "en": "{px}! Let's scatter these guys and go after the others,\nquick!!"
+  "en": "{px}! Let's scatter these\nguys and go after the others, quick!!"
  },
  {
   "id": "ms05_02:004:00",
@@ -141,7 +141,7 @@
   "id": "ms05_02:006:00",
   "speaker": "輪",
   "jp": "うんッ！！\nボクが来たからには\nもう安心だからなッ！！",
-  "en": "Yeah!! Now that I'm here, you got nothin' to worry\nabout!!"
+  "en": "Yeah!! Now that I'm here, you\ngot nothin' to worry about!!"
  },
  {
   "id": "ms05_02:007:00",
@@ -183,7 +183,7 @@
   "id": "ms05_02:013:00",
   "speaker": "輪",
   "jp": "よーし、他の奴らも\nボクの忍法で―――",
-  "en": "Alright, time for the rest of 'em to get a taste of my\nninja art--"
+  "en": "Alright, time for the rest of 'em\nto get a taste of my ninja art--"
  },
  {
   "id": "ms05_02:013:01",
@@ -213,7 +213,7 @@
   "id": "ms05_02:015:02",
   "speaker": "絢人",
   "jp": "やれやれ。\n君は本当に\n前しか見ていないね。",
-  "en": "Good grief. You really do only ever look straight\nahead, don't you?"
+  "en": "Good grief. You really do only ever\nlook straight ahead, don't you?"
  },
  {
   "id": "ms05_02:015:03",
@@ -255,19 +255,19 @@
   "id": "ms05_02:017:00",
   "speaker": "絢人",
   "jp": "そりゃあ、まあ、\n今日、盗賊団が動くのは\nわかっていたからね。",
-  "en": "Well, naturally. I knew the bandits would be making\ntheir move today."
+  "en": "Well, naturally. I knew the bandits\nwould be making their move today."
  },
  {
   "id": "ms05_02:017:01",
   "speaker": "絢人",
   "jp": "{px}が困って\nいるんじゃないかと思って\n手を貸しに来たんだが……",
-  "en": "I thought you might be in a bind, {px}, so I came to\nlend a hand..."
+  "en": "I thought you might be in a bind,\n{px}, so I came to lend a hand..."
  },
  {
   "id": "ms05_02:017:02",
   "speaker": "絢人",
   "jp": "ひょっとして、\n余計なお世話だったかな？",
-  "en": "But perhaps I was butting in where I wasn't\nneeded?"
+  "en": "But perhaps I was butting\nin where I wasn't needed?"
  },
  {
   "id": "ms05_02:018:00",
@@ -279,7 +279,7 @@
   "id": "ms05_02:018:01",
   "speaker": "絢人",
   "jp": "ふッ……、\n君は人をその気に\nさせるのが上手いな。",
-  "en": "Heh... You certainly know how to get a person fired\nup."
+  "en": "Heh... You certainly know\nhow to get a person fired up."
  },
  {
   "id": "ms05_02:019:00",
@@ -297,7 +297,7 @@
   "id": "ms05_02:021:00",
   "speaker": "絢人",
   "jp": "まあ確かに、\n僕が来るまでも\nなかっただろうけどね。",
-  "en": "Well, true enough. You probably didn't need me to\ncome."
+  "en": "Well, true enough. You probably\ndidn't need me to come."
  },
  {
   "id": "ms05_02:022:00",
@@ -309,7 +309,7 @@
   "id": "ms05_02:022:01",
   "speaker": "絢人",
   "jp": "まあ、迷惑でなかったなら\nそれでいいさ。",
-  "en": "Well, as long as I wasn't a nuisance, that's all that\nmatters."
+  "en": "Well, as long as I wasn't a\nnuisance, that's all that matters."
  },
  {
   "id": "ms05_02:023:00",
@@ -333,7 +333,7 @@
   "id": "ms05_02:024:01",
   "speaker": "絢人",
   "jp": "迷惑でなかったなら\nそれでいいさ。",
-  "en": "As long as I wasn't a nuisance, that's all that\nmatters."
+  "en": "As long as I wasn't a\nnuisance, that's all that matters."
  },
  {
   "id": "ms05_02:025:00",
@@ -393,7 +393,7 @@
   "id": "ms05_02:028:03",
   "speaker": "白",
   "jp": "{px}、こんな雑魚共に\n構っている{ruby:暇|いとま}はないぞえ。",
-  "en": "{px}, we have no time to waste on such small fry."
+  "en": "{px}, we have no\ntime to waste on such small fry."
  },
  {
   "id": "ms05_02:028:04",
@@ -417,7 +417,7 @@
   "id": "ms05_02:029:02",
   "speaker": "白",
   "jp": "……まったく、\n忍ならもう少し周囲に\n気を配らぬか。",
-  "en": "...Honestly. A ninja ought to pay a little more heed\nto her surroundings."
+  "en": "...Honestly. A ninja ought to pay a\nlittle more heed to her surroundings."
  },
  {
   "id": "ms05_02:029:03",
@@ -435,7 +435,7 @@
   "id": "ms05_02:030:01",
   "speaker": "白",
   "jp": "{px}、雑魚は任せ、\n妾たちは先に{ruby:洞|うろ}へ\n向かうとしよう。",
-  "en": "{px}, leave the small fry to them. We shall go on\nahead to the Hollow."
+  "en": "{px}, leave the small fry to\nthem. We shall go on ahead to the Hollow."
  },
  {
   "id": "ms05_02:030:02",

@@ -21,13 +21,13 @@
   "id": "dg08_01:001:03",
   "speaker": "白",
   "jp": "札を集め、\n封じる事が出来るのは\n妾の選んだ執行者のみ。",
-  "en": "Only the Executor I have chosen may gather and\nseal the cards."
+  "en": "Only the Executor I have chosen\nmay gather and seal the cards."
  },
  {
   "id": "dg08_01:001:04",
   "speaker": "白",
   "jp": "大人しく{px}に\n任せておけば―――",
-  "en": "Had you simply left it to {px}, as you ought--"
+  "en": "Had you simply left it to\n{px}, as you ought--"
  },
  {
   "id": "dg08_01:001:05",
@@ -51,13 +51,13 @@
   "id": "dg08_01:001:08",
   "speaker": "いちる",
   "jp": "何でよ！！\nどうして、{px}を\n執行者なんかに選んだの！？",
-  "en": "Why!? Why did you choose {px} to be some\nExecutor!?"
+  "en": "Why!? Why did you choose\n{px} to be some Executor!?"
  },
  {
   "id": "dg08_01:001:09",
   "speaker": "いちる",
   "jp": "元々は、違うんでしょう？\n{px}は、\n関係ないじゃない！！",
-  "en": "It wasn't supposed to be like this in the first place,\nwas it? {px} has nothing to do with this!!"
+  "en": "It wasn't supposed to be like this in the\nfirst place, was it? {px}\nhas nothing to do with this!!"
  },
  {
   "id": "dg08_01:001:10",
@@ -147,7 +147,7 @@
   "id": "dg08_01:005:01",
   "speaker": "いちる",
   "jp": "{px}のばかッ！！\n何でそんなコト言うの！？",
-  "en": "{px}, you idiot!! Why would you say something like\nthat!?"
+  "en": "{px}, you idiot!! Why\nwould you say something like that!?"
  },
  {
   "id": "dg08_01:006:00",
@@ -243,13 +243,13 @@
   "id": "dg08_01:014:00",
   "speaker": "いちる",
   "jp": "どうして？\nそんなに花札が大事なの？",
-  "en": "Why? Do the hanafuda really matter that much to\nyou?"
+  "en": "Why? Do the hanafuda really\nmatter that much to you?"
  },
  {
   "id": "dg08_01:014:01",
   "speaker": "いちる",
   "jp": "偶然選ばれただけじゃない。\n別に{px}が\nやらなくたって―――",
-  "en": "You were only chosen by chance, weren't you? It\ndoesn't have to be {px} who--"
+  "en": "You were only chosen by chance, weren't you?\nIt doesn't have to be {px} who--"
  },
  {
   "id": "dg08_01:014:02",
@@ -261,37 +261,37 @@
   "id": "dg08_01:015:00",
   "speaker": "白",
   "jp": "白札を得たとて、\n其方は執行者には成れぬ。",
-  "en": "Even were you to obtain the White Card, you could\nnot become the Executor."
+  "en": "Even were you to obtain the White Card,\nyou could not become the Executor."
  },
  {
   "id": "dg08_01:015:01",
   "speaker": "いちる",
   "jp": "何よそれ……。\n{ruby:白札|あなた}を持った人が\n執行者なんじゃないの？",
-  "en": "What's that supposed to mean...? Isn't whoever holds\nyou--the White Card--the Executor?"
+  "en": "What's that supposed to mean...? Isn't whoever\nholds you--the White Card--the Executor?"
  },
  {
   "id": "dg08_01:015:02",
   "speaker": "白",
   "jp": "……本来、呪言花札の執行者と\nなる資格があるのは、賀茂の\n血脈に連なる者だけじゃ。",
-  "en": "...By rights, only those who descend from the Kamo\nbloodline are fit to become the Executor of the\nCurse Hanafuda."
+  "en": "...By rights, only those who descend from\nthe Kamo bloodline are fit to become the\nExecutor of the Curse Hanafuda."
  },
  {
   "id": "dg08_01:015:03",
   "speaker": "白",
   "jp": "呪言花札をいまの形と成した\n賀茂家の血の記憶こそが、札を\n自在に操る事を可能とする。",
-  "en": "The memory in the blood of the Kamo house, who\ngave the Curse Hanafuda their present form, is what\nallows one to wield the cards at will."
+  "en": "The memory in the blood of the Kamo house,\nwho gave the Curse Hanafuda their present form,\nis what allows one to wield the cards at will."
  },
  {
   "id": "dg08_01:015:04",
   "speaker": "白",
   "jp": "……じゃが{px}の身体は\n妾を媒介とし、既に多くの\n札と馴染んでおる。",
-  "en": "...Yet through me as its medium, {px}'s body has\nalready grown attuned to many of the cards."
+  "en": "...Yet through me as its medium,\n{px}'s body has already\ngrown attuned to many of the cards."
  },
  {
   "id": "dg08_01:015:05",
   "speaker": "白",
   "jp": "ともすれば、{px}は\n賀茂家の血脈より大きな力を\n秘めているやもしれぬ……。",
-  "en": "Indeed, {px} may well hold a power greater than the\nKamo bloodline itself..."
+  "en": "Indeed, {px} may well hold a\npower greater than the Kamo bloodline itself..."
  },
  {
   "id": "dg08_01:015:06",
@@ -315,19 +315,19 @@
   "id": "dg08_01:015:09",
   "speaker": "白",
   "jp": "其方に資格があったとて、\nいまとなっては同じ事じゃ。",
-  "en": "Even were you qualified, it would make no\ndifference now."
+  "en": "Even were you qualified, it\nwould make no difference now."
  },
  {
   "id": "dg08_01:015:10",
   "speaker": "白",
   "jp": "{px}と{ruby:花札|わらわたち}は、\n既に深く結びつけられた。\nこれを断ち切るには―――",
-  "en": "{px} and we hanafuda are already deeply bound\ntogether. To sever that bond--"
+  "en": "{px} and we hanafuda are already\ndeeply bound together. To sever that bond--"
  },
  {
   "id": "dg08_01:015:11",
   "speaker": "白",
   "jp": "命ごと絶つ他に\n最早術はない。",
-  "en": "there is no longer any way but to sever the very\nlife it is bound to."
+  "en": "there is no longer any way but to\nsever the very life it is bound to."
  },
  {
   "id": "dg08_01:015:12",
@@ -393,7 +393,7 @@
   "id": "dg08_01:015:22",
   "speaker": "白",
   "jp": "何も、なかった。\nそうじゃろう、{px}。",
-  "en": "Nothing happened. Is that not so, {px}?"
+  "en": "Nothing happened. Is that\nnot so, {px}?"
  },
  {
   "id": "dg08_01:016:00",
@@ -405,7 +405,7 @@
   "id": "dg08_01:016:01",
   "speaker": "白",
   "jp": "じゃがその戯れ言も、\nいまは……悪うないの。",
-  "en": "And yet such nonsense... is not unwelcome, just\nnow."
+  "en": "And yet such nonsense... is\nnot unwelcome, just now."
  },
  {
   "id": "dg08_01:017:00",
@@ -417,7 +417,7 @@
   "id": "dg08_01:017:01",
   "speaker": "白",
   "jp": "其方のお人好しが\n{ruby:伝染|う　つ}っただけじゃ。",
-  "en": "Your soft heart has merely rubbed off on me, that is\nall."
+  "en": "Your soft heart has merely\nrubbed off on me, that is all."
  },
  {
   "id": "dg08_01:018:00",
@@ -429,7 +429,7 @@
   "id": "dg08_01:018:01",
   "speaker": "白",
   "jp": "まったく……。\n其方にかかっては\n妾の気遣いも台無しじゃな。",
-  "en": "Honestly... With you, all my consideration goes to\nwaste."
+  "en": "Honestly... With you, all my\nconsideration goes to waste."
  },
  {
   "id": "dg08_01:019:00",
@@ -453,7 +453,7 @@
   "id": "dg08_01:020:01",
   "speaker": "白",
   "jp": "せっかく妾がふぉろーして\nやっておるというのに……。",
-  "en": "And here I go to the trouble of \"following up\" for\nyou..."
+  "en": "And here I go to the trouble\nof \"following up\" for you..."
  },
  {
   "id": "dg08_01:021:00",
@@ -465,13 +465,13 @@
   "id": "dg08_01:021:01",
   "speaker": "白",
   "jp": "せっかく妾がふぉろーして\nやっておるというのに……。",
-  "en": "And here I go to the trouble of \"following up\" for\nyou..."
+  "en": "And here I go to the trouble\nof \"following up\" for you..."
  },
  {
   "id": "dg08_01:022:00",
   "speaker": "白",
   "jp": "……妾のせっかくのふぉろーが\nそんなに気に入らないと\n申すか。",
-  "en": "...Do you mean to say my kind \"follow-up\"\ndispleases you so?"
+  "en": "...Do you mean to say my kind\n\"follow-up\" displeases you so?"
  },
  {
   "id": "dg08_01:023:00",
@@ -483,7 +483,7 @@
   "id": "dg08_01:023:01",
   "speaker": "白",
   "jp": "せっかく妾がふぉろーして\nやっておるというのに……。",
-  "en": "And here I go to the trouble of \"following up\" for\nyou..."
+  "en": "And here I go to the trouble\nof \"following up\" for you..."
  },
  {
   "id": "dg08_01:024:00",
@@ -525,25 +525,25 @@
   "id": "dg08_01:025:05",
   "speaker": "燈治",
   "jp": "ともかく、上じゃ妙な奴らが\nお前を探し回ってる。",
-  "en": "Anyway, there's some weird guys up top huntin' all\nover for you."
+  "en": "Anyway, there's some weird guys\nup top huntin' all over for you."
  },
  {
   "id": "dg08_01:025:06",
   "speaker": "燈治",
   "jp": "牧村と教頭が、校内からは\n追い払ったみてェだが、",
-  "en": "Looks like Makimura and the vice principal ran 'em\noff the campus,"
+  "en": "Looks like Makimura and the vice\nprincipal ran 'em off the campus,"
  },
  {
   "id": "dg08_01:025:07",
   "speaker": "燈治",
   "jp": "何が何でも逃がさねェって\n構えで、学校の周りを\n張ってやがるぜ。",
-  "en": "but they ain't lettin' you slip away, no matter what.\nThey're stakin' out the whole school."
+  "en": "but they ain't lettin' you slip away, no matter\nwhat. They're stakin' out the whole school."
  },
  {
   "id": "dg08_01:025:08",
   "speaker": "弥紀",
   "jp": "巴に考えがあるんだって。\n一旦学校へ戻ろう？",
-  "en": "Tomoe says she's got an idea. Let's head back to\nschool for now, okay?"
+  "en": "Tomoe says she's got an idea. Let's\nhead back to school for now, okay?"
  },
  {
   "id": "dg08_01:025:09",

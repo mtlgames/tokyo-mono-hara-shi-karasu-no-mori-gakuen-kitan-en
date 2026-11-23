@@ -33,7 +33,7 @@
   "id": "fn06_26:005:02",
   "speaker": "澁川",
   "jp": "……{px}。\n甘味料を持っていないか？",
-  "en": "...{px}. Do you have any sweetener on you?"
+  "en": "...{px}. Do you\nhave any sweetener on you?"
  },
  {
   "id": "fn06_26:007:00",
@@ -63,7 +63,7 @@
   "id": "fn06_26:009:00",
   "speaker": "澁川",
   "jp": "しかし在庫管理は完璧のはず。\n今日の注文で何か……。",
-  "en": "But my stock management should be perfect.\nSomething in today's orders..."
+  "en": "But my stock management should be\nperfect. Something in today's orders..."
  },
  {
   "id": "fn06_26:009:01",
@@ -93,7 +93,7 @@
   "id": "fn06_26:011:00",
   "speaker": "澁川",
   "jp": "甘味料なんだが……\nもし持っていたら\n譲ってもらえないか。",
-  "en": "About that sweetener... If you have any, could you\nspare me some?"
+  "en": "About that sweetener... If you have\nany, could you spare me some?"
  },
  {
   "id": "fn06_26:013:00",

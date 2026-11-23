@@ -3,7 +3,7 @@
   "id": "dg06_00:000:00",
   "speaker": "気位の高い声",
   "jp": "―――どういうつもりや！\nええ加減にしい！！",
-  "en": "--What do you think you're doing! That's quite\nenough!!"
+  "en": "--What do you think you're\ndoing! That's quite enough!!"
  },
  {
   "id": "dg06_00:000:01",
@@ -15,7 +15,7 @@
   "id": "dg06_00:000:02",
   "speaker": "気位の高い声",
   "jp": "花札を狙うやなんて……\nうちが黙ってる訳ない、って\nわかってたやろ？",
-  "en": "Going after the hanafuda... You knew I'd never stand\nby and let that happen, didn't you?"
+  "en": "Going after the hanafuda... You knew I'd never\nstand by and let that happen, didn't you?"
  },
  {
   "id": "dg06_00:000:03",
@@ -33,7 +33,7 @@
   "id": "dg06_00:000:05",
   "speaker": "気位の高い声",
   "jp": "如何な事情があろうと、\n{ruby:幸徳路|こうとくじ}を侮辱する事は\nうちが許しまへん。",
-  "en": "Whatever your reasons may be, I will not permit\nanyone to insult the Kotokuji."
+  "en": "Whatever your reasons may be, I will\nnot permit anyone to insult the Kotokuji."
  },
  {
   "id": "dg06_00:000:06",
@@ -51,13 +51,13 @@
   "id": "dg06_00:000:08",
   "speaker": "要",
   "jp": "―――おや、執行者はん。\n何しに来はりましたん？",
-  "en": "--My, if it isn't the Executor. Whatever have you\ncome here for?"
+  "en": "--My, if it isn't the Executor.\nWhatever have you come here for?"
  },
  {
   "id": "dg06_00:001:00",
   "speaker": "要",
   "jp": "あんさんはそこで\n黙って見ててたらよろし。\n札はうちが取り戻します。",
-  "en": "You'd do well to stand there and watch in silence.\nI'll be taking the cards back myself."
+  "en": "You'd do well to stand there and watch in\nsilence. I'll be taking the cards back myself."
  },
  {
   "id": "dg06_00:002:00",
@@ -159,7 +159,7 @@
   "id": "dg06_00:011:00",
   "speaker": "道佳",
   "jp": "ちょっと、カナめんたら、\n勝手に決めないで！",
-  "en": "Hey, Kanamen, don't go deciding things on your\nown!"
+  "en": "Hey, Kanamen, don't go\ndeciding things on your own!"
  },
  {
   "id": "dg06_00:011:01",
@@ -171,13 +171,13 @@
   "id": "dg06_00:011:02",
   "speaker": "道佳",
   "jp": "それとも……\nどうあってもアタシの\n邪魔をするつもり？",
-  "en": "Or are you... set on getting in my way no matter\nwhat?"
+  "en": "Or are you... set on getting\nin my way no matter what?"
  },
  {
   "id": "dg06_00:011:03",
   "speaker": "要",
   "jp": "当たり前や。\nこれ以上、余所者には\n任せてはおけん。",
-  "en": "Of course I am. I can't leave this to outsiders any\nlonger."
+  "en": "Of course I am. I can't leave\nthis to outsiders any longer."
  },
  {
   "id": "dg06_00:011:04",
@@ -195,7 +195,7 @@
   "id": "dg06_00:011:06",
   "speaker": "道佳",
   "jp": "……何度聞いたかしら。\n二言目にはいつもそれね。",
-  "en": "...How many times have I heard that, I wonder? It's\nalways the first thing out of your mouth."
+  "en": "...How many times have I heard that, I wonder?\nIt's always the first thing out of your mouth."
  },
  {
   "id": "dg06_00:011:07",
@@ -219,13 +219,13 @@
   "id": "dg06_00:011:10",
   "speaker": "道佳",
   "jp": "そうね、\nそのお題目も変わらない。\nご先祖様の受け売りそのまま。",
-  "en": "Right, and that slogan hasn't changed either. Just\nparroting your ancestors word for word."
+  "en": "Right, and that slogan hasn't changed either.\nJust parroting your ancestors word for word."
  },
  {
   "id": "dg06_00:011:11",
   "speaker": "道佳",
   "jp": "弟ちゃんにもいつも\n同じ事を言ってたわよね。",
-  "en": "You always said the same thing to your little\nbrother too, didn't you?"
+  "en": "You always said the same thing to\nyour little brother too, didn't you?"
  },
  {
   "id": "dg06_00:011:12",
@@ -237,13 +237,13 @@
   "id": "dg06_00:011:13",
   "speaker": "道佳",
   "jp": "でもね、カナめん。\n本当はわかってるでしょ？",
-  "en": "But you know, Kanamen... Deep down, you already\nknow, don't you?"
+  "en": "But you know, Kanamen... Deep\ndown, you already know, don't you?"
  },
  {
   "id": "dg06_00:011:14",
   "speaker": "道佳",
   "jp": "どんなに優秀でも、\nどんなに尽くしても―――",
-  "en": "No matter how talented you are, no matter how\ndevoted--"
+  "en": "No matter how talented you\nare, no matter how devoted--"
  },
  {
   "id": "dg06_00:011:15",
@@ -285,13 +285,13 @@
   "id": "dg06_00:011:21",
   "speaker": "要",
   "jp": "不動、金縛り……！？\nあない、言葉如きでッ……。",
-  "en": "Fudo's binding spell...!? With nothing but words like\nthat...!"
+  "en": "Fudo's binding spell...!? With\nnothing but words like that...!"
  },
  {
   "id": "dg06_00:011:22",
   "speaker": "道佳",
   "jp": "ごめんね、カナめん。\nでも……\nアタシの邪魔はさせないわ。",
-  "en": "I'm sorry, Kanamen. But... I won't let you get in my\nway."
+  "en": "I'm sorry, Kanamen. But... I\nwon't let you get in my way."
  },
  {
   "id": "dg06_00:011:23",
@@ -303,7 +303,7 @@
   "id": "dg06_00:011:24",
   "speaker": "道佳",
   "jp": "そしてここに\n盗賊ちゃんの光札と、\n{ruby:もう一枚|・・・・}―――",
-  "en": "And right here, I have the little bandit's Bright card,\nand \"one more\"--"
+  "en": "And right here, I have the little\nbandit's Bright card, and \"one more\"--"
  },
  {
   "id": "dg06_00:011:25",
@@ -315,7 +315,7 @@
   "id": "dg06_00:012:00",
   "speaker": "道佳",
   "jp": "{px}、\nこれを賭けてアタシと\n闘ってちょうだい。",
-  "en": "{px}, fight me, with these as the stakes."
+  "en": "{px}, fight\nme, with these as the stakes."
  },
  {
   "id": "dg06_00:013:00",
@@ -345,7 +345,7 @@
   "id": "dg06_00:015:00",
   "speaker": "道佳",
   "jp": "あァん！\nその燃える情熱！\n何だか違う物が芽生えそうッ☆",
-  "en": "Aahn! That burning passion! I feel like something\nelse might bloom~"
+  "en": "Aahn! That burning passion! I feel\nlike something else might bloom~"
  },
  {
   "id": "dg06_00:015:01",
@@ -471,7 +471,7 @@
   "id": "dg06_00:022:04",
   "speaker": "白",
   "jp": "いまある光札とて、\nそのまま持ち続ければ\n其方の身は―――",
-  "en": "Even the Bright cards you hold now... keep holding\nthem, and your body will--"
+  "en": "Even the Bright cards you hold now...\nkeep holding them, and your body will--"
  },
  {
   "id": "dg06_00:022:05",
@@ -483,7 +483,7 @@
   "id": "dg06_00:022:06",
   "speaker": "道佳",
   "jp": "アタシには、\n笑って欲しい方がいる……\nただ、それだけよ。",
-  "en": "There's someone I want to see smile... That's all there\nis to it."
+  "en": "There's someone I want to see\nsmile... That's all there is to it."
  },
  {
   "id": "dg06_00:022:07",
@@ -495,6 +495,6 @@
   "id": "dg06_00:022:08",
   "speaker": "道佳",
   "jp": "ミカみゅんの愛の深さ\nアナタにも見せてあ・げ・る☆",
-  "en": "I'll show you just how deep Mikamyun's love goes,\ntoo~"
+  "en": "I'll show you just how deep\nMikamyun's love goes, too~"
  }
 ]

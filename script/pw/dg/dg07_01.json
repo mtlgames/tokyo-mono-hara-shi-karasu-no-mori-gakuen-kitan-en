@@ -21,7 +21,7 @@
   "id": "dg07_01:000:03",
   "speaker": "御霧",
   "jp": "俺は最良の計算をしたはずだ！\nそれなのに……\nお前はいつもそうだ！！",
-  "en": "I made the best calculations possible! And yet...\nYou're always like this!!"
+  "en": "I made the best calculations possible!\nAnd yet... You're always like this!!"
  },
  {
   "id": "dg07_01:000:04",
@@ -33,7 +33,7 @@
   "id": "dg07_01:001:00",
   "speaker": "御霧",
   "jp": "……ふざけるな！\nそんなもの、\n何の役に立つというんだ！！",
-  "en": "...Don't screw with me! What good is any of that\nsupposed to be!!"
+  "en": "...Don't screw with me! What good\nis any of that supposed to be!!"
  },
  {
   "id": "dg07_01:001:01",
@@ -147,13 +147,13 @@
   "id": "dg07_01:010:00",
   "speaker": "御霧",
   "jp": "力のない奴は所詮、力ある奴に\n利用され、都合が悪くなれば\n切り捨てられるだけ……。",
-  "en": "People without power just get used by the ones\nwho have it, then cut loose the moment they\nbecome inconvenient..."
+  "en": "People without power just get used by\nthe ones who have it, then cut loose\nthe moment they become inconvenient..."
  },
  {
   "id": "dg07_01:010:01",
   "speaker": "御霧",
   "jp": "そんな{ruby:親父|あいつ}みたいな人生……\n俺はまっぴらなんだよッ。",
-  "en": "A life like that old man of mine... I want no part of\nit."
+  "en": "A life like that old man of\nmine... I want no part of it."
  },
  {
   "id": "dg07_01:010:02",
@@ -165,19 +165,19 @@
   "id": "dg07_01:010:03",
   "speaker": "弥紀",
   "jp": "そんな……そんな事ないよ。\n特別な力なんか\nなくたって―――",
-  "en": "That's... that's not true. Even without some special\npower--"
+  "en": "That's... that's not true. Even\nwithout some special power--"
  },
  {
   "id": "dg07_01:010:04",
   "speaker": "アンジー",
   "jp": "……キレイな弥紀。\nそんな仲良しゴッコじゃ\n誰も救えないヨ。",
-  "en": "...You're so pure, Minori. Playing at being friends like\nthat won't save anybody."
+  "en": "...You're so pure, Minori. Playing at being\nfriends like that won't save anybody."
  },
  {
   "id": "dg07_01:010:05",
   "speaker": "アンジー",
   "jp": "でもこの力は違うノ。\nこれさえあれば、\n故郷が護れる。",
-  "en": "But this power is different. With this, Angie can\nprotect her homeland."
+  "en": "But this power is different. With this,\nAngie can protect her homeland."
  },
  {
   "id": "dg07_01:010:06",
@@ -201,7 +201,7 @@
   "id": "dg07_01:010:09",
   "speaker": "弥紀",
   "jp": "三人は仲間―――ううん\n友達だったんでしょう？",
-  "en": "You three were comrades-- no, you were friends,\nweren't you?"
+  "en": "You three were comrades-- no,\nyou were friends, weren't you?"
  },
  {
   "id": "dg07_01:010:10",
@@ -213,13 +213,13 @@
   "id": "dg07_01:010:11",
   "speaker": "御霧",
   "jp": "義王は生まれついての強者だ。\n常に前を向き、\n上しか見ていない。",
-  "en": "Gio was born strong. He always faces forward and\nonly ever looks up."
+  "en": "Gio was born strong. He always faces\nforward and only ever looks up."
  },
  {
   "id": "dg07_01:010:12",
   "speaker": "アンジー",
   "jp": "オカシラは、全部が損得。\n要らなくなれば\nすぐに切り捨てる……。",
-  "en": "For the Boss, it's all profit and loss. Once you're no\nuse, he cuts you loose right away..."
+  "en": "For the Boss, it's all profit and loss. Once\nyou're no use, he cuts you loose right away..."
  },
  {
   "id": "dg07_01:010:13",
@@ -237,7 +237,7 @@
   "id": "dg07_01:011:01",
   "speaker": "アンジー",
   "jp": "それで全てが上手くいくほど\n世の中が簡単ならいいのにネ。",
-  "en": "It'd be nice if the world were simple enough for that\nto fix everything, huh."
+  "en": "It'd be nice if the world were simple\nenough for that to fix everything, huh."
  },
  {
   "id": "dg07_01:012:00",
@@ -249,7 +249,7 @@
   "id": "dg07_01:012:01",
   "speaker": "アンジー",
   "jp": "{px}にも少しは\n思うところがあるのカナ？",
-  "en": "Maybe even {px} has some feelings about this?"
+  "en": "Maybe even {px}\nhas some feelings about this?"
  },
  {
   "id": "dg07_01:013:00",
@@ -261,7 +261,7 @@
   "id": "dg07_01:013:01",
   "speaker": "アンジー",
   "jp": "{px}にも少しは\n思うところがあるのカナ？",
-  "en": "Maybe even {px} has some feelings about this?"
+  "en": "Maybe even {px}\nhas some feelings about this?"
  },
  {
   "id": "dg07_01:014:00",
@@ -279,7 +279,7 @@
   "id": "dg07_01:015:01",
   "speaker": "アンジー",
   "jp": "……そう言えるのは、\n{px}が強いからだヨ。",
-  "en": "...You can say that because you're strong, {px}."
+  "en": "...You can say that because\nyou're strong, {px}."
  },
  {
   "id": "dg07_01:016:00",
@@ -291,7 +291,7 @@
   "id": "dg07_01:016:01",
   "speaker": "アンジー",
   "jp": "……そう言えるのは、\n{px}が強いからだヨ。",
-  "en": "...You can say that because you're strong, {px}."
+  "en": "...You can say that because\nyou're strong, {px}."
  },
  {
   "id": "dg07_01:017:00",
@@ -303,7 +303,7 @@
   "id": "dg07_01:017:01",
   "speaker": "アンジー",
   "jp": "それで全てが上手くいくほど\n世の中が簡単ならいいのにネ。",
-  "en": "It'd be nice if the world were simple enough for that\nto fix everything, huh."
+  "en": "It'd be nice if the world were simple\nenough for that to fix everything, huh."
  },
  {
   "id": "dg07_01:018:00",
@@ -315,19 +315,19 @@
   "id": "dg07_01:018:01",
   "speaker": "アンジー",
   "jp": "{px}にとっては\nどうでもいいコト……。",
-  "en": "It doesn't matter to you anyway, {px}..."
+  "en": "It doesn't matter to you\nanyway, {px}..."
  },
  {
   "id": "dg07_01:019:00",
   "speaker": "アンジー",
   "jp": "そうだネ。\n{px}にとっては\nどうでもいいコト……。",
-  "en": "That's right. It doesn't matter to you anyway, {px}..."
+  "en": "That's right. It doesn't matter to\nyou anyway, {px}..."
  },
  {
   "id": "dg07_01:020:00",
   "speaker": "御霧",
   "jp": "くだらん話はもういい。\nそれより、続きといこうか。",
-  "en": "Enough of this pointless talk. Let's pick up where we\nleft off."
+  "en": "Enough of this pointless talk.\nLet's pick up where we left off."
  },
  {
   "id": "dg07_01:020:01",
@@ -339,7 +339,7 @@
   "id": "dg07_01:020:02",
   "speaker": "白",
   "jp": "もうよさぬか。\n其方ら、今度こそ\nヒトには戻れなくなるぞ。",
-  "en": "Enough already. This time, you two will never\nreturn to being human."
+  "en": "Enough already. This time, you two\nwill never return to being human."
  },
  {
   "id": "dg07_01:020:03",
@@ -399,19 +399,19 @@
   "id": "dg07_01:020:12",
   "speaker": "白",
   "jp": "やはりな……。\nこの洞の光札が\n目を醒ましたか……！！",
-  "en": "As I feared... This Hollow's Bright card has\nawakened...!!"
+  "en": "As I feared... This Hollow's\nBright card has awakened...!!"
  },
  {
   "id": "dg07_01:020:13",
   "speaker": "白",
   "jp": "光札と呼応して、\n彼奴らの札の力も\n強まっておる。",
-  "en": "Answering the Bright card, the power of their cards\ngrows stronger as well."
+  "en": "Answering the Bright card, the power\nof their cards grows stronger as well."
  },
  {
   "id": "dg07_01:020:14",
   "speaker": "白",
   "jp": "このままでは、\nすぐに完全な隠人へと\n成り果てるぞ。",
-  "en": "At this rate, they will soon become Oni through and\nthrough."
+  "en": "At this rate, they will soon\nbecome Oni through and through."
  },
  {
   "id": "dg07_01:020:15",
@@ -423,7 +423,7 @@
   "id": "dg07_01:021:00",
   "speaker": "白",
   "jp": "どうするのじゃ{px}。\n悩んでいる暇はないぞえ。",
-  "en": "What will you do, {px}? There is no time to dither."
+  "en": "What will you do, {px}?\nThere is no time to dither."
  },
  {
   "id": "dg07_01:022:00",
@@ -441,7 +441,7 @@
   "id": "dg07_01:022:02",
   "speaker": "御霧",
   "jp": "お前はッ……\n何処まで俺を馬鹿にすれば\n気が済むんだッ……！！",
-  "en": "You... How far are you going to go making a fool of\nme before you're satisfied...!!"
+  "en": "You... How far are you going to go making\na fool of me before you're satisfied...!!"
  },
  {
   "id": "dg07_01:023:00",
@@ -483,7 +483,7 @@
   "id": "dg07_01:026:01",
   "speaker": "御霧",
   "jp": "お前にそんな事を言われる\n筋合いはないッ！！\nふざけるなッ！！",
-  "en": "You've got no right to say that to me!! Don't screw\nwith me!!"
+  "en": "You've got no right to say that\nto me!! Don't screw with me!!"
  },
  {
   "id": "dg07_01:026:02",
@@ -501,7 +501,7 @@
   "id": "dg07_01:027:01",
   "speaker": "御霧",
   "jp": "お前にそんな事を言われる\n筋合いはないッ！！\nふざけるなッ！！",
-  "en": "You've got no right to say that to me!! Don't screw\nwith me!!"
+  "en": "You've got no right to say that\nto me!! Don't screw with me!!"
  },
  {
   "id": "dg07_01:027:02",
@@ -555,7 +555,7 @@
   "id": "dg07_01:032:01",
   "speaker": "自信に満ちた声",
   "jp": "オイオイオイオイ！！\n{px}、テメェあんまり\n余計な真似してんじゃねーぞ！！",
-  "en": "Whoa whoa whoa whoa!! {px}, don't you go sticking\nyour nose where it don't belong!!"
+  "en": "Whoa whoa whoa whoa!! {px}, don't\nyou go sticking your nose where it don't belong!!"
  },
  {
   "id": "dg07_01:033:00",
@@ -573,7 +573,7 @@
   "id": "dg07_01:033:02",
   "speaker": "アンジー",
   "jp": "どうして……？\nアンを助けたって、\n{px}は何も得しないヨ？",
-  "en": "Why...? Saving Angie won't get you anything, {px}."
+  "en": "Why...? Saving Angie won't get\nyou anything, {px}."
  },
  {
   "id": "dg07_01:034:00",
@@ -705,7 +705,7 @@
   "id": "dg07_01:043:01",
   "speaker": "自信に満ちた声",
   "jp": "オイオイオイオイ！！\n{px}、テメェあんまり\n余計な真似してんじゃねーぞ！！",
-  "en": "Whoa whoa whoa whoa!! {px}, don't you go sticking\nyour nose where it don't belong!!"
+  "en": "Whoa whoa whoa whoa!! {px}, don't\nyou go sticking your nose where it don't belong!!"
  },
  {
   "id": "dg07_01:044:00",
@@ -729,7 +729,7 @@
   "id": "dg07_01:044:03",
   "speaker": "自信に満ちた声",
   "jp": "オイオイオイオイ！！\n{px}、テメェあんまり\nカッコつけてんじゃねーぞ！！",
-  "en": "Whoa whoa whoa whoa!! {px}, don't you go actin' all\ncool on me!!"
+  "en": "Whoa whoa whoa whoa!! {px},\ndon't you go actin' all cool on me!!"
  },
  {
   "id": "dg07_01:045:00",
@@ -753,7 +753,7 @@
   "id": "dg07_01:045:03",
   "speaker": "自信に満ちた声",
   "jp": "それでいいぜ、{px}！\nこっちはこのオレ様のモン\nだからなッ！！",
-  "en": "That's the way, {px}! 'Cause these two belong to the\ngreat me!!"
+  "en": "That's the way, {px}!\n'Cause these two belong to the great me!!"
  },
  {
   "id": "dg07_01:046:00",
@@ -765,7 +765,7 @@
   "id": "dg07_01:046:01",
   "speaker": "義王",
   "jp": "はッはァ！！\nどいつもこいつも\nテンパったツラしやがって！！",
-  "en": "Hah haaa!! Every last one of you's got a panicked\nlook on your mug!!"
+  "en": "Hah haaa!! Every last one of you's\ngot a panicked look on your mug!!"
  },
  {
   "id": "dg07_01:046:02",
@@ -789,7 +789,7 @@
   "id": "dg07_01:046:05",
   "speaker": "義王",
   "jp": "オレ様は絶対に、\nオレ様のモンを奪わせねえ。",
-  "en": "The great me don't ever let anybody take what's\nmine."
+  "en": "The great me don't ever let\nanybody take what's mine."
  },
  {
   "id": "dg07_01:046:06",
@@ -813,7 +813,7 @@
   "id": "dg07_01:046:09",
   "speaker": "義王",
   "jp": "ここはいいから、\nテメェはさっさと\n{ruby:光札|ア　レ}を何とかしてこい。",
-  "en": "I got this. You hurry up and go deal with that\nBright card."
+  "en": "I got this. You hurry up and\ngo deal with that Bright card."
  },
  {
   "id": "dg07_01:047:00",
@@ -825,13 +825,13 @@
   "id": "dg07_01:047:01",
   "speaker": "義王",
   "jp": "とっとと行きやがれ。\nオレ様の限界が\n来る前に、な……。",
-  "en": "Get movin'. Before the great me hits his limit, got\nit...?"
+  "en": "Get movin'. Before the great\nme hits his limit, got it...?"
  },
  {
   "id": "dg07_01:047:02",
   "speaker": "義王",
   "jp": "見ててやるぜ、{px}。\nテメェの闘いぶりをよ。",
-  "en": "I'll be watchin', {px}. Watchin' how you fight."
+  "en": "I'll be watchin', {px}.\nWatchin' how you fight."
  },
  {
   "id": "dg07_01:048:00",
@@ -849,7 +849,7 @@
   "id": "dg07_01:049:01",
   "speaker": "義王",
   "jp": "見ててやるぜ、{px}。\nテメェの闘いぶりをよ。",
-  "en": "I'll be watchin', {px}. Watchin' how you fight."
+  "en": "I'll be watchin', {px}.\nWatchin' how you fight."
  },
  {
   "id": "dg07_01:050:00",
@@ -867,7 +867,7 @@
   "id": "dg07_01:051:01",
   "speaker": "義王",
   "jp": "……オレ様の限界が来る前に\nさっさと行けって言ってんだ！！",
-  "en": "...I'm tellin' you to get movin' before the great me\nhits his limit!!"
+  "en": "...I'm tellin' you to get movin'\nbefore the great me hits his limit!!"
  },
  {
   "id": "dg07_01:052:00",
@@ -879,7 +879,7 @@
   "id": "dg07_01:052:01",
   "speaker": "義王",
   "jp": "……オレ様の限界が来る前に\nさっさと行けって言ってんだ！！",
-  "en": "...I'm tellin' you to get movin' before the great me\nhits his limit!!"
+  "en": "...I'm tellin' you to get movin'\nbefore the great me hits his limit!!"
  },
  {
   "id": "dg07_01:053:00",
@@ -903,7 +903,7 @@
   "id": "dg07_01:054:01",
   "speaker": "義王",
   "jp": "……オレ様の限界が来る前に\nさっさと行けって言ってんだ！！",
-  "en": "...I'm tellin' you to get movin' before the great me\nhits his limit!!"
+  "en": "...I'm tellin' you to get movin'\nbefore the great me hits his limit!!"
  },
  {
   "id": "dg07_01:055:00",
@@ -927,7 +927,7 @@
   "id": "dg07_01:056:02",
   "speaker": "義王",
   "jp": "おっと、ネェちゃん。\nそれ以上、余計な口は\n利くなよ？",
-  "en": "Whoa there, missy. Don't you go sayin' anything you\ndon't need to, got it?"
+  "en": "Whoa there, missy. Don't you go sayin'\nanything you don't need to, got it?"
  },
  {
   "id": "dg07_01:056:03",
@@ -963,7 +963,7 @@
   "id": "dg07_01:056:08",
   "speaker": "弥紀",
   "jp": "みんな傷だらけだもの。\n怪我が治れば、きっと元気も\n出ると思うし……。",
-  "en": "You're all covered in wounds. Once you're healed\nup, I'm sure you'll feel better too..."
+  "en": "You're all covered in wounds. Once you're\nhealed up, I'm sure you'll feel better too..."
  },
  {
   "id": "dg07_01:056:09",
@@ -993,7 +993,7 @@
   "id": "dg07_01:056:13",
   "speaker": "白",
   "jp": "気づいたか、{px}。\n彼奴ら、頭目が現れた途端\n《氣》が安定し始めた。",
-  "en": "Did you notice, {px}? The moment their leader\nappeared, their Ki began to settle."
+  "en": "Did you notice, {px}? The moment\ntheir leader appeared, their Ki began to settle."
  },
  {
   "id": "dg07_01:056:14",

@@ -21,19 +21,19 @@
   "id": "fn06_01:001:03",
   "speaker": "零",
   "jp": "{px}なら、\n答えを知っているような\n気がして……。",
-  "en": "I had a feeling you might know the answer, {px}..."
+  "en": "I had a feeling you might know\nthe answer, {px}..."
  },
  {
   "id": "fn06_01:002:00",
   "speaker": "零",
   "jp": "わからない……。\nどうしてこんなに\n気になるのか……。",
-  "en": "I don't understand... Why does this bother me so\nmuch..."
+  "en": "I don't understand... Why does\nthis bother me so much..."
  },
  {
   "id": "fn06_01:002:01",
   "speaker": "零",
   "jp": "味の濃さから推察するに\nおそらくは、焼きそばが\nおかずということだろう？",
-  "en": "Judging by how strong the flavor is, the yakisoba\nmust be the side dish, I suppose?"
+  "en": "Judging by how strong the flavor is, the\nyakisoba must be the side dish, I suppose?"
  },
  {
   "id": "fn06_01:002:02",
@@ -75,7 +75,7 @@
   "id": "fn06_01:004:05",
   "speaker": "零",
   "jp": "{px}、お礼になるかどうか\nわからないけれど、\nこれを……。",
-  "en": "{px}, I don't know if this counts as thanks, but...\nhere..."
+  "en": "{px}, I don't know if\nthis counts as thanks, but... here..."
  },
  {
   "id": "fn06_01:004:06",
@@ -105,7 +105,7 @@
   "id": "fn06_01:005:02",
   "speaker": "零",
   "jp": "焼きそばとパンについては\nもう少し、自分で\n考えてみることにしよう。",
-  "en": "As for yakisoba and bread... I think I'll consider it a\nlittle more on my own."
+  "en": "As for yakisoba and bread... I think I'll\nconsider it a little more on my own."
  },
  {
   "id": "fn06_01:006:00",
@@ -135,7 +135,7 @@
   "id": "fn06_01:008:01",
   "speaker": "零",
   "jp": "実は、まだ食べていない。\nこういったものは\n初めてだから……。",
-  "en": "Actually, I haven't eaten it yet. I've never had\nanything like it before..."
+  "en": "Actually, I haven't eaten it yet. I've\nnever had anything like it before..."
  },
  {
   "id": "fn06_01:008:02",
@@ -153,7 +153,7 @@
   "id": "fn06_01:009:01",
   "speaker": "零",
   "jp": "焼きそばとパンは、\nおれには難しい問題\nなんだろうか……。",
-  "en": "Yakisoba and bread... Is that too hard a problem for\nme...?"
+  "en": "Yakisoba and bread... Is that\ntoo hard a problem for me...?"
  },
  {
   "id": "fn06_01:ksf:0121f",

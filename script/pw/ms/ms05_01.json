@@ -45,7 +45,7 @@
   "id": "ms05_01:001:00",
   "speaker": "燈治",
   "jp": "{px}、何だ、\nどうすりゃいいんだ？",
-  "en": "{px}, what is it? What am I supposed to do?"
+  "en": "{px}, what is it?\nWhat am I supposed to do?"
  },
  {
   "id": "ms05_01:002:00",
@@ -81,7 +81,7 @@
   "id": "ms05_01:003:02",
   "speaker": "燈治",
   "jp": "……しょうがねェな。\n確か上から百―――",
-  "en": "...Fine, whatever. From the top, I think it's a\nhundred--"
+  "en": "...Fine, whatever. From the\ntop, I think it's a hundred--"
  },
  {
   "id": "ms05_01:004:00",
@@ -123,7 +123,7 @@
   "id": "ms05_01:006:02",
   "speaker": "朝子",
   "jp": "まったくもう……。\n次寝てたら、補習よ？",
-  "en": "Honestly... If you fall asleep again, it's extra lessons\nfor you, okay?"
+  "en": "Honestly... If you fall asleep again,\nit's extra lessons for you, okay?"
  },
  {
   "id": "ms05_01:006:03",
@@ -141,7 +141,7 @@
   "id": "ms05_01:006:05",
   "speaker": "朝子",
   "jp": "こら、どこ見てるの？\nいまは授業中―――",
-  "en": "Hey, where are you looking? We're in the middle of\nclass--"
+  "en": "Hey, where are you looking?\nWe're in the middle of class--"
  },
  {
   "id": "ms05_01:006:06",
@@ -159,7 +159,7 @@
   "id": "ms05_01:006:08",
   "speaker": "燈治",
   "jp": "おいおい、冗談だろ……？\n{px}、あれ見てみろよ。",
-  "en": "Whoa, whoa, you gotta be kiddin' me...? {px}, take a\nlook at that."
+  "en": "Whoa, whoa, you gotta be kiddin' me...?\n{px}, take a look at that."
  },
  {
   "id": "ms05_01:006:09",
@@ -195,13 +195,13 @@
   "id": "ms05_01:006:14",
   "speaker": "校内放送",
   "jp": "先生方にお知らせします。\n至急、職員室へ\nお集まりください。",
-  "en": "Attention, all teachers. Please gather in the staff\nroom immediately."
+  "en": "Attention, all teachers. Please gather\nin the staff room immediately."
  },
  {
   "id": "ms05_01:006:15",
   "speaker": "校内放送",
   "jp": "繰り返しお知らせします。\n先生方は、至急、\n職員室へお集まりください。",
-  "en": "Repeat. All teachers, please gather in the staff room\nimmediately."
+  "en": "Repeat. All teachers, please gather\nin the staff room immediately."
  },
  {
   "id": "ms05_01:006:16",
@@ -225,7 +225,7 @@
   "id": "ms05_01:006:19",
   "speaker": "燈治",
   "jp": "……ッたく、\nまさかこんなとこまで大挙して\n押しかけてくるたァな。",
-  "en": "...Jeez. Never thought they'd come stormin' in all the\nway here in a big mob."
+  "en": "...Jeez. Never thought they'd come stormin'\nin all the way here in a big mob."
  },
  {
   "id": "ms05_01:006:20",
@@ -267,7 +267,7 @@
   "id": "ms05_01:010:01",
   "speaker": "燈治",
   "jp": "まァ、確かにちょっと\n血の騒ぐ事態ではあるな。",
-  "en": "Well, it's true this is the kinda thing that gets the\nblood pumpin'."
+  "en": "Well, it's true this is the kinda\nthing that gets the blood pumpin'."
  },
  {
   "id": "ms05_01:011:00",
@@ -297,7 +297,7 @@
   "id": "ms05_01:014:01",
   "speaker": "燈治",
   "jp": "お前一人の責任じゃねェし、\n何かありゃ、俺らみんな\n一蓮托生だと思ってるぜ。",
-  "en": "It ain't all on you. If somethin' happens, the way I\nsee it, we're all in this together."
+  "en": "It ain't all on you. If somethin' happens,\nthe way I see it, we're all in this together."
  },
  {
   "id": "ms05_01:015:00",
@@ -321,7 +321,7 @@
   "id": "ms05_01:017:01",
   "speaker": "燈治",
   "jp": "さァな。\nけど、あんまり悠長な事は\n言ってられねェと思うぜ。",
-  "en": "Who knows. But I don't think they can afford to\ntake their sweet time."
+  "en": "Who knows. But I don't think they\ncan afford to take their sweet time."
  },
  {
   "id": "ms05_01:017:02",
@@ -333,7 +333,7 @@
   "id": "ms05_01:017:03",
   "speaker": "燈治",
   "jp": "……っていうか、\nそもそも何しに来たんだ？",
-  "en": "...Come to think of it, what'd they even come here\nfor?"
+  "en": "...Come to think of it, what'd\nthey even come here for?"
  },
  {
   "id": "ms05_01:017:04",
@@ -351,7 +351,7 @@
   "id": "ms05_01:017:06",
   "speaker": "巴",
   "jp": "アイツら……\n人の学校まで来るなんて\n一体何が目的なのよ。",
-  "en": "Those people... Coming all the way to someone else's\nschool? What on earth are they after?"
+  "en": "Those people... Coming all the way to someone\nelse's school? What on earth are they after?"
  },
  {
   "id": "ms05_01:017:07",
@@ -363,7 +363,7 @@
   "id": "ms05_01:017:08",
   "speaker": "弥紀",
   "jp": "そういえば、\nアンジーが言ってなかった？",
-  "en": "Now that I think about it, didn't Angie say\nsomething?"
+  "en": "Now that I think about it,\ndidn't Angie say something?"
  },
  {
   "id": "ms05_01:017:09",
@@ -381,7 +381,7 @@
   "id": "ms05_01:018:00",
   "speaker": "巴",
   "jp": "って事は、何？\nこの学校の代表である\nあたしにって事？",
-  "en": "So what, does that mean they're here for me, as this\nschool's representative?"
+  "en": "So what, does that mean they're here\nfor me, as this school's representative?"
  },
  {
   "id": "ms05_01:019:00",
@@ -399,19 +399,19 @@
   "id": "ms05_01:019:02",
   "speaker": "巴",
   "jp": "さっそく、\n生徒会を挙げて盛大に戦―――",
-  "en": "Right away, the whole student council will wage a\ngrand ba--"
+  "en": "Right away, the whole student\ncouncil will wage a grand ba--"
  },
  {
   "id": "ms05_01:019:03",
   "speaker": "燈治",
   "jp": "ちょ、待てって！！\nあいつらがお前に\n何の用があるってんだよ……。",
-  "en": "Wh-whoa, hold on!! What business would those\nguys have with you...?"
+  "en": "Wh-whoa, hold on!! What business\nwould those guys have with you...?"
  },
  {
   "id": "ms05_01:019:04",
   "speaker": "巴",
   "jp": "じゃあ、わざわざ学校まで\n一体何しに来たってのよ！？",
-  "en": "Then what on earth did they come all the way to\nour school for!?"
+  "en": "Then what on earth did they come\nall the way to our school for!?"
  },
  {
   "id": "ms05_01:020:00",
@@ -423,19 +423,19 @@
   "id": "ms05_01:020:01",
   "speaker": "巴",
   "jp": "それじゃあさっそく、\n生徒会を挙げて盛大に戦―――",
-  "en": "Then right away, the whole student council will\nwage a grand ba--"
+  "en": "Then right away, the whole student\ncouncil will wage a grand ba--"
  },
  {
   "id": "ms05_01:020:02",
   "speaker": "燈治",
   "jp": "ちょ、待てって！！\nあいつらがお前に\n何の用があるってんだよ……。",
-  "en": "Wh-whoa, hold on!! What business would those\nguys have with you...?"
+  "en": "Wh-whoa, hold on!! What business\nwould those guys have with you...?"
  },
  {
   "id": "ms05_01:020:03",
   "speaker": "巴",
   "jp": "じゃあ、わざわざ学校まで\n一体何しに来たってのよ！？",
-  "en": "Then what on earth did they come all the way to\nour school for!?"
+  "en": "Then what on earth did they come\nall the way to our school for!?"
  },
  {
   "id": "ms05_01:021:00",
@@ -447,19 +447,19 @@
   "id": "ms05_01:021:01",
   "speaker": "巴",
   "jp": "それじゃあさっそく、\n生徒会を挙げて盛大に戦―――",
-  "en": "Then right away, the whole student council will\nwage a grand ba--"
+  "en": "Then right away, the whole student\ncouncil will wage a grand ba--"
  },
  {
   "id": "ms05_01:021:02",
   "speaker": "燈治",
   "jp": "ちょ、待てって！！\nあいつらがお前に\n何の用があるってんだよ……。",
-  "en": "Wh-whoa, hold on!! What business would those\nguys have with you...?"
+  "en": "Wh-whoa, hold on!! What business\nwould those guys have with you...?"
  },
  {
   "id": "ms05_01:021:03",
   "speaker": "巴",
   "jp": "じゃあ、わざわざ学校まで\n一体何しに来たってのよ！？",
-  "en": "Then what on earth did they come all the way to\nour school for!?"
+  "en": "Then what on earth did they come\nall the way to our school for!?"
  },
  {
   "id": "ms05_01:022:00",
@@ -471,19 +471,19 @@
   "id": "ms05_01:022:01",
   "speaker": "巴",
   "jp": "という事は、\n生徒会を挙げて盛大に戦―――",
-  "en": "Which means the whole student council will wage a\ngrand ba--"
+  "en": "Which means the whole student\ncouncil will wage a grand ba--"
  },
  {
   "id": "ms05_01:022:02",
   "speaker": "燈治",
   "jp": "ちょ、待てって！！\nあいつらがお前に\n何の用があるってんだよ……。",
-  "en": "Wh-whoa, hold on!! What business would those\nguys have with you...?"
+  "en": "Wh-whoa, hold on!! What business\nwould those guys have with you...?"
  },
  {
   "id": "ms05_01:022:03",
   "speaker": "巴",
   "jp": "じゃあ、わざわざ学校まで\n一体何しに来たってのよ！？",
-  "en": "Then what on earth did they come all the way to\nour school for!?"
+  "en": "Then what on earth did they come\nall the way to our school for!?"
  },
  {
   "id": "ms05_01:023:00",
@@ -507,7 +507,7 @@
   "id": "ms05_01:024:00",
   "speaker": "巴",
   "jp": "な、何よ、\n普通、挨拶って言ったら\nそういうもんでしょ？",
-  "en": "Wh-what? Normally, when someone says \"say hello,\"\nthat's what they mean, right?"
+  "en": "Wh-what? Normally, when someone says\n\"say hello,\" that's what they mean, right?"
  },
  {
   "id": "ms05_01:024:01",
@@ -519,7 +519,7 @@
   "id": "ms05_01:024:02",
   "speaker": "巴",
   "jp": "じゃあ、わざわざ学校まで\n一体何しに来たってのよ！？",
-  "en": "Then what on earth did they come all the way to\nour school for!?"
+  "en": "Then what on earth did they come\nall the way to our school for!?"
  },
  {
   "id": "ms05_01:025:00",
@@ -549,7 +549,7 @@
   "id": "ms05_01:026:01",
   "speaker": "燈治",
   "jp": "{px}なりに\n気を遣ってんだろ。",
-  "en": "That's {px} tryin' to be considerate, in his own way."
+  "en": "That's {px} tryin' to\nbe considerate, in his own way."
  },
  {
   "id": "ms05_01:026:02",
@@ -585,7 +585,7 @@
   "id": "ms05_01:028:01",
   "speaker": "弥紀",
   "jp": "いまごろ先生たちが\n話し合いしてるだろうし、\n少し様子を見よう？",
-  "en": "The teachers are probably talking it over right now,\nso let's wait and see for a bit, okay?"
+  "en": "The teachers are probably talking it over right\nnow, so let's wait and see for a bit, okay?"
  },
  {
   "id": "ms05_01:028:02",
@@ -597,13 +597,13 @@
   "id": "ms05_01:028:03",
   "speaker": "燈治",
   "jp": "お、ウワサをすりゃあ……\nさっそく始まったみたいだぜ。",
-  "en": "Oh, speak of the devil... Looks like it's already\nstarted."
+  "en": "Oh, speak of the devil...\nLooks like it's already started."
  },
  {
   "id": "ms05_01:028:04",
   "speaker": "体育教師",
   "jp": "こらァ、何だ君たちは！！\n大勢でよその学校に\n押しかけるなんて―――",
-  "en": "Hey, what do you kids think you're doing!! Barging\ninto another school in a big crowd like--"
+  "en": "Hey, what do you kids think you're doing!!\nBarging into another school in a big crowd like--"
  },
  {
   "id": "ms05_01:028:05",
@@ -639,13 +639,13 @@
   "id": "ms05_01:028:10",
   "speaker": "義王",
   "jp": "このオレ様と獲物を\n奪い合えるほどの奴が、",
-  "en": "'Cause a guy good enough to fight the great me\nover the same prey"
+  "en": "'Cause a guy good enough to fight\nthe great me over the same prey"
  },
  {
   "id": "ms05_01:028:11",
   "speaker": "義王",
   "jp": "まさか、この程度のことで\nケツまくるはずは\nねェからよォ。",
-  "en": "ain't gonna turn tail and run over a little thing like\nthis."
+  "en": "ain't gonna turn tail and run\nover a little thing like this."
  },
  {
   "id": "ms05_01:028:12",
@@ -705,7 +705,7 @@
   "id": "ms05_01:028:21",
   "speaker": "巴",
   "jp": "名指しされたからって\nはいそれじゃあ、なんて\n行かせられるワケないでしょ！！",
-  "en": "Just because he was called out by name, there's no\nway I can say \"okay, off you go\"!!"
+  "en": "Just because he was called out by name,\nthere's no way I can say \"okay, off you go\"!!"
  },
  {
   "id": "ms05_01:028:22",
@@ -717,25 +717,25 @@
   "id": "ms05_01:028:23",
   "speaker": "燈治",
   "jp": "ッたく、男が名指しで\n売られた喧嘩に\n首突っ込むんじゃねェよ。",
-  "en": "Jeez. Don't go stickin' your nose in a fight a guy got\ncalled out for by name."
+  "en": "Jeez. Don't go stickin' your nose in a\nfight a guy got called out for by name."
  },
  {
   "id": "ms05_01:030:00",
   "speaker": "巴",
   "jp": "……言っておくけど\nアンタたちだけじゃ\n絶対に無理よ。",
-  "en": "...Just so you know, you guys will never pull this off\non your own."
+  "en": "...Just so you know, you guys will\nnever pull this off on your own."
  },
  {
   "id": "ms05_01:030:01",
   "speaker": "巴",
   "jp": "階段と下駄箱は\n教師が押さえてるわ。",
-  "en": "The teachers have the stairs and the shoe lockers\ncovered."
+  "en": "The teachers have the stairs\nand the shoe lockers covered."
  },
  {
   "id": "ms05_01:030:02",
   "speaker": "巴",
   "jp": "まあ、一般生徒を\n護るっていう観点から言えば\n正しい配慮だと思うけど。",
-  "en": "Well, from the standpoint of protecting ordinary\nstudents, I think that's the right call."
+  "en": "Well, from the standpoint of protecting\nordinary students, I think that's the right call."
  },
  {
   "id": "ms05_01:030:03",
@@ -771,7 +771,7 @@
   "id": "ms05_01:032:00",
   "speaker": "弥紀",
   "jp": "もう……そんな顔されたら\n止めても無駄なんだなって\nわかっちゃうよ。",
-  "en": "Geez... When you make that face, I can tell there's no\nuse trying to stop you."
+  "en": "Geez... When you make that face, I can\ntell there's no use trying to stop you."
  },
  {
   "id": "ms05_01:032:01",
@@ -789,13 +789,13 @@
   "id": "ms05_01:033:00",
   "speaker": "弥紀",
   "jp": "もう……そんな顔されたら\n止めても無駄なんだなって\nわかっちゃうよ。",
-  "en": "Geez... When you make that face, I can tell there's no\nuse trying to stop you."
+  "en": "Geez... When you make that face, I can\ntell there's no use trying to stop you."
  },
  {
   "id": "ms05_01:034:00",
   "speaker": "弥紀",
   "jp": "もう……そんな顔されたら\n止めても無駄なんだなって\nわかっちゃうよ。",
-  "en": "Geez... When you make that face, I can tell there's no\nuse trying to stop you."
+  "en": "Geez... When you make that face, I can\ntell there's no use trying to stop you."
  },
  {
   "id": "ms05_01:035:00",
@@ -837,25 +837,25 @@
   "id": "ms05_01:041:00",
   "speaker": "燈治",
   "jp": "おいおい、\n冗談だろ、{px}。",
-  "en": "Whoa, whoa, you gotta be kiddin', {px}."
+  "en": "Whoa, whoa, you gotta be\nkiddin', {px}."
  },
  {
   "id": "ms05_01:041:01",
   "speaker": "燈治",
   "jp": "お前が出ていかなきゃ\n収まりが付かねェぜ？",
-  "en": "This ain't gonna settle down unless you go out\nthere, y'know?"
+  "en": "This ain't gonna settle down\nunless you go out there, y'know?"
  },
  {
   "id": "ms05_01:041:02",
   "speaker": "燈治",
   "jp": "それに、お前一人で\n行かせたりしねェから\n心配すんなって。",
-  "en": "Besides, I ain't gonna let you go alone, so don't\nworry."
+  "en": "Besides, I ain't gonna let you\ngo alone, so don't worry."
  },
  {
   "id": "ms05_01:042:00",
   "speaker": "巴",
   "jp": "……で、結局\n何処から行く気ですって？",
-  "en": "...So, where exactly did you say you're planning to\ngo out from?"
+  "en": "...So, where exactly did you say\nyou're planning to go out from?"
  },
  {
   "id": "ms05_01:042:01",
@@ -867,7 +867,7 @@
   "id": "ms05_01:042:02",
   "speaker": "巴",
   "jp": "なるほど……。\nアンタの神出鬼没の理由は\nそれだったワケ。",
-  "en": "I see... So that's how you always pop up out of\nnowhere."
+  "en": "I see... So that's how you\nalways pop up out of nowhere."
  },
  {
   "id": "ms05_01:042:03",
@@ -975,7 +975,7 @@
   "id": "ms05_01:046:02",
   "speaker": "巴",
   "jp": "どっかの馬鹿じゃあるまいし\n普通やらないわよね。",
-  "en": "Nobody normal would do that, unless they're a\ncertain idiot."
+  "en": "Nobody normal would do that,\nunless they're a certain idiot."
  },
  {
   "id": "ms05_01:046:03",
@@ -987,7 +987,7 @@
   "id": "ms05_01:046:04",
   "speaker": "燈治",
   "jp": "あーもう、いいから、\nさっさと行くぞ、\n{px}ッ！！",
-  "en": "Argh, whatever, let's just get goin', {px}!!"
+  "en": "Argh, whatever, let's just get\ngoin', {px}!!"
  },
  {
   "id": "ms05_01:046:05",
@@ -1035,7 +1035,7 @@
   "id": "ms05_01:047:04",
   "speaker": "義王",
   "jp": "ひょっとして、\nオレ様が怖くて教室の隅で\nガタガタ震えてたか？",
-  "en": "What, were you so scared of the great me you were\nshakin' in the corner of your classroom?"
+  "en": "What, were you so scared of the great me you\nwere shakin' in the corner of your classroom?"
  },
  {
   "id": "ms05_01:048:00",
@@ -1089,7 +1089,7 @@
   "id": "ms05_01:056:00",
   "speaker": "義王",
   "jp": "無視か！？\n来て早々ド無視か、テメェ！！",
-  "en": "Ignorin' me!? You just got here and you're\nstraight-up ignorin' me!?"
+  "en": "Ignorin' me!? You just got here\nand you're straight-up ignorin' me!?"
  },
  {
   "id": "ms05_01:057:00",
@@ -1107,19 +1107,19 @@
   "id": "ms05_01:057:02",
   "speaker": "義王",
   "jp": "ついでにちょいと面白ェ話を\n聞いたからよォ、テメェらにも\n教えてやっかと思ってよ。",
-  "en": "Plus, I heard somethin' kinda interesting, so I figured\nI'd share it with you guys."
+  "en": "Plus, I heard somethin' kinda interesting,\nso I figured I'd share it with you guys."
  },
  {
   "id": "ms05_01:057:03",
   "speaker": "御霧",
   "jp": "花園神社にある例の場所だが、\nあそこには何か大きな力が\n隠されている。",
-  "en": "That place at Hanazono Shrine--some great power is\nhidden there."
+  "en": "That place at Hanazono Shrine--some\ngreat power is hidden there."
  },
  {
   "id": "ms05_01:057:04",
   "speaker": "御霧",
   "jp": "おそらくは呪言花札の中でも、\n強大な力を持った札が、だ。",
-  "en": "Most likely one of the Curse Hanafuda with\ntremendous power."
+  "en": "Most likely one of the Curse\nHanafuda with tremendous power."
  },
  {
   "id": "ms05_01:057:05",
@@ -1137,7 +1137,7 @@
   "id": "ms05_01:057:07",
   "speaker": "義王",
   "jp": "そのでっけーお宝を\nいただくのは\nこのオレ様だ。",
-  "en": "The one who's gonna snag that big treasure is the\ngreat me."
+  "en": "The one who's gonna snag that\nbig treasure is the great me."
  },
  {
   "id": "ms05_01:057:08",
@@ -1155,13 +1155,13 @@
   "id": "ms05_01:057:10",
   "speaker": "義王",
   "jp": "テメェらの手にあるものと、\nオレ様の持ってる分―――",
-  "en": "What you guys got in your hands, and what the\ngreat me's got--"
+  "en": "What you guys got in your hands,\nand what the great me's got--"
  },
  {
   "id": "ms05_01:057:11",
   "speaker": "義王",
   "jp": "そろそろ、\nどっちが真の所有者か……\n決めてもいい頃合いだぜ？",
-  "en": "I'd say it's about time we settled who the real owner\nis, huh?"
+  "en": "I'd say it's about time we settled\nwho the real owner is, huh?"
  },
  {
   "id": "ms05_01:057:12",
@@ -1173,7 +1173,7 @@
   "id": "ms05_01:057:13",
   "speaker": "若い女性の声",
   "jp": "{px}、壇君！！\n二人とも何してるの！！",
-  "en": "{px}, Dan-kun!! What are you two doing!!"
+  "en": "{px}, Dan-kun!!\nWhat are you two doing!!"
  },
  {
   "id": "ms05_01:057:14",
@@ -1185,25 +1185,25 @@
   "id": "ms05_01:057:15",
   "speaker": "朝子",
   "jp": "二人とも、\n早く教室に戻りなさい。\nあなたたちも―――",
-  "en": "You two, get back to the classroom this instant. And\nyou people too--"
+  "en": "You two, get back to the classroom\nthis instant. And you people too--"
  },
  {
   "id": "ms05_01:057:16",
   "speaker": "朝子",
   "jp": "アンジーさん！？\nあなた、ご両親と一緒に\nスペインに帰ったんじゃ……。",
-  "en": "Angie-san!? Didn't you go back to Spain with your\nparents...?"
+  "en": "Angie-san!? Didn't you go back\nto Spain with your parents...?"
  },
  {
   "id": "ms05_01:057:17",
   "speaker": "アンジー",
   "jp": "ンーとね、朝子センセ。\nアンにはやらなきゃ\nいけないコトがあるんだヨ。",
-  "en": "Mmm, you see, Asako-sensei... There is something\nAngie has to do."
+  "en": "Mmm, you see, Asako-sensei... There\nis something Angie has to do."
  },
  {
   "id": "ms05_01:057:18",
   "speaker": "アンジー",
   "jp": "それが済むまでは、\n故郷には帰れない。\nそう……決めたカラ。",
-  "en": "Until it is done, Angie cannot go back home. That's...\nwhat I decided."
+  "en": "Until it is done, Angie cannot go\nback home. That's... what I decided."
  },
  {
   "id": "ms05_01:057:19",
@@ -1227,7 +1227,7 @@
   "id": "ms05_01:057:22",
   "speaker": "義王",
   "jp": "……そういや{px}、\nお前にとっちゃあ、ただの先生\nってわけでもねーんだよな？",
-  "en": "...Come to think of it, {px}, she ain't just any old\nteacher to you, is she?"
+  "en": "...Come to think of it, {px}, she\nain't just any old teacher to you, is she?"
  },
  {
   "id": "ms05_01:057:23",
@@ -1245,7 +1245,7 @@
   "id": "ms05_01:057:25",
   "speaker": "義王",
   "jp": "はッはァ！！\nさァて、どうすりゃお前は\n泣いて俺に許しを請う？",
-  "en": "Ha-hah!! Now then, what's it gonna take to make\nyou cry and beg me for forgiveness?"
+  "en": "Ha-hah!! Now then, what's it gonna take to\nmake you cry and beg me for forgiveness?"
  },
  {
   "id": "ms05_01:057:26",
@@ -1257,7 +1257,7 @@
   "id": "ms05_01:058:00",
   "speaker": "義王",
   "jp": "それとも……\nテメェが目を離した隙に\n{ruby:拉致|ら　ち}ってこうか？",
-  "en": "Or maybe... I'll snatch her away the second you take\nyour eyes off her?"
+  "en": "Or maybe... I'll snatch her away the\nsecond you take your eyes off her?"
  },
  {
   "id": "ms05_01:059:00",
@@ -1311,7 +1311,7 @@
   "id": "ms05_01:066:00",
   "speaker": "義王",
   "jp": "オイオイオイオイ！！\n素直な野郎だなッ！！",
-  "en": "Whoa whoa whoa whoa!! Honest little bastard,\nain'tcha!!"
+  "en": "Whoa whoa whoa whoa!!\nHonest little bastard, ain'tcha!!"
  },
  {
   "id": "ms05_01:067:00",
@@ -1323,7 +1323,7 @@
   "id": "ms05_01:068:00",
   "speaker": "燈治",
   "jp": "……おい、人ん{ruby:学校|ち}まで\n乗り込んできて、随分ふざけた\n口利いてくれるじゃねェか。",
-  "en": "...Hey. You come barging onto our turf and you've\ngot a real smart mouth on you, don'tcha?"
+  "en": "...Hey. You come barging onto our turf and\nyou've got a real smart mouth on you, don'tcha?"
  },
  {
   "id": "ms05_01:068:01",
@@ -1335,7 +1335,7 @@
   "id": "ms05_01:068:02",
   "speaker": "義王",
   "jp": "冗談に決まってんだろ。\nこのオレ様がそんなシャバい\n真似するかっつーんだよッ。",
-  "en": "I'm obviously jokin'. Like the great me would ever\npull somethin' that lame."
+  "en": "I'm obviously jokin'. Like the great me\nwould ever pull somethin' that lame."
  },
  {
   "id": "ms05_01:068:03",
@@ -1359,7 +1359,7 @@
   "id": "ms05_01:068:06",
   "speaker": "御霧",
   "jp": "こうでもしないと、\n我々の気も収まらなかった\nものですから。",
-  "en": "We simply couldn't let the matter rest without doing\nsomething of this sort."
+  "en": "We simply couldn't let the matter rest\nwithout doing something of this sort."
  },
  {
   "id": "ms05_01:068:07",
@@ -1383,7 +1383,7 @@
   "id": "ms05_01:068:10",
   "speaker": "御霧",
   "jp": "我が校の女子更衣室を\n覗いていたという\n疑惑があるからです。",
-  "en": "--are suspected of peeping into our school's girls'\nlocker room."
+  "en": "--are suspected of peeping into\nour school's girls' locker room."
  },
  {
   "id": "ms05_01:068:11",
@@ -1419,7 +1419,7 @@
   "id": "ms05_01:068:16",
   "speaker": "御霧",
   "jp": "……義王、\nそろそろ退かないと\n面倒な事になる。",
-  "en": "...Gio, we should pull back soon, or this will get\ntroublesome."
+  "en": "...Gio, we should pull back soon,\nor this will get troublesome."
  },
  {
   "id": "ms05_01:068:17",
@@ -1431,13 +1431,13 @@
   "id": "ms05_01:068:18",
   "speaker": "義王",
   "jp": "んじゃあな、{px}。\nさっき言ったこと、\n忘れんなよ。",
-  "en": "Later, {px}. Don't forget what I told ya."
+  "en": "Later, {px}.\nDon't forget what I told ya."
  },
  {
   "id": "ms05_01:068:19",
   "speaker": "アンジー",
   "jp": "あ、そうそう。\n弥紀と巴にも\nよろしくネ。",
-  "en": "Oh, right, right. Say hi to Minori and Tomoe for me,\n'kay?"
+  "en": "Oh, right, right. Say hi to\nMinori and Tomoe for me, 'kay?"
  },
  {
   "id": "ms05_01:068:20",
@@ -1557,13 +1557,13 @@
   "id": "ms05_01:074:02",
   "speaker": "朝子",
   "jp": "それに、あなたたちが\nやっていないのだとしたら、\n彼らは一体、何をしに来たの？",
-  "en": "Besides, if you two didn't do it, then what on earth\ndid they come here for?"
+  "en": "Besides, if you two didn't do it, then\nwhat on earth did they come here for?"
  },
  {
   "id": "ms05_01:075:00",
   "speaker": "朝子",
   "jp": "……そうよね。\nあなたたちがそんな事\nするはずがないわ。",
-  "en": "...That's right. You two would never do something\nlike that."
+  "en": "...That's right. You two would\nnever do something like that."
  },
  {
   "id": "ms05_01:075:01",
@@ -1575,7 +1575,7 @@
   "id": "ms05_01:076:00",
   "speaker": "朝子",
   "jp": "……そうよね。\nあなたたちがそんな事\nするはずがないわ。",
-  "en": "...That's right. You two would never do something\nlike that."
+  "en": "...That's right. You two would\nnever do something like that."
  },
  {
   "id": "ms05_01:076:01",
@@ -1635,7 +1635,7 @@
   "id": "ms05_01:079:06",
   "speaker": "朝子",
   "jp": "それに、あなたたちが\nやっていないのだとしたら、\n彼らは一体、何をしに来たの？",
-  "en": "Besides, if you two didn't do it, then what on earth\ndid they come here for?"
+  "en": "Besides, if you two didn't do it, then\nwhat on earth did they come here for?"
  },
  {
   "id": "ms05_01:080:00",
@@ -1671,7 +1671,7 @@
   "id": "ms05_01:080:05",
   "speaker": "朝子",
   "jp": "あの{ruby:寇聖|こうせい}高校の子、\nあなたの名前を\n知っていたわね。",
-  "en": "That boy from Kosei High knew your name, didn't\nhe?"
+  "en": "That boy from Kosei High\nknew your name, didn't he?"
  },
  {
   "id": "ms05_01:080:06",
@@ -1695,19 +1695,19 @@
   "id": "ms05_01:082:01",
   "speaker": "朝子",
   "jp": "{px}……\nお願いだから\n真剣に答えて頂戴。",
-  "en": "{px}... Please, I'm begging you, answer me seriously."
+  "en": "{px}... Please, I'm\nbegging you, answer me seriously."
  },
  {
   "id": "ms05_01:083:00",
   "speaker": "朝子",
   "jp": "{px}……\nお願いだから\n真剣に答えて頂戴。",
-  "en": "{px}... Please, I'm begging you, answer me seriously."
+  "en": "{px}... Please, I'm\nbegging you, answer me seriously."
  },
  {
   "id": "ms05_01:084:00",
   "speaker": "朝子",
   "jp": "{px}……\nお願いだから\n真剣に答えて頂戴。",
-  "en": "{px}... Please, I'm begging you, answer me seriously."
+  "en": "{px}... Please, I'm\nbegging you, answer me seriously."
  },
  {
   "id": "ms05_01:085:00",
@@ -1737,7 +1737,7 @@
   "id": "ms05_01:087:01",
   "speaker": "朝子",
   "jp": "もし何か困っているなら、\n先生はいつでも相談に乗るわ。",
-  "en": "If you're in some kind of trouble, I'm always here to\nlisten."
+  "en": "If you're in some kind of\ntrouble, I'm always here to listen."
  },
  {
   "id": "ms05_01:088:00",
@@ -1749,7 +1749,7 @@
   "id": "ms05_01:088:01",
   "speaker": "朝子",
   "jp": "もし何か困っているなら、\n先生はいつでも相談に乗るわ。",
-  "en": "If you're in some kind of trouble, I'm always here to\nlisten."
+  "en": "If you're in some kind of\ntrouble, I'm always here to listen."
  },
  {
   "id": "ms05_01:089:00",
@@ -1761,7 +1761,7 @@
   "id": "ms05_01:089:01",
   "speaker": "朝子",
   "jp": "もし何か困っているなら、\n先生はいつでも相談に乗るわ。",
-  "en": "If you're in some kind of trouble, I'm always here to\nlisten."
+  "en": "If you're in some kind of\ntrouble, I'm always here to listen."
  },
  {
   "id": "ms05_01:090:00",
@@ -1821,7 +1821,7 @@
   "id": "ms05_01:093:00",
   "speaker": "長英",
   "jp": "のう、{px}。\nいまからわしが腹切って\n先輩方の無実を証明するけェ！！",
-  "en": "Listen here, {px}. I'll slice my belly open right now\nand prove you two are innocent, I tell ya!!"
+  "en": "Listen here, {px}. I'll\nslice my belly open right now and\nprove you two are innocent, I tell ya!!"
  },
  {
   "id": "ms05_01:094:00",
@@ -1839,7 +1839,7 @@
   "id": "ms05_01:095:01",
   "speaker": "燈治",
   "jp": "……{px}、\n面倒くせェから、\nこいつを乗せるなって。",
-  "en": "...{px}, quit eggin' him on. It's a pain in the ass."
+  "en": "...{px}, quit eggin'\nhim on. It's a pain in the ass."
  },
  {
   "id": "ms05_01:096:00",
@@ -1851,7 +1851,7 @@
   "id": "ms05_01:096:01",
   "speaker": "燈治",
   "jp": "……{px}、\n面倒くせェから、\nこいつを乗せるなって。",
-  "en": "...{px}, quit eggin' him on. It's a pain in the ass."
+  "en": "...{px}, quit eggin'\nhim on. It's a pain in the ass."
  },
  {
   "id": "ms05_01:097:00",
@@ -1863,7 +1863,7 @@
   "id": "ms05_01:097:01",
   "speaker": "燈治",
   "jp": "……{px}、\n面倒くせェから、\nこいつを乗せるなって。",
-  "en": "...{px}, quit eggin' him on. It's a pain in the ass."
+  "en": "...{px}, quit eggin'\nhim on. It's a pain in the ass."
  },
  {
   "id": "ms05_01:098:00",
@@ -1875,7 +1875,7 @@
   "id": "ms05_01:098:01",
   "speaker": "長英",
   "jp": "{px}のためじゃったら、\nわしの{ruby:命|タマ}なんぞ安いもんじゃ！！",
-  "en": "If it's for {px}'s sake, my neck's a cheap price to\npay!!"
+  "en": "If it's for {px}'s sake,\nmy neck's a cheap price to pay!!"
  },
  {
   "id": "ms05_01:099:00",
@@ -1887,7 +1887,7 @@
   "id": "ms05_01:099:01",
   "speaker": "長英",
   "jp": "{px}のためじゃったら、\nわしの{ruby:命|タマ}なんぞ安いもんじゃ！！",
-  "en": "If it's for {px}'s sake, my neck's a cheap price to\npay!!"
+  "en": "If it's for {px}'s sake,\nmy neck's a cheap price to pay!!"
  },
  {
   "id": "ms05_01:100:00",
@@ -1899,7 +1899,7 @@
   "id": "ms05_01:100:01",
   "speaker": "長英",
   "jp": "{px}のためじゃったら、\nわしの{ruby:命|タマ}なんぞ安いもんじゃ！！",
-  "en": "If it's for {px}'s sake, my neck's a cheap price to\npay!!"
+  "en": "If it's for {px}'s sake,\nmy neck's a cheap price to pay!!"
  },
  {
   "id": "ms05_01:101:00",
@@ -1911,7 +1911,7 @@
   "id": "ms05_01:101:01",
   "speaker": "長英",
   "jp": "{px}のためじゃったら、\nわしの{ruby:命|タマ}なんぞ安いもんじゃ！！",
-  "en": "If it's for {px}'s sake, my neck's a cheap price to\npay!!"
+  "en": "If it's for {px}'s sake,\nmy neck's a cheap price to pay!!"
  },
  {
   "id": "ms05_01:102:00",
@@ -1947,7 +1947,7 @@
   "id": "ms05_01:103:03",
   "speaker": "久榮",
   "jp": "もうそのくらいで\n勘弁してやったらどうかな、\n羽鳥先生。",
-  "en": "How about letting them off the hook at this point,\nHatori-sensei?"
+  "en": "How about letting them off the\nhook at this point, Hatori-sensei?"
  },
  {
   "id": "ms05_01:103:04",
@@ -1959,13 +1959,13 @@
   "id": "ms05_01:103:05",
   "speaker": "久榮",
   "jp": "宍戸、いま部活中だろ。\n部員たちがオロオロしながら\nキミを捜してたぞ。",
-  "en": "Shishido, you've got club practice right now, don't\nyou? Your club members are running around in a\npanic looking for you."
+  "en": "Shishido, you've got club practice right\nnow, don't you? Your club members are\nrunning around in a panic looking for you."
  },
  {
   "id": "ms05_01:103:06",
   "speaker": "長英",
   "jp": "そ、そうじゃった！！\n何も言わんと、\n飛び出して来たけェ……。",
-  "en": "Th-that's right!! I ran outta there without sayin' a\nword..."
+  "en": "Th-that's right!! I ran outta\nthere without sayin' a word..."
  },
  {
   "id": "ms05_01:103:07",
@@ -1995,13 +1995,13 @@
   "id": "ms05_01:104:02",
   "speaker": "弥紀",
   "jp": "先生、あの……\n{px}たちは\n何も悪くないんです。",
-  "en": "Sensei, um... {px} and Toji didn't do anything wrong."
+  "en": "Sensei, um... {px}\nand Toji didn't do anything wrong."
  },
  {
   "id": "ms05_01:104:03",
   "speaker": "巴",
   "jp": "大体、何も証拠がないのに\n彼らを拘束する理由は\nないと思います。",
-  "en": "Besides, with no evidence at all, I don't see any\nreason to hold them here."
+  "en": "Besides, with no evidence at all, I don't\nsee any reason to hold them here."
  },
  {
   "id": "ms05_01:104:04",
@@ -2013,7 +2013,7 @@
   "id": "ms05_01:104:05",
   "speaker": "久榮",
   "jp": "もうそのくらいで\n勘弁してやったらどうかな、\n羽鳥先生。",
-  "en": "How about letting them off the hook at this point,\nHatori-sensei?"
+  "en": "How about letting them off the\nhook at this point, Hatori-sensei?"
  },
  {
   "id": "ms05_01:104:06",
@@ -2025,37 +2025,37 @@
   "id": "ms05_01:105:00",
   "speaker": "朝子",
   "jp": "……ひょっとして、\nあちらから何か\n連絡があったんですか？",
-  "en": "...By any chance, have you heard something from\ntheir side?"
+  "en": "...By any chance, have you heard\nsomething from their side?"
  },
  {
   "id": "ms05_01:105:01",
   "speaker": "久榮",
   "jp": "ああ、さっき寇聖の教頭から\n電話があってね。",
-  "en": "Yeah, I got a call from Kosei's vice principal a little\nwhile ago."
+  "en": "Yeah, I got a call from Kosei's\nvice principal a little while ago."
  },
  {
   "id": "ms05_01:105:02",
   "speaker": "久榮",
   "jp": "詳しい事はまだ\nあちらでも調査中だそうだ。",
-  "en": "Apparently they're still looking into the details on\ntheir end."
+  "en": "Apparently they're still looking\ninto the details on their end."
  },
  {
   "id": "ms05_01:105:03",
   "speaker": "久榮",
   "jp": "だが、一部の生徒が暴走して\nご迷惑をおかけしたと\nお詫びも頂いた事だし、",
-  "en": "But they did apologize for some of their students\nrunning wild and causing trouble,"
+  "en": "But they did apologize for some of their\nstudents running wild and causing trouble,"
  },
  {
   "id": "ms05_01:105:04",
   "speaker": "久榮",
   "jp": "羽鳥先生の気が済んだなら\n今日のところは、帰して\nやってもいいんじゃないかな？",
-  "en": "so if you're satisfied, Hatori-sensei, why not send\nthem home for today?"
+  "en": "so if you're satisfied, Hatori-sensei,\nwhy not send them home for today?"
  },
  {
   "id": "ms05_01:106:00",
   "speaker": "久榮",
   "jp": "キミらももう、\n十分反省しただろう？",
-  "en": "I'm sure you two have reflected on it plenty by\nnow, right?"
+  "en": "I'm sure you two have reflected\non it plenty by now, right?"
  },
  {
   "id": "ms05_01:107:00",
@@ -2085,31 +2085,31 @@
   "id": "ms05_01:111:00",
   "speaker": "久榮",
   "jp": "やれやれ。\nここは嘘でもいいから\n頷いておくべきところだぞ。",
-  "en": "Good grief. This is where you nod along, even if it's\na lie."
+  "en": "Good grief. This is where you\nnod along, even if it's a lie."
  },
  {
   "id": "ms05_01:112:00",
   "speaker": "久榮",
   "jp": "やれやれ。\nここは嘘でもいいから\n頷いておくべきところだぞ。",
-  "en": "Good grief. This is where you nod along, even if it's\na lie."
+  "en": "Good grief. This is where you\nnod along, even if it's a lie."
  },
  {
   "id": "ms05_01:113:00",
   "speaker": "久榮",
   "jp": "やれやれ。\nここは嘘でもいいから\n頷いておくべきところだぞ。",
-  "en": "Good grief. This is where you nod along, even if it's\na lie."
+  "en": "Good grief. This is where you\nnod along, even if it's a lie."
  },
  {
   "id": "ms05_01:114:00",
   "speaker": "久榮",
   "jp": "やれやれ。\nここは嘘でもいいから\n頷いておくべきところだぞ。",
-  "en": "Good grief. This is where you nod along, even if it's\na lie."
+  "en": "Good grief. This is where you\nnod along, even if it's a lie."
  },
  {
   "id": "ms05_01:115:00",
   "speaker": "久榮",
   "jp": "やれやれ。\nここは嘘でもいいから\n頷いておくべきところだぞ。",
-  "en": "Good grief. This is where you nod along, even if it's\na lie."
+  "en": "Good grief. This is where you\nnod along, even if it's a lie."
  },
  {
   "id": "ms05_01:116:00",
@@ -2127,19 +2127,19 @@
   "id": "ms05_01:116:02",
   "speaker": "朝子",
   "jp": "みんな、今日は寄り道しないで\nまっすぐ帰りなさいね。",
-  "en": "Everyone, go straight home today. No detours,\nunderstand?"
+  "en": "Everyone, go straight home\ntoday. No detours, understand?"
  },
  {
   "id": "ms05_01:116:03",
   "speaker": "燈治",
   "jp": "ッたく、あいつらのせいで\n酷い目に遭ったぜ……。",
-  "en": "Damn, those bastards really put us through the\nwringer..."
+  "en": "Damn, those bastards really\nput us through the wringer..."
  },
  {
   "id": "ms05_01:116:04",
   "speaker": "巴",
   "jp": "でもよかったわよ。\n何もお{ruby:咎|とが}めナシで。",
-  "en": "Still, it's a good thing you got off without any\npunishment."
+  "en": "Still, it's a good thing you got\noff without any punishment."
  },
  {
   "id": "ms05_01:116:05",
@@ -2163,19 +2163,19 @@
   "id": "ms05_01:116:08",
   "speaker": "弥紀",
   "jp": "{px}と壇くんのこと、\n信じてくれてたと思うし……。",
-  "en": "I think she believed in {px} and Dan-kun..."
+  "en": "I think she believed in\n{px} and Dan-kun..."
  },
  {
   "id": "ms05_01:116:09",
   "speaker": "燈治",
   "jp": "まァ、あんなふざけた\n奴らの言う事、鵜呑みに\nされても困るけどな。",
-  "en": "Well, it'd suck if she swallowed whatever those\njokers said whole."
+  "en": "Well, it'd suck if she swallowed\nwhatever those jokers said whole."
  },
  {
   "id": "ms05_01:116:10",
   "speaker": "燈治",
   "jp": "にしてもあいつら、\n花札を手に入れて\n一体どうするつもりなんだ。",
-  "en": "Still, what the hell are those guys plannin' to do\nonce they get the hanafuda?"
+  "en": "Still, what the hell are those guys plannin'\nto do once they get the hanafuda?"
  },
  {
   "id": "ms05_01:116:11",
@@ -2187,7 +2187,7 @@
   "id": "ms05_01:116:12",
   "speaker": "巴",
   "jp": "人やその他のものに\n取り憑いて化け物にしたり、",
-  "en": "A power that possesses people and other things and\nturns them into monsters,"
+  "en": "A power that possesses people and other\nthings and turns them into monsters,"
  },
  {
   "id": "ms05_01:116:13",
@@ -2199,7 +2199,7 @@
   "id": "ms05_01:117:00",
   "speaker": "巴",
   "jp": "あんな奴らに\n渡せるワケないでしょ？",
-  "en": "There's no way we can hand that over to people\nlike them, right?"
+  "en": "There's no way we can hand that\nover to people like them, right?"
  },
  {
   "id": "ms05_01:118:00",
@@ -2223,13 +2223,13 @@
   "id": "ms05_01:120:00",
   "speaker": "巴",
   "jp": "……まあ、今回ばかりは\nその意気込みもわかるわ。",
-  "en": "...Well, just this once, I get where your enthusiasm's\ncoming from."
+  "en": "...Well, just this once, I get where\nyour enthusiasm's coming from."
  },
  {
   "id": "ms05_01:120:01",
   "speaker": "巴",
   "jp": "これ以上、あんな奴らの\n思う通りにさせて\nたまるもんですか。",
-  "en": "There's no way I'm letting those guys have their\nway any longer."
+  "en": "There's no way I'm letting those\nguys have their way any longer."
  },
  {
   "id": "ms05_01:121:00",
@@ -2253,7 +2253,7 @@
   "id": "ms05_01:123:01",
   "speaker": "巴",
   "jp": "大体、札を集める事は\n{px}の目的じゃない。\nまったく……。",
-  "en": "Besides, collecting the cards is your goal, isn't it,\n{px}? Honestly..."
+  "en": "Besides, collecting the cards is your goal,\nisn't it, {px}? Honestly..."
  },
  {
   "id": "ms05_01:124:00",
@@ -2265,7 +2265,7 @@
   "id": "ms05_01:124:01",
   "speaker": "巴",
   "jp": "大体、札を集める事は\n{px}の目的じゃない。",
-  "en": "Besides, collecting the cards is your goal, isn't it,\n{px}?"
+  "en": "Besides, collecting the cards is your\ngoal, isn't it, {px}?"
  },
  {
   "id": "ms05_01:125:00",
@@ -2277,7 +2277,7 @@
   "id": "ms05_01:125:01",
   "speaker": "巴",
   "jp": "大体、札を集める事は\n{px}の目的じゃない。",
-  "en": "Besides, collecting the cards is your goal, isn't it,\n{px}?"
+  "en": "Besides, collecting the cards is your\ngoal, isn't it, {px}?"
  },
  {
   "id": "ms05_01:126:00",
@@ -2295,7 +2295,7 @@
   "id": "ms05_01:127:01",
   "speaker": "巴",
   "jp": "早く集めないと、\n何かよくない事が\n起こりそうな気がする。",
-  "en": "I've got a feeling something bad's going to happen if\nwe don't collect them soon."
+  "en": "I've got a feeling something bad's going\nto happen if we don't collect them soon."
  },
  {
   "id": "ms05_01:127:02",
@@ -2307,7 +2307,7 @@
   "id": "ms05_01:127:03",
   "speaker": "巴",
   "jp": "そりゃ不安にもなるわよ。\nこうワケのわからない事\nばかりじゃね。",
-  "en": "Well, of course I'm uneasy. Nothing that's going on\nmakes any sense."
+  "en": "Well, of course I'm uneasy. Nothing\nthat's going on makes any sense."
  },
  {
   "id": "ms05_01:127:04",
@@ -2319,19 +2319,19 @@
   "id": "ms05_01:127:05",
   "speaker": "弥紀",
   "jp": "札を集めるな、って\n言った人もいるんだよね？",
-  "en": "Somebody told us not to collect the cards, too,\nright?"
+  "en": "Somebody told us not to\ncollect the cards, too, right?"
  },
  {
   "id": "ms05_01:127:06",
   "speaker": "弥紀",
   "jp": "どうしてなんだろう……。\n本当、わからないことばかり。",
-  "en": "I wonder why... Really, there's so much we don't\nunderstand."
+  "en": "I wonder why... Really, there's\nso much we don't understand."
  },
  {
   "id": "ms05_01:128:00",
   "speaker": "弥紀",
   "jp": "ねえ、{px}は\nどうするのがいいと思う？",
-  "en": "Hey, {px}, what do you think we should do?"
+  "en": "Hey, {px}, what\ndo you think we should do?"
  },
  {
   "id": "ms05_01:129:00",
@@ -2343,7 +2343,7 @@
   "id": "ms05_01:129:01",
   "speaker": "弥紀",
   "jp": "{px}は偉いね。\nこんな……\n大変なことばかりなのに……。",
-  "en": "You're amazing, {px}. Even with all this... all this hard\nstuff going on..."
+  "en": "You're amazing, {px}. Even\nwith all this... all this hard stuff going on..."
  },
  {
   "id": "ms05_01:129:02",
@@ -2361,7 +2361,7 @@
   "id": "ms05_01:130:01",
   "speaker": "弥紀",
   "jp": "そっか……。\nそう出来たら、その方が\nいいのかもしれないね……。",
-  "en": "I see... If we could do that, maybe that would be for\nthe best..."
+  "en": "I see... If we could do that, maybe\nthat would be for the best..."
  },
  {
   "id": "ms05_01:130:02",
@@ -2379,7 +2379,7 @@
   "id": "ms05_01:131:01",
   "speaker": "弥紀",
   "jp": "それなのに、やらなくちゃ\nいけない立場だなんて、\n本当に大変だよね。",
-  "en": "And yet you're in a position where you have to do\nit anyway. That must be really hard."
+  "en": "And yet you're in a position where you have\nto do it anyway. That must be really hard."
  },
  {
   "id": "ms05_01:131:02",
@@ -2403,7 +2403,7 @@
   "id": "ms05_01:132:02",
   "speaker": "燈治",
   "jp": "どんな結果になろうと\nお前を一人にするような\n事はしねェよ。",
-  "en": "However things turn out, I ain't gonna leave you on\nyour own."
+  "en": "However things turn out, I ain't\ngonna leave you on your own."
  },
  {
   "id": "ms05_01:132:03",
@@ -2415,7 +2415,7 @@
   "id": "ms05_01:132:04",
   "speaker": "巴",
   "jp": "このあたしが乗ってる限り\n何の心配もいらないわよ。",
-  "en": "As long as I'm on board, you've got nothing to\nworry about."
+  "en": "As long as I'm on board, you've\ngot nothing to worry about."
  },
  {
   "id": "ms05_01:132:05",
@@ -2427,7 +2427,7 @@
   "id": "ms05_01:132:06",
   "speaker": "弥紀",
   "jp": "まだわからないことも\nたくさんあって、不安になる\nこともあるけど―――",
-  "en": "There's still lots we don't know, and sometimes it\nmakes me anxious, but--"
+  "en": "There's still lots we don't know, and\nsometimes it makes me anxious, but--"
  },
  {
   "id": "ms05_01:132:07",
@@ -2445,7 +2445,7 @@
   "id": "ms05_01:132:09",
   "speaker": "燈治",
   "jp": "それによ、\nあんだけ正面切って\n喧嘩売られたんだ。",
-  "en": "Besides, they picked a fight with us right to our\nfaces."
+  "en": "Besides, they picked a fight\nwith us right to our faces."
  },
  {
   "id": "ms05_01:133:00",
@@ -2475,7 +2475,7 @@
   "id": "ms05_01:135:01",
   "speaker": "燈治",
   "jp": "あんまり浮かれてねェで\nガツンと言ってやれよ？",
-  "en": "Don't get too carried away, but give 'em a real piece\nof your mind, yeah?"
+  "en": "Don't get too carried away, but give\n'em a real piece of your mind, yeah?"
  },
  {
   "id": "ms05_01:136:00",
@@ -2505,7 +2505,7 @@
   "id": "ms05_01:138:01",
   "speaker": "燈治",
   "jp": "わざわざのご招待だ。\n行かない手はねェだろ？",
-  "en": "They went outta their way to invite us. No reason\nnot to go, right?"
+  "en": "They went outta their way to invite\nus. No reason not to go, right?"
  },
  {
   "id": "ms05_01:138:02",
@@ -2523,7 +2523,7 @@
   "id": "ms05_01:139:01",
   "speaker": "燈治",
   "jp": "まァ気持ちもわかるけどよ、\nとにかく行ってみようぜ。\n話はそれからだ。",
-  "en": "Well, I get how you feel, but let's just go check it\nout. We'll talk after that."
+  "en": "Well, I get how you feel, but let's just\ngo check it out. We'll talk after that."
  },
  {
   "id": "ms05_01:140:00",
@@ -2547,7 +2547,7 @@
   "id": "ms05_01:141:01",
   "speaker": "燈治",
   "jp": "まァ気持ちもわかるけどよ、\nとにかく行ってみようぜ。\n話はそれからだ。",
-  "en": "Well, I get how you feel, but let's just go check it\nout. We'll talk after that."
+  "en": "Well, I get how you feel, but let's just\ngo check it out. We'll talk after that."
  },
  {
   "id": "ms05_01:142:00",
@@ -2565,7 +2565,7 @@
   "id": "ms05_01:143:01",
   "speaker": "巴",
   "jp": "あたしたちも\n早いとこ準備して、\n花園神社へ行きましょう。",
-  "en": "We'd better hurry up and get ready too, and head\nto Hanazono Shrine."
+  "en": "We'd better hurry up and get ready\ntoo, and head to Hanazono Shrine."
  },
  {
   "id": "ms05_01:ksf:0121f",

@@ -9,13 +9,13 @@
   "id": "fn11_15:001:01",
   "speaker": "輪",
   "jp": "う、うう、うっかりしてたぞ。\n今日はみんなが騒いでるから、\nなにかな、と思ってたら……。",
-  "en": "I-I-I wasn't paying attention. Everyone was making a\nfuss today, so I wondered what was going on, and\nthen..."
+  "en": "I-I-I wasn't paying attention. Everyone\nwas making a fuss today, so I wondered\nwhat was going on, and then..."
  },
  {
   "id": "fn11_15:001:02",
   "speaker": "輪",
   "jp": "周りが、その……。\nううう、居心地悪いな……。",
-  "en": "Everyone around here is, um... Ugh, this is so\nawkward..."
+  "en": "Everyone around here is, um...\nUgh, this is so awkward..."
  },
  {
   "id": "fn11_15:001:03",
@@ -39,7 +39,7 @@
   "id": "fn11_15:002:01",
   "speaker": "輪",
   "jp": "い、いや、ええっと、\n{px}、なんかちょっと\n間違えて無いか！？",
-  "en": "N-no, um, {px}, aren't you kinda getting this wrong!?"
+  "en": "N-no, um, {px}, aren't\nyou kinda getting this wrong!?"
  },
  {
   "id": "fn11_15:002:02",
@@ -51,7 +51,7 @@
   "id": "fn11_15:003:00",
   "speaker": "輪",
   "jp": "そ、そこは\n喜ぶとこじゃないだろ！？",
-  "en": "Th-that's not the part where you're supposed to be\nhappy!"
+  "en": "Th-that's not the part where\nyou're supposed to be happy!"
  },
  {
   "id": "fn11_15:003:01",
@@ -183,13 +183,13 @@
   "id": "fn11_15:013:03",
   "speaker": "輪",
   "jp": "だって今日は……ほら、\nあの日だろ？\nカップル……ばっかだし。",
-  "en": "'Cause today's... you know, that day, right? It's all...\ncouples."
+  "en": "'Cause today's... you know, that\nday, right? It's all... couples."
  },
  {
   "id": "fn11_15:013:04",
   "speaker": "輪",
   "jp": "向こうはイルミネーションで\n光ってるし、隠密行動も\nやりにくそうだな……。",
-  "en": "And it's all lit up with illuminations over there.\nCovert ops'd be tough..."
+  "en": "And it's all lit up with illuminations\nover there. Covert ops'd be tough..."
  },
  {
   "id": "fn11_15:013:05",
@@ -201,13 +201,13 @@
   "id": "fn11_15:013:06",
   "speaker": "輪",
   "jp": "そうだなあ……。\n潜めないなら、逆に馴染む\n方向で考えるべきかな？",
-  "en": "Let's see... If I can't hide, maybe I should think about\nblending in instead?"
+  "en": "Let's see... If I can't hide, maybe I\nshould think about blending in instead?"
  },
  {
   "id": "fn11_15:013:07",
   "speaker": "輪",
   "jp": "これだけ人はいるんだし、\nこの人混みに紛れれば……。",
-  "en": "With this many people around, if I slip into the\ncrowd..."
+  "en": "With this many people around,\nif I slip into the crowd..."
  },
  {
   "id": "fn11_15:013:08",
@@ -219,7 +219,7 @@
   "id": "fn11_15:013:09",
   "speaker": "輪",
   "jp": "……なあ、{px}。\nボクたちも、ここに\n馴染めてるかな？",
-  "en": "...Hey, {px}. Do you think we blend in here too?"
+  "en": "...Hey, {px}. Do\nyou think we blend in here too?"
  },
  {
   "id": "fn11_15:014:00",
@@ -249,13 +249,13 @@
   "id": "fn11_15:016:00",
   "speaker": "輪",
   "jp": "ははッ、{px}が\n馴染めてないんじゃないか？",
-  "en": "Haha, maybe you're the one who doesn't blend in,\n{px}?"
+  "en": "Haha, maybe you're the one who\ndoesn't blend in, {px}?"
  },
  {
   "id": "fn11_15:016:01",
   "speaker": "輪",
   "jp": "……馴染めてない同士、\n馴染んでるのかもなッ。",
-  "en": "...Maybe two misfits like us blend in just fine\ntogether."
+  "en": "...Maybe two misfits like us\nblend in just fine together."
  },
  {
   "id": "fn11_15:017:00",
@@ -303,7 +303,7 @@
   "id": "fn11_15:023:00",
   "speaker": "輪",
   "jp": "蒲生先輩が、言ってたんだ。\n{px}にはもっと……。",
-  "en": "Gamo-senpai said that {px} needs someone more..."
+  "en": "Gamo-senpai said that\n{px} needs someone more..."
  },
  {
   "id": "fn11_15:023:01",
@@ -327,13 +327,13 @@
   "id": "fn11_15:024:00",
   "speaker": "輪",
   "jp": "なんか安心したよ。\n蒲生先輩が、ヘンなコト\n言うからさ。",
-  "en": "Somehow that's a relief. Gamo-senpai said such\nweird stuff."
+  "en": "Somehow that's a relief.\nGamo-senpai said such weird stuff."
  },
  {
   "id": "fn11_15:024:01",
   "speaker": "輪",
   "jp": "他人の言葉に流されるなんて、\nボクもまだ修行が足りないな。",
-  "en": "Getting swept along by what other people say... I still\nneed more training."
+  "en": "Getting swept along by what other\npeople say... I still need more training."
  },
  {
   "id": "fn11_15:024:02",
@@ -345,19 +345,19 @@
   "id": "fn11_15:024:03",
   "speaker": "輪",
   "jp": "忍たるもの、殿がいなきゃ\nしまらないだろ？\nだから、殿を募集中なんだ。",
-  "en": "A ninja's nothing without a lord, right? So I'm\nrecruiting one."
+  "en": "A ninja's nothing without a lord,\nright? So I'm recruiting one."
  },
  {
   "id": "fn11_15:024:04",
   "speaker": "輪",
   "jp": "まあ、ボクが認めるだけの\n殿はなかなかいないけど。",
-  "en": "Well, there aren't many lords good enough for me to\naccept."
+  "en": "Well, there aren't many lords\ngood enough for me to accept."
  },
  {
   "id": "fn11_15:025:00",
   "speaker": "輪",
   "jp": "……ん？\nそういえば、\n身近に候補がいたな。",
-  "en": "...Hm? Come to think of it, there's a candidate right\nnearby."
+  "en": "...Hm? Come to think of it,\nthere's a candidate right nearby."
  },
  {
   "id": "fn11_15:025:01",
@@ -369,7 +369,7 @@
   "id": "fn11_15:026:00",
   "speaker": "輪",
   "jp": "……オマエはボクの隠行を\n二度も見破った達人だ。\n殿の資格は十分かもな。",
-  "en": "...You're a master who's seen through my stealth\ntwice. You might be more than qualified to be a\nlord."
+  "en": "...You're a master who's seen\nthrough my stealth twice. You might\nbe more than qualified to be a lord."
  },
  {
   "id": "fn11_15:026:01",
@@ -381,7 +381,7 @@
   "id": "fn11_15:027:00",
   "speaker": "輪",
   "jp": "{px}、\nそ、そそ、そのッ、\n忍とか欲しくないか？",
-  "en": "{px}, d-d-do you, um, maybe want a ninja?"
+  "en": "{px}, d-d-do\nyou, um, maybe want a ninja?"
  },
  {
   "id": "fn11_15:028:00",
@@ -393,13 +393,13 @@
   "id": "fn11_15:028:01",
   "speaker": "輪",
   "jp": "忍ってのはな、とにかく\nばびゅーんと凄くて、\nカッコいいものなんだからな！",
-  "en": "Listen, ninja are just totally zoom-whoosh amazing\nand super cool, got it!"
+  "en": "Listen, ninja are just totally zoom-whoosh\namazing and super cool, got it!"
  },
  {
   "id": "fn11_15:028:02",
   "speaker": "輪",
   "jp": "まったく、{px}に\n殿はまだ早いな。",
-  "en": "Jeez, {px}, you're not ready to be a lord yet."
+  "en": "Jeez, {px}, you're\nnot ready to be a lord yet."
  },
  {
   "id": "fn11_15:029:00",
@@ -501,13 +501,13 @@
   "id": "fn11_15:037:03",
   "speaker": "輪",
   "jp": "忍者として一人前になったら\n返事を聞きに来てやるよ！",
-  "en": "Once I'm a full-fledged ninja, I'll come back to hear\nyour answer!"
+  "en": "Once I'm a full-fledged ninja, I'll\ncome back to hear your answer!"
  },
  {
   "id": "fn11_15:037:04",
   "speaker": "輪",
   "jp": "その時まで、自分の忍は\n持っちゃダメだからな！\n殿は予約したからなっ！",
-  "en": "Till then, no getting a ninja of your own! I've got\nyou reserved as my lord!"
+  "en": "Till then, no getting a ninja of your\nown! I've got you reserved as my lord!"
  },
  {
   "id": "fn11_15:038:00",
@@ -519,7 +519,7 @@
   "id": "fn11_15:039:00",
   "speaker": "輪",
   "jp": "へへっ、もっと修行頑張って\n早く返事聞きにいくからな！",
-  "en": "Heh, I'll train even harder and come for your answer\nsoon!"
+  "en": "Heh, I'll train even harder and\ncome for your answer soon!"
  },
  {
   "id": "fn11_15:040:00",

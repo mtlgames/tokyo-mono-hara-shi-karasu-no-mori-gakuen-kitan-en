@@ -9,7 +9,7 @@
   "id": "dg08_00:000:01",
   "speaker": "いちる",
   "jp": "{px}と、\nゆっくり話も出来るし。",
-  "en": "And I can talk with you properly, {px}."
+  "en": "And I can talk with you\nproperly, {px}."
  },
  {
   "id": "dg08_00:000:02",
@@ -33,7 +33,7 @@
   "id": "dg08_00:000:05",
   "speaker": "いちる",
   "jp": "どうしてこんなコトに\n{px}が巻き込まれなきゃ\nならないの……？",
-  "en": "Why does {px} have to get dragged into something\nlike this...?"
+  "en": "Why does {px} have to\nget dragged into something like this...?"
  },
  {
   "id": "dg08_00:000:06",
@@ -45,19 +45,19 @@
   "id": "dg08_00:000:07",
   "speaker": "白",
   "jp": "其方の気配があると\n狐から聞いて飛んできてみれば\n一体これは何事ぞ。",
-  "en": "The fox told me it sensed your presence, so I came\nflying. And what, pray tell, is all this?"
+  "en": "The fox told me it sensed your presence, so\nI came flying. And what, pray tell, is all this?"
  },
  {
   "id": "dg08_00:000:08",
   "speaker": "白",
   "jp": "学校を怪しげな者共が\n取り囲んでおる。\nそれに―――",
-  "en": "Suspicious folk have surrounded the school. And\nmoreover--"
+  "en": "Suspicious folk have surrounded\nthe school. And moreover--"
  },
  {
   "id": "dg08_00:000:09",
   "speaker": "白",
   "jp": "何じゃこの小娘は。\n見たところ、\n封札師のようじゃが。",
-  "en": "Who is this little girl? By the look of her, a Card\nSealer."
+  "en": "Who is this little girl? By the\nlook of her, a Card Sealer."
  },
  {
   "id": "dg08_00:000:10",
@@ -75,7 +75,7 @@
   "id": "dg08_00:000:12",
   "speaker": "いちる",
   "jp": "白札……\nアンタのせいで\n{px}は……。",
-  "en": "White Card... It's because of you that {px}..."
+  "en": "White Card... It's because of\nyou that {px}..."
  },
  {
   "id": "dg08_00:000:13",
@@ -87,7 +87,7 @@
   "id": "dg08_00:000:14",
   "speaker": "いちる",
   "jp": "……{px}。\nいますぐその花札を\nあたしに渡して。",
-  "en": "...{px}. Give me that hanafuda right now."
+  "en": "...{px}. Give\nme that hanafuda right now."
  },
  {
   "id": "dg08_00:000:15",
@@ -111,7 +111,7 @@
   "id": "dg08_00:001:01",
   "speaker": "いちる",
   "jp": "それでも、\nあたしは、決めたから。\n{px}を護るって。",
-  "en": "Even so, I've made up my mind. I'm going to protect\n{px}."
+  "en": "Even so, I've made up my mind. I'm\ngoing to protect {px}."
  },
  {
   "id": "dg08_00:002:00",
@@ -195,7 +195,7 @@
   "id": "dg08_00:008:00",
   "speaker": "いちる",
   "jp": "……そうだね。\nいきなり言われたって\n困るよね。",
-  "en": "...Right. It's hard to answer when it's sprung on you\nlike that."
+  "en": "...Right. It's hard to answer when\nit's sprung on you like that."
  },
  {
   "id": "dg08_00:008:01",
@@ -219,7 +219,7 @@
   "id": "dg08_00:010:00",
   "speaker": "白",
   "jp": "{px}も其方も、\n一体何を考えておるのじゃ！",
-  "en": "{px} and you both -- what on earth are you\nthinking!"
+  "en": "{px} and you both\n-- what on earth are you thinking!"
  },
  {
   "id": "dg08_00:010:01",
@@ -231,7 +231,7 @@
   "id": "dg08_00:010:02",
   "speaker": "白",
   "jp": "其方のような得体の知れぬ\n小娘が、易々と成り代われる\nものではないわ！",
-  "en": "A little girl of unknown origin such as you cannot\nsimply take his place!"
+  "en": "A little girl of unknown origin such\nas you cannot simply take his place!"
  },
  {
   "id": "dg08_00:010:03",
@@ -249,7 +249,7 @@
   "id": "dg08_00:010:05",
   "speaker": "いちる",
   "jp": "あたしにも執行者としての\n資格があるってコト、\n証明しないとだよね。",
-  "en": "I've gotta prove I'm qualified to be an Executor too,\ndon't I?"
+  "en": "I've gotta prove I'm qualified to\nbe an Executor too, don't I?"
  },
  {
   "id": "dg08_00:010:06",
@@ -267,13 +267,13 @@
   "id": "dg08_00:010:08",
   "speaker": "白",
   "jp": "この……\nいきなり何をするのじゃ！",
-  "en": "You...! What do you think you're doing all of a\nsudden!"
+  "en": "You...! What do you think\nyou're doing all of a sudden!"
  },
  {
   "id": "dg08_00:010:09",
   "speaker": "いちる",
   "jp": "あたしが{px}より\n強ければ、アンタだって\n何も文句はないでしょ。",
-  "en": "If I'm stronger than {px}, you won't have any\ncomplaints either, right?"
+  "en": "If I'm stronger than {px}, you\nwon't have any complaints either, right?"
  },
  {
   "id": "dg08_00:010:10",
@@ -309,13 +309,13 @@
   "id": "dg08_00:010:15",
   "speaker": "いちる",
   "jp": "こんなの……\n普通の人が触れたら\nすぐに隠人になっちゃうよ。",
-  "en": "Something like this... if an ordinary person touched\nit, they'd turn into an Oni in no time."
+  "en": "Something like this... if an ordinary person\ntouched it, they'd turn into an Oni in no time."
  },
  {
   "id": "dg08_00:010:16",
   "speaker": "白",
   "jp": "ならば何故、\n{px}の邪魔をする。",
-  "en": "Then why do you stand in {px}'s way?"
+  "en": "Then why do you stand in\n{px}'s way?"
  },
  {
   "id": "dg08_00:010:17",
@@ -339,7 +339,7 @@
   "id": "dg08_00:010:20",
   "speaker": "いちる",
   "jp": "とにかく、\n執行者にはあたしがなる。",
-  "en": "Anyway, I'm the one who's going to be the\nExecutor."
+  "en": "Anyway, I'm the one who's\ngoing to be the Executor."
  },
  {
   "id": "dg08_00:010:21",
@@ -369,7 +369,7 @@
   "id": "dg08_00:011:03",
   "speaker": "いちる",
   "jp": "{px}、キミがあくまで\nその札を集めるって言うなら、",
-  "en": "{px}, if you're still set on collecting those cards,"
+  "en": "{px}, if you're still\nset on collecting those cards,"
  },
  {
   "id": "dg08_00:011:04",
@@ -489,7 +489,7 @@
   "id": "dg08_00:021:01",
   "speaker": "いちる",
   "jp": "あたしだって……\n持ってるんだよ、{ruby:一枚|・・}。",
-  "en": "Because I... I have one too, you know. One of the\ncards."
+  "en": "Because I... I have one too,\nyou know. One of the cards."
  },
  {
   "id": "dg08_00:021:02",
@@ -507,19 +507,19 @@
   "id": "dg08_00:021:04",
   "speaker": "いちる",
   "jp": "人が持つ大量の情報を\n取り込もうと、\nじっと隙を{ruby:窺|うかが}ってる。",
-  "en": "It just lies in wait, watching for a chance to swallow\nup all the information people carry."
+  "en": "It just lies in wait, watching for a chance to\nswallow up all the information people carry."
  },
  {
   "id": "dg08_00:021:05",
   "speaker": "いちる",
   "jp": "こんなの……\n普通の人が触れたら\nすぐに隠人になっちゃうよ。",
-  "en": "Something like this... If an ordinary person touched\nit, they'd turn into an Oni in no time."
+  "en": "Something like this... If an ordinary person\ntouched it, they'd turn into an Oni in no time."
  },
  {
   "id": "dg08_00:021:06",
   "speaker": "白",
   "jp": "ならば何故、\n{px}の邪魔をする。",
-  "en": "Then why do you stand in {px}'s way?"
+  "en": "Then why do you stand in\n{px}'s way?"
  },
  {
   "id": "dg08_00:021:07",
@@ -561,7 +561,7 @@
   "id": "dg08_00:022:02",
   "speaker": "いちる",
   "jp": "お互いの持つものを\n賭けての勝負なら、\n異論はないよね。",
-  "en": "If we're wagering what we each hold, you've got no\nobjections, right?"
+  "en": "If we're wagering what we each\nhold, you've got no objections, right?"
  },
  {
   "id": "dg08_00:022:03",
@@ -573,19 +573,19 @@
   "id": "dg08_00:022:04",
   "speaker": "いちる",
   "jp": "人が持つ大量の情報を\n取り込もうと、\nじっと隙を{ruby:窺|うかが}ってる。",
-  "en": "It just lies in wait, watching for a chance to swallow\nup all the information people carry."
+  "en": "It just lies in wait, watching for a chance to\nswallow up all the information people carry."
  },
  {
   "id": "dg08_00:022:05",
   "speaker": "いちる",
   "jp": "こんなの……\n普通の人が触れたら\nすぐに隠人になっちゃうよ。",
-  "en": "Something like this... If an ordinary person touched\nit, they'd turn into an Oni in no time."
+  "en": "Something like this... If an ordinary person\ntouched it, they'd turn into an Oni in no time."
  },
  {
   "id": "dg08_00:022:06",
   "speaker": "白",
   "jp": "ならば何故、\n{px}の邪魔をする。",
-  "en": "Then why do you stand in {px}'s way?"
+  "en": "Then why do you stand in\n{px}'s way?"
  },
  {
   "id": "dg08_00:022:07",

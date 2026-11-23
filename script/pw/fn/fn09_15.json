@@ -9,31 +9,31 @@
   "id": "fn09_15:001:01",
   "speaker": "輪",
   "jp": "あ、{px}も\nヒーロー見学か？\nヒーローって、凄いよな！",
-  "en": "Oh, {px}, you here to watch the hero too? Heroes\nare amazing, huh!"
+  "en": "Oh, {px}, you here to watch\nthe hero too? Heroes are amazing, huh!"
  },
  {
   "id": "fn09_15:001:02",
   "speaker": "輪",
   "jp": "パーって行って、ぐわーっで、\nどがーん！！って！！",
-  "en": "They go whoosh, and then kapow, and then\nKABOOM!!"
+  "en": "They go whoosh, and then\nkapow, and then KABOOM!!"
  },
  {
   "id": "fn09_15:001:03",
   "speaker": "輪",
   "jp": "忍者が一番と思ってたけど、\n……これは、ライバルだな。\n宿敵と書いて、ライバルだ！",
-  "en": "I thought ninjas were the best, but... this is a rival.\nRival, as in sworn enemy!"
+  "en": "I thought ninjas were the best, but...\nthis is a rival. Rival, as in sworn enemy!"
  },
  {
   "id": "fn09_15:002:00",
   "speaker": "輪",
   "jp": "……でも、{px}。\nヒーローより忍者の方が\nやっぱカッコいいよな？",
-  "en": "...But {px}, ninjas are still cooler than heroes, right?"
+  "en": "...But {px}, ninjas\nare still cooler than heroes, right?"
  },
  {
   "id": "fn09_15:003:00",
   "speaker": "輪",
   "jp": "{px}も同じ！？\nそうだよな、大好きだよな！",
-  "en": "You feel the same, {px}!? Yeah, you love 'em both,\nright!"
+  "en": "You feel the same, {px}!?\nYeah, you love 'em both, right!"
  },
  {
   "id": "fn09_15:003:01",
@@ -57,7 +57,7 @@
   "id": "fn09_15:005:01",
   "speaker": "輪",
   "jp": "影に忍んで生きるが{ruby:宿業|さ　だ　め}……。\nくゥ～、カッコイイ！！",
-  "en": "Living hidden in the shadows is their destiny...\nKuuu, so cool!!"
+  "en": "Living hidden in the shadows\nis their destiny... Kuuu, so cool!!"
  },
  {
   "id": "fn09_15:006:00",
@@ -81,7 +81,7 @@
   "id": "fn09_15:008:00",
   "speaker": "輪",
   "jp": "な、なんだって！？\n{px}、本気か……！？",
-  "en": "Wh-what did you say!? {px}, are you serious...!?"
+  "en": "Wh-what did you say!?\n{px}, are you serious...!?"
  },
  {
   "id": "fn09_15:008:01",
@@ -99,7 +99,7 @@
   "id": "fn09_15:009:00",
   "speaker": "輪",
   "jp": "なにッ！？\nもしかして{px}は\nヒーロー派なのか！？",
-  "en": "What!? Could it be... {px}, you're on Team Hero!?"
+  "en": "What!? Could it be... {px},\nyou're on Team Hero!?"
  },
  {
   "id": "fn09_15:009:01",
@@ -122,7 +122,7 @@
   "id": "fn09_15:010:02",
   "speaker": "輪",
   "jp": "忍者は当然だけど、ヒーローも\nカッコいいんだよなァ。",
-  "en": "Ninjas are cool, obviously, but heroes are pretty cool\ntoo, y'know."
+  "en": "Ninjas are cool, obviously, but\nheroes are pretty cool too, y'know."
  },
  {
   "id": "fn09_15:010:03",
@@ -134,7 +134,7 @@
   "id": "fn09_15:011:00",
   "speaker": "輪",
   "jp": "こらッ！どうでもいいって顔\nするんじゃない！！\n忍者にはお見通しだぞ！",
-  "en": "Hey! Don't make that \"who cares\" face at me!! A\nninja sees right through you!"
+  "en": "Hey! Don't make that \"who cares\" face\nat me!! A ninja sees right through you!"
  },
  {
   "id": "fn09_15:011:01",
@@ -146,13 +146,13 @@
   "id": "fn09_15:012:00",
   "speaker": "輪",
   "jp": "いいコト思いついたぞ！！\n合体して、忍者ヒーローとか\nどうだ！？",
-  "en": "I've got a great idea!! What if we combine 'em, like a\nNinja Hero!?"
+  "en": "I've got a great idea!! What if we\ncombine 'em, like a Ninja Hero!?"
  },
  {
   "id": "fn09_15:012:01",
   "speaker": "輪",
   "jp": "よし！忍者ヒーロー目指して\n修行開始だー！",
-  "en": "Alright! Training to become a Ninja Hero starts\nnow!"
+  "en": "Alright! Training to become\na Ninja Hero starts now!"
  },
  {
   "id": "fn09_15:013:00",

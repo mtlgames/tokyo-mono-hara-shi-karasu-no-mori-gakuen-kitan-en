@@ -21,7 +21,7 @@
   "id": "dg13_10:000:03",
   "speaker": "金属質な声",
   "jp": "人より分離し、\n在りし場所へと戻る也―――",
-  "en": "Separate from the humans, and return to where you\nonce were--"
+  "en": "Separate from the humans, and\nreturn to where you once were--"
  },
  {
   "id": "dg13_10:000:04",
@@ -39,25 +39,25 @@
   "id": "dg13_10:000:06",
   "speaker": "白",
   "jp": "絶たれる……\n絶たれてしまう……\n札と執行者を繋ぐ力が―――",
-  "en": "It is being severed... The power binding the cards\nand the Executor is being severed--"
+  "en": "It is being severed... The power binding the\ncards and the Executor is being severed--"
  },
  {
   "id": "dg13_10:000:07",
   "speaker": "零",
   "jp": "くッ……{px}から\n札を切り離して吸収する気か。\n白ッ―――",
-  "en": "Ngh... It means to tear the cards away from {px} and\nabsorb them. Mao--"
+  "en": "Ngh... It means to tear the cards away from\n{px} and absorb them. Mao--"
  },
  {
   "id": "dg13_10:000:08",
   "speaker": "白",
   "jp": "下がりおれ！\n札より分かたれた其方は、\n共には取り込まれぬはずじゃ。",
-  "en": "Stand back! You were split off from the cards; you\nshould not be taken in with them."
+  "en": "Stand back! You were split off from the\ncards; you should not be taken in with them."
  },
  {
   "id": "dg13_10:000:09",
   "speaker": "白",
   "jp": "妾の事より、\n其方は、{px}を―――",
-  "en": "Never mind me. You must protect {px}--"
+  "en": "Never mind me. You must\nprotect {px}--"
  },
  {
   "id": "dg13_10:000:10",
@@ -93,7 +93,7 @@
   "id": "dg13_10:000:15",
   "speaker": "白",
   "jp": "嫌じゃ！！\n{px}ッ……\n妾はまだ、其方と―――",
-  "en": "I do not want this!! {px}... I still wish to be with\nyou--"
+  "en": "I do not want this!! {px}...\nI still wish to be with you--"
  },
  {
   "id": "dg13_10:000:16",
@@ -111,6 +111,6 @@
   "id": "dg13_10:000:18",
   "speaker": "金属質な声",
   "jp": "ＯＲＤＳに蓄えられし\nこの地の力を束ね、\n我が真の現し身と成す也―――",
-  "en": "I shall gather the power of this land stored in the\nORDS and make of it my true incarnation--"
+  "en": "I shall gather the power of this land stored in\nthe ORDS and make of it my true incarnation--"
  }
 ]

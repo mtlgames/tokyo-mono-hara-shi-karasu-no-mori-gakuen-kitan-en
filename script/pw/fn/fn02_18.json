@@ -9,25 +9,25 @@
   "id": "fn02_18:001:01",
   "speaker": "鍵",
   "jp": "とは言ってもまだまだ\n飯・風呂・寝るって訳には\nいきやせんね。",
-  "en": "Though I'd wager it's not quite time for supper, a\nbath and bed just yet, eh?"
+  "en": "Though I'd wager it's not quite time for\nsupper, a bath and bed just yet, eh?"
  },
  {
   "id": "fn02_18:001:02",
   "speaker": "鍵",
   "jp": "{ruby:洞|うろ}に行く時はお気軽に。\nいくらでも、お手伝い\nさせていただきやす。",
-  "en": "Whenever you head to the Hollow, just say the\nword. I'll lend a hand as much as you like."
+  "en": "Whenever you head to the Hollow, just say\nthe word. I'll lend a hand as much as you like."
  },
  {
   "id": "fn02_18:002:00",
   "speaker": "鍵",
   "jp": "やれやれ、\n大変な御方に\n当たっちまったようだ。",
-  "en": "My, my. Seems I've been paired with quite the\nformidable sort."
+  "en": "My, my. Seems I've been paired\nwith quite the formidable sort."
  },
  {
   "id": "fn02_18:002:01",
   "speaker": "鍵",
   "jp": "その調子じゃあ、\n手抜きはさせてもらえ\nそうにありやせんね。",
-  "en": "At this rate, I doubt you'll let me get away with any\nslacking off."
+  "en": "At this rate, I doubt you'll let me\nget away with any slacking off."
  },
  {
   "id": "fn02_18:003:00",
@@ -63,7 +63,7 @@
   "id": "fn02_18:005:01",
   "speaker": "鍵",
   "jp": "お役目が久々なもんで\n勝手を忘れてやしないか\nちょいと不安ですがね。",
-  "en": "It's been a while since I last served, so I'm a touch\nworried I may have forgotten how it's done."
+  "en": "It's been a while since I last served, so I'm a\ntouch worried I may have forgotten how it's done."
  },
  {
   "id": "fn02_18:006:00",
@@ -87,7 +87,7 @@
   "id": "fn02_18:007:01",
   "speaker": "鍵",
   "jp": "そのくらいの方が\n私ァ気が楽ですけど……\nそうもいきやせんでしょう。",
-  "en": "That sort of thing puts me more at ease, mind you...\nbut I'm afraid it won't do."
+  "en": "That sort of thing puts me more at ease,\nmind you... but I'm afraid it won't do."
  },
  {
   "id": "fn02_18:008:00",
@@ -99,13 +99,13 @@
   "id": "fn02_18:008:01",
   "speaker": "鍵",
   "jp": "まァ、たしかにお役目は\n久々っちゃあ久々ですが",
-  "en": "Well, it's true it's been a while since I last served,\nbut..."
+  "en": "Well, it's true it's been a\nwhile since I last served, but..."
  },
  {
   "id": "fn02_18:008:02",
   "speaker": "鍵",
   "jp": "大丈夫ですよ、そう簡単に\nコツを忘れるもんでも\nありやせんからね。",
-  "en": "Don't you fret. It's not the sort of knack one forgets\nso easily."
+  "en": "Don't you fret. It's not the sort\nof knack one forgets so easily."
  },
  {
   "id": "fn02_18:008:03",
@@ -123,7 +123,7 @@
   "id": "fn02_18:009:01",
   "speaker": "鍵",
   "jp": "お役目が久々なもんで\n勝手を忘れてやしないか\nちょいと不安ですがね。",
-  "en": "It's been a while since I last served, so I'm a touch\nworried I may have forgotten how it's done."
+  "en": "It's been a while since I last served, so I'm a\ntouch worried I may have forgotten how it's done."
  },
  {
   "id": "fn02_18:010:00",
@@ -141,13 +141,13 @@
   "id": "fn02_18:011:00",
   "speaker": "鍵",
   "jp": "私ら{ruby:神使|しんし}は滅多に\n守護する土地を\n離れませんからね。",
-  "en": "We divine messengers seldom leave the lands we\nguard, you see."
+  "en": "We divine messengers seldom\nleave the lands we guard, you see."
  },
  {
   "id": "fn02_18:011:01",
   "speaker": "鍵",
   "jp": "これで案外、\n坊の手伝いを\n楽しみにしてるんですよ。",
-  "en": "So, believe it or not, I'm rather looking forward to\nhelping you, young master."
+  "en": "So, believe it or not, I'm rather looking\nforward to helping you, young master."
  },
  {
   "id": "fn02_18:011:02",
@@ -159,7 +159,7 @@
   "id": "fn02_18:011:03",
   "speaker": "鍵",
   "jp": "坊が有意義に\n洞を探索出来るよう\n私らも頑張りますよ。",
-  "en": "We'll do our best so you can explore the Hollow to\ngood purpose, young master."
+  "en": "We'll do our best so you can explore the\nHollow to good purpose, young master."
  },
  {
   "id": "fn02_18:011:04",
@@ -171,7 +171,7 @@
   "id": "fn02_18:012:00",
   "speaker": "鍵",
   "jp": "……仔犬ってのはどうして\nああも一人遊びが\n上手なんでしょうねえ。",
-  "en": "...Why is it that puppies are so good at playing by\nthemselves, I wonder?"
+  "en": "...Why is it that puppies are so good\nat playing by themselves, I wonder?"
  },
  {
   "id": "fn02_18:012:01",

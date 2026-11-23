@@ -9,7 +9,7 @@
   "id": "hanafuda:0000:08",
   "jp": "冬 素札",
   "refs": 7,
-  "en": ""
+  "en": "Win Chf"
  },
  {
   "id": "hanafuda:0000:10",
@@ -33,13 +33,13 @@
   "id": "hanafuda:0002:04",
   "jp": "松にあかよろし",
   "refs": 1,
-  "en": ""
+  "en": "Pine Poetry"
  },
  {
   "id": "hanafuda:0002:08",
   "jp": "冬 冊札",
   "refs": 2,
-  "en": ""
+  "en": "Win Rbn"
  },
  {
   "id": "hanafuda:0002:10",
@@ -63,7 +63,7 @@
   "id": "hanafuda:0003:08",
   "jp": "冬 光札",
   "refs": 2,
-  "en": ""
+  "en": "Win Brt"
  },
  {
   "id": "hanafuda:0003:10",
@@ -105,7 +105,7 @@
   "id": "hanafuda:0006:04",
   "jp": "梅にあかよろし",
   "refs": 1,
-  "en": ""
+  "en": "Plum Poetry"
  },
  {
   "id": "hanafuda:0006:10",
@@ -123,13 +123,13 @@
   "id": "hanafuda:0007:04",
   "jp": "梅に鶯",
   "refs": 1,
-  "en": ""
+  "en": "Plum Warbler"
  },
  {
   "id": "hanafuda:0007:08",
   "jp": "冬 種札",
   "refs": 1,
-  "en": ""
+  "en": "Win Anm"
  },
  {
   "id": "hanafuda:0007:10",
@@ -147,7 +147,7 @@
   "id": "hanafuda:0008:08",
   "jp": "春 素札",
   "refs": 6,
-  "en": ""
+  "en": "Spr Chf"
  },
  {
   "id": "hanafuda:0008:10",
@@ -159,7 +159,7 @@
   "id": "hanafuda:0009:04",
   "jp": "桜の屑・弐",
   "refs": 1,
-  "en": ""
+  "en": "Cherry II"
  },
  {
   "id": "hanafuda:0009:10",
@@ -171,13 +171,13 @@
   "id": "hanafuda:0010:04",
   "jp": "桜にみよしの",
   "refs": 1,
-  "en": ""
+  "en": "Cherry Poetry"
  },
  {
   "id": "hanafuda:0010:08",
   "jp": "春 冊札",
   "refs": 3,
-  "en": ""
+  "en": "Spr Rbn"
  },
  {
   "id": "hanafuda:0010:10",
@@ -195,13 +195,13 @@
   "id": "hanafuda:0011:04",
   "jp": "桜に幕",
   "refs": 1,
-  "en": ""
+  "en": "Cherry Curtain"
  },
  {
   "id": "hanafuda:0011:08",
   "jp": "春 光札",
   "refs": 1,
-  "en": ""
+  "en": "Spr Brt"
  },
  {
   "id": "hanafuda:0011:10",
@@ -225,7 +225,7 @@
   "id": "hanafuda:0012:04",
   "jp": "藤の屑・壱",
   "refs": 1,
-  "en": ""
+  "en": "Wisteria I"
  },
  {
   "id": "hanafuda:0012:10",
@@ -237,7 +237,7 @@
   "id": "hanafuda:0013:04",
   "jp": "藤の屑・弐",
   "refs": 1,
-  "en": ""
+  "en": "Wisteria II"
  },
  {
   "id": "hanafuda:0013:10",
@@ -249,7 +249,7 @@
   "id": "hanafuda:0014:04",
   "jp": "藤に赤短",
   "refs": 1,
-  "en": ""
+  "en": "Wisteria Red"
  },
  {
   "id": "hanafuda:0014:10",
@@ -267,13 +267,13 @@
   "id": "hanafuda:0015:04",
   "jp": "藤に時鳥",
   "refs": 1,
-  "en": ""
+  "en": "Wisteria Bird"
  },
  {
   "id": "hanafuda:0015:08",
   "jp": "春 種札",
   "refs": 2,
-  "en": ""
+  "en": "Spr Anm"
  },
  {
   "id": "hanafuda:0015:10",
@@ -321,7 +321,7 @@
   "id": "hanafuda:0018:04",
   "jp": "菖蒲に赤短",
   "refs": 1,
-  "en": ""
+  "en": "Iris Red"
  },
  {
   "id": "hanafuda:0018:10",
@@ -339,7 +339,7 @@
   "id": "hanafuda:0019:04",
   "jp": "菖蒲に八橋",
   "refs": 1,
-  "en": ""
+  "en": "Iris Bridge"
  },
  {
   "id": "hanafuda:0019:10",
@@ -363,7 +363,7 @@
   "id": "hanafuda:0020:08",
   "jp": "夏 素札",
   "refs": 6,
-  "en": ""
+  "en": "Sum Chf"
  },
  {
   "id": "hanafuda:0020:10",
@@ -387,13 +387,13 @@
   "id": "hanafuda:0022:04",
   "jp": "牡丹に青短",
   "refs": 1,
-  "en": ""
+  "en": "Peony Blue"
  },
  {
   "id": "hanafuda:0022:08",
   "jp": "夏 冊札",
   "refs": 2,
-  "en": ""
+  "en": "Sum Rbn"
  },
  {
   "id": "hanafuda:0022:10",
@@ -411,13 +411,13 @@
   "id": "hanafuda:0023:04",
   "jp": "牡丹に蝶",
   "refs": 1,
-  "en": ""
+  "en": "Peony Btfly"
  },
  {
   "id": "hanafuda:0023:08",
   "jp": "夏 種札",
   "refs": 3,
-  "en": ""
+  "en": "Sum Anm"
  },
  {
   "id": "hanafuda:0023:10",
@@ -453,13 +453,13 @@
   "id": "hanafuda:0025:04",
   "jp": "萩の屑・弐",
   "refs": 1,
-  "en": ""
+  "en": "Clover II"
  },
  {
   "id": "hanafuda:0026:04",
   "jp": "萩に赤短",
   "refs": 1,
-  "en": ""
+  "en": "Clover Red"
  },
  {
   "id": "hanafuda:0026:10",
@@ -477,7 +477,7 @@
   "id": "hanafuda:0027:04",
   "jp": "萩に猪",
   "refs": 1,
-  "en": ""
+  "en": "Clover Boar"
  },
  {
   "id": "hanafuda:0027:10",
@@ -507,7 +507,7 @@
   "id": "hanafuda:0029:04",
   "jp": "芒の屑・弐",
   "refs": 1,
-  "en": ""
+  "en": "Pampas II"
  },
  {
   "id": "hanafuda:0029:10",
@@ -519,7 +519,7 @@
   "id": "hanafuda:0030:04",
   "jp": "芒に雁",
   "refs": 1,
-  "en": ""
+  "en": "Pampas Geese"
  },
  {
   "id": "hanafuda:0030:10",
@@ -537,13 +537,13 @@
   "id": "hanafuda:0031:04",
   "jp": "芒に月",
   "refs": 1,
-  "en": ""
+  "en": "Pampas Moon"
  },
  {
   "id": "hanafuda:0031:08",
   "jp": "夏 光札",
   "refs": 1,
-  "en": ""
+  "en": "Sum Brt"
  },
  {
   "id": "hanafuda:0031:10",
@@ -561,13 +561,13 @@
   "id": "hanafuda:0032:04",
   "jp": "菊の屑・壱",
   "refs": 1,
-  "en": ""
+  "en": "Chrysanth. I"
  },
  {
   "id": "hanafuda:0032:08",
   "jp": "秋 素札",
   "refs": 5,
-  "en": ""
+  "en": "Aut Chf"
  },
  {
   "id": "hanafuda:0032:10",
@@ -579,7 +579,7 @@
   "id": "hanafuda:0033:04",
   "jp": "菊の屑・弐",
   "refs": 1,
-  "en": ""
+  "en": "Chrysanth. II"
  },
  {
   "id": "hanafuda:0033:10",
@@ -591,13 +591,13 @@
   "id": "hanafuda:0034:04",
   "jp": "菊に青短",
   "refs": 1,
-  "en": ""
+  "en": "Chrysanth.Blue"
  },
  {
   "id": "hanafuda:0034:08",
   "jp": "秋 冊札",
   "refs": 3,
-  "en": ""
+  "en": "Aut Rbn"
  },
  {
   "id": "hanafuda:0034:10",
@@ -615,13 +615,13 @@
   "id": "hanafuda:0035:04",
   "jp": "菊に盃",
   "refs": 1,
-  "en": ""
+  "en": "Chrysanth. Cup"
  },
  {
   "id": "hanafuda:0035:08",
   "jp": "秋 種札",
   "refs": 3,
-  "en": ""
+  "en": "Aut Anm"
  },
  {
   "id": "hanafuda:0035:10",
@@ -663,7 +663,7 @@
   "id": "hanafuda:0038:04",
   "jp": "紅葉に青短",
   "refs": 1,
-  "en": ""
+  "en": "Maple Blue"
  },
  {
   "id": "hanafuda:0038:10",
@@ -699,7 +699,7 @@
   "id": "hanafuda:0040:04",
   "jp": "鬼手に太鼓",
   "refs": 1,
-  "en": ""
+  "en": "Oni Hand Drum"
  },
  {
   "id": "hanafuda:0040:10",
@@ -717,7 +717,7 @@
   "id": "hanafuda:0041:04",
   "jp": "柳に赤短",
   "refs": 1,
-  "en": ""
+  "en": "Willow Red"
  },
  {
   "id": "hanafuda:0041:10",
@@ -735,7 +735,7 @@
   "id": "hanafuda:0042:04",
   "jp": "柳に燕",
   "refs": 1,
-  "en": ""
+  "en": "Willow Swallow"
  },
  {
   "id": "hanafuda:0042:10",
@@ -753,13 +753,13 @@
   "id": "hanafuda:0043:04",
   "jp": "柳に雨",
   "refs": 1,
-  "en": ""
+  "en": "Willow Rain"
  },
  {
   "id": "hanafuda:0043:08",
   "jp": "秋 光札",
   "refs": 1,
-  "en": ""
+  "en": "Aut Brt"
  },
  {
   "id": "hanafuda:0043:10",
@@ -777,7 +777,7 @@
   "id": "hanafuda:0044:04",
   "jp": "桐に製造印",
   "refs": 1,
-  "en": ""
+  "en": "Paulownia Mark"
  },
  {
   "id": "hanafuda:0044:10",
@@ -789,7 +789,7 @@
   "id": "hanafuda:0045:04",
   "jp": "桐の屑・壱",
   "refs": 1,
-  "en": ""
+  "en": "Paulownia I"
  },
  {
   "id": "hanafuda:0045:10",
@@ -801,7 +801,7 @@
   "id": "hanafuda:0046:04",
   "jp": "桐の屑・弐",
   "refs": 1,
-  "en": ""
+  "en": "Paulownia II"
  },
  {
   "id": "hanafuda:0046:10",
@@ -813,7 +813,7 @@
   "id": "hanafuda:0047:04",
   "jp": "桐に鳳凰",
   "refs": 1,
-  "en": ""
+  "en": "Paulownia Phnx"
  },
  {
   "id": "hanafuda:0047:10",

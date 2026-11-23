@@ -3,13 +3,13 @@
   "id": "fn07_23:001:00",
   "speaker": "筑紫",
   "jp": "この辺りは風が強いな。\n……ビル街では\n仕方ない事だが。",
-  "en": "The wind is strong around here. ...Unavoidable,\namong tall buildings."
+  "en": "The wind is strong around here.\n...Unavoidable, among tall buildings."
  },
  {
   "id": "fn07_23:001:01",
   "speaker": "筑紫",
   "jp": "人間の文化によって\n歪められた自然現象は、\n様々な弊害をもたらしている。",
-  "en": "Natural phenomena distorted by human culture bring\nabout all manner of harm."
+  "en": "Natural phenomena distorted by human\nculture bring about all manner of harm."
  },
  {
   "id": "fn07_23:001:02",
@@ -57,7 +57,7 @@
   "id": "fn07_23:002:01",
   "speaker": "筑紫",
   "jp": "誰かは身を引き、誰かは残る。\n残った者の力が、細く、長く\n{ruby:種|しゅ}を紡ぎ―――",
-  "en": "Some step aside, and some remain. The strength of\nthose who remain spins the species on, thin and\nlong--"
+  "en": "Some step aside, and some remain.\nThe strength of those who remain\nspins the species on, thin and long--"
  },
  {
   "id": "fn07_23:002:02",
@@ -87,13 +87,13 @@
   "id": "fn07_23:003:01",
   "speaker": "筑紫",
   "jp": "先へ行く資格の無い者は\n己の無知を恥じながら\n終わりを迎えるしか……ない。",
-  "en": "Those not fit to go on can only meet their end,\nashamed of their own ignorance."
+  "en": "Those not fit to go on can only meet\ntheir end, ashamed of their own ignorance."
  },
  {
   "id": "fn07_23:004:00",
   "speaker": "筑紫",
   "jp": "……まさか、君から\nそんな賛同を得られるとはな。",
-  "en": "...I never expected such agreement from you, of all\npeople."
+  "en": "...I never expected such agreement\nfrom you, of all people."
  },
  {
   "id": "fn07_23:004:01",
@@ -105,7 +105,7 @@
   "id": "fn07_23:004:02",
   "speaker": "筑紫",
   "jp": "目を塞ぎ、騙される事を\n良しとした選択の\n責任を取らなければ、",
-  "en": "Unless they take responsibility for choosing to shut\ntheir eyes and be deceived,"
+  "en": "Unless they take responsibility for choosing\nto shut their eyes and be deceived,"
  },
  {
   "id": "fn07_23:004:03",
@@ -135,7 +135,7 @@
   "id": "fn07_23:006:01",
   "speaker": "筑紫",
   "jp": "それ程までに激しい怒りを\nもってしても、叶わぬ\n願いがある。",
-  "en": "There are wishes that cannot be granted, even with\nanger as fierce as yours."
+  "en": "There are wishes that cannot be granted,\neven with anger as fierce as yours."
  },
  {
   "id": "fn07_23:006:02",
@@ -153,7 +153,7 @@
   "id": "fn07_23:007:00",
   "speaker": "筑紫",
   "jp": "では、君は\n溢れかえる人があらゆる境界を\n崩し、軌跡を踏み{ruby:躙|にじ}り、",
-  "en": "Then you would have me forgive the teeming\nmasses for breaking down every boundary, trampling\nthe paths before them,"
+  "en": "Then you would have me forgive the\nteeming masses for breaking down every\nboundary, trampling the paths before them,"
  },
  {
   "id": "fn07_23:007:01",
@@ -183,7 +183,7 @@
   "id": "fn07_23:008:02",
   "speaker": "筑紫",
   "jp": "最大の絶望の後に\n意志ある者が立ち上がる\nだから……",
-  "en": "After the greatest despair, those with will rise up.\nSo..."
+  "en": "After the greatest despair,\nthose with will rise up. So..."
  },
  {
   "id": "fn07_23:008:03",
@@ -195,13 +195,13 @@
   "id": "fn07_23:009:00",
   "speaker": "筑紫",
   "jp": "思考の果てに、\n答えを見出そうとする姿勢には\n好感が持てる。",
-  "en": "I appreciate your willingness to seek an answer at\nthe end of your reasoning."
+  "en": "I appreciate your willingness to seek an\nanswer at the end of your reasoning."
  },
  {
   "id": "fn07_23:009:01",
   "speaker": "筑紫",
   "jp": "だが……残念ながら、\n我々に残された時間は\nあまりに少ないのだ。",
-  "en": "But... unfortunately, the time left to us is far too\nshort."
+  "en": "But... unfortunately, the time\nleft to us is far too short."
  },
  {
   "id": "fn07_23:009:02",
@@ -219,19 +219,19 @@
   "id": "fn07_23:011:00",
   "speaker": "筑紫",
   "jp": "……人は、弱い。君のように\n強く在る者も中にはいるが\nそれはごく一部でしかない。",
-  "en": "...People are weak. Some, like you, are strong, but\nthey are only a tiny few."
+  "en": "...People are weak. Some, like you, are\nstrong, but they are only a tiny few."
  },
  {
   "id": "fn07_23:011:01",
   "speaker": "筑紫",
   "jp": "大半は、己を律するのが\n精一杯か、それすら出来ない\n弱者ばかりだ。",
-  "en": "Most are weaklings who can barely discipline\nthemselves, or cannot even do that."
+  "en": "Most are weaklings who can barely\ndiscipline themselves, or cannot even do that."
  },
  {
   "id": "fn07_23:011:02",
   "speaker": "筑紫",
   "jp": "弱者が{ruby:扇動|せんどう}され、負の波に\n荷担する様は\n―――惨めの一言に尽きる。",
-  "en": "The sight of the weak being incited and joining the\ntide of negativity is--pitiful, in a word."
+  "en": "The sight of the weak being incited and joining\nthe tide of negativity is--pitiful, in a word."
  },
  {
   "id": "fn07_23:011:03",
@@ -255,12 +255,12 @@
   "id": "fn07_23:012:00",
   "speaker": "筑紫",
   "jp": "すまないが、これから\n人と会う約束がある。",
-  "en": "Forgive me, but I have an appointment to meet\nsomeone."
+  "en": "Forgive me, but I have an\nappointment to meet someone."
  },
  {
   "id": "fn07_23:012:01",
   "speaker": "筑紫",
   "jp": "君もそろそろ\n行くべき場所へ行きたまえ。",
-  "en": "You should be on your way to where you need to\ngo as well."
+  "en": "You should be on your way to\nwhere you need to go as well."
  }
 ]

@@ -9,19 +9,19 @@
   "id": "dg00_20:000:01",
   "speaker": "零",
   "jp": "……ああ。\n{px}がリーダーで、\n正解だった。",
-  "en": "...Yeah. Making {px} the leader was the right call."
+  "en": "...Yeah. Making {px}\nthe leader was the right call."
  },
  {
   "id": "dg00_20:000:02",
   "speaker": "いちる",
   "jp": "そういえば、\nさっき倒した隠人の体から、",
-  "en": "Oh, that reminds me. From the body of that Oni we\njust beat,"
+  "en": "Oh, that reminds me. From the\nbody of that Oni we just beat,"
  },
  {
   "id": "dg00_20:000:03",
   "speaker": "いちる",
   "jp": "{px}に向かって、\n何か飛んでいかなかった？\nあたしの見間違いかな……？",
-  "en": "didn't something go flying toward {px}? Or was I\njust seeing things...?"
+  "en": "didn't something go flying toward\n{px}? Or was I just seeing things...?"
  },
  {
   "id": "dg00_20:000:04",
@@ -51,7 +51,7 @@
   "id": "dg00_20:000:08",
   "speaker": "伊佐地",
   "jp": "カミフダ以外のものに融合し、\n新しい隠人が生まれる。",
-  "en": "They'd fuse with something other than ORDS, and a\nnew Oni would be born."
+  "en": "They'd fuse with something other than\nORDS, and a new Oni would be born."
  },
  {
   "id": "dg00_20:000:09",
@@ -69,7 +69,7 @@
   "id": "dg00_20:000:11",
   "speaker": "伊佐地",
   "jp": "封札師の仕事はカミフダを\n回収し、封じるだけじゃない。",
-  "en": "A Card Sealer's job isn't just recovering ORDS and\nsealing them."
+  "en": "A Card Sealer's job isn't just\nrecovering ORDS and sealing them."
  },
  {
   "id": "dg00_20:000:12",
@@ -81,12 +81,12 @@
   "id": "dg00_20:000:13",
   "speaker": "いちる",
   "jp": "うんうん、そうこなくっちゃ！\nなんだか、正義の味方って\n実感沸いてきたなぁ～ッ！",
-  "en": "Yeah, yeah, now that's more like it! I'm really\nstarting to feel like a hero of justice~!"
+  "en": "Yeah, yeah, now that's more like it! I'm\nreally starting to feel like a hero of justice~!"
  },
  {
   "id": "dg00_20:000:14",
   "speaker": "伊佐地",
   "jp": "さて、この話はここまでだ。\n扉の先へ進め。\n次の試験を始めるぞ。",
-  "en": "All right, that's enough of that. Go on through the\ndoor. We're starting the next test."
+  "en": "All right, that's enough of that. Go on\nthrough the door. We're starting the next test."
  }
 ]

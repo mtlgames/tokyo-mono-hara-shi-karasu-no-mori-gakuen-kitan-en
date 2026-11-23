@@ -115,6 +115,7 @@ class Patcher:
         self.rel = relocs(self.d)
         from keystone import Ks, KS_ARCH_MIPS, KS_MODE_MIPS32, KS_MODE_LITTLE_ENDIAN
         self.ks = Ks(KS_ARCH_MIPS, KS_MODE_MIPS32 + KS_MODE_LITTLE_ENDIAN)
+        self.log = []  # (file offset, original bytes, new bytes, what): romdiff.py --writes
 
     def off(self, addr):
         return addr - LOAD + FILE0
@@ -132,7 +133,10 @@ class Patcher:
                 raise ValueError(f"{a:08x} has a relocation; patching it would be corrupted at load")
             if expect is not None and self.word(a) != expect[k // 4]:
                 raise ValueError(f"{a:08x}: found {self.word(a):08x}, expected {expect[k // 4]:08x}")
-        self.d[self.off(addr):self.off(addr) + len(enc)] = enc
+        o = self.off(addr)
+        self.log.append((o, b"".join(struct.pack("<I", w) for w in expect) if expect else bytes(self.d[o:o + len(enc)]),
+                         enc, f"{addr:08x} {code}"))
+        self.d[o:o + len(enc)] = enc
 
 
 if __name__ == "__main__":

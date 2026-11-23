@@ -92,7 +92,7 @@
   "id": "qs00_05:010:00",
   "speaker": "澁川",
   "jp": "まあ……良かったな。\nそんなに大切な飼い猫なら、\n逃げないように―――",
-  "en": "Well... good for you. If it's such a precious pet cat,\nthen make sure it doesn't run off--"
+  "en": "Well... good for you. If it's such a precious\npet cat, then make sure it doesn't run off--"
  },
  {
   "id": "qs00_05:010:01",
@@ -128,13 +128,13 @@
   "id": "qs00_05:010:06",
   "speaker": "入ってきたばかりの客",
   "jp": "他の客が落としていったんじゃ\nないかと思ってさ。",
-  "en": "Figured one of your other customers must've\ndropped it."
+  "en": "Figured one of your other\ncustomers must've dropped it."
  },
  {
   "id": "qs00_05:010:07",
   "speaker": "入ってきたばかりの客",
   "jp": "店の前に猫が{ruby:二匹|・・}いたけど……\n自分で外すワケないしな？",
-  "en": "There were two cats out front, but... a cat wouldn't\ntake off its own collar, right?"
+  "en": "There were two cats out front, but... a cat\nwouldn't take off its own collar, right?"
  },
  {
   "id": "qs00_05:010:08",
@@ -146,7 +146,7 @@
   "id": "qs00_05:010:09",
   "speaker": "澁川",
   "jp": "む……首輪の裏に、\n何か書いて―――",
-  "en": "Hm... There's something written on the back of the\ncollar--"
+  "en": "Hm... There's something written\non the back of the collar--"
  },
  {
   "id": "qs00_05:010:10",

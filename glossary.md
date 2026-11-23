@@ -92,7 +92,7 @@ separates alternatives) and the Avoid column.
 ## Places
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
-| 鴉乃杜學園 / 鴉乃杜学園 | Karasu no Mori Academy | | the school | |
+| 鴉乃杜學園 / 鴉乃杜学園 | Karasu no Mori Academy / Karasu no Mori Acad. | | the school; "Acad." only in dictionary:0039:04 (20b, fit-queue) | |
 | 鴉乃杜 | Karasu no Mori | | | |
 | 寇聖 | Kosei | | rival school (寇聖高校 Kosei High) | Kousei |
 | 新宿 | Shinjuku | | | |
@@ -146,7 +146,7 @@ separates alternatives) and the Avoid column.
 | 脚力 | Speed | | stat | Footwork |
 | 判断力 | Judgment | | stat | |
 | 外国語 | Languages | | school subject | Foreign Language |
-| 現代社会 | Social Studies | | school subject | Modern Society |
+| 現代社会 | Social Studies / Soc.St | | school subject; "Soc.St" only in item:0326-0328:10 stat lines (24b, fit-queue) | Modern Society |
 | 麻痺 | Paralysis | | ailment | Paralyze |
 | 悪寒 | Chills | | ailment | |
 | 札強化 | Card Enhance / Enhance | | | Card Boost |
@@ -167,19 +167,19 @@ separates alternatives) and the Avoid column.
 | 御蔵ノ器 | Storehouse Vessel | | | |
 | 縛鍵 | Bind Key | | | Binding Key |
 | 封鍵 | Seal Key | | | Sealing Key |
-| 陰陽五行 | Yin-Yang and Five Elements | | | Yin-Yang Five Phases |
+| 陰陽五行 | Yin-Yang and Five Elements / Yin-Yang 5 Elements | | "5" only in dictionary:0018:04 (20b, fit-queue) | Yin-Yang Five Phases |
 | 隠者の刻印 | Hermit's Mark | | | |
 | 夜狩機構 | Yagari Agency | | | |
 | 五光ノ獣 / 五光の獣 | Five Brights Beast | | | |
 | 白札 | White Card | | | |
-| 帝都防衛軍 | Imperial Defense Force | | | Capital Defenders |
+| 帝都防衛軍 | Imperial Defense Force / Imperial Def. | | "Def." only in questclnt:0009:00, questrewarditem:0036:00 (18b, fit-queue) | Capital Defenders |
 | 帝都 | Imperial Capital | | (not enforced) short table text may say "capital" | |
 | 氣 | ki | | (not enforced) capital Ki in 《氣》; prose may say "energy"/"spirit"; not "Qi" | |
 | 勁術 | Keijutsu | | ruby けいじゅつ | |
 | 大いなる遺志 | Great Will | | | |
 | 極めし者 | Adept | | ruby アデプト | |
 | 虚空蔵 | Akashic Record | | ruby アカシックレコード | |
-| 鳳凰 | Phoenix | | the Paulownia Bright card | |
+| 鳳凰 | Phoenix / Phnx | | the Paulownia Bright card; "Phnx" only in hanafuda:0047:04 (14b, fit-queue) | |
 | 人札 | Man Card | | | |
 | 特課試札 | Division Trial Card / Trial Card | | | |
 | 人龍計画 | Human Dragon Project | | | |

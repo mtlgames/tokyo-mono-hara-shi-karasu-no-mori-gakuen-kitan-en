@@ -3,43 +3,43 @@
   "id": "fd01_24:001:00",
   "speaker": "久榮",
   "jp": "おや、転校生。\n初日から女連れとは\nなかなかやるな。",
-  "en": "Well, if it isn't the transfer student. Bringing a girl\nalong on your first day--not bad."
+  "en": "Well, if it isn't the transfer student. Bringing\na girl along on your first day--not bad."
  },
  {
   "id": "fd01_24:001:01",
   "speaker": "久榮",
   "jp": "生憎、昼休みの図書室は\n二人っきりになるには\n向かない場所だぞ。",
-  "en": "Unfortunately, the library at lunch break isn't the\nplace to get some time alone together."
+  "en": "Unfortunately, the library at lunch break isn't\nthe place to get some time alone together."
  },
  {
   "id": "fd01_24:001:02",
   "speaker": "久榮",
   "jp": "それとも純粋に\nここに興味があって\n来たのかな？",
-  "en": "Or did you come here because you're genuinely\ninterested in this place?"
+  "en": "Or did you come here because you're\ngenuinely interested in this place?"
  },
  {
   "id": "fd01_24:002:00",
   "speaker": "久榮",
   "jp": "その歳で、本への愛に\n目覚めているのか……。",
-  "en": "Awakened to the love of books at your age, are\nyou..."
+  "en": "Awakened to the love of\nbooks at your age, are you..."
  },
  {
   "id": "fd01_24:002:01",
   "speaker": "久榮",
   "jp": "ここの蔵書は、なかなか\n侮りがたいものがある。\n存分に楽しんでいくといい。",
-  "en": "The collection here is nothing to sneeze at. Enjoy it\nto your heart's content."
+  "en": "The collection here is nothing to sneeze\nat. Enjoy it to your heart's content."
  },
  {
   "id": "fd01_24:003:00",
   "speaker": "久榮",
   "jp": "本が好きか？\nそいつは司書としちゃァ\n嬉しい限りだ。",
-  "en": "You like books? As a librarian, nothing could make\nme happier."
+  "en": "You like books? As a librarian,\nnothing could make me happier."
  },
  {
   "id": "fd01_24:003:01",
   "speaker": "久榮",
   "jp": "いざというときは遠慮無く\n仕事を頼めそうだしな。",
-  "en": "Looks like I can call on you for some work without\nholding back when the time comes, too."
+  "en": "Looks like I can call on you for some work\nwithout holding back when the time comes, too."
  },
  {
   "id": "fd01_24:004:00",
@@ -63,7 +63,7 @@
   "id": "fd01_24:005:01",
   "speaker": "久榮",
   "jp": "いざというときは遠慮無く\n手を貸してもらうとしよう。",
-  "en": "I'll be sure to borrow your hands without holding\nback when the time comes."
+  "en": "I'll be sure to borrow your hands without\nholding back when the time comes."
  },
  {
   "id": "fd01_24:006:00",
@@ -75,13 +75,13 @@
   "id": "fd01_24:006:01",
   "speaker": "久榮",
   "jp": "ガス抜きに、本の整理でも\nしていったらどうだ。",
-  "en": "Why not blow off some steam by sorting a few\nbooks?"
+  "en": "Why not blow off some steam\nby sorting a few books?"
  },
  {
   "id": "fd01_24:007:00",
   "speaker": "久榮",
   "jp": "おや、それは残念だな。\n人手が増えたと思ったのに。",
-  "en": "Oh, that's a shame. And here I thought I'd gained an\nextra pair of hands."
+  "en": "Oh, that's a shame. And here I thought\nI'd gained an extra pair of hands."
  },
  {
   "id": "fd01_24:008:00",
@@ -105,13 +105,13 @@
   "id": "fd01_24:010:00",
   "speaker": "久榮",
   "jp": "教師の言葉を無視とは、\n初日から随分と\n挑戦的な態度だな。",
-  "en": "Ignoring a teacher on your first day? That's a pretty\ndefiant attitude."
+  "en": "Ignoring a teacher on your first\nday? That's a pretty defiant attitude."
  },
  {
   "id": "fd01_24:011:00",
   "speaker": "久榮",
   "jp": "そうだな―――。\n{ruby:図書室|ここ}は\n浪漫の宝庫だ。",
-  "en": "Let's see--. This library is a treasure trove of\nromance and adventure."
+  "en": "Let's see--. This library is a treasure\ntrove of romance and adventure."
  },
  {
   "id": "fd01_24:011:01",
@@ -123,12 +123,12 @@
   "id": "fd01_24:012:00",
   "speaker": "久榮",
   "jp": "なんだ、{px}。\nまだウロウロしてるのか。\n穂坂を待たせてるんだろ？",
-  "en": "What, {px}? Still wandering around? You've got\nHosaka waiting, don't you?"
+  "en": "What, {px}? Still wandering\naround? You've got Hosaka waiting, don't you?"
  },
  {
   "id": "fd01_24:012:01",
   "speaker": "久榮",
   "jp": "図書室は逃げや\nしないんだから、後にしろ。\nさっさと行け。",
-  "en": "The library isn't going anywhere, so save it for later.\nGo on, get going."
+  "en": "The library isn't going anywhere, so\nsave it for later. Go on, get going."
  }
 ]
