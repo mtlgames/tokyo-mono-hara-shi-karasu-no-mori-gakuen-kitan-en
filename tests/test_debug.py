@@ -22,7 +22,8 @@ def test_scene_specs_parse():
     scenes = warp.load_scenes()
     for name, spec in scenes.items():
         sp = warp.parse_spec(spec)
-        assert 'script' in sp or 'from' in sp, name
+        assert 'script' in sp or 'from' in sp or 'newgame' in sp, name
+        if 'block' in sp: assert 'script' in sp and sp['block'].isdigit(), name
         if 'from' in sp: assert sp['from'] in scenes, name
         if 'set' in sp:
             for a in sp['set'].split(','): assert a.partition('=')[0] in save.FIELDS, name

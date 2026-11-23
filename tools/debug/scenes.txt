@@ -4,6 +4,7 @@
 # Menu cursor stops on grey entries (マップ, ???) and wraps. Mash note: the emotion-input wheel needs a direction then circle; script-shown screens (report card) close on cross.
 
 # --- ADV: prologue and chapter starts (the chapter card / opening movie are commands inside MSxx_00)
+name_entry newgame mash=2400:circle
 prologue   script=MS00_00 mash=600:circle
 ch01       script=MS01_00 mash=900:circle
 ch02       script=MS02_00 mash=900:circle
@@ -26,7 +27,19 @@ menu_item  from=field_ch01 route=6 start;90 -;6 circle;150 -
 menu_equip from=field_ch01 route=6 start;90 -;6 down;40 -;6 circle;150 -
 menu_cards from=field_ch01 route=6 start;90 -;6 down;40 -;6 down;40 -;6 circle;150 -
 phone      from=field_ch01 route=6 start;90 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 circle;300 -
+phone_prof from=phone route=30 -;6 circle;200 -
+phone_mail from=phone route=30 -;6 down;40 -;6 circle;200 -
+phone_qst  from=phone route=30 -;6 down;40 -;6 down;40 -;6 circle;200 -
+phone_oxas from=phone route=30 -;6 down;40 -;6 down;40 -;6 down;40 -;6 circle;200 -
+phone_set  from=phone route=30 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 circle;200 -
 saveload   from=field_ch01 route=6 start;90 -;6 up;40 -;6 circle;150 -
+report     from=field_ch01 set=chapter=3 route=6 start;90 -;6 up;40 -;6 up;40 -;6 circle;150 -
+map        from=field_ch01 set=chapter=3 route=6 start;90 -;6 down;40 -;6 down;40 -;6 down;40 -;6 circle;150 -
+
+# --- shops: FNxx_26/27 NPC scripts; a block holding only `shop00` opens the shop (block= starts the script there)
+shop       script=FN08_27 block=3 set=chapter=8 mash=600:-
+# trade (tradeNN): from a warp the item list is not drawn (black), circle shows its このアイテムを渡しますか？ dialog
+trade      script=FN05_25 block=3 set=chapter=5 mash=600:- route=600 -;6 circle;150 -
 
 # --- endings: the scripts play the ending movie with the staff credits (MS11_04 bad end, MS13_03 true end)
 badend     script=MS11_04 mash=9000:circle

@@ -6,7 +6,8 @@
 
 SCENE is a name from tools/debug/scenes.txt, or a script id like MS03_00 / FD01_20 / QUEST. Every run ends with
 OUT/final.png (default OUT work/qa/warp/SCENE) and work/states/SCENE.ppst. A scene spec is
-`script=ID` (cold boot + warp) or `from=SCENE` (start from that scene's state, made first if missing), then
+`script=ID [block=N]` (cold boot + warp, optionally starting at block N of the script), `newgame` (cold boot +
+New Game, no warp) or `from=SCENE` (start from that scene's state, made first if missing), then
 `set=chapter=1,money=5000` (game-state fields, save.py FIELDS), `task=ID` (SetNextTask), then
 `mash=FRAMES:k1,k2` (one press per 30 frames, cycled; `-` = no press) and `route=` (route-str, rest of the line).
 How: boot -> New Game (tools/routes/boot.txt). When the ADV task starts its first script (MS00_00), a breakpoint at
@@ -22,6 +23,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
 PREFIX = ['MS', 'FD', 'FN', 'ID', 'IN', 'DG', 'KWLNSCR', 'FS', 'QS', 'QUEST']
 ADV_LOAD = 0x089EB4D8      # ADV task, state "load script": s1 = params
+BLOCK_START = 0x089F2394   # loader, file read done: s0 = ctx, start block = s16 ctx+0x3850 (read in the delay slot)
 NEXT_TASK, TASK_SWITCH = 0x08ADD370, 0x09247119   # task ids: docs/re/debug.md "Tasks"
 
 
@@ -42,10 +44,13 @@ def parse_script(sid):
 
 
 class Warp:
-    def __init__(self, script):
-        self.target = parse_script(script); self.done = False
+    def __init__(self, script, block=0):
+        self.target = parse_script(script); self.block = block; self.done = False; self.block_done = not block
 
     def on_bp(self, s, r):
+        if r['pc'] == BLOCK_START and self.done and not self.block_done:
+            s.write(r['s0'] + 0x3850, self.block.to_bytes(2, 'little')); self.block_done = True
+            print(f'f{s.frame():06d} warp: start block -> {self.block}', flush=True)
         if r['pc'] != ADV_LOAD or self.done: return
         t, ch, sub = self.target
         p = r['s1']
@@ -89,12 +94,16 @@ def run_scene(iso, name, spec, out, shot_every=0, frames=0):
     try:
         f = 0
         if 'script' in sp:
-            w = Warp(sp['script']); s.bp(ADV_LOAD)
+            w = Warp(sp['script'], int(sp.get('block', 0))); s.bp(ADV_LOAD)
+            if w.block: s.bp(BLOCK_START)
             f = s.play(psp.parse_route(open(os.path.join(ROOT, 'tools', 'routes', 'boot.txt')).read()), w.on_bp)
-            while not w.done and f < 6000:     # New Game is chosen inside the boot route; wait for the ADV task
+            while not (w.done and w.block_done) and f < 6000:   # New Game is chosen inside the boot route
                 f = s.play([(30, set())], w.on_bp, f)
-            if not w.done: print('warp never fired'); code = 3
+            if not (w.done and w.block_done): print('warp never fired'); code = 3
             s.bp_clear(ADV_LOAD)
+            if w.block: s.bp_clear(BLOCK_START)
+        elif 'newgame' in sp:             # plain New Game, no warp (name entry, the real prologue)
+            f = s.route(psp.parse_route(open(os.path.join(ROOT, 'tools', 'routes', 'boot.txt')).read()))
         if 'set' in sp:                   # game-state fields, as in save.py: set=chapter=1,money=5000
             s.run_to(f + 1); save.poke_state(s, sp['set'].split(','))
             print(f'f{s.frame():06d} set {sp["set"]}', flush=True)
