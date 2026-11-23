@@ -76,14 +76,25 @@ class's vtable and constructor.
   (`bg01_00`) to task+0x20; 0x08859F6C / 0x088619E0 / 0x0886C054 then load `dungeon/<section>.ini`. Rows: 0 bg00_00
   模擬演習場 (tutorial), 1 bg01_00 秋・第一階層, ... 18 a1_00 Ａ１エリア (dev test area); names in the table. save.py
   field `dun_area`; scene `dun1` (DG01_00 + set=chapter=1,dun_area=1) plays the chapter-1 dungeon arrival events and
-  ends opening the corridor door; `dun1_room` = 狩猟の間. The byte at game state +0x25838 (past the save) switches
+  ends in free control in **the hub bg100_00 Entrance_Autumn** (秋の洞エントランス; verified from the dungeon object's
+  section/floor strings at 0x09DF1118 / 0x09DF1158 = dungeon object 0x09CE0870 + 0x1108A8 / +0x1108E8). The hub has
+  one open door (doorlink 1 -> bg01_00 jyoumon_tuuro); its purple chained door says it leads to the third level and is
+  locked. The byte at game state +0x25838 (past the save) switches
   0x08859F6C to "resume": section from +0x6878, start position from row +0x687C of table +0x624; setting it to 1 in a
   warp sent the story to the city map instead (not used).
-- bg01_00 layout (`bg01_00.ini` doorlinks): start 通路 jyoumon_tuuro (door 1 = exit to bg100_00 Entrance_Autumn: walking
-  out there from a warp hangs on a black screen with the red loading diamond; door 2 = 狩猟の間) -> 狩猟の間 -> 遊動の間 /
-  貝塚の間 -> 集落の間 -> 祭壇の間 -> 遺跡の間 -> boss. enemyhaichi.bin: string offsets are TblB-relative; chapter-1 rows
-  name syuryounoma, kaidukanoma, saidannoma, jyoumon_bossnoma. 狩猟の間 from `dun1_room` shows no enemies after walking
-  round it (altar with an orb, purple chained door 施錠: leads to the third level); enemies likely spawn on a story flag.
+- bg01_00 layout (`bg01_00.ini` doorlinks): 通路 jyoumon_tuuro (door 1 = back to the hub, door 2 = 狩猟の間) -> 狩猟の間 ->
+  遊動の間 / 貝塚の間 -> 集落の間 -> 祭壇の間 -> 遺跡の間 -> boss. enemyhaichi.bin: string offsets are TblB-relative;
+  chapter-1 rows name syuryounoma (flags 0 / 0x288F), kaidukanoma (0 / 0x28B7; 0x28B8 / 0x2893), saidannoma,
+  jyoumon_bossnoma: likely (needed flag, cleared flag). All those flags are 0 in the hub state.
+- **Open problem (battle)**: a mash walk from the hub (circle,up,up,up,circle,right) went through two doors, then a third
+  transition hung for good on a black screen with the red loading diamond (main loop alive, no file open, no script
+  load; PPSSPP log only shows a stale sema id 294 = mutex warning that is there from the start). Not yet known which
+  door that was. Next: from `dun1`, walk deliberately (find the hub door, check the floor string after each door), reach
+  狩猟の間 and see whether enemies spawn; if the hang is the hub -> bg01_00 load, use scene `dun1_direct` (DG00_00 +
+  dun_area=1: the tutorial script, then the dungeon task loads bg01_00 directly; verified: section `bg01_00`, floor
+  `jyoumon_tuuro`; game-state chapter stays 0, so enemyhaichi's chapter-1 rows may need set=chapter=1 too).
+- Story flags (verified): bit array at game state +0x3080, flag n = bit (n & 31) of u32 (n >> 5); test function
+  0x089D30FC. A save.py/warp `set=` for flags is not written yet.
 - `tools/debug/fileopen.py`: logs sceIoOpen/sceIoOpenAsync paths (PAK members do not show; CROW.PAK is opened once).
 - Dungeon controls: grid crawler. up = step forward, left/right = turn 90°, down = turn round; △ jump, □ investigate,
   ○ palette action (取る take); R (`rtrigger`, not `r`) cycles 3 action palettes (empty in the tutorial until set from

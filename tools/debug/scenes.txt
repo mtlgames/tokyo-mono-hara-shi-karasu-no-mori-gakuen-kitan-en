@@ -54,9 +54,10 @@ dun_tut_qa from=dun_tut route=6 start;120 -;6 circle;120 -;6 circle;120 -
 dg01       script=DG01_00 set=chapter=1 mash=6000:circle,right,circle,cross route=120 -
 dun1_walk  from=dg01 mash=6000:up+circle,up,up,up+circle,up,right
 # real dungeons: the dungeon task loads dungeonareainfo.bin row dun_area (game state +0x6878; 1 = bg01_00 秋・第一階層)
-dun1       script=DG01_00 set=chapter=1,dun_area=1 mash=12000:circle,right,circle,cross
-# 狩猟の間 (first room; the state above ends opening its door): altar, enemy-locked door, no enemies yet
-dun1_room  from=dun1 route=300 -
+# ends in free control in the hub bg100_00 秋の洞エントランス (Entrance_Autumn), after the chapter-1 arrival events
+dun1       script=DG01_00 set=chapter=1,dun_area=1 mash=11400:circle,right,circle,cross route=300 -
+# straight into bg01_00 (tutorial script DG00_00, then the dungeon task loads dun_area 1; no chapter-1 events)
+dun1_direct script=DG00_00 set=dun_area=1 mash=900:circle
 # --- story flow: ending free movement (select, はい) runs the next script of the game-state chapter
 field_end  from=field_ch01 route=6 select;60 -;6 left;30 -;6 circle;60 -
 prologue2  from=field_end mash=6000:circle,right,circle,cross
