@@ -106,6 +106,21 @@ crashed at `field_ch01`: `tools/debug/longbisect.py` blamed `systemtext:0411:00`
 shots work/qa/warp/long/). Screens the tour doesn't reach (battle menus beyond the first turn, quests in progress,
 album) are unmeasured: the same byte rule applies there unproven; check in phase 8.
 
+## Name codes (verified 2026-11-24: `tools/debug/bpstr.py` breakpoints, warp field_ch01)
+- Codes (table 0x2D822C / 0x2D8380 -> strings 0x2B7878..): `pmyh pnyh pm1 pn1 pm pn` (6 name buffers of 161 bytes:
+  first char of surname/given name or reading, full surname, given name) and `px` (full name from the speaker's
+  character record, 0x1CFB54(speaker | 0x8000)). Splice = find (0x089EBE00, SJIS-aware) + strncpy prefix + strcat
+  name + strcat rest, per code until none is left.
+- Passes: whole message 0x089EBEE0 / 0x089EC200 / 0x089EC4EC (from 0x089EEE24 for dialogue), per canvas 0x089EE1D8
+  (callers 0x089F894C set-text, 0x089F9858 speaker name into a 256-byte stack buffer).
+- **Bug fixed in `engine.patch`:** the three message passes clear only 33 bytes of their 161-byte scratch before
+  every splice after the first; strncpy leaves no NUL past byte 32, strcat runs on into the stale text (which still
+  holds the code) and the splice loops until it overflows: two name codes with the later one past byte 32 of the
+  message crashed (ms01_00:011:49 "...right!! {pn} {pm}-kun!!"). JP never has that (max 17). The clear now covers
+  161 bytes (6 `addiu rX, sp, 0x21` -> 0xa1).
+- Message pass output goes through a 161-byte .bss buffer (0x76299C, then 147 bytes of gap to the name pass output at
+  0x762AD0); messages over ~300 bytes after splicing would reach it (English max ~230).
+
 ## Open (next steps)
 - Readability (polish): the left gradient panel (`adv/talk/adv_talk.g2d`, `adv_emotion2.gim`) covers only x 0-150;
   text has a dark outline and reads on bright backgrounds, so this is polish, not a blocker.

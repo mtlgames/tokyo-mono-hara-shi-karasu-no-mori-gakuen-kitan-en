@@ -95,11 +95,12 @@ relocated, and none points inside a string. Data words take any address; a lo16 
 lui's window (`eboot.same_hi`, load base 0x08804000 carries into the hi half), the lui is never touched. 948 of
 1,014 visible strings can move (13,032 bytes of room); the rest (refs 0: struct-array members, options table,
 nickname formats) are slot-bound. Pool total ~13.7 KB for ~10.8 KB of Japanese.
-**Full English (2026-11-24) outgrows it:** moved strings need 7,368 bytes (591 lo16-bound, all in the 0x2B window;
-6,777 data-word only, can live anywhere) against 5,760 bytes of freed slots plus 2,119 in tails of 1-11 bytes that
-long strings can't use. `eboot_patch` now keeps the Japanese for the strings left over (build prints `WARNING: EBOOT
-string pool full, N kept Japanese: ids`; ~206). Free ranges that touch are merged. FIXED arrays (dungeon names
-char[16], nickname formats char[32]) use their whole slot and never move. Layout: seg0 text+rodata vaddr 0..0x2C3AF0,
-seg1 data vaddr 0x2C3B00 filesz 0x161D8 memsz 0x7F03C4 (bss to 0xAB3EC4), relocs after. **Phase 7 fix:** grow seg1
-past .bss (filesz = memsz, bss as file zeros, pool after 0xAB3EC4, memsz += pool) and send the data-word strings there;
-check the game's heap sizing still fits.
+**Full English (2026-11-24) outgrew it:** moved strings need 7,368 bytes (591 lo16-bound, all in the 0x2B window;
+6,777 data-word only) against 5,760 bytes of freed slots plus tails. Free ranges that touch are merged. FIXED arrays
+(dungeon names char[16], nickname formats char[32]) use their whole slot and never move. Layout: seg0 text+rodata
+vaddr 0..0x2C3AF0, seg1 data vaddr 0x2C3B00 filesz 0x161D8 memsz 0x7F03C4 (bss to 0xAB3EC4), then a PT 0x700000A0
+reloc header; section headers and relocs after. **Fix (phase 7, `eboot.add_segment`):** strings reached only by data
+words go to a **new PT_LOAD segment** at vaddr 0xAB3F00 (past .bss), file data appended at the end of the ELF, its
+program header inserted as index 2 in the free slot before 0xC0 (relocations name segments 0/1 only; the reloc
+header moves to index 3). lo16-bound strings still use the freed seg0 room. Full English: no string kept Japanese;
+PPSSPP boots it and runs field_ch01 (verified). Real hardware / re-signing: to verify with the signed EBOOT.

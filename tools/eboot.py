@@ -78,6 +78,37 @@ def same_hi(a, b):
     return (a + LOAD + 0x8000) >> 16 == (b + LOAD + 0x8000) >> 16
 
 
+def file_off(d, va):
+    """File offset of vaddr va (any PT_LOAD segment's file-backed bytes)."""
+    for vaddr, off, fsz, _ in __import__("eboot_text").segments(d):
+        if vaddr <= va < vaddr + fsz and off:
+            return va - vaddr + off
+    raise ValueError(f"{va:x} is in no segment's file data")
+
+
+def add_segment(d, data):
+    """Append `data` to the ELF bytearray d as a new PT_LOAD segment placed past the end of every segment's memory
+    (past .bss), its program header inserted after the other PT_LOADs (relocations name segments by index: the
+    existing ones keep theirs). Returns the new segment's vaddr; its file offset is the old end of file, 64-aligned.
+    The program header table must have a free 32-byte slot before the first segment's data (0x94..0xC0 here)."""
+    phoff, = struct.unpack_from("<I", d, 0x1C)
+    phnum, = struct.unpack_from("<H", d, 0x2C)
+    ph = [list(struct.unpack_from("<8I", d, phoff + 32 * i)) for i in range(phnum)]
+    first = min(p[1] for p in ph if p[0] == 1)
+    if phoff + 32 * (phnum + 1) > first:
+        raise ValueError("no room for another program header")
+    va = (max(p[2] + p[5] for p in ph if p[0] == 1) + 0x3F) & ~0x3F
+    d += bytes(-len(d) % 64)
+    off = len(d)
+    d += data
+    k = max(i for i, p in enumerate(ph) if p[0] == 1) + 1
+    ph.insert(k, [1, off, va, 0, len(data), len(data), 6, 0x40])
+    for i, p in enumerate(ph):
+        struct.pack_into("<8I", d, phoff + 32 * i, *p)
+    struct.pack_into("<H", d, 0x2C, phnum + 1)
+    return va
+
+
 class Patcher:
     def __init__(self, d=None):
         self.d = d if d is not None else load()

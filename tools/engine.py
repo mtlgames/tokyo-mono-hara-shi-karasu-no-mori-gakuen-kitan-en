@@ -85,6 +85,15 @@ def patch(p: Patcher):
     # choice keys: LEFT (0x80) = next, RIGHT (0x20) = previous -> DOWN (0x40), UP (0x10)
     p.asm(0x089F2A10, "andi $v0, $v0, 0x40", [0x30420080])
     p.asm(0x089F2A2C, "andi $v0, $v0, 0x10", [0x30420020])
+    # player-name splice passes 0x089EBEE0 / 0x089EC200 / 0x089EC4EC (whole message, pmyh pnyh pm1 pn1 pm pn px):
+    # before each splice after the first they clear only 33 bytes of the 161-byte scratch at sp, then strncpy(sp,
+    # text, pos) leaves no NUL when pos > 32 and strcat runs on into the old text, which still holds the code, so
+    # it splices forever and overflows (crash: two name codes past byte 32 of a message, JP never does). Clear all
+    # 161 bytes (docs/re/engine.md §Name codes).
+    for addr, reg, word in ((0x089EC01C, "s2", 0x27B20021), (0x089EC040, "v1", 0x27A30021),
+                            (0x089EC328, "s1", 0x27B10021), (0x089EC348, "v1", 0x27A30021),
+                            (0x089EC604, "s2", 0x27B20021), (0x089EC624, "v1", 0x27A30021)):
+        p.asm(addr, f"addiu ${reg}, $sp, 0xa1", [word])
     return p.d
 
 

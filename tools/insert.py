@@ -322,9 +322,10 @@ def eboot_room(x):
 
 def eboot_patch(d, text, sc):
     """Write replaced EBOOT strings into the ELF bytearray d: in place when they fit, else moved into the room freed
-    by moved strings and by the tails of shorter ones, every relocated pointer to them retargeted (docs/re/text.md
-    §Free space). A string moves only if the relocations account for at least the references eboot_text counted.
-    When the pool runs out, the strings left over keep their Japanese (warning printed; queued in docs/fit-queue.tsv)."""
+    by moved strings and by the tails of shorter ones (strings with a lui/addiu reference, which must stay in their hi
+    window) or into a new ELF segment past .bss (strings reached only by data words), every relocated pointer to them
+    retargeted (docs/re/text.md §Free space). A string moves only if the relocations account for at least the
+    references eboot_text counted. When the window runs out, the strings left over keep their Japanese (warning)."""
     keep, d0 = set(), bytes(d)
     while True:
         try:
@@ -377,24 +378,34 @@ def _eboot_patch(d, text, sc, keep):
             merged[-1][1] = max(merged[-1][1], f[1])
         else:
             merged.append(f)
-    free, short = merged, []
+    free, short, seg = merged, [], []
+    retarget = []  # (pointers, new vaddr); seg strings get theirs once the segment's vaddr is known
     for x, raw, off, room in sorted(move, key=lambda m: -len(m[1])):
         va, ps = off - eboot.FILE0, refs[off - eboot.FILE0]
+        if not any(p[0] == "lo" for p in ps):  # data words reach any address: the new segment past .bss
+            seg.append((raw, ps))
+            continue
         fits = lambda a: ((a + 0x8000) >> 16 == (va + 0x8000) >> 16 and eboot.same_hi(va, a))
-        f = next((f for f in free if f[1] - f[0] >= len(raw)
-                  and (fits(f[0] - eboot.FILE0) or not any(p[0] == "lo" for p in ps))), None)
+        f = next((f for f in free if f[1] - f[0] >= len(raw) and fits(f[0] - eboot.FILE0)), None)
         if f is None:
             short.append(x["id"])
             continue
         a, f[0] = f[0], f[0] + len(raw)
         d[a:a + len(raw)] = raw
+        retarget.append((ps, a - eboot.FILE0))
+    if short:
+        raise PoolFull(f"no room left in the EBOOT string pool for {len(short)} strings", set(short))
+    if seg:
+        base = eboot.add_segment(d, b"".join(raw for raw, _ in seg))
+        for raw, ps in seg:
+            retarget.append((ps, base))
+            base += len(raw)
+    for ps, a in retarget:
         for kind, site, base, _ in ps:
             s = site + eboot.FILE0
             w = struct.unpack_from("<I", d, s)[0]
-            new = a - eboot.FILE0 - base
+            new = a - base
             struct.pack_into("<I", d, s, new if kind == "word" else (w & 0xFFFF0000) | (new & 0xFFFF))
-    if short:
-        raise PoolFull(f"no room left in the EBOOT string pool for {len(short)} strings", set(short))
     return d
 
 

@@ -35,7 +35,6 @@ item:0326:10	Social Studies +1  / Japanese -1	over 24b / 1 lines of 24b: [18, 11
 item:0327:10	Social Studies +1  / Health -1	over 24b / 1 lines of 24b: [18, 9]
 item:0328:10	Social Studies +1  / Biology -1	over 24b / 1 lines of 24b: [18, 10]
 item:0329:10	Social Studies +1  Math / -1	over 24b / 1 lines of 24b: [23, 2]
-eboot:pool	~206 EBOOT strings keep Japanese (build WARNING lists ids)	EBOOT string pool ~1.6 KB short: grow the data segment past .bss (docs/re/text.md Free space)
 hanafuda:0000:08	Winter / Chaff	over 7b / 1 lines of 7b: [6, 5]
 hanafuda:0002:04	Pine Poetry / Ribbon	over 14b / 1 lines of 14b: [11, 6]
 hanafuda:0002:08	Winter / Ribbon	over 7b / 1 lines of 7b: [6, 6]

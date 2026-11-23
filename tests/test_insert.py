@@ -134,10 +134,36 @@ def test_eboot_move(sc):
         sites = sorted(p[1] for p in refs[va(x)])
         at = [a for a, ps in new.items() if sorted(p[1] for p in ps) == sites]
         assert len(at) == 1, x["id"]
-        o = at[0] + eboot.FILE0
+        o = eboot.file_off(d, at[0])
         assert d[o:d.index(b"\0", o)] == en[x["id"]].encode()
-    orig = eboot_text.ELF.read_bytes()  # no room for this much: the string keeps its Japanese
-    assert insert.eboot_patch(bytearray(orig), Fixed({data_x["id"]: "D" * 5000}), {"eboot.json": [data_x]}) == orig
+    orig = eboot_text.ELF.read_bytes()  # no room this much in its lui window: a lo16 string keeps its Japanese
+    assert insert.eboot_patch(bytearray(orig), Fixed({code_x["id"]: "C" * 5000}), {"eboot.json": [code_x]}) == orig
+    # a data-word string of any length goes to the new segment past .bss
+    d = insert.eboot_patch(bytearray(orig), Fixed({data_x["id"]: "D" * 5000}), {"eboot.json": [data_x]})
+    at = [a for a, ps in eboot.pointers(d).items() if ps == refs[va(data_x)]]
+    assert len(at) == 1 and at[0] > 0xAB3EC4 and d[eboot.file_off(d, at[0]):].startswith(b"D" * 5000 + b"\0")
+
+
+def test_eboot_writes_in_range(sc):
+    """romdiff gate on the shipped EBOOT: every changed byte is the engine patch, an EBOOT string slot, a relocated
+    pointer to a string, the program header table, or the appended string segment."""
+    import eboot
+    import eboot_text
+    import engine
+    import romdiff
+    if not eboot_text.ELF.exists():
+        pytest.skip("no decrypted EBOOT")
+    orig = eboot_text.ELF.read_bytes()
+    eng = bytes(engine.patch(eboot.Patcher(bytearray(orig))))
+    new = bytes(insert.eboot_patch(bytearray(eng), insert.Text("en"), sc))
+    slots = {int(x["id"].split(":")[1], 16): x["slot"] for x in sc["eboot.json"]}
+    sites = [s + eboot.FILE0 for va, ps in eboot.pointers(bytearray(orig)).items() if va + eboot.FILE0 in slots
+             for _, s, _, _ in ps]
+    allowed = ([range(i, i + 1) for i in range(len(orig)) if orig[i] != eng[i]]
+               + [range(o, o + n) for o, n in slots.items()] + [range(s, s + 4) for s in sites]
+               + [range(0x2C, 0x2E), range(0x34, 0xC0), range(len(orig), len(new))])
+    errs, _ = romdiff.check(orig, new, allowed, [])
+    assert not errs, errs[:10]
 
 
 def test_non_text_never_marked(sc):
