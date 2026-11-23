@@ -34,6 +34,7 @@ CAPTION_RIGHT = 336    # location captions end here, left of the red-diamond str
 SPACE_PX = 9           # sysfont18 space (full-width stand-in) width
 SCRIPT_BAD = "@_\\"    # in .pwx text: ＠ hangs the ADV, sysfont18 has no _ glyph, \ draws as ¥ (width gate)
 NAME_MAX = 17          # speaker name chars: 18 crashes the game when the name shows (width gate)
+LONG_ROW, LONG_MIN = 3, 16  # long build: a table row gets max(LONG_MIN, LONG_ROW x its JP bytes), within its column
 # extracted strings that are data, not text (marker build): never replaced. EBOOT file offset ranges, inclusive.
 NON_TEXT = [
     (0x2B1154, 0x2B1514, "name-entry grid cells, one char per 4-byte slot (its 英数 page already has A-Z a-z)"),
@@ -141,6 +142,10 @@ class Text:
             return self.fill(f"{tag} ", nbytes=max(len(tag), len(x["jp"].encode("cp932"))))
         if self.mode == "long" and kind == "table":  # width stress, inside the column's own longest line and string
             line, total = self.table_max[col_key(x)]
+            # columns mix labels and notices: a label's buffer can be far below the column max (systemtext:0411 HUD
+            # label: 40 bytes ok, 48 crash), so a row gets LONG_ROW x its own bytes at most
+            total = min(total, max(LONG_MIN, LONG_ROW * len(x["jp"].encode("cp932"))))
+            line = min(line, total)
             out = "\n".join(self.fill(f"{tag} " if i == 0 else "", nbytes=line) for i in range(len(lines)))
             return out[:max(total, len(tag) + 1)].rstrip()
         if self.mode == "long" and kind == "eboot":  # EBOOT strings fill their slot

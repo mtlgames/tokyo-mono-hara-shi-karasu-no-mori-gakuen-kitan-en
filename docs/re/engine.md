@@ -90,17 +90,20 @@ of short rows, the 160-byte notice cap for notices); other tables may hide the s
 - Readability (polish): the left gradient panel (`adv/talk/adv_talk.g2d`, `adv_emotion2.gim`) covers only x 0-150;
   text has a dark outline and reads on bright backgrounds, so this is polish, not a blocker.
 - The page-wait icon now sits bottom-left (x = 116 - 32*n geometry of 0x089F0A1C): polish.
-- Other vertical drawer callers 0x0883CBCC / 0x088A69C8: not seen in the 53-scene tour yet.
-- **.ksf choice menu** (scenes `choice_pre` / `choice`; original look work/qa/warp/orig/choice/final.png: options
-  are vertical columns 32 px apart from x 116 leftwards, a vertical red bar sprite marks the selected one).
-  Text: `engine.patch` makes them rows (x 116, y 89 + 20*i; loop 0x089F0DF4, verified). Still to do:
-  (a) **cursor**: the red bar is made in 0x089F08C4 (case code 0x089F09B8: 0x89fed28(obj, &pos, len = ctx+0x668/2,
-  f12 63.0); obj +4 = a2, +8/+0xC = x/y, +0x20 = f12) and moved each frame by 0x089F0A1C: x = 116 - 32 * sel
-  (sel = ctx+0x39EC, count ctx+0x39EB) via 0x89fe7b0(obj, &{x, y}) (anim state 4 = move to target). Position
-  helper 0x89f04b0(116, 8, 2, 2, len/2, 14) -> v0/v1. Tried: a2 = 1 + x/y from sel*20: the bar stayed tall at the
-  original column (only one shot showed a short box), so length/position come from elsewhere too; reverted.
-  Ideas: a horizontal highlight sprite, or move the bar left of the rows and shrink it via 0x89f04b0's args.
-  (b) **keys**: 0x089F2A10 `andi 0x80` (LEFT) = next option, 0x089F2A2C `andi 0x20` (RIGHT) = previous; for rows
-  use 0x40 (DOWN) / 0x10 (UP). (In a test, DOWN also changed the cursor: check before patching.)
+- Other vertical drawer callers (`tools/debug/bpsweep.py` over the 51 marker states, work/qa/bpsweep.log):
+  **0x088A69C8** = dungeon area label (EBOOT `%s　%s` 2b1ce4, area + floor; font 2 at x 5, y = obj+0x248), hit in
+  every dungeon/battle state; drawn down the dark strip at the left originally, now one horizontal line at x 5
+  (reads fine, white with outline, work/qa/warp/marker/dun1/final.png): budget up to the minimap, ~370 px.
+  **0x0883CBCC** (a text object with a horizontal/vertical flag; horizontal branch 0x0883CB70) never fired: if
+  some screen uses it, the patched drawer already lays it out left to right.
+- **.ksf choice menu: done** (scenes `choice_pre` / `choice`; original look work/qa/warp/orig/choice/final.png:
+  vertical columns 32 px apart from x 116 leftwards, a vertical red bar marks the selected one). `engine.patch`:
+  rows (x 116, y 89 + 20*i; loop 0x089F0DF4); keys DOWN = next / UP = previous (0x089F2A10 / 0x089F2A2C, were
+  LEFT 0x80 / RIGHT 0x20); cursor = the bar object turned flat (verified work/qa/choice_bar*: highlight follows
+  DOWN/UP, circle picks). Bar object (made 0x089F09DC via 0x89fed28(obj, &pos, len = ctx+0x668/2, f12 63.0), only
+  user): +8/+0xC x/y, +0x10/+0x14 target, +0x18/+0x1C start, +0x24/+0x28 w/h (state 2 at 0x089FE704: 20 x
+  len*18), state 4 lerps x only; draw 0x089FE898 = fill rect (x-5, y-6, w+10, h+12) + a vertical bracket frame
+  (sprites 0x15-0x17). English: w = len*18, h = 10, lerp y, target y = 92 + 20*sel (0x089F0A1C), frame skipped.
+  Polish: bar width = len*18 tracks bytes, not px (a little wide for narrow text).
   Graphics: the emotion-input wheel (愛喜悲困友燃嫌怒, MS00_01) is graphics text: check it is in docs/re/graphics.md.
 - Space width (sysfont18 9 px) looks wide; tune in the font patch if the width gate needs it.

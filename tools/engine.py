@@ -20,6 +20,8 @@ NAME_XY = (8.0, 6.0)     # speaker name canvas (original 116, 8: right-hand colu
 TEXT_XY = (8.0, 28.0)    # dialogue line 0 canvas (original 84, 8)
 CAP_TEXT = (0.0, 32.0)    # location caption text (original 368, 32); insert.py right-aligns it to CAPTION_RIGHT
 CHOICE_PITCH = 20.0       # px between .ksf choice rows (original: columns 32 px apart)
+CHOICE_BAR_Y = 92.0       # choice cursor bar on row 0 (rows' text at y 89 + CHOICE_PITCH * i); fill drawn y-6..y+h+6
+CHOICE_BAR_H = 10.0
 
 
 def hi(f):
@@ -64,7 +66,25 @@ def patch(p: Patcher):
     p.asm(0x089F0DF8, "mov.s $f12, $f22; cvt.s.w $f13, $f0", [0x4600AB46, 0x46800320])
     p.asm(0x089F0E0C, "mul.s $f13, $f13, $f23", [0x46176302])
     p.asm(0x089F0E1C, "add.s $f13, $f21, $f13", [0x460CB300])
-    # TODO choice cursor (vertical red bar, still at the original column) and keys (left/right): docs/re/engine.md
+    # choice cursor: a red bar object (made 0x089F09DC, only user) sized 20 wide x len*18 tall (state 2,
+    # 0x089FE704) and moved by lerping x only (state 4, 0x089FE73C). English: len*18 wide x 20 tall, lerp y.
+    p.asm(0x089FE728, f"lui $at, {hi(CHOICE_BAR_H):#x}", [0x3C0141A0])
+    p.asm(0x089FE730, "swc1 $f0, 0x28($a0)", [0xE4800024])
+    p.asm(0x089FE738, "swc1 $f1, 0x24($a0)", [0xE4810028])
+    p.asm(0x089FE73C, "lwc1 $f3, 0x1C($a0)", [0xC4830018])
+    p.asm(0x089FE740, "lwc1 $f0, 0x14($a0)", [0xC4800010])
+    p.asm(0x089FE774, "swc1 $f3, 0xC($a0)", [0xE4830008])
+    # bar draw 0x089FE8A0: a translucent fill rect (x-5, y-6, w+10, h+12), then a vertical bracket frame (sprites
+    # 0x15-0x17, middle stretched h/40) that can't lie flat: draw only the fill
+    # (keystone rejects absolute branch targets this high, and pads `b` with a nop: encode beq $0, $0 by hand)
+    p.asm(0x089FE9FC, f".word {0x10000000 | (0x089FEB50 - 0x089FEA00) >> 2:#x}", [0x2402FF8C])
+    # per frame (0x089F0A1C) target x = 116 - 32 * sel -> target y = CHOICE_BAR_Y + CHOICE_PITCH * sel
+    p.asm(0x089F0A1C, f"lui $at, {hi(CHOICE_BAR_Y):#x}", [0x3C0142E8])
+    p.asm(0x089F0A38, f"lui $at, {hi(CHOICE_PITCH):#x}", [0x3C01C200])
+    p.asm(0x089F0A4C, "swc1 $f0, 4($sp)", [0xE7A00000])
+    # choice keys: LEFT (0x80) = next, RIGHT (0x20) = previous -> DOWN (0x40), UP (0x10)
+    p.asm(0x089F2A10, "andi $v0, $v0, 0x40", [0x30420080])
+    p.asm(0x089F2A2C, "andi $v0, $v0, 0x10", [0x30420020])
     return p.d
 
 
