@@ -66,9 +66,19 @@ Sheets `work/survey/znt/` (`gimsheet.py --embedded`); gfx rows name them `contai
 the re-encoded GIM back in place, same size). Text found: see qa-findings.md "Dungeon textures inside .znt models".
 
 ## Outside the GIMs
-- Movies `USRDIR/MOVIE/*.PMF` (H.264): `STORYTITLE01-10` (chapter title cards, almost certainly Japanese text),
-  `EYECATCH00-10`, `PROLOGUE`, endings `EPSOTD_END01-09`, `BADEND*`, `TRUEEND` (credits roll likely). Burned-in text
-  needs re-encoding + PSMF re-mux: see "Waiting on the user" in `docs/status.md`.
+- Movies `USRDIR/MOVIE/*.PMF` (H.264 480x272 Main@2.1, no B-frames; PSMF container, `tools/pmf.py`):
+  - `STORYTITLE01-10`: chapter cards, video only (`tools/movie.py`). `PROLOGUE`, `EYECATCH00-10`: logo only (K).
+  - `BADENDLOST`, `BADENDSEAL` (7643 frames), `TRUEEND` (8663): one staff roll (240 runs, `gfx/credits/credits.tsv`
+    roll:N) scrolling up a pure-black panel at x < ~145 (gradient to ~190, sky beyond) at a constant 0.92488 /
+    0.91512 / 0.94093 px/frame; text min channel > 90, the sky's blue channel stays low. TRUEEND opens with ~30 s
+    of scenery before the roll; each ends on an English "presents" logo (kept). Audio = private stream 0xBD,
+    untouched by `pmf.swap`.
+  - `EPSOTD_END01-09` (~3300-3420 frames): per-chapter credits as ~12 cards on the right half (text x >= ~265),
+    black + falling dark-red cards (G = B ~ 0) behind, sepia photos sliding on the left that reach x ~250. Each
+    card slides in from the left in ~15 frames, holds ~180 frames, drifts/fades out; a card's max-over-time image
+    is smeared by that motion, so runs must come from a hold frame and each frame needs its x offset. Cards 2-3
+    (cast) differ per chapter, the rest are shared (`credits.py scan` lists them).
+  `tools/credits.py` re-encodes both kinds (scan -> labelled sheets in work/movie/credits/, build -> gfx/movie/).
 - XMB: `PSP_GAME/ICON0.PNG`, `PIC0.PNG`, `PIC1.PNG` (title art), `PARAM.SFO` title string.
 - Boot notices (autosave warning, "memory stick" checks) are drawn as text over a GIM frame: font text from the
   EBOOT (`docs/re/text.md`), not graphics (verified by the strings found in the EBOOT).

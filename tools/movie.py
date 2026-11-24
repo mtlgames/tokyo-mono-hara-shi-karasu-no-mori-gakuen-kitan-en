@@ -257,7 +257,9 @@ def pmfs():
     missing = [c for c in CARDS if not (OUT / f"STORYTITLE{c}.PMF").exists()]
     if missing:
         build(missing)
-    return {f"/PSP_GAME/USRDIR/MOVIE/STORYTITLE{c}.PMF": (OUT / f"STORYTITLE{c}.PMF").read_bytes() for c in CARDS}
+    import credits                                    # the staff credits in the ending movies
+    return {f"/PSP_GAME/USRDIR/MOVIE/STORYTITLE{c}.PMF": (OUT / f"STORYTITLE{c}.PMF").read_bytes() for c in CARDS
+            } | credits.pmfs()
 
 
 def selftest():

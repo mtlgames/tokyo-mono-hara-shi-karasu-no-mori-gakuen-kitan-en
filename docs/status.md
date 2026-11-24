@@ -2,8 +2,26 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (qa-findings §Re-tour items all closed or moved to polish.md by
-  worker 13; left: credits movies, then a re-tour of the current build + its visual QA; phase 7 done 2026-11-24).
+- **Phase:** 8. QA in the emulator, in progress (staff roll done by worker 14; left: EPSOTD_END01-09 credit cards,
+  then a re-tour of the current build + its visual QA; phase 7 done 2026-11-24).
+- **Phase 8, worker 14 (2026-11-24, stopped near the context limit):** **Staff roll in English** in BADENDLOST,
+  BADENDSEAL, TRUEEND: `tools/credits.py` (scan: measures the scroll, stitches the roll, finds 240 text runs, labelled
+  strips in work/movie/credits/; build: per frame fills the JP in the shifted run boxes, stamps English (Liberation
+  Serif 15/13/11 px by the JP line height, condensed past x 172) with sub-pixel scroll, x264 per GOP at the lowest
+  crf that fits, untouched GOPs kept byte for byte, `pmf.swap`; audio untouched). Text `gfx/credits/credits.tsv`
+  (key, jp, en; "=" keep). Romanisation D23. Spliced by build.py via `movie.pmfs()` -> `credits.pmfs()` (renders
+  missing/stale movies, stamp gfx/movie/credits.stamp, ~8 min for all three). Verified: frame compares of each movie
+  vs the original, cold-boot warp `work/qa/warp/w14/badend` (roll plays in English). Build `build/karasu_en.iso` sha1
+  0adbb746, smoke ok, check green (28).
+- **Next (phase 8, worker 15+):** (a) **EPSOTD_END01-09 cards** (per-chapter end credits): `credits.py scan
+  EPSOTD_END0*` keys 22 unique cards (cast cards 2-3 differ per chapter), but each card slides in from the left
+  (~15 frames), holds, then drifts/fades; photos (sepia, G>60) reach x ~250 and pollute the max-over-time mask, so:
+  take runs from a hold frame (mid-segment, not the ink peak), track each frame's x offset against it (column
+  profile of neutral-white ink, max-min < 12, x >= 255), erase in the offset boxes, stamp English at the offset with
+  alpha = ink ratio; re-check `same_card` keys after that. Then transcribe the card runs (most names are already in
+  credits.tsv roll rows; new: per-chapter cast, 謎の老人/謎のインド人? roles, アトラス "Planning: Atlus"
+  closing card), add them to `credits.DONE`. (b) Re-tour (`warp.py --all --tag en`, delete work/states/en/ first),
+  `tools/tour_sheets.py`, visual QA of the new manifest, stress saves, textcover.
 - **Phase 8, worker 13 (2026-11-24, stopped near the context limit):** (1) **Dungeon loader 読み込み中 fixed:** the
   EBOOT carries its own zdv copies of ui_loading.g2d/.gim (ELF 0x2A64F0/0x2A6918; RAM dump matched the original
   pixels, a zlib scan of the ELF found them, no other zdv in the ELF); `gfx.EBOOT_COPIES` + `build.eboot(text, ed)`
@@ -15,7 +33,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   EPSOTD_END movies share some text cards but not all (cast/theme cards differ per chapter: per-movie transcription);
   cards are white serif text, right half, on black with falling red cards and tilted photos (left). Build
   `build/karasu_en.iso` sha1 4e8e811c, smoke ok, check green (27).
-- **Next (phase 8, worker 14+):** (a) **Credits movies** (D3/D22: English): BADENDLOST, BADENDSEAL, TRUEEND (left
+- **Old next (worker 14; roll part of (a) done):** (a) **Credits movies** (D3/D22: English): BADENDLOST, BADENDSEAL, TRUEEND (left
   column over scenery) + EPSOTD_END01-09 (~110 s, right-half name cards). Transcribe each card (frame grabs via
   `pmf.es` + ffmpeg, read at full res), romanise names (Hepburn with macrons as the glossary does; company names as
   they style themselves: Atlus, HYDE, Sunset Studio, Esprism), put them in a data file, then extend `tools/movie.py`
