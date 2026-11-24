@@ -2,8 +2,16 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (left: re-tour of 917ef4ac, verdicts for changed sheets,
-  `qa_gate.py check` exit 0; phase 7 done 2026-11-24).
+- **Phase:** 8. QA in the emulator, in progress (left: re-tour of fefac907 (if killed: re-run the same command with
+  `--resume`), `tour_sheets.py`, verdicts for changed sheets (expect shop, stress_shop), `qa_gate.py check` exit 0;
+  phase 7 done 2026-11-24).
+- **Phase 8, worker 21 (2026-11-25):** finished the 917ef4ac re-tour (`warp.py --all --resume`: new flag, skips
+  scenes whose state exists, for tours killed by the memory reaper), `tour_sheets.py`: 44 changed sheets, 6 chunks
+  `chunk_3dc47d49b0e7_000..005`, all verdicts (visual-qa agents): Counter plate, menu money plate, Chorus colon,
+  fresh stress save confirmed; **1 issue, fixed:** quest-shop money plate past its border (qa-findings §Worker 21;
+  `stress_shop` scene added). New `tools/debug/bpscene.py` (warp + breakpoints armed from boot: finds which call
+  draws a label). Build `build/karasu_en.iso` **sha1 fefac907**, smoke ok, check green (29). Re-tour of fefac907
+  started (`rm -rf work/states/en work/qa/warp/en`, `warp.py --all --resume --tag en --shot-every 30`).
 - **Phase 8, worker 20b (2026-11-25):** worker 20's fixes (money plate, per-run memstick, Counter plate) and its
   uncommitted staff-roll "Chorus      : Aina Kase" (colon now in the Vocals/Lyrics/Music column, checked on frame
   4191 of BADENDLOST) committed. Worker 20's own build.py died mid-movie (its claude.exe was still alive when this
