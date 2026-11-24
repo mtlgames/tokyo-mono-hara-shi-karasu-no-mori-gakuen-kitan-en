@@ -146,7 +146,8 @@ separates alternatives) and the Avoid column.
 | 脚力 | Speed | | stat | Footwork |
 | 判断力 | Judgment / Judgmt | | stat; "Judgmt" only systemtext:0391 (status page cell, fit-queue) | |
 | 外国語 | Languages / Lang. | | school subject; "Lang." only systemtext:0071 (status page cell + Forte, fit-queue) | Foreign Language |
-| 現代社会 | Social Studies / Soc.St / Social St. | | school subject; "Soc.St" only in item:0326-0328:10 stat lines (24b, fit-queue); "Social St." = systemtext:0070 (status page subject cell, 56 px) | Modern Society |
+| 東京鬼祓師 | Tokyo Mono Hara Shi | | game title; the save-dialog titles (eboot:2b0f88, 2b0e90 "- Download Quest") are this alone: the full subtitle ran off the PSP save dialog | Tokyo Oni-Exorcist |
+| 現代社会 | Social Studies / Soc.St / Soc. St. | | school subject; "Soc.St" only in item:0326-0328:10 stat lines (24b, fit-queue); "Soc. St." = systemtext:0070 (status page subject cell, 57 px; "Social St." crossed its divider) | Modern Society |
 | 麻痺 | Paralysis | | ailment | Paralyze |
 | 悪寒 | Chills | | ailment | |
 | 札強化 | Card Enhance / Enhance | | | Card Boost |

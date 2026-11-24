@@ -71,14 +71,15 @@ def read_qa(path):
     return {i: t.replace("\\n", "\n") for i, t in rows}
 
 
-def build(out=OUT, force=False, mode="en", qa=None):
+def build(out=OUT, force=False, mode="en", qa=None, extra=None):
+    """extra: more {unpacked path: bytes} edits (QA-only builds such as tools/debug/startroom.py)."""
     import insert
     check_rom.check()
     out.parent.mkdir(parents=True, exist_ok=True)
     text = insert.Text(mode, read_qa(qa))
     pak = crow_pak()
     tmp = out.with_name(out.stem + ".CROW.PAK")
-    ed = {} if force else edits(text)
+    ed = {} if force else {**edits(text), **(extra or {})}
     pak.rebuild(tmp, editor(pak, ed, force))
     files = {CROW: tmp.read_bytes()}
     if not force:

@@ -319,7 +319,7 @@ STATUS_CELLS = [
     (0x0892BBEC, "Stamina", 5, 61), (0x0892BC10, "Reflex", 5, 61), (0x0892BC34, "Will", 5, 61),
     (0x0892BC58, "Speed", 5, 61), (0x0892BC7C, "Judgmt", 5, 61),
     (0x0892BCAC, "Jpn.", 249, 306), (0x0892BCD0, "Math", 249, 306), (0x0892BCF4, "Lang.", 249, 306),
-    (0x0892BD18, "P.E.", 249, 306), (0x0892BD3C, "Social St.", 249, 306), (0x0892BD60, "Health", 249, 306),
+    (0x0892BD18, "P.E.", 249, 306), (0x0892BD3C, "Soc. St.", 249, 306), (0x0892BD60, "Health", 249, 306),
     (0x0892BD84, "Biology", 249, 306),
     # top-right box: labels left of the values' divider (~x 378); JP centred ~x 316
     (0x0892B848, "Current Lv", 249, 377), (0x0892B86C, "HP Current/Max", 249, 377), (0x0892B8B0, "AP Max", 249, 377),
@@ -327,13 +327,8 @@ STATUS_CELLS = [
 ]
 STATUS_LEFT = [(0x0892B818, 80, 76),   # Condition: 4 px left, clear of the value ("Name": status_name)
                (0x0892D0CC, 406, 372), (0x0892DCC0, 406, 372)]  # Forte (得意科目) value: room for "Social Studies"
-# Value column x (the ▲/▼ mark is drawn 14 px left of it, a 0 value's "v" 20 px right): stats 82, subjects 325, set in
-# two loops (create, refresh). English stat/subject names are up to 74 px, so the columns move right; the subject
-# value stays left of the Summary cell. (site, original word, new x)
-# A zero prints as " 0" (%2d) with the ▼ after it: ▼ at value + 16 keeps both the 0 and the divider clear.
-STATUS_VALUES = [(0x0892D278, 0x24150052, 89), (0x0892D46C, 0x24120052, 89),
-                 (0x0892D2EC, 0x24150145, 336), (0x0892D474, 0x24120145, 336)]
-STATUS_DOWN = (0x0892D4C0, 0x26520014, 16)  # ▼ at value + 20 -> + 16
+# The value columns (stats x 82, subjects 325, ▲ at -14, a 0's ▼ at +20) stay at the original x: worker 8 moved them
+# right (89/336, ▼ +16) for wide names, which put the ▼ on the Summary divider; the names are short forms now.
 
 
 def status_labels(p):
@@ -348,15 +343,11 @@ def status_labels(p):
         old = struct.unpack_from("<I", p.d, o)[0]
         assert old >> 16 == 0x2405, hex(old)
         x = max(left + 1, (left + right - sum(w[ord(c)] for c in en)) // 2)
-        # guard only: "Social St." (64 px by the table, 57 px cell) shows clear of the divider, "Willpower" (68) did not
+        # guard only: "Social St." (64 px, 57 px cell) crossed its divider by its "." (now "Soc. St."), "Willpower" (68) too
         assert sum(w[ord(c)] for c in en) <= right - left + 7, f"status label {en!r} wider than its cell"
         p.asm(site, f"addiu $a1, $zero, {x}", [old])
     for site, x0, x in STATUS_LEFT:
         p.asm(site, f"addiu $a1, $zero, {x}", [0x24050000 | x0])
-    for site, old, x in STATUS_VALUES:
-        p.asm(site, f"addiu ${'s5' if old >> 16 == 0x2415 else 's2'}, $zero, {x}", [old])
-    site, old, dx = STATUS_DOWN
-    p.asm(site, f"addiu $s2, $s2, {dx}", [old])
 
 
 # Status page name box (labels made at 0x0892CFB8..0x0892D034, same maker 0x0892B6B0): furigana surname/given at

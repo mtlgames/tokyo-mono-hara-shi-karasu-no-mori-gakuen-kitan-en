@@ -23,7 +23,7 @@
 - [ ] eboot:2b2320 - 盗みたイ "Must Steal": katakana-accent quirk lost; "Wanna Steal" keeps some flavour.
 - [ ] eboot:2b2c24 - メン言うな 'Don't Say "Men"': reads as "men" (plural) to English players; check scene context (kendo 面 call or nickname) - 'Don't Call Me "Men"' at least.
 - [ ] eboot:2b5430 - 整理してアイテムを収納しますか？ "Sort them and store the item?": 整理 = make room/rearrange; "Rearrange slots to stow the item?"
-- [ ] eboot:2b0e90 / 2b0f88 - title "Tokyo Mono Hara Shi: Strange Tales of Karasu no Mori Academy": not in glossary; record it there so other batches match.
+- [x] eboot:2b0e90 / 2b0f88 - title "Tokyo Mono Hara Shi: Strange Tales of Karasu no Mori Academy": not in glossary; record it there so other batches match. Worker 19: glossary row 東京鬼祓師; both now "Tokyo Mono Hara Shi" (+ " - Download Quest"): the full title ran off the save dialog (stress_names f000996).
 
 <!-- g006 -->
 - [ ] eboot:2b7814 - 帝都防衛軍将校 "Imperial Defense Officer" drops "Force" from the glossary term; "Imperial Defense Force Officer" fits (30 chars, 42b).
