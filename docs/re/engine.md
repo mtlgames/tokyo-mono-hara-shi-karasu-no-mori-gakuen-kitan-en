@@ -65,7 +65,10 @@ lookup 0x08A01C38 (binary search by code), 0x08A01CB0/0x08A01D88 GetGlyph(font, 
   sp+0x20: a 17-char name (34 bytes) overwrote its low half, the caller then stored the id through a bad pointer and
   the speaker plate stopped changing (ms01_00:011:35); 18 chars overwrote all of $s0 = the crash below. `engine.patch`
   saves $s0 at the frame's unused sp+0x48: names up to 18 chars are now safe there (NAME_MAX stays 17). English
-  names never match the table (its strings are ASCII, speakers full-width), as before the fix: id -1.
+  names match it (the character table is full-width, `insert.NAME_EBOOT`; Asako -> 0x14). The buffer is zeroed
+  only to sp+0x1d and strncpy adds no NUL, so names of 15+ chars matched nothing (id -1), and a `{px}` line
+  spoken under id -1 crashes (ms01_00:022:08 "{px}--" after Soft Girl's Voice, f016626; found with bpstr on the
+  return sites). `engine.patch` zeroes to sp+0x24 (0x089E8554 / 0x089E86B4): 17 chars + NUL match.
 - **Speaker names: max 17 chars** (`insert.NAME_MAX`; 17 W = 306 px shows fine, 18 or 22 chars of any width crash
   PPSSPP when the name appears; a ~40-byte buffer holding `【name】`, not found: not the ctx+0x254 name buffer
   (161 bytes), the replace pass (161), the player-name pass 0x089EE1D8 (161) or canvas set-text 0x089F8900 (510)).
