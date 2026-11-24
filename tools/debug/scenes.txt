@@ -42,6 +42,15 @@ saveload   from=field_ch01 route=6 start;90 -;6 up;40 -;6 circle;150 -
 report     from=field_ch01 set=chapter=3 route=6 start;90 -;6 up;40 -;6 up;40 -;6 circle;150 -
 report_card from=report route=6 right;90 -
 map        from=field_ch01 set=chapter=3 route=6 start;90 -;6 down;40 -;6 down;40 -;6 down;40 -;6 circle;150 -
+# --- stress (skill phase 8): every non-equipment item x99, widest names first, max money; scroll the whole list
+stress_list  from=field_ch01 set=items=wide,money=9999999 route=6 start;90 -;6 circle;150 -;6 down;20 -;6 down;20 -;6 down;20 -;6 down;20 -;6 down;20 -;6 down;20 -;6 down;20 -;6 down;20 -;600 down;30 -;6 up;60 -;6 square;90 -
+# the 16 widest item names, one at a time (name + description pane), then details
+stress_items from=field_ch01 set=items=wide16,money=9999999 route=6 start;90 -;6 circle;150 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 square;90 -
+# longest player name (5 full-width W each, D18): menu, report card, save/load list, dialogue that splices it, battle HUD
+stress_names from=field_ch01 set=chapter=3,name_given=ＷＷＷＷＷ,name_family=ＷＷＷＷＷ,read_given=ＷＷＷＷＷ,read_family=ＷＷＷＷＷ route=6 start;90 -;6 up;40 -;6 up;40 -;6 circle;150 -;6 right;90 -;6 cross;60 -;6 cross;60 -;6 start;90 -;6 up;40 -;6 circle;150 -;30 -;6 circle;90 -;6 circle;90 -
+stress_names_msg1 script=MS05_00 block=167 set=name_given=ＷＷＷＷＷ,name_family=ＷＷＷＷＷ,read_given=ＷＷＷＷＷ,read_family=ＷＷＷＷＷ mash=600:-
+stress_names_msg2 script=MS06_01 block=143 set=name_given=ＷＷＷＷＷ,name_family=ＷＷＷＷＷ,read_given=ＷＷＷＷＷ,read_family=ＷＷＷＷＷ mash=600:-
+stress_names_battle from=dun1_direct set=name_given=ＷＷＷＷＷ,name_family=ＷＷＷＷＷ,read_given=ＷＷＷＷＷ,read_family=ＷＷＷＷＷ route=450 up;60 -;6 circle;900 -;200 up;300 -
 
 # --- shops: FNxx_26/27 NPC scripts; a block holding only `shop00` opens the shop (block= starts the script there)
 shop       script=FN08_27 block=3 set=chapter=8 mash=600:-

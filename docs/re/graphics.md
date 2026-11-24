@@ -83,6 +83,9 @@ the re-encoded GIM back in place, same size). Text found: see qa-findings.md "Du
     the HYDE staff card differ per chapter, the rest are shared (`credits.py scan` lists them).
   `tools/credits.py` re-encodes both kinds (scan -> labelled sheets in work/movie/credits/, build -> gfx/movie/).
 - XMB: `PSP_GAME/ICON0.PNG`, `PIC0.PNG`, `PIC1.PNG` (title art), `PARAM.SFO` title string.
+- `system/newdataicon.png` (CROW.PAK, the only plain PNG there; 144x80): the save dialog's new-data icon 新規作成
+  しんきさくせい (T; missed by the GIM survey, found worker 16 in `stress_names`). `tools/gfx_newdata.py` -> "New
+  Save"; `gfx.edits()` ships a `.png` row as a plain file.
 - Boot notices (autosave warning, "memory stick" checks) are drawn as text over a GIM frame: font text from the
   EBOOT (`docs/re/text.md`), not graphics (verified by the strings found in the EBOOT).
 

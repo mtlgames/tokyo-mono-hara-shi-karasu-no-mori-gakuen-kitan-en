@@ -22,9 +22,13 @@ FIELDS = {
     'money':   (0x0BD4, '<I', 'yen (verified: shows in the menu)'),
     'hp':      (0x0BDC, '<i', 'player current HP (verified: battle HUD shows it at once; max is derived)'),
     'chapter': (0x3060, '<h', 'story chapter, 0 = prologue (verified: picks MSnn_xx at the end of free movement)'),
-    'name_given': (0x0442, '8s', 'SJIS, 千馗'),
-    'name_family': (0x0462, '8s', 'SJIS, 七代'),
+    'name_given': (0x0442, '30s', 'SJIS, 千馗; name entry takes 5 chars (full-width Latin from the ABC page)'),
+    'name_family': (0x0462, '30s', 'SJIS, 七代'),
+    'read_given': (0x0482, '30s', 'reading, かずき (EN build default: Ｋａｚｕｋｉ); dialogue {px} shows these'),
+    'read_family': (0x04A2, '30s', 'reading, しちだい (EN build default: Ｓｈｉｃｈｉｄａｉ)'),
     'dun_area':  (0x6878, '<i', 'dungeon area = dungeonareainfo.bin row (0 tutorial, 1 bg01_00 秋・第一階層; verified)'),
+    'items':  (0x0524, '1700s', 'item list: (u16 item.bin row, u16 count) x 425 to 0xBC8; set items=29*1+250*99 or '
+                                'items=wide (every non-equipment item, widest English name first, x99; wide16 = the 16 widest)'),
 }
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
@@ -40,13 +44,31 @@ def data_path(save):
     sys.exit(f'no DATA.BIN in {save}')
 
 
+def wide_items():
+    """Rows of item.bin that are not equipment (byte 0x35 != 5), widest English name first."""
+    import json
+    sys.path.insert(0, os.path.join(ROOT, 'tools'))
+    import batches
+    t = open(os.path.join(ROOT, 'work', 'unpacked', 'app_init.pak', 'table', 'item.bin'), 'rb').read()[1456:]
+    en = {int(e['id'].split(':')[1]): e.get('en') or '' for e in json.load(
+        open(os.path.join(ROOT, 'script', 'tables', 'item.json'), encoding='utf-8')) if e['id'].endswith(':04')}
+    rows = [r for r in en if r and t[r * 64 + 0x35] != 5]
+    return sorted(rows, key=lambda r: -batches.raw_px(en[r]))
+
+
 def parse_value(name, v):
     fmt = FIELDS[name][1]
+    if name == 'items':
+        pairs = ([(r, 99) for r in wide_items()[:int(v[4:] or 425)]] if v.startswith('wide')
+                 else [tuple(map(int, p.split('*'))) for p in v.split('+')])
+        return b''.join(struct.pack('<HH', r, n) for r, n in pairs[:425]).ljust(1700, b'\0')
     return v.encode('cp932').ljust(struct.calcsize(fmt), b'\0') if fmt.endswith('s') else int(v, 0)
 
 
 def get(b, name):
     off, fmt, _ = FIELDS[name]
+    if name == 'items':
+        return '+'.join(f'{r}*{n}' for r, n in struct.iter_unpack('<HH', b[off:off + 1700]) if r)
     v = struct.unpack_from(fmt, b, off)[0]
     return v.rstrip(b'\0').decode('cp932', 'replace') if isinstance(v, bytes) else v
 

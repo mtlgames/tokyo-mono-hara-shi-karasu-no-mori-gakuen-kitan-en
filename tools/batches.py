@@ -296,7 +296,15 @@ def width_problems(entry, en):
         s = "\n".join(lines)
         if len(s) > total or len(lines) > n or any(len(x) > line for x in lines):
             return [f"over {total}b / {n} lines of {line}b: {[len(x) for x in lines]}"]
+        lim = TABLE_PX.get(col_key(entry))
+        if lim and any(px(x) > lim for x in lines):
+            return [f"line over {lim}px: {[px(x) for x in lines]}"]
     return []
+
+
+# px limits per table column, in sysfont18 px (the box draws smaller, but in proportion): buddy bubble lines of
+# 222 px touch the chevron's right border (battle final frame, worker 16)
+TABLE_PX = {"buddymes:08": 215}
 
 
 def encodable(char, entry=None):

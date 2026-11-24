@@ -220,3 +220,15 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
 - [x] (worker 13: moved to docs/polish.md, as engine.md §Open rates it; the outline keeps it legible) Readability over bright lights (ch08 f001960-f002410 corridor light at x 235-250, ch03 caption over a
   yellow sign): same as the Readability item above; sysfont18 is a plain 4-bit alpha mask (no outline in the
   font), so the fix is engine-side (shadow pass) or a wider gradient.
+
+## Worker 16: stress scenes + re-tour of fd86cb47 (verdicts work/qa/verdicts/chunk_c8b1503f44a0_*.tsv)
+- [x] Item details stat line "Defense87" (stress_items f000900): eboot:2b5168 "Defense" -> "Defense " (the number is
+  appended; JP had trailing spaces). Verify in the next tour (menu_item / stress_items details pane).
+- [x] Save dialog new-data icon 新規作成 しんきさくせい (stress_names f000996): `system/newdataicon.png`, a plain PNG
+  the GIM survey missed -> `tools/gfx_newdata.py` "New Save"; gfx.edits ships `.png` rows as files. Verify in the
+  next tour (saveload / stress_names save screen).
+- [x] Buddy bubble "Whoops, Oni have shown" touches the chevron's right border (battle final): lines over 215 px
+  (sysfont18 px) rewrapped (14 buddymes:08 entries), lint `batches.TABLE_PX`.
+- [ ] stress_names_msg1/2: dialogue {px} still shows "Shichidai": the speaker record's name is set at New Game
+  from the EBOOT defaults, not from the game state. Run those two scenes on `build.py --qa
+  tools/debug/stress_names.tsv --out build/karasu_names.iso` (defaults = WWWWW) instead.

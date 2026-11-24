@@ -157,6 +157,9 @@ def edits():
     by, data = gims()
     out = {}
     for group, path, png in rs:
+        if path.endswith(".png"):        # a plain PNG file in CROW.PAK (system/newdataicon.png): shipped as is
+            out[path] = png.read_bytes()
+            continue
         if path not in data:
             raise KeyError(f"gfx/{group}.tsv: no GIM {path}")
         new = encode(data[path], png)
@@ -216,6 +219,10 @@ def main():
     by, data = gims()
     bad = 0
     for group, path, png in rows():
+        if path.endswith(".png"):
+            print(f"{group}\t{path}\tplain file" if png.exists() else f"ERROR {group}\t{path}\tno {png}")
+            bad += not png.exists()
+            continue
         try:
             new = encode(data[path], png)
             copies = by[hashlib.md5(data[path]).hexdigest()]

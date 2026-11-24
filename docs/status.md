@@ -2,8 +2,22 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (all credits movies English since worker 15; left: re-tour of the
-  current build + its visual QA, stress saves, textcover; phase 7 done 2026-11-24).
+- **Phase:** 8. QA in the emulator, in progress (left: rebuild + re-tour with worker 16's fixes, visual QA of the
+  manifest chunks, textcover sweep result/waivers, names stress on the names build; phase 7 done 2026-11-24).
+- **Phase 8, worker 16 (2026-11-24, stopped near the context limit):** (1) **Re-tour** of fd86cb47 (`warp.py --all
+  --tag en --shot-every 30`, log work/qa/tour_en.log, all exit 0 but the known wrap_skip), `tour_sheets.py`: 369
+  sheets, 29 chunks `work/qa/chunks/chunk_c8b1503f44a0_000..028` need verdicts (the rest kept theirs). **codex exec
+  hit its usage limit (until 2026-11-26)**, so visual QA is done by hand: chunk 000 done (1 issue, fixed). (2)
+  **Stress scenes** (scenes.txt §stress): `save.py` fields `items` (item list at 0x524, (row, count) x 425; `wide`,
+  `wide16`, `29*1+250*99`), `read_given`/`read_family` (readings), name fields 30s. `stress_list`/`stress_items`
+  (all / 16 widest item names x99, 9,999,999 yen: fit), `stress_names` (WWWWW names: status page, report card, save
+  dialog fit), `stress_names_battle`, `stress_names_msg1/2` (see qa-findings: need build/karasu_names.iso). Tag `st`
+  shots in work/qa/warp/st/. (3) Fixes: "Defense " stat label, `system/newdataicon.png` -> "New Save"
+  (`tools/gfx_newdata.py`, gfx.py plain-file rows), 14 buddy bubble lines rewrapped + `batches.TABLE_PX` lint. Not
+  yet in build/karasu_en.iso (rebuild after the sweep). (4) **Text coverage** `tools/cover.py` (script level: 387
+  .pwx with English; ids logged from warp/trace loads; tables/EBOOT need group waivers in docs/text_unshown.tsv):
+  tour reached 22; `cover.py sweep` warps into every other script (results work/qa/cover/sweep.tsv, exit codes =
+  crash/blank leads). (5) `tools/vqa_codex.py` runs chunks through codex exec once the limit resets.
 - **Phase 8, worker 15 (2026-11-24, stopped near the context limit):** **EPSOTD_END01-09 credit cards in English.**
   `credits.py`: `card_holds` (a card = 15+ still frames, NCC > 0.97 right of x 255; the closing 企画 アトラス card
   mid-screen from x 150), `Tracker` (per-frame x shift by FFT correlation over the card's text rows + alpha),
@@ -14,7 +28,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
   movies rendered, stamp current. New scene `edmovie1` (MS01_03 -> EPSOTD_END01; cold boot
   work/qa/warp/w15/edmovie1/final.png shows an English card). Build `build/karasu_en.iso` sha1 fd86cb47, smoke ok,
   check green (28).
-- **Next (phase 8, worker 16+):** Re-tour (`warp.py --all --tag en`, delete work/states/en/ first; ~1 h+),
+- **Next (phase 8, worker 17+):** (a) `python -X utf8 build.py` (no emulator may hold the ISO), smoke, then
+  re-tour (`warp.py --all --tag en --shot-every 30`; delete work/states/en/ first; ~45 min; includes the stress
+  scenes now) and `tour_sheets.py`; unchanged sheets keep verdicts. (b) Visual QA of `qa_gate.py todo` chunks:
+  `tools/vqa_codex.py --jobs 3` after 2026-11-26, else by hand (~8 sheets per chunk, stop near 150k context).
+  (c) `cover.py report`: review work/qa/cover/sweep.tsv non-zero exits (crash leads: reproduce with `warp.py ISO
+  NAME`), add waivers with reasons (tables/EBOOT groups, dev/test scripts) until it exits 0. (d) Names build:
+  `build.py --qa tools/debug/stress_names.tsv --out build/karasu_names.iso`, run stress_names_msg1/2 on it.
+- **Old next (worker 16; re-tour, stress, textcover started):** Re-tour (`warp.py --all --tag en`, delete work/states/en/ first; ~1 h+),
   `tools/tour_sheets.py`, `qa_gate.py todo` -> visual QA of the new manifest (no subagents in Orca runs: review the
   sheets yourself in a fresh read-only pass, or `codex exec`), then stress saves and textcover (skill phase 8
   done-when).
