@@ -9,8 +9,10 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   today, this is your new transfer student, Kazu|ki" runs off screen. **Not in the current build:** the same mash
   on e69f6e83 (work/qa/warp/cur/field_ch01, frame for frame the same timing) shows the stored wrap everywhere; the
   toured ISO 30bc8c09 carried older text. The re-tour covers the rest.
-- [ ] **HUD player name** (dungeon + battle, every HUD frame): the name, drawn down the side plate in the original,
+- [x] **HUD player name** (dungeon + battle, every HUD frame): the name, drawn down the side plate in the original,
   is now one horizontal line "Shichidai Kazuki" over the AP gauge (the global horizontal drawer). Also surname-first.
+  Fixed (worker 5): `engine.hud_name` swaps the sprintf args (given first, both "%s %s" sites) and moves it 48 px
+  down onto the strip's top, clear of the gauges (cold boot work/qa/warp/w5/battle, battle_dun1_direct).
 - [x] **Choice bar** too narrow for proportional text ("Don't shake hands"): engine.choice_bar_px sizes it from the
   options' px width; inkbox 8/7 (work/qa/warp/bar/choice, cold boot).
 - [x] **Wrong speaker plate:** ms01_00:011:35 (Hisae, 久榮) shows under ❖Gentle Schoolgirl❖ (field_ch01_sheet_22
@@ -52,9 +54,17 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
 - [ ] "□ Show Help" runs to x 480, last p clipped (field_ch01_sheet_27 f014860). systemtext:0659 -> "Help" (verify).
 - [ ] Readability: location caption and dialogue (no outline) over bright windows (field_ch01_sheet_28 f016210,
   sheet_29 f017470, sheet_3 f003250). The ADV gradient covers only x 0-150 (engine.md §Open): widen/darken it.
-- [ ] **Status page / report card** (field_ch01_sheet_11/12 f007210-f007420): name letters stacked, stat names over
+- [~] **Status page / report card** (field_ch01_sheet_11/12 f007210-f007420): name letters stacked, stat names over
   the arrows, summary text clipped at screen edge, "Social Studies" over its grade cell, "Best Subject" over
   "Japanese", "Homeroom" over the teacher name, "Before Last" into the value column.
+  Worker 5 (cold boot work/qa/warp/w5/report): `engine.status_name` = one "Kazuki Shichidai" from x 80, furigana and
+  "Name" off screen; `engine.status_labels` centres headers + stat/subject names in their grid cells (label x are
+  code immediates, list work/qa/status_labels.txt); "Condition" 4 px left; summaries shortened to fit 116 px
+  (systemtext 0400-0410, polish.md); header "Subject". **Still open:** names wider than the 56 px cell run over the
+  value's ▲ (Willpower 68, Judgment 67, Japanese 64, Languages 74, Social Studies 98 px advfont14): needs the grid
+  (background image, not status01.gim) widened + value column moved, or short forms; "Best Subject"+"Japanese"
+  touch (value x 406 in 0x0892D0CC/0x0892DCC0); "Arcane Eye Max" crosses its divider; Homeroom/Now/Last
+  (bonus page, labels 44-49) not looked at; second name block 0x0892DBD8 (partners?) unchanged.
 - [ ] **Tutorial Q&A panel** (dun_tut_qa_sheet): body text breaks per character ("mov|e") and runs past the panel;
   OXAS ticker "The Card Sealer exam has begun." runs onto the frame; opening quote shows as "˝", no closing quote.
 - [ ] **City map** (city_map_sheet f000306): place list clipped at the panel edge ("Karasu no Mo…").

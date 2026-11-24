@@ -84,6 +84,9 @@ def patch(p: Patcher):
     p.asm(0x089F0A4C, "swc1 $f0, 4($sp)", [0xE7A00000])
     choice_bar_px(p)
     menu_right(p)
+    hud_name(p)
+    status_labels(p)
+    status_name(p)
     # choice keys: LEFT (0x80) = next, RIGHT (0x20) = previous -> DOWN (0x40), UP (0x10)
     p.asm(0x089F2A10, "andi $v0, $v0, 0x40", [0x30420080])
     p.asm(0x089F2A2C, "andi $v0, $v0, 0x10", [0x30420020])
@@ -223,14 +226,14 @@ KEEP_X = """
 FLOOR_RIGHT = 472
 
 
-def jal_to(p, site, target, va):
-    """Point the relocated jal at `site` (calling `target`) at vaddr va in the added segment."""
+def jal_to(p, site, target, va, op=0x0C000000):
+    """Point the relocated jal (op 0x08000000: j) at `site` (calling `target`) at vaddr va in the added segment."""
     import eboot
     assert site in p.rel, "the jal must be relocated so the new target moves with the load base"
     o = p.off(site)
     old = bytes(p.d[o:o + 4])
-    assert struct.unpack("<I", old)[0] == 0x0C000000 | ((target - eboot.LOAD) >> 2)
-    new = struct.pack("<I", 0x0C000000 | (va >> 2))
+    assert struct.unpack("<I", old)[0] == op | ((target - eboot.LOAD) >> 2)
+    new = struct.pack("<I", op | (va >> 2))
     p.d[o:o + 4] = new
     p.log.append((o, old, new, f"{site:08x} jal stub (vaddr {va:x})"))
 
@@ -258,6 +261,153 @@ def right_align(p, site, right, keep=False):
 def menu_right(p):
     right_align(p, 0x08923BFC, MENU_RIGHT)
     right_align(p, 0x088E4168, FLOOR_RIGHT, keep=True)
+
+
+# Dungeon/battle HUD player name: sprintf(buf, "%s %s", surname 0x089D3AB8(0), given 0x089D3A84(0)) at 0x088A6550,
+# drawn by `j VDRAW` at 0x088A69C8 (x 5, y obj+0x248) down the dark strip under the LV gauge. Horizontal it lay
+# over the AP gauge: given name first (D1) and a stub moves it HUD_NAME_DY px down, onto the strip's top.
+VDRAW = 0x08816F18
+HUD_NAME_DY = 48.0
+HUDNAME = """
+    lui $at, {dy}
+    mtc1 $at, $f0
+    add.s $f13, $f13, $f0
+    move $t8, $ra
+    bal here
+here:
+    move $t9, $ra
+    move $ra, $t8
+    lui $t5, {dhi}
+    ori $t5, $t5, {dlo}
+    addu $t5, $t9, $t5
+    jr $t5
+"""
+
+
+# Status page (main menu > report card, scene `report`): 49 labels made by 0x0892B6B0(obj, a1 x, a2 y, a3 colour,
+# t0 systemtext(id)) with x as `addiu $a1, $zero, X` immediates (the JP x centres each label in its grid cell at 14 px
+# a char; list: tools/debug/labels.py). English: centre the labels that sit in grid cells by their advfont14
+# width, never left of the cell (too-wide names run right, over the divider; values start ~20 px further right).
+# (x-immediate site, label en, cell left, cell right); cells measured on work/qa/warp/jp/report/final.png.
+STATUS_CELLS = [
+    (0x0892B940, "Stats", 5, 61), (0x0892B964, "Value", 64, 116), (0x0892B9AC, "Subject", 249, 306),
+    (0x0892B9D0, "Grade", 309, 360),
+    (0x0892BBEC, "Stamina", 5, 61), (0x0892BC10, "Reflexes", 5, 61), (0x0892BC34, "Willpower", 5, 61),
+    (0x0892BC58, "Speed", 5, 61), (0x0892BC7C, "Judgment", 5, 61),
+    (0x0892BCAC, "Japanese", 249, 306), (0x0892BCD0, "Math", 249, 306), (0x0892BCF4, "Languages", 249, 306),
+    (0x0892BD18, "P.E.", 249, 306), (0x0892BD3C, "Social Studies", 249, 306), (0x0892BD60, "Health", 249, 306),
+    (0x0892BD84, "Biology", 249, 306),
+]
+STATUS_LEFT = [(0x0892B818, 80, 76)]  # Condition: 4 px left, clear of the value ("Name": status_name)
+
+
+def status_labels(p):
+    import insert
+    import json
+    w = insert.font_widths("advfont14")
+    st = Path(__file__).resolve().parents[1] / "script" / "tables" / "systemtext.json"
+    ens = {e.get("en") for e in json.loads(st.read_text(encoding="utf-8"))}
+    for site, en, left, right in STATUS_CELLS:
+        assert en in ens, f"status label {en!r} is no longer a systemtext string: update STATUS_CELLS"
+        o = p.off(site)
+        old = struct.unpack_from("<I", p.d, o)[0]
+        assert old >> 16 == 0x2405, hex(old)
+        x = max(left + 1, (left + right - sum(w[ord(c)] for c in en)) // 2)
+        p.asm(site, f"addiu $a1, $zero, {x}", [old])
+    for site, x0, x in STATUS_LEFT:
+        p.asm(site, f"addiu $a1, $zero, {x}", [0x24050000 | x0])
+
+
+# Status page name box (labels made at 0x0892CFB8..0x0892D034, same maker 0x0892B6B0): furigana surname/given at
+# (114, 10)/(175, 10) and surname/given at (117, 32)/(177, 32) in two fixed slots, so English names overlapped and
+# read surname first. English: the furigana and the "Name" label go off screen, the first slot shows the whole name
+# "given surname" (D1) from x 80 (stub: sprintf into a buffer in the added segment), the second slot an empty string.
+SURNAME, GIVEN, SPRINTF = 0x089D3AB8, 0x089D3A84, 0x08A82800
+NAME_X = 80
+OFFSCREEN = 600
+FULLNAME = """
+    move $t8, $ra
+    bal here
+here:
+    addiu $sp, $sp, -16
+    sw $t8, 0($sp)
+    sw $s0, 4($sp)
+    sw $s1, 8($sp)
+    move $s0, $ra
+    lui $t5, {sur_hi}
+    ori $t5, $t5, {sur_lo}
+    addu $t5, $s0, $t5
+    jalr $t5
+    move $s1, $v0
+    ori $a0, $zero, 0x8000
+    lui $t5, {giv_hi}
+    ori $t5, $t5, {giv_lo}
+    addu $t5, $s0, $t5
+    jalr $t5
+    move $a2, $v0
+    move $a3, $s1
+    addiu $a0, $s0, {buf}
+    addiu $a1, $s0, {fmt}
+    lui $t5, {spr_hi}
+    ori $t5, $t5, {spr_lo}
+    addu $t5, $s0, $t5
+    jalr $t5
+    addiu $v0, $s0, {buf}
+    lw $ra, 0($sp)
+    lw $s0, 4($sp)
+    lw $s1, 8($sp)
+    addiu $sp, $sp, 16
+    jr $ra
+"""
+EMPTY = """
+    move $t8, $ra
+    bal here
+here:
+    addiu $v0, $ra, {empty}
+    jr $t8
+"""
+
+
+def status_name(p):
+    import eboot
+    size = 0x180  # code 0x00-0xFF, "%s %s\0" + empty string at 0x100, name buffer 0x110-0x17F
+    va = eboot.add_segment(p.d, bytes(size))
+    off = len(p.d) - size
+    ram = eboot.LOAD + va
+    here = ram + 12  # bal at +4, its nop at +8 (both stubs start the same way)
+    rel = lambda t: ((t - here) & 0xFFFFFFFF)
+    a = FULLNAME.format(sur_hi=rel(SURNAME) >> 16, sur_lo=rel(SURNAME) & 0xFFFF, giv_hi=rel(GIVEN) >> 16,
+                        giv_lo=rel(GIVEN) & 0xFFFF, spr_hi=rel(SPRINTF) >> 16, spr_lo=rel(SPRINTF) & 0xFFFF,
+                        buf=0x110 - 12, fmt=0x100 - 12)
+    code = bytes(p.ks.asm(a, ram)[0])
+    assert len(code) <= 0xC0, len(code)
+    b = bytes(p.ks.asm(EMPTY.format(empty=0x106 - (0xC0 + 12)), ram + 0xC0)[0])
+    p.d[off:off + len(code)] = code
+    p.d[off + 0xC0:off + 0xC0 + len(b)] = b
+    p.d[off + 0x100:off + 0x106] = b"%s %s\0"
+    jal_to(p, 0x0892CFF4, SURNAME, va)
+    jal_to(p, 0x0892D018, GIVEN, va + 0xC0)
+    p.asm(0x0892D000, f"addiu $a1, $zero, {NAME_X}", [0x24050075])
+    p.asm(0x0892CFB8, f"addiu $a1, $zero, {OFFSCREEN}", [0x24050072])
+    p.asm(0x0892CFDC, f"addiu $a1, $zero, {OFFSCREEN}", [0x240500AF])
+    p.asm(0x0892B7F4, f"addiu $a1, $zero, {OFFSCREEN}", [0x24050050])
+
+
+def hud_name(p):
+    import eboot
+    # the same sprintf for the second "%s %s" (0x08927B18): given name first there too
+    p.asm(0x088A655C, "move $a2, $v0", [0x02003021])
+    p.asm(0x088A6564, "move $a3, $s0", [0x00403821])
+    p.asm(0x08927B24, "move $a2, $v0", [0x02203021])
+    p.asm(0x08927B2C, "move $a3, $s1", [0x00403821])
+    va = eboot.add_segment(p.d, bytes(0x40))
+    off = len(p.d) - 0x40
+    ram = eboot.LOAD + va
+    delta = (VDRAW - (ram + 24)) & 0xFFFFFFFF  # bal at +16 (nop +20): $ra = ram + 24
+    code = bytes(p.ks.asm(HUDNAME.format(dy=hi(HUD_NAME_DY), dhi=delta >> 16, dlo=delta & 0xFFFF), ram)[0])
+    assert len(code) <= 0x40, len(code)
+    p.d[off:off + len(code)] = code
+    jal_to(p, 0x088A69C8, VDRAW, va, op=0x08000000)
 
 
 if __name__ == "__main__":

@@ -2019,13 +2019,13 @@
   "id": "systemtext:0400:00",
   "jp": "物理ダメージ増加",
   "refs": 1,
-  "en": "Physical Damage Up"
+  "en": "Attack Up"
  },
  {
   "id": "systemtext:0401:00",
   "jp": "秘法眼強化",
   "refs": 1,
-  "en": "Arcane Eye Boost"
+  "en": "Arcane Eye Up"
  },
  {
   "id": "systemtext:0402:00",
@@ -2037,49 +2037,49 @@
   "id": "systemtext:0403:00",
   "jp": "弱点ダメージ増加",
   "refs": 1,
-  "en": "Weak Point Damage Up"
+  "en": "Crit Damage Up"
  },
  {
   "id": "systemtext:0404:00",
   "jp": "仲間スキル強化",
   "refs": 1,
-  "en": "Partner Skills Up"
+  "en": "Partner Skill Up"
  },
  {
   "id": "systemtext:0405:00",
   "jp": "射撃能力強化",
   "refs": 1,
-  "en": "Ranged Ability Up"
+  "en": "Better Aim"
  },
  {
   "id": "systemtext:0406:00",
   "jp": "クエスト依頼人増",
   "refs": 1,
-  "en": "More Quest Clients"
+  "en": "More Clients"
  },
  {
   "id": "systemtext:0407:00",
   "jp": "跳躍＆打撃強化",
   "refs": 1,
-  "en": "Jump & Strike Up"
+  "en": "Jump & Hit Up"
  },
  {
   "id": "systemtext:0408:00",
   "jp": "購入割引率上昇",
   "refs": 1,
-  "en": "Bigger Discounts"
+  "en": "Discounts Up"
  },
  {
   "id": "systemtext:0409:00",
   "jp": "自然回復力強化",
   "refs": 1,
-  "en": "Natural Recovery Up"
+  "en": "Recovery Up"
  },
  {
   "id": "systemtext:0410:00",
   "jp": "状態異常耐性強化",
   "refs": 1,
-  "en": "Status Resistance Up"
+  "en": "Resist Ailments"
  },
  {
   "id": "systemtext:0411:00",
@@ -2559,7 +2559,7 @@
   "id": "systemtext:0540:00",
   "jp": "学科",
   "refs": 1,
-  "en": "Subjects"
+  "en": "Subject"
  },
  {
   "id": "systemtext:0541:00",

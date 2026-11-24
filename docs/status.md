@@ -3,6 +3,15 @@
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
 - **Phase:** 8. QA in the emulator, in progress (first visual-QA pass done: fix the findings list; phase 7 done 2026-11-24).
+- **Phase 8, worker 5 (2026-11-24, stopped at the context limit):** (1) **HUD player name** (dungeon/battle):
+  `engine.hud_name` = given name first (both "%s %s" sprintf sites swapped) and a stub on the `j` to the drawer moves
+  it 48 px down, clear of the AP gauge (`jal_to` now takes op=j). (2) **Status page:** `engine.status_name` (whole name
+  "given surname" in the first slot via a sprintf stub, furigana + "Name" off screen, D19), `engine.status_labels`
+  (headers + stat/subject names centred in their grid cells: label x are `addiu $a1` immediates before
+  0x0892B6B0, list work/qa/status_labels.txt), summaries shortened (systemtext 0400-0410, polish.md). Still open
+  there: names wider than the 56 px cell (Willpower, Judgment, Japanese, Languages, Social Studies) touch the ▲:
+  qa-findings §Status page. (3) `tools/debug/fpregs.py` prints the string at a1 too (who draws what at which x).
+  Build `build/karasu_en.iso` sha1 5e92832e, smoke ok, check green; warp states `work/states/w5/` (current code).
 - **Phase 8, worker 4 (2026-11-24):** (1) **Crash fixed:** 6acc09db died in field_ch01 at ms01_00:022:08
   (`{px}--` after the 17-char "Soft Girl's Voice"): the speaker lookup zeroed its buffer only to sp+0x1d, so
   15-17 char names matched no character (id -1) and {px} under id -1 crashes; `engine.patch` zeroes to sp+0x24
@@ -36,8 +45,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   157 verdicts, 104 issue, 53 ok (STALE vs the new build until the re-tour).
   Note: `warp.py --tag X` reuses `work/states/X/<from>.ppst` (old code): delete the tag dir after an engine change.
 - **Phase 8, worker 1 (2026-11-24):** (1) **Graphics pipeline:** `tools/gfx.py` (gfx/<group>.tsv rows `path<TAB>png`; build writes each PNG into every GIM copy with the same original bytes, nearest colour in the original palette; `--sheet DIR` original|English pairs; helpers original/clear/glow/save(rects: fails on pixels changed outside)/write_tsv), `tools/g2d.py` (sprite cells of a .g2d), OFL fonts in `fonts/` (docs/fonts.md), `docs/graphics-brief.md`, row lists `work/gfx/<group>.txt` (gitignored; regenerate from work/survey/*.tsv cells in docs/re/graphics.md). **Pilot** `tools/gfx_title.py`: title menu New Game/Continue + subtitle "Strange Tales of / Karasu no Mori Academy", verified in game (work/qa/smoke/title_zoom.png). (2) **Choice bar:** inkbox fails on `choice` (bar 111-268, "Don't shake hands" runs to ~275): bar w = (bytes/2)*18 from SJIS char count; needs a px width (engine.md §Open .ksf, 0x089FE704). (3) Visual-QA brief `docs/visual-qa-brief.md` (standing non-bugs filled in). (4) **Graphics wave 1 merged** (4 `translate-retro-game:graphics` agents; generators `tools/gfx_<group>.py`, rows `gfx/<group>.tsv`): title 1, phone 6/6, adv_ui 4/5 (freemove:6 is the same GIM as menus' system:20; freemove:12 pins only), adv_bg 9/9, menus 19/19, quest_site 16/16, dungeon_ui 8/10, dungeon_titles 25/26 (cell 15 is art only). Build `build/karasu_en.iso` sha1 30bc8c09, smoke ok, check green. Shortened labels -> docs/polish.md §Graphics; graphics terms -> glossary.md §Graphics labels (not enforced on text). (5) Reference tour of the **original** game: `work/qa/warp/jp/<scene>/` (52 scenes, shot every 90 frames); EN tour of 30bc8c09 -> `work/qa/warp/en/`.
-- **Next (phase 8, worker 5+):** fix the open `docs/qa-findings.md` items top down (engine items first: HUD name,
-  status/report card, city map list, tutorial Q&A, other help bars, name entry; `engine.right_align` serves any
+- **Next (phase 8, worker 6+):** fix the open `docs/qa-findings.md` items top down (engine items first: status page
+  leftovers, city map list, tutorial Q&A, other help bars, name entry; `engine.right_align` serves any
   DRAW_TEXT call whose x must follow the text width; then graphics via `translate-retro-game:graphics` agents),
   rebuild, re-tour (`warp.py --all --tag en`), `tools/tour_sheets.py`, `qa_gate.py todo` -> visual-QA only the
   changed sheets; then items (b)-(f) below.
