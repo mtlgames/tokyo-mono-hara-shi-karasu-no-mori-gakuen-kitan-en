@@ -979,7 +979,8 @@
 ## Graphics (phase 8 wave 1, shortened labels; D4: flagged last resort)
 - [ ] gfx menus: 現代社会 "Soc. Studies" (56 px column), album プロローグ "Intro", album 第N話 "Ep. N", cardarc 菊 "Chrys.", 藤 "Wis-/teria", 桐 "Pau-/lownia", ui_map04 seasons as 2-line syllables (Spr/ing...), save/load "Save"/"Load" squeezed 0.69
 - [ ] gfx phone sait02: seasons "Sp/Su/Au/Wi", 神 "Div", 決定 "OK" (14 px cells)
-- [ ] gfx quest_site/dungeon_ui: 攻 "ATK", 封 "SEAL"; 658 emotion wheel 3x5 caps (LOVE JOY HATE RAGE SAD UPSET PAL FIRE) vs adv_emotion (Joy Friend Dislike Worry Love Passion Anger Sorrow): align
+- [ ] gfx quest_site/dungeon_ui: 攻 "ATK", 封 "SEAL"; 658 emotion wheel 3x5 caps (LOVE JOY HATE RAGE SAD UPSET PAL FIRE) vs adv_emotion (Joy Friend Dislike Worry Love Fire Anger Sad, worker 7): align
+- [ ] worker 7 short labels: eboot:2b0e20 携帯を開く "Phone" (dungeon HUD, "Open Phone" crossed the frame); clctmelody 電子音 "01: Beep Tone" (16-char cut); category tab 全 "All" (16 px icon)
 - [ ] gfx phone menu01: English label now sits above the game's own near-duplicate English subtitle; consider dropping one
 - [ ] status page summaries (systemtext 0400-0410, 116 px cells, worker 5): Attack Up, Arcane Eye Up, Crit Damage Up, Partner Skill Up, Better Aim, More Clients, Jump & Hit Up, Discounts Up, Recovery Up, Resist Ailments; header 0540 Subject. Were Physical Damage Up / Arcane Eye Boost / Weak Point Damage Up / Partner Skills Up / Ranged Ability Up / More Quest Clients / Jump & Strike Up / Bigger Discounts / Natural Recovery Up / Status Resistance Up / Subjects: restore if the grid gets wider
 

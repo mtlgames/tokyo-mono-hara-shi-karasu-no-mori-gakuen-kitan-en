@@ -32,7 +32,9 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   buttons show only "Cross:"/"Circle:" (action words cut); "Triangle: Input Mode", "Square: Convert" past their
   plates. Fixed (worker 6): tabs Hira/Kata/ABC/!?#, buttons ×Del/○OK, △Input Mode, □Convert (the fonts' own ×○△□
   SJIS marks, now allowed in table/EBOOT English: insert.BUTTONS), work/qa/warp/w6/name_entry.
-- [ ] Name entry graphics: header 日常と意識に関するアンケート, labels ふりがな/氏名 still Japanese.
+- [ ] Name entry graphics: header 日常と意識に関するアンケート, labels ふりがな/氏名 still Japanese. Worker 7: not the
+  tables (they are English; the screen's ふりがな is hiragana, the tables' フリガナ katakana), not the EBOOT, no 1:1
+  GIM copy (gimfind, alpha and dark-text modes): see status.md Next (a).
 - [x] Phone profile "Can't Change" past the phone screen edge (phone_prof_sheet f000236). systemtext:0600 -> "Locked".
 - [x] Caption dash "--" shows as two short hyphens with a gap (script "--" now encodes as ― 815C, one solid dash:
   work/qa/warp/dash f005290; the x 1 margin and " -- " vs "--" spacing are still open) ("Some years ago -- Public Library"); long caption
@@ -46,20 +48,23 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   right-aligns by width itself; -> "My Quests" (+ its help heading), work/qa/warp/w6/shop.
 - [x] systemtext:0041:00 has no `\n`: "You don't currently own this" runs onto the frame, "card." lost
   (menu_cards f000344; JP 2 lines).
-- [ ] 103 table strings whose JP has a line break and whose English has none (buddymes 48, systemtext 16,
+- [x] 103 table strings whose JP has a line break and whose English has none (buddymes 48, systemtext 16,
   questshoptext 14, help 10, item 10, dialogmessage 5): check each box's width; systemtext:0041:00 fixed.
   Worker 6: help:08 (dungeon Q&A body) done (batches.TABLE_WRAP). Wrapping every multi-line JP entry at its own
   longest JP line would change 2,474 entries (most boxes are wider than the JP lines): not a rule; needs the box
   width per column in game (dialog boxes systemtext:00 / questshoptext:00 / dialogmessage:04 first, then
   buddymes:08 bubbles, item:0c descriptions). Add a TABLE_WRAP-like per-column px limit once measured.
+  Worker 7: `batches.shape` keeps the JP line count (balanced) when one-line English is longer than the JP's own
+  longest line: 85 entries re-wrapped, so no line is wider than a line the box already held (9 short ones stay).
 - [x] Item stats "AP Cost12": label over value (menu_item f000252). The label is EBOOT 2b5148 "Attack ... AP Cost" (values at fixed x): 2 spaces fewer (verify).
 - [x] Equipped marker still kanji 装 ("Shinai 1装"): lone EBOOT char the extractor missed (eboot_text.LONE, with
   円 0x2b5210) -> "E" (work/qa/warp/w6/menu_item). Help bar "Switch Type" under the SELECT icon -> "Category".
-- [ ] First category tab icon 全 in the item menu (not text: graphics, menus group).
+- [x] First category tab icon 全 in the item menu: system/category_icon.gim -> "All" (gfx_menus, work/qa/warp/w7/menu_item).
 - [x] Phone settings (phone_set f000420): text speed 瞬 (EBOOT 0x2d2538, char[24] array, extractor LONE) ->
   "Instant"; "Short"/"Slow" past the screen: `engine.phone_settings` (start, gap) per row (work/qa/warp/w6/phone_set).
-- [ ] Phone settings: ringtone "01: Electronic T…" ellipsised (tables/clctmelody); graphics: "Voice Volum" clipped
-  (gfx_phone.py label cell 66 px).
+- [x] Phone settings: ringtone "01: Electronic T…" ellipsised (tables/clctmelody); graphics: "Voice Volum" clipped
+  (gfx_phone.py label cell 66 px). Worker 7: "01: Beep Tone" (the game cuts at 16 chars, as in JP for the long
+  titles); labels drawn inside their k_phon_set.g2d cells (Voice Volume cell is x 0-63), work/qa/warp/w7/phone_set.
 - [x] "--" in dialogue too (fixed with the caption dash) ("Even so--", trueend_sheet_14; prologue2): the dash glyph draws two short hyphens.
 - [ ] "□ Show Help" runs to x 480, last p clipped (field_ch01_sheet_27 f014860). systemtext:0659 -> "Help" (verify).
 - [ ] Readability: location caption and dialogue (no outline) over bright windows (field_ch01_sheet_28 f016210,
@@ -93,11 +98,19 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   (dg01). Table/EBOOT strings still use the ASCII tilde.
 
 ## Graphics
-- [ ] Emotion wheel labels too wide for their diamonds ("SorrowWorry", "FriendPassion", Passion cut) - gfx_adv_ui.
-- [ ] "Arcane Eye" party plate clips the last e (every dungeon HUD frame).
-- [ ] "START Open Phone": last e crosses the red frame (ch09 HUD).
+- [x] Emotion wheel labels too wide for their diamonds ("SorrowWorry", "FriendPassion", Passion cut) - gfx_adv_ui.
+  Worker 7: middle row 24 px apart -> 悲 "Sad", 燃 "Fire" (the quest_site wheel's words), each pushed away from its
+  neighbour; no two touch (work/qa/warp/w7/choice_pre f007330).
+- [x] "Arcane Eye" party plate clips the last e: drawn inside the g2d cell x 74-121 (xscale 0.84), w7/gameover.
+- [x] "START Open Phone": last e crosses the red frame -> eboot:2b0e20 "Phone" (w7/dun_tut).
 - [ ] Dungeon HUD: for one frame after a step '切替' and '秘法眼' show (second texture copy not redrawn; dg01_sheet_5).
-- [ ] Game Over banner ゲームオーバー still Japanese (gameover f000792; dungeon:40, status item (b)).
-- [ ] Report-card heading 成績表 in one frame (field_ch01_sheet_12 f007270): a copy not redrawn.
+  Worker 7: no other copy exists (`tools/gimfind.py` exact and 88% matches over all 1,934 GIMs, raw-byte search
+  of every CROW.PAK file): the flash frames are fade-ins (grey HUD); re-check in the re-tour.
+- [x] Game Over banner ゲームオーバー: the banner sprite (dungeon.g2d +0x8B10, 4 quads) reused the ー cell twice;
+  `gfx.LAYOUT` repoints quads 2 and 4 to free cells of dungeon08 and one "GAME OVER" line is sliced over the 7
+  diamonds (cold boot work/qa/warp/w7/gameover5 f001134-f001314, intro and outro animation too).
+- [ ] Report-card heading 成績表 in one frame (field_ch01_sheet_12 f007270): a copy not redrawn. Worker 7: no other
+  copy of the report_card01 cell in any GIM (gimfind 90%); the frame shows it larger (an opening scale animation?):
+  re-check in the re-tour.
 - [ ] Staff roll / credits (badend sheets 2-7) and chapter cards (STORYTITLE01 第壱話 稲妻の転校生, field_ch01_sheet_6):
   burned into the PMF movies (Waiting on the user: movies).

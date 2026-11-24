@@ -233,7 +233,7 @@ separates alternatives) and the Avoid column.
 |---|---|---|---|---|
 | 初めから / 続きから | New Game / Continue | | (not enforced) title + save/load | |
 | 鴉乃杜學園奇譚 | Strange Tales of Karasu no Mori Academy | | (not enforced) title subtitle | |
-| 喜 友 嫌 困 愛 燃 怒 悲 | Joy, Friend, Dislike, Worry, Love, Passion, Anger, Sorrow | | (not enforced) emotion input (adv_emotion); quest_site 658 wheel uses 3x5 caps LOVE JOY HATE RAGE SAD UPSET PAL FIRE (polish: align) | |
+| 喜 友 嫌 困 愛 燃 怒 悲 | Joy, Friend, Dislike, Worry, Love, Passion, Anger, Sorrow | | (not enforced) emotion input (adv_emotion); the wheel itself shows 燃 "Fire" and 悲 "Sad" (middle row, 24 px apart); quest_site 658 wheel uses 3x5 caps LOVE JOY HATE RAGE SAD UPSET PAL FIRE (polish: align) | |
 | 次へ 速度 自動 | Next, Speed, Auto | | (not enforced) ADV buttons | |
 | 探索中 | Exploring | | (not enforced)  | |
 | 呼出中 / 通話中 / 通話 / 拒否 | Calling... / In Call... / Answer / Decline | | (not enforced) phone | |
