@@ -51,13 +51,16 @@ def sha1(path):
         return hashlib.file_digest(f, "sha1").hexdigest()
 
 
-def eboot(text):
-    """Patched EBOOT: the engine changes (tools/engine.py) and EBOOT strings in the decrypted ELF. shortcut: ships the
-    plain ELF, which only PPSSPP boots; re-sign it into a ~PSP EBOOT before release (docs/status.md)."""
+def eboot(text, crow_edits=None):
+    """Patched EBOOT: the engine changes (tools/engine.py), EBOOT strings and the EBOOT's own copies of CROW.PAK
+    graphics (gfx.EBOOT_COPIES) in the decrypted ELF. shortcut: ships the plain ELF, which only PPSSPP boots; re-sign
+    it into a ~PSP EBOOT before release (docs/status.md)."""
     import engine
+    import gfx
     import insert
     from eboot import Patcher
-    return bytes(insert.eboot_patch(engine.patch(Patcher()), text, insert.scripts()))
+    d = insert.eboot_patch(engine.patch(Patcher()), text, insert.scripts())
+    return bytes(gfx.eboot_copies(d, crow_edits or {}))
 
 
 def read_qa(path):
@@ -75,10 +78,11 @@ def build(out=OUT, force=False, mode="en", qa=None):
     text = insert.Text(mode, read_qa(qa))
     pak = crow_pak()
     tmp = out.with_name(out.stem + ".CROW.PAK")
-    pak.rebuild(tmp, editor(pak, {} if force else edits(text), force))
+    ed = {} if force else edits(text)
+    pak.rebuild(tmp, editor(pak, ed, force))
     files = {CROW: tmp.read_bytes()}
     if not force:
-        files[EBOOT] = eboot(text)
+        files[EBOOT] = eboot(text, ed)
     if mode == "en" and not force:
         import movie
         files.update(movie.pmfs())

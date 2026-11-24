@@ -149,7 +149,10 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   names over tilted photos). PROLOGUE and EYECATCH00-10 carry only the logo (K).
 
 ## Re-tour of 915f3c67 (worker 10 visual QA, verdicts work/qa/verdicts/chunk_bfd6e685d291_*.tsv)
-- [ ] Dungeon loading indicator (dun1_direct f002260-f002290, dun_tut f002260-f002350): 読み込み中 on red diamonds,
+- [x] **Worker 13: fixed.** The EBOOT holds its own zdv copies of ui_loading.g2d/.gim (ELF 0x2A64F0/0x2A6918, a
+  scan for zdv headers found no others); `gfx.EBOOT_COPIES` + `build.eboot` recompress the English GIM into that slot
+  (6.3 of 6.8 KB). Cold boot w13/dun_tut f002320 shows "Loading...".
+  Dungeon loading indicator (dun1_direct f002260-f002290, dun_tut f002260-f002350): 読み込み中 on red diamonds,
   bottom right. Not the ui_loading.gim "Loading..." strip (that one was redrawn): another sprite/atlas.
   Worker 12: ui_loading.g2d does hold the diamonds (8 cells) + the strip prefixes 8,80 x 24..136 the game reveals one
   char per diamond, and the redraw is in gfx/out, yet the dungeon shows 読み込み中: a second copy with other bytes

@@ -43,6 +43,19 @@ def test_nested_edit():
 
 
 @pytest.mark.skipif(not (ROOT / "rom").is_dir() or not any((ROOT / "rom").glob("*.iso")), reason="no ROM")
+def test_eboot_copies():
+    """gfx.eboot_copies recompresses a file into the EBOOT's own zdv slot: the slot inflates to the new bytes."""
+    import gfx
+    off, path = gfx.EBOOT_COPIES[0]
+    u, cs = 0x200, 0x100
+    d = bytearray(off + 16 + cs + 8)
+    d[off:off + 16 + cs] = zdv.deflate(bytes(u)).ljust(16 + cs, b"\0")
+    struct.pack_into("<I", d, off + 12, cs)
+    new = b"MIG.00.1PSP" * 40
+    gfx.eboot_copies(d, {path: new})
+    assert zdv.inflate(bytes(d[off:off + 16 + cs])) == new and d[off + 16 + cs:] == bytes(8)
+
+
 def test_identity_build(tmp_path):
     """Phase 3: rebuilding every nested pak and recompressing every zdv, with no edits, gives the original ISO."""
     import build

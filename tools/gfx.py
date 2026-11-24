@@ -169,6 +169,27 @@ def edits():
     return out
 
 
+# zdv copies of CROW.PAK files compiled into the EBOOT (file offset, unpacked path): the dungeon loader draws these,
+# not the CROW.PAK ones. A scan of the ELF for zdv headers found only these two (worker 13).
+EBOOT_COPIES = [(0x2A6918, "system/ui_loading.pak/system/ui_loading.gim")]
+
+
+def eboot_copies(d, out):
+    """Write the new bytes of each EBOOT_COPIES file into the ELF bytearray d, recompressed in its original zdv slot."""
+    import zdv
+    for off, path in EBOOT_COPIES:
+        if path not in out:
+            continue
+        u, u2, one, cs = (int.from_bytes(d[off + i:off + i + 4], "little") for i in range(0, 16, 4))
+        if u != u2 or one != 1 or d[off + 16] != 0x78:
+            raise ValueError(f"EBOOT {off:#x}: no zdv header for {path}")
+        new = zdv.deflate(out[path], level=9)
+        if len(new) > 16 + cs:
+            raise ValueError(f"EBOOT {off:#x}: {path} recompressed {len(new)} B > slot {16 + cs} B")
+        d[off:off + 16 + cs] = new + b"\0" * (16 + cs - len(new))
+    return d
+
+
 def splice_embedded(out):
     """Turn container@0xOFFSET entries into whole-container payloads (the GIM keeps its size: same image size and
     palette, so nothing after it in the model moves)."""

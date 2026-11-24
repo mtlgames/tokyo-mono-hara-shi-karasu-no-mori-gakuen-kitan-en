@@ -18,7 +18,7 @@ def cstr(s, addr):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument('iso'); ap.add_argument('--out', required=True); ap.add_argument('--state', required=True)
+    ap.add_argument('iso'); ap.add_argument('--out', required=True); ap.add_argument('--state', help='omit for a cold boot (stubs hit once the module is loaded)')
     ap.add_argument('--mash', default='3000:-'); ap.add_argument('--max', type=int, default=200)
     a = ap.parse_args()
     s = pspdbg.Session(a.iso, a.out, a.state)
