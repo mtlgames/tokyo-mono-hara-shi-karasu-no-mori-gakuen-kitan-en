@@ -32,9 +32,10 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   buttons show only "Cross:"/"Circle:" (action words cut); "Triangle: Input Mode", "Square: Convert" past their
   plates. Fixed (worker 6): tabs Hira/Kata/ABC/!?#, buttons ×Del/○OK, △Input Mode, □Convert (the fonts' own ×○△□
   SJIS marks, now allowed in table/EBOOT English: insert.BUTTONS), work/qa/warp/w6/name_entry.
-- [ ] Name entry graphics: header 日常と意識に関するアンケート, labels ふりがな/氏名 still Japanese. Worker 7: not the
-  tables (they are English; the screen's ふりがな is hiragana, the tables' フリガナ katakana), not the EBOOT, no 1:1
-  GIM copy (gimfind, alpha and dark-text modes): see status.md Next (a).
+- [x] Name entry graphics: header 日常と意識に関するアンケート, labels ふりがな/氏名 still Japanese. Worker 8: the whole
+  questionnaire sheet (name entry + Q1-Q3 + footer) is a texture of the 3D model `system/name_input.znt`, which the
+  GIM survey never opened; `tools/gfx_survey.py` redraws it (answers start at the JP x, so the pencil circle lands on
+  them), gfx.py/gimsheet.py handle `file.znt@0xOFF` GIMs. Cold boot work/qa/warp/w8/survey (f000506 zoom).
 - [x] Phone profile "Can't Change" past the phone screen edge (phone_prof_sheet f000236). systemtext:0600 -> "Locked".
 - [x] Caption dash "--" shows as two short hyphens with a gap (script "--" now encodes as ― 815C, one solid dash:
   work/qa/warp/dash f005290; the x 1 margin and " -- " vs "--" spacing are still open) ("Some years ago -- Public Library"); long caption
@@ -112,5 +113,14 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
 - [ ] Report-card heading 成績表 in one frame (field_ch01_sheet_12 f007270): a copy not redrawn. Worker 7: no other
   copy of the report_card01 cell in any GIM (gimfind 90%); the frame shows it larger (an opening scale animation?):
   re-check in the re-tour.
+- [ ] **Dungeon textures inside .znt models** (survey `work/survey/znt/znt_NN.png` + znt.tsv, cell numbers below;
+  `python -X utf8 tools/gimsheet.py work/unpacked work/survey/znt --embedded --tag znt --max 160`). Puzzle/sign
+  kanji the obj table names in English: 913 jugon_hanahuda01 壱貮参肆伍 (Seated Petitioner 1-5) -> 1-5; 499/501-503
+  bg0011_obj003-006 一二三四 walls and 1076 bg0011_004 tiles -> 1-4; 1071 bg0004_005 智義信礼仁徳 (Wisdom/Justice/Faith/
+  Propriety/Benevolence/Virtue pillars + holes, obj 0306-0319); 969 bg0007_019 上 木 ? 佐 (Joshu/Kiso/Saku horse
+  pillars, obj 0492-0494); 986 bg0004_003 + 1074 bg0004_002 是/非; 912 jugon_boss 敵/将 markers; 1032 bg0007_015 鬼;
+  362/365-367 bg0005_obj015-018 南家北家式家京家 (statues; obj text already romanises them: may stay); 170
+  bg0008_obj014 点火 (small red sign). Calligraphy scrolls (336 351 371 407 408 411), 106 glyph strip, 576 ancient
+  glyphs, 771 福: art (K). Do with gfx (rows `path.znt@0xOFF`), short English in each tile.
 - [ ] Staff roll / credits (badend sheets 2-7) and chapter cards (STORYTITLE01 第壱話 稲妻の転校生, field_ch01_sheet_6):
   burned into the PMF movies (Waiting on the user: movies).

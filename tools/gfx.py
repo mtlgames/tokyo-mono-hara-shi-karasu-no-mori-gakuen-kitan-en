@@ -62,14 +62,25 @@ def rows():
 
 
 def gims():
-    """{md5: [paths]} and {path: bytes} for every GIM in CROW.PAK."""
+    """{md5: [paths]} and {path: bytes} for every GIM in CROW.PAK. A GIM inside another file (a .znt model's
+    texture) is `container@0xOFFSET`, as `gimsheet.py --embedded` names it."""
+    from gimsheet import MAGIC, embedded
     from source import members
     by, data = {}, {}
     for p, d in members(""):
-        if d[:11] == b"MIG.00.1PSP":
-            by.setdefault(hashlib.md5(d).hexdigest(), []).append(p)
-            data[p] = d
+        found = [(p, d)] if d[:11] == MAGIC else [(f"{p}@{o:#x}", g) for o, g in embedded(d)] if MAGIC in d else []
+        for name, g in found:
+            by.setdefault(hashlib.md5(g).hexdigest(), []).append(name)
+            data[name] = g
     return by, data
+
+
+def unpacked_gim(path):
+    """GIM bytes of a path (or container@0xOFFSET) from work/unpacked."""
+    from gimsheet import embedded
+    file, _, off = path.partition("@")
+    d = (ROOT / "work" / "unpacked" / file).read_bytes()
+    return dict(embedded(d))[int(off, 16)] if off else d
 
 
 def decode(d):
@@ -79,7 +90,7 @@ def decode(d):
 
 def original(path):
     """Original image of one GIM path, from work/unpacked (tools/unpack_all.py) so generators need no ISO scan."""
-    return decode((ROOT / "work" / "unpacked" / path).read_bytes())
+    return decode(unpacked_gim(path))
 
 
 def clear(img, rect):
@@ -153,7 +164,27 @@ def edits():
             if p in out and out[p] != new:
                 raise ValueError(f"{p}: two rows write different images")
             out[p] = new
+    out = splice_embedded(out)
     out.update(layout_edits())
+    return out
+
+
+def splice_embedded(out):
+    """Turn container@0xOFFSET entries into whole-container payloads (the GIM keeps its size: same image size and
+    palette, so nothing after it in the model moves)."""
+    from source import members
+    want = {k.partition("@")[0] for k in out if "@" in k}
+    if not want:
+        return out
+    whole = {p: bytearray(d) for p, d in members(*want) if p in want}
+    for k in [k for k in out if "@" in k]:
+        file, _, off = k.partition("@")
+        o, new = int(off, 16), out.pop(k)
+        old = whole[file][o:o + len(new)]
+        if old[:11] != b"MIG.00.1PSP" or int.from_bytes(old[0x14:0x18], "little") + 0x10 != len(new):
+            raise ValueError(f"{k}: new GIM size {len(new)} differs from the original")
+        whole[file][o:o + len(new)] = new
+    out.update({p: bytes(d) for p, d in whole.items()})
     return out
 
 

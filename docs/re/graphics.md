@@ -59,6 +59,12 @@ Translate (T) unless marked keep (K).
 - 770 `ui_loading` 読み込み中… (T); 776 `ui_shop` shop signs 雑貨 購買 玩具屋 (+ one more kanji sign) (T)
 - Item icons (198-555): packaging print is illegible at icon size (K).
 
+## GIMs inside .znt 3D models (worker 8, phase 8)
+The survey above opened only `*.gim` files. 1,560 `.znt` models carry 4,901 more GIMs (1,091 unique): dungeon
+rooms/props/enemies and `system/name_input.znt` (the new-game questionnaire sheet, redrawn by `tools/gfx_survey.py`).
+Sheets `work/survey/znt/` (`gimsheet.py --embedded`); gfx rows name them `container.znt@0xOFFSET` (the build splices
+the re-encoded GIM back in place, same size). Text found: see qa-findings.md "Dungeon textures inside .znt models".
+
 ## Outside the GIMs
 - Movies `USRDIR/MOVIE/*.PMF` (H.264): `STORYTITLE01-10` (chapter title cards, almost certainly Japanese text),
   `EYECATCH00-10`, `PROLOGUE`, endings `EPSOTD_END01-09`, `BADEND*`, `TRUEEND` (credits roll likely). Burned-in text

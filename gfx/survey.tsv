@@ -1,0 +1,3 @@
+#path	png	note
+system/name_input.znt@0x30	gfx/out/survey/system_name_input.znt@0x30.png	questionnaire sheet (name_input.znt texture 0)
+system/name_input.znt@0x20140	gfx/out/survey/system_name_input.znt@0x20140.png	questionnaire footer strip (texture 1)
