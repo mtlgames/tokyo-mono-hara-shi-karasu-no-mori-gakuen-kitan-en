@@ -294,3 +294,9 @@ All seven open worker-17 items above are fixed; each checked in a cold-boot warp
   the draw; the second Defense copy 0x089B2494 was also still at + 42): stress_list f000362 "Attack 3150  AP Cost 60".
 - [x] Report card: Club value field 373 -> 364 (x 360-466 for Go-Home Club), Club/Teacher labels back at 323; the
   shown-character teacher value 381 -> 377 like the player's.
+
+## Worker 21 (2026-11-25, build fefac907)
+- [x] Quest-shop money plate (chunk_3dc47d49b0e7_001, shop f002050): "1,000yen" ran ~6 px past the panel border (x 105)
+  and "Money" touched it. Not the menu plate: questshoptext 0005/0006 labels at 0x08973AF4/0x08973B38 (x 58/86),
+  number draw 0x08971C44 (t0 77 = right edge). engine.money_plate: "Money" -6, number -12, "yen" -11; verified cold
+  (work/qa/warp/w21/money_cmp.png, scenes `shop` and new `stress_shop` at 9,999,999: starts x ~3, yen ends ~100).

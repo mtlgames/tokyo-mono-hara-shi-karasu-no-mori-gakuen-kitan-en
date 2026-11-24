@@ -641,6 +641,7 @@ def defense_value(p):
 # the unit 1 px more (gap to the number ~3 px), "Money" (x 16) and its own colon draw (x 62) 2 px so 9,999,999
 # stays ~1.5 px off the colon.
 MONEY_LABEL_DX, MONEY_DX, MONEY_UNIT_DX = 2, 10, 11
+SHOP_MONEY_LABEL_DX, SHOP_MONEY_DX = 6, 12   # shop: 9,999,999 then starts at x ~3
 
 
 def money_plate(p):
@@ -648,6 +649,12 @@ def money_plate(p):
     p.asm(0x089231E8, f"addiu $t0, $zero, {62 - MONEY_LABEL_DX}", [0x2408003E])
     p.asm(0x08923224, f"addiu $t0, $zero, {140 - MONEY_DX}", [0x2408008C])
     p.asm(0x08923000, f"addiu $a2, $zero, {150 - MONEY_UNIT_DX}", [0x24060096])
+    # Quest-shop money plate (scene `shop`): labels questshoptext 0005 "Money" (x 58, 0x08973AF4) and 0006 "yen"
+    # (x 86, 0x08973B38), number right edge t0 = 77 (draw 0x08971C44). "yen" ended at x 111 and "Money" at 104, past
+    # the panel border (~105; JP 円 ends 98): "yen" -11 as in the menu, number -12 (2 px gap), "Money" -6.
+    p.asm(0x08973AF4, f"addiu $a2, $zero, {58 - SHOP_MONEY_LABEL_DX}", [0x2406003A])
+    p.asm(0x08971C38, f"addiu $t0, $zero, {77 - SHOP_MONEY_DX}", [0x2408004D])
+    p.asm(0x08973B38, f"addiu $a2, $zero, {86 - MONEY_UNIT_DX}", [0x24060056])
 
 
 # Phone settings values (scene `phone_set`): row r draws its values from x 251 + start, each next one at the previous

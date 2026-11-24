@@ -151,6 +151,7 @@ def main():
     ap.add_argument('iso'); ap.add_argument('scene', nargs='?')
     ap.add_argument('--out', help='default work/qa/warp/<scene>'); ap.add_argument('--list', action='store_true')
     ap.add_argument('--all', action='store_true', help='regenerate every scene state in scenes.txt order')
+    ap.add_argument('--resume', action='store_true', help='with --all: skip scenes whose state already exists')
     ap.add_argument('--frames', type=int, default=0, help='extra idle frames at the end')
     ap.add_argument('--shot-every', type=int, default=0)
     ap.add_argument('--tag', default='', help='e.g. marker: states in work/states/TAG/, shots in work/qa/warp/TAG/')
@@ -163,6 +164,8 @@ def main():
         for k, v in scenes.items(): print(k, v)
         return
     names = list(scenes) if a.all else [a.scene]
+    if a.resume:   # a killed tour: skip scenes that already saved their end state (this build's, if states were cleared)
+        names = [n for n in names if not os.path.exists(state_path(n))]
     bad = [n for n in names
            if run_scene(a.iso, n, scenes.get(n, n), a.out or os.path.join(ROOT, 'work', 'qa', 'warp', TAG, n),
                         a.shot_every, a.frames)]
