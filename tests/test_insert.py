@@ -200,13 +200,16 @@ def test_built_iso_changes(tmp_path, sc):
                 assert (r, c) == (r2, c2) and nraw == (insert.ascii_bytes(en[i], i).replace(b"\r", b"")
                                                        if i in en else raw), (p, r, c)
     assert seen == {p for p, d in want.items() if d is not None}
+    import movie
+    movies = movie.pmfs()
     with open(build.ISO, "rb") as f, open(out, "rb") as g:
         for (p, lba, n, _), (p2, lba2, n2, _) in zip(iso9660.listing(f), iso9660.listing(g), strict=True):
             assert p == p2
             if p not in (build.CROW, build.EBOOT):
                 f.seek(lba * 2048)
                 g.seek(lba2 * 2048)
-                assert n == n2 and f.read(n) == g.read(n2), p
+                old, new = f.read(n), g.read(n2)
+                assert n == n2 and new == movies.get(p, old), p   # chapter cards: tools/movie.py, same size
 
 
 def test_non_text_never_marked(sc):

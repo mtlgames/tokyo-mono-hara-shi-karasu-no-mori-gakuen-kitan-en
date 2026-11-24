@@ -29,6 +29,7 @@ OUT = ROOT / "gfx" / "movie"
 WORK = ROOT / "work" / "movie"
 FONT = str(ROOT / "fonts" / "KaushanScript-Regular.ttf")
 CREAM = (246, 238, 222)
+VEIL_DARK = 0.45                                     # brightness of the smoky panel behind the English
 
 # card -> (chapter label, title lines); titles translated from the cards (docs/decisions.md D22)
 CARDS = {
@@ -155,7 +156,12 @@ def prep(card, frames):
     boxes = np.asarray(Image.fromarray(boxes).filter(ImageFilter.GaussianBlur(6)), np.float32) / 255
     alphas = [curve([i[:, x0:x1].sum() for i in inks]) for x0, x1 in cols]
     text = [inks[n].sum() >= 1 or any(al[n] > 0 for al in alphas) for n in range(len(arr))]
-    return dict(rects=rects, area=area, boxes=boxes, alphas=alphas, text=text)
+    # veil: a dark smoky panel over all the columns, hiding what the plate leaves of the brush strokes
+    veil = np.zeros(peak.shape, np.uint8)
+    veil[min(r[1] for r in rects):max(r[3] for r in rects), min(r[0] for r in rects):max(r[2] for r in rects)] = 255
+    veil = np.asarray(Image.fromarray(veil).filter(ImageFilter.GaussianBlur(14)), np.float32) / 255
+    vcurve = np.clip(np.convolve(np.max(alphas, axis=0), np.ones(9) / 9, mode="same") * 2, 0, 1)
+    return dict(rects=rects, area=area, boxes=boxes, alphas=alphas, text=text, veil=veil, vcurve=vcurve)
 
 
 def render(cards, info, nframes):
@@ -184,6 +190,10 @@ def render(cards, info, nframes):
             i = info[c]
             r = (masks[c] * i["area"])[..., None]
             img = arrs[c] * (1 - r) + plate * r
+            v = (i["veil"] * i["vcurve"][n])[..., None]
+            smoke = np.asarray(Image.fromarray(np.clip(img, 0, 255).astype(np.uint8)).filter(
+                ImageFilter.GaussianBlur(16)), np.float32) * VEIL_DARK
+            img = img * (1 - v) + smoke * v
             im = Image.fromarray(np.clip(img, 0, 255).astype(np.uint8)).convert("RGBA")
             label, title = CARDS[c]
             right, y = i["rects"][0][2] - 4, i["rects"][0][1] + 6   # label at the 第N話 column's top, right-aligned
@@ -240,6 +250,14 @@ def encode_card(card, rects):
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / src.name).write_bytes(pmf.swap(data, new))
     print(f"{src.name}: crf {crf}, columns {rects}")
+
+
+def pmfs():
+    """{ISO path: English PMF} for build.py; renders the cards first if any is missing (gfx/movie is gitignored)."""
+    missing = [c for c in CARDS if not (OUT / f"STORYTITLE{c}.PMF").exists()]
+    if missing:
+        build(missing)
+    return {f"/PSP_GAME/USRDIR/MOVIE/STORYTITLE{c}.PMF": (OUT / f"STORYTITLE{c}.PMF").read_bytes() for c in CARDS}
 
 
 def selftest():

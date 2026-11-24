@@ -38,7 +38,10 @@ Standing non-bugs, `ok`:
 - location captions sit at the top right beside a red-diamond strip;
 - player names `WWWWW` / nicknames in stress tests are deliberately wide;
 - Japanese kept on purpose: the logo 東京鬼祓師, hanafuda poetry ribbons, school crests, Siddham seed syllables,
-  item-icon packaging, scenery signs in 3D backgrounds;
+  item-icon packaging, scenery signs in 3D backgrounds; dungeon wall/floor kanji kept by D22 (virtue pillars
+  智義信礼仁徳, horse pillars, 是/非, house plaques 南家北家式家京家, the small 点火 sign, calligraphy scrolls);
+- the chapter cards (STORYTITLE 第N話 ...) and the staff roll in the ending movies: burned into PMF movies, a known
+  open item; mark `issue` with the note "movie" so it routes to that item, nothing more needed;
 - graphics text (menu headers, plates, panels drawn as pictures) still Japanese is an `issue` only if the sheet's
   build is newer than the graphics merge: say "graphics" in the note so it can be routed to the graphics list.
 

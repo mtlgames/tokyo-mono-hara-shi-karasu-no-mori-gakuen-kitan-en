@@ -79,6 +79,9 @@ def build(out=OUT, force=False, mode="en", qa=None):
     files = {CROW: tmp.read_bytes()}
     if not force:
         files[EBOOT] = eboot(text)
+    if mode == "en" and not force:
+        import movie
+        files.update(movie.pmfs())
     text.save_ids()
     iso9660.patch(str(ISO), str(out), files)
     tmp.unlink()

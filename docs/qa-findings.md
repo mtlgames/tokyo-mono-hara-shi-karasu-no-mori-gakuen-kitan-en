@@ -142,3 +142,45 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   第N話 and the title columns in the same spots. Next idea: plate from the cross-card mean where some card is clean,
   else the frame ~125 after the text has faded (or frames 0-30 tower-side texture), or a dark styled panel behind
   the English. English lines (CARDS) and their per-column reveal timing already work (work/movie/01/en).
+  Worker 10: **chapter cards done**: the plate fill is followed by a dark blurred "veil" over the columns' bounding
+  box, fading with the text (`movie.VEIL_DARK`); no stroke survives. `build.py` splices gfx/movie/STORYTITLE*.PMF
+  (`movie.pmfs()`, renders missing ones; gfx/movie gitignored). Credits still open: staff rolls are in BADENDLOST,
+  BADENDSEAL, TRUEEND (left column over scenery) and EPSOTD_END01-09 (per-chapter end credits, ~100 s each, cards of
+  names over tilted photos). PROLOGUE and EYECATCH00-10 carry only the logo (K).
+
+## Re-tour of 915f3c67 (worker 10 visual QA, verdicts work/qa/verdicts/chunk_bfd6e685d291_*.tsv)
+- [ ] Dungeon loading indicator (dun1_direct f002260-f002290, dun_tut f002260-f002350): 読み込み中 on red diamonds,
+  bottom right. Not the ui_loading.gim "Loading..." strip (that one was redrawn): another sprite/atlas.
+- [ ] City map destination list (city_map f000306) right-aligned: "Karasu no Mori Academy", "Karasuba Shrine",
+  "Yahiro Academy", "Shinjuku Police" run left past the red panel border (x~378) onto the map.
+  Same on the **school map room list** (field_ch01 sheets 33-55, f017770/f019570/f026170): "Audiovisual Room",
+  "Student Council Room" ("udent" clipped). Worker 10 measured: the red panel is x 378-480, text x 383..472 = 89 px
+  in advfont14; **26 EBOOT names 2b1e40..2b2038 are wider** (up to 183 px: city 2b1e40-2b1f18, rooms 2b1f58-2b2038;
+  list: scratch rooms.py logic = sum of insert.font_widths("advfont14") > 89). Shortening all 26 guts the city
+  names (Karasu Academy is still 120 px), so preferred fix: move the panel left (its g2d quad via gfx.LAYOUT, like
+  the GAME OVER banner) and the list x (obj+0xb2, draw call 0x088E4168, engine.FLOOR_RIGHT) to give ~160 px; only
+  "Karasu no Mori Academy" then needs a short form (D16). Fallback: short forms per D16 + fit-queue rows.
+- [ ] Field help bar "End Roaming△Look": no gap before △ (fend_c1 f000066/f000102).
+- [ ] Status page (field_ch01 f007060/f007090) still: Judgment into the Value column, Willpower/Reflexes/Stamina
+  touch ▲, Japanese/Languages into the Grade column, ▼ on the Summary border, "Summary" header right-aligned.
+  Report card (f007120/f007150): "Kazuki" over "Shichidai" (surname first), "Homeroom" over "Asako Hatori",
+  Activity Log "Before" row shows "Last" and the "Last" row is empty. Worker 10: **confirmed on a fresh cold boot**
+  of 4a7ae102 (work/qa/warp/mv/field_ch01 f007090 status, f007150 report card): stat names still run over the
+  x 61 divider (engine.STATUS_CELLS lets too-wide names run right); report card Name shows "Shichidai" then
+  "Kazuki" overprinted (two fixed slots like the status name box: reuse the engine.status_name FULLNAME/EMPTY
+  stubs at the report card's surname/given label sites); "Homeroom" label overlaps the teacher name (move the
+  value x right or label "Teacher"). Stat-name fix idea: widen the label column in the status frame texture
+  (divider 61 -> ~80) and move STATUS_VALUES x 89 -> ~96.
+- [x] Shop help bar "○ Confirm" ran off screen (shop f002260): questshoptext:0013 決定 -> "OK" like the other bars
+  (worker 10; re-check in the next tour).
+- [ ] Phone Profile Book submenu "Report Card" touches the bezel (phone_prof f000236).
+- [ ] Phone settings "Voice Volume" drawn condensed vs the other labels (phone_set f000420; its k_phon_set.g2d
+  cell is x 0-63, worker 7).
+- [ ] Map "All Map" sideways label: gap between the words and a stray pixel line above "Map" (map f000390).
+- [ ] Help bars: cards "□Armor Effect" under ✕ (menu_cards f000344); equip "△Remove □Range" under □/✕
+  (menu_equip f000298); map bar "Back" touching ○. Fixed icon slots (qa-findings §Help bar): shorter words or
+  engine layout by width.
+- [ ] Item menu "View Valuables": last s cut by the green divider at x~247 (menu_item f000252).
+- [ ] Readability over bright lights (ch08 f001960-f002410 corridor light at x 235-250, ch03 caption over a
+  yellow sign): same as the Readability item above; sysfont18 is a plain 4-bit alpha mask (no outline in the
+  font), so the fix is engine-side (shadow pass) or a wider gradient.
