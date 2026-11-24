@@ -2,8 +2,22 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (left: re-tour of da6c9f9e + verdicts for the changed sheets
+- **Phase:** 8. QA in the emulator, in progress (left: verdicts for the sheets the 67a64351 re-tour changed
   (`qa_gate.py check` exit 0), .znt textures seen in game; phase 7 done 2026-11-24).
+- **Phase 8, worker 19 (2026-11-25):** all 24 chunks `chunk_4d8a89c9dff5_*` got verdicts (visual-qa agents; codex
+  still limited): 188 ok, the ADV shadow clean everywhere; **2 issues, both fixed**: (1) status page: a 0's ▼ sat on
+  the Summary divider (stats and subjects) and "Social St." crossed its cell: `engine.STATUS_VALUES/STATUS_DOWN`
+  removed (value columns back at the original x 82/325, ▼ +20: ▼ now at JP's x, 10 px clear) and systemtext:0070
+  "Soc. St." (glossary); (2) the PSP save dialog cut the title: eboot:2b0f88 "Tokyo Mono Hara Shi", 2b0e90
+  "Tokyo Mono Hara Shi - Download Quest" (glossary row 東京鬼祓師; polish line ticked). Verified cold
+  (work/qa/warp/w19/report). Build `build/karasu_en.iso` sha1 67a64351, smoke ok, check green (29). **Re-tour of
+  67a64351** (`warp.py --all --tag en --shot-every 30`, work/qa/tour_en.log): see Next. **New `tools/debug/startroom.py
+  bg11_00=waginoma bg07_00=seihennoma`** builds build/karasu_room.iso (QA only) whose dungeon .ini `startfloor` is
+  rewritten, so `warp.py build/karasu_room.iso dun_bg11 --tag room` starts inside that room (verified: RAM shows
+  `startfloor = waginoma` and bg0011_004 loaded). Walked a little with play.py (work/play/r11, r07): waginoma is a
+  cave with roped rocks (objects = minimap purple crosses), the numbered tiles not yet in view; seihennoma start is
+  a south corridor ending at a bridge (east blocked). Gotcha: warp.py reuses `work/states/<tag>/<scene>.ppst` if it
+  exists, so after a rebuild delete it first or the shot shows the old code.
 - **Phase 8, worker 18 (2026-11-25):** **all 7 open worker-17 findings fixed** (qa-findings §Worker 18), each
   verified in a cold-boot warp (work/qa/warp/w18/): ADV text **drop shadow** (`engine.shadow`, 3 black passes under
   every canvas draw; found that .data/.bss lui/addiu pairs relocate seg1-relative: GE state 0x0922C240, engine.md),
@@ -58,7 +72,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
   movies rendered, stamp current. New scene `edmovie1` (MS01_03 -> EPSOTD_END01; cold boot
   work/qa/warp/w15/edmovie1/final.png shows an English card). Build `build/karasu_en.iso` sha1 fd86cb47, smoke ok,
   check green (28).
-- **Next (phase 8, worker 19+):** (a) verdicts for chunks `chunk_4d8a89c9dff5_000..023` (190 sheets, build
+- **Next (phase 8, worker 20+):** (a) once work/qa/tour_en.log is complete (71 scenes, wrap_skip exit 3 as known):
+  `tools/tour_sheets.py` -> chunks for sheets without a current verdict (only the status page / save dialog / any
+  title sheets should change), verdicts (`translate-retro-game:visual-qa` agents, max 20 at once, or
+  `tools/vqa_codex.py --jobs 3` after 2026-11-26 14:14), then `qa_gate.py check` exit 0. Do not rebuild before that.
+  (b) .znt textures in game: `startroom.py` (above), then play.py from work/states/room/*.ppst; look for the yellow
+  1-4 tiles (gfx/out/dungeon_tiles/*bg0011_004*.png) and the bg0011_obj003-006 wall numerals in waginoma, the Oni
+  plate in seihennoma; jugon_hanahuda01/jugon_boss placement not found (obj.bin names them, objhaichi.bin does not).
+  Maybe other floors of bg11_00 hold the walls: try other `startfloor`s. (c) Then phase 9.
+- **Old next (worker 19; (a) done):** (a) verdicts for chunks `chunk_4d8a89c9dff5_000..023` (190 sheets, build
   da6c9f9e; do not rebuild first or the gate wants a new tour): `tools/vqa_codex.py --jobs 3` after 2026-11-26 14:14,
   else by hand (~8 sheets per chunk, verdict files work/qa/verdicts/<chunk>.tsv, stop near 150k context). Look for
   the shadow doubling/smearing text and any canvas text (captions, choices, names) it made worse. Then
