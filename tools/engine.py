@@ -83,6 +83,7 @@ def patch(p: Patcher):
     p.asm(0x089F0A38, f"lui $at, {hi(CHOICE_PITCH):#x}", [0x3C01C200])
     p.asm(0x089F0A4C, "swc1 $f0, 4($sp)", [0xE7A00000])
     choice_bar_px(p)
+    menu_right(p)
     # choice keys: LEFT (0x80) = next, RIGHT (0x20) = previous -> DOWN (0x40), UP (0x10)
     p.asm(0x089F2A10, "andi $v0, $v0, 0x40", [0x30420080])
     p.asm(0x089F2A2C, "andi $v0, $v0, 0x10", [0x30420020])
@@ -171,16 +172,76 @@ def choice_bar_px(p):
     p.d[off + 0x100:off + 0x200] = table
     # caller: ctx (s0) into t7 instead of `lb v0, 0x668(s0)` (a2 from it is replaced), jal BAR_MAKE -> jal pxbar
     p.asm(0x089F09B8, "move $t7, $s0", [0x82020668])
-    site = 0x089F09DC
-    assert site in p.rel, "the bar jal must be relocated so the new target moves with the load base"
-    o = p.off(site)
-    old = bytes(p.d[o:o + 4])
-    assert struct.unpack("<I", old)[0] == 0x0C000000 | ((BAR_MAKE - eboot.LOAD) >> 2)
-    new = struct.pack("<I", 0x0C000000 | (va >> 2))  # relocated jal: target field holds the vaddr
-    p.d[o:o + 4] = new
-    p.log.append((o, old, new, f"{site:08x} jal pxbar (vaddr {va:x})"))
+    jal_to(p, 0x089F09DC, BAR_MAKE, va)
     # state 2: width = len (px), was len*18
     p.asm(0x089FE708, "nop; nop; nop", [0x00021900, 0x00021040, 0x00431021])
+
+
+# Main/pause menu labels (obj+0x29+0x20*i, 7 rows): x is a constant per row (0x08924524.., 432 - the JP width in
+# advfont14), so English starts where the JP did and runs off screen. The draw loop calls the text wrapper at
+# 0x08923BFC (a0 font, a1 string, f12 x, f13 y); a stub sums the string's advfont14 advances and sets
+# f12 = MENU_RIGHT - width before jumping on to the wrapper.
+DRAW_TEXT = 0x08816988
+MENU_RIGHT = 432
+PXRIGHT = """
+    move $t8, $ra
+    bal here
+here:
+    move $t9, $ra
+    move $ra, $t8
+    move $t3, $a1
+    move $t2, $zero
+ch:
+    lbu $t4, 0($t3)
+    beq $t4, $zero, done
+    addiu $t3, $t3, 1
+    sltiu $t6, $t4, 0x81
+    addu $t5, $t9, $t4
+    bne $t6, $zero, one
+    addiu $t3, $t3, 1
+one:
+    lbu $t5, {tbl}($t5)
+    addu $t2, $t2, $t5
+    b ch
+done:
+    ori $t6, $zero, {right}
+    subu $t2, $t6, $t2
+    mtc1 $t2, $f12
+    cvt.s.w $f12, $f12
+    lui $t5, {dhi}
+    ori $t5, $t5, {dlo}
+    addu $t5, $t9, $t5
+    jr $t5
+"""  # shortcut: a byte >= 0x81 counts as a 2-byte SJIS char (half-width kana would skip a byte); labels are ASCII
+
+
+def jal_to(p, site, target, va):
+    """Point the relocated jal at `site` (calling `target`) at vaddr va in the added segment."""
+    import eboot
+    assert site in p.rel, "the jal must be relocated so the new target moves with the load base"
+    o = p.off(site)
+    old = bytes(p.d[o:o + 4])
+    assert struct.unpack("<I", old)[0] == 0x0C000000 | ((target - eboot.LOAD) >> 2)
+    new = struct.pack("<I", 0x0C000000 | (va >> 2))
+    p.d[o:o + 4] = new
+    p.log.append((o, old, new, f"{site:08x} jal stub (vaddr {va:x})"))
+
+
+def menu_right(p):
+    import eboot
+    import insert
+    w = insert.font_widths("advfont14")
+    table = bytes(w.get(c, 0 if c < 0x20 else 14) for c in range(256))  # >= 0x81: one 14 px SJIS cell
+    va = eboot.add_segment(p.d, bytes(0x200))
+    off = len(p.d) - 0x200
+    here = eboot.LOAD + va + 12
+    delta = (DRAW_TEXT - here) & 0xFFFFFFFF
+    src = PXRIGHT.format(tbl=0x100 - 12, dhi=delta >> 16, dlo=delta & 0xFFFF, right=MENU_RIGHT)
+    code = bytes(p.ks.asm(src, eboot.LOAD + va)[0])
+    assert len(code) <= 0x100, len(code)
+    p.d[off:off + len(code)] = code
+    p.d[off + 0x100:off + 0x200] = table
+    jal_to(p, 0x08923BFC, DRAW_TEXT, va)
 
 
 if __name__ == "__main__":
