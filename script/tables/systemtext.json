@@ -375,7 +375,7 @@
   "id": "systemtext:0070:00",
   "jp": "現代社会",
   "refs": 2,
-  "en": "Social Studies"
+  "en": "Social St."
  },
  {
   "id": "systemtext:0071:00",
@@ -2037,13 +2037,13 @@
   "id": "systemtext:0403:00",
   "jp": "弱点ダメージ増加",
   "refs": 1,
-  "en": "Crit Damage Up"
+  "en": "Crit Dmg Up"
  },
  {
   "id": "systemtext:0404:00",
   "jp": "仲間スキル強化",
   "refs": 1,
-  "en": "Partner Skill Up"
+  "en": "Partner Skills"
  },
  {
   "id": "systemtext:0405:00",
@@ -2535,7 +2535,7 @@
   "id": "systemtext:0536:00",
   "jp": "得意科目",
   "refs": 1,
-  "en": "Best Subject"
+  "en": "Forte"
  },
  {
   "id": "systemtext:0537:00",

@@ -146,7 +146,7 @@ separates alternatives) and the Avoid column.
 | 脚力 | Speed | | stat | Footwork |
 | 判断力 | Judgment | | stat | |
 | 外国語 | Languages | | school subject | Foreign Language |
-| 現代社会 | Social Studies / Soc.St | | school subject; "Soc.St" only in item:0326-0328:10 stat lines (24b, fit-queue) | Modern Society |
+| 現代社会 | Social Studies / Soc.St / Social St. | | school subject; "Soc.St" only in item:0326-0328:10 stat lines (24b, fit-queue); "Social St." = systemtext:0070 (status page subject cell, 56 px) | Modern Society |
 | 麻痺 | Paralysis | | ailment | Paralyze |
 | 悪寒 | Chills | | ailment | |
 | 札強化 | Card Enhance / Enhance | | | Card Boost |

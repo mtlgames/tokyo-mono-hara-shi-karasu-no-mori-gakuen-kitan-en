@@ -1,0 +1,7 @@
+#path	png	note
+dungeon/bg11_00.pak/dungeon/bg0011_obj003.znt@0x20	gfx/out/dungeon_tiles/dungeon_bg11_00.pak_dungeon_bg0011_obj003.znt@0x20.png	wall numeral 1
+dungeon/bg11_00.pak/dungeon/bg0011_obj004.znt@0x20	gfx/out/dungeon_tiles/dungeon_bg11_00.pak_dungeon_bg0011_obj004.znt@0x20.png	wall numeral 2
+dungeon/bg11_00.pak/dungeon/bg0011_obj005.znt@0x20	gfx/out/dungeon_tiles/dungeon_bg11_00.pak_dungeon_bg0011_obj005.znt@0x20.png	wall numeral 3
+dungeon/bg11_00.pak/dungeon/bg0011_obj006.znt@0x1130	gfx/out/dungeon_tiles/dungeon_bg11_00.pak_dungeon_bg0011_obj006.znt@0x1130.png	wall numeral 4
+dungeon/waginoma.pak/dungeon/bg0011_004.znt@0x12440	gfx/out/dungeon_tiles/dungeon_waginoma.pak_dungeon_bg0011_004.znt@0x12440.png	floor tiles 1-4
+dungeon/jugon_hanahuda01.znt@0x20	gfx/out/dungeon_tiles/dungeon_jugon_hanahuda01.znt@0x20.png	petitioner slips 1-5

@@ -188,7 +188,7 @@ def name_bytes(s):
                     for i, p in enumerate(NAME_CODE.split(s)))
 
 
-BUTTONS = "×○△□"  # button marks: the fonts' own SJIS glyphs, as the JP strings use them ("×削除")
+BUTTONS = "×○△□▲▼"  # button marks (and the status page's ▲▼): the fonts' own SJIS glyphs, as the JP uses them
 
 
 def ascii_bytes(s, what):

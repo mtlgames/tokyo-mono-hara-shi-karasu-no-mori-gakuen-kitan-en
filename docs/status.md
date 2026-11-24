@@ -2,7 +2,16 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (first visual-QA pass done: fix the findings list; phase 7 done 2026-11-24).
+- **Phase:** 8. QA in the emulator, in progress (first visual-QA pass done: fix the findings list, then re-tour; phase 7 done 2026-11-24).
+- **Phase 8, worker 8 (2026-11-24, stopped at the context limit):** (1) **Survey gap closed:** 1,560 `.znt` 3D
+  models hold 1,091 unique GIMs the survey never opened (`gimsheet.py --embedded`, sheets `work/survey/znt/`; gfx rows
+  `container.znt@0xOFF`, spliced back at the same size). The name-entry header was the whole **new-game questionnaire
+  sheet** (`system/name_input.znt`): `tools/gfx_survey.py` redraws it with every answer at its JP x (pencil circles
+  land right; cold boot work/qa/warp/w8/survey). Title form "Survey on Daily Life and Attitudes" (systemtext:0061 too).
+  (2) `tools/gfx_dungeon_tiles.py`: kanji numerals -> 1-4 / 1-5 on dungeon walls, floor tiles and petitioner slips
+  (not yet seen in game). Other dungeon kanji tiles listed in qa-findings (virtues, horse pillars, 是非, 敵/将, 鬼, 点火).
+  (3) **Status page:** value columns moved, ▼ restored, labels/summaries fit (qa-findings §Status page, w8b/report).
+  (4) "Help" verified. Build `build/karasu_en.iso` sha1 09412c49, check green.
 - **Phase 8, worker 7 (2026-11-24, stopped at the context limit):** qa-findings ticked, each checked in a cold-boot
   warp (`work/qa/warp/w7/`, states `work/states/w7/`): (1) **GAME OVER banner**: the dungeon.g2d sprite reused the ー
   cell twice; new `gfx.LAYOUT` (byte patches of layout files, original bytes checked) repoints quads 2/4 to free
@@ -66,7 +75,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
   157 verdicts, 104 issue, 53 ok (STALE vs the new build until the re-tour).
   Note: `warp.py --tag X` reuses `work/states/X/<from>.ppst` (old code): delete the tag dir after an engine change.
 - **Phase 8, worker 1 (2026-11-24):** (1) **Graphics pipeline:** `tools/gfx.py` (gfx/<group>.tsv rows `path<TAB>png`; build writes each PNG into every GIM copy with the same original bytes, nearest colour in the original palette; `--sheet DIR` original|English pairs; helpers original/clear/glow/save(rects: fails on pixels changed outside)/write_tsv), `tools/g2d.py` (sprite cells of a .g2d), OFL fonts in `fonts/` (docs/fonts.md), `docs/graphics-brief.md`, row lists `work/gfx/<group>.txt` (gitignored; regenerate from work/survey/*.tsv cells in docs/re/graphics.md). **Pilot** `tools/gfx_title.py`: title menu New Game/Continue + subtitle "Strange Tales of / Karasu no Mori Academy", verified in game (work/qa/smoke/title_zoom.png). (2) **Choice bar:** inkbox fails on `choice` (bar 111-268, "Don't shake hands" runs to ~275): bar w = (bytes/2)*18 from SJIS char count; needs a px width (engine.md §Open .ksf, 0x089FE704). (3) Visual-QA brief `docs/visual-qa-brief.md` (standing non-bugs filled in). (4) **Graphics wave 1 merged** (4 `translate-retro-game:graphics` agents; generators `tools/gfx_<group>.py`, rows `gfx/<group>.tsv`): title 1, phone 6/6, adv_ui 4/5 (freemove:6 is the same GIM as menus' system:20; freemove:12 pins only), adv_bg 9/9, menus 19/19, quest_site 16/16, dungeon_ui 8/10, dungeon_titles 25/26 (cell 15 is art only). Build `build/karasu_en.iso` sha1 30bc8c09, smoke ok, check green. Shortened labels -> docs/polish.md §Graphics; graphics terms -> glossary.md §Graphics labels (not enforced on text). (5) Reference tour of the **original** game: `work/qa/warp/jp/<scene>/` (52 scenes, shot every 90 frames); EN tour of 30bc8c09 -> `work/qa/warp/en/`.
-- **Next (phase 8, worker 8+):** open `docs/qa-findings.md` items: (a) **name-entry header** 日常と意識に関するアンケート
+- **Next (phase 8, worker 9+):** (a) in-game look at the numeral tiles (bg11_00 rooms, jugon_hanahuda01) and decide
+  the other .znt kanji tiles (qa-findings "Dungeon textures inside .znt models": virtue tiles need short words or
+  stay K with the obj text; default: translate numerals/敵将/鬼 signs, keep house plaques the obj text romanises).
+  (b) Readability gradient (polish: dialogue at the top over bright windows; adv_talk.g2d quad is scaled, so g2d.py
+  doesn't list it; or thicken the sysfont18 outline in fontpatch). (c) Then rebuild, re-tour (`warp.py --all --tag
+  en`; delete `work/states/en/` first), `tools/tour_sheets.py`, `qa_gate.py todo` -> visual-QA the sheets yourself in
+  a fresh read-only pass, fix; then the older items below (stress saves, textcover, movies, fit-queue columns).
+- **Old next (worker 8, done but (b)(c)):** open `docs/qa-findings.md` items: (a) **name-entry header** 日常と意識に関するアンケート
   and the ふりがな/氏名 plate (pencil icon): not the tables (screen shows hiragana ふりがな, tables have フリガナ and
   are English), not in the EBOOT, and gimfind finds no 1:1 GIM copy (dark-text and alpha modes): probably a scaled
   sprite; next try `tools/debug/bplog.py`/`fileopen.py` on the w7 name_entry state to see which file the screen

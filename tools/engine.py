@@ -297,10 +297,21 @@ STATUS_CELLS = [
     (0x0892BBEC, "Stamina", 5, 61), (0x0892BC10, "Reflexes", 5, 61), (0x0892BC34, "Willpower", 5, 61),
     (0x0892BC58, "Speed", 5, 61), (0x0892BC7C, "Judgment", 5, 61),
     (0x0892BCAC, "Japanese", 249, 306), (0x0892BCD0, "Math", 249, 306), (0x0892BCF4, "Languages", 249, 306),
-    (0x0892BD18, "P.E.", 249, 306), (0x0892BD3C, "Social Studies", 249, 306), (0x0892BD60, "Health", 249, 306),
+    (0x0892BD18, "P.E.", 249, 306), (0x0892BD3C, "Social St.", 249, 306), (0x0892BD60, "Health", 249, 306),
     (0x0892BD84, "Biology", 249, 306),
+    # top-right box: labels left of the values' divider (~x 378); JP centred ~x 316
+    (0x0892B848, "Current Lv", 249, 377), (0x0892B86C, "HP Current/Max", 249, 377), (0x0892B8B0, "AP Max", 249, 377),
+    (0x0892B8D4, "Arcane Eye Max", 249, 377), (0x0892B8F8, "EXP to Next Lv", 249, 377),
 ]
-STATUS_LEFT = [(0x0892B818, 80, 76)]  # Condition: 4 px left, clear of the value ("Name": status_name)
+STATUS_LEFT = [(0x0892B818, 80, 76),   # Condition: 4 px left, clear of the value ("Name": status_name)
+               (0x0892D0CC, 406, 372), (0x0892DCC0, 406, 372)]  # Forte (得意科目) value: room for "Social Studies"
+# Value column x (the ▲/▼ mark is drawn 14 px left of it, a 0 value's "v" 20 px right): stats 82, subjects 325, set in
+# two loops (create, refresh). English stat/subject names are up to 74 px, so the columns move right; the subject
+# value stays left of the Summary cell. (site, original word, new x)
+# A zero prints as " 0" (%2d) with the ▼ after it: ▼ at value + 16 keeps both the 0 and the divider clear.
+STATUS_VALUES = [(0x0892D278, 0x24150052, 89), (0x0892D46C, 0x24120052, 89),
+                 (0x0892D2EC, 0x24150145, 336), (0x0892D474, 0x24120145, 336)]
+STATUS_DOWN = (0x0892D4C0, 0x26520014, 16)  # ▼ at value + 20 -> + 16
 
 
 def status_labels(p):
@@ -318,6 +329,10 @@ def status_labels(p):
         p.asm(site, f"addiu $a1, $zero, {x}", [old])
     for site, x0, x in STATUS_LEFT:
         p.asm(site, f"addiu $a1, $zero, {x}", [0x24050000 | x0])
+    for site, old, x in STATUS_VALUES:
+        p.asm(site, f"addiu ${'s5' if old >> 16 == 0x2415 else 's2'}, $zero, {x}", [old])
+    site, old, dx = STATUS_DOWN
+    p.asm(site, f"addiu $s2, $s2, {dx}", [old])
 
 
 # Status page name box (labels made at 0x0892CFB8..0x0892D034, same maker 0x0892B6B0): furigana surname/given at

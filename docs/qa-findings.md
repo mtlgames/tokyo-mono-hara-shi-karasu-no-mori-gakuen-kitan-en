@@ -67,7 +67,8 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   (gfx_phone.py label cell 66 px). Worker 7: "01: Beep Tone" (the game cuts at 16 chars, as in JP for the long
   titles); labels drawn inside their k_phon_set.g2d cells (Voice Volume cell is x 0-63), work/qa/warp/w7/phone_set.
 - [x] "--" in dialogue too (fixed with the caption dash) ("Even so--", trueend_sheet_14; prologue2): the dash glyph draws two short hyphens.
-- [ ] "□ Show Help" runs to x 480, last p clipped (field_ch01_sheet_27 f014860). systemtext:0659 -> "Help" (verify).
+- [x] "□ Show Help" runs to x 480, last p clipped (field_ch01_sheet_27 f014860). systemtext:0659 -> "Help" (worker 8:
+  5 chars shorter than the clipped label, so it ends ~40 px inside the screen; field bar re-shot w8b/field_ch01).
 - [ ] Readability: location caption and dialogue (no outline) over bright windows (field_ch01_sheet_28 f016210,
   sheet_29 f017470, sheet_3 f003250). The ADV gradient covers only x 0-150 (engine.md §Open): widen/darken it.
 - [~] **Status page / report card** (field_ch01_sheet_11/12 f007210-f007420): name letters stacked, stat names over
@@ -81,6 +82,12 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   (background image, not status01.gim) widened + value column moved, or short forms; "Best Subject"+"Japanese"
   touch (value x 406 in 0x0892D0CC/0x0892DCC0); "Arcane Eye Max" crosses its divider; Homeroom/Now/Last
   (bonus page, labels 44-49) not looked at; second name block 0x0892DBD8 (partners?) unchanged.
+  Worker 8 (cold boot work/qa/warp/w8b/report, zoom.png): `engine.STATUS_VALUES` moves the value columns (stats
+  82 -> 89, subjects 325 -> 336; ▲ follows at -14), `STATUS_DOWN` ▼ at +16 (was +20; a zero prints " 0"), eboot:2b4178
+  ▼ again (was "v"; insert.BUTTONS takes ▲▼); top-right labels centred left of the value divider (Arcane Eye Max no
+  longer crosses); summaries "Crit Dmg Up", "Partner Skills"; 得意科目 "Forte" with its value at x 372 (room for
+  any subject); systemtext:0070 "Social St." (glossary). Left: "Judgment" (67 px) crosses its 56 px cell's divider
+  art, "Willpower" ends at its ▲; bonus page (Homeroom/Now/Last) and partner pages not looked at.
 - [x] **Tutorial Q&A panel** (dun_tut_qa_sheet): body text breaks per character ("mov|e") and runs past the panel;
   OXAS ticker "The Card Sealer exam has begun." runs onto the frame; opening quote shows as "˝", no closing quote.
   Worker 6: the panel wraps every 38 bytes: help:08 stored at 35 chars a line (batches.TABLE_WRAP, 41 entries
