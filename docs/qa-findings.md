@@ -241,3 +241,33 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   stress_names_msg1/2 final.png) stress_names_msg1/2: dialogue {px} still shows "Shichidai": the speaker record's name is set at New Game
   from the EBOOT defaults, not from the game state. Run those two scenes on `build.py --qa
   tools/debug/stress_names.tsv --out build/karasu_names.iso` (defaults = WWWWW) instead.
+
+## Worker 17: re-tour of d6101372 (verdicts work/qa/verdicts/chunk_0c56a2b13473_*.tsv, visual-qa agents)
+- [ ] **Dialogue unreadable over bright backgrounds** (chunk 002: field_ch01 f003250/f003340 sky, f006910/f007030
+  CG, f013330/f013420 window, f017320/f017410 classroom windows: "boxed lunches", "the cafeteria" vanish;
+  work/qa/vqa_scratch/002/s33t2.png; chunk 026: edmovie1 f002860/f002890 "changed a great deal" over white crow
+  wings; chunk 027 edmovie1 f012820 pale palm; chunk 028 edmovie1 sheets 4-9: line 2's end over Mao's white hair,
+  e.g. f006040 "Card Sealer"). The most common issue of this tour. docs/polish.md line 9 called it legible: it is not over white windows. The
+  left gradient (adv_talk / adv_emotion2, x 0-150) was sized for the vertical JP column. g2d.py on adv_talk.g2d finds
+  no 150-px quad (drawn by code or another g2d). Fix: a dark band behind the three lines (stretch the gradient quad
+  to x 0-480, y 0-~90, or draw a shadow pass in the text drawer 0x08816988).
+- [ ] **Save/Load diamonds** (chunk 007, saveload f000298): "Save"/"Load" sit small and left of each diamond's
+  centre (Save x~118 vs centre ~145, Load ~313 vs ~335); JP セーブ/ロード are larger and centred. Cause: the
+  English word is squeezed into the first 24 px cell (gfx_menus.ui_saveload01) because ー is shared by both words.
+  g2d.py on saveload.g2d lists only the 0,0,24,24 cell; find the ー/ブ/ロ/ド quads, then repoint (gfx.LAYOUT) the
+  word's quads to one wider free cell per word, or split the word image across its cells.
+- [ ] Stress names (chunk 030, stress_names f000344): status page name "WWWWW WWWWWW" runs ~35 px past its name box
+  into the divider (worker 16 called it a fit: re-check the zoom work/qa/vqa_scratch/030/). Fix idea: cap the
+  status_name FULLNAME stub width or drop to the surname-less form past N px.
+- [ ] Menu money plate at 9,999,999 (chunk 030, stress_names f000506/f000720): the "n" of "yen" overlaps the
+  plate's right arrow tip (JP 円 fits). Shorter unit glyph/format or move the money x left.
+- [ ] Name entry mode tabs (chunk 022, name_entry f003880-f004330, vqa_scratch/022/ne_mode.png): Hira/Kata/ABC
+  flush left (engine.NAME_TAB_X 7), "Hira" touches the selected tab's left border; JP centres them. Centre each
+  label by its width instead of one fixed x.
+- [ ] Item details weapon line with a 4-digit attack (chunk 029, stress_list f000362, vqa_scratch/029/sl_atk.png):
+  "Attack3150 AP Cost 60", k touches 3. Same mechanism as Defense (value at label x0 + fixed dx, eboot:2b5148
+  drawn near 0x089B2xxx): move the attack value dx right like engine.defense_value.
+- [ ] Report card right column (chunk 029, report_card f000096, vqa_scratch/029/rc_z.png): "Go-Home Club" b touches
+  the right frame, "Club"/"Tutor" touch the left frame. Shorter values or a smaller x.
+- [x] School-map room list "Council Room" starts ~4 px left of the others (x 380 vs 384) to fit the panel: accepted
+  (inside the panel, not clipped; chunks 003/004 verdicts overridden to ok).

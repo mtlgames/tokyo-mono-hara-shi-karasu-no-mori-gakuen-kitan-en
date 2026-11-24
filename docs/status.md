@@ -2,8 +2,24 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (left: rebuild + re-tour with worker 16's fixes, visual QA of the
-  manifest chunks, textcover sweep result/waivers, names stress on the names build; phase 7 done 2026-11-24).
+- **Phase:** 8. QA in the emulator, in progress (left: fix the 2 open worker-17 findings (dialogue readability over
+  bright backgrounds, Save/Load diamond labels), .znt textures seen in game, rebuild + re-tour + verdicts for the
+  changed sheets; phase 7 done 2026-11-24).
+- **Phase 8, worker 17 (2026-11-24, stopped near the context limit):** (1) **Re-tour of d6101372** (68 scenes exit 0,
+  wrap_skip 3 as known), `tour_sheets.py` (fix: a dir holding only final.png is skipped), 31 chunks
+  `chunk_0c56a2b13473_000..030`, all handed to `translate-retro-game:visual-qa` agents (codex limit until
+  2026-11-26; verdicts in work/qa/verdicts/). Findings in qa-findings §Worker 17: **dialogue unreadable over
+  bright backgrounds** (chunk 002, real: white text over white windows; polish.md line 9 was wrong to call it
+  legible) and **Save/Load diamond labels** small and off-centre (chunk 007); Council Room 4 px left accepted
+  (verdicts overridden). (2) **Defense87 fixed:** `engine.defense_value` (value x0 + 42 -> + 56 at 0x089B2180) +
+  label "Defense    "; verified on build/karasu_names.iso (9539370b) stress_items. (3) **Names stress** msg1/msg2
+  on the names build: WWWWW spliced, 3 lines fit (work/qa/warp/nm/). (4) **The 34 blank-final sweep scripts:** run
+  on the original (work/qa/cover/orig34.log): 19 blank there too; the other 15 (FN*_30 shop stubs, DG13_00, DG00_39
+  ...) alternate text/blank in both builds (no background, typewriter or a blinking confirm); exit 3 is the
+  final-frame phase, not a bug. `cover.py report` 387/387, exit 0; tables/EBOOT are covered by the menu tours (no
+  per-string log; say so in the release report). (5) Scenes `dun_bg04/07/11` (dun_area 4/8/12) load each area's
+  entrance (work/qa/warp/w17/); the textured rooms (.znt numerals/signs) are deeper: walk there or find the
+  start-room field (debug.md "resume" +0x687C).
 - **Phase 8, worker 16 (2026-11-24, stopped near the context limit):** (1) **Re-tour** of fd86cb47 (`warp.py --all
   --tag en --shot-every 30`, log work/qa/tour_en.log, all exit 0 but the known wrap_skip), `tour_sheets.py`: 369
   sheets, 29 chunks `work/qa/chunks/chunk_c8b1503f44a0_000..028` need verdicts (the rest kept theirs). **codex exec
@@ -34,7 +50,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
   movies rendered, stamp current. New scene `edmovie1` (MS01_03 -> EPSOTD_END01; cold boot
   work/qa/warp/w15/edmovie1/final.png shows an English card). Build `build/karasu_en.iso` sha1 fd86cb47, smoke ok,
   check green (28).
-- **Next (phase 8, worker 17+):** (a) build d6101372 is current: re-tour (`warp.py --all --tag en --shot-every 30`; delete work/states/en/ first; ~45 min; includes the stress
+- **Next (phase 8, worker 18+):** (a) all 378 sheets have verdicts (`qa_gate.py check`: 19 not ok, all listed
+  in qa-findings §Worker 17). (b) Fix those open items: **readability** (most of the 19: dark band behind the ADV
+  lines: find the gradient panel's draw, or a shadow pass in 0x08816988), Save/Load labels (saveload.g2d quads ->
+  gfx.LAYOUT), 4-digit Attack value (like engine.defense_value), name-entry tabs centring, status-page stress name
+  width, money plate "yen", report-card right-column margins. (c) .znt texture rooms via dun_bg04/07/11. (d) Rebuild
+  (includes Defense fix), re-tour, tour_sheets, verdicts for changed sheets, `qa_gate.py check` exit 0.
+- **Old next (worker 17; (a)-(d) done but fixes found):** (a) build d6101372 is current: re-tour (`warp.py --all --tag en --shot-every 30`; delete work/states/en/ first; ~45 min; includes the stress
   scenes now) and `tour_sheets.py`; unchanged sheets keep verdicts. (b) Visual QA of `qa_gate.py todo` chunks:
   `tools/vqa_codex.py --jobs 3` after 2026-11-26, else by hand (~8 sheets per chunk, stop near 150k context).
   (c) `cover.py` exits 0 at script level; decide tables/EBOOT (loaded whole at boot: waive as groups or note in
