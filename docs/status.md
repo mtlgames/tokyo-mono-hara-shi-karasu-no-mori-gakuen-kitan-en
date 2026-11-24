@@ -2,7 +2,16 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (first visual-QA pass done: fix the findings list, then re-tour; phase 7 done 2026-11-24).
+- **Phase:** 8. QA in the emulator, in progress (re-tour of 915f3c67 done, 338 sheets wait for visual QA; phase 7 done 2026-11-24).
+- **Phase 8, worker 9 (2026-11-24, stopped at the context limit):** (1) `tools/gfx_dungeon_tiles.py`: 敵/将 map
+  markers -> Foe/Boss, 鬼 stone plate -> Oni; virtue/horse/是非/plaques/点火 stay kanji (D22). (2) **Re-tour** of
+  build `build/karasu_en.iso` sha1 915f3c67 (`warp.py --all --tag en --shot-every 30`, log work/qa/tour_run.log): 57
+  scenes exit 0, `wrap_skip` exit 3 (black: the known block-11 warp limit, worker 3; ignore). `tools/tour_sheets.py`
+  -> **338 sheets** `work/qa/tour/`, manifest `work/qa/manifest.tsv` (build 915f3c67), **42 chunks
+  `work/qa/chunks/chunk_bfd6e685d291_000..041.txt`, none reviewed**. (3) **Movies:** `tools/pmf.py` (swap a
+  re-encoded H.264 stream into a PMF, container byte for byte; works, crf 21-24 fits) + `tools/movie.py` (WIP, not in
+  build.py): English lines and reveal timing work, erasing the calligraphy is unsolved (qa-findings §Graphics last
+  item has what failed and the next ideas). Credits movies (BADEND*/TRUEEND, with audio) not started.
 - **Phase 8, worker 8 (2026-11-24, stopped at the context limit):** (1) **Survey gap closed:** 1,560 `.znt` 3D
   models hold 1,091 unique GIMs the survey never opened (`gimsheet.py --embedded`, sheets `work/survey/znt/`; gfx rows
   `container.znt@0xOFF`, spliced back at the same size). The name-entry header was the whole **new-game questionnaire
@@ -75,7 +84,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
   157 verdicts, 104 issue, 53 ok (STALE vs the new build until the re-tour).
   Note: `warp.py --tag X` reuses `work/states/X/<from>.ppst` (old code): delete the tag dir after an engine change.
 - **Phase 8, worker 1 (2026-11-24):** (1) **Graphics pipeline:** `tools/gfx.py` (gfx/<group>.tsv rows `path<TAB>png`; build writes each PNG into every GIM copy with the same original bytes, nearest colour in the original palette; `--sheet DIR` original|English pairs; helpers original/clear/glow/save(rects: fails on pixels changed outside)/write_tsv), `tools/g2d.py` (sprite cells of a .g2d), OFL fonts in `fonts/` (docs/fonts.md), `docs/graphics-brief.md`, row lists `work/gfx/<group>.txt` (gitignored; regenerate from work/survey/*.tsv cells in docs/re/graphics.md). **Pilot** `tools/gfx_title.py`: title menu New Game/Continue + subtitle "Strange Tales of / Karasu no Mori Academy", verified in game (work/qa/smoke/title_zoom.png). (2) **Choice bar:** inkbox fails on `choice` (bar 111-268, "Don't shake hands" runs to ~275): bar w = (bytes/2)*18 from SJIS char count; needs a px width (engine.md §Open .ksf, 0x089FE704). (3) Visual-QA brief `docs/visual-qa-brief.md` (standing non-bugs filled in). (4) **Graphics wave 1 merged** (4 `translate-retro-game:graphics` agents; generators `tools/gfx_<group>.py`, rows `gfx/<group>.tsv`): title 1, phone 6/6, adv_ui 4/5 (freemove:6 is the same GIM as menus' system:20; freemove:12 pins only), adv_bg 9/9, menus 19/19, quest_site 16/16, dungeon_ui 8/10, dungeon_titles 25/26 (cell 15 is art only). Build `build/karasu_en.iso` sha1 30bc8c09, smoke ok, check green. Shortened labels -> docs/polish.md §Graphics; graphics terms -> glossary.md §Graphics labels (not enforced on text). (5) Reference tour of the **original** game: `work/qa/warp/jp/<scene>/` (52 scenes, shot every 90 frames); EN tour of 30bc8c09 -> `work/qa/warp/en/`.
-- **Next (phase 8, worker 9+):** (a) in-game look at the numeral tiles (bg11_00 rooms, jugon_hanahuda01) and decide
+- **Next (phase 8, worker 10+):** (a) Visual QA of the 42 chunks (`qa_gate.py todo` lists them; one
+  `translate-retro-game:visual-qa` read-only pass per chunk, max 4 at a time, verdicts in work/qa/verdicts), add new
+  problems to qa-findings, fix, rebuild, re-tour only the changed scenes. (b) Chapter cards: finish `tools/movie.py`
+  erasing, wire `gfx/movie/*.PMF` into build.py (iso9660 patch of USRDIR/MOVIE), check in game (scene with
+  STORYTITLE01: field_ch01 opening). (c) Credits movies (pmf.py swap keeps the audio packs; same approach). (d)
+  Readability gradient (polish, below). (e) Stress saves, textcover, fit-queue columns (older lists below).
+- **Next (phase 8, worker 9; (a)(c) done, (b) open):** (a) in-game look at the numeral tiles (bg11_00 rooms, jugon_hanahuda01) and decide
   the other .znt kanji tiles (qa-findings "Dungeon textures inside .znt models": virtue tiles need short words or
   stay K with the obj text; default: translate numerals/敵将/鬼 signs, keep house plaques the obj text romanises).
   (b) Readability gradient (polish: dialogue at the top over bright windows; adv_talk.g2d quad is scaled, so g2d.py

@@ -129,5 +129,16 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   362/365-367 bg0005_obj015-018 南家北家式家京家 (statues; obj text already romanises them: may stay); 170
   bg0008_obj014 点火 (small red sign). Calligraphy scrolls (336 351 371 407 408 411), 106 glyph strip, 576 ancient
   glyphs, 771 福: art (K). Do with gfx (rows `path.znt@0xOFF`), short English in each tile.
+  Worker 8-9 (`tools/gfx_dungeon_tiles.py`): numerals 1-4/1-5 (walls, floor tiles, slips), 敵/将 markers -> Foe/Boss,
+  鬼 plate -> Oni (stone texture tiled over the glyph). Kept K (D22): virtue pillars, horse pillars, 是/非, house
+  plaques (obj text names them), 12x16 px 点火 sign. Not yet seen in game (needs warps into bg11/jugon/seihen rooms).
 - [ ] Staff roll / credits (badend sheets 2-7) and chapter cards (STORYTITLE01 第壱話 稲妻の転校生, field_ch01_sheet_6):
   burned into the PMF movies (Waiting on the user: movies).
+  Worker 9: `tools/pmf.py` swaps a re-encoded H.264 stream into a PMF keeping the container byte for byte (each
+  frame padded to its original size; self-test: same frames -> same file). `tools/movie.py` (WIP, not in build.py):
+  STORYTITLE01-10 = 272 frames, video only, same backdrop animation frame for frame in all ten; text frames ~30-125,
+  static columns (no pan), glyphs rise from white mist. Erasing is the open problem: a single plate frame is hazy
+  (fade-in through mist), a per-pixel "most red" plate is noisy, a cross-card plate fails because every card puts
+  第N話 and the title columns in the same spots. Next idea: plate from the cross-card mean where some card is clean,
+  else the frame ~125 after the text has faded (or frames 0-30 tower-side texture), or a dark styled panel behind
+  the English. English lines (CARDS) and their per-column reveal timing already work (work/movie/01/en).
