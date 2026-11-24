@@ -9,8 +9,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   every canvas draw; found that .data/.bss lui/addiu pairs relocate seg1-relative: GE state 0x0922C240, engine.md),
   Save/Load diamonds (gfx.LAYOUT whole-word strips), stress name fallback (FULLNAME stub > 145 px -> given name),
   money plate x, name tabs centred, Attack/AP layout (+ the second Defense copy), report-card Club field. Build
-  `build/karasu_en.iso` sha1 da6c9f9e, smoke ok, check green (29). Re-tour started (`warp.py --all --tag en
-  --shot-every 30`, log work/qa/tour_en.log).
+  `build/karasu_en.iso` sha1 da6c9f9e, smoke ok, check green (29). **Re-tour of da6c9f9e done** (work/qa/tour_en.log:
+  71 exit 0, wrap_skip exit 3 as known), `tour_sheets.py`: 384 sheets, **190 without a current verdict in 24 chunks
+  `work/qa/chunks/chunk_4d8a89c9dff5_000..023`** (the shadow changed every ADV sheet). codex exec still at its usage
+  limit (resets 2026-11-26 14:14). Stopped near the context limit.
 - **Phase 8, worker 17 (2026-11-24, stopped near the context limit):** (1) **Re-tour of d6101372** (68 scenes exit 0,
   wrap_skip 3 as known), `tour_sheets.py` (fix: a dir holding only final.png is skipped), 31 chunks
   `chunk_0c56a2b13473_000..030`, all handed to `translate-retro-game:visual-qa` agents (codex limit until
@@ -56,11 +58,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
   movies rendered, stamp current. New scene `edmovie1` (MS01_03 -> EPSOTD_END01; cold boot
   work/qa/warp/w15/edmovie1/final.png shows an English card). Build `build/karasu_en.iso` sha1 fd86cb47, smoke ok,
   check green (28).
-- **Next (phase 8, worker 19+):** (a) if work/qa/tour_en.log is not complete for da6c9f9e (or the build changed),
-  re-tour (`rm -rf work/states/en`; `warp.py build/karasu_en.iso --all --tag en --shot-every 30`); then
-  `tools/tour_sheets.py`, `qa_gate.py todo`, verdicts for the changed sheets (the shadow changes every ADV sheet):
-  `tools/vqa_codex.py --jobs 3` once codex's limit resets (2026-11-26), else by hand in chunks; `qa_gate.py check`
-  exit 0. (b) .znt texture rooms via dun_bg04/07/11. (c) Then phase 9.
+- **Next (phase 8, worker 19+):** (a) verdicts for chunks `chunk_4d8a89c9dff5_000..023` (190 sheets, build
+  da6c9f9e; do not rebuild first or the gate wants a new tour): `tools/vqa_codex.py --jobs 3` after 2026-11-26 14:14,
+  else by hand (~8 sheets per chunk, verdict files work/qa/verdicts/<chunk>.tsv, stop near 150k context). Look for
+  the shadow doubling/smearing text and any canvas text (captions, choices, names) it made worse. Then
+  `qa_gate.py check` on the manifest must exit 0. (b) .znt texture rooms via dun_bg04/07/11. (c) Then phase 9.
 - **Old next (worker 18; (b) done):** (a) all 378 sheets have verdicts (`qa_gate.py check`: 19 not ok, all listed
   in qa-findings §Worker 17). (b) Fix those open items: **readability** (most of the 19: dark band behind the ADV
   lines: find the gradient panel's draw, or a shadow pass in 0x08816988), Save/Load labels (saveload.g2d quads ->
