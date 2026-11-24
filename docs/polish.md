@@ -982,3 +982,9 @@
 - [ ] gfx quest_site/dungeon_ui: 攻 "ATK", 封 "SEAL"; 658 emotion wheel 3x5 caps (LOVE JOY HATE RAGE SAD UPSET PAL FIRE) vs adv_emotion (Joy Friend Dislike Worry Love Passion Anger Sorrow): align
 - [ ] gfx phone menu01: English label now sits above the game's own near-duplicate English subtitle; consider dropping one
 - [ ] status page summaries (systemtext 0400-0410, 116 px cells, worker 5): Attack Up, Arcane Eye Up, Crit Damage Up, Partner Skill Up, Better Aim, More Clients, Jump & Hit Up, Discounts Up, Recovery Up, Resist Ailments; header 0540 Subject. Were Physical Damage Up / Arcane Eye Boost / Weak Point Damage Up / Partner Skills Up / Ranged Ability Up / More Quest Clients / Jump & Strike Up / Bigger Discounts / Natural Recovery Up / Status Resistance Up / Subjects: restore if the grid gets wider
+
+## Phase 8 worker 6 (short UI labels, D20; restore if the boxes get wider)
+- [ ] Name entry: Hira / Kata / ABC / !?# (were Hiragana / Katakana / ABC/123 / Symbols), ×Del (Delete), △Mode (systemtext:0236).
+- [ ] Item menu help bar systemtext:0209 Category (was Switch Type); equipped mark eboot:2b5214 "E".
+- [ ] Help bars 決定 = "OK" (systemtext:0003, eboot:2b4610; was Confirm).
+- [ ] Quest shop questshoptext:0001 / questwordcomment:0017 "My Quests" (was Check Quests).

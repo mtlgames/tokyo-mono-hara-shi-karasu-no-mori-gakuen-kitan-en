@@ -3,66 +3,66 @@
   "id": "siteinfo:0000:00",
   "jp": "「封札師試験が開始されました」",
   "refs": 1,
-  "en": "\"The Card Sealer exam has begun.\""
+  "en": "The Card Sealer exam has begun.   "
  },
  {
   "id": "siteinfo:0001:00",
   "jp": "「鴉乃杜學園地下に未知の構造が確認されました」",
   "refs": 1,
-  "en": "\"Unknown structure under Karasu no Mori Academy\""
+  "en": "Unknown structure under Karasu no Mori Academy.   "
  },
  {
   "id": "siteinfo:0002:00",
   "jp": "「秋の洞で新しい階層が発見されました」",
   "refs": 2,
-  "en": "\"New level found in the Autumn Hollow\""
+  "en": "New level found in the Autumn Hollow.   "
  },
  {
   "id": "siteinfo:0004:00",
   "jp": "「石碑から、春の洞への入り口が発見されました」",
   "refs": 1,
-  "en": "\"Spring Hollow entrance found at the stele\""
+  "en": "Spring Hollow entrance found at the stele.   "
  },
  {
   "id": "siteinfo:0005:00",
   "jp": "「春の洞で新しい階層が発見されました」",
   "refs": 3,
-  "en": "\"New level found in the Spring Hollow\""
+  "en": "New level found in the Spring Hollow.   "
  },
  {
   "id": "siteinfo:0008:00",
   "jp": "「茶室から、冬の洞への入り口が発見されました」",
   "refs": 1,
-  "en": "\"Winter Hollow entrance found in the tea room\""
+  "en": "Winter Hollow entrance found in the tea room.   "
  },
  {
   "id": "siteinfo:0009:00",
   "jp": "「冬の洞で新しい階層が発見されました」",
   "refs": 2,
-  "en": "\"New level found in the Winter Hollow\""
+  "en": "New level found in the Winter Hollow.   "
  },
  {
   "id": "siteinfo:0011:00",
   "jp": "「灯籠から、夏の洞への入り口が発見されました」",
   "refs": 1,
-  "en": "\"Summer Hollow entrance found at the lantern\""
+  "en": "Summer Hollow entrance found at the lantern.   "
  },
  {
   "id": "siteinfo:0012:00",
   "jp": "「夏の洞で新しい階層が発見されました」",
   "refs": 2,
-  "en": "\"New level found in the Summer Hollow\""
+  "en": "New level found in the Summer Hollow.   "
  },
  {
   "id": "siteinfo:0014:00",
   "jp": "「新宿駅から、龍珠堂への入り口が発見されました」",
   "refs": 1,
-  "en": "\"Ryujudo entrance found at Shinjuku Station\""
+  "en": "Ryujudo entrance found at Shinjuku Station.   "
  },
  {
   "id": "siteinfo:0015:00",
   "jp": "「各季節の洞の最深部に、新たな階層が発見されました」",
   "refs": 1,
-  "en": "\"New levels found deep in each season's Hollow\""
+  "en": "New levels found deep in each season's Hollow.   "
  }
 ]

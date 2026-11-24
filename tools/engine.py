@@ -87,6 +87,8 @@ def patch(p: Patcher):
     hud_name(p)
     status_labels(p)
     status_name(p)
+    ticker(p)
+    phone_settings(p)
     # choice keys: LEFT (0x80) = next, RIGHT (0x20) = previous -> DOWN (0x40), UP (0x10)
     p.asm(0x089F2A10, "andi $v0, $v0, 0x40", [0x30420080])
     p.asm(0x089F2A2C, "andi $v0, $v0, 0x10", [0x30420020])
@@ -408,6 +410,38 @@ def hud_name(p):
     assert len(code) <= 0x40, len(code)
     p.d[off:off + len(code)] = code
     jal_to(p, 0x088A69C8, VDRAW, va, op=0x08000000)
+
+
+# OXAS news ticker (phone/dungeon OXAS top page): the siteinfo items are joined into one string drawn at x 170; up to
+# 32 bytes it is static (0x08940AF8), longer it scrolls a 32-byte window in 2-byte steps (0x08940ECC reset,
+# 0x08940F18 window end). 32 JP bytes are 16 chars (~175 px); 32 ASCII chars run ~35 px past the panel.
+TICKER_BYTES = 24  # 26 ended at x 365 of the panel's 367 (work/qa/warp/w6/dun_oxas); even: the scroll steps 2 bytes
+
+
+def ticker(p):
+    n = TICKER_BYTES
+    p.asm(0x08940AF8, f"sltiu $v0, $v0, {n + 1}", [0x2C420021])
+    p.asm(0x08940ECC, f"addiu $s0, $s0, {n}", [0x26100020])
+    p.asm(0x08940F18, f"addiu $s0, $s2, {n}", [0x26500020])
+
+
+# Phone settings values (scene `phone_set`): row r draws its values from x 251 + start, each next one at the previous
+# end (measured width) + gap; (start, gap) halfwords for the 10 rows at 0x08AAF4E8 (copied to the stack at 0x08942E6C).
+# English "Long Normal Short" ran to x 380 and "1 2 3 Instant" to ~371, past the phone screen (~372).
+PHONE_ROWS = 0x08AAF4E8
+PHONE_FIX = {0: (12, 8), 5: (0, 5), 6: (0, 5)}  # text speed, aiming cursor speed, emotion input hold
+
+
+def phone_settings(p):
+    o = p.off(PHONE_ROWS)
+    old = bytes(p.d[o:o + 40])
+    assert struct.unpack("<20h", old) == (12, 12, 26, 24, 4, 6, 4, 6, 4, 6, 4, 10, 4, 10, 14, 24, 14, 24, 4, 4)
+    rows = list(struct.unpack("<20h", old))
+    for r, (start, gap) in PHONE_FIX.items():
+        rows[2 * r:2 * r + 2] = start, gap
+    new = struct.pack("<20h", *rows)
+    p.d[o:o + 40] = new
+    p.log.append((o, old, new, f"{PHONE_ROWS:08x} phone settings value x (start, gap) per row"))
 
 
 if __name__ == "__main__":

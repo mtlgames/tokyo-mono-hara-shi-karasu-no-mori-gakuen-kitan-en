@@ -91,7 +91,7 @@ def test_eboot_strings():
         raw = x["jp"].encode(x["enc"])
         assert d[x["off"]:x["off"] + len(raw) + 1] == raw + b"\0" and d[x["off"] - 1] == 0
         assert x["slot"] > len(raw)
-    assert len(ss) == 1255
+    assert len(ss) == 1258  # 1255 + eboot_text.LONE (瞬 円 装)
 
 
 def test_merge_keeps_translations():

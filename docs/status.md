@@ -3,6 +3,16 @@
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
 - **Phase:** 8. QA in the emulator, in progress (first visual-QA pass done: fix the findings list; phase 7 done 2026-11-24).
+- **Phase 8, worker 6 (2026-11-24, stopped at the context limit):** qa-findings ticked (all verified in cold-boot
+  warps `work/qa/warp/w6/`): (1) **Q&A panel** wraps every 38 bytes: `batches.TABLE_WRAP` stores help:08 at 35 chars
+  a line (41 re-wrapped; lint counts JP lines after the box's own wrap, the panel scrolls). (2) **OXAS ticker:**
+  32-byte scrolling window -> `engine.ticker` 24 bytes; siteinfo items without quotes, 3-space gaps; new scene
+  `dun_oxas`. (3) **Name entry** labels fit (Hira/Kata/ABC/!?#, ×Del/○OK, △Input Mode, □Convert): `insert.BUTTONS`
+  lets table/EBOOT English use the ×○△□ SJIS marks (D20). (4) **Phone settings:** 瞬 -> "Instant" and item 装 -> "E",
+  円 -> "yen": lone chars the extractor missed (`eboot_text.LONE`, FIXED char[24] for 瞬); `engine.phone_settings`
+  (start, gap) per row so "Short"/"Instant" stay on screen. (5) Quest shop "My Quests"; help bars 決定 -> "OK" (map
+  bar fits), item bar "Category"; city map list already fine. `fpregs.py` prints a0. Build `build/karasu_en.iso`
+  sha1 5c08950f, smoke ok, check green (26 tests, 0 lint).
 - **Phase 8, worker 5 (2026-11-24, stopped at the context limit):** (1) **HUD player name** (dungeon/battle):
   `engine.hud_name` = given name first (both "%s %s" sprintf sites swapped) and a stub on the `j` to the drawer moves
   it 48 px down, clear of the AP gauge (`jal_to` now takes op=j). (2) **Status page:** `engine.status_name` (whole name
@@ -45,9 +55,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
   157 verdicts, 104 issue, 53 ok (STALE vs the new build until the re-tour).
   Note: `warp.py --tag X` reuses `work/states/X/<from>.ppst` (old code): delete the tag dir after an engine change.
 - **Phase 8, worker 1 (2026-11-24):** (1) **Graphics pipeline:** `tools/gfx.py` (gfx/<group>.tsv rows `path<TAB>png`; build writes each PNG into every GIM copy with the same original bytes, nearest colour in the original palette; `--sheet DIR` original|English pairs; helpers original/clear/glow/save(rects: fails on pixels changed outside)/write_tsv), `tools/g2d.py` (sprite cells of a .g2d), OFL fonts in `fonts/` (docs/fonts.md), `docs/graphics-brief.md`, row lists `work/gfx/<group>.txt` (gitignored; regenerate from work/survey/*.tsv cells in docs/re/graphics.md). **Pilot** `tools/gfx_title.py`: title menu New Game/Continue + subtitle "Strange Tales of / Karasu no Mori Academy", verified in game (work/qa/smoke/title_zoom.png). (2) **Choice bar:** inkbox fails on `choice` (bar 111-268, "Don't shake hands" runs to ~275): bar w = (bytes/2)*18 from SJIS char count; needs a px width (engine.md §Open .ksf, 0x089FE704). (3) Visual-QA brief `docs/visual-qa-brief.md` (standing non-bugs filled in). (4) **Graphics wave 1 merged** (4 `translate-retro-game:graphics` agents; generators `tools/gfx_<group>.py`, rows `gfx/<group>.tsv`): title 1, phone 6/6, adv_ui 4/5 (freemove:6 is the same GIM as menus' system:20; freemove:12 pins only), adv_bg 9/9, menus 19/19, quest_site 16/16, dungeon_ui 8/10, dungeon_titles 25/26 (cell 15 is art only). Build `build/karasu_en.iso` sha1 30bc8c09, smoke ok, check green. Shortened labels -> docs/polish.md §Graphics; graphics terms -> glossary.md §Graphics labels (not enforced on text). (5) Reference tour of the **original** game: `work/qa/warp/jp/<scene>/` (52 scenes, shot every 90 frames); EN tour of 30bc8c09 -> `work/qa/warp/en/`.
-- **Next (phase 8, worker 6+):** fix the open `docs/qa-findings.md` items top down (engine items first: status page
-  leftovers, city map list, tutorial Q&A, other help bars, name entry; `engine.right_align` serves any
-  DRAW_TEXT call whose x must follow the text width; then graphics via `translate-retro-game:graphics` agents),
+- **Next (phase 8, worker 7+):** fix the open `docs/qa-findings.md` items top down (engine/text: status page
+  leftovers, the 103 no-break table strings (measure dialog/bubble/description box widths per column, then a
+  per-column limit like TABLE_WRAP), readability gradient, ringtone ellipsis; `engine.right_align` serves any
+  DRAW_TEXT call whose x must follow the text width; then graphics via `translate-retro-game:graphics` agents:
+  name-entry header/labels, item tab 全, emotion wheel, Arcane Eye plate, Game Over, report-card heading copy),
   rebuild, re-tour (`warp.py --all --tag en`), `tools/tour_sheets.py`, `qa_gate.py todo` -> visual-QA only the
   changed sheets; then items (b)-(f) below.
 - **Older next list (phase 8, worker 1):** (a) EN tour of 30bc8c09 done (52 scenes exit 0); `tools/tour_sheets.py` made 157 sheets `work/qa/tour/`, `work/qa/manifest.tsv` (build 30bc8c09) and **20 chunks `work/qa/chunks/chunk_c28c67163a69_000..019.txt` (8 sheets each), none reviewed yet**. Rerun `tools/tour_sheets.py` after any rebuild + re-tour. Dispatch `translate-retro-game:visual-qa` agents (docs/visual-qa-brief.md, max 4 at a time), fix issues. (b) **Graphics left:** effect:100/101 斬 split across two textures (needs the UV mapping), ゲームオバ(ー) in dungeon:40 (game reuses one ー cell: check the game-over screen, scene `gameover`), exbg0136 wheel kanji (~9 px), and **in-game verification** of: dungeon title cards' reading order (agent assumed right-to-left sprite order, `CARDS` in tools/gfx_dungeon_titles.py; see scene `battle`/`dg01`), menus' sliced stacked cells (map, album, save/load, flowercard bottom prompt row), phone icon/site label widths, dungeon:35/62 words split across one-char cells. Movies (STORYTITLE chapter cards, credits) still Japanese: re-encode project (Waiting on the user). (c) **inkbox:** choice bar too narrow (engine: px width instead of bytes/2*18). (d) **Stress saves:** save.py lacks inventory/card fields (map by diffing two saves); have money/names/chapter. (e) **textcover:** PPSSPP has no Lua: log per-script loads (trace_pw.py) as `TEXT <id>` or waive with reason. (f) Carried from phase 7 below.

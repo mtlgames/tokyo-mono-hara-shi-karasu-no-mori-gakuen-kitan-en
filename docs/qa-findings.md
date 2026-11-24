@@ -28,28 +28,38 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
 - [x] **Main menu** (menu_sheet f000096): labels no longer right-aligned at x ~431; "Equipment", "Card Enhanc…" run
   over the red frame and off screen. Fixed: `engine.menu_right` (x = 432 - advfont14 width at the draw call
   0x08923BFC), work/qa/warp/w4/menu2. Still open: "1,000 yen" n past the money plate's arrow tip.
-- [ ] **Name entry** (name_entry_sheet_2): mode tabs "Hiragana"/"Katakana"/"ABC/123" spill onto the grid; right
+- [x] **Name entry** (name_entry_sheet_2): mode tabs "Hiragana"/"Katakana"/"ABC/123" spill onto the grid; right
   buttons show only "Cross:"/"Circle:" (action words cut); "Triangle: Input Mode", "Square: Convert" past their
-  plates. Graphics: header 日常と意識に関するアンケート, labels ふりがな/氏名 still Japanese.
+  plates. Fixed (worker 6): tabs Hira/Kata/ABC/!?#, buttons ×Del/○OK, △Input Mode, □Convert (the fonts' own ×○△□
+  SJIS marks, now allowed in table/EBOOT English: insert.BUTTONS), work/qa/warp/w6/name_entry.
+- [ ] Name entry graphics: header 日常と意識に関するアンケート, labels ふりがな/氏名 still Japanese.
 - [x] Phone profile "Can't Change" past the phone screen edge (phone_prof_sheet f000236). systemtext:0600 -> "Locked".
 - [x] Caption dash "--" shows as two short hyphens with a gap (script "--" now encodes as ― 815C, one solid dash:
   work/qa/warp/dash f005290; the x 1 margin and " -- " vs "--" spacing are still open) ("Some years ago -- Public Library"); long caption
   starts at x 1 with no margin (field_ch01_sheet_7 f005290). Captions use "--" and " -- " inconsistently.
-- [ ] Help bar overlap also on the school map and myroom_desk; map f000390 "✕ Back○ Confir" (no gap, cut at
-  x 480); shop "○ Confirm" cut at x 480.
+- [x] Help bar overlap also on the school map and myroom_desk; map f000390 "✕ Back○ Confir" (no gap, cut at
+  x 480); shop "○ Confirm" cut at x 480. Worker 6: 決定 -> "OK" (eboot:2b4610 map bar, systemtext:0003); map shows
+  "× Back○ OK", myroom_desk and shop fit (work/qa/warp/w6). "Back" still touches the ○ sprite on the map bar.
 - [x] Main/pause menu labels keep the JP start x: "Equipment", "Report Card" cross the red rule ~x 440,
   "Card Enhanc" cut (menu, menu_cards/equip/item, saveload, report). Right-aligned (same draw loop, menu_right).
-- [ ] Quest-shop menu "Check Quests" right-aligned to x ~95, starts below x 0, C cut (shop_sheet f002530).
+- [x] Quest-shop menu "Check Quests" right-aligned to x ~95, starts below x 0, C cut (shop_sheet f002530). The game
+  right-aligns by width itself; -> "My Quests" (+ its help heading), work/qa/warp/w6/shop.
 - [x] systemtext:0041:00 has no `\n`: "You don't currently own this" runs onto the frame, "card." lost
   (menu_cards f000344; JP 2 lines).
 - [ ] 103 table strings whose JP has a line break and whose English has none (buddymes 48, systemtext 16,
   questshoptext 14, help 10, item 10, dialogmessage 5): check each box's width; systemtext:0041:00 fixed.
+  Worker 6: help:08 (dungeon Q&A body) done (batches.TABLE_WRAP). Wrapping every multi-line JP entry at its own
+  longest JP line would change 2,474 entries (most boxes are wider than the JP lines): not a rule; needs the box
+  width per column in game (dialog boxes systemtext:00 / questshoptext:00 / dialogmessage:04 first, then
+  buddymes:08 bubbles, item:0c descriptions). Add a TABLE_WRAP-like per-column px limit once measured.
 - [x] Item stats "AP Cost12": label over value (menu_item f000252). The label is EBOOT 2b5148 "Attack ... AP Cost" (values at fixed x): 2 spaces fewer (verify).
-- [ ] Equipped marker still kanji 装 ("Shinai 1装"); first category tab icon 全 (font glyph or graphics?)
-  (menu_item f000252).
-- [ ] Phone settings (phone_set f000420): text speed value 瞬 still Japanese (not in script/: EBOOT/graphics?);
-  "Short" past the phone screen edge, "Slow" touches it; ringtone "01: Electronic T…" ellipsised
-  (tables/clctmelody); graphics: "Voice Volum" clipped (gfx_phone.py label cell 66 px).
+- [x] Equipped marker still kanji 装 ("Shinai 1装"): lone EBOOT char the extractor missed (eboot_text.LONE, with
+  円 0x2b5210) -> "E" (work/qa/warp/w6/menu_item). Help bar "Switch Type" under the SELECT icon -> "Category".
+- [ ] First category tab icon 全 in the item menu (not text: graphics, menus group).
+- [x] Phone settings (phone_set f000420): text speed 瞬 (EBOOT 0x2d2538, char[24] array, extractor LONE) ->
+  "Instant"; "Short"/"Slow" past the screen: `engine.phone_settings` (start, gap) per row (work/qa/warp/w6/phone_set).
+- [ ] Phone settings: ringtone "01: Electronic T…" ellipsised (tables/clctmelody); graphics: "Voice Volum" clipped
+  (gfx_phone.py label cell 66 px).
 - [x] "--" in dialogue too (fixed with the caption dash) ("Even so--", trueend_sheet_14; prologue2): the dash glyph draws two short hyphens.
 - [ ] "□ Show Help" runs to x 480, last p clipped (field_ch01_sheet_27 f014860). systemtext:0659 -> "Help" (verify).
 - [ ] Readability: location caption and dialogue (no outline) over bright windows (field_ch01_sheet_28 f016210,
@@ -65,10 +75,15 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   (background image, not status01.gim) widened + value column moved, or short forms; "Best Subject"+"Japanese"
   touch (value x 406 in 0x0892D0CC/0x0892DCC0); "Arcane Eye Max" crosses its divider; Homeroom/Now/Last
   (bonus page, labels 44-49) not looked at; second name block 0x0892DBD8 (partners?) unchanged.
-- [ ] **Tutorial Q&A panel** (dun_tut_qa_sheet): body text breaks per character ("mov|e") and runs past the panel;
+- [x] **Tutorial Q&A panel** (dun_tut_qa_sheet): body text breaks per character ("mov|e") and runs past the panel;
   OXAS ticker "The Card Sealer exam has begun." runs onto the frame; opening quote shows as "˝", no closing quote.
-- [ ] **City map** (city_map_sheet f000306): place list clipped at the panel edge ("Karasu no Mo…").
-- [ ] **Help bar** (city_map, fend_c1): labels run under the next icon ("End Free Mo△Explo…"). Carried item.
+  Worker 6: the panel wraps every 38 bytes: help:08 stored at 35 chars a line (batches.TABLE_WRAP, 41 entries
+  re-wrapped, work/qa/warp/w6/dun_tut_qa); ticker = a 32-byte scrolling window, `engine.ticker` 24 bytes, items
+  without quotes, joined by 3 spaces (scene `dun_oxas`).
+- [x] **City map** (city_map_sheet f000306): place list clipped at the panel edge ("Karasu no Mo…"). Already fixed
+  by the field_rooms right_align (same draw call 0x088E4168): work/qa/warp/w6/city_map.
+- [x] **Help bar** (city_map, fend_c1): labels run under the next icon ("End Free Mo△Explo…"). Carried item.
+  city_map bar fits now (worker 4 labels; work/qa/warp/w6/city_map); fend_c1 not re-shot.
   Field bar: labels drawn by 0x088E4274 at fixed (x, y) from the EBOOT table 0x08AD5B14 (328/274/206/152/42, y 255),
   icons are sprites placed elsewhere (not in that table; a .g2d layout?). Slots in advfont14: SELECT 96 px, △ 38,
   □ 52, ✕ 38. Field labels shortened to fit (systemtext 0005-0007: Bonds / Look / End Roaming, worker 4). Other

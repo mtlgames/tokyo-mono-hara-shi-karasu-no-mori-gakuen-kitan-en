@@ -188,13 +188,15 @@ def name_bytes(s):
                     for i, p in enumerate(NAME_CODE.split(s)))
 
 
+BUTTONS = "×○△□"  # button marks: the fonts' own SJIS glyphs, as the JP strings use them ("×削除")
+
+
 def ascii_bytes(s, what):
     if is_name(what):
         return name_bytes(s)
-    try:
-        return s.encode("ascii")
-    except UnicodeEncodeError:
-        raise ValueError(f"{what}: C-string text must be ASCII here: {s!r}") from None
+    if all(" " <= c <= "~" or c in "\n\r\t" + BUTTONS for c in s):
+        return s.encode("cp932")
+    raise ValueError(f"{what}: C-string text must be ASCII (or the {BUTTONS} marks) here: {s!r}")
 
 
 # --- .pwx / .ksf -------------------------------------------------------------------------------------------------
@@ -303,6 +305,7 @@ TABLE_DIRS = ("app_init.pak/table/", "table/", "dungeon/")
 # char[N] fields read by index from a table base (no pointer per string): the whole slot is the string's, and it must
 # never move (moving the base would shift every other entry)
 FIXED = [
+    (0x2D2538, 0x2D2538, "text speed values 1 2 3 瞬, char[24] (slot reads 28: keep it under 24)"),
     (0x2D25B0, 0x2D2600, "dungeon names 秋の洞.., char[16] array (only the base is referenced)"),
     (0x2D3A10, 0x2D445C, "nickname formats pnクン.., char[32] fields in per-character records (strides 0x20/0x24)"),
 ]

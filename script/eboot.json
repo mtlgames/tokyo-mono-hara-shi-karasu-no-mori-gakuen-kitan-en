@@ -2301,7 +2301,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": "Hiragana"
+  "en": "Hira"
  },
  {
   "id": "eboot:2b1520",
@@ -2309,7 +2309,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": "Katakana"
+  "en": "Kata"
  },
  {
   "id": "eboot:2b1528",
@@ -2317,7 +2317,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": "ABC/123"
+  "en": "ABC"
  },
  {
   "id": "eboot:2b1530",
@@ -2325,7 +2325,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": "Symbols"
+  "en": "!?#"
  },
  {
   "id": "eboot:2b1538",
@@ -2333,7 +2333,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": "Triangle: Input Mode"
+  "en": "△Input Mode"
  },
  {
   "id": "eboot:2b154c",
@@ -2341,7 +2341,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": "Square: Convert"
+  "en": "□Convert"
  },
  {
   "id": "eboot:2b1554",
@@ -2357,7 +2357,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": "Cross: Delete"
+  "en": "×Del"
  },
  {
   "id": "eboot:2b1568",
@@ -2365,7 +2365,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": "Circle: OK"
+  "en": "○OK"
  },
  {
   "id": "eboot:2b1570",
@@ -5173,7 +5173,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": "Confirm"
+  "en": "OK"
  },
  {
   "id": "eboot:2b47ec",
@@ -5414,6 +5414,22 @@
   "refs": 1,
   "enc": "cp932",
   "en": "%s  %s%3d%%"
+ },
+ {
+  "id": "eboot:2b5210",
+  "jp": "円",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": "yen"
+ },
+ {
+  "id": "eboot:2b5214",
+  "jp": "装",
+  "slot": 4,
+  "refs": 0,
+  "enc": "cp932",
+  "en": "E"
  },
  {
   "id": "eboot:2b5218",
@@ -9750,6 +9766,14 @@
   "refs": 0,
   "enc": "cp932",
   "en": "None"
+ },
+ {
+  "id": "eboot:2d2538",
+  "jp": "瞬",
+  "slot": 28,
+  "refs": 0,
+  "enc": "cp932",
+  "en": "Instant"
  },
  {
   "id": "eboot:2d25b0",

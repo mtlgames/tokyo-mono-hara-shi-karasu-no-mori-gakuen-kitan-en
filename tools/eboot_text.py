@@ -81,13 +81,16 @@ def is_text(s, raw, refs, off):
     """Kana / full-width / 2+ double-byte chars = text, referenced or not (struct arrays such as the nickname table
     at 0x2d3a10 are reached by base + index). A lone double-byte char is text only when referenced, pure, and inside
     the string pool: before POOL, .rodata holds pointer tables whose words decode as one SJIS char."""
-    if KANA.search(s) or len(raw) - len(s) >= 2:
+    if KANA.search(s) or len(raw) - len(s) >= 2 or off in LONE:
         return True
     return refs > 0 and off >= POOL and all(c >= 0x80 for c in raw)
 
 
 KANA = re.compile("[　-ヿ！-～]")
 POOL = 0x2B0600
+# lone chars the rule above misses: text speed 瞬 (24-byte slots "1" "2" "3" 瞬, phone settings, unreferenced);
+# item menu 円 (second byte 0x7E) and the equipped mark 装 (its lui/addiu pair is not found in the ELF)
+LONE = {0x2D2538, 0x2B5210, 0x2B5214}
 
 
 def strings(d):

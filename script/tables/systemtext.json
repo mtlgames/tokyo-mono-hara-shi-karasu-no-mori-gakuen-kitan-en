@@ -21,7 +21,7 @@
   "id": "systemtext:0003:00",
   "jp": "決定",
   "refs": 5,
-  "en": "Confirm"
+  "en": "OK"
  },
  {
   "id": "systemtext:0005:00",
@@ -1149,7 +1149,7 @@
   "id": "systemtext:0209:00",
   "jp": "分類切替",
   "refs": 1,
-  "en": "Switch Type"
+  "en": "Category"
  },
  {
   "id": "systemtext:0210:00",
@@ -1281,37 +1281,37 @@
   "id": "systemtext:0232:00",
   "jp": "かな",
   "refs": 1,
-  "en": "Hiragana"
+  "en": "Hira"
  },
  {
   "id": "systemtext:0233:00",
   "jp": "カナ",
   "refs": 1,
-  "en": "Katakana"
+  "en": "Kata"
  },
  {
   "id": "systemtext:0234:00",
   "jp": "英数",
   "refs": 1,
-  "en": "ABC/123"
+  "en": "ABC"
  },
  {
   "id": "systemtext:0235:00",
   "jp": "記号",
   "refs": 1,
-  "en": "Symbols"
+  "en": "!?#"
  },
  {
   "id": "systemtext:0236:00",
   "jp": "△入力変更",
   "refs": 1,
-  "en": "Triangle: Mode"
+  "en": "△Mode"
  },
  {
   "id": "systemtext:0237:00",
   "jp": "□変換",
   "refs": 1,
-  "en": "Square: Convert"
+  "en": "□Convert"
  },
  {
   "id": "systemtext:0238:00",
@@ -1341,13 +1341,13 @@
   "id": "systemtext:0242:00",
   "jp": " ×\n削除",
   "refs": 1,
-  "en": "Cross\nDelete"
+  "en": "×\nDelete"
  },
  {
   "id": "systemtext:0243:00",
   "jp": " ○\n決定",
   "refs": 1,
-  "en": "Circle\nConfirm"
+  "en": "○\nConfirm"
  },
  {
   "id": "systemtext:0244:00",

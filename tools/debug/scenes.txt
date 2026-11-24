@@ -63,6 +63,7 @@ clear_save from=field_ch01 task=12 mash=900:-
 # --- dungeons: DG scripts end in the tutorial dungeon (dg01/dun1_walk too, despite set=chapter=1; docs/re/debug.md)
 dun_tut    script=DG00_00 mash=900:circle
 dun_tut_qa from=dun_tut route=6 start;120 -;6 circle;120 -;6 circle;120 -
+dun_oxas   from=dun_tut route=6 start;120 -
 dg01       script=DG01_00 set=chapter=1 mash=6000:circle,right,circle,cross route=600 -
 dun1_walk  from=dg01 mash=6000:up+circle,up,up,up+circle,up,right
 # real dungeons: the dungeon task loads dungeonareainfo.bin row dun_area (game state +0x6878; 1 = bg01_00 秋・第一階層)

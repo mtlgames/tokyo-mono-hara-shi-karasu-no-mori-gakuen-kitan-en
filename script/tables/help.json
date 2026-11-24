@@ -9,7 +9,7 @@
   "id": "help:0000:08",
   "jp": "OXAS公式サイトでは、封札師の活動に必要な各種情報を提供しています。\nトップページから項目を選択すると、\n各情報ページへ移動します。\nなお、各項目の新着情報は、トップページにリンクが掲載されるので、そこからすばやくアクセスできます。\n\n【New】\n　新着情報についてのアナウンスが\n　流れます。\n【隠人データベース】\n　これまでに調査、討伐した隠人の情報を\n　閲覧できます。敵を倒すか、対象を調べ\n　ると、その敵が登録されます。\n【用語辞典】\n　専門用語の解説です。\n【Q&A】\n　各種説明です。重要な更新があると\n　通知アイコンでお知らせします。",
   "refs": 1,
-  "en": "The official OXAS site provides all the information a Card Sealer needs in the field. Choose an item on the top\npage to go to its information page. Links to new information in each section are posted on the top page, so you\ncan reach it quickly from there.\n\n[New]\nAnnouncements about new information.\n[Oni Database]\nInformation on the Oni you have investigated and defeated so far. An enemy is registered when you defeat it or\nexamine it.\n[Glossary]\nExplanations of technical terms.\n[Q&A]\nExplanations of various features. An alert icon tells you when there is an important update."
+  "en": "The official OXAS site provides all\nthe information a Card Sealer needs\nin the field. Choose an item on the\ntop\npage to go to its information page.\nLinks to new information in each\nsection are posted on the top page,\nso you\ncan reach it quickly from there.\n\n[New]\nAnnouncements about new\ninformation.\n[Oni Database]\nInformation on the Oni you have\ninvestigated and defeated so far.\nAn enemy is registered when you\ndefeat it or\nexamine it.\n[Glossary]\nExplanations of technical terms.\n[Q&A]\nExplanations of various features.\nAn alert icon tells you when there\nis an important update."
  },
  {
   "id": "help:0001:04",
@@ -21,7 +21,7 @@
   "id": "help:0001:08",
   "jp": "携帯電話はSTARTボタンから使えます。\n会話中ならば押せば即座に開き、\nそれ以外ではボタンを押した先の\nキャンプ画面から選択すれば開きます。\n\n【プロフィール帳】\n　携帯に情報が登録されている人の\n　個人プロフィールを確認できます。\n　また、現在同行している仲間を\n　確認できます。\n【メール】\n　携帯に届いたメールを確認できます。\n【クエストの確認】\n　現在受注しているクエスト情報を\n　確認できます。\n【OXAS公式サイト】\n　サイトにアクセスし、各種情報を\n　閲覧できます。\n【携帯設定】\n　各種設定を変更できます。",
   "refs": 1,
-  "en": "Press START to use the cell phone. During a conversation it opens at once; at other times, choose it from the\nCamp screen that START brings up.\n\n[Profiles]\nCheck the personal profiles of the people registered in your phone. You can also check which allies are with you\nnow.\n[Mail]\nRead the mail you have received.\n[Quests]\nCheck the quests you have currently accepted.\n[OXAS Official Site]\nAccess the site to browse all kinds of information.\n[Phone Settings]\nChange various settings."
+  "en": "Press START to use the cell phone.\nDuring a conversation it opens at\nonce; at other times, choose it\nfrom the\nCamp screen that START brings up.\n\n[Profiles]\nCheck the personal profiles of the\npeople registered in your phone.\nYou can also check which allies are\nwith you\nnow.\n[Mail]\nRead the mail you have received.\n[Quests]\nCheck the quests you have currently\naccepted.\n[OXAS Official Site]\nAccess the site to browse all kinds\nof information.\n[Phone Settings]\nChange various settings."
  },
  {
   "id": "help:0002:04",
@@ -33,7 +33,7 @@
   "id": "help:0002:08",
   "jp": "メールが届くと、受信アイコンが表示されて着信メロディが流れます。\n受信アイコンの横にある数字は未読メールの件数です。\n\n着信メロディが流れている間に\nSTARTボタンを押すと、携帯が開いて\n直接メール画面を起動できます。\n\nなお、着信メロディは携帯のメニュー画面の「携帯設定」から変更できます。",
   "refs": 1,
-  "en": "When mail arrives, the incoming icon appears and the ringtone plays. The number next to the icon is how many\nunread mails you have.\n\nPress START while the ringtone is playing to open the phone straight to the Mail screen.\n\nYou can change the ringtone under \"Phone Settings\" in the phone menu."
+  "en": "When mail arrives, the incoming\nicon appears and the ringtone\nplays. The number next to the icon\nis how many\nunread mails you have.\n\nPress START while the ringtone is\nplaying to open the phone straight\nto the Mail screen.\n\nYou can change the ringtone under\n\"Phone Settings\" in the phone menu."
  },
  {
   "id": "help:0003:04",
@@ -45,7 +45,7 @@
   "id": "help:0003:08",
   "jp": "会話中には、自分の意見や感情を伝えられるタイミングがあります。\n\n具体的な意見は選択肢を選びます。\n表示される選択肢の中から、方向キー左右で好きなものを選び、○ボタンで決定します。\n",
   "refs": 1,
-  "en": "During conversations there are moments when you can share your own opinions and feelings.\n\nFor a concrete opinion, pick a choice. Select the one you like from the choices shown with Left and Right on the\nD-pad, and confirm with the Circle button."
+  "en": "During conversations there are\nmoments when you can share your own\nopinions and feelings.\n\nFor a concrete opinion, pick a\nchoice. Select the one you like\nfrom the choices shown with Left\nand Right on the\nD-pad, and confirm with the Circle\nbutton."
  },
  {
   "id": "help:0003:0c",
@@ -57,7 +57,7 @@
   "id": "help:0004:08",
   "jp": "感情入力は、表示される８つの感情の中から、方向キーで選びたい感情のある方向を押して選択します。\nこの時、方向キーを押したままにすると、より強い感情を選択することができます。\n方向キーを離すと感情が決定され、相手に伝わります。\n\nなお感情入力中にSTARTボタンを押すと、どれも選択しない＝無視することができます。\n\n選択肢や感情入力の結果により、話の流れや相手の自分に対する感情が変化します。",
   "refs": 1,
-  "en": "In Emotion Input, eight emotions are shown; press the D-pad toward the emotion you want. Holding the D-pad down\nselects a stronger version of that emotion. Release the D-pad to settle on the emotion and convey it to the\nother person.\n\nPressing START during Emotion Input lets you choose none of them, which means ignoring the person.\n\nYour choices and emotions change how the story unfolds and how the other person feels about you."
+  "en": "In Emotion Input, eight emotions\nare shown; press the D-pad toward\nthe emotion you want. Holding the\nD-pad down\nselects a stronger version of that\nemotion. Release the D-pad to\nsettle on the emotion and convey it\nto the\nother person.\n\nPressing START during Emotion Input\nlets you choose none of them, which\nmeans ignoring the person.\n\nYour choices and emotions change\nhow the story unfolds and how the\nother person feels about you."
  },
  {
   "id": "help:0005:04",
@@ -69,13 +69,13 @@
   "id": "help:0005:08",
   "jp": "ダンジョン内の移動は、方向キーによって\n行われます。\n【方向キー上】　　前に１歩進みます\n【方向キー右】　　右を向きます\n【方向キー左】　　左を向きます\n【方向キー下】　　後ろを向きます\n\nＬボタンを押しながら方向キーを押すと\n前を向いたまま移動（平行移動）を\n行うことができます。\n【Ｌボタン＋方向キー上】\n　　前に１歩進みます\n【Ｌボタン＋方向キー右】\n　　前を向いたまま右に１歩進みます\n【Ｌボタン＋方向キー左】\n　　前を向いたまま左に１歩進みます\n【Ｌボタン＋方向キー下】\n　　前を向いたまま後ろに１歩下がります\n\n×ボタンを押しながら、上記操作を行うと\n移動速度が２倍になります。",
   "refs": 1,
-  "en": "Use the D-pad to move in dungeons.\n[Up] Step forward\n[Right] Turn right\n[Left] Turn left\n[Down] Turn around\n\nHold L while pressing the D-pad to move while still facing forward (strafing).\n[L + Up]\nStep forward\n[L + Right]\nStep right while facing forward\n[L + Left]\nStep left while facing forward\n[L + Down]\nStep back while facing forward\n\nHold the Cross button while doing any of the above to move at double speed."
+  "en": "Use the D-pad to move in dungeons.\n[Up] Step forward\n[Right] Turn right\n[Left] Turn left\n[Down] Turn around\n\nHold L while pressing the D-pad to\nmove while still facing forward\n(strafing).\n[L + Up]\nStep forward\n[L + Right]\nStep right while facing forward\n[L + Left]\nStep left while facing forward\n[L + Down]\nStep back while facing forward\n\nHold the Cross button while doing\nany of the above to move at double\nspeed."
  },
  {
   "id": "help:0006:08",
   "jp": "ダンジョンにおける移動以外の行動は、\n３つのコマンドパレットを切り替える\nことで行うことができます。\n\nコマンドパレットを切り替えるには\nＲボタンを押します。",
   "refs": 1,
-  "en": "All actions in dungeons other than moving are done by switching between three command palettes.\n\nPress R to switch command palettes."
+  "en": "All actions in dungeons other than\nmoving are done by switching\nbetween three command palettes.\n\nPress R to switch command palettes."
  },
  {
   "id": "help:0007:04",
@@ -87,7 +87,7 @@
   "id": "help:0007:08",
   "jp": "方向キーの左右を押すことで、進行方向を\n変えることができます。\nダンジョンを進む際、何か重要なものを\n見つける場合もありますので、時々方向を\n変えて、配置物などを確認してください。\n\n尚、画面右上に表示されるダンジョンの\nマップは、常に北を指しています。\nマップ内の現在位置を表すマーカーが\n指し示している方向が、現在画面上で\n向いている方向になります。",
   "refs": 1,
-  "en": "Press Left or Right on the D-pad to change the direction you are facing. You may find something important as you\nexplore a dungeon, so turn now and then to check the objects around you.\n\nThe dungeon map shown at the top right of the screen always points north. The direction the marker for your\ncurrent position points is the direction you are facing on screen."
+  "en": "Press Left or Right on the D-pad to\nchange the direction you are\nfacing. You may find something\nimportant as you\nexplore a dungeon, so turn now and\nthen to check the objects around\nyou.\n\nThe dungeon map shown at the top\nright of the screen always points\nnorth. The direction the marker for\nyour\ncurrent position points is the\ndirection you are facing on screen."
  },
  {
   "id": "help:0008:04",
@@ -99,7 +99,7 @@
   "id": "help:0008:08",
   "jp": "正面に存在する扉や仕掛け、\n物品などを探索するには、\nＲボタンを押して、コマンドパレットを\n青色のものにする必要があります。\n\nその上でパレットのガイドに従い、\n各ボタンを押すことで様々な反応を\n見ることができます。\n\n【○ボタン】　　扉などを開ける\n【△ボタン】　　ジャンプする\n【□ボタン】　　対象物を調べる\n\nまた、正面にある対象によって○ボタンの\n反応が変化することがあります。対象から\nアイテムを入手する場合もあります。\n\n探索の対象を変更したい場合は、\n方向キーを押すことで\n変更できます。",
   "refs": 1,
-  "en": "To explore doors, mechanisms, items and so on in front of you, press R to switch to the blue command palette.\n\nThen follow the palette's guide and press each button to see various reactions.\n\n[Circle] Open doors, etc.\n[Triangle] Jump\n[Square] Examine an object\n\nWhat the Circle button does may also change depending on what is in front of you. You may get items from\nobjects.\n\nTo change what you are exploring, press the D-pad."
+  "en": "To explore doors, mechanisms, items\nand so on in front of you, press R\nto switch to the blue command\npalette.\n\nThen follow the palette's guide and\npress each button to see various\nreactions.\n\n[Circle] Open doors, etc.\n[Triangle] Jump\n[Square] Examine an object\n\nWhat the Circle button does may\nalso change depending on what is in\nfront of you. You may get items\nfrom\nobjects.\n\nTo change what you are exploring,\npress the D-pad."
  },
  {
   "id": "help:0009:04",
@@ -111,7 +111,7 @@
   "id": "help:0009:08",
   "jp": "扉やダンジョン内の仕掛けを解除する\nために、アイテムを使う場合があります。\n\n仕掛けに対してアイテムを使用する場合、\nＲボタンを押してコマンドパレットを\n青色のものにします。\n\nガイドに従って○ボタンを押すと、\nアイテムリストに画面が遷移します。\nリストからアイテムを選んで、○ボタンで\n決定すれば、対象にアイテムを使用することができます。",
   "refs": 1,
-  "en": "Sometimes you need an item to unlock a door or a mechanism in a dungeon.\n\nTo use an item on a mechanism, press R to switch to the blue command palette.\n\nFollow the guide and press Circle to switch to the item list. Select an item from the list and confirm with\nCircle to use it on the target."
+  "en": "Sometimes you need an item to\nunlock a door or a mechanism in a\ndungeon.\n\nTo use an item on a mechanism,\npress R to switch to the blue\ncommand palette.\n\nFollow the guide and press Circle\nto switch to the item list. Select\nan item from the list and confirm\nwith\nCircle to use it on the target."
  },
  {
   "id": "help:0010:04",
@@ -123,7 +123,7 @@
   "id": "help:0010:08",
   "jp": "ダンジョン内には、「セーブポイント」\nとなるモニュメントが設置されている\n場所があります。\nモニュメントを調べることで、\n「セーブ・ロード」\nを行うことができます。\n\nまた、一部のモニュメントには、\n特殊なプレートが設定されており\n乗ることでＨＰが最大値まで回復し、\n状態異常も解除されます。",
   "refs": 1,
-  "en": "Dungeons contain places with monuments that serve as \"save points\". Examine a monument to \"Save/Load\".\n\nSome monuments also have a special plate; stepping on it restores your HP to full and cures status ailments."
+  "en": "Dungeons contain places with\nmonuments that serve as \"save\npoints\". Examine a monument to\n\"Save/Load\".\n\nSome monuments also have a special\nplate; stepping on it restores your\nHP to full and cures status\nailments."
  },
  {
   "id": "help:0011:04",
@@ -135,7 +135,7 @@
   "id": "help:0011:08",
   "jp": "秘法眼は、通常では見えない扉や敵などを\n「視る」ことができる能力です。\n秘法眼を使うためには、Ｒボタンを押して\nコマンドパレットを緑色のものにします。\n\nガイドに従って△ボタンを押すと、\n秘法眼が使用状態になります。\n\n秘法眼は一度使用すると、それを\n解除するか秘法眼ゲージが０になるまで\n使用を続けます。",
   "refs": 1,
-  "en": "The Arcane Eye is a power that lets you \"see\" doors, enemies and other things normally invisible. To use the\nArcane Eye, press R to switch to the green command palette.\n\nFollow the guide and press Triangle to activate the Arcane Eye.\n\nOnce activated, the Arcane Eye stays in use until you cancel it or the Arcane Eye gauge reaches 0."
+  "en": "The Arcane Eye is a power that lets\nyou \"see\" doors, enemies and other\nthings normally invisible. To use\nthe\nArcane Eye, press R to switch to\nthe green command palette.\n\nFollow the guide and press Triangle\nto activate the Arcane Eye.\n\nOnce activated, the Arcane Eye\nstays in use until you cancel it or\nthe Arcane Eye gauge reaches 0."
  },
  {
   "id": "help:0011:0c",
@@ -153,7 +153,7 @@
   "id": "help:0012:08",
   "jp": "任意にアイテムを使用するには、\nＳＴＡＲＴボタンを押して\nキャンプ画面を表示させます。\n\n消費アイテムを使用したり調合をする\n場合には、「アイテム」を選択します。\nリスト上でアイテムを選択して、\n「使用する」か「調合」かを決定します。",
   "refs": 1,
-  "en": "To use an item whenever you like, press START to bring up the Camp screen.\n\nTo use a consumable item or mix items, choose \"Items\". Select an item in the list, then choose \"Use\" or \"Mix\"."
+  "en": "To use an item whenever you like,\npress START to bring up the Camp\nscreen.\n\nTo use a consumable item or mix\nitems, choose \"Items\". Select an\nitem in the list, then choose \"Use\"\nor \"Mix\"."
  },
  {
   "id": "help:0013:04",
@@ -165,7 +165,7 @@
   "id": "help:0013:08",
   "jp": "一部のアイテムは「調合」を行うことで、\n新しいアイテムに変えることができます。",
   "refs": 1,
-  "en": "Some items can be turned into new items by \"mixing\" them."
+  "en": "Some items can be turned into new\nitems by \"mixing\" them."
  },
  {
   "id": "help:0013:0c",
@@ -183,7 +183,7 @@
   "id": "help:0014:08",
   "jp": "特定の位置に入ったり、スイッチを押す、\nイベントなどで敵が出現すると\n戦闘が開始されます。\n\n戦闘中は自分のターン（人の手番）\nと敵のターン（隠人または相手の手番）\nが交互に行われます。\n自分のHPがゼロになるとゲームオーバー、\n敵が全滅すれば戦闘終了となります。\n\n自分のターンはＳＥＬＥＣＴボタンを押すことで、いつでも終えることができます。\n次に敵のターンが始まり、\n全ての敵が行動し終わると、\n自分のターンが再び始まります。\n\n【１ターンの流れ】\n１．自ターン開始\n２．自ターン終了\n３．敵ターン開始\n４．敵ターン終了\n５．１に戻る（１ターン経過） ",
   "refs": 1,
-  "en": "A battle begins when enemies appear because you entered a certain spot, pressed a switch, triggered an event and\nso on.\n\nIn battle, your turn (the humans' move) and the enemy turn (the Oni's or opponent's move) alternate. If your HP\nreaches zero the game is over; wipe out the enemies to end the battle.\n\nYou can end your turn at any time with SELECT. Then the enemy turn begins, and once every enemy has acted, your\nturn begins again.\n\n[Flow of One Turn]\n1. Your turn begins\n2. Your turn ends\n3. Enemy turn begins\n4. Enemy turn ends\n5. Back to 1 (one turn passes)"
+  "en": "A battle begins when enemies appear\nbecause you entered a certain spot,\npressed a switch, triggered an\nevent and\nso on.\n\nIn battle, your turn (the humans'\nmove) and the enemy turn (the Oni's\nor opponent's move) alternate. If\nyour HP\nreaches zero the game is over; wipe\nout the enemies to end the battle.\n\nYou can end your turn at any time\nwith SELECT. Then the enemy turn\nbegins, and once every enemy has\nacted, your\nturn begins again.\n\n[Flow of One Turn]\n1. Your turn begins\n2. Your turn ends\n3. Enemy turn begins\n4. Enemy turn ends\n5. Back to 1 (one turn passes)"
  },
  {
   "id": "help:0015:04",
@@ -195,13 +195,13 @@
   "id": "help:0015:08",
   "jp": "自分のターン中は、行動するたびにＡＰを\n消費します。\nＡＰが無くなると移動や攻撃ができなくなります。自分のターンが終了するとＡＰは自動的に全回復します。\n\n主な行動にかかるAPは以下の通りです。\n\n・攻撃する　　　　武器ごとに設定\n・移動する　　　　ＡＰ５（１歩）\n・旋回する　　　　ＡＰ５（半回転）\n・ジャンプ　　　　ＡＰ４０（１回）\n・アイテム使用　　ＡＰ１０\n・装備変更　　　　ＡＰ３０\n・梯子を登る　　　ＡＰ１０\n・扉を開ける　　　ＡＰ３５\n・調べる、その他　ＡＰ５\n\nなお、これらの消費ＡＰ量は、\n花札の効果や状態異常、ステータスで\n変化する場合があります。\nまた、秘法眼、札配置、札強化、仲間スキルは使用してもＡＰを消費しません。\n\n戦闘中はＡＰが最大の状態で\nターンを終了することでＡＰの１０％分\n秘法眼ゲージを回復することができます。",
   "refs": 1,
-  "en": "On your turn, every action uses AP. Without AP you can't move or attack. AP refills fully when your turn ends.\n\nAP costs of the main actions:\n\n- Attack: set per weapon\n- Move: 5 AP (1 step)\n- Turn: 5 AP (half turn)\n- Jump: 40 AP (once)\n- Use item: 10 AP\n- Change gear: 30 AP\n- Climb ladder: 10 AP\n- Open door: 35 AP\n- Examine, etc.: 5 AP\n\nThese AP costs can change with hanafuda effects, status ailments and stats. The Arcane Eye, placing cards, Card\nEnhance and partner skills use no AP.\n\nIn battle, ending your turn with full AP restores Arcane Eye gauge equal to 10% of your AP."
+  "en": "On your turn, every action uses AP.\nWithout AP you can't move or\nattack. AP refills fully when your\nturn ends.\n\nAP costs of the main actions:\n\n- Attack: set per weapon\n- Move: 5 AP (1 step)\n- Turn: 5 AP (half turn)\n- Jump: 40 AP (once)\n- Use item: 10 AP\n- Change gear: 30 AP\n- Climb ladder: 10 AP\n- Open door: 35 AP\n- Examine, etc.: 5 AP\n\nThese AP costs can change with\nhanafuda effects, status ailments\nand stats. The Arcane Eye, placing\ncards, Card\nEnhance and partner skills use no\nAP.\n\nIn battle, ending your turn with\nfull AP restores Arcane Eye gauge\nequal to 10% of your AP."
  },
  {
   "id": "help:0016:08",
   "jp": "\n戦闘中のみＡＰが最大の状態で\nターンを終了することでＡＰの１０％分\n秘法眼ゲージを回復することができます。",
   "refs": 1,
-  "en": "Only in battle: ending your turn with full AP restores Arcane Eye gauge equal to 10% of your AP."
+  "en": "Only in battle: ending your turn\nwith full AP restores Arcane Eye\ngauge equal to 10% of your AP."
  },
  {
   "id": "help:0017:04",
@@ -213,7 +213,7 @@
   "id": "help:0017:08",
   "jp": "武器アイテムには全て、使った時に攻撃が\n当たる範囲が設定されています。\nこれらは武器の種類によって形が違います。",
   "refs": 1,
-  "en": "Every weapon item has a set range its attacks hit when used. The shape of this range differs by weapon type."
+  "en": "Every weapon item has a set range\nits attacks hit when used. The\nshape of this range differs by\nweapon type."
  },
  {
   "id": "help:0018:04",
@@ -225,7 +225,7 @@
   "id": "help:0018:08",
   "jp": "近接攻撃を行うには、コマンドパレット\nを赤色のものにして、近接攻撃用の\n武器を装備しているボタンを押します。\n攻撃範囲に敵がいる場合、敵のＨＰが\n表示されます。\n\nその状態でもう一度武器が装備されている\nボタンを押すと、攻撃が実行されます。\n武器の攻撃範囲に敵がいない場合は、\n敵に向かって移動を行ってください。\n\n攻撃を行うとＡＰが一定値消費されます。\nコマンドパレットの武器の横に表示されている数字が、その武器の消費ＡＰです。",
   "refs": 1,
-  "en": "To make a melee attack, switch to the red command palette and press the button your melee weapon is equipped to.\nIf an enemy is within attack range, its HP is shown.\n\nPress the weapon's button again in that state to carry out the attack. If no enemy is within the weapon's range,\nmove toward the enemy.\n\nAttacking uses a set amount of AP. The number shown next to a weapon on the command palette is that weapon's AP\ncost."
+  "en": "To make a melee attack, switch to\nthe red command palette and press\nthe button your melee weapon is\nequipped to.\nIf an enemy is within attack range,\nits HP is shown.\n\nPress the weapon's button again in\nthat state to carry out the attack.\nIf no enemy is within the weapon's\nrange,\nmove toward the enemy.\n\nAttacking uses a set amount of AP.\nThe number shown next to a weapon\non the command palette is that\nweapon's AP\ncost."
  },
  {
   "id": "help:0019:04",
@@ -237,7 +237,7 @@
   "id": "help:0019:08",
   "jp": "遠距離攻撃を行うには、コマンドパレット\nを赤色のものにして、遠距離攻撃用の\n武器を装備しているボタンを押します。\n画面に照準カーソルが現れるので、\nアナログパッドを動かすことで位置を\n調整し、敵に照準を合わせます。\n\n照準カーソルを合わせた敵が\n武器の攻撃範囲にいれば、敵のＨＰが\n表示され、カーソルが赤く収束します。\nその状態で、もう一度\n武器が装備されているボタンを押すと、\n遠距離攻撃が実行されます。",
   "refs": 1,
-  "en": "To make a ranged attack, switch to the red command palette and press the button your ranged weapon is equipped\nto. An aiming cursor appears on screen; move the analog pad to adjust its position and aim at an enemy.\n\nIf the enemy under the aiming cursor is within the weapon's range, its HP is shown and the cursor closes in red.\nPress the weapon's button again in that state to carry out the ranged attack."
+  "en": "To make a ranged attack, switch to\nthe red command palette and press\nthe button your ranged weapon is\nequipped\nto. An aiming cursor appears on\nscreen; move the analog pad to\nadjust its position and aim at an\nenemy.\n\nIf the enemy under the aiming\ncursor is within the weapon's\nrange, its HP is shown and the\ncursor closes in red.\nPress the weapon's button again in\nthat state to carry out the ranged\nattack."
  },
  {
   "id": "help:0019:0c",
@@ -255,7 +255,7 @@
   "id": "help:0020:08",
   "jp": "敵には必ず弱点があります。\n弱点は、敵の身体のどこか一部に\n存在しており、そこを攻撃することで\n敵の弱点ＨＰを減らすことができます。",
   "refs": 1,
-  "en": "Every enemy has a weak point somewhere on its body. Attacking it reduces the enemy's weak-point HP."
+  "en": "Every enemy has a weak point\nsomewhere on its body. Attacking it\nreduces the enemy's weak-point HP."
  },
  {
   "id": "help:0020:0c",
@@ -273,7 +273,7 @@
   "id": "help:0021:08",
   "jp": "足場のない場所でも、ジャンプで\n飛び越える事ができます。\nジャンプをするには、Ｒボタンで\nコマンドパレットを青色のものにします。\n\nガイドに従って△ボタンを押すと、\nジャンプ先の場所を\n指定するカーソルが出現します。",
   "refs": 1,
-  "en": "You can jump across places with no footing. To jump, press R to switch to the blue command palette.\n\nFollow the guide and press Triangle; a cursor appears for choosing where to land."
+  "en": "You can jump across places with no\nfooting. To jump, press R to switch\nto the blue command palette.\n\nFollow the guide and press\nTriangle; a cursor appears for\nchoosing where to land."
  },
  {
   "id": "help:0021:0c",
@@ -291,13 +291,13 @@
   "id": "help:0022:08",
   "jp": "同行している仲間キャラクターの能力を\n使うことができます。\n仲間になるキャラクターは、それぞれ\n固有の仲間スキルを持っています。\n\n仲間スキルを発動するためには、\nＲボタンでコマンドパレットを\n緑色のものにします。\n\nガイドに従って□ボタンを押すと、\nどちらの仲間スキルを使うかの選択に\nなります。使用したいスキルを持つ\nキャラクターを選択して、決定します。\n\n仲間スキルには使用回数があります。\nスキルの使用回数は、ダンジョンを\n出ることで回復させることができます。",
   "refs": 1,
-  "en": "You can use the abilities of the partners with you. Each character who joins you has a unique partner skill.\n\nTo activate a partner skill, press R to switch to the green command palette.\n\nFollow the guide and press Square to choose which partner skill to use. Select the character with the skill you\nwant and confirm.\n\nPartner skills have a limited number of uses. Their uses are restored when you leave the dungeon."
+  "en": "You can use the abilities of the\npartners with you. Each character\nwho joins you has a unique partner\nskill.\n\nTo activate a partner skill, press\nR to switch to the green command\npalette.\n\nFollow the guide and press Square\nto choose which partner skill to\nuse. Select the character with the\nskill you\nwant and confirm.\n\nPartner skills have a limited\nnumber of uses. Their uses are\nrestored when you leave the\ndungeon."
  },
  {
   "id": "help:0023:08",
   "jp": "仲間スキルは一部の近接攻撃を除き、\n範囲内に存在する視認可能な\n全ての敵に命中させることができます。",
   "refs": 1,
-  "en": "Except for some melee attacks, partner skills hit every visible enemy within range."
+  "en": "Except for some melee attacks,\npartner skills hit every visible\nenemy within range."
  },
  {
   "id": "help:0024:04",
@@ -309,7 +309,7 @@
   "id": "help:0024:08",
   "jp": "敵の攻撃やトラップなどで、\n状態異常にかかることがあります。",
   "refs": 1,
-  "en": "Enemy attacks, traps and so on can inflict status ailments."
+  "en": "Enemy attacks, traps and so on can\ninflict status ailments."
  },
  {
   "id": "help:0024:0c",
@@ -327,7 +327,7 @@
   "id": "help:0027:08",
   "jp": "こちらは敵にはかからず、\n自分だけがかかる状態異常です。",
   "refs": 1,
-  "en": "These status ailments never affect enemies, only you."
+  "en": "These status ailments never affect\nenemies, only you."
  },
  {
   "id": "help:0028:04",
@@ -339,7 +339,7 @@
   "id": "help:0028:08",
   "jp": "戦闘中、１ターン内で３体連続して\n敵を倒した場合、「封札システム」を\n発動させることができます。\n\n「封札システム」が発動すると、\n１．「秘法眼ゲージ」が回復する。\n２．現在ＡＰが最大ＡＰの上限に関係なく増加する。\n３．武器の攻撃力が上昇する。\nこの３つの効果を得ることができます。",
   "refs": 1,
-  "en": "If you defeat three enemies in a row within one turn in battle, you can trigger the \"Sealing System\".\n\nWhen the \"Sealing System\" triggers, you get these three effects:\n1. Your Arcane Eye gauge is restored.\n2. Your current AP increases, ignoring your max AP.\n3. Your weapons' attack power rises."
+  "en": "If you defeat three enemies in a\nrow within one turn in battle, you\ncan trigger the \"Sealing System\".\n\nWhen the \"Sealing System\" triggers,\nyou get these three effects:\n1. Your Arcane Eye gauge is\nrestored.\n2. Your current AP increases,\nignoring your max AP.\n3. Your weapons' attack power\nrises."
  },
  {
   "id": "help:0028:0c",
@@ -357,7 +357,7 @@
   "id": "help:0029:08",
   "jp": "ダンジョン内にある「セーブポイント」の\nモニュメントは、「セーブ・ロード」の\n他にもアイテムを入手、交換する機能が\nあります。\n\n「封具ノ器」は、ダンジョン内で\n倒した敵から得られるアイテムを入手することができます。ただし一度地上に戻ると入手していないアイテムは失われるので\n注意してください。\n「御蔵ノ器」は、探索準備画面を開き、\n自室のアイテムと携行アイテムを交換することができます。\n\nどちらの機能も、「セーブ・ロード」と\n同様に機能を司るオブジェクトを選択して\n調べることで実行できます。",
   "refs": 1,
-  "en": "Besides \"Save/Load\", the \"save point\" monuments in dungeons can also give and exchange items.\n\nThe \"Sealing Vessel\" gives you items from enemies you defeated in the dungeon. But any items you have not\ncollected are lost once you return to the surface, so be careful.\nThe \"Storehouse Vessel\" opens the expedition prep screen, where you can swap items between your room and the\nitems you carry.\n\nUse either function just like \"Save/Load\": select the object that controls it and examine it."
+  "en": "Besides \"Save/Load\", the \"save\npoint\" monuments in dungeons can\nalso give and exchange items.\n\nThe \"Sealing Vessel\" gives you\nitems from enemies you defeated in\nthe dungeon. But any items you have\nnot\ncollected are lost once you return\nto the surface, so be careful.\nThe \"Storehouse Vessel\" opens the\nexpedition prep screen, where you\ncan swap items between your room\nand the\nitems you carry.\n\nUse either function just like\n\"Save/Load\": select the object that\ncontrols it and examine it."
  },
  {
   "id": "help:0030:04",
@@ -369,13 +369,13 @@
   "id": "help:0030:08",
   "jp": "自分が持っているアイテムはすべて、\nアイテムリスト（以下自室）に\n入っています。\nその中からアイテムを取り出して、\nダンジョンに持って行く事を、\n「携行する」と呼びます。\n\n携行するアイテムは、携行品とも呼び、\n携行リストに並んでいます。\nダンジョン内では、この携行品しか\n使うことができません。\n\nアイテムはダンジョンに入る前か、\n自室へ繋がるセーブポイントでのみ、\n自室側と携行側で入れ替えることが\nできます。\n",
   "refs": 1,
-  "en": "All the items you own are kept in the item list (hereafter \"your room\"). Taking items out of it to bring into a\ndungeon is called \"carrying\" them.\n\nItems you carry are also called carried items and are lined up in the carry list. Inside a dungeon you can only\nuse these carried items.\n\nYou can swap items between your room and your carried items only before entering a dungeon, or at a save point\nlinked to your room."
+  "en": "All the items you own are kept in\nthe item list (hereafter \"your\nroom\"). Taking items out of it to\nbring into a\ndungeon is called \"carrying\" them.\n\nItems you carry are also called\ncarried items and are lined up in\nthe carry list. Inside a dungeon\nyou can only\nuse these carried items.\n\nYou can swap items between your\nroom and your carried items only\nbefore entering a dungeon, or at a\nsave point\nlinked to your room."
  },
  {
   "id": "help:0031:08",
   "jp": "携行リストには、アイテムを最大１９個\nまで入れることができます。\n\nただし、現在装備中の装備品が場所を取るため、例えば武器３つ防具１つを装備して\nいるならば、アイテムを入れられる\nのは１５個までとなります。",
   "refs": 1,
-  "en": "The carry list can hold up to 19 items.\n\nHowever, your currently equipped gear takes up space: if you have three weapons and one armor equipped, for\nexample, you can only carry up to 15 items."
+  "en": "The carry list can hold up to 19\nitems.\n\nHowever, your currently equipped\ngear takes up space: if you have\nthree weapons and one armor\nequipped, for\nexample, you can only carry up to\n15 items."
  },
  {
   "id": "help:0032:04",
@@ -387,7 +387,7 @@
   "id": "help:0032:08",
   "jp": "カミフダを使うには、コマンドパレットを\n緑色のものにする必要があります。\n\nガイドに従って○ボタンを押すと、使用\nできるカミフダのリストが展開されます。\nリストから使用したいカミフダを\n選択すると、カミフダを配置する画面に\nなります。\n\nカミフダを使用するには秘法眼ゲージを\n消費します。秘法眼ゲージが不足している\n場合、カミフダは使用できません。",
   "refs": 1,
-  "en": "To use ORDS, you need to switch to the green command palette.\n\nFollow the guide and press Circle to open the list of ORDS you can use. Select the ORDS you want from the list\nto go to the screen for placing it.\n\nUsing ORDS consumes the Arcane Eye gauge. If the gauge is too low, you can't use ORDS."
+  "en": "To use ORDS, you need to switch to\nthe green command palette.\n\nFollow the guide and press Circle\nto open the list of ORDS you can\nuse. Select the ORDS you want from\nthe list\nto go to the screen for placing it.\n\nUsing ORDS consumes the Arcane Eye\ngauge. If the gauge is too low, you\ncan't use ORDS."
  },
  {
   "id": "help:0033:04",
@@ -399,7 +399,7 @@
   "id": "help:0033:08",
   "jp": "カミフダを装備品に付加させる場合、\nＳＴＡＲＴボタンを押して\nキャンプ画面のメニューから\n「札強化」を選択します。\nカミフダの一覧が提示されるので、\n強化に使用するカミフダを決定します。\n\nカミフダで強化する間、\n秘法眼ゲージの最大値が減少します。\n秘法眼ゲージが不足している場合、\nカミフダによる強化はできません。",
   "refs": 1,
-  "en": "To attach ORDS to gear, press START and choose \"Card Enhance\" from the Camp screen menu. A list of ORDS appears;\nchoose the ORDS to enhance with.\n\nWhile gear is enhanced with ORDS, the maximum of your Arcane Eye gauge is reduced. If the gauge is too low, you\ncan't enhance with ORDS."
+  "en": "To attach ORDS to gear, press START\nand choose \"Card Enhance\" from the\nCamp screen menu. A list of ORDS\nappears;\nchoose the ORDS to enhance with.\n\nWhile gear is enhanced with ORDS,\nthe maximum of your Arcane Eye\ngauge is reduced. If the gauge is\ntoo low, you\ncan't enhance with ORDS."
  },
  {
   "id": "help:0034:04",
@@ -411,7 +411,7 @@
   "id": "help:0034:08",
   "jp": "戦闘中に敵を倒すと経験値が手に入り、\nそれが溜まるとレベルアップします。\nレベルアップすると、１レベルにつき\n能力値ボーナス　３点\n学科値ボーナス　１点\nが手に入ります。\n\nこれらのポイントを成績表で割り振ることで、主人公のステータスが向上します。\nレベルアップするだけではステータスは変化しないので注意してください。\n\nもしまだ割り振っていないボーナスポイントがある場合、以下のようなマークが表示されます。",
   "refs": 1,
-  "en": "Defeating enemies in battle earns experience; earn enough and you level up. Each level gives you:\nAttribute bonus: 3 points\nSubject bonus: 1 point\n\nAssign these points on the Report Card to raise the hero's stats. Note that leveling up alone does not change\nyour stats.\n\nIf you still have bonus points to assign, the mark below is shown."
+  "en": "Defeating enemies in battle earns\nexperience; earn enough and you\nlevel up. Each level gives you:\nAttribute bonus: 3 points\nSubject bonus: 1 point\n\nAssign these points on the Report\nCard to raise the hero's stats.\nNote that leveling up alone does\nnot change\nyour stats.\n\nIf you still have bonus points to\nassign, the mark below is shown."
  },
  {
   "id": "help:0035:04",
@@ -423,7 +423,7 @@
   "id": "help:0035:08",
   "jp": "成績表に表示されるステータスのうち、\n戦闘に直接関係するのが能力値です。\n最大値は９９です。\n値を伸ばすと以下のような効果があります。\n\n【体力】\n　最大ＨＰが増加。\n【瞬発力】\n　武器によるダメージが増加。\n【精神力】\n　最大秘法眼値が増加。\n【脚力】\n　最大ＡＰが増加。\n【判断力】\n　武器通常＆弱点ダメージが増加。",
   "refs": 1,
-  "en": "Of the stats shown on the Report Card, attributes are the ones that directly affect battle. The maximum is 99.\nRaising them has these effects:\n\n[Stamina]\nRaises max HP.\n[Reflexes]\nRaises weapon damage.\n[Willpower]\nRaises max Arcane Eye.\n[Speed]\nRaises max AP.\n[Judgment]\nRaises weapon normal & weak-point damage."
+  "en": "Of the stats shown on the Report\nCard, attributes are the ones that\ndirectly affect battle. The maximum\nis 99.\nRaising them has these effects:\n\n[Stamina]\nRaises max HP.\n[Reflexes]\nRaises weapon damage.\n[Willpower]\nRaises max Arcane Eye.\n[Speed]\nRaises max AP.\n[Judgment]\nRaises weapon normal & weak-point\ndamage."
  },
  {
   "id": "help:0036:04",
@@ -435,7 +435,7 @@
   "id": "help:0036:08",
   "jp": "成績表に表示されるステータスのうち、\nシステムに関係するのが学科値です。\n最大値は１０です。\n値を伸ばすと以下の効果があります。\n\n【国語】\n　仲間スキルレベルの算出を補正。\n【数学】\n　射撃武器の攻撃力と射程距離を補正。\n　（※射程７マス以上にはなりません）\n【外国語】\n　新しい依頼人が紹介されやすくなる。\n【体育】\n　ジャンプ・近接攻撃ＡＰ量を軽減。\n　ジャンプ飛距離が増加。\n【現代社会】\n　アイテム購入金額の割り引き補正。\n【保健】\n　自動ＨＰ回復量が増加。\n【生物】\n　状態異常にかかる確率を軽減。",
   "refs": 1,
-  "en": "Of the stats shown on the Report Card, subjects are the ones that affect game systems. The maximum is 10.\nRaising them has these effects:\n\n[Japanese]\nBoosts the partner skill level calculation.\n[Math]\nBoosts ranged weapon attack and range.\n(Range never exceeds 7 squares.)\n[Languages]\nNew clients are introduced more often.\n[P.E.]\nLowers AP for jumps and melee attacks.\nIncreases jump distance.\n[Social Studies]\nDiscount on item purchases.\n[Health]\nRaises automatic HP recovery.\n[Biology]\nLowers the chance of status ailments."
+  "en": "Of the stats shown on the Report\nCard, subjects are the ones that\naffect game systems. The maximum is\n10.\nRaising them has these effects:\n\n[Japanese]\nBoosts the partner skill level\ncalculation.\n[Math]\nBoosts ranged weapon attack and\nrange.\n(Range never exceeds 7 squares.)\n[Languages]\nNew clients are introduced more\noften.\n[P.E.]\nLowers AP for jumps and melee\nattacks.\nIncreases jump distance.\n[Social Studies]\nDiscount on item purchases.\n[Health]\nRaises automatic HP recovery.\n[Biology]\nLowers the chance of status\nailments."
  },
  {
   "id": "help:0037:04",
@@ -447,7 +447,7 @@
   "id": "help:0037:08",
   "jp": "１日の中で、午前（昼休み）と午後（放課後）にマップ上を自由に移動することができます。\n\nマップ上には入れる場所が表示されており、選択することでその場所（シーン）へ\n移動します。また、マップは階層があり、\n×ボタンで上位階層のマップへ移れます。\n\nシーン上にはキャラがいる場合があり、\n話しかけて会話することができます。\nどこに人がいるかは、マップ上のアイコンで判別できます。\nまた、お店では買い物なども行えます。\n\n自由移動はSELECTボタンで終了するか、\n次の目的地のシーンへ移動するまで続けられます。",
   "refs": 1,
-  "en": "Each day, you can move freely around the map in the morning (lunch break) and the afternoon (after school).\n\nThe map shows the places you can enter; select one to move to that place (scene). The map also has layers; press\nCross to move up to a higher-level map.\n\nCharacters may be in a scene, and you can talk to them. Icons on the map show where people are. You can also\nshop in stores.\n\nFree movement continues until you end it with SELECT or move to the scene of your next destination."
+  "en": "Each day, you can move freely\naround the map in the morning\n(lunch break) and the afternoon\n(after school).\n\nThe map shows the places you can\nenter; select one to move to that\nplace (scene). The map also has\nlayers; press\nCross to move up to a higher-level\nmap.\n\nCharacters may be in a scene, and\nyou can talk to them. Icons on the\nmap show where people are. You can\nalso\nshop in stores.\n\nFree movement continues until you\nend it with SELECT or move to the\nscene of your next destination."
  },
  {
   "id": "help:0038:04",
@@ -459,7 +459,7 @@
   "id": "help:0038:08",
   "jp": "マップ上で各場所（シーン）を選択中か、\nシーン上に入っている状態で、\n△ボタンを押すことで、そのシーン内を\n探索することができます。\n\n探索すると、アイテムを見つけることが\nできます。探索は１回の自由移動中に、\n各シーンで１度だけ行えます。\nただしダンジョンを出入りすると、\n再び探索を行う事ができます。\n\nまた、日が経過したり、学科値が上がる\nことで、新たなアイテムを見つけられる\n場合もあります。",
   "refs": 1,
-  "en": "Press Triangle while selecting a place (scene) on the map, or while inside a scene, to search that scene.\n\nSearching can turn up items. You can search each scene only once per free movement period. However, going into\nand out of a dungeon lets you search again.\n\nAs days pass or your subject scores rise, you may also find new items."
+  "en": "Press Triangle while selecting a\nplace (scene) on the map, or while\ninside a scene, to search that\nscene.\n\nSearching can turn up items. You\ncan search each scene only once per\nfree movement period. However,\ngoing into\nand out of a dungeon lets you\nsearch again.\n\nAs days pass or your subject scores\nrise, you may also find new items."
  },
  {
   "id": "help:0039:04",
@@ -471,7 +471,7 @@
   "id": "help:0039:08",
   "jp": "ダンジョン内に出現する隠人の大半は、\n特定の属性を持っています。\n\n属性は春、夏、秋、冬の４種類存在し、\n相剋関係が存在します。",
   "refs": 1,
-  "en": "Most of the Oni that appear in dungeons have a specific element.\n\nThere are four elements, Spring, Summer, Autumn and Winter, and each one overcomes another."
+  "en": "Most of the Oni that appear in\ndungeons have a specific element.\n\nThere are four elements, Spring,\nSummer, Autumn and Winter, and each\none overcomes another."
  },
  {
   "id": "help:0039:0c",
@@ -483,7 +483,7 @@
   "id": "help:0040:08",
   "jp": "武器や防具に属性がついている場合、\n属性の相性によって、得られる効果が\n大きく変わります。\n\n【武器の場合】\n　　敵より武器の属性が有利ならば、\n　　武器の属性％分ダメージ増加\n\n　　敵より武器の属性が不利ならば、\n　　武器の属性％分ダメージ減少\n\n\n【防具の場合】\n　　敵より防具の属性が有利ならば、\n　　防具の属性％分ダメージ軽減\n\n　　敵より防具の属性が不利ならば、\n　　防具の属性％分ダメージ増加",
   "refs": 1,
-  "en": "When a weapon or armor has an element, the effect you get changes greatly with elemental affinity.\n\n[Weapons]\nIf the weapon's element beats the enemy's,\ndamage rises by the weapon's element %.\n\nIf the weapon's element loses to the enemy's,\ndamage falls by the weapon's element %.\n\n\n[Armor]\nIf the armor's element beats the enemy's,\ndamage taken falls by the armor's element %.\n\nIf the armor's element loses to the enemy's,\ndamage taken rises by the armor's element %."
+  "en": "When a weapon or armor has an\nelement, the effect you get changes\ngreatly with elemental affinity.\n\n[Weapons]\nIf the weapon's element beats the\nenemy's,\ndamage rises by the weapon's\nelement %.\n\nIf the weapon's element loses to\nthe enemy's,\ndamage falls by the weapon's\nelement %.\n\n\n[Armor]\nIf the armor's element beats the\nenemy's,\ndamage taken falls by the armor's\nelement %.\n\nIf the armor's element loses to the\nenemy's,\ndamage taken rises by the armor's\nelement %."
  },
  {
   "id": "help:0041:04",
@@ -495,7 +495,7 @@
   "id": "help:0041:08",
   "jp": "一部の隠人の攻撃を受けた場合、\n強制的に防具の属性が変化します。\nこれを属性異常と呼びます。",
   "refs": 1,
-  "en": "Some Oni attacks forcibly change the element of your armor. This is called an element ailment."
+  "en": "Some Oni attacks forcibly change\nthe element of your armor. This is\ncalled an element ailment."
  },
  {
   "id": "help:0041:0c",
@@ -513,7 +513,7 @@
   "id": "help:0042:08",
   "jp": "ダンジョンへ入る時、探索準備中に\n好きな仲間キャラへ電話をかけて、\nダンジョンへ同行させることができます。",
   "refs": 1,
-  "en": "When entering a dungeon, you can call any ally you like during expedition prep and have them come along."
+  "en": "When entering a dungeon, you can\ncall any ally you like during\nexpedition prep and have them come\nalong."
  },
  {
   "id": "help:0042:0c",

@@ -162,7 +162,22 @@ def table_limit(entry):
     """(line bytes, total bytes, lines): insert.LONG_ROW/LONG_MIN rule, the one the long-build tour passed."""
     line, total, lines = table_cols()[col_key(entry)]
     total = min(total, max(16, 3 * len(entry["jp"].encode("cp932"))))
+    if col_key(entry) in TABLE_WRAP:
+        line, lines = TABLE_WRAP[col_key(entry)][1], wrapped_lines(col_key(entry))
     return min(line, total), total, lines
+
+
+@lru_cache(None)
+def wrapped_lines(key):
+    """Most lines a JP string of a TABLE_WRAP column takes once the box has wrapped it (the box scrolls)."""
+    n = TABLE_WRAP[key][0]
+    return max(sum(max(1, -(-len(s.encode("cp932")) // n)) for s in x["jp"].split("\n"))
+               for path, _, es in docs() if path.parent.name == "tables" for x in es if col_key(x) == key)
+
+
+# columns whose box wraps by itself every N bytes, mid-word in English: (box wrap, stored line max)
+# dungeon Q&A panel body: the box breaks at 38 bytes, a 37-char line touches its right edge (work/qa/warp/w6/dun_tut_qa)
+TABLE_WRAP = {"help:08": (38, 35)}
 
 
 def eboot_limit(entry):
@@ -268,7 +283,9 @@ def width_problems(entry, en):
 def encodable(char, entry=None):
     if entry is not None and form_of(entry) in ("dlg", "narr", "caption", "name") and char in NO_BREAK:
         return False
-    return " " <= char <= "~"
+    import insert
+    return " " <= char <= "~" or (char in insert.BUTTONS and entry is not None
+                                  and form_of(entry) not in ("dlg", "narr", "caption", "name", "choice"))
 # ---- end of ADAPTER ----
 
 

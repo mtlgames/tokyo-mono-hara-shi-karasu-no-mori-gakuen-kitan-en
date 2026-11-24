@@ -27,7 +27,7 @@ def main():
             cats = s.ws.call('cpu.getAllRegs')['categories']
             fpu = next(c for c in cats if c['name'] == 'FPU')
             fv = {k: struct.unpack('<f', struct.pack('<I', v))[0] for k, v in zip(fpu['registerNames'], fpu['uintValues'])}
-            print(f"f{s.frame():06d} pc={r['pc']:08x} ra={r['ra']:08x} a1={r['a1']:08x} a2={r['a2']:08x} s1={r['s1']:08x} " + ' '.join(f'{k}={fv[k]:.2f}' for k in want) + f" {cstr(s, r['a1'], 60)!r}", flush=True)
+            print(f"f{s.frame():06d} pc={r['pc']:08x} ra={r['ra']:08x} a0={r['a0']:08x} a1={r['a1']:08x} a2={r['a2']:08x} s1={r['s1']:08x} " + ' '.join(f'{k}={fv[k]:.2f}' for k in want) + f" {cstr(s, r['a1'], 60)!r}", flush=True)
     finally:
         s.close()
 
