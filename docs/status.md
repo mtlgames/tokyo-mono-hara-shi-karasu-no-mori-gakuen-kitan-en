@@ -3,6 +3,16 @@
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
 - **Phase:** 8. QA in the emulator, in progress (first visual-QA pass done: fix the findings list; phase 7 done 2026-11-24).
+- **Phase 8, worker 3 (2026-11-24):** (1) **ADV re-wrap** finding is not in the current build: replaying the tour
+  mash on e69f6e83 (`work/qa/warp/cur/field_ch01`, same timing frame for frame) shows the stored `\n` everywhere;
+  the toured 30bc8c09 carried older text. (2) **Speaker plate stuck** (ms01_00:011:35): 17-char English names
+  overflowed the speaker-id lookup's 29-byte stack buffer into saved $s0 (also the cause of the 18-char crash);
+  `engine.patch` moves the save slot (engine.md §Phase 5 findings "Speaker-id lookups"); cold boot shows ❖Hisae❖
+  (`work/qa/warp/spk`). (3) Script `--` -> ― (815C, `fontpatch.DASH`, solid dash verified `work/qa/warp/dash`);
+  script `~` keeps the font's full-width wave (`fontpatch.KEEP`), 13 dialogue lines re-wrapped for its width.
+  (4) scenes `wrap_type`/`wrap_skip` (block-11 warps of MS01_00: circle after the first line goes black, a
+  block-start limit; use `script=MS01_00` + mash instead). Build `build/karasu_en.iso` sha1 6acc09db, check green.
+  qa-findings.md ticked: re-wrap, speaker plate, both dash items; "~" pending an in-game look (dg01).
 - **Phase 8, worker 2 (2026-11-24):** (1) **Visual QA of all 20 chunks** (157 sheets, build 30bc8c09) by
   `translate-retro-game:visual-qa` agents: verdicts `work/qa/verdicts/*.tsv` (gitignored), most sheets `issue`.
   **Every distinct problem is in `docs/qa-findings.md`** (engine/layout + graphics, tick boxes). Biggest: ADV
@@ -15,7 +25,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   157 verdicts, 104 issue, 53 ok (STALE vs the new build until the re-tour).
   Note: `warp.py --tag X` reuses `work/states/X/<from>.ppst` (old code): delete the tag dir after an engine change.
 - **Phase 8, worker 1 (2026-11-24):** (1) **Graphics pipeline:** `tools/gfx.py` (gfx/<group>.tsv rows `path<TAB>png`; build writes each PNG into every GIM copy with the same original bytes, nearest colour in the original palette; `--sheet DIR` original|English pairs; helpers original/clear/glow/save(rects: fails on pixels changed outside)/write_tsv), `tools/g2d.py` (sprite cells of a .g2d), OFL fonts in `fonts/` (docs/fonts.md), `docs/graphics-brief.md`, row lists `work/gfx/<group>.txt` (gitignored; regenerate from work/survey/*.tsv cells in docs/re/graphics.md). **Pilot** `tools/gfx_title.py`: title menu New Game/Continue + subtitle "Strange Tales of / Karasu no Mori Academy", verified in game (work/qa/smoke/title_zoom.png). (2) **Choice bar:** inkbox fails on `choice` (bar 111-268, "Don't shake hands" runs to ~275): bar w = (bytes/2)*18 from SJIS char count; needs a px width (engine.md §Open .ksf, 0x089FE704). (3) Visual-QA brief `docs/visual-qa-brief.md` (standing non-bugs filled in). (4) **Graphics wave 1 merged** (4 `translate-retro-game:graphics` agents; generators `tools/gfx_<group>.py`, rows `gfx/<group>.tsv`): title 1, phone 6/6, adv_ui 4/5 (freemove:6 is the same GIM as menus' system:20; freemove:12 pins only), adv_bg 9/9, menus 19/19, quest_site 16/16, dungeon_ui 8/10, dungeon_titles 25/26 (cell 15 is art only). Build `build/karasu_en.iso` sha1 30bc8c09, smoke ok, check green. Shortened labels -> docs/polish.md §Graphics; graphics terms -> glossary.md §Graphics labels (not enforced on text). (5) Reference tour of the **original** game: `work/qa/warp/jp/<scene>/` (52 scenes, shot every 90 frames); EN tour of 30bc8c09 -> `work/qa/warp/en/`.
-- **Next (phase 8, worker 3+):** fix `docs/qa-findings.md` top down (engine items first: ADV re-wrap, HUD name,
+- **Next (phase 8, worker 4+):** fix `docs/qa-findings.md` top down (engine items first: HUD name,
   menu alignment, status/report card, map lists, help bars; then graphics via `translate-retro-game:graphics` agents),
   rebuild, re-tour (`warp.py --all --tag en`), `tools/tour_sheets.py`, `qa_gate.py todo` -> visual-QA only the
   changed sheets; then items (b)-(f) below.

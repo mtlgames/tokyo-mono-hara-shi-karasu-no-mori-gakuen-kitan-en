@@ -95,6 +95,13 @@ def patch(p: Patcher):
                             (0x089EC328, "s1", 0x27B10021), (0x089EC348, "v1", 0x27A30021),
                             (0x089EC604, "s2", 0x27B20021), (0x089EC624, "v1", 0x27A30021)):
         p.asm(addr, f"addiu ${reg}, $sp, 0xa1", [word])
+    # speaker -> character id lookups 0x089E8540 / 0x089E86A0 (caller 0x089EEAD0): strncpy(sp, name + 2, len - 4)
+    # into a 29-byte stack buffer, saved $s0 at sp+0x20. A 17-char English name (34 bytes) overwrote $s0's low half,
+    # so the caller stored the id through a bad pointer and the speaker plate stopped changing (18 chars crashed).
+    # Save $s0 in the frame's unused sp+0x48 instead: names up to 18 chars (36 bytes, to $s1 at 0x24) are safe.
+    for sw, lw in ((0x089E8544, 0x089E8640), (0x089E86A4, 0x089E879C)):
+        p.asm(sw, "sw $s0, 0x48($sp)", [0xAFB00020])
+        p.asm(lw, "lw $s0, 0x48($sp)", [0x8FB00020])
     return p.d
 
 

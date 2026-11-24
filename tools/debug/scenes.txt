@@ -48,6 +48,11 @@ trade      script=FN05_25 block=3 set=chapter=5 mash=600:- route=600 -;6 circle;
 splice1    script=MS05_00 block=167 mash=600:-
 splice2    script=MS06_01 block=143 mash=600:-
 
+# --- ADV re-wrap (qa-findings): ms01_00:011:28 "...new\ntransfer student, {pn} {pm}." typed vs skipped with circle
+# (block 11 starts with no background; circle after its first line goes black: reach span 28 with script=MS01_00 + mash)
+wrap_type  script=MS01_00 block=11 mash=900:-
+wrap_skip  script=MS01_00 block=11 mash=900:circle
+
 # --- endings: the scripts play the ending movie with the staff credits (MS11_04 bad end, MS13_03 true end)
 badend     script=MS11_04 mash=9000:circle
 trueend    script=MS13_03 mash=20000:circle

@@ -59,6 +59,13 @@ lookup 0x08A01C38 (binary search by code), 0x08A01CB0/0x08A01D88 GetGlyph(font, 
 - **Glyph clipping:** the drawer draws each glyph quad as wide as its advance; nearly every ASCII glyph has 1 px of
   outline past it (clipped, fine), sysfont18 `!` had 3 px (only its dot showed). `fontpatch.patch` widens any
   stand-in whose ink runs 2+ px past the advance (sysfont18 `!` 3 -> 5).
+- **Speaker-id lookups (found 2026-11-24, phase 8):** after each 【name】 the ADV (0x089EEAD0 / 0x089EEAF4) calls
+  0x089E8540 / 0x089E86A0: strncpy(sp, name + 2, strlen - 4) into a 29-byte stack buffer, then match it against
+  48 characters x 10 names (pointer table 0x08ADBA48, EBOOT strings; result -> ctx+0x38BD). Saved $s0 sits at
+  sp+0x20: a 17-char name (34 bytes) overwrote its low half, the caller then stored the id through a bad pointer and
+  the speaker plate stopped changing (ms01_00:011:35); 18 chars overwrote all of $s0 = the crash below. `engine.patch`
+  saves $s0 at the frame's unused sp+0x48: names up to 18 chars are now safe there (NAME_MAX stays 17). English
+  names never match the table (its strings are ASCII, speakers full-width), as before the fix: id -1.
 - **Speaker names: max 17 chars** (`insert.NAME_MAX`; 17 W = 306 px shows fine, 18 or 22 chars of any width crash
   PPSSPP when the name appears; a ~40-byte buffer holding `【name】`, not found: not the ctx+0x254 name buffer
   (161 bytes), the replace pass (161), the player-name pass 0x089EE1D8 (161) or canvas set-text 0x089F8900 (510)).

@@ -14,6 +14,8 @@ from ipk import Font  # noqa: E402
 
 FONTS = [f"app_init.pak/system/font/{n}.ipk" for n in ("advfont08", "advfont14", "sysfont18", "mobilefont")]
 SPECIAL = {" ": "　", "'": "’", '"': "”"}
+DASH = "―"  # SJIS 815C: script text "--" (a full-width dash glyph)
+KEEP = "~"  # its stand-in ～ keeps the font's own wave dash: the ASCII tilde glyph is a tiny raised dash
 
 
 def fw(c):
@@ -24,9 +26,10 @@ def fw(c):
 def to_sjis_text(t):
     """English text -> full-width stand-ins (newlines and {..} markup kept as is)."""
     out, depth = [], 0
-    for c in t:
+    for c in t.replace("--", DASH):  # two ASCII hyphens drew as "- -" with a gap: use the font's own dash
+
         depth += c == "{"
-        out.append(c if depth or c == "\n" or not (" " <= c <= "~") else fw(c))
+        out.append(c if depth or c in "\n" + DASH or not (" " <= c <= "~") else fw(c))
         depth -= c == "}"
     return "".join(out)
 
@@ -41,7 +44,7 @@ def patch(data):
     f = Font(data)
     for c in range(0x20, 0x7F):
         k, k2 = f.codes.get(c), f.codes.get(code(fw(chr(c))))
-        if k is not None and k2 is not None:
+        if k is not None and k2 is not None and chr(c) not in KEEP:
             g = f.glyph(k)
             w, h = f.metrics(k)
             # the drawer clips each glyph to its advance; most glyphs lose 1 px (outline), sysfont18 '!' lost 3
@@ -55,4 +58,5 @@ if __name__ == "__main__":
     for c in map(chr, range(0x20, 0x7F)):
         assert len(fw(c).encode("cp932")) == 2, c
     assert to_sjis_text("It's {px}!\nOK") == "Ｉｔ’ｓ　{px}！\nＯＫ"
+    assert to_sjis_text("so--{pn}-") == "ｓｏ―{pn}－"
     print("ok")

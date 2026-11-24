@@ -118,7 +118,7 @@ def var_px():
 
 
 def raw_px(s):
-    return sum(widths().get(ord(c), 18) for c in s)
+    return sum(widths().get(ord(c), 18) for c in s.replace("--", "―"))  # fontpatch.DASH, 18 px
 
 
 def px(s):
