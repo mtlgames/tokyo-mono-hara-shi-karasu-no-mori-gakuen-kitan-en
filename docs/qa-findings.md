@@ -243,7 +243,7 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   tools/debug/stress_names.tsv --out build/karasu_names.iso` (defaults = WWWWW) instead.
 
 ## Worker 17: re-tour of d6101372 (verdicts work/qa/verdicts/chunk_0c56a2b13473_*.tsv, visual-qa agents)
-- [ ] **Dialogue unreadable over bright backgrounds** (chunk 002: field_ch01 f003250/f003340 sky, f006910/f007030
+- [x] (worker 18) **Dialogue unreadable over bright backgrounds** (chunk 002: field_ch01 f003250/f003340 sky, f006910/f007030
   CG, f013330/f013420 window, f017320/f017410 classroom windows: "boxed lunches", "the cafeteria" vanish;
   work/qa/vqa_scratch/002/s33t2.png; chunk 026: edmovie1 f002860/f002890 "changed a great deal" over white crow
   wings; chunk 027 edmovie1 f012820 pale palm; chunk 028 edmovie1 sheets 4-9: line 2's end over Mao's white hair,
@@ -251,23 +251,40 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   left gradient (adv_talk / adv_emotion2, x 0-150) was sized for the vertical JP column. g2d.py on adv_talk.g2d finds
   no 150-px quad (drawn by code or another g2d). Fix: a dark band behind the three lines (stretch the gradient quad
   to x 0-480, y 0-~90, or draw a shadow pass in the text drawer 0x08816988).
-- [ ] **Save/Load diamonds** (chunk 007, saveload f000298): "Save"/"Load" sit small and left of each diamond's
+- [x] (worker 18) **Save/Load diamonds** (chunk 007, saveload f000298): "Save"/"Load" sit small and left of each diamond's
   centre (Save x~118 vs centre ~145, Load ~313 vs ~335); JP セーブ/ロード are larger and centred. Cause: the
   English word is squeezed into the first 24 px cell (gfx_menus.ui_saveload01) because ー is shared by both words.
   g2d.py on saveload.g2d lists only the 0,0,24,24 cell; find the ー/ブ/ロ/ド quads, then repoint (gfx.LAYOUT) the
   word's quads to one wider free cell per word, or split the word image across its cells.
-- [ ] Stress names (chunk 030, stress_names f000344): status page name "WWWWW WWWWWW" runs ~35 px past its name box
+- [x] (worker 18) Stress names (chunk 030, stress_names f000344): status page name "WWWWW WWWWWW" runs ~35 px past its name box
   into the divider (worker 16 called it a fit: re-check the zoom work/qa/vqa_scratch/030/). Fix idea: cap the
   status_name FULLNAME stub width or drop to the surname-less form past N px.
-- [ ] Menu money plate at 9,999,999 (chunk 030, stress_names f000506/f000720): the "n" of "yen" overlaps the
+- [x] (worker 18) Menu money plate at 9,999,999 (chunk 030, stress_names f000506/f000720): the "n" of "yen" overlaps the
   plate's right arrow tip (JP 円 fits). Shorter unit glyph/format or move the money x left.
-- [ ] Name entry mode tabs (chunk 022, name_entry f003880-f004330, vqa_scratch/022/ne_mode.png): Hira/Kata/ABC
+- [x] (worker 18) Name entry mode tabs (chunk 022, name_entry f003880-f004330, vqa_scratch/022/ne_mode.png): Hira/Kata/ABC
   flush left (engine.NAME_TAB_X 7), "Hira" touches the selected tab's left border; JP centres them. Centre each
   label by its width instead of one fixed x.
-- [ ] Item details weapon line with a 4-digit attack (chunk 029, stress_list f000362, vqa_scratch/029/sl_atk.png):
+- [x] (worker 18) Item details weapon line with a 4-digit attack (chunk 029, stress_list f000362, vqa_scratch/029/sl_atk.png):
   "Attack3150 AP Cost 60", k touches 3. Same mechanism as Defense (value at label x0 + fixed dx, eboot:2b5148
   drawn near 0x089B2xxx): move the attack value dx right like engine.defense_value.
-- [ ] Report card right column (chunk 029, report_card f000096, vqa_scratch/029/rc_z.png): "Go-Home Club" b touches
+- [x] (worker 18) Report card right column (chunk 029, report_card f000096, vqa_scratch/029/rc_z.png): "Go-Home Club" b touches
   the right frame, "Club"/"Tutor" touch the left frame. Shorter values or a smaller x.
 - [x] School-map room list "Council Room" starts ~4 px left of the others (x 380 vs 384) to fit the panel: accepted
   (inside the panel, not clipped; chunks 003/004 verdicts overridden to ok).
+
+## Worker 18: fixes for the worker-17 items (build da6c9f9e, cold-boot warps work/qa/warp/w18/, tag w18)
+All seven open worker-17 items above are fixed; each checked in a cold-boot warp on da6c9f9e:
+- [x] Readability: `engine.shadow` draws ADV text (name, lines, captions) in black at (1,0) (0,1) (1,1) before the
+  real draw (engine.md). field_ch01 "boxed lunches"/"cafeteria" over the windows, edmovie1 f002860 "changed a great
+  deal" over the wings and f006040 "Card Sealer" over white hair all read. polish.md line 9 ticked.
+- [x] Save/Load diamonds: gfx.LAYOUT repoints each word's first quad to a whole-word strip (ui_saveload01 56,88 /
+  0,112, Impact 17), the other two quads to a transparent pixel; saveload f000298 centred in both diamonds.
+- [x] Stress name: FULLNAME stub measures the name (sysfont18 table); over 145 px it shows the given name alone
+  (stress_names f000344 "WWWWW"); "Kazuki Shichidai" (143 px) stays whole (report_card_report final).
+- [x] Money plate: number x 140 -> 133, "yen" 150 -> 143 (engine.money_plate): clear of the arrow tip. At the max
+  9,999,999 the first 9 touches the plate's fixed colon (stress_items f000096; normal amounts have room): accepted.
+- [x] Name tabs centred by width (right_align stub, centre 24): Hira x 9, Kata/ABC x 8 (name_entry f003880).
+- [x] Attack line: value x0 + 42 -> + 50, "AP Cost" moved right by label spaces, AP value + 154 (both copies of
+  the draw; the second Defense copy 0x089B2494 was also still at + 42): stress_list f000362 "Attack 3150  AP Cost 60".
+- [x] Report card: Club value field 373 -> 364 (x 360-466 for Go-Home Club), Club/Teacher labels back at 323; the
+  shown-character teacher value 381 -> 377 like the player's.

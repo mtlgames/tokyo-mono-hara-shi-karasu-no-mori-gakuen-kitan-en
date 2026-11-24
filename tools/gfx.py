@@ -26,12 +26,23 @@ from PIL import Image  # noqa: E402
 GFX = ROOT / "gfx"
 
 # Sprite-layout byte patches (path, offset, original hex, new hex, why): for words the game builds from repeated cells.
+SAVELOAD = "system/saveload.pak/system/saveload.g2d"
 LAYOUT = [
     # ゲーム|オ|ー|バ|ー banner (dungeon.g2d sprite of 4 quads, uv = 4 int16 at +8): the 2nd and 4th quads reuse the ー
     # cell; point them at two free 32x32 cells of dungeon08 so "GAME OVER" can run across all 7 (gfx_dungeon_ui).
     ("dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon.g2d", 0x8B38, "800060009f007f00", "c000c000df00df00", "game over"),
     ("dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon.g2d", 0x8B78, "800060009f007f00", "e000c000ff00df00", "game over"),
+    # Save/Load diamonds: セ|ー|ブ and ロ|ー|ド quads (x0,y0,x1,y1,u0,v0,u1,v1, inclusive) share the ー cell and the
+    # vertical title's cells, so "Save"/"Load" were squeezed into the first cell. The first quad of each word now spans
+    # the whole word from a free strip of ui_saveload01 (gfx_menus.ui_saveload01), the other two draw a transparent px.
+    (SAVELOAD, 0x63C, "040005001b001c000000000017001700", "0400090049001800380058007d006700", "save"),
+    (SAVELOAD, 0x65C, "1b000d0032001400080018001f001f00", "00000000000000007f006f007f006f00", "save"),
+    (SAVELOAD, 0x67C, "3200050049001c00180000002f001700", "00000000000000007f006f007f006f00", "save"),
+    (SAVELOAD, 0x6C0, "06000a001d001900080020001f002f00", "06000900470018000000700041007f00", "load"),
+    (SAVELOAD, 0x6E0, "1d000d0034001400080018001f001f00", "00000000000000007f006f007f006f00", "load"),
+    (SAVELOAD, 0x700, "3800050047001c00300000003f001700", "00000000000000007f006f007f006f00", "load"),
 ]
+SAVE_STRIP, LOAD_STRIP = (56, 88, 70, 16), (0, 112, 66, 16)  # atlas rects of the two words (quads above)
 
 
 def layout_edits():

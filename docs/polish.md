@@ -6,7 +6,7 @@
 - [ ] 浸食 "erosion" vs "Corrosion" in enemy texts: pick one
 - [ ] dictionary:0139:04 / 0151:04 historical names without "no" (field width): engine or accept
 - [ ] buddymes:* - no speaker column; voices guessed from markers: per-partner voice review
-- [ ] Readability: location captions / dialogue over bright backgrounds (ch08 f002020 corridor light, ch03 yellow sign, field_ch01 windows). Widen or darken the left gradient (adv/talk, engine.md §Open), or draw a 1 px shadow pass. Legible today.
+- [x] Readability: location captions / dialogue over bright backgrounds (ch08 f002020 corridor light, ch03 yellow sign, field_ch01 windows). Worker 18: `engine.shadow` (3-pass black drop shadow under all ADV canvas text), qa-findings §Worker 18.
 - [ ] Name entry: kana appended after the default "Shichidai" go in fixed 16 px cells past the field (w12/name_entry). Typing your own English name after clearing it works (w13/name_type). Fix: shorter default or cell x from drawn width.
 
 <!-- g001 -->

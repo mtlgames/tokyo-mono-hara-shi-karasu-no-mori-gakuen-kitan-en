@@ -273,6 +273,10 @@ def ui_saveload01():
     for cell in [(0, 24, 8, 24), (8, 24, 24, 8), (24, 0, 24, 24), (48, 0, 16, 24)]:         # ー ー ブ ド
         a.put(cell, "")
     a.put((8, 32, 24, 16), "Load", "impact", 12)                                            # ロ
+    # the diamonds draw each word from one free strip (gfx.LAYOUT repoints their quads); the cells above stay for the
+    # vertical セーブ・ロード title
+    a.put(gfx.SAVE_STRIP, "Save", "impact", 17, align="c")
+    a.put(gfx.LOAD_STRIP, "Load", "impact", 17, align="c")
     # はじめから = one 80x24 cell, but から (48,64,32,24) is also the tail of つづきから: keep x 48.. blank
     a.put((0, 64, 48, 24), "New\nGame", size=11, align="c", spacing=-2)
     a.put((48, 64, 32, 24), "")

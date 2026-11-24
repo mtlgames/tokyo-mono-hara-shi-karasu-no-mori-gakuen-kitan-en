@@ -22,7 +22,7 @@ CAP_TEXT = (0.0, 32.0)    # location caption text (original 368, 32); insert.py 
 CHOICE_PITCH = 20.0       # px between .ksf choice rows (original: columns 32 px apart)
 CHOICE_BAR_DY = 3         # choice cursor bar y on row 0 = rows' y0 (89 in a dialogue choice) + 3; fill y-6..y+h+6
 CHOICE_BAR_H = 10.0
-NAME_TAB_X = 7.0
+NAME_TAB_CENTRE = 24  # Hira (30 px) at x 9, Kata/ABC (32) at 8: ink 2 px clear of the borders (f003880 name_entry)
 
 
 def hi(f):
@@ -88,9 +88,9 @@ def patch(p: Patcher):
           [0x3C0142E8, 0x44811000, 0x90420000 | 0x39EC, 0x8C640000 | 0xA8, 0x03A02821, 0x44820800, 0x46800820,
            0x3C01C200, 0x44810800, 0x46010002, 0x46020000])
     p.asm(0x089F0A4C, "swc1 $f0, 4($sp)", [0xE7A00000])
-    # name entry mode tabs (Hira/Kata/ABC, eboot 2b1518..): drawn at x 10.0 (0x0883A500), the unselected tab is ~31 px
-    # wide from x 9, so "Kata"/"ABC" (32 px) lost their last letter: x NAME_TAB_X
-    p.asm(0x0883A500, f"lui $at, {hi(NAME_TAB_X):#x}", [0x3C014120])
+    # name entry mode tabs (Hira/Kata/ABC, eboot 2b1518..): drawn at x 10.0 (0x0883A500), tabs inside x 8-39, so
+    # "Kata"/"ABC" (32 px) lost their last letter and a fixed x left "Hira" on the selected tab's border: centred
+    right_align(p, 0x0883A508, NAME_TAB_CENTRE, centre=True)
     # phone Profile Book submenu labels (Locked/Profile/Report Card) at x 294.0: "Report Card" touched the bezel (~374)
     for site in (0x0893D38C, 0x0893D5E4, 0x0893D660, 0x0893D6C8):
         p.asm(site, f"lui $at, {hi(290.0):#x}", [0x3C014393])
@@ -100,10 +100,12 @@ def patch(p: Patcher):
     choice_bar_px(p)
     menu_right(p)
     hud_name(p)
+    shadow(p)
     status_labels(p)
     status_name(p)
     ticker(p)
     defense_value(p)
+    money_plate(p)
     phone_settings(p)
     help_bars(p)
     # choice keys: LEFT (0x80) = next, RIGHT (0x20) = previous -> DOWN (0x40), UP (0x10)
@@ -225,7 +227,7 @@ one:
     lbu $t5, {tbl}($t5)
     addu $t2, $t2, $t5
     b ch
-done:
+done:{half}
     ori $t6, $zero, {right}
     subu $t2, $t6, $t2{keep}
     mtc1 $t2, $f12
@@ -259,9 +261,9 @@ def jal_to(p, site, target, va, op=0x0C000000):
     p.log.append((o, old, new, f"{site:08x} jal stub (vaddr {va:x})"))
 
 
-def right_align(p, site, right, keep=False):
+def right_align(p, site, right, keep=False, centre=False):
     """Stub (code + advfont14 width table, 0x200 bytes in the added segment) for the DRAW_TEXT call at `site`:
-    f12 = right - width, or with keep min(f12, right - width)."""
+    f12 = right - width, or with keep min(f12, right - width); with centre f12 = right - width / 2."""
     import eboot
     import insert
     w = insert.font_widths("advfont14")
@@ -271,7 +273,7 @@ def right_align(p, site, right, keep=False):
     here = eboot.LOAD + va + 12
     delta = (DRAW_TEXT - here) & 0xFFFFFFFF
     src = PXRIGHT.format(tbl=0x100 - 12, dhi=delta >> 16, dlo=delta & 0xFFFF, right=right,
-                         keep=KEEP_X if keep else "")
+                         keep=KEEP_X if keep else "", half="\n    srl $t2, $t2, 1" if centre else "")
     code = bytes(p.ks.asm(src, eboot.LOAD + va)[0])
     assert len(code) <= 0x100, len(code)
     p.d[off:off + len(code)] = code
@@ -365,6 +367,10 @@ SURNAME, GIVEN, SPRINTF = 0x089D3AB8, 0x089D3A84, 0x08A82800
 NAME_X = 80
 REPORT_NAME_X = 324  # report card Name row, "Name" label off screen (box inside x ~319-471)
 OFFSCREEN = 600
+# A whole name wider than NAME_MAX_PX (sysfont18) ran out of both boxes ("WWWWW WWWWW" 189 px; status box x 80-~231,
+# report card 324-469): the stub then returns the given name alone. "Kazuki Shichidai" is 143 px.
+NAME_MAX_PX = 145
+NAME_CELL = 18
 FULLNAME = """
     move $t8, $ra
     bal here
@@ -387,13 +393,45 @@ here:
     jalr $t5
     move $a2, $v0
     move $a3, $s1
+    move $s1, $v0
     addiu $a0, $s0, {buf}
     addiu $a1, $s0, {fmt}
     lui $t5, {spr_hi}
     ori $t5, $t5, {spr_lo}
     addu $t5, $s0, $t5
     jalr $t5
+    addiu $t0, $s0, {buf}
+    move $t2, $zero
+ch:
+    lbu $t4, 0($t0)
+    beq $t4, $zero, done
+    addiu $t0, $t0, 1
+    sltiu $t6, $t4, 0x80
+    beq $t6, $zero, sjis
+    addu $t5, $s0, $t4
+    lbu $t5, {t1}($t5)
+    b add
+sjis:
+    addiu $t3, $t4, -0x81
+    sltiu $t3, $t3, 2
+    beq $t3, $zero, other
+    lbu $t6, 0($t0)
+    sll $t4, $t4, 8
+    addu $t5, $s0, $t4
+    addu $t5, $t5, $t6
+    lbu $t5, {t81}($t5)
+    b skip
+other:
+    addiu $t5, $zero, {cell}
+skip:
+    addiu $t0, $t0, 1
+add:
+    addu $t2, $t2, $t5
+    b ch
+done:
     addiu $v0, $s0, {buf}
+    sltiu $t6, $t2, {maxw}
+    movz $v0, $s1, $t6
     lw $ra, 0($sp)
     lw $s0, 4($sp)
     lw $s1, 8($sp)
@@ -409,9 +447,25 @@ here:
 """
 
 
+def name_widths():
+    """Width tables for FULLNAME (sysfont18, the name font): ASCII bytes, then the 0x81 and 0x82 SJIS pages by
+    second byte (the English stand-ins: fontpatch.fw); any other double-byte char counts NAME_CELL."""
+    import fontpatch
+    import insert
+    w = insert.font_widths("sysfont18")
+    t = bytearray([0] * 0x20 + [NAME_CELL] * 0xE0) + bytearray([NAME_CELL] * 0x200)
+    for c, px in w.items():
+        t[c] = px
+        lead, second = fontpatch.fw(chr(c)).encode("cp932")
+        if lead in (0x81, 0x82):
+            t[0x100 * (lead - 0x80) + second] = px
+    return bytes(t)
+
+
 def status_name(p):
     import eboot
-    size = 0x180  # code 0x00-0xFF, "%s %s\0" + empty string at 0x100, name buffer 0x110-0x17F
+    # code 0x00-0x13F, EMPTY 0x140, "%s %s\0" + empty string at 0x160, name buffer 0x170-0x1FF, name_widths() 0x200
+    size, e, fmt, buf = 0x500, 0x140, 0x160, 0x170
     va = eboot.add_segment(p.d, bytes(size))
     off = len(p.d) - size
     ram = eboot.LOAD + va
@@ -419,22 +473,24 @@ def status_name(p):
     rel = lambda t: ((t - here) & 0xFFFFFFFF)
     a = FULLNAME.format(sur_hi=rel(SURNAME) >> 16, sur_lo=rel(SURNAME) & 0xFFFF, giv_hi=rel(GIVEN) >> 16,
                         giv_lo=rel(GIVEN) & 0xFFFF, spr_hi=rel(SPRINTF) >> 16, spr_lo=rel(SPRINTF) & 0xFFFF,
-                        buf=0x110 - 12, fmt=0x100 - 12)
+                        buf=buf - 12, fmt=fmt - 12, t1=0x200 - 12, t81=0x300 - 0x8100 - 12, cell=NAME_CELL,
+                        maxw=NAME_MAX_PX + 1)
     code = bytes(p.ks.asm(a, ram)[0])
-    assert len(code) <= 0xC0, len(code)
-    b = bytes(p.ks.asm(EMPTY.format(empty=0x106 - (0xC0 + 12)), ram + 0xC0)[0])
+    assert len(code) <= e, len(code)
+    b = bytes(p.ks.asm(EMPTY.format(empty=fmt + 6 - (e + 12)), ram + e)[0])
     p.d[off:off + len(code)] = code
-    p.d[off + 0xC0:off + 0xC0 + len(b)] = b
-    p.d[off + 0x100:off + 0x106] = b"%s %s\0"
+    p.d[off + e:off + e + len(b)] = b
+    p.d[off + fmt:off + fmt + 7] = b"%s %s\0\0"
+    p.d[off + 0x200:off + 0x500] = name_widths()
     jal_to(p, 0x0892CFF4, SURNAME, va)
-    jal_to(p, 0x0892D018, GIVEN, va + 0xC0)
+    jal_to(p, 0x0892D018, GIVEN, va + e)
     p.asm(0x0892D000, f"addiu $a1, $zero, {NAME_X}", [0x24050075])
     p.asm(0x0892CFB8, f"addiu $a1, $zero, {OFFSCREEN}", [0x24050072])
     p.asm(0x0892CFDC, f"addiu $a1, $zero, {OFFSCREEN}", [0x240500AF])
     p.asm(0x0892B7F4, f"addiu $a1, $zero, {OFFSCREEN}", [0x24050050])
     # the same box rebuilt for the shown character (L/R, report card): 0x0892DBCC..0x0892DC78, a0 = character id
     jal_to(p, 0x0892DC2C, SURNAME, va)
-    jal_to(p, 0x0892DC5C, GIVEN, va + 0xC0)
+    jal_to(p, 0x0892DC5C, GIVEN, va + e)
     p.asm(0x0892DC38, f"addiu $a1, $zero, {NAME_X}", [0x24050075])
     p.asm(0x0892DBD8, f"addiu $a1, $zero, {OFFSCREEN}", [0x24050072])
     p.asm(0x0892DC04, f"addiu $a1, $zero, {OFFSCREEN}", [0x240500AF])
@@ -442,12 +498,101 @@ def status_name(p):
     # (player 0x0892D660.., shown character 0x0892DED4..). Teacher row value x 381 touched the "Teacher" label.
     for sur, giv, xsite in ((0x0892D660, 0x0892D684, 0x0892D66C), (0x0892DED4, 0x0892DEFC, 0x0892DEE0)):
         jal_to(p, sur, SURNAME, va)
-        jal_to(p, giv, GIVEN, va + 0xC0)
+        jal_to(p, giv, GIVEN, va + e)
         p.asm(xsite, f"addiu $a1, $zero, {REPORT_NAME_X}", [0x2405017D])
-    p.asm(0x0892D768, "addiu $a1, $zero, 377", [0x2405017D])
-    # Club/Teacher labels x 323 -> 320 (box inside from ~319); the "Name" label goes (the full name needs the row)
-    for site, x in ((0x0892BE60, OFFSCREEN), (0x0892BE84, 320), (0x0892BEA8, 320)):
-        p.asm(site, f"addiu $a1, $zero, {x}", [0x24050143])
+    for site in (0x0892D768, 0x0892E120):
+        p.asm(site, "addiu $a1, $zero, 377", [0x2405017D])
+    # the "Name" label goes (the full name needs the row); Club/Teacher labels stay at 323 (box inside x 320-469)
+    p.asm(0x0892BE60, f"addiu $a1, $zero, {OFFSCREEN}", [0x24050143])
+    # Club value: centred in a 98 px field from x 373, so "Go-Home Club" (106 px) ran from 369 over the right frame:
+    # field from 364 (x 360-466, clear of "Club" ending at 355)
+    for site in (0x0892D724, 0x0892DF90):
+        p.asm(site, "addiu $s0, $s0, 364", [0x26100175])
+
+
+# ADV text shadow: the canvas draw (speaker name, dialogue lines, captions) sets the text colour as GE material
+# ambient colour/alpha (cmds 0x55/0x58 written to the display list at GE_STATE+0x74, cached at GE_STATE+0x1CC), then
+# tail-jumps to VDRAW at 0x089F90B8. White English text vanished over white windows and skies (qa-findings §Worker
+# 17): the stub first draws the same text in black (same alpha, so fades match) at each SHADOW offset, then restores
+# the colour and jumps on to VDRAW with the original arguments.
+# `lui 0x76; addiu 0x4740` (0x089F8FB8): data relocations are relative to seg1 (vaddr 0x2C3B00), so RAM is
+# LOAD + 0x2C3B00 + 0x764740 (read back from PPSSPP: lui 0x0923, addiu 0xC240), not LOAD + 0x764740
+GE_STATE = 0x0922C240
+SHADOW = [(1.0, 0.0), (0.0, 1.0), (1.0, 1.0)]  # a 1 px drop shadow alone still lost words over white windows
+SHADOW_COLOUR = """
+    lw $t3, 0x74($t9)
+    sll $t1, $t0, 8
+    srl $t1, $t1, 8
+    lui $t4, 0x5500
+    or $t4, $t4, $t1
+    sw $t4, 0($t3)
+    srl $t1, $t0, 24
+    lui $t4, 0x5800
+    or $t4, $t4, $t1
+    sw $t4, 4($t3)
+    addiu $t3, $t3, 8
+    sw $t3, 0x74($t9)
+    sw $t0, 0x1cc($t9)"""  # t0 = colour (ABGR), t9 = GE_STATE: emit AMC + AMA, update the cache
+SHADOW_ARGS = """
+    lw $a0, 4($sp)
+    lw $a1, 8($sp)
+    lw $a2, 12($sp)
+    lwc1 $f12, 16($sp)
+    lwc1 $f13, 20($sp)
+    lw $t9, 28($sp)
+    lui $t6, {d_hi}
+    ori $t6, $t6, {d_lo}
+    subu $t5, $t9, $t6"""  # t5 = VDRAW (GE_STATE - d)
+SHADOW_HEAD = """
+    addiu $sp, $sp, -32
+    sw $ra, 0($sp)
+    sw $a0, 4($sp)
+    sw $a1, 8($sp)
+    sw $a2, 12($sp)
+    swc1 $f12, 16($sp)
+    swc1 $f13, 20($sp)
+    bal here
+here:
+    lui $t9, {st_hi}
+    ori $t9, $t9, {st_lo}
+    addu $t9, $ra, $t9
+    sw $t9, 28($sp)
+    lw $t0, 0x1cc($t9)
+    sw $t0, 24($sp)
+    lui $t1, 0xff00
+    and $t0, $t0, $t1""" + SHADOW_COLOUR
+SHADOW_PASS = SHADOW_ARGS + """
+    lui $at, {dx}
+    mtc1 $at, $f0
+    add.s $f12, $f12, $f0
+    lui $at, {dy}
+    mtc1 $at, $f0
+    add.s $f13, $f13, $f0
+    jalr $t5"""
+SHADOW_TAIL = """
+    lw $t9, 28($sp)
+    lw $t0, 24($sp)""" + SHADOW_COLOUR + SHADOW_ARGS + """
+    lw $ra, 0($sp)
+    addiu $sp, $sp, 32
+    jr $t5"""
+
+
+def shadow(p):
+    import eboot
+    size = 0x200
+    va = eboot.add_segment(p.d, bytes(size))
+    off = len(p.d) - size
+    ram = eboot.LOAD + va
+    st = (GE_STATE - (ram + 4 * 9)) & 0xFFFFFFFF  # $ra after the bal (7 saves, bal, its nop)
+    d = GE_STATE - VDRAW
+    args = dict(d_hi=d >> 16, d_lo=d & 0xFFFF)
+    src = (SHADOW_HEAD.format(st_hi=st >> 16, st_lo=st & 0xFFFF)
+           + "".join(SHADOW_PASS.format(dx=hex(hi(dx)), dy=hex(hi(dy)), **args) for dx, dy in SHADOW)
+           + SHADOW_TAIL.format(**args))
+    code = bytes(p.ks.asm(src, ram)[0])
+    assert len(code) <= size, len(code)
+    p.d[off:off + len(code)] = code
+    jal_to(p, 0x089F90B8, VDRAW, va, op=0x08000000)
 
 
 def hud_name(p):
@@ -482,12 +627,33 @@ def ticker(p):
 
 # Item details armor line (0x089B20A8): label eboot:2b5168 drawn from x0 = centre - strlen * 3.5, its "%3d" value at
 # x0 + 42 (防御力 = 3 x 14 px). English "Defense" is 56 px in advfont14, so the value ran into it ("Defense87"):
-# value at x0 + 56 (the %3d space is the gap); the label keeps 4 trailing spaces so strlen centres label + value.
+# value at x0 + 56 (the %4d spaces are the gap); the label keeps 4 trailing spaces so strlen centres label + value.
+# Weapon line (eboot:2b5148, vaddr 0x2B5088): "%4d" attack at x0 + 42, "%3d" AP cost at x0 + 140; "Attack" is 46 px,
+# so a 4-digit attack touched it ("Attack3150"): attack at + 50, "AP Cost" moved right by spaces in the label (ends
+# at 154), AP value at + 154. Each line has two copies of the draw (item details, and a second panel at 0x089B23xx).
 DEF_VALUE_DX = 56
+ATK_VALUE_DX = 50
+AP_VALUE_DX = 154
 
 
 def defense_value(p):
-    p.asm(0x089B2180, f"addiu $v0, $v0, {DEF_VALUE_DX}", [0x2442002A])
+    for site in (0x089B2180, 0x089B2494):
+        p.asm(site, f"addiu $v0, $v0, {DEF_VALUE_DX}", [0x2442002A])
+    for site in (0x089B201C, 0x089B26B4):
+        p.asm(site, f"addiu $v0, $v0, {ATK_VALUE_DX}", [0x2442002A])
+    for site in (0x089B207C, 0x089B2774):
+        p.asm(site, f"addiu $v0, $v0, {AP_VALUE_DX}", [0x2442008C])
+
+
+# Menu money plate (0x08922F94 labels, 0x08923218 number): the 8-digit number ends at x 148 (t0 = 140), the unit
+# label (systemtext 0647) at x 150. "yen" (25 px vs 円 14) ran into the plate's arrow tip (~170): both move left;
+# 9,999,999 then starts ~2 px right of the fixed colon of "Money:" (x 67).
+MONEY_DX = 7
+
+
+def money_plate(p):
+    p.asm(0x08923224, f"addiu $t0, $zero, {140 - MONEY_DX}", [0x2408008C])
+    p.asm(0x08923000, f"addiu $a2, $zero, {150 - MONEY_DX}", [0x24060096])
 
 
 # Phone settings values (scene `phone_set`): row r draws its values from x 251 + start, each next one at the previous

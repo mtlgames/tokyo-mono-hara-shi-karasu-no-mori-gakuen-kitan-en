@@ -40,3 +40,19 @@ def test_engine_patch_guards():
     engine.patch(p)
     with pytest.raises(ValueError):          # a jal has a relocation: refuse to overwrite it
         p.asm(0x08817314, "nop")
+
+
+def test_name_width_table(fonts):
+    import engine
+    t = engine.name_widths()
+
+    def px(name):  # the FULLNAME stub's sum over the SJIS bytes
+        b, i, w = name.encode("cp932"), 0, 0
+        while i < len(b):
+            if b[i] < 0x80:
+                w, i = w + t[b[i]], i + 1
+            else:
+                w, i = w + (t[0x100 * (b[i] - 0x80) + b[i + 1]] if b[i] in (0x81, 0x82) else engine.NAME_CELL), i + 2
+        return w
+    assert px(fontpatch.to_sjis_text("Kazuki") + " " + fontpatch.to_sjis_text("Shichidai")) <= engine.NAME_MAX_PX
+    assert px("ＷＷＷＷＷ ＷＷＷＷＷ") > engine.NAME_MAX_PX

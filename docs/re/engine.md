@@ -46,6 +46,14 @@ lookup 0x08A01C38 (binary search by code), 0x08A01CB0/0x08A01D88 GetGlyph(font, 
 - Relocations: the EBOOT is a relocatable module; `eboot.Patcher.asm` refuses to change any word with a relocation
   (jal/j/lui of addresses). The build ships the patched **plain ELF** (PPSSPP boots it); re-signing to `~PSP` is
   still to do before release.
+- **Data addresses are seg1-relative (verified 2026-11-25, PPSSPP memory read):** a `lui/addiu` pair naming .data/.bss
+  (e.g. 0x00764740, the GE state struct) relocates to LOAD + 0x2C3B00 (seg1 vaddr) + value = 0x0922C240, not LOAD +
+  value. Code addresses (jal targets, `lui` of seg0 rodata) are LOAD + vaddr. A stub that used LOAD + value read
+  garbage and crashed at the first text box.
+- **ADV text shadow (`engine.shadow`, 2026-11-25):** the canvas draw sets the text colour as GE material ambient
+  (cmds 0x55/0x58 into the list at GE state+0x74, cached at +0x1CC) and tail-jumps to VDRAW at 0x089F90B8; the stub
+  draws the text in black at (1,0), (0,1), (1,1) first. Fixes white text over white windows/skies (a 1 px (1,1)
+  shadow alone still lost words).
 
 ## Phase 5 marker build findings (verified: `build.py --marker`, `--qa` width tests, shots in work/qa/warp/wg/)
 - **ADV replace pass 0x089EE5FC** (verified: table dump + shots): before display, 38 (from, to) SJIS pairs (from
