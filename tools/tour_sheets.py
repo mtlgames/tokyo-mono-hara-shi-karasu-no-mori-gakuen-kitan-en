@@ -30,7 +30,7 @@ def main():
     out = QA / "tour"
     out.mkdir(parents=True, exist_ok=True)
     for scene in sorted(p for p in (QA / "warp" / a.tag).iterdir() if p.is_dir()):
-        if any(scene.glob("f*.png")):
+        if any(scene.glob("f[0-9]*.png")):  # not final.png alone (a from= prerequisite run has only that)
             run(Path(SCRIPTS) / "sheet.py", scene, "--out", out / f"{scene.name}_sheet.png")  # a dir: argv limit
     gate = Path(SCRIPTS) / "qa_gate.py"
     run(gate, "init", QA / "manifest.tsv", out, "--build", a.build)
