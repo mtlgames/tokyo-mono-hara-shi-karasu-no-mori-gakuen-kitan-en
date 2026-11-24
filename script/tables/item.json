@@ -303,7 +303,7 @@
   "id": "item:0015:0c",
   "jp": "プラスチック製の\nブーメラン。",
   "refs": 1,
-  "en": "A plastic boomerang."
+  "en": "A plastic\nboomerang."
  },
  {
   "id": "item:0015:10",
@@ -783,7 +783,7 @@
   "id": "item:0040:0c",
   "jp": "蒐が愛用している\nカードケース。",
   "refs": 1,
-  "en": "Shu's beloved card case."
+  "en": "Shu's beloved\ncard case."
  },
  {
   "id": "item:0040:10",
@@ -921,7 +921,7 @@
   "id": "item:0048:0c",
   "jp": "水を発射できる\nウォーターガン。",
   "refs": 1,
-  "en": "A gun that shoots water."
+  "en": "A gun that\nshoots water."
  },
  {
   "id": "item:0048:10",
@@ -2019,7 +2019,7 @@
   "id": "item:0102:0c",
   "jp": "ズボンを着用する際に\n一緒に着けるベルト。",
   "refs": 1,
-  "en": "A belt worn with trousers."
+  "en": "A belt worn\nwith trousers."
  },
  {
   "id": "item:0102:14",
@@ -2835,7 +2835,7 @@
   "id": "item:0144:0c",
   "jp": "髪の毛を上げるための\nバンド。",
   "refs": 1,
-  "en": "A band to hold your hair up."
+  "en": "A band to hold\nyour hair up."
  },
  {
   "id": "item:0144:14",
@@ -3777,7 +3777,7 @@
   "id": "item:0196:0c",
   "jp": "野菜の入った\nサンドイッチ。",
   "refs": 1,
-  "en": "A sandwich with vegetables."
+  "en": "A sandwich with\nvegetables."
  },
  {
   "id": "item:0196:10",
@@ -3987,7 +3987,7 @@
   "id": "item:0207:0c",
   "jp": "焼いたソーセージを\nパンに挟んだ料理。",
   "refs": 1,
-  "en": "A grilled sausage in a bun."
+  "en": "A grilled sausage\nin a bun."
  },
  {
   "id": "item:0208:04",
@@ -4227,7 +4227,7 @@
   "id": "item:0222:0c",
   "jp": "紙パックに入った\nココア。",
   "refs": 1,
-  "en": "Cocoa in a paper carton."
+  "en": "Cocoa in a\npaper carton."
  },
  {
   "id": "item:0223:04",
@@ -4239,7 +4239,7 @@
   "id": "item:0223:0c",
   "jp": "コーヒー風味の\nチョコレート。",
   "refs": 1,
-  "en": "Coffee-flavored chocolate."
+  "en": "Coffee-flavored\nchocolate."
  },
  {
   "id": "item:0223:10",
@@ -4731,7 +4731,7 @@
   "id": "item:0252:0c",
   "jp": "液体調味料のひとつ。\nすっぱい。",
   "refs": 1,
-  "en": "A liquid seasoning. Sour."
+  "en": "A liquid\nseasoning. Sour."
  },
  {
   "id": "item:0253:04",

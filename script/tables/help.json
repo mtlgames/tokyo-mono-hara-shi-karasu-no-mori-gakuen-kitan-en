@@ -243,7 +243,7 @@
   "id": "help:0019:0c",
   "jp": "尚、弾が無くなると、ＡＰを消費して\nリロード（再装填）を行うことで、\n弾を満タンにすることができます。",
   "refs": 1,
-  "en": "When you run out of ammo, you can spend AP to reload and fill it back up."
+  "en": "When you run out of ammo,\nyou can spend AP to reload\nand fill it back up."
  },
  {
   "id": "help:0020:04",

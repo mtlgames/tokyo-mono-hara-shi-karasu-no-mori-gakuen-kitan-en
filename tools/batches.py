@@ -239,6 +239,14 @@ def shape(entry, en):
     if f in ("dlg", "narr"):
         return "\n".join(wrap(en, px, LINE_PX, balance=True))
     if f.startswith("table:"):
+        jp = entry["jp"].split("\n")
+        own = max(len(s.encode("cp932")) for s in jp)
+        if len(jp) > 1 and "\n" not in en and " / " not in en and len(en) > own:
+            # a multi-line JP box (bubble, dialog) wider-than-JP English on one line can run past the box: the
+            # column max is no box width when a column feeds several boxes. Keep the JP line count, balanced.
+            words = en.split(" ")
+            lim = next(n for n in range(max(map(len, words)), len(en) + 1) if len(greedy(words, len, n)) <= len(jp))
+            return "\n".join(greedy(words, len, lim))
         return "\n".join(wrap(en, len, table_limit(entry)[0]))
     return en.replace(" / ", "\n")
 
@@ -550,6 +558,8 @@ def _selftest():
     long = "word " * 200
     assert any("over 3 lines" in p for p in problems(e, long, []))
     assert shape(e, "a / b") == "a\nb" and "\n" not in shape(e, "short line")
+    t = next(x for _, _, es in docs() for x in es if x["id"] == "buddymes:0072:08")   # 2-line JP bubble
+    assert shape(t, "Oh, a yakisoba bun...") == "Oh, a yakisoba\nbun..." and shape(t, "Oh!") == "Oh!"
     assert any("unencodable" in p for p in problems(e, "{pm}-kun, under_score", []))
     t = {"id": "item:0001:04", "jp": "パチンコ", "refs": 1, "en": ""}
     assert form_of(t) == "table:item" and not problems(t, "Slingshot", [])

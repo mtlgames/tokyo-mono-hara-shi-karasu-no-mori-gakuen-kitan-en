@@ -53,13 +53,15 @@ def ui_tansaku01():
 def adv_emotion():
     path = "adv/talk/adv_emotion.pak/adv/talk/adv_emotion.gim"
     img, rects = gfx.original(path), []
-    words = [(0, 0, "Joy"), (32, 0, "Friend"), (65, 0, "Dislike"), (96, 0, "Worry"),
-             (1, 32, "Love"), (33, 32, "Passion"), (65, 32, "Anger"), (96, 32, "Sorrow")]
+    # the wheel's middle row is Sorrow Worry <centre> Friend Passion, diamonds 24 px apart: short words there
+    # (悲 Sad, 燃 Fire as on the quest_site wheel) pushed away from their neighbour (align), so no two touch
+    words = [(0, 0, "Joy", "c"), (32, 0, "Friend", "l"), (65, 0, "Dislike", "c"), (96, 0, "Worry", "r"),
+             (1, 32, "Love", "c"), (33, 32, "Fire", "r"), (65, 32, "Anger", "c"), (96, 32, "Sad", "l")]
     gfx.clear(img, (0, 0, 128, 64))
     rects.append((0, 0, 128, 64))
-    for x, y, text in words:
+    for x, y, text, al in words:
         f = typeset.font(SERIFB, 11).getlength(text)
-        paint(img, rects, (x, y + 6, 32, 18), text, SERIFB, 11, align="c", pad=0, clear=False, xs=min(1.0, 27 / f))
+        paint(img, rects, (x + 1, y + 6, 30, 18), text, SERIFB, 11, align=al, pad=0, clear=False, xs=min(1.0, 27 / f))
     return path, img, rects, "eight emotion words"
 
 

@@ -51,7 +51,7 @@
   "id": "dialogmessage:0005:04",
   "jp": "　 花札の配置内容を\n現在の状態に更新します",
   "refs": 1,
-  "en": "Update the card layout to the current state."
+  "en": "Update the card layout\nto the current state."
  },
  {
   "id": "dialogmessage:0006:04",
@@ -75,7 +75,7 @@
   "id": "dialogmessage:0008:04",
   "jp": "昼休みの自由移動を\n終了しますか？",
   "refs": 1,
-  "en": "End free movement for lunch break?"
+  "en": "End free movement\nfor lunch break?"
  },
  {
   "id": "dialogmessage:0009:04",
@@ -141,19 +141,19 @@
   "id": "dialogmessage:0018:04",
   "jp": "Ｒボタンを押して\n「武器」パレットに切り替え。",
   "refs": 1,
-  "en": "Press the R button to switch to the \"Weapon\" palette."
+  "en": "Press the R button to switch\nto the \"Weapon\" palette."
  },
  {
   "id": "dialogmessage:0019:04",
   "jp": "Ｒボタンを押して\n「特殊」パレットに切り替え。",
   "refs": 1,
-  "en": "Press the R button to switch to the \"Special\" palette."
+  "en": "Press the R button to switch\nto the \"Special\" palette."
  },
  {
   "id": "dialogmessage:0020:04",
   "jp": "○ボタンを押して\n花札配置を始める。",
   "refs": 1,
-  "en": "Press the Circle button to start placing cards."
+  "en": "Press the Circle button\nto start placing cards."
  },
  {
   "id": "dialogmessage:0021:04",

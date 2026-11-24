@@ -5,8 +5,7 @@ Writes gfx/out/dungeon_ui/*.png and gfx/dungeon_ui.tsv.
 
 Rows: work/gfx/dungeon_ui.txt. Helpers (Edit, draw, erase, gradient_fill) come from gfx_quest_site.py. The HUD words are cut
 per Japanese character by dungeon.g2d, so each English word is drawn across the cells of its Japanese word.
-Not redrawn: ゲームオバ(ー) (dungeon08) - the game reuses one ー cell inside the word, an English word can't follow that
-sequence - and the two halves of the 斬 slash kanji (player_atk_near02/03), which the effect splits across two textures.
+ゲームオバ(ー) (dungeon08) reuses one ー cell inside the word: gfx.LAYOUT repoints those quads. Not redrawn: the two halves of the 斬 slash kanji (player_atk_near02/03), which the effect splits across two textures.
 """
 import numpy as np
 from PIL import Image, ImageFilter
@@ -30,7 +29,7 @@ def hud_dungeon03():
     e.erase((73, 63, 52, 17))
     e.draw((73, 63, 52, 17), "Switch", align="l", **HUD)
     e.erase((73, 80, 52, 17))
-    e.draw((73, 80, 52, 17), "Arcane Eye", align="l", **HUD)
+    e.draw((74, 80, 48, 17), "Arcane Eye", align="l", xscale=0.84, **HUD)   # the g2d cell is x 74-121
     # brush banners: two rows of per-character cells; each English word spans the cells of its Japanese word
     band = dict(font=BRUSH, size=27, fill=WHITE, stroke=(1, WHITE))
     for box in ((0, 191, 200, 33), (0, 224, 256, 32)):
@@ -62,7 +61,15 @@ def countdown_dungeon08():
     for box, word, top, bot in (((1, 80, 33, 33), "SEAL", (249, 190, 1), (234, 83, 0)), ((39, 80, 26, 24), "ATK", (253, 222, 1), (245, 130, 3))):
         e.erase(box)
         e.draw(box, word, ANTON, 15, WHITE, stroke=(1, (74, 0, 0, 255)), post=gradient_fill(top, bot, (74, 0, 0)))
-    return e.row("kanji numerals -> 10..1, 封 -> SEAL, 攻 -> ATK; ゲームオバ(ー) kept (see module note)")
+    # game over banner: 7 cells of 32 px (ゲーム オ ー バ ー); gfx.LAYOUT repoints quads 2 and 4 (the repeated ー) at the
+    # free cells (192,192) and (224,192), so one 224 px line is sliced over: tex 96-223 | free | 224-255 | free
+    line = Image.new("RGBA", (224, 32), (0, 0, 0, 0))
+    draw(line, (0, 0, 224, 32), "GAME OVER", SERIF_B, 27, WHITE, tracking=1)
+    for (sx, w), (tx, ty) in (((0, 128), (96, 96)), ((128, 32), (192, 192)), ((160, 32), (224, 96)), ((192, 32), (224, 192))):
+        e.erase((tx, ty, w, 32))
+        e.rects.append((tx, ty, w, 32))
+        e.img.alpha_composite(line.crop((sx, 0, sx + w, 32)), (tx, ty))
+    return e.row("kanji numerals -> 10..1, 封 -> SEAL, 攻 -> ATK, ゲームオーバー -> GAME OVER (with gfx.LAYOUT)")
 
 
 def trapcard():

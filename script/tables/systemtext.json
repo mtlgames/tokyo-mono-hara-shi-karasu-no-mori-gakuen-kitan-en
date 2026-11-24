@@ -231,7 +231,7 @@
   "id": "systemtext:0044:00",
   "jp": "自室のアイテムを\n強化中です",
   "refs": 1,
-  "en": "It is enhancing an item in your room."
+  "en": "It is enhancing an\nitem in your room."
  },
  {
   "id": "systemtext:0045:00",
@@ -1023,7 +1023,7 @@
   "id": "systemtext:0181:00",
   "jp": "この組み合わせで調合します。\nよろしいですか？",
   "refs": 1,
-  "en": "Mix using this combination. Is that okay?"
+  "en": "Mix using this\ncombination. Is that okay?"
  },
  {
   "id": "systemtext:0182:00",
@@ -1359,19 +1359,19 @@
   "id": "systemtext:0245:00",
   "jp": "花札「%s」を\n手に入れました。",
   "refs": 1,
-  "en": "Obtained the hanafuda \"%s\"."
+  "en": "Obtained the\nhanafuda \"%s\"."
  },
  {
   "id": "systemtext:0246:00",
   "jp": "特課札「%s」を\n手に入れました。",
   "refs": 1,
-  "en": "Obtained the Division card \"%s\"."
+  "en": "Obtained the\nDivision card \"%s\"."
  },
  {
   "id": "systemtext:0247:00",
   "jp": "特課試札を\n手に入れました。",
   "refs": 1,
-  "en": "Obtained a Division trial card."
+  "en": "Obtained a Division\ntrial card."
  },
  {
   "id": "systemtext:0248:00",
@@ -1395,13 +1395,13 @@
   "id": "systemtext:0251:00",
   "jp": "貴重品「%s」を\n手に入れました。",
   "refs": 1,
-  "en": "Obtained the valuable \"%s\"."
+  "en": "Obtained the\nvaluable \"%s\"."
  },
  {
   "id": "systemtext:0252:00",
   "jp": "貴重品「%s」を\n回収しました。",
   "refs": 1,
-  "en": "Retrieved the valuable \"%s\"."
+  "en": "Retrieved the\nvaluable \"%s\"."
  },
  {
   "id": "systemtext:0253:00",
@@ -2397,13 +2397,13 @@
   "id": "systemtext:0478:00",
   "jp": "蹴りによる範囲攻撃。\n敵にダメージを与える。",
   "refs": 1,
-  "en": "An area attack with a kick. Damages enemies."
+  "en": "An area attack with a\nkick. Damages enemies."
  },
  {
   "id": "systemtext:0479:00",
   "jp": "拳による単体攻撃。\n敵にダメージを与える。",
   "refs": 1,
-  "en": "A single-target punch. Damages an enemy."
+  "en": "A single-target punch.\nDamages an enemy."
  },
  {
   "id": "systemtext:0494:00",
@@ -2697,7 +2697,7 @@
   "id": "systemtext:0570:00",
   "jp": "これまでに見たイベントCGを \nもう一度見ることができます。 ",
   "refs": 1,
-  "en": "View the event CGs you have seen so far again."
+  "en": "View the event CGs you\nhave seen so far again."
  },
  {
   "id": "systemtext:0571:00",
@@ -3063,7 +3063,7 @@
   "id": "systemtext:0651:00",
   "jp": "はじめからスタートします。\nよろしいですか？",
   "refs": 2,
-  "en": "Start from the beginning. Is that okay?"
+  "en": "Start from the\nbeginning. Is that okay?"
  },
  {
   "id": "systemtext:0652:00",
@@ -3075,7 +3075,7 @@
   "id": "systemtext:0653:00",
   "jp": "続きから再開します。\nよろしいですか？",
   "refs": 1,
-  "en": "Continue from where you left off. Is that okay?"
+  "en": "Continue from where you\nleft off. Is that okay?"
  },
  {
   "id": "systemtext:0655:00",
@@ -3087,7 +3087,7 @@
   "id": "systemtext:0657:00",
   "jp": "９話目の夕方に戻ります。\nよろしいですか？",
   "refs": 1,
-  "en": "Return to the evening of Chapter 9. Is that okay?"
+  "en": "Return to the evening of\nChapter 9. Is that okay?"
  },
  {
   "id": "systemtext:0658:00",

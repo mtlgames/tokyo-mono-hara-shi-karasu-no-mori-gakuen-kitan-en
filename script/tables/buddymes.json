@@ -555,7 +555,7 @@
   "id": "buddymes:0072:08",
   "jp": "あ、\nやきそばパン…。",
   "refs": 3,
-  "en": "Oh, a yakisoba bun..."
+  "en": "Oh, a yakisoba\nbun..."
  },
  {
   "id": "buddymes:0073:08",
@@ -1257,7 +1257,7 @@
   "id": "buddymes:0134:10",
   "jp": "え、えっと…\nがんばってねッ！",
   "refs": 1,
-  "en": "U-um... good luck!"
+  "en": "U-um...\ngood luck!"
  },
  {
   "id": "buddymes:0134:18",
@@ -2115,7 +2115,7 @@
   "id": "buddymes:0212:08",
   "jp": "んー…\n四角く、歩く？",
   "refs": 3,
-  "en": "Hmm... Walk squarely?"
+  "en": "Hmm... Walk\nsquarely?"
  },
  {
   "id": "buddymes:0213:08",
@@ -2133,7 +2133,7 @@
   "id": "buddymes:0215:08",
   "jp": "あ。\n…ま、いいや。",
   "refs": 3,
-  "en": "Ah. ...Oh, whatever."
+  "en": "Ah. ...Oh,\nwhatever."
  },
  {
   "id": "buddymes:0216:08",
@@ -2145,7 +2145,7 @@
   "id": "buddymes:0217:08",
   "jp": "くふ…\nくふふ。",
   "refs": 3,
-  "en": "Kufu... Kufufu."
+  "en": "Kufu...\nKufufu."
  },
  {
   "id": "buddymes:0218:08",
@@ -2157,7 +2157,7 @@
   "id": "buddymes:0219:08",
   "jp": "うーん…\n三角…",
   "refs": 3,
-  "en": "Hmm... Triangle..."
+  "en": "Hmm...\nTriangle..."
  },
  {
   "id": "buddymes:0220:08",
@@ -2841,7 +2841,7 @@
   "id": "buddymes:0282:10",
   "jp": "どんとコーイ、\nねッ！",
   "refs": 1,
-  "en": "Bring it ooon, ne!"
+  "en": "Bring it\nooon, ne!"
  },
  {
   "id": "buddymes:0282:18",
@@ -2979,7 +2979,7 @@
   "id": "buddymes:0296:08",
   "jp": "アンのヒーロー…\n…エヘヘ。",
   "refs": 3,
-  "en": "Angie's hero... Ehehe."
+  "en": "Angie's\nhero... Ehehe."
  },
  {
   "id": "buddymes:0297:08",
@@ -3243,7 +3243,7 @@
   "id": "buddymes:0320:08",
   "jp": "あんさんの背は\nうちが護ります。",
   "refs": 3,
-  "en": "I'll guard your back."
+  "en": "I'll guard\nyour back."
  },
  {
   "id": "buddymes:0321:08",
@@ -3735,7 +3735,7 @@
   "id": "buddymes:0363:08",
   "jp": "さあ、腿上げ\n開始だッ！",
   "refs": 3,
-  "en": "Now, begin high knees!"
+  "en": "Now, begin\nhigh knees!"
  },
  {
   "id": "buddymes:0364:08",
@@ -4503,7 +4503,7 @@
   "id": "buddymes:0435:10",
   "jp": "なかなか見事な\n手際ですね。",
   "refs": 1,
-  "en": "Quite deft work."
+  "en": "Quite deft\nwork."
  },
  {
   "id": "buddymes:0435:18",
@@ -5769,7 +5769,7 @@
   "id": "buddymes:0643:08",
   "jp": "ゆ、弓ッ！？\n危ないよッ！",
   "refs": 3,
-  "en": "A-arrows!? Look out!"
+  "en": "A-arrows!?\nLook out!"
  },
  {
   "id": "buddymes:0644:08",
@@ -6573,13 +6573,13 @@
   "id": "buddymes:0777:08",
   "jp": "は、早く\n隠れようッ！！",
   "refs": 3,
-  "en": "H-hurry, let's hide!!"
+  "en": "H-hurry,\nlet's hide!!"
  },
  {
   "id": "buddymes:0778:08",
   "jp": "袋…\n袋、ねえ…。",
   "refs": 3,
-  "en": "A bag... A bag, huh..."
+  "en": "A bag... A\nbag, huh..."
  },
  {
   "id": "buddymes:0779:08",
@@ -6945,7 +6945,7 @@
   "id": "buddymes:0839:08",
   "jp": "行き止まりなんて\nやんやん☆",
   "refs": 3,
-  "en": "A dead end? No fair~"
+  "en": "A dead end?\nNo fair~"
  },
  {
   "id": "buddymes:0840:08",
@@ -6969,7 +6969,7 @@
   "id": "buddymes:0843:08",
   "jp": "行き止まり…\nですか。",
   "refs": 3,
-  "en": "A dead end... is it."
+  "en": "A dead end...\nis it."
  },
  {
   "id": "buddymes:0844:08",
@@ -7215,7 +7215,7 @@
   "id": "buddymes:0884:08",
   "jp": "また出ただと！？\n…ちッ。",
   "refs": 3,
-  "en": "They're back!? ...Tch."
+  "en": "They're back!?\n...Tch."
  },
  {
   "id": "buddymes:0885:08",
@@ -7251,7 +7251,7 @@
   "id": "buddymes:0890:08",
   "jp": "また出たのか！？\nくそッ…。",
   "refs": 3,
-  "en": "They're back!? Damn..."
+  "en": "They're back!?\nDamn..."
  },
  {
   "id": "buddymes:0891:08",
@@ -7695,7 +7695,7 @@
   "id": "buddymes:0964:08",
   "jp": "…手掛りはなし。\nさて、どうしよう？",
   "refs": 3,
-  "en": "...No clues. Now what?"
+  "en": "...No clues.\nNow what?"
  },
  {
   "id": "buddymes:0965:08",
@@ -7737,7 +7737,7 @@
   "id": "buddymes:0971:08",
   "jp": "ここ、また来た？\nむー…。",
   "refs": 3,
-  "en": "Here again? Mmm..."
+  "en": "Here again?\nMmm..."
  },
  {
   "id": "buddymes:0972:08",
@@ -7785,7 +7785,7 @@
   "id": "buddymes:0979:08",
   "jp": "えーっと…\n…あ、あれ…？",
   "refs": 3,
-  "en": "Umm... ...Wh-what...?"
+  "en": "Umm...\n...Wh-what...?"
  },
  {
   "id": "buddymes:0980:08",
@@ -7935,7 +7935,7 @@
   "id": "buddymes:1004:08",
   "jp": "わわっ、ヒビが\n入ったぞ！？",
   "refs": 3,
-  "en": "Whoa, it's cracking!?"
+  "en": "Whoa, it's\ncracking!?"
  },
  {
   "id": "buddymes:1005:08",
@@ -8109,7 +8109,7 @@
   "id": "buddymes:1033:08",
   "jp": "あれ？いま鍵閉まっ\nちゃったよ！？",
   "refs": 3,
-  "en": "Huh? It just locked!?"
+  "en": "Huh? It just\nlocked!?"
  },
  {
   "id": "buddymes:1034:08",
@@ -8445,7 +8445,7 @@
   "id": "buddymes:1089:08",
   "jp": "よかろうッ！\nいま一度だッ！",
   "refs": 3,
-  "en": "Very well! Once more!"
+  "en": "Very well!\nOnce more!"
  },
  {
   "id": "buddymes:1090:08",
@@ -9933,7 +9933,7 @@
   "id": "buddymes:1337:08",
   "jp": "近づいて\n取ってみろ。",
   "refs": 3,
-  "en": "Go up and take it."
+  "en": "Go up and\ntake it."
  },
  {
   "id": "buddymes:1338:08",
@@ -9981,7 +9981,7 @@
   "id": "buddymes:1345:08",
   "jp": "そこは、\nもういいんだ。",
   "refs": 3,
-  "en": "You're done there."
+  "en": "You're done\nthere."
  },
  {
   "id": "buddymes:1346:08",
@@ -10119,7 +10119,7 @@
   "id": "buddymes:1368:08",
   "jp": "遠距離攻撃を\n使うんだ！",
   "refs": 3,
-  "en": "Use ranged attacks!"
+  "en": "Use ranged\nattacks!"
  },
  {
   "id": "buddymes:1369:08",
@@ -10653,7 +10653,7 @@
   "id": "buddymes:1457:08",
   "jp": "さあ、\nこれで安心だ。",
   "refs": 3,
-  "en": "There, now we're safe."
+  "en": "There, now\nwe're safe."
  },
  {
   "id": "buddymes:1458:08",
@@ -10821,7 +10821,7 @@
   "id": "buddymes:1485:08",
   "jp": "お、隠人が\n出たのです！",
   "refs": 3,
-  "en": "Th-the Oni are here!"
+  "en": "Th-the Oni\nare here!"
  },
  {
   "id": "buddymes:1486:08",
@@ -10845,7 +10845,7 @@
   "id": "buddymes:1489:08",
   "jp": "はうう、\nき、来ますです！",
   "refs": 3,
-  "en": "Eep, h-here they come!"
+  "en": "Eep, h-here\nthey come!"
  },
  {
   "id": "buddymes:1490:08",
@@ -10869,7 +10869,7 @@
   "id": "buddymes:1493:08",
   "jp": "そこが弱い\nとこなのです！",
   "refs": 3,
-  "en": "That's its weak spot!"
+  "en": "That's its\nweak spot!"
  },
  {
   "id": "buddymes:1494:08",
@@ -10881,13 +10881,13 @@
   "id": "buddymes:1495:08",
   "jp": "無理は\n禁物なのです！",
   "refs": 3,
-  "en": "Don't overdo it!"
+  "en": "Don't\noverdo it!"
  },
  {
   "id": "buddymes:1496:08",
   "jp": "はわわ…\nぬしさま…。",
   "refs": 3,
-  "en": "Eek... Master..."
+  "en": "Eek...\nMaster..."
  },
  {
   "id": "buddymes:1497:08",
@@ -10905,7 +10905,7 @@
   "id": "buddymes:1499:08",
   "jp": "罠が止まった\nのです～。",
   "refs": 3,
-  "en": "The trap stopped!"
+  "en": "The trap\nstopped!"
  },
  {
   "id": "buddymes:1500:08",
@@ -10953,7 +10953,7 @@
   "id": "buddymes:1507:08",
   "jp": "あ、\n脚に怪我なのです！",
   "refs": 3,
-  "en": "Ah, your leg's hurt!"
+  "en": "Ah, your\nleg's hurt!"
  },
  {
   "id": "buddymes:1508:08",
@@ -10965,7 +10965,7 @@
   "id": "buddymes:1509:08",
   "jp": "ね、寝ちゃ\nだめなのです～！",
   "refs": 3,
-  "en": "D-don't fall asleep!"
+  "en": "D-don't fall\nasleep!"
  },
  {
   "id": "buddymes:1510:08",
@@ -10977,7 +10977,7 @@
   "id": "buddymes:1511:08",
   "jp": "さ、寒そう\nなのです～。",
   "refs": 3,
-  "en": "Y-you look so cold!"
+  "en": "Y-you look\nso cold!"
  },
  {
   "id": "buddymes:1512:08",
@@ -10995,13 +10995,13 @@
   "id": "buddymes:1514:08",
   "jp": "《春》に\n弱い子なのです！",
   "refs": 3,
-  "en": "It's weak to Spring!"
+  "en": "It's weak\nto Spring!"
  },
  {
   "id": "buddymes:1515:08",
   "jp": "《夏》に\n弱い子なのです！",
   "refs": 3,
-  "en": "It's weak to Summer!"
+  "en": "It's weak\nto Summer!"
  },
  {
   "id": "buddymes:1516:08",
@@ -11025,13 +11025,13 @@
   "id": "buddymes:1519:08",
   "jp": "ぬしさま！\nぬしさまっ！",
   "refs": 3,
-  "en": "Master! Master!"
+  "en": "Master!\nMaster!"
  },
  {
   "id": "buddymes:1520:08",
   "jp": "ふぁいと・おー\nなのです！",
   "refs": 3,
-  "en": "Fight-o! Go, go!"
+  "en": "Fight-o!\nGo, go!"
  },
  {
   "id": "buddymes:1521:08",
@@ -11127,7 +11127,7 @@
   "id": "buddymes:1536:08",
   "jp": "損傷大。\n気をつけろ。",
   "refs": 3,
-  "en": "Heavy damage. Careful."
+  "en": "Heavy damage.\nCareful."
  },
  {
   "id": "buddymes:1537:08",
@@ -11319,7 +11319,7 @@
   "id": "buddymes:1568:08",
   "jp": "そんな…\n馬鹿なあァッ！！",
   "refs": 3,
-  "en": "No... Impossible!!"
+  "en": "No...\nImpossible!!"
  },
  {
   "id": "buddymes:1580:08",

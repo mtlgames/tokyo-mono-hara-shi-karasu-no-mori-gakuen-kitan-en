@@ -243,7 +243,7 @@
   "id": "questshoptext:0041:00",
   "jp": "クエスト「%s」を\nダウンロードしますか？",
   "refs": 1,
-  "en": "Download the quest \"%s\"?"
+  "en": "Download the\nquest \"%s\"?"
  },
  {
   "id": "questshoptext:0043:00",
@@ -291,13 +291,13 @@
   "id": "questshoptext:0050:00",
   "jp": "依頼人「%s」からの\n依頼を受けられるようになりました",
   "refs": 1,
-  "en": "You can now take quests from the client \"%s\"."
+  "en": "You can now take quests\nfrom the client \"%s\"."
  },
  {
   "id": "questshoptext:0051:00",
   "jp": "ダウンロードファイルを削除します\nよろしいですか？",
   "refs": 1,
-  "en": "Delete the downloaded file. Are you sure?"
+  "en": "Delete the downloaded\nfile. Are you sure?"
  },
  {
   "id": "questshoptext:0052:00",
@@ -441,7 +441,7 @@
   "id": "questshoptext:0075:00",
   "jp": "自分の依頼人としての\nプロフィールを変更します",
   "refs": 1,
-  "en": "Change your profile as a client."
+  "en": "Change your profile\nas a client."
  },
  {
   "id": "questshoptext:0076:00",
@@ -483,7 +483,7 @@
   "id": "questshoptext:0084:00",
   "jp": "依頼人のハンドルネームを\n変更します",
   "refs": 1,
-  "en": "Change your handle as a client."
+  "en": "Change your handle\nas a client."
  },
  {
   "id": "questshoptext:0085:00",
@@ -495,7 +495,7 @@
   "id": "questshoptext:0086:00",
   "jp": "依頼人としての姿を\n変更します",
   "refs": 1,
-  "en": "Change how you look as a client."
+  "en": "Change how you\nlook as a client."
  },
  {
   "id": "questshoptext:0087:00",
@@ -579,7 +579,7 @@
   "id": "questshoptext:0102:00",
   "jp": "プロフィールの登録に\n失敗しました",
   "refs": 1,
-  "en": "Failed to save the profile."
+  "en": "Failed to save\nthe profile."
  },
  {
   "id": "questshoptext:0103:00",
@@ -603,7 +603,7 @@
   "id": "questshoptext:0106:00",
   "jp": "あなたの依頼は\n中断されました",
   "refs": 1,
-  "en": "Your quest has been suspended."
+  "en": "Your quest has\nbeen suspended."
  },
  {
   "id": "questshoptext:0107:00",
@@ -651,19 +651,19 @@
   "id": "questshoptext:0114:00",
   "jp": "報酬　%s円を\n手に入れました",
   "refs": 1,
-  "en": "Received a reward of %s yen."
+  "en": "Received a reward\nof %s yen."
  },
  {
   "id": "questshoptext:0115:00",
   "jp": "依頼料　%s円を\n支払いました",
   "refs": 1,
-  "en": "Paid a fee of %s yen."
+  "en": "Paid a fee\nof %s yen."
  },
  {
   "id": "questshoptext:0116:00",
   "jp": "依頼品「%s」が\n自室に送られました",
   "refs": 1,
-  "en": "The quest item \"%s\" was sent to your room."
+  "en": "The quest item \"%s\"\nwas sent to your room."
  },
  {
   "id": "questshoptext:0117:00",
@@ -801,7 +801,7 @@
   "id": "questshoptext:0139:00",
   "jp": "%sと\n接続しました。\nクエストを作成して下さい",
   "refs": 1,
-  "en": "Connected with %s. Please create a quest."
+  "en": "Connected with\n%s. Please\ncreate a quest."
  },
  {
   "id": "questshoptext:0140:00",
@@ -891,7 +891,7 @@
   "id": "questshoptext:0154:00",
   "jp": "クエスト情報の保存に失敗しました\nもう一度セーブしますか？",
   "refs": 1,
-  "en": "Failed to save quest info. Save again?"
+  "en": "Failed to save quest\ninfo. Save again?"
  },
  {
   "id": "questshoptext:0155:00",

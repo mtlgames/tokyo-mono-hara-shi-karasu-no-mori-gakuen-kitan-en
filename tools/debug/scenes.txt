@@ -73,8 +73,9 @@ dun1       script=DG01_00 set=chapter=1,dun_area=1 mash=11400:circle,right,circl
 dun1_direct script=DG00_00 set=dun_area=1 mash=900:circle
 # battle: walk the corridor to door 2 (扉を開く), enter 狩猟の間; 4 隠人 engage after a few steps (chapter stays 0)
 battle     from=dun1_direct route=450 up;60 -;6 circle;900 -;200 up;300 -
-# game over: HP 1 (save.py field hp), end the turn (select, はい); the enemies' turn kills
-gameover   from=battle set=hp=1 route=6 select;120 -;6 circle;660 -
+# game over: HP 1 (save.py field hp), end the turn (select, はい) twice (the first enemy turn can miss); the banner shows
+# ~300 frames into the second enemy turn (30-frame steps so --shot-every 30 catches it)
+gameover   from=battle set=hp=1 route=6 select;120 -;6 circle;660 -;6 select;120 -;6 circle;30 -;30 -;30 -;30 -;30 -;30 -;30 -;30 -;30 -;30 -;30 -;30 -;30 -;30 -
 # (the ゲームオーバー banner shows ~f700-900, then the game resets to the ATLUS logo and title by ~f1400)
 # --- city locations: room=N enters city-table row N from free movement (3 = 自室); cross leaves to the city map
 myroom      from=field_ch01 room=3 route=600 -

@@ -25,6 +25,27 @@ from PIL import Image  # noqa: E402
 
 GFX = ROOT / "gfx"
 
+# Sprite-layout byte patches (path, offset, original hex, new hex, why): for words the game builds from repeated cells.
+LAYOUT = [
+    # ゲーム|オ|ー|バ|ー banner (dungeon.g2d sprite of 4 quads, uv = 4 int16 at +8): the 2nd and 4th quads reuse the ー
+    # cell; point them at two free 32x32 cells of dungeon08 so "GAME OVER" can run across all 7 (gfx_dungeon_ui).
+    ("dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon.g2d", 0x8B38, "800060009f007f00", "c000c000df00df00", "game over"),
+    ("dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon.g2d", 0x8B78, "800060009f007f00", "e000c000ff00df00", "game over"),
+]
+
+
+def layout_edits():
+    """{unpacked path: patched bytes} for LAYOUT; refuses a patch whose original bytes differ."""
+    from source import members
+    want = {p for p, *_ in LAYOUT}
+    out = {p: bytearray(d) for p, d in members(*want) if p in want}
+    for p, off, old, new, why in LAYOUT:
+        o, n = bytes.fromhex(old), bytes.fromhex(new)
+        if out[p][off:off + len(o)] != o:
+            raise ValueError(f"LAYOUT {why}: {p}+{off:#x} is not {old}")
+        out[p][off:off + len(n)] = n
+    return {p: bytes(d) for p, d in out.items()}
+
 
 def rows():
     """[(group, path, png)] from gfx/*.tsv."""
@@ -132,6 +153,7 @@ def edits():
             if p in out and out[p] != new:
                 raise ValueError(f"{p}: two rows write different images")
             out[p] = new
+    out.update(layout_edits())
     return out
 
 

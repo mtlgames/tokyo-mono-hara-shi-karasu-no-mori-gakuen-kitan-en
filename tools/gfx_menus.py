@@ -120,6 +120,13 @@ class Atlas:
         return (self.path, gfx.save(self.img, GROUP, self.path, self.rects), "")
 
 
+def category_icon():
+    a = Atlas("system/category_icon.pak/system/category_icon.gim")
+    # item-menu category tabs: 全 (all) is the only kanji among the pictograms (16x16 cells)
+    a.put((0, 0, 16, 16), "All", "sans-b", 8, WHITE, align="c", min_x=0.6)
+    return a
+
+
 def report_card01():
     a = Atlas("system/_report_card.pak/system/report_card01.gim")
     # 成績表 title (white on transparent, x 3..78, y 0..22)
@@ -351,7 +358,7 @@ def ui_shop05():
     return a
 
 
-ROWS = [report_card01, status01, status02, ui_lsmap01, ui_map04, ui_album05, cardarc, map0999, ui_saveload01,
+ROWS = [category_icon, report_card01,status01, status02, ui_lsmap01, ui_map04, ui_album05, cardarc, map0999, ui_saveload01,
         ui_equip05, ui_exitem01, ui_flowercard01, ui_hensei03, ui_item05, ui_itemchange05, ui_itemget05,
         ui_itemgive01, ui_loading, ui_shop05]
 
