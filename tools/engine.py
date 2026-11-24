@@ -205,7 +205,7 @@ one:
     b ch
 done:
     ori $t6, $zero, {right}
-    subu $t2, $t6, $t2
+    subu $t2, $t6, $t2{keep}
     mtc1 $t2, $f12
     cvt.s.w $f12, $f12
     lui $t5, {dhi}
@@ -213,6 +213,14 @@ done:
     addu $t5, $t9, $t5
     jr $t5
 """  # shortcut: a byte >= 0x81 counts as a 2-byte SJIS char (half-width kana would skip a byte); labels are ASCII
+KEEP_X = """
+    trunc.w.s $f0, $f12
+    mfc1 $t6, $f0
+    slt $t7, $t6, $t2
+    movn $t2, $t6, $t7"""  # x = min(x, right - width): text only moves left when it would pass `right`
+# School floor/room list (free movement, field_ch01): x 383 from obj+0xb2 (animated), ~90 px to the screen edge;
+# room names run to 159 px. Draw call 0x088E4168: long names shift left to end at FLOOR_RIGHT.
+FLOOR_RIGHT = 472
 
 
 def jal_to(p, site, target, va):
@@ -227,7 +235,9 @@ def jal_to(p, site, target, va):
     p.log.append((o, old, new, f"{site:08x} jal stub (vaddr {va:x})"))
 
 
-def menu_right(p):
+def right_align(p, site, right, keep=False):
+    """Stub (code + advfont14 width table, 0x200 bytes in the added segment) for the DRAW_TEXT call at `site`:
+    f12 = right - width, or with keep min(f12, right - width)."""
     import eboot
     import insert
     w = insert.font_widths("advfont14")
@@ -236,12 +246,18 @@ def menu_right(p):
     off = len(p.d) - 0x200
     here = eboot.LOAD + va + 12
     delta = (DRAW_TEXT - here) & 0xFFFFFFFF
-    src = PXRIGHT.format(tbl=0x100 - 12, dhi=delta >> 16, dlo=delta & 0xFFFF, right=MENU_RIGHT)
+    src = PXRIGHT.format(tbl=0x100 - 12, dhi=delta >> 16, dlo=delta & 0xFFFF, right=right,
+                         keep=KEEP_X if keep else "")
     code = bytes(p.ks.asm(src, eboot.LOAD + va)[0])
     assert len(code) <= 0x100, len(code)
     p.d[off:off + len(code)] = code
     p.d[off + 0x100:off + 0x200] = table
-    jal_to(p, 0x08923BFC, DRAW_TEXT, va)
+    jal_to(p, site, DRAW_TEXT, va)
+
+
+def menu_right(p):
+    right_align(p, 0x08923BFC, MENU_RIGHT)
+    right_align(p, 0x088E4168, FLOOR_RIGHT, keep=True)
 
 
 if __name__ == "__main__":

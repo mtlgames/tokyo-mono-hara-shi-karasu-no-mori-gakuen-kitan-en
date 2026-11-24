@@ -16,34 +16,40 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
 - [x] **Wrong speaker plate:** ms01_00:011:35 (Hisae, 久榮) shows under ❖Gentle Schoolgirl❖ (field_ch01_sheet_22
   f012310-f012370); JP shows ❖久榮❖. Cause: 17-char names overflow the speaker-id lookup's 29-byte stack buffer
   into saved $s0 (engine.md §Name codes); fixed in engine.patch, cold boot work/qa/warp/spk f012332 shows ❖Hisae❖.
-- [ ] **School map list** (field_ch01 sheets 29-42): "Audiovisual R", "Student Coun", floor "School Ga" clipped
-  at the screen edge.
-- [ ] **Main menu** (menu_sheet f000096): labels no longer right-aligned at x ~431; "Equipment", "Card Enhanc…" run
-  over the red frame and off screen; "1,000 yen" n past the money plate's arrow tip.
+- [x] **Crash at ms01_00:022:08** (worker 4, build 6acc09db; field_ch01 warp died at f016626): speaker lookup
+  buffer zeroed only to sp+0x1d -> 15-17 char names got id -1 -> `{px}--` crashed. Zeroed to sp+0x24
+  (engine.md §Speaker-id lookups); field_ch01 runs to f52222 exit 0.
+- [x] **School map list** (field_ch01 sheets 29-42): "Audiovisual R", "Student Coun", floor "School Ga" clipped
+  at the screen edge. List at x ~383, ~92 px to the edge (advfont14); 23 room names and most relationship labels
+  (EBOOT 2b1f58..2b21dc) are wider (Student Council Room 158 px). `engine.right_align(0x088E4168, 472, keep)`:
+  x = min(x, 472 - width), long names shift left over the map (scene `field_rooms`).
+- [x] **Main menu** (menu_sheet f000096): labels no longer right-aligned at x ~431; "Equipment", "Card Enhanc…" run
+  over the red frame and off screen. Fixed: `engine.menu_right` (x = 432 - advfont14 width at the draw call
+  0x08923BFC), work/qa/warp/w4/menu2. Still open: "1,000 yen" n past the money plate's arrow tip.
 - [ ] **Name entry** (name_entry_sheet_2): mode tabs "Hiragana"/"Katakana"/"ABC/123" spill onto the grid; right
   buttons show only "Cross:"/"Circle:" (action words cut); "Triangle: Input Mode", "Square: Convert" past their
   plates. Graphics: header 日常と意識に関するアンケート, labels ふりがな/氏名 still Japanese.
-- [ ] Phone profile "Can't Change" past the phone screen edge (phone_prof_sheet f000236).
+- [x] Phone profile "Can't Change" past the phone screen edge (phone_prof_sheet f000236). systemtext:0600 -> "Locked".
 - [x] Caption dash "--" shows as two short hyphens with a gap (script "--" now encodes as ― 815C, one solid dash:
   work/qa/warp/dash f005290; the x 1 margin and " -- " vs "--" spacing are still open) ("Some years ago -- Public Library"); long caption
   starts at x 1 with no margin (field_ch01_sheet_7 f005290). Captions use "--" and " -- " inconsistently.
 - [ ] Help bar overlap also on the school map and myroom_desk; map f000390 "✕ Back○ Confir" (no gap, cut at
   x 480); shop "○ Confirm" cut at x 480.
-- [ ] Main/pause menu labels keep the JP start x: "Equipment", "Report Card" cross the red rule ~x 440,
-  "Card Enhanc" cut (menu, menu_cards/equip/item, saveload, report). Right-align them.
+- [x] Main/pause menu labels keep the JP start x: "Equipment", "Report Card" cross the red rule ~x 440,
+  "Card Enhanc" cut (menu, menu_cards/equip/item, saveload, report). Right-aligned (same draw loop, menu_right).
 - [ ] Quest-shop menu "Check Quests" right-aligned to x ~95, starts below x 0, C cut (shop_sheet f002530).
-- [ ] systemtext:0041:00 has no `\n`: "You don't currently own this" runs onto the frame, "card." lost
+- [x] systemtext:0041:00 has no `\n`: "You don't currently own this" runs onto the frame, "card." lost
   (menu_cards f000344; JP 2 lines).
 - [ ] 103 table strings whose JP has a line break and whose English has none (buddymes 48, systemtext 16,
   questshoptext 14, help 10, item 10, dialogmessage 5): check each box's width; systemtext:0041:00 fixed.
-- [ ] Item stats "AP Cost12": label over value (menu_item f000252).
+- [x] Item stats "AP Cost12": label over value (menu_item f000252). The label is EBOOT 2b5148 "Attack ... AP Cost" (values at fixed x): 2 spaces fewer (verify).
 - [ ] Equipped marker still kanji 装 ("Shinai 1装"); first category tab icon 全 (font glyph or graphics?)
   (menu_item f000252).
 - [ ] Phone settings (phone_set f000420): text speed value 瞬 still Japanese (not in script/: EBOOT/graphics?);
   "Short" past the phone screen edge, "Slow" touches it; ringtone "01: Electronic T…" ellipsised
   (tables/clctmelody); graphics: "Voice Volum" clipped (gfx_phone.py label cell 66 px).
 - [x] "--" in dialogue too (fixed with the caption dash) ("Even so--", trueend_sheet_14; prologue2): the dash glyph draws two short hyphens.
-- [ ] "□ Show Help" runs to x 480, last p clipped (field_ch01_sheet_27 f014860).
+- [ ] "□ Show Help" runs to x 480, last p clipped (field_ch01_sheet_27 f014860). systemtext:0659 -> "Help" (verify).
 - [ ] Readability: location caption and dialogue (no outline) over bright windows (field_ch01_sheet_28 f016210,
   sheet_29 f017470, sheet_3 f003250). The ADV gradient covers only x 0-150 (engine.md §Open): widen/darken it.
 - [ ] **Status page / report card** (field_ch01_sheet_11/12 f007210-f007420): name letters stacked, stat names over
@@ -53,6 +59,10 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   OXAS ticker "The Card Sealer exam has begun." runs onto the frame; opening quote shows as "˝", no closing quote.
 - [ ] **City map** (city_map_sheet f000306): place list clipped at the panel edge ("Karasu no Mo…").
 - [ ] **Help bar** (city_map, fend_c1): labels run under the next icon ("End Free Mo△Explo…"). Carried item.
+  Field bar: labels drawn by 0x088E4274 at fixed (x, y) from the EBOOT table 0x08AD5B14 (328/274/206/152/42, y 255),
+  icons are sprites placed elsewhere (not in that table; a .g2d layout?). Slots in advfont14: SELECT 96 px, △ 38,
+  □ 52, ✕ 38. Field labels shortened to fit (systemtext 0005-0007: Bonds / Look / End Roaming, worker 4). Other
+  bars (menu, map, shop, myroom, city map) still overlap: moving icons needs their sprite layout.
 - [~] **"~" glyph** (sysfont18): tiny raised dash with a gap ("fight~!", dg01 f005950, dun1_sheet_3). Script ～ now
   keeps the font's own full-width wave (fontpatch.KEEP; 13 lines re-wrapped for its width); not yet seen in game
   (dg01). Table/EBOOT strings still use the ASCII tilde.

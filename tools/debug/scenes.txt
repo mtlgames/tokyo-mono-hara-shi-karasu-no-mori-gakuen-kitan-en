@@ -82,5 +82,6 @@ city_map    from=myroom route=6 cross;300 -
 # --- story flow: ending free movement (select, はい) runs the next script of the game-state chapter
 field_end  from=field_ch01 route=6 select;60 -;6 left;30 -;6 circle;60 -
 prologue2  from=field_end mash=6000:circle,right,circle,cross
+field_rooms from=field_ch01 route=6 down;30 -;6 down;30 -;6 circle;90 -
 fend_c1    from=field_ch01 set=chapter=1 route=6 select;60 -;6 left;30 -;6 circle;60 -
 after_c1   from=fend_c1 mash=6000:circle,right,circle,cross

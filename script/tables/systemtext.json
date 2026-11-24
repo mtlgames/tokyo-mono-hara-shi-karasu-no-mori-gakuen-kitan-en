@@ -27,19 +27,19 @@
   "id": "systemtext:0005:00",
   "jp": "相関図",
   "refs": 2,
-  "en": "Relations"
+  "en": "Bonds"
  },
  {
   "id": "systemtext:0006:00",
   "jp": "探索",
   "refs": 2,
-  "en": "Explore"
+  "en": "Look"
  },
  {
   "id": "systemtext:0007:00",
   "jp": "自由移動終了",
   "refs": 1,
-  "en": "End Free Move"
+  "en": "End Roaming"
  },
  {
   "id": "systemtext:0008:00",
@@ -2871,7 +2871,7 @@
   "id": "systemtext:0600:00",
   "jp": "変更不可",
   "refs": 1,
-  "en": "Can't Change"
+  "en": "Locked"
  },
  {
   "id": "systemtext:0601:00",
@@ -3099,6 +3099,6 @@
   "id": "systemtext:0659:00",
   "jp": "ヘルプ表示",
   "refs": 1,
-  "en": "Show Help"
+  "en": "Help"
  }
 ]
