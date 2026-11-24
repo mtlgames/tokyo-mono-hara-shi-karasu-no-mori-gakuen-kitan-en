@@ -6693,7 +6693,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": "Peppy Schoolgirl"
+  "en": "Lively Schoolgirl"
  },
  {
   "id": "eboot:2b6b20",
@@ -6701,7 +6701,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Vibrant Voice"
+  "en": "Vivacious Voice"
  },
  {
   "id": "eboot:2b6b30",
@@ -6757,7 +6757,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Sturdy Voice"
+  "en": "Stalwart Voice"
  },
  {
   "id": "eboot:2b6b88",
@@ -6877,7 +6877,7 @@
   "slot": 24,
   "refs": 1,
   "enc": "cp932",
-  "en": "Boy with Sword Bag"
+  "en": "Sword-Bag Student"
  },
  {
   "id": "eboot:2b6c40",
@@ -6949,7 +6949,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Intercom"
+  "en": "Announcement"
  },
  {
   "id": "eboot:2b6cb8",
@@ -6957,7 +6957,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Bold Voice"
+  "en": "Spirited Voice"
  },
  {
   "id": "eboot:2b6cc8",
@@ -7061,7 +7061,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Figure in Shadow"
+  "en": "Figure in Shadows"
  },
  {
   "id": "eboot:2b6d60",
@@ -7101,7 +7101,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Icy Voice"
+  "en": "Steely Voice"
  },
  {
   "id": "eboot:2b6d8c",
@@ -7229,7 +7229,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": "Aloof Schoolgirl"
+  "en": "Icy Schoolgirl"
  },
  {
   "id": "eboot:2b6e90",
@@ -7277,7 +7277,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Sweet Voice"
+  "en": "Dainty Voice"
  },
  {
   "id": "eboot:2b6ecc",
@@ -7293,7 +7293,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Sweet Voice?"
+  "en": "Dainty Voice?"
  },
  {
   "id": "eboot:2b6ee4",
@@ -7341,7 +7341,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Brawny Schoolboy"
+  "en": "Burly Schoolboy"
  },
  {
   "id": "eboot:2b6f20",
@@ -7405,7 +7405,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Silken Voice"
+  "en": "Lilting Voice"
  },
  {
   "id": "eboot:2b6f7c",
@@ -7445,7 +7445,7 @@
   "slot": 8,
   "refs": 1,
   "enc": "cp932",
-  "en": "Young Voice"
+  "en": "Childlike Voice"
  },
  {
   "id": "eboot:2b6fa4",
@@ -7557,7 +7557,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Imperious Voice"
+  "en": "Domineering Voice"
  },
  {
   "id": "eboot:2b7034",
@@ -7581,7 +7581,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": "Voice from the Card"
+  "en": "Voice from a Card"
  },
  {
   "id": "eboot:2b7058",
@@ -7605,7 +7605,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Breezy Voice"
+  "en": "Carefree Voice"
  },
  {
   "id": "eboot:2b7074",
@@ -7653,7 +7653,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": "Voice Like a Bell"
+  "en": "Bell-Like Voice"
  },
  {
   "id": "eboot:2b70b0",
@@ -7709,7 +7709,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": "Flustered Teacher"
+  "en": "Harried Teacher"
  },
  {
   "id": "eboot:2b70f8",
@@ -7717,7 +7717,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Young Woman's Voice"
+  "en": "Young Woman Voice"
  },
  {
   "id": "eboot:2b7108",
@@ -7749,7 +7749,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Rough Man's Voice"
+  "en": "Thug's Voice"
  },
  {
   "id": "eboot:2b7138",
@@ -7757,7 +7757,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Man with a Cigarette"
+  "en": "Smoking Man"
  },
  {
   "id": "eboot:2b7148",
@@ -8101,7 +8101,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Mysterious Indian?"
+  "en": "Mystery Indian?"
  },
  {
   "id": "eboot:2b7340",
@@ -8133,7 +8133,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Man in White Uniform"
+  "en": "White-Uniform Man"
  },
  {
   "id": "eboot:2b736c",
@@ -8141,7 +8141,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Grave Voice"
+  "en": "Weighty Voice"
  },
  {
   "id": "eboot:2b7378",
@@ -8181,7 +8181,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": "American Hacker's Voice"
+  "en": "Hacker's Voice"
  },
  {
   "id": "eboot:2b73dc",
@@ -8221,7 +8221,7 @@
   "slot": 24,
   "refs": 1,
   "enc": "cp932",
-  "en": "Shikigami Bound to the Boy"
+  "en": "Boy's Shikigami"
  },
  {
   "id": "eboot:2b7428",
@@ -8229,7 +8229,7 @@
   "slot": 24,
   "refs": 1,
   "enc": "cp932",
-  "en": "Customer Who Just Came In"
+  "en": "New Customer"
  },
  {
   "id": "eboot:2b7440",
@@ -8285,7 +8285,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Tennis Club Member A"
+  "en": "Tennis Player A"
  },
  {
   "id": "eboot:2b749c",
@@ -8293,7 +8293,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Tennis Club Member B"
+  "en": "Tennis Player B"
  },
  {
   "id": "eboot:2b74ac",
@@ -8309,7 +8309,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Little Girl's Voice"
+  "en": "Little Girl Voice"
  },
  {
   "id": "eboot:2b74c8",
@@ -8357,7 +8357,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": "Pained Man's Voice"
+  "en": "Pained Male Voice"
  },
  {
   "id": "eboot:2b7520",
@@ -8373,7 +8373,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Newscaster's Voice"
+  "en": "Newscaster Voice"
  },
  {
   "id": "eboot:2b7538",
@@ -8389,7 +8389,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": "Shady-Looking Men"
+  "en": "Thuggish Men"
  },
  {
   "id": "eboot:2b7558",
@@ -8405,7 +8405,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Voice Like a Temple Bell"
+  "en": "Temple-Bell Voice"
  },
  {
   "id": "eboot:2b7574",
@@ -8453,7 +8453,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Aromatic Voice"
+  "en": "Savory Voice"
  },
  {
   "id": "eboot:2b75bc",
@@ -8493,7 +8493,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Schoolgirl's Voice"
+  "en": "Schoolgirl Voice"
  },
  {
   "id": "eboot:2b760c",
@@ -8509,7 +8509,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "JEMA Employee"
+  "en": "JEMA Staff"
  },
  {
   "id": "eboot:2b7628",
@@ -8549,7 +8549,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Girl in School Uniform"
+  "en": "Girl in Uniform"
  },
  {
   "id": "eboot:2b7664",
@@ -8565,7 +8565,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Voice from Outside"
+  "en": "Voice Outside"
  },
  {
   "id": "eboot:2b767c",
@@ -8613,7 +8613,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": "Thuggish Schoolboy"
+  "en": "Thuggish Student"
  },
  {
   "id": "eboot:2b76d0",
@@ -8621,7 +8621,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": "Kosei Schoolboy A"
+  "en": "Kosei Student A"
  },
  {
   "id": "eboot:2b76e4",
@@ -8629,7 +8629,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": "Kosei Schoolboy B"
+  "en": "Kosei Student B"
  },
  {
   "id": "eboot:2b76f8",
@@ -8637,7 +8637,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": "Kosei Schoolboy C"
+  "en": "Kosei Student C"
  },
  {
   "id": "eboot:2b770c",
@@ -8653,7 +8653,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Mystery Monk"
+  "en": "Mysterious Monk"
  },
  {
   "id": "eboot:2b7724",
@@ -8661,7 +8661,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Shady Bath Attendant"
+  "en": "Shady Attendant"
  },
  {
   "id": "eboot:2b7734",
@@ -8669,7 +8669,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Kendo Club Member A"
+  "en": "Kendo Member A"
  },
  {
   "id": "eboot:2b7740",
@@ -8677,7 +8677,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Kendo Club Member B"
+  "en": "Kendo Member B"
  },
  {
   "id": "eboot:2b774c",
@@ -8685,7 +8685,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Kendo Club Member C"
+  "en": "Kendo Member C"
  },
  {
   "id": "eboot:2b7758",
@@ -8765,7 +8765,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Dark-Skinned Royal"
+  "en": "Tan-Skinned Royal"
  },
  {
   "id": "eboot:2b77e4",
@@ -8781,7 +8781,7 @@
   "slot": 20,
   "refs": 1,
   "enc": "cp932",
-  "en": "Native American Chief"
+  "en": "Indian Chief"
  },
  {
   "id": "eboot:2b7808",
@@ -8797,7 +8797,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Imperial Defense Officer"
+  "en": "Imperial Officer"
  },
  {
   "id": "eboot:2b7824",

@@ -513,6 +513,21 @@ def merge(new, overwrite):
     print(f"merged: {changed} entries changed")
 
 
+def speaker_table_problems():
+    """The ADV matches each 【speaker】 against the EBOOT character table (insert.NAME_EBOOT[0]); a speaker whose
+    English differs from its table row's English gets id -1, and a {px} line under id -1 crashes (DG12_00:000:00
+    "Domineering Voice" vs table "Imperious Voice", worker 16). Every speaker in the table must match it exactly."""
+    import insert
+    lo, hi = insert.NAME_EBOOT[0]
+    table = {}
+    for e in json.loads((SCRIPT / "eboot.json").read_text(encoding="utf-8")):
+        if lo <= int(e["id"][6:], 16) < hi:
+            table.setdefault(e["jp"], []).append(e)
+    return [f"{t['id']}: character-table name {t.get('en')!r} != speaker {s['en']!r} ({s['jp']}): {{px}} crash risk"
+            for s in json.loads((SCRIPT / "speakers.json").read_text(encoding="utf-8"))
+            for t in table.get(s["jp"], []) if s.get("en") and t.get("en") != s["en"]]
+
+
 def main(argv):
     if not argv or {"-h", "--help"} & set(argv):
         sys.exit(__doc__)
@@ -536,6 +551,7 @@ def main(argv):
         # the build inserts the stored lines as they are: a line shape() would re-wrap is over its box
         bad += [f"{i}: stored wrap is not shape()'s (a line over the limit, or unbalanced): {e['en']!r}"
                 for i, e in entries.items() if e.get("en") and shape(e, e["en"]) != e["en"]]
+        bad += speaker_table_problems()
         print(f"{len(entries)} entries, {sum(bool(e.get('en')) for e in entries.values())} translated, "
               f"{len(bad)} problems")
         print("\n".join(bad[:200]))

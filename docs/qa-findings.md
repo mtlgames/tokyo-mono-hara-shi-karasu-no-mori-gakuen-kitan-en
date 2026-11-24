@@ -222,8 +222,14 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   font), so the fix is engine-side (shadow pass) or a wider gradient.
 
 ## Worker 16: stress scenes + re-tour of fd86cb47 (verdicts work/qa/verdicts/chunk_c8b1503f44a0_*.tsv)
-- [x] Item details stat line "Defense87" (stress_items f000900): eboot:2b5168 "Defense" -> "Defense " (the number is
-  appended; JP had trailing spaces). Verify in the next tour (menu_item / stress_items details pane).
+- [ ] Item details stat line "Defense87" (stress_items f000900, armor rows): eboot:2b5168. A trailing space
+  ("Defense ", d6101372) changed nothing: the number is likely drawn at a fixed x past the JP label (防御力 + 4
+  spaces), as the Attack line's numbers sit in its spaces. Find the draw (bpstr on 0x2B5168's refs) or try
+  `build.py --qa` with "Defense    " / "Def." (flag the abbreviation).
+- [x] **Crash: DG12_00** (cover sweep, EN only; original runs): `{px}--` under 【Domineering Voice】 while the EBOOT
+  character table said "Imperious Voice" -> speaker id -1 -> {px} crash (engine.md §Speaker-id lookups). 52 table
+  names synced to speakers.json (`batches.merge`), lint `batches.speaker_table_problems()` in `check`. Cold-boot
+  warp DG12_00 exit 0 on d6101372.
 - [x] Save dialog new-data icon 新規作成 しんきさくせい (stress_names f000996): `system/newdataicon.png`, a plain PNG
   the GIM survey missed -> `tools/gfx_newdata.py` "New Save"; gfx.edits ships `.png` rows as files. Verify in the
   next tour (saveload / stress_names save screen).

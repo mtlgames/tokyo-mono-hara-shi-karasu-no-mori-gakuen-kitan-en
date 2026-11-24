@@ -13,11 +13,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
   (all / 16 widest item names x99, 9,999,999 yen: fit), `stress_names` (WWWWW names: status page, report card, save
   dialog fit), `stress_names_battle`, `stress_names_msg1/2` (see qa-findings: need build/karasu_names.iso). Tag `st`
   shots in work/qa/warp/st/. (3) Fixes: "Defense " stat label, `system/newdataicon.png` -> "New Save"
-  (`tools/gfx_newdata.py`, gfx.py plain-file rows), 14 buddy bubble lines rewrapped + `batches.TABLE_PX` lint. Not
-  yet in build/karasu_en.iso (rebuild after the sweep). (4) **Text coverage** `tools/cover.py` (script level: 387
+  (`tools/gfx_newdata.py`, gfx.py plain-file rows), 14 buddy bubble lines rewrapped + `batches.TABLE_PX` lint. In
+  build d6101372. (4) **Text coverage** `tools/cover.py` (script level: 387
   .pwx with English; ids logged from warp/trace loads; tables/EBOOT need group waivers in docs/text_unshown.tsv):
   tour reached 22; `cover.py sweep` warps into every other script (results work/qa/cover/sweep.tsv, exit codes =
   crash/blank leads). (5) `tools/vqa_codex.py` runs chunks through codex exec once the limit resets.
+  (6) **Sweep done: `cover.py report` 387/387 scripts shown** (365 swept: 330 exit 0, 34 exit 3 = blank final frame,
+  1 crash). **Crash fixed: DG12_00** `{px}--` under a speaker whose EN differed from the EBOOT character-table EN
+  (id -1): 52 table names synced to speakers.json + lint `speaker_table_problems` (qa-findings §Worker 16). Build
+  `build/karasu_en.iso` sha1 d6101372 (all worker-16 fixes), smoke ok, check green; New Save icon verified in game
+  (work/qa/warp/st/verify.png); "Defense87" not fixed by the space (open). The 34 exit-3 scripts
+  (work/qa/cover/sweep.tsv) were not looked at: re-check a few against the original (`warp.py ROM NAME`).
 - **Phase 8, worker 15 (2026-11-24, stopped near the context limit):** **EPSOTD_END01-09 credit cards in English.**
   `credits.py`: `card_holds` (a card = 15+ still frames, NCC > 0.97 right of x 255; the closing 企画 アトラス card
   mid-screen from x 150), `Tracker` (per-frame x shift by FFT correlation over the card's text rows + alpha),
@@ -28,12 +34,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
   movies rendered, stamp current. New scene `edmovie1` (MS01_03 -> EPSOTD_END01; cold boot
   work/qa/warp/w15/edmovie1/final.png shows an English card). Build `build/karasu_en.iso` sha1 fd86cb47, smoke ok,
   check green (28).
-- **Next (phase 8, worker 17+):** (a) `python -X utf8 build.py` (no emulator may hold the ISO), smoke, then
-  re-tour (`warp.py --all --tag en --shot-every 30`; delete work/states/en/ first; ~45 min; includes the stress
+- **Next (phase 8, worker 17+):** (a) build d6101372 is current: re-tour (`warp.py --all --tag en --shot-every 30`; delete work/states/en/ first; ~45 min; includes the stress
   scenes now) and `tour_sheets.py`; unchanged sheets keep verdicts. (b) Visual QA of `qa_gate.py todo` chunks:
   `tools/vqa_codex.py --jobs 3` after 2026-11-26, else by hand (~8 sheets per chunk, stop near 150k context).
-  (c) `cover.py report`: review work/qa/cover/sweep.tsv non-zero exits (crash leads: reproduce with `warp.py ISO
-  NAME`), add waivers with reasons (tables/EBOOT groups, dev/test scripts) until it exits 0. (d) Names build:
+  (c) `cover.py` exits 0 at script level; decide tables/EBOOT (loaded whole at boot: waive as groups or note in
+  the release report that the menu tours cover them); the 34 blank-final sweep scripts vs the original. (d) Names build:
   `build.py --qa tools/debug/stress_names.tsv --out build/karasu_names.iso`, run stress_names_msg1/2 on it.
 - **Old next (worker 16; re-tour, stress, textcover started):** Re-tour (`warp.py --all --tag en`, delete work/states/en/ first; ~1 h+),
   `tools/tour_sheets.py`, `qa_gate.py todo` -> visual QA of the new manifest (no subagents in Orca runs: review the
