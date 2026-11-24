@@ -5,6 +5,9 @@
 
 # --- ADV: prologue and chapter starts (the chapter card / opening movie are commands inside MSxx_00)
 name_entry newgame mash=2400:circle
+# clear the default name, ABC mode, type 10 letters (field width with player-typed English)
+name_type  from=name_entry route=6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 triangle;30 -;6 triangle;30 -;6 circle;20 -;6 right;20 -;6 circle;20 -;6 right;20 -;6 circle;20 -;6 right;20 -;6 circle;20 -;6 right;20 -;6 circle;20 -;6 right;20 -;6 circle;20 -;6 right;20 -;6 circle;20 -;6 right;20 -;6 circle;20 -;6 right;20 -;6 circle;20 -;6 right;20 -;6 circle;20 -;60 -
+name_max   from=name_type route=6 circle;30 -;6 circle;30 -;6 circle;30 -;6 circle;30 -;6 circle;30 -;6 circle;30 -;6 circle;30 -;6 circle;30 -;6 circle;30 -;6 circle;30 -;6 circle;30 -;6 circle;30 -;60 -
 prologue   script=MS00_00 mash=600:circle
 ch01       script=MS01_00 mash=900:circle
 ch02       script=MS02_00 mash=900:circle

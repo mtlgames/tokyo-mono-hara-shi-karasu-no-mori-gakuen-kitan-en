@@ -69,7 +69,7 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
 - [x] "--" in dialogue too (fixed with the caption dash) ("Even so--", trueend_sheet_14; prologue2): the dash glyph draws two short hyphens.
 - [x] "□ Show Help" runs to x 480, last p clipped (field_ch01_sheet_27 f014860). systemtext:0659 -> "Help" (worker 8:
   5 chars shorter than the clipped label, so it ends ~40 px inside the screen; field bar re-shot w8b/field_ch01).
-- [ ] Readability: location caption and dialogue (no outline) over bright windows (field_ch01_sheet_28 f016210,
+- [x] (worker 13: moved to docs/polish.md) Readability: location caption and dialogue (no outline) over bright windows (field_ch01_sheet_28 f016210,
   sheet_29 f017470, sheet_3 f003250). The ADV gradient covers only x 0-150 (engine.md §Open): widen/darken it.
 - [~] **Status page / report card** (field_ch01_sheet_11/12 f007210-f007420): name letters stacked, stat names over
   the arrows, summary text clipped at screen edge, "Social Studies" over its grade cell, "Best Subject" over
@@ -173,7 +173,9 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   Infirmary, Broadcasting, Custodian, Dojo, Guidance, Chem Lab, PC Lab, Home Ec., Principal, Librarian, Square Club,
   AV Room, Council Room...), full names in fit-queue; `batches.py check` fails a list name over 97 px. Verify next tour.
 - [x] Field help bar "End Roaming△Look": no gap before △ (fend_c1 f000066/f000102). Worker 11: "End Roam" (74 px, JP 84).
-- [~] Name entry (name_entry f003430, chunk 036; worker 12: tabs fixed, engine.NAME_TAB_X 10 -> 7, w12/name_entry; the
+- [x] Name entry. **Worker 13: accepted.** Clearing the default and typing in ABC mode draws the letters
+  proportionally, left to right in the field (scenes `name_type`, `name_max`, w13/name_type). Only kana appended
+  after the 9-letter default "Shichidai" land in fixed cells past the field; moved to docs/polish.md. Before (name_entry f003430, chunk 036; worker 12: tabs fixed, engine.NAME_TAB_X 10 -> 7, w12/name_entry; the
   typed-chars-after-default-name field limit still open): mode tabs "Kata"/"ABC" lose their last letter at the tab's right
   edge (カナ/英数 fit). Typed chars after the default "Shichidai" start at x~310, ~2 fit before the field edge x~340
   (JP 七代ああああああ fits): the field width counts the default name's bytes/cells; only seen when typing after the
@@ -209,6 +211,6 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   engine layout by width.
 - [x] Item menu "View Valuables": last s cut by the green divider at x~247 (menu_item f000252). Worker 11:
   "Valuables"; cards bar 武器効果/防具効果 -> "Weapon"/"Armor" (was "Armor Effect" under ✕). Equip bar still open.
-- [ ] Readability over bright lights (ch08 f001960-f002410 corridor light at x 235-250, ch03 caption over a
+- [x] (worker 13: moved to docs/polish.md, as engine.md §Open rates it; the outline keeps it legible) Readability over bright lights (ch08 f001960-f002410 corridor light at x 235-250, ch03 caption over a
   yellow sign): same as the Readability item above; sysfont18 is a plain 4-bit alpha mask (no outline in the
   font), so the fix is engine-side (shadow pass) or a wider gradient.

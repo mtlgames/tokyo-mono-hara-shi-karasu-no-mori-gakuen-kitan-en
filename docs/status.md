@@ -2,9 +2,26 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (visual QA of the 915f3c67 tour complete: 338/338 sheets have a
-  verdict, 234 ok / 102 issue; worker 12 fixed most §Re-tour items; a few fixes left, then a re-tour of the current
-  build; phase 7 done 2026-11-24).
+- **Phase:** 8. QA in the emulator, in progress (qa-findings §Re-tour items all closed or moved to polish.md by
+  worker 13; left: credits movies, then a re-tour of the current build + its visual QA; phase 7 done 2026-11-24).
+- **Phase 8, worker 13 (2026-11-24, stopped near the context limit):** (1) **Dungeon loader 読み込み中 fixed:** the
+  EBOOT carries its own zdv copies of ui_loading.g2d/.gim (ELF 0x2A64F0/0x2A6918; RAM dump matched the original
+  pixels, a zlib scan of the ELF found them, no other zdv in the ELF); `gfx.EBOOT_COPIES` + `build.eboot(text, ed)`
+  recompress the English GIM into the slot (test_eboot_copies); cold boot w13/dun_tut f002320 "Loading...".
+  (2) Report card 担任 -> "Tutor" (fit-queue: Homeroom Teacher), fits (w13/report_card); "Go-Home Club" still ends
+  1 px on the right frame (values right-aligned to ~472; anchor not found, minor). (3) Name entry: typing an English
+  name after clearing the default works (new scenes `name_type`, `name_max`); kana appended to "Shichidai" -> polish.
+  (4) Readability -> polish.md. (5) `fileopen.py` runs without --state (cold boot). (6) Credits survey: the 9
+  EPSOTD_END movies share some text cards but not all (cast/theme cards differ per chapter: per-movie transcription);
+  cards are white serif text, right half, on black with falling red cards and tilted photos (left). Build
+  `build/karasu_en.iso` sha1 4e8e811c, smoke ok, check green (27).
+- **Next (phase 8, worker 14+):** (a) **Credits movies** (D3/D22: English): BADENDLOST, BADENDSEAL, TRUEEND (left
+  column over scenery) + EPSOTD_END01-09 (~110 s, right-half name cards). Transcribe each card (frame grabs via
+  `pmf.es` + ffmpeg, read at full res), romanise names (Hepburn with macrons as the glossary does; company names as
+  they style themselves: Atlus, HYDE, Sunset Studio, Esprism), put them in a data file, then extend `tools/movie.py`
+  (veil over each card's text rect + English lines with the card's alpha, pmf.swap keeps the container; audio
+  untouched). (b) Re-tour (`warp.py --all --tag en`, delete work/states/en/ first), `tools/tour_sheets.py`, visual QA
+  of the new manifest, stress saves, textcover.
 - **Phase 8, worker 12 (2026-11-24, stopped near the context limit):** qa-findings §Re-tour items fixed, each checked
   in a cold-boot warp (`work/qa/warp/w12/`, tag w12): (1) **help bars** laid out by label width (`engine.help_bars`,
   HELP_BARS: equip/cards/item-get/card-effect bars; equip now "△Remove □Range ✕Back ○Select"); map bar Back x 388.
@@ -13,7 +30,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   (4) **Report card**: whole name in one slot (FULLNAME stub now keeps a0 = character id; also on L/R switch),
   Teacher, Activity Log "Earlier". (5) Name entry tabs x 7, phone Profile labels x 290, "Voices", "All Map" caption.
   New scene `report_card`. Build `build/karasu_en.iso` sha1 6f24b0e9, check green (26), smoke ok.
-- **Next (phase 8, worker 13+):** (a) left in qa-findings §Re-tour: dungeon 読み込み中 loader (notes there), name-entry
+- **Old next (worker 13; (a) done):** (a) left in qa-findings §Re-tour: dungeon 読み込み中 loader (notes there), name-entry
   field after the default name, readability over bright lights, Teacher value tight on the report card. (b) Credits
   movies (pmf.py swap; staff names need a romanised list). (c) Then re-tour (`warp.py --all --tag en`, delete
   work/states/en/ first), `tools/tour_sheets.py`, visual QA of the new manifest, stress saves, textcover.

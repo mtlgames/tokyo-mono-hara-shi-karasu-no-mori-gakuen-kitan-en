@@ -113,3 +113,4 @@ systemtext:0071:00	Languages	over the 56 px status page cell (frame tiles drawn 
 systemtext:0388:00	Reflexes	over the 56 px status page cell (frame tiles drawn by code): game shows "Reflex"
 systemtext:0389:00	Willpower	over the 56 px status page cell (frame tiles drawn by code): game shows "Will"
 systemtext:0391:00	Judgment	over the 56 px status page cell (frame tiles drawn by code): game shows "Judgmt"
+systemtext:0549:00	Homeroom Teacher	report card row label (box 152 px with the teacher name): game shows "Tutor" (form tutor)
