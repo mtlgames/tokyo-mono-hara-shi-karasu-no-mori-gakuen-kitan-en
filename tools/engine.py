@@ -224,8 +224,10 @@ KEEP_X = """
     slt $t7, $t6, $t2
     movn $t2, $t6, $t7"""  # x = min(x, right - width): text only moves left when it would pass `right`
 # School floor/room list (free movement, field_ch01): x 383 from obj+0xb2 (animated), ~90 px to the screen edge;
-# room names run to 159 px. Draw call 0x088E4168: long names shift left to end at FLOOR_RIGHT.
-FLOOR_RIGHT = 472
+# room names run to 159 px. Draw call 0x088E4168: long names shift left to end at FLOOR_RIGHT. The red panel is
+# x 378-480 (same list on the city map), so names stay within 97 px (start >= 380; short forms, fit-queue).
+FLOOR_RIGHT = 477
+FLOOR_MAX = 97
 
 
 def jal_to(p, site, target, va, op=0x0C000000):

@@ -39,7 +39,7 @@
   "id": "systemtext:0007:00",
   "jp": "自由移動終了",
   "refs": 1,
-  "en": "End Roaming"
+  "en": "End Roam"
  },
  {
   "id": "systemtext:0008:00",
@@ -1143,7 +1143,7 @@
   "id": "systemtext:0208:00",
   "jp": "貴重品を見る",
   "refs": 1,
-  "en": "View Valuables"
+  "en": "Valuables"
  },
  {
   "id": "systemtext:0209:00",
@@ -1155,13 +1155,13 @@
   "id": "systemtext:0210:00",
   "jp": "武器効果",
   "refs": 1,
-  "en": "Weapon Effect"
+  "en": "Weapon"
  },
  {
   "id": "systemtext:0211:00",
   "jp": "防具効果",
   "refs": 1,
-  "en": "Armor Effect"
+  "en": "Armor"
  },
  {
   "id": "systemtext:0212:00",

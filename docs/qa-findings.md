@@ -160,7 +160,19 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   names (Karasu Academy is still 120 px), so preferred fix: move the panel left (its g2d quad via gfx.LAYOUT, like
   the GAME OVER banner) and the list x (obj+0xb2, draw call 0x088E4168, engine.FLOOR_RIGHT) to give ~160 px; only
   "Karasu no Mori Academy" then needs a short form (D16). Fallback: short forms per D16 + fit-queue rows.
-- [ ] Field help bar "End Roaming△Look": no gap before △ (fend_c1 f000066/f000102).
+  **Worker 11:** the panel is no g2d quad found by shape scan (ui_map.g2d has only small cells; likely drawn by
+  code/primitive), so took the fallback: `engine.FLOOR_RIGHT` 472 -> 477, `FLOOR_MAX` 97 px (start >= 380), 22 list
+  names short (East Exit, Hanazono, Gyoen Park, Shinjuku Sta., Karasu Acad., Karasuba, Yahiro Acad., Shinjuku PD,
+  Infirmary, Broadcasting, Custodian, Dojo, Guidance, Chem Lab, PC Lab, Home Ec., Principal, Librarian, Square Club,
+  AV Room, Council Room...), full names in fit-queue; `batches.py check` fails a list name over 97 px. Verify next tour.
+- [x] Field help bar "End Roaming△Look": no gap before △ (fend_c1 f000066/f000102). Worker 11: "End Roam" (74 px, JP 84).
+- [ ] Name entry (name_entry f003430, chunk 036): mode tabs "Kata"/"ABC" lose their last letter at the tab's right
+  edge (カナ/英数 fit). Typed chars after the default "Shichidai" start at x~310, ~2 fit before the field edge x~340
+  (JP 七代ああああああ fits): the field width counts the default name's bytes/cells; only seen when typing after the
+  default name (players usually clear it). Check the field's max chars vs the 9-letter default.
+- [ ] Survey choice (choice_pre f008230/f008260, chunk 024): options "Remember the survey" / "Don't remember the
+  survey" at y~36/56 but the red cursor bar at y~86-106, on neither row (the Shake hands choice is right). JP tour
+  has no frame of it (shot every 90): re-shoot JP choice_pre around f008200-f008330 with --shot-every 30 first.
 - [ ] Status page (field_ch01 f007060/f007090) still: Judgment into the Value column, Willpower/Reflexes/Stamina
   touch ▲, Japanese/Languages into the Grade column, ▼ on the Summary border, "Summary" header right-aligned.
   Report card (f007120/f007150): "Kazuki" over "Shichidai" (surname first), "Homeroom" over "Asako Hatori",
@@ -180,7 +192,8 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
 - [ ] Help bars: cards "□Armor Effect" under ✕ (menu_cards f000344); equip "△Remove □Range" under □/✕
   (menu_equip f000298); map bar "Back" touching ○. Fixed icon slots (qa-findings §Help bar): shorter words or
   engine layout by width.
-- [ ] Item menu "View Valuables": last s cut by the green divider at x~247 (menu_item f000252).
+- [x] Item menu "View Valuables": last s cut by the green divider at x~247 (menu_item f000252). Worker 11:
+  "Valuables"; cards bar 武器効果/防具効果 -> "Weapon"/"Armor" (was "Armor Effect" under ✕). Equip bar still open.
 - [ ] Readability over bright lights (ch08 f001960-f002410 corridor light at x 235-250, ch03 caption over a
   yellow sign): same as the Readability item above; sysfont18 is a plain 4-bit alpha mask (no outline in the
   font), so the fix is engine-side (shadow pass) or a wider gradient.

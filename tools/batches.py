@@ -94,6 +94,12 @@ def widths():
     return insert.font_widths("sysfont18")
 
 
+@lru_cache(None)
+def menu_widths():
+    import insert
+    return insert.font_widths("advfont14")
+
+
 NAME_VAR = re.compile(r"\{(p[xmn])\}")
 NAME_ENTRY = "W" * 5  # the name entry takes 5 characters per name (work/qa/warp/en/name_entry); W is the widest
 
@@ -280,6 +286,11 @@ def width_problems(entry, en):
     elif f == "eboot":
         if len(en) > eboot_limit(entry):
             return [f"over {eboot_limit(entry)} bytes ({len(en)})"]
+        if 0x2B1E40 <= int(entry["id"][6:], 16) <= 0x2B2038:  # city map / school room list in the red panel
+            import engine
+            w = sum(menu_widths().get(ord(c), 14) for c in en)
+            if w > engine.FLOOR_MAX:
+                return [f"list name over {engine.FLOOR_MAX}px in advfont14 ({w})"]
     else:
         line, total, n = table_limit(entry)
         s = "\n".join(lines)

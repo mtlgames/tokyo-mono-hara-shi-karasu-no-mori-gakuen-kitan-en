@@ -86,3 +86,25 @@ hanafuda:0046:04	Paulownia / Chaff II	over 14b / 1 lines of 14b: [9, 8]
 hanafuda:0047:04	Paulownia and / Phoenix	over 14b / 1 lines of 14b: [13, 7]
 questclnt:0009:00	Imperial Defense / Force	over 18b / 1 lines of 18b: [16, 5]
 questrewarditem:0036:00	Imperial Defense / Force	over 18b / 1 lines of 18b: [16, 5]
+eboot:2b1e40	East Exit Area	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b1e4c	South Exit Area	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b1e6c	Hanazono Shrine	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b1e8c	Shinjuku Gyoen	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b1ebc	Shinjuku Station	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b1ec4	Karasu no Mori Academy	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b1ed8	Karasuba Shrine	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b1f04	Yahiro Academy	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b1f18	Shinjuku Police	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b1f58	Nurse's Office	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b1f60	Broadcast Room	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b1f68	Custodian's Room	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b1f84	Martial Arts Hall	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b1fa0	Guidance Office	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b1fac	Chemistry Lab	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b1fb8	Computer Lab	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b1fc4	Home Economics	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b1fe0	Principal's Office	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b1ff8	Librarian's Room	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b2000	Square Research Club	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b2024	Audiovisual Room	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+eboot:2b2038	Student Council Room	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form

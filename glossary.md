@@ -92,14 +92,14 @@ separates alternatives) and the Avoid column.
 ## Places
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
-| 鴉乃杜學園 / 鴉乃杜学園 | Karasu no Mori Academy / Karasu no Mori Acad. | | the school; "Acad." only in dictionary:0039:04 (20b, fit-queue) | |
+| 鴉乃杜學園 / 鴉乃杜学園 | Karasu no Mori Academy / Karasu no Mori Acad. / Karasu Acad. | | the school; "Acad." only in dictionary:0039:04 (20b, fit-queue); "Karasu Acad." only in the city map list (97 px, fit-queue) | |
 | 鴉乃杜 | Karasu no Mori | | | |
 | 寇聖 | Kosei | | rival school (寇聖高校 Kosei High) | Kousei |
 | 新宿 | Shinjuku | | | |
 | 歌舞伎町 | Kabukicho | | | |
 | 霞ヶ関 | Kasumigaseki | | | |
 | 中央公園 | Central Park | | 新宿中央公園 Shinjuku Central Park | |
-| 花園神社 | Hanazono Shrine | | | |
+| 花園神社 | Hanazono Shrine / Hanazono | | "Hanazono" only in the city map list (97 px, fit-queue) | |
 | 鴉羽神社 / 鴉羽 | Karasuba | | ruby からすば; 鴉羽神社 Karasuba Shrine | |
 | 新宿署 | Shinjuku Police / Shinjuku PD | | Togashi's police station | |
 | 国立国会図書館 / 国会図書館 | Diet Library | | National Diet Library ("Diet Library" in tight captions) | |
@@ -118,9 +118,9 @@ separates alternatives) and the Avoid column.
 | 龍穴 | Dragon Lair | | 人工龍穴 Artificial Dragon Lair | |
 | 生徒会 | student council / council | | 生徒会長 Student Council President | |
 | 風紀委員 | disciplinary committee | | | |
-| 司書室 | Librarian's Office / Librarian's Room | | "Room" only in the 18b EBOOT location name and its key | |
-| 進路指導室 | Guidance Office | | | |
-| 武道場 | Martial Arts Hall | | | |
+| 司書室 | Librarian's Office / Librarian's Room / Librarian | | "Librarian" only in the school map room list (97 px panel, fit-queue) | |
+| 進路指導室 | Guidance Office / Guidance | | "Guidance" only in the school map room list (fit-queue) | |
+| 武道場 | Martial Arts Hall / Dojo | | "Dojo" only in the school map room list (fit-queue) | |
 | 下駄箱 | shoe locker | | caption "Shoe Lockers" | |
 | グラウンド | Athletic Field | | (not enforced) caption "Athletic Field--"; "field" in dialogue | |
 
@@ -153,7 +153,7 @@ separates alternatives) and the Avoid column.
 | 調合 | Mix | | | Combine |
 | 依頼 | Quest | | (not enforced) quest board; 依頼人 Client | |
 | 特別依頼 | Bonus Quest | | | Special Quest / Special Job |
-| 八汎學院 / 八汎学院 | Yahiro Academy | | ruby 八汎|やひろ | Happan / Yahiro Institute |
+| 八汎學院 / 八汎学院 | Yahiro Academy / Yahiro Acad. | | ruby 八汎|やひろ; "Yahiro Acad." only in the city map list (fit-queue) | Happan / Yahiro Institute |
 | 八汎 | Yahiro | | | Happan |
 | 龍珠堂 | Ryujudo | | | Ryuzudo / Ryushudo / Dragon Orb Hall |
 | 特課 | Division | | 収集特課 Collection Division | Special Section / the Unit |

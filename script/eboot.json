@@ -2413,7 +2413,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "East Exit Area"
+  "en": "East Exit"
  },
  {
   "id": "eboot:2b1e4c",
@@ -2421,7 +2421,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "South Exit Area"
+  "en": "South Exit"
  },
  {
   "id": "eboot:2b1e58",
@@ -2445,7 +2445,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": "Hanazono Shrine"
+  "en": "Hanazono"
  },
  {
   "id": "eboot:2b1e78",
@@ -2469,7 +2469,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": "Shinjuku Gyoen"
+  "en": "Gyoen Park"
  },
  {
   "id": "eboot:2b1e98",
@@ -2509,7 +2509,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": "Shinjuku Station"
+  "en": "Shinjuku Sta."
  },
  {
   "id": "eboot:2b1ec4",
@@ -2517,7 +2517,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": "Karasu no Mori Academy"
+  "en": "Karasu Acad."
  },
  {
   "id": "eboot:2b1ed0",
@@ -2533,7 +2533,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": "Karasuba Shrine"
+  "en": "Karasuba"
  },
  {
   "id": "eboot:2b1ee4",
@@ -2565,7 +2565,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": "Yahiro Academy"
+  "en": "Yahiro Acad."
  },
  {
   "id": "eboot:2b1f10",
@@ -2581,7 +2581,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": "Shinjuku Police"
+  "en": "Shinjuku PD"
  },
  {
   "id": "eboot:2b1f20",
@@ -2645,7 +2645,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": "Nurse's Office"
+  "en": "Infirmary"
  },
  {
   "id": "eboot:2b1f60",
@@ -2653,7 +2653,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": "Broadcast Room"
+  "en": "Broadcasting"
  },
  {
   "id": "eboot:2b1f68",
@@ -2661,7 +2661,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": "Custodian's Room"
+  "en": "Custodian"
  },
  {
   "id": "eboot:2b1f74",
@@ -2685,7 +2685,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": "Martial Arts Hall"
+  "en": "Dojo"
  },
  {
   "id": "eboot:2b1f8c",
@@ -2709,7 +2709,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": "Guidance Office"
+  "en": "Guidance"
  },
  {
   "id": "eboot:2b1fac",
@@ -2717,7 +2717,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": "Chemistry Lab"
+  "en": "Chem Lab"
  },
  {
   "id": "eboot:2b1fb8",
@@ -2725,7 +2725,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": "Computer Lab"
+  "en": "PC Lab"
  },
  {
   "id": "eboot:2b1fc4",
@@ -2733,7 +2733,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": "Home Economics"
+  "en": "Home Ec."
  },
  {
   "id": "eboot:2b1fd0",
@@ -2757,7 +2757,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": "Principal's Office"
+  "en": "Principal"
  },
  {
   "id": "eboot:2b1fe8",
@@ -2781,7 +2781,7 @@
   "slot": 8,
   "refs": 2,
   "enc": "cp932",
-  "en": "Librarian's Room"
+  "en": "Librarian"
  },
  {
   "id": "eboot:2b2000",
@@ -2789,7 +2789,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": "Square Research Club"
+  "en": "Square Club"
  },
  {
   "id": "eboot:2b200c",
@@ -2821,7 +2821,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": "Audiovisual Room"
+  "en": "AV Room"
  },
  {
   "id": "eboot:2b2030",
@@ -2837,7 +2837,7 @@
   "slot": 12,
   "refs": 2,
   "enc": "cp932",
-  "en": "Student Council Room"
+  "en": "Council Room"
  },
  {
   "id": "eboot:2b2044",

@@ -2,7 +2,23 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (visual QA of the 915f3c67 tour: chunks 000-017 done, 018-041 left; phase 7 done 2026-11-24).
+- **Phase:** 8. QA in the emulator, in progress (visual QA of the 915f3c67 tour complete: 338/338 sheets have a
+  verdict, 234 ok / 102 issue; fixes then a re-tour of the current build next; phase 7 done 2026-11-24).
+- **Phase 8, worker 11 (2026-11-24):** (1) **Visual QA chunks 018-041** done by `translate-retro-game:visual-qa`
+  agents (`qa_gate.py todo`: 0 of 338 without a verdict). New items in qa-findings §Re-tour: survey choice cursor bar
+  off its rows (choice_pre f008230), name entry tabs "Kata"/"ABC" clipped + typed chars after the default name run
+  out of the field. The rest were known items (staff-roll movies, room list, readability, loader sprite). (2) **City
+  map / school room list fits:** the red panel isn't a g2d quad (shape scan of every UI g2d found none; likely drawn by
+  code), so `engine.FLOOR_RIGHT` 477 + `FLOOR_MAX` 97 px and 22 short list names (full names in fit-queue, glossary
+  alternates, `batches.py check` fails a list name over 97 px); verified in cold-boot warps `work/qa/warp/w11/
+  city_map`, `field_rooms`. (3) Help bars: "End Roam" (gap before △), "Valuables", cards "Weapon"/"Armor". Build
+  `build/karasu_en.iso` sha1 fb69132c.
+- **Next (phase 8, worker 12+):** (a) remaining qa-findings §Re-tour items: status page/report card (name stubs,
+  Homeroom, stat label column), dungeon 読み込み中 loader sprite, equip help bar (Remove/Range in 28-42 px slots:
+  engine layout by width), survey choice bar, name entry tabs/field, phone "Report Card" bezel, Voice Volume label,
+  All Map label, readability. (b) Credits movies (pmf.py swap; staff names need a romanised list). (c) Then re-tour
+  (`warp.py --all --tag en`, delete work/states/en/ first), `tools/tour_sheets.py`, visual QA of the new manifest,
+  stress saves, textcover.
 - **Phase 8, worker 10 (2026-11-24, stopped at the context limit):** (1) **Chapter cards done:** `tools/movie.py`
   adds a dark blurred veil over the erased columns (no stroke survives), `build.py` splices the 10 STORYTITLE PMFs
   (`movie.pmfs()` renders missing ones into gitignored gfx/movie, ~5 min; needs work/iso from unpack_all), verified
@@ -14,13 +30,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   dungeon 読み込み中 loader, readability, help bars, phone labels, All Map, View Valuables). (3) Shop bar
   questshoptext:0013 -> "OK". (4) Movie survey: staff rolls in BADENDLOST/BADENDSEAL/TRUEEND + EPSOTD_END01-09;
   PROLOGUE/EYECATCH logo only (K). Build `build/karasu_en.iso` sha1 e0de3d9c, smoke ok, check green.
-- **Next (phase 8, worker 11+):** (a) visual QA of chunks 018-041 (`qa_gate.py todo work/qa/manifest.tsv
-  work/qa/verdicts`; dispatch prompt: brief + chunk + verdict file + "sheet N = frames 16(N-1)+1..16N" + the known
-  list, max 4 agents at a time). (b) Fix qa-findings §Re-tour items: room/city list panel (g2d move + list x),
-  report card name (status_name stubs) + Homeroom, stat label column, dungeon loader sprite, help bars,
-  readability (shadow pass or wider gradient). (c) Credits movies (pmf.py swap keeps audio; staff names need a
-  romanised list). (d) Then rebuild, re-tour (`warp.py --all --tag en`, delete work/states/en/ first),
-  `tools/tour_sheets.py`, visual QA, stress saves, textcover.
+- Visual-QA dispatch prompt (worked for workers 10-11): brief + chunk + verdict file + "sheet N = frames
+  16(N-1)+1..16N" + the known list, max 4 agents at a time.
 - **Phase 8, worker 9 (2026-11-24, stopped at the context limit):** (1) `tools/gfx_dungeon_tiles.py`: 敵/将 map
   markers -> Foe/Boss, 鬼 stone plate -> Oni; virtue/horse/是非/plaques/点火 stay kanji (D22). (2) **Re-tour** of
   build `build/karasu_en.iso` sha1 915f3c67 (`warp.py --all --tag en --shot-every 30`, log work/qa/tour_run.log): 57
