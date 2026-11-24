@@ -5,7 +5,7 @@ Library for tools/debug/warp.py and RE probes (PPSSPP has no Lua). Wraps the ski
     python -X utf8 tools/debug/pspdbg.py ISO --out DIR [--route R] [--frames N] dump ADDR SIZE FILE
     python -X utf8 tools/debug/pspdbg.py ISO --out DIR modules
 """
-import argparse, base64, os, sys
+import argparse, base64, os, shutil, sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from skill import SCRIPTS
 sys.path.insert(0, SCRIPTS)
@@ -18,6 +18,8 @@ MOD_BASE = 0x08804000   # EBOOT load address in PPSSPP (checked with `modules`);
 class Session(psp.Run):
     def __init__(self, iso, out, state=None, memstick=None, sav=None, plain_saves=True):
         ms = os.path.abspath(memstick or os.path.join(out, 'memstick'))
+        # default memstick is per run: a save left by an earlier build would show its stale PARAM.SFO title
+        if not memstick: shutil.rmtree(ms, ignore_errors=True)
         if sav: psp.seed_saves(ms, sav)
         # plain_saves: the game's saves are written unencrypted (noenc.ini), so save.py can edit them
         extra = [f'--appendconfig={NOENC}'] if plain_saves else []

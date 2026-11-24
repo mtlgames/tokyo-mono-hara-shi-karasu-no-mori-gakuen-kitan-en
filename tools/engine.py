@@ -637,14 +637,17 @@ def defense_value(p):
 
 
 # Menu money plate (0x08922F94 labels, 0x08923218 number): the 8-digit number ends at x 148 (t0 = 140), the unit
-# label (systemtext 0647) at x 150. "yen" (25 px vs 円 14) ran into the plate's arrow tip (~170): both move left;
-# 9,999,999 then starts ~2 px right of the fixed colon of "Money:" (x 67).
-MONEY_DX = 7
+# label (systemtext 0647) at x 150. "yen" (25 px vs 円 14) ran into the plate's arrow tip (~170): all move left,
+# the unit 1 px more (gap to the number ~3 px), "Money" (x 16) and its own colon draw (x 62) 2 px so 9,999,999
+# stays ~1.5 px off the colon.
+MONEY_LABEL_DX, MONEY_DX, MONEY_UNIT_DX = 2, 10, 11
 
 
 def money_plate(p):
+    p.asm(0x08922FBC, f"addiu $a2, $zero, {16 - MONEY_LABEL_DX}", [0x24060010])
+    p.asm(0x089231E8, f"addiu $t0, $zero, {62 - MONEY_LABEL_DX}", [0x2408003E])
     p.asm(0x08923224, f"addiu $t0, $zero, {140 - MONEY_DX}", [0x2408008C])
-    p.asm(0x08923000, f"addiu $a2, $zero, {150 - MONEY_DX}", [0x24060096])
+    p.asm(0x08923000, f"addiu $a2, $zero, {150 - MONEY_UNIT_DX}", [0x24060096])
 
 
 # Phone settings values (scene `phone_set`): row r draws its values from x 251 + start, each next one at the previous
