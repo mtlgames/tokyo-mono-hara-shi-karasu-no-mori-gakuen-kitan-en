@@ -2,8 +2,18 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (left: verdicts for the sheets the 67a64351 re-tour changed
-  (`qa_gate.py check` exit 0), .znt textures seen in game; phase 7 done 2026-11-24).
+- **Phase:** 8. QA in the emulator, in progress (left: re-tour of 917ef4ac, verdicts for changed sheets,
+  `qa_gate.py check` exit 0; phase 7 done 2026-11-24).
+- **Phase 8, worker 20b (2026-11-25):** worker 20's fixes (money plate, per-run memstick, Counter plate) and its
+  uncommitted staff-roll "Chorus      : Aina Kase" (colon now in the Vocals/Lyrics/Music column, checked on frame
+  4191 of BADENDLOST) committed. Worker 20's own build.py died mid-movie (its claude.exe was still alive when this
+  worker started; decided to let it finish, then built). Build `build/karasu_en.iso` **sha1 917ef4ac**, smoke ok,
+  check green (29). **Re-tour started** (`rm -rf work/states/en work/qa/warp/en`, `warp.py --all --tag en
+  --shot-every 30`): Claude Code's memory-pressure reaper killed it after 48 scenes (all exit 0; last done
+  `wrap_skip`), so work/qa/warp/en holds a partial tour. **Next:** re-run the same tour command in full (free RAM
+  first: other repos' harness runs share the machine), `tour_sheets.py`, verdicts for the chunks `qa_gate.py todo`
+  lists (expect changes: money plate, Counter plate, stress save title, credits), `qa_gate.py check` exit 0, then
+  phase 9 (.znt textures: RAM-verified, a shot not reached; accept that in the release notes).
 - **Phase 8, worker 19 (2026-11-25):** all 24 chunks `chunk_4d8a89c9dff5_*` got verdicts (visual-qa agents; codex
   still limited): 188 ok, the ADV shadow clean everywhere; **2 issues, both fixed**: (1) status page: a 0's ▼ sat on
   the Summary divider (stats and subjects) and "Social St." crossed its cell: `engine.STATUS_VALUES/STATUS_DOWN`
