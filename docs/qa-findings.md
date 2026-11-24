@@ -222,10 +222,12 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   font), so the fix is engine-side (shadow pass) or a wider gradient.
 
 ## Worker 16: stress scenes + re-tour of fd86cb47 (verdicts work/qa/verdicts/chunk_c8b1503f44a0_*.tsv)
-- [ ] Item details stat line "Defense87" (stress_items f000900, armor rows): eboot:2b5168. A trailing space
+- [x] Item details stat line "Defense87" (stress_items f000900, armor rows): eboot:2b5168. A trailing space
   ("Defense ", d6101372) changed nothing: the number is likely drawn at a fixed x past the JP label (防御力 + 4
   spaces), as the Attack line's numbers sit in its spaces. Find the draw (bpstr on 0x2B5168's refs) or try
   `build.py --qa` with "Defense    " / "Def." (flag the abbreviation).
+  Worker 17: value drawn at label x0 + 42 (0x089B2180); `engine.defense_value` -> + 56, label "Defense    " (4
+  spaces keep the strlen centring). work/qa/warp/nm/stress_items f000900 "Defense  87".
 - [x] **Crash: DG12_00** (cover sweep, EN only; original runs): `{px}--` under 【Domineering Voice】 while the EBOOT
   character table said "Imperious Voice" -> speaker id -1 -> {px} crash (engine.md §Speaker-id lookups). 52 table
   names synced to speakers.json (`batches.merge`), lint `batches.speaker_table_problems()` in `check`. Cold-boot
@@ -235,6 +237,7 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   next tour (saveload / stress_names save screen).
 - [x] Buddy bubble "Whoops, Oni have shown" touches the chevron's right border (battle final): lines over 215 px
   (sysfont18 px) rewrapped (14 buddymes:08 entries), lint `batches.TABLE_PX`.
-- [ ] stress_names_msg1/2: dialogue {px} still shows "Shichidai": the speaker record's name is set at New Game
+- [x] (worker 17: on karasu_names.iso both splice WWWWW and keep 3 lines inside the box, work/qa/warp/nm/
+  stress_names_msg1/2 final.png) stress_names_msg1/2: dialogue {px} still shows "Shichidai": the speaker record's name is set at New Game
   from the EBOOT defaults, not from the game state. Run those two scenes on `build.py --qa
   tools/debug/stress_names.tsv --out build/karasu_names.iso` (defaults = WWWWW) instead.

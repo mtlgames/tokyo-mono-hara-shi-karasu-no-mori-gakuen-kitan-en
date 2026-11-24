@@ -86,6 +86,10 @@ dun1_walk  from=dg01 mash=6000:up+circle,up,up,up+circle,up,right
 dun1       script=DG01_00 set=chapter=1,dun_area=1 mash=11400:circle,right,circle,cross route=300 -
 # straight into bg01_00 (tutorial script DG00_00, then the dungeon task loads dun_area 1; no chapter-1 events)
 dun1_direct script=DG00_00 set=dun_area=1 mash=900:circle
+# the same into other areas (dungeonareainfo row: 4 bg04_00, 8 bg07_00, 12 bg11_00): .znt sign/numeral textures
+dun_bg04   script=DG00_00 set=dun_area=4 mash=900:circle
+dun_bg07   script=DG00_00 set=dun_area=8 mash=900:circle
+dun_bg11   script=DG00_00 set=dun_area=12 mash=900:circle
 # battle: walk the corridor to door 2 (扉を開く), enter 狩猟の間; 4 隠人 engage after a few steps (chapter stays 0)
 battle     from=dun1_direct route=450 up;60 -;6 circle;900 -;200 up;300 -
 # game over: HP 1 (save.py field hp), end the turn (select, はい) twice (the first enemy turn can miss); the banner shows

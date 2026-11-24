@@ -103,6 +103,7 @@ def patch(p: Patcher):
     status_labels(p)
     status_name(p)
     ticker(p)
+    defense_value(p)
     phone_settings(p)
     help_bars(p)
     # choice keys: LEFT (0x80) = next, RIGHT (0x20) = previous -> DOWN (0x40), UP (0x10)
@@ -477,6 +478,16 @@ def ticker(p):
     p.asm(0x08940AF8, f"sltiu $v0, $v0, {n + 1}", [0x2C420021])
     p.asm(0x08940ECC, f"addiu $s0, $s0, {n}", [0x26100020])
     p.asm(0x08940F18, f"addiu $s0, $s2, {n}", [0x26500020])
+
+
+# Item details armor line (0x089B20A8): label eboot:2b5168 drawn from x0 = centre - strlen * 3.5, its "%3d" value at
+# x0 + 42 (防御力 = 3 x 14 px). English "Defense" is 56 px in advfont14, so the value ran into it ("Defense87"):
+# value at x0 + 56 (the %3d space is the gap); the label keeps 4 trailing spaces so strlen centres label + value.
+DEF_VALUE_DX = 56
+
+
+def defense_value(p):
+    p.asm(0x089B2180, f"addiu $v0, $v0, {DEF_VALUE_DX}", [0x2442002A])
 
 
 # Phone settings values (scene `phone_set`): row r draws its values from x 251 + start, each next one at the previous
