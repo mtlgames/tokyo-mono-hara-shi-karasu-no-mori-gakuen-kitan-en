@@ -72,10 +72,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
   movies rendered, stamp current. New scene `edmovie1` (MS01_03 -> EPSOTD_END01; cold boot
   work/qa/warp/w15/edmovie1/final.png shows an English card). Build `build/karasu_en.iso` sha1 fd86cb47, smoke ok,
   check green (28).
-- **Next (phase 8, worker 20+):** (a) once work/qa/tour_en.log is complete (71 scenes, wrap_skip exit 3 as known):
-  `tools/tour_sheets.py` -> chunks for sheets without a current verdict (only the status page / save dialog / any
-  title sheets should change), verdicts (`translate-retro-game:visual-qa` agents, max 20 at once, or
-  `tools/vqa_codex.py --jobs 3` after 2026-11-26 14:14), then `qa_gate.py check` exit 0. Do not rebuild before that.
+- **Next (phase 8, worker 20+):** (a) Re-tour of 67a64351 done (71 exit 0, wrap_skip 3), `tour_sheets.py`: 38
+  sheets in chunks `chunk_12538c997bbe_000..004`, all verdicts written: status page confirmed fixed; **1 issue**
+  (chunk 004, stress_names_sheet): (i) the save dialog f000996 still shows the long title because the stress
+  memstick's seeded save `work/qa/warp/en/stress_names/memstick/PSP/SAVEDATA/ULJM05638_KARASUNOMORI_0000/PARAM.SFO`
+  dates from the old build (the dialog shows the existing save's SFO): find where warp/save.py seeds it, re-make the
+  seed with the new build (or patch its SFO TITLE), re-shoot, check the title fits; (ii) money plate: "yen" n (x
+  166-167, y 262-264) touches the arrow's lower diagonal at "1,000 yen" (stress_names f000506/f000720; original 円
+  ends x 160): move the money text/unit ~3 px left (qa-findings line ~284 called it fixed). Then rebuild, re-tour,
+  verdicts for changed sheets, `qa_gate.py check` exit 0.
   (b) .znt textures in game: `startroom.py` (above), then play.py from work/states/room/*.ppst; look for the yellow
   1-4 tiles (gfx/out/dungeon_tiles/*bg0011_004*.png) and the bg0011_obj003-006 wall numerals in waginoma, the Oni
   plate in seihennoma; jugon_hanahuda01/jugon_boss placement not found (obj.bin names them, objhaichi.bin does not).
