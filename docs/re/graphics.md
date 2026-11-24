@@ -74,10 +74,13 @@ the re-encoded GIM back in place, same size). Text found: see qa-findings.md "Du
     of scenery before the roll; each ends on an English "presents" logo (kept). Audio = private stream 0xBD,
     untouched by `pmf.swap`.
   - `EPSOTD_END01-09` (~3300-3420 frames): per-chapter credits as ~12 cards on the right half (text x >= ~265),
-    black + falling dark-red cards (G = B ~ 0) behind, sepia photos sliding on the left that reach x ~250. Each
-    card slides in from the left in ~15 frames, holds ~180 frames, drifts/fades out; a card's max-over-time image
-    is smeared by that motion, so runs must come from a hold frame and each frame needs its x offset. Cards 2-3
-    (cast) differ per chapter, the rest are shared (`credits.py scan` lists them).
+    black + falling dark-red cards (G = B ~ 0; END06-07 teal, R < G = B) behind, sepia photos sliding on the left
+    that reach x ~250. Each card slides in from the left on the same eased curve (dx -185, -154, -126 ... -1 over
+    ~20 frames, no fade), holds ~195-225 frames, then drifts right (+1 ... +88 px, fading) off screen; the closing
+    企画 アトラス card fades in mid-screen (x 211-280). Runs come from the hold's brightest frame; every other
+    frame's x offset from `credits.Tracker` (FFT correlation over the card's text rows, score ~0.9-1.0 on the real
+    card, <= 0.65 elsewhere). 33 unique cards (keys `<MOVIE>@<hold start>`, rows in credits.tsv); cast cards and
+    the HYDE staff card differ per chapter, the rest are shared (`credits.py scan` lists them).
   `tools/credits.py` re-encodes both kinds (scan -> labelled sheets in work/movie/credits/, build -> gfx/movie/).
 - XMB: `PSP_GAME/ICON0.PNG`, `PIC0.PNG`, `PIC1.PNG` (title art), `PARAM.SFO` title string.
 - Boot notices (autosave warning, "memory stick" checks) are drawn as text over a GIM frame: font text from the

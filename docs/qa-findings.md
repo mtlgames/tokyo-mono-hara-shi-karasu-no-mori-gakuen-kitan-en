@@ -148,9 +148,11 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   BADENDSEAL, TRUEEND (left column over scenery) and EPSOTD_END01-09 (per-chapter end credits, ~100 s each, cards of
   names over tilted photos). PROLOGUE and EYECATCH00-10 carry only the logo (K).
   Worker 14: **staff roll done** in BADENDLOST/BADENDSEAL/TRUEEND (`tools/credits.py`, text `gfx/credits/credits.tsv`
-  roll:000-239, D23), spliced by build.py through `movie.pmfs()`. **Open: EPSOTD_END01-09 cards** (22 unique cards;
-  `credits.py scan EPSOTD_END0*` keys them, but the run finder needs per-frame x tracking first: see
-  docs/re/graphics.md "Outside the GIMs" and status Next).
+  roll:000-239, D23), spliced by build.py through `movie.pmfs()`.
+  Worker 15: **EPSOTD_END01-09 cards done** (33 unique cards, 303 runs in credits.tsv; hold + per-frame x tracking,
+  docs/re/graphics.md "Outside the GIMs"; unnamed roles as speakers.json: One-Eyed Old Man, Mystery Indian?,
+  Cold-Eyed Man). Known residue: while a card slides in over a photo (~3 frames) the motion-blurred JP leaves a
+  faint smudge on the photo's white border.
 
 ## Re-tour of 915f3c67 (worker 10 visual QA, verdicts work/qa/verdicts/chunk_bfd6e685d291_*.tsv)
 - [x] **Worker 13: fixed.** The EBOOT holds its own zdv copies of ui_loading.g2d/.gim (ELF 0x2A64F0/0x2A6918, a

@@ -8,9 +8,11 @@ Two kinds of credits (docs/re/graphics.md "Outside the GIMs"):
 - ROLL (BADENDLOST, BADENDSEAL, TRUEEND): one staff roll scrolling up a black panel on the left at a constant
   speed (measured per movie, ~0.92-0.94 px/frame). The roll is stitched from the frames, its text runs (one line,
   split at wide gaps) are keyed roll:N in reading order; the three movies show the same roll.
-- CARDS (EPSOTD_END01-09): static blocks of lines on the right half, fading in and out over falling red cards
-  (black and dark red, G=B~0). Each card is keyed by its first sighting, <MOVIE>@<frame>, and found again in the
-  other movies by its text mask.
+- CARDS (EPSOTD_END01-09): blocks of lines on the right half over falling red cards (black and dark red, G=B~0)
+  and tilted sepia photos (left). Each card slides in from the left (~20 frames, eased), holds, then drifts out to
+  the right and off screen; the closing 企画 アトラス card fades in mid-screen. A card is found where it holds
+  still, keyed by its first sighting, <MOVIE>@<hold start>, and found again in the other movies by its text mask;
+  then followed frame by frame out of the hold (Tracker: x shift by correlation over its text rows, alpha).
 English for every run is in gfx/credits/credits.tsv (key, jp, en; en "-" = erase only, "=" = leave as is). Per frame the Japanese ink in each
 run box is filled from around it (normalized Gaussian convolution: the backdrop there is flat black / dark red /
 the panel's dark gradient), then the English is drawn left-aligned in the box at the Japanese line's height, faded
@@ -41,7 +43,8 @@ ROLL = ["BADENDLOST", "BADENDSEAL", "TRUEEND"]
 CARDS = [f"EPSOTD_END{n:02d}" for n in range(1, 10)]
 BAND = 200            # roll: the panel and its gradient edge, x < BAND
 PANEL = 150           # roll: English must end left of this (the panel is pure black up to ~145)
-CARD_X = 240          # cards: text lives right of this (the tilted photos are left of it)
+CARD_X = 255          # cards: a held card's text is right of this (the tilted photos reach ~250)
+LOGO_X = 150          # cards: the closing card's text is right of this
 GAP = 12              # px of blank that splits a line into runs
 
 
@@ -130,40 +133,46 @@ def roll_runs(roll):
 # ---------------------------------------------------------------- cards
 
 def ink(f):
-    """Card text mask weight: G channel over the black / dark red backdrop (G = B ~ 0 there)."""
-    return np.minimum(f[:, CARD_X:, 1], f[:, CARD_X:, 2])
+    """Card text weight (uint8 HxW): near-neutral pixels, min(G, B) where G ~ B and R >= G (white ink over black /
+    dark red, whose G = B ~ 0; the sepia photos have G > B, END06-07's teal cards and photos R < G = B)."""
+    r, g, b = (f[..., i].astype(np.int16) for i in range(3))
+    return np.where((np.abs(g - b) < 16) & (r + 16 >= g), np.minimum(g, b), 0).astype(np.uint8)
 
 
-def card_scan(name):
-    """[(first, last, peak frame, max-G image, runs)] of each text card in a CARDS movie."""
-    sums, peak_img, segs, cur = [], None, [], None
+def card_holds(name):
+    """[(first, last, ref)] of the stretches (15+ frames) where a card stands still: successive frames' ink right
+    of CARD_X alike (normalized correlation > 0.97). ref: the brightest frame's ink, from CARD_X on, or from
+    LOGO_X on when its text reaches past CARD_X (the closing 企画 アトラス card sits mid-screen, with no photos)."""
+    out, cur, prev = [], None, None
     for n, f in frames(MOVIE / f"{name}.PMF"):
-        g = ink(f)
-        s = int((g > 60).sum())
-        sums.append(s)
-        if s > 150:
+        full = ink(f)
+        g = full.copy()
+        g[:, :CARD_X] = 0
+        a = g.astype(np.float32)
+        s = float(a.sum())
+        still = prev is not None and s > 12000 and \
+            float((a * prev).sum()) / np.sqrt(float((a * a).sum()) * float((prev * prev).sum()) + 1e-6) > 0.97
+        if still:
             if cur is None:
-                cur = [n, n, n, s, g.copy()]
-            else:
-                cur[1] = n
-                if s > cur[3]:
-                    cur[2], cur[3] = n, s
-                np.maximum(cur[4], g, out=cur[4])
-        elif cur is not None:
-            segs.append(cur)
+                cur = [n - 1, n, -1.0, None]
+            cur[1] = n
+            if s > cur[2]:
+                if (g[:, CARD_X] > 60).any():
+                    g = full
+                    g[:, :LOGO_X] = 0
+                cur[2], cur[3] = s, g
+        else:
+            if cur is not None and cur[1] - cur[0] >= 15:
+                out.append((cur[0], cur[1], cur[3]))
             cur = None
-    if cur is not None:
-        segs.append(cur)
-    out = []
-    for first, last, peak, _, img in segs:
-        rs = runs(img > 60, x_off=CARD_X)
-        if rs:
-            out.append((first, last, peak, img, rs))
-    return out, np.array(sums)
+        prev = a
+    if cur is not None and cur[1] - cur[0] >= 15:
+        out.append((cur[0], cur[1], cur[3]))
+    return out
 
 
 def same_card(a, ra, b, rb):
-    """Two cards (max-G image, runs) show the same text: the same run boxes (+-2 px) and IoU of their dilated
+    """Two cards (ref ink, runs) show the same text: the same run boxes (+-2 px) and IoU of their dilated
     masks > 0.75 (same-length names in the same spots differ in their glyphs)."""
     if len(ra) != len(rb) or np.abs(np.array(ra) - np.array(rb)).max() > 2:
         return False
@@ -172,19 +181,88 @@ def same_card(a, ra, b, rb):
 
 
 def card_index(names):
-    """{movie: [(key, first, last, runs)]}: every card of the movies, keyed by its first sighting in CARDS order
-    (scanning all of CARDS keeps the keys stable whichever movies are built)."""
+    """{movie: [(key, first, last, runs, ref)]}: every held card of the movies, keyed by its first sighting in
+    CARDS order (scanning all of CARDS keeps the keys stable whichever movies are built). A card shown twice in a
+    row (a hold broken by a passing photo) is one card."""
     seen, out = [], {}
     for name in CARDS:
-        cards, _ = card_scan(name)
         out[name] = []
-        for first, last, peak, img, rs in cards:
-            key = next((k for k, im, r in seen if same_card(im, r, img, rs)), None)
+        for first, last, ref in card_holds(name):
+            rs = runs(ref > 60)
+            if not rs:
+                continue
+            key = next((k for k, im, r in seen if same_card(im, r, ref, rs)), None)
             if key is None:
-                key = f"{name}@{peak:04d}"
-                seen.append((key, img, rs))
-            out[name].append((key, first, last, rs, img))
+                key = f"{name}@{first:04d}"
+                seen.append((key, ref, rs))
+            prev = out[name][-1] if out[name] else None
+            if prev and prev[0] == key and first - prev[2] < 30:
+                out[name][-1] = (key, prev[1], last, prev[3], prev[4])
+            else:
+                out[name].append((key, first, last, rs, ref))
     return {n: out[n] for n in names}
+
+
+DX = (-330, 200)     # cards: x shifts from the hold place searched while a card slides in / drifts out
+REACH = 90            # cards: frames before / after a hold that the card may still show (slides ~20, fades)
+
+
+class Tracker:
+    """Finds one card in a frame's ink: the x shift dx with the best normalized correlation of the card's ref
+    over its text rows (cards only slide sideways), and its brightness alpha against the ref."""
+    N = 1024           # FFT width: > W + the widest card, so no shift wraps onto another
+
+    def __init__(self, ref, rs):
+        ys = sorted({y for b in rs for y in range(max(b[1] - 1, 0), min(b[3] + 1, H))})
+        self.ys = np.array(ys)
+        sup = (ref > 30)[self.ys]                     # r lives inside sup, so score <= 1 (Cauchy-Schwarz)
+        r = ref[self.ys].astype(np.float32) * sup
+        self.R = np.conj(np.fft.rfft(r, self.N, axis=1))
+        sup = sup.astype(np.float32)
+        self.S = np.conj(np.fft.rfft(sup, self.N, axis=1))
+        self.dx = np.arange(DX[0], DX[1] + 1)
+        cum = np.r_[0, np.cumsum((r * r).sum(axis=0))]   # ref energy still on screen at each shift
+        self.rr = cum[np.clip(W - self.dx, 0, W)] - cum[np.clip(-self.dx, 0, W)]
+
+    def __call__(self, g):
+        """(dx, alpha, score) for frame ink g."""
+        f = g[self.ys].astype(np.float32)
+        c = np.fft.irfft((np.fft.rfft(f, self.N, axis=1) * self.R).sum(axis=0), self.N)[self.dx % self.N]
+        e = np.fft.irfft((np.fft.rfft(f * f, self.N, axis=1) * self.S).sum(axis=0), self.N)[self.dx % self.N]
+        rr = np.maximum(self.rr, 1)
+        score = c / np.sqrt(np.maximum(e, 1) * rr) * (self.rr > self.rr.max() / 5)
+        i, i0 = int(np.argmax(score)), -DX[0]
+        return int(self.dx[i]), float(c[i] / rr[i]), float(score[i]), float(c[i0] / rr[i0])
+
+
+def card_track(name, cards):
+    """{frame: [(card index, dx, alpha)]}: each card followed out from its hold, frame by frame, while it still
+    matches (score > 0.6) and moves on smoothly (slides in from the left, drifts out to the right: dx never
+    turns back, steps < 45 px)."""
+    trs = [Tracker(ref, rs) for _, _, _, rs, ref in cards]
+    near = {}
+    for n, f in frames(MOVIE / f"{name}.PMF"):
+        hit = [i for i, c in enumerate(cards) if c[1] - REACH <= n <= c[2] + REACH]
+        if hit:
+            g = ink(f)
+            near[n] = {i: trs[i](g) for i in hit}
+    out = {}
+    for i, (_, first, last, _, _) in enumerate(cards):
+        mid = (first + last) // 2
+        for step, stop in ((-1, first - REACH - 1), (1, last + REACH + 1)):
+            prev = 0
+            for n in range(mid, stop, step):
+                if n not in near:
+                    break
+                dx, al, sc, al0 = near[n][i]
+                if sc < 0.6 or al < 0.03 or abs(dx - prev) > 45 or (dx - prev) * step < -1:
+                    if not first <= n <= last:
+                        break
+                    dx, al = 0, al0                        # held: the card is there whatever passes over it
+                if n != mid or step < 0:
+                    out.setdefault(n, []).append((i, dx, min(al, 1.0)))
+                prev = dx
+    return out
 
 
 # ---------------------------------------------------------------- text
@@ -193,19 +271,19 @@ def table():
     if not TSV.exists():
         return {}
     with TSV.open(encoding="utf-8", newline="") as fh:
-        rows = list(csv.reader(fh, delimiter="\t"))
+        rows = list(csv.reader(fh, delimiter="\t", quoting=csv.QUOTE_NONE))   # "Kirifuda" keeps its quotes
     for r in rows:
         if len(r) != 3:
             raise ValueError(f"{TSV.name}: row {r} has {len(r)} columns, want key, jp, en")
     return {r[0]: r[2] for r in rows[1:]}
 
 
-def layer(text, box, limit, colour):
-    """RGBA image of one English run, left-aligned at the box, as tall as the Japanese line, shrunk to fit
-    limit (the x it must end before). Returns (image, x, y)."""
+def layer(text, box, limit, colour, size=None):
+    """RGBA image of one English run, left-aligned at the box, as tall as the Japanese line (or size px), shrunk
+    to fit limit (the x it must end before). Returns (image, x, y)."""
     x0, y0, x1, y1 = box
     h = y1 - y0
-    size = 15 if h >= 14 else 13 if h == 13 else 11   # as the Japanese: names / section heads / roles, notes
+    size = size or (15 if h >= 14 else 13 if h == 13 else 11)   # names / section heads / roles, notes
     f = ImageFont.truetype(FONT, size)
     l, t, r, b = f.getbbox(text)
     im = Image.new("L", (r - l + 2, h + size), 0)
@@ -214,6 +292,8 @@ def layer(text, box, limit, colour):
         im = im.resize((max(limit - x0, 8), im.height), Image.LANCZOS)
     cap = f.getbbox("H")
     y = y0 + (h - (cap[3] - cap[1])) // 2 - cap[1]     # cap height centred on the Japanese line
+    if abs(x0 + x1 - W) < 24:                          # a line centred on screen stays centred
+        x0 = (x0 + x1 - im.width) // 2 + 1
     return im, x0 - 1, y, colour
 
 
@@ -374,37 +454,56 @@ def build_roll(name, text):
     write(name, render)
 
 
+def shift_x(a, dx):
+    """a (HxW) moved dx px right, zeros shifted in."""
+    out = np.zeros_like(a)
+    if dx >= 0:
+        out[:, dx:] = a[:, :W - dx]
+    else:
+        out[:, :W + dx] = a[:, -dx:]
+    return out
+
+
 def build_cards(name, cards, text):
-    plan = []                                          # (first, last, runs, layers, peak ink per run)
-    for key, first, last, rs, img in cards:
+    plan = []                                          # (runs, layers, erase mask at the hold place)
+    for key, first, last, rs, ref in cards:
         lays = []
         for i, box in enumerate(rs):
             en = text.get(f"{key}:{i}", "")
             if not en:
                 raise KeyError(f"{name}: {key}:{i} has no English in {TSV.name}")
             nxt = [b[0] for b in rs if b[0] > box[2] and b[1] < box[3] and b[3] > box[1]]
-            lays.append(en if en in "-=" else layer(en, box, min(nxt + [W - 4]) - 4, (235, 235, 235)))
+            size = 15 if box[3] - box[1] >= 15 else 12  # two sizes on a card (JP 16-18 px names, 11-14 px roles)
+            lays.append(en if en in "-=" else layer(en, box, min(nxt + [W - 4]) - 4, (235, 235, 235), size))
         keep = [i for i, lay in enumerate(lays) if lay != "="]
-        rs, lays = [rs[i] for i in keep], [lays[i] for i in keep]
-        peak = [float(img[b[1]:b[3], b[0] - CARD_X:b[2] - CARD_X].sum()) for b in rs]
-        plan.append((first - 2, last + 2, rs, lays, peak))
+        erase = np.zeros((H, W), bool)
+        for i in keep:
+            x0, y0, x1, y1 = rs[i]
+            erase[max(y0 - 3, 0):y1 + 3, max(x0 - 3, 0):x1 + 3] = True
+        erase &= binary_dilation(ref > 12, iterations=2)
+        plan.append(([rs[i] for i in keep], [lays[i] for i in keep], erase.astype(np.float32)))
+    track = card_track(name, cards)
+    last_dx = {}
 
     def render(n, f):
-        live = [p for p in plan if p[0] <= n <= p[1]]
-        if not live:
+        if n not in track:
             return f
         img = f.astype(np.float32)
-        for _, _, rs, lays, peak in live:
-            mask = np.zeros((H, W), np.float32)
-            for b in rs:
-                mask = np.maximum(mask, text_mask(f, b, 6))
-            alphas = [min(1.0, float(np.minimum(f[b[1]:b[3], b[0]:b[2], 1], f[b[1]:b[3], b[0]:b[2], 2]).sum())
-                          / max(pk, 1) * 1.1) for b, pk in zip(rs, peak)]
-            for b in rs:
-                fill(img, mask, b)
-            for lay, al in zip(lays, alphas):
+        for i, dx, al in track[n]:
+            rs, lays, erase = plan[i]
+            if not rs:
+                continue
+            v = abs(dx - last_dx.get(i, dx))           # px moved since the last frame: the JP is smeared that far
+            last_dx[i] = dx
+            m = shift_x(erase, dx)
+            if v > 1:
+                m = np.maximum(m, binary_dilation(m > 0, np.ones((1, 2 * (v // 2) + 1), bool)).astype(np.float32))
+            for x0, y0, x1, y1 in rs:
+                fill(img, m, (max(x0 + dx - v, 0), y0, min(x1 + dx + v, W), y1))
+            for (x0, y0, x1, y1), lay in zip(rs, lays):
                 if lay != "-" and al > 0.01:
-                    stamp(img, lay, al)
+                    im, x, y, c = lay
+                    stamp(img, (im, x + dx, y, c), al)
         return np.clip(img + 0.5, 0, 255).astype(np.uint8)
 
     write(name, render)
@@ -466,11 +565,9 @@ def scan(names):
                 rows += [(f"{key}:{i}", name, *b) for i, b in enumerate(rs)]
                 if key not in done:
                     done.add(key)
-                    crops += [(f"{key}:{i}", img[max(b[1] - 1, 0):b[3] + 1, max(b[0] - CARD_X - 1, 0):b[2] - CARD_X + 1])
+                    crops += [(f"{key}:{i}", img[max(b[1] - 1, 0):b[3] + 1, max(b[0] - 1, 0):b[2] + 1])
                               for i, b in enumerate(rs)]
-                    full = np.zeros((H, W), np.uint8)
-                    full[:, CARD_X:] = img
-                    sheet(full[:, CARD_X:], [(b[0] - CARD_X, b[1], b[2] - CARD_X, b[3]) for b in rs],
+                    sheet(img[:, CARD_X:], [(b[0] - CARD_X, b[1], b[2] - CARD_X, b[3]) for b in rs],
                           [f"{key}:{i}" for i in range(len(rs))], WORK / f"card_{key.replace('@', '_')}.png", 3)
     if crops:
         strips(crops, WORK / "card_runs")
@@ -479,7 +576,7 @@ def scan(names):
                                                                       + rows)
 
 
-DONE = ROLL          # movies whose every run has English in credits.tsv (CARDS: not transcribed yet)
+DONE = ROLL + CARDS  # movies whose every run has English in credits.tsv
 
 
 def stamp_of():

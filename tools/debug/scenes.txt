@@ -60,6 +60,8 @@ wrap_skip  script=MS01_00 block=11 mash=900:circle
 # --- endings: the scripts play the ending movie with the staff credits (MS11_04 bad end, MS13_03 true end)
 badend     script=MS11_04 mash=9000:circle
 trueend    script=MS13_03 mash=20000:circle
+# chapter end: MS01_03 plays the episode-end movie EPSOTD_END01 (per-chapter staff cards), then the eyecatch
+edmovie1   script=MS01_03 mash=12000:circle,right,circle,cross route=4000 -
 # --- after-clear screens, switched with SetNextTask (task=ID; ids in docs/re/debug.md "Tasks")
 clear_menu from=field_ch01 task=13 mash=900:-
 clear_save from=field_ch01 task=12 mash=900:-

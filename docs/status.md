@@ -2,8 +2,22 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (staff roll done by worker 14; left: EPSOTD_END01-09 credit cards,
-  then a re-tour of the current build + its visual QA; phase 7 done 2026-11-24).
+- **Phase:** 8. QA in the emulator, in progress (all credits movies English since worker 15; left: re-tour of the
+  current build + its visual QA, stress saves, textcover; phase 7 done 2026-11-24).
+- **Phase 8, worker 15 (2026-11-24, stopped near the context limit):** **EPSOTD_END01-09 credit cards in English.**
+  `credits.py`: `card_holds` (a card = 15+ still frames, NCC > 0.97 right of x 255; the closing 企画 アトラス card
+  mid-screen from x 150), `Tracker` (per-frame x shift by FFT correlation over the card's text rows + alpha),
+  `card_track` (walks out of each hold while the match holds: eased slide-in, drift-out off screen, fades),
+  `ink` = neutral pixels only (excludes sepia photos and END06-07's teal cards); English 15 px names / 12 px roles,
+  centred lines stay centred. 33 unique cards, 303 rows in `gfx/credits/credits.tsv` (unnamed roles as
+  speakers.json). `credits.table()` reads QUOTE_NONE ("Kirifuda" keeps its quotes; rolls re-rendered). All 12
+  movies rendered, stamp current. New scene `edmovie1` (MS01_03 -> EPSOTD_END01; cold boot
+  work/qa/warp/w15/edmovie1/final.png shows an English card). Build `build/karasu_en.iso` sha1 fd86cb47, smoke ok,
+  check green (28).
+- **Next (phase 8, worker 16+):** Re-tour (`warp.py --all --tag en`, delete work/states/en/ first; ~1 h+),
+  `tools/tour_sheets.py`, `qa_gate.py todo` -> visual QA of the new manifest (no subagents in Orca runs: review the
+  sheets yourself in a fresh read-only pass, or `codex exec`), then stress saves and textcover (skill phase 8
+  done-when).
 - **Phase 8, worker 14 (2026-11-24, stopped near the context limit):** **Staff roll in English** in BADENDLOST,
   BADENDSEAL, TRUEEND: `tools/credits.py` (scan: measures the scroll, stitches the roll, finds 240 text runs, labelled
   strips in work/movie/credits/; build: per frame fills the JP in the shifted run boxes, stamps English (Liberation
@@ -13,7 +27,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   missing/stale movies, stamp gfx/movie/credits.stamp, ~8 min for all three). Verified: frame compares of each movie
   vs the original, cold-boot warp `work/qa/warp/w14/badend` (roll plays in English). Build `build/karasu_en.iso` sha1
   0adbb746, smoke ok, check green (28).
-- **Next (phase 8, worker 15+):** (a) **EPSOTD_END01-09 cards** (per-chapter end credits): `credits.py scan
+- **Old next (worker 15; (a) done):** (a) **EPSOTD_END01-09 cards** (per-chapter end credits): `credits.py scan
   EPSOTD_END0*` keys 22 unique cards (cast cards 2-3 differ per chapter), but each card slides in from the left
   (~15 frames), holds, then drifts/fades; photos (sepia, G>60) reach x ~250 and pollute the max-over-time mask, so:
   take runs from a hold frame (mid-segment, not the ink peak), track each frame's x offset against it (column
