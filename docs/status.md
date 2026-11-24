@@ -3,7 +3,20 @@
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
 - **Phase:** 8. QA in the emulator, in progress (visual QA of the 915f3c67 tour complete: 338/338 sheets have a
-  verdict, 234 ok / 102 issue; fixes then a re-tour of the current build next; phase 7 done 2026-11-24).
+  verdict, 234 ok / 102 issue; worker 12 fixed most §Re-tour items; a few fixes left, then a re-tour of the current
+  build; phase 7 done 2026-11-24).
+- **Phase 8, worker 12 (2026-11-24, stopped near the context limit):** qa-findings §Re-tour items fixed, each checked
+  in a cold-boot warp (`work/qa/warp/w12/`, tag w12): (1) **help bars** laid out by label width (`engine.help_bars`,
+  HELP_BARS: equip/cards/item-get/card-effect bars; equip now "△Remove □Range ✕Back ○Select"); map bar Back x 388.
+  (2) **Survey choice bar** follows the box y (CHOICE_BAR_DY). (3) **Status page** short cell forms Reflex/Will/
+  Judgmt/Jpn./Lang. (D16 last resort: grid cells are code-placed frame tiles; fit-queue + glossary alternates).
+  (4) **Report card**: whole name in one slot (FULLNAME stub now keeps a0 = character id; also on L/R switch),
+  Teacher, Activity Log "Earlier". (5) Name entry tabs x 7, phone Profile labels x 290, "Voices", "All Map" caption.
+  New scene `report_card`. Build `build/karasu_en.iso` sha1 6f24b0e9, check green (26), smoke ok.
+- **Next (phase 8, worker 13+):** (a) left in qa-findings §Re-tour: dungeon 読み込み中 loader (notes there), name-entry
+  field after the default name, readability over bright lights, Teacher value tight on the report card. (b) Credits
+  movies (pmf.py swap; staff names need a romanised list). (c) Then re-tour (`warp.py --all --tag en`, delete
+  work/states/en/ first), `tools/tour_sheets.py`, visual QA of the new manifest, stress saves, textcover.
 - **Phase 8, worker 11 (2026-11-24):** (1) **Visual QA chunks 018-041** done by `translate-retro-game:visual-qa`
   agents (`qa_gate.py todo`: 0 of 338 without a verdict). New items in qa-findings §Re-tour: survey choice cursor bar
   off its rows (choice_pre f008230), name entry tabs "Kata"/"ABC" clipped + typed chars after the default name run
@@ -13,7 +26,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   alternates, `batches.py check` fails a list name over 97 px); verified in cold-boot warps `work/qa/warp/w11/
   city_map`, `field_rooms`. (3) Help bars: "End Roam" (gap before △), "Valuables", cards "Weapon"/"Armor". Build
   `build/karasu_en.iso` sha1 fb69132c.
-- **Next (phase 8, worker 12+):** (a) remaining qa-findings §Re-tour items: status page/report card (name stubs,
+- **Old next (worker 12; (a) mostly done):** (a) remaining qa-findings §Re-tour items: status page/report card (name stubs,
   Homeroom, stat label column), dungeon 読み込み中 loader sprite, equip help bar (Remove/Range in 28-42 px slots:
   engine layout by width), survey choice bar, name entry tabs/field, phone "Report Card" bezel, Voice Volume label,
   All Map label, readability. (b) Credits movies (pmf.py swap; staff names need a romanised list). (c) Then re-tour

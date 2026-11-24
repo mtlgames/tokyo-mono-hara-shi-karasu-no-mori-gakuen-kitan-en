@@ -151,6 +151,10 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
 ## Re-tour of 915f3c67 (worker 10 visual QA, verdicts work/qa/verdicts/chunk_bfd6e685d291_*.tsv)
 - [ ] Dungeon loading indicator (dun1_direct f002260-f002290, dun_tut f002260-f002350): 読み込み中 on red diamonds,
   bottom right. Not the ui_loading.gim "Loading..." strip (that one was redrawn): another sprite/atlas.
+  Worker 12: ui_loading.g2d does hold the diamonds (8 cells) + the strip prefixes 8,80 x 24..136 the game reveals one
+  char per diamond, and the redraw is in gfx/out, yet the dungeon shows 読み込み中: a second copy with other bytes
+  (`gimfind.py ui_loading.gim 8,80,136,24` found nothing; try the alpha mode / per-char 24x24 cells, or fileopen.py
+  on a dun_tut state to see which pak the dungeon loads).
 - [ ] City map destination list (city_map f000306) right-aligned: "Karasu no Mori Academy", "Karasuba Shrine",
   "Yahiro Academy", "Shinjuku Police" run left past the red panel border (x~378) onto the map.
   Same on the **school map room list** (field_ch01 sheets 33-55, f017770/f019570/f026170): "Audiovisual Room",
@@ -166,14 +170,20 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   Infirmary, Broadcasting, Custodian, Dojo, Guidance, Chem Lab, PC Lab, Home Ec., Principal, Librarian, Square Club,
   AV Room, Council Room...), full names in fit-queue; `batches.py check` fails a list name over 97 px. Verify next tour.
 - [x] Field help bar "End Roaming△Look": no gap before △ (fend_c1 f000066/f000102). Worker 11: "End Roam" (74 px, JP 84).
-- [ ] Name entry (name_entry f003430, chunk 036): mode tabs "Kata"/"ABC" lose their last letter at the tab's right
+- [~] Name entry (name_entry f003430, chunk 036; worker 12: tabs fixed, engine.NAME_TAB_X 10 -> 7, w12/name_entry; the
+  typed-chars-after-default-name field limit still open): mode tabs "Kata"/"ABC" lose their last letter at the tab's right
   edge (カナ/英数 fit). Typed chars after the default "Shichidai" start at x~310, ~2 fit before the field edge x~340
   (JP 七代ああああああ fits): the field width counts the default name's bytes/cells; only seen when typing after the
   default name (players usually clear it). Check the field's max chars vs the 9-letter default.
-- [ ] Survey choice (choice_pre f008230/f008260, chunk 024): options "Remember the survey" / "Don't remember the
+- [x] Survey choice (choice_pre f008230/f008260, chunk 024; worker 12: bar y = the box's own y0 (0x14($sp) of the
+  per-frame code) + CHOICE_BAR_DY instead of a fixed 92, w12/choice_pre f008230 on row 0): options "Remember the survey" / "Don't remember the
   survey" at y~36/56 but the red cursor bar at y~86-106, on neither row (the Shake hands choice is right). JP tour
   has no frame of it (shot every 90): re-shoot JP choice_pre around f008200-f008330 with --shot-every 30 first.
-- [ ] Status page (field_ch01 f007060/f007090) still: Judgment into the Value column, Willpower/Reflexes/Stamina
+- [x] Status page (field_ch01 f007060/f007090; worker 12, w12/report + report_card: grid cells are 16 px frame tiles
+  placed by code (no layout found; the t1 label type 1/2 is no font size), so status-cell short forms Reflex/Will/
+  Judgmt/Jpn./Lang. (fit-queue, glossary alternates; engine asserts a label fits); report card Name row = one
+  "given surname" string from x 324 (FULLNAME stub, "Name" label off screen) for both builders, Teacher (was
+  Homeroom), Activity Log "Earlier" (was "Before Last"); Teacher value still tight to its label) still: Judgment into the Value column, Willpower/Reflexes/Stamina
   touch ▲, Japanese/Languages into the Grade column, ▼ on the Summary border, "Summary" header right-aligned.
   Report card (f007120/f007150): "Kazuki" over "Shichidai" (surname first), "Homeroom" over "Asako Hatori",
   Activity Log "Before" row shows "Last" and the "Last" row is empty. Worker 10: **confirmed on a fresh cold boot**
@@ -185,11 +195,13 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   (divider 61 -> ~80) and move STATUS_VALUES x 89 -> ~96.
 - [x] Shop help bar "○ Confirm" ran off screen (shop f002260): questshoptext:0013 決定 -> "OK" like the other bars
   (worker 10; re-check in the next tour).
-- [ ] Phone Profile Book submenu "Report Card" touches the bezel (phone_prof f000236).
-- [ ] Phone settings "Voice Volume" drawn condensed vs the other labels (phone_set f000420; its k_phon_set.g2d
+- [x] Phone Profile Book submenu "Report Card" touches the bezel (phone_prof f000236). Worker 12: labels x 294 -> 290.
+- [x] Phone settings "Voices" (worker 12, was "Voice Volume") drawn condensed vs the other labels (phone_set f000420; its k_phon_set.g2d
   cell is x 0-63, worker 7).
-- [ ] Map "All Map" sideways label: gap between the words and a stray pixel line above "Map" (map f000390).
-- [ ] Help bars: cards "□Armor Effect" under ✕ (menu_cards f000344); equip "△Remove □Range" under □/✕
+- [x] Map "All Map" sideways label: gap between the words and a stray pixel line above "Map" (map f000390). Worker
+  12: All bottom-aligned, Map top-aligned (w12/map); map bar Back x 392 -> 388.
+- [x] Help bars (worker 12: `engine.help_bars` moves each menu bar's slots left by the widest label a slot shows;
+  0x089D0850 places a slot, 0x089D086C sets its systemtext row; w12/menu_equip, menu_cards all clear): cards "□Armor Effect" under ✕ (menu_cards f000344); equip "△Remove □Range" under □/✕
   (menu_equip f000298); map bar "Back" touching ○. Fixed icon slots (qa-findings §Help bar): shorter words or
   engine layout by width.
 - [x] Item menu "View Valuables": last s cut by the green divider at x~247 (menu_item f000252). Worker 11:

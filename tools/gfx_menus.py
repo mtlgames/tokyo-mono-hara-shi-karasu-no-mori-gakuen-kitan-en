@@ -207,8 +207,9 @@ def ui_lsmap01():
 def ui_map04():
     a = Atlas("system/_ui_map.pak/system/ui_map04.gim")
     # left tab strip: the game stacks 24px cells top to bottom (offsets from ui_map.g2d)
-    a.stack([(0, 0, 24, 24), (0, 24, 24, 24)], "All", size=15)                             # 全 体
-    a.stack([(0, 48, 24, 16, 0), (24, 48, 16, 16, 8), (25, 0, 23, 24, 1)], "Map", size=15)  # マ ッ プ
+    # one caption "All Map": All ends at the bottom of its stack, Map starts at the top of the next (was a wide gap)
+    a.stack([(0, 0, 24, 24), (0, 24, 24, 24)], "All", size=15, align="r")                  # 全 体
+    a.stack([(0, 48, 24, 16, 0), (24, 48, 16, 16, 8), (25, 0, 23, 24, 1)], "Map", size=15, align="l")  # マ ッ プ
     # 24px cells hold two short lines (a 6-letter word rotated would need ~45px)
     for cell, word in [((48, 0, 24, 24), "Spr\ning"), ((48, 25, 24, 23), "Sum\nmer"),
                        ((72, 0, 24, 24), "Aut\numn"), ((72, 25, 24, 23), "Win\nter")]:  # 春 夏 秋 冬

@@ -357,7 +357,7 @@
   "id": "systemtext:0067:00",
   "jp": "国語",
   "refs": 2,
-  "en": "Japanese"
+  "en": "Jpn."
  },
  {
   "id": "systemtext:0068:00",
@@ -381,7 +381,7 @@
   "id": "systemtext:0071:00",
   "jp": "外国語",
   "refs": 2,
-  "en": "Languages"
+  "en": "Lang."
  },
  {
   "id": "systemtext:0072:00",
@@ -1989,13 +1989,13 @@
   "id": "systemtext:0388:00",
   "jp": "瞬発力",
   "refs": 1,
-  "en": "Reflexes"
+  "en": "Reflex"
  },
  {
   "id": "systemtext:0389:00",
   "jp": "精神力",
   "refs": 1,
-  "en": "Willpower"
+  "en": "Will"
  },
  {
   "id": "systemtext:0390:00",
@@ -2007,7 +2007,7 @@
   "id": "systemtext:0391:00",
   "jp": "判断力",
   "refs": 1,
-  "en": "Judgment"
+  "en": "Judgmt"
  },
  {
   "id": "systemtext:0399:00",
@@ -2595,7 +2595,7 @@
   "id": "systemtext:0549:00",
   "jp": "担任",
   "refs": 1,
-  "en": "Homeroom"
+  "en": "Teacher"
  },
  {
   "id": "systemtext:0550:00",
@@ -2619,7 +2619,7 @@
   "id": "systemtext:0553:00",
   "jp": "前々回",
   "refs": 1,
-  "en": "Before Last"
+  "en": "Earlier"
  },
  {
   "id": "systemtext:0554:00",

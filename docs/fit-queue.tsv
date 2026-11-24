@@ -108,3 +108,8 @@ eboot:2b1ff8	Librarian's Room	over 97px (city/room list red panel x 378-480, adv
 eboot:2b2000	Square Research Club	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
 eboot:2b2024	Audiovisual Room	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
 eboot:2b2038	Student Council Room	over 97px (city/room list red panel x 378-480, advfont14): game shows a short form
+systemtext:0067:00	Japanese	over the 56 px status page cell (frame tiles drawn by code): game shows "Jpn."
+systemtext:0071:00	Languages	over the 56 px status page cell (frame tiles drawn by code): game shows "Lang."
+systemtext:0388:00	Reflexes	over the 56 px status page cell (frame tiles drawn by code): game shows "Reflex"
+systemtext:0389:00	Willpower	over the 56 px status page cell (frame tiles drawn by code): game shows "Will"
+systemtext:0391:00	Judgment	over the 56 px status page cell (frame tiles drawn by code): game shows "Judgmt"

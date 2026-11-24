@@ -141,11 +141,11 @@ separates alternatives) and the Avoid column.
 | 隠者の杖 | Hermit's Staff | | | |
 | 秘儀を伝授されし者 | Initiate | | ruby イニシエ | |
 | 体力 | Stamina | | stat | Vitality |
-| 瞬発力 | Reflexes | | stat | |
-| 精神力 | Willpower | | stat | Spirit |
+| 瞬発力 | Reflexes / Reflex | | stat; "Reflex" only systemtext:0388 (status page cell, 56 px, fit-queue) | |
+| 精神力 | Willpower / Will | | stat; "Will" only systemtext:0389 (status page cell, fit-queue) | Spirit |
 | 脚力 | Speed | | stat | Footwork |
-| 判断力 | Judgment | | stat | |
-| 外国語 | Languages | | school subject | Foreign Language |
+| 判断力 | Judgment / Judgmt | | stat; "Judgmt" only systemtext:0391 (status page cell, fit-queue) | |
+| 外国語 | Languages / Lang. | | school subject; "Lang." only systemtext:0071 (status page cell + Forte, fit-queue) | Foreign Language |
 | 現代社会 | Social Studies / Soc.St / Social St. | | school subject; "Soc.St" only in item:0326-0328:10 stat lines (24b, fit-queue); "Social St." = systemtext:0070 (status page subject cell, 56 px) | Modern Society |
 | 麻痺 | Paralysis | | ailment | Paralyze |
 | 悪寒 | Chills | | ailment | |

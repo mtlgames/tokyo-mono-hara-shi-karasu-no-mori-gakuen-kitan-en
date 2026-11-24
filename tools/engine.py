@@ -20,8 +20,9 @@ NAME_XY = (8.0, 6.0)     # speaker name canvas (original 116, 8: right-hand colu
 TEXT_XY = (8.0, 28.0)    # dialogue line 0 canvas (original 84, 8)
 CAP_TEXT = (0.0, 32.0)    # location caption text (original 368, 32); insert.py right-aligns it to CAPTION_RIGHT
 CHOICE_PITCH = 20.0       # px between .ksf choice rows (original: columns 32 px apart)
-CHOICE_BAR_Y = 92.0       # choice cursor bar on row 0 (rows' text at y 89 + CHOICE_PITCH * i); fill drawn y-6..y+h+6
+CHOICE_BAR_DY = 3         # choice cursor bar y on row 0 = rows' y0 (89 in a dialogue choice) + 3; fill y-6..y+h+6
 CHOICE_BAR_H = 10.0
+NAME_TAB_X = 7.0
 
 
 def hi(f):
@@ -78,10 +79,24 @@ def patch(p: Patcher):
     # 0x15-0x17, middle stretched h/40) that can't lie flat: draw only the fill
     # (keystone rejects absolute branch targets this high, and pads `b` with a nop: encode beq $0, $0 by hand)
     p.asm(0x089FE9FC, f".word {0x10000000 | (0x089FEB50 - 0x089FEA00) >> 2:#x}", [0x2402FF8C])
-    # per frame (0x089F0A1C) target x = 116 - 32 * sel -> target y = CHOICE_BAR_Y + CHOICE_PITCH * sel
-    p.asm(0x089F0A1C, f"lui $at, {hi(CHOICE_BAR_Y):#x}", [0x3C0142E8])
-    p.asm(0x089F0A38, f"lui $at, {hi(CHOICE_PITCH):#x}", [0x3C01C200])
+    # per frame (0x089F0A1C) target x = 116 - 32 * sel -> target y = box y + CHOICE_BAR_DY + CHOICE_PITCH * sel. The
+    # box y (0x089F04B0's v1, the rows' y0) sits at 0x14($sp); a fixed y 92 missed the survey choice (rows at y ~33).
+    assert CHOICE_PITCH == 20.0
+    p.asm(0x089F0A1C, "lwc1 $f2, 0x14($sp); lbu $v0, 0x39ec($v0); lw $a0, 0xa8($v1); sll $t0, $v0, 4;"
+          f"sll $v0, $v0, 2; addu $v0, $v0, $t0; addiu $v0, $v0, {CHOICE_BAR_DY}; mtc1 $v0, $f1; cvt.s.w $f0, $f1;"
+          "move $a1, $sp; add.s $f0, $f0, $f2",
+          [0x3C0142E8, 0x44811000, 0x90420000 | 0x39EC, 0x8C640000 | 0xA8, 0x03A02821, 0x44820800, 0x46800820,
+           0x3C01C200, 0x44810800, 0x46010002, 0x46020000])
     p.asm(0x089F0A4C, "swc1 $f0, 4($sp)", [0xE7A00000])
+    # name entry mode tabs (Hira/Kata/ABC, eboot 2b1518..): drawn at x 10.0 (0x0883A500), the unselected tab is ~31 px
+    # wide from x 9, so "Kata"/"ABC" (32 px) lost their last letter: x NAME_TAB_X
+    p.asm(0x0883A500, f"lui $at, {hi(NAME_TAB_X):#x}", [0x3C014120])
+    # phone Profile Book submenu labels (Locked/Profile/Report Card) at x 294.0: "Report Card" touched the bezel (~374)
+    for site in (0x0893D38C, 0x0893D5E4, 0x0893D660, 0x0893D6C8):
+        p.asm(site, f"lui $at, {hi(290.0):#x}", [0x3C014393])
+    # school/city map help bar "✕ Back ○ OK": Back at x 392.0 ran into the ○ icon (~425): x 388 (✕ ends ~386)
+    for site in (0x08952650, 0x08952A68):
+        p.asm(site, f"lui $at, {hi(388.0):#x}", [0x3C0143C4])
     choice_bar_px(p)
     menu_right(p)
     hud_name(p)
@@ -89,6 +104,7 @@ def patch(p: Patcher):
     status_name(p)
     ticker(p)
     phone_settings(p)
+    help_bars(p)
     # choice keys: LEFT (0x80) = next, RIGHT (0x20) = previous -> DOWN (0x40), UP (0x10)
     p.asm(0x089F2A10, "andi $v0, $v0, 0x40", [0x30420080])
     p.asm(0x089F2A2C, "andi $v0, $v0, 0x10", [0x30420020])
@@ -296,9 +312,10 @@ here:
 STATUS_CELLS = [
     (0x0892B940, "Stats", 5, 61), (0x0892B964, "Value", 64, 116), (0x0892B9AC, "Subject", 249, 306),
     (0x0892B9D0, "Grade", 309, 360),
-    (0x0892BBEC, "Stamina", 5, 61), (0x0892BC10, "Reflexes", 5, 61), (0x0892BC34, "Willpower", 5, 61),
-    (0x0892BC58, "Speed", 5, 61), (0x0892BC7C, "Judgment", 5, 61),
-    (0x0892BCAC, "Japanese", 249, 306), (0x0892BCD0, "Math", 249, 306), (0x0892BCF4, "Languages", 249, 306),
+    # cells drawn from 16 px frame tiles by code (no layout found to widen): short forms, full names in fit-queue
+    (0x0892BBEC, "Stamina", 5, 61), (0x0892BC10, "Reflex", 5, 61), (0x0892BC34, "Will", 5, 61),
+    (0x0892BC58, "Speed", 5, 61), (0x0892BC7C, "Judgmt", 5, 61),
+    (0x0892BCAC, "Jpn.", 249, 306), (0x0892BCD0, "Math", 249, 306), (0x0892BCF4, "Lang.", 249, 306),
     (0x0892BD18, "P.E.", 249, 306), (0x0892BD3C, "Social St.", 249, 306), (0x0892BD60, "Health", 249, 306),
     (0x0892BD84, "Biology", 249, 306),
     # top-right box: labels left of the values' divider (~x 378); JP centred ~x 316
@@ -328,6 +345,8 @@ def status_labels(p):
         old = struct.unpack_from("<I", p.d, o)[0]
         assert old >> 16 == 0x2405, hex(old)
         x = max(left + 1, (left + right - sum(w[ord(c)] for c in en)) // 2)
+        # guard only: "Social St." (64 px by the table, 57 px cell) shows clear of the divider, "Willpower" (68) did not
+        assert sum(w[ord(c)] for c in en) <= right - left + 7, f"status label {en!r} wider than its cell"
         p.asm(site, f"addiu $a1, $zero, {x}", [old])
     for site, x0, x in STATUS_LEFT:
         p.asm(site, f"addiu $a1, $zero, {x}", [0x24050000 | x0])
@@ -343,6 +362,7 @@ def status_labels(p):
 # "given surname" (D1) from x 80 (stub: sprintf into a buffer in the added segment), the second slot an empty string.
 SURNAME, GIVEN, SPRINTF = 0x089D3AB8, 0x089D3A84, 0x08A82800
 NAME_X = 80
+REPORT_NAME_X = 324  # report card Name row, "Name" label off screen (box inside x ~319-471)
 OFFSCREEN = 600
 FULLNAME = """
     move $t8, $ra
@@ -352,13 +372,14 @@ here:
     sw $t8, 0($sp)
     sw $s0, 4($sp)
     sw $s1, 8($sp)
+    sw $a0, 12($sp)
     move $s0, $ra
     lui $t5, {sur_hi}
     ori $t5, $t5, {sur_lo}
     addu $t5, $s0, $t5
     jalr $t5
     move $s1, $v0
-    ori $a0, $zero, 0x8000
+    lw $a0, 12($sp)
     lui $t5, {giv_hi}
     ori $t5, $t5, {giv_lo}
     addu $t5, $s0, $t5
@@ -410,6 +431,22 @@ def status_name(p):
     p.asm(0x0892CFB8, f"addiu $a1, $zero, {OFFSCREEN}", [0x24050072])
     p.asm(0x0892CFDC, f"addiu $a1, $zero, {OFFSCREEN}", [0x240500AF])
     p.asm(0x0892B7F4, f"addiu $a1, $zero, {OFFSCREEN}", [0x24050050])
+    # the same box rebuilt for the shown character (L/R, report card): 0x0892DBCC..0x0892DC78, a0 = character id
+    jal_to(p, 0x0892DC2C, SURNAME, va)
+    jal_to(p, 0x0892DC5C, GIVEN, va + 0xC0)
+    p.asm(0x0892DC38, f"addiu $a1, $zero, {NAME_X}", [0x24050075])
+    p.asm(0x0892DBD8, f"addiu $a1, $zero, {OFFSCREEN}", [0x24050072])
+    p.asm(0x0892DC04, f"addiu $a1, $zero, {OFFSCREEN}", [0x240500AF])
+    # report card page Name row: surname at (381, 41), given at (427, 41) overprinted; whole name from REPORT_NAME_X
+    # (player 0x0892D660.., shown character 0x0892DED4..). Teacher row value x 381 touched the "Teacher" label.
+    for sur, giv, xsite in ((0x0892D660, 0x0892D684, 0x0892D66C), (0x0892DED4, 0x0892DEFC, 0x0892DEE0)):
+        jal_to(p, sur, SURNAME, va)
+        jal_to(p, giv, GIVEN, va + 0xC0)
+        p.asm(xsite, f"addiu $a1, $zero, {REPORT_NAME_X}", [0x2405017D])
+    p.asm(0x0892D768, "addiu $a1, $zero, 377", [0x2405017D])
+    # Club/Teacher labels x 323 -> 320 (box inside from ~319); the "Name" label goes (the full name needs the row)
+    for site, x in ((0x0892BE60, OFFSCREEN), (0x0892BE84, 320), (0x0892BEA8, 320)):
+        p.asm(site, f"addiu $a1, $zero, {x}", [0x24050143])
 
 
 def hud_name(p):
@@ -459,6 +496,52 @@ def phone_settings(p):
     new = struct.pack("<20h", *rows)
     p.d[o:o + 40] = new
     p.log.append((o, old, new, f"{PHONE_ROWS:08x} phone settings value x (start, gap) per row"))
+
+
+# Menu help bars: 0x089D0850(bar, slot, x, y) places a slot (button icon at x+2..x+13, label from x+16), 0x089D086C(bar,
+# slot, systemtext row) sets its label; each menu lays its slots out with immediates (`addiu $a2, $zero, x`).
+# English labels ran under the next icon (cards "Remove Range", equip). Each bar keeps its rightmost slot and moves
+# the others left just enough for the widest label the slot can show (rows from the T calls after the bar's P calls).
+# Bars: (site of the x immediate, original x, labels) in x order.
+HELP_GAP = 16 + 3
+HELP_BARS = [
+    [(0x089BADB8, 252, ["Remove"]), (0x089BADEC, 300, ["Range", "Details"]), (0x089BAE20, 352, ["Back"]),
+     (0x089BAE54, 402, ["Select"])],  # cards
+    [(0x089C0044, 252, ["Remove"]), (0x089C0078, 307, ["Details", "Range"]), (0x089C00AC, 358, ["Back"]),
+     (0x089C00E0, 408, ["Select", "OK"])],  # equip
+    [(0x089C6B40, 252, ["Remove", "Take All"]), (0x089C6B74, 313, ["Details"]), (0x089C6BA8, 360, ["Back"]),
+     (0x089C6BDC, 406, ["Get"])],
+    [(0x089CDDE0, 268, ["Details", "Weapon", "Armor", "Gear Details", "Enhance Effect"]),
+     (0x089CDE18, 348, ["Back"]), (0x089CDDFC, 398, ["Select", "OK"])],
+]
+HELP_LEFT = 20 + HELP_GAP + 61  # end of the "Category" label in the SELECT slot at x 20 (32 in equip)
+
+
+def help_layout(xs, widths):
+    """New x per slot: the last stays, each other ends its label HELP_GAP before the next icon, never moves right."""
+    out = list(xs)
+    for k in range(len(xs) - 2, -1, -1):
+        out[k] = min(xs[k], out[k + 1] - HELP_GAP - widths[k])
+    return out
+
+
+assert help_layout([252, 300, 352, 402], [55, 47, 34, 41]) == [209, 283, 349, 402]
+
+
+def help_bars(p):
+    import insert
+    import json
+    w = insert.font_widths("advfont14")
+    st = Path(__file__).resolve().parents[1] / "script" / "tables" / "systemtext.json"
+    ens = {e.get("en") for e in json.loads(st.read_text(encoding="utf-8"))}
+    for bar in HELP_BARS:
+        for _, _, labels in bar:
+            assert set(labels) <= ens, f"help label {labels} is no longer a systemtext string: update HELP_BARS"
+        xs = help_layout([x for _, x, _ in bar], [max(sum(w[ord(c)] for c in s) for s in ls) for _, _, ls in bar])
+        assert xs[0] >= HELP_LEFT, (bar, xs)
+        for (site, x0, _), x in zip(bar, xs):
+            if x != x0:
+                p.asm(site, f"addiu $a2, $zero, {x}", [0x24060000 | x0])
 
 
 if __name__ == "__main__":

@@ -137,7 +137,7 @@ def set_():
             (4, 5, 112, "Basic Text Speed"), (133, 5, 112, "Aiming Cursor Speed"),
             (4, 29, 112, "Auto Text Advance"), (133, 29, 112, "Emotion Input Hold"),
             (4, 54, 90, "Effects Volume"), (108, 54, 98, "Confirm Turn End"),   # boxes inside the g2d cells
-            (2, 78, 60, "Voice Volume"), (77, 78, 70, "Navi Voice"), (165, 78, 82, "Ringtone"),
+            (2, 78, 60, "Voices"), (77, 78, 70, "Navi Voice"), (165, 78, 82, "Ringtone"),
             (3, 102, 84, "BGM Volume")):
         xs = min(1.0, w / typeset.font(SANS, 12).getlength(text))
         paint(img, rects, (x, y, w, 14), text, SANS, 12, halo=halo, xs=xs, pad=4, radius=1, strength=1.5)

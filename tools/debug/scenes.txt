@@ -37,6 +37,7 @@ phone_oxas from=phone route=30 -;6 down;40 -;6 down;40 -;6 down;40 -;6 circle;20
 phone_set  from=phone route=30 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 circle;200 -
 saveload   from=field_ch01 route=6 start;90 -;6 up;40 -;6 circle;150 -
 report     from=field_ch01 set=chapter=3 route=6 start;90 -;6 up;40 -;6 up;40 -;6 circle;150 -
+report_card from=report route=6 right;90 -
 map        from=field_ch01 set=chapter=3 route=6 start;90 -;6 down;40 -;6 down;40 -;6 down;40 -;6 circle;150 -
 
 # --- shops: FNxx_26/27 NPC scripts; a block holding only `shop00` opens the shop (block= starts the script there)
