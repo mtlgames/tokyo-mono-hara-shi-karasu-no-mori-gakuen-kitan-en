@@ -82,6 +82,7 @@ def patch(p: Patcher):
     p.asm(0x089F0A1C, f"lui $at, {hi(CHOICE_BAR_Y):#x}", [0x3C0142E8])
     p.asm(0x089F0A38, f"lui $at, {hi(CHOICE_PITCH):#x}", [0x3C01C200])
     p.asm(0x089F0A4C, "swc1 $f0, 4($sp)", [0xE7A00000])
+    choice_bar_px(p)
     # choice keys: LEFT (0x80) = next, RIGHT (0x20) = previous -> DOWN (0x40), UP (0x10)
     p.asm(0x089F2A10, "andi $v0, $v0, 0x40", [0x30420080])
     p.asm(0x089F2A2C, "andi $v0, $v0, 0x10", [0x30420020])
@@ -95,6 +96,81 @@ def patch(p: Patcher):
                             (0x089EC604, "s2", 0x27B20021), (0x089EC624, "v1", 0x27A30021)):
         p.asm(addr, f"addiu ${reg}, $sp, 0xa1", [word])
     return p.d
+
+
+# choice cursor bar width in px: the bar is made at 0x089F09DC by 0x089FED28(obj, &pos, len, f12) with len =
+# (longest option's strlen, ctx+0x668) / 2, and state 2 (0x089FE704) sizes it len*18 (one full-width char a byte
+# pair). English options are proportional ASCII, so len*18 misses the text (docs/re/engine.md §Open). A routine in a
+# new ELF segment sums each option's glyph advances (sysfont18 table) and passes the longest as len; state 2 uses it
+# as is. Options: count u8 ctx+0x39EB, strings ctx+0x3CC + 0xA8*i (read at the `choice` state).
+BAR_MAKE = 0x089FED28
+CHOICE_BAR_PAD = 8  # px added to the longest option (centres the ink in the fill: work/qa/warp/bar/choice)
+PXBAR = """
+    move $t8, $ra
+    bal here
+here:
+    move $t9, $ra
+    move $ra, $t8
+    lbu $t1, 0x39eb($t7)
+    addiu $t0, $t7, 0x3cc
+    move $a2, $zero
+opt:
+    beq $t1, $zero, done
+    move $t2, $zero
+    move $t3, $t0
+ch:
+    lbu $t4, 0($t3)
+    beq $t4, $zero, chdone
+    addiu $t3, $t3, 1
+    addu $t5, $t9, $t4
+    lbu $t5, {tbl}($t5)
+    addu $t2, $t2, $t5
+    b ch
+chdone:
+    slt $t6, $a2, $t2
+    movn $a2, $t2, $t6
+    addiu $t0, $t0, 0xa8
+    addiu $t1, $t1, -1
+    b opt
+done:
+    addiu $a2, $a2, {pad}
+    lui $t5, {dhi}
+    ori $t5, $t5, {dlo}
+    addu $t5, $t9, $t5
+    jr $t5
+"""  # keystone fills each of the 6 delay slots with a nop itself
+
+
+def choice_bar_px(p):
+    import eboot
+    import insert
+    w = insert.font_widths("sysfont18")
+    table = bytes(w.get(c, 0 if c < 0x20 else 18) for c in range(256))
+    size = 0x100 + 0x100  # code (assembled below, < 0x100) then the width table
+    off = len(p.d) + (-len(p.d) % 64)  # add_segment's file offset for the new data
+    va = eboot.add_segment(p.d, bytes(size))
+    ram = eboot.LOAD + va
+    here = ram + 12  # `here` label: bal sits at ram + 4, so $ra = ram + 12
+    delta = (BAR_MAKE - here) & 0xFFFFFFFF
+    # pad: ink starts 3 px right of the text x and ends ~2 px past the advance sum; the fill spans x-5..x+w+5
+    src = PXBAR.format(tbl=0x100 - 12, dhi=delta >> 16, dlo=delta & 0xFFFF, pad=CHOICE_BAR_PAD)
+    code = bytes(p.ks.asm(src, ram)[0])
+    # keystone adds one nop per delay slot (6 branches); bal at +4, its nop at +8, so `here` is +12
+    assert len(code) == 4 * (PXBAR.count("\n    ") + 6) <= 0x100, len(code)
+    p.d[off:off + len(code)] = code
+    p.d[off + 0x100:off + 0x200] = table
+    # caller: ctx (s0) into t7 instead of `lb v0, 0x668(s0)` (a2 from it is replaced), jal BAR_MAKE -> jal pxbar
+    p.asm(0x089F09B8, "move $t7, $s0", [0x82020668])
+    site = 0x089F09DC
+    assert site in p.rel, "the bar jal must be relocated so the new target moves with the load base"
+    o = p.off(site)
+    old = bytes(p.d[o:o + 4])
+    assert struct.unpack("<I", old)[0] == 0x0C000000 | ((BAR_MAKE - eboot.LOAD) >> 2)
+    new = struct.pack("<I", 0x0C000000 | (va >> 2))  # relocated jal: target field holds the vaddr
+    p.d[o:o + 4] = new
+    p.log.append((o, old, new, f"{site:08x} jal pxbar (vaddr {va:x})"))
+    # state 2: width = len (px), was len*18
+    p.asm(0x089FE708, "nop; nop; nop", [0x00021900, 0x00021040, 0x00431021])
 
 
 if __name__ == "__main__":

@@ -90,10 +90,20 @@ def add_segment(d, data):
     """Append `data` to the ELF bytearray d as a new PT_LOAD segment placed past the end of every segment's memory
     (past .bss), its program header inserted after the other PT_LOADs (relocations name segments by index: the
     existing ones keep theirs). Returns the new segment's vaddr; its file offset is the old end of file, 64-aligned.
-    The program header table must have a free 32-byte slot before the first segment's data (0x94..0xC0 here)."""
+    The program header table must have a free 32-byte slot before the first segment's data (0x94..0xC0 here: one
+    slot), so a second call appends to the segment the first one added (engine code, then insert's strings)."""
     phoff, = struct.unpack_from("<I", d, 0x1C)
     phnum, = struct.unpack_from("<H", d, 0x2C)
     ph = [list(struct.unpack_from("<8I", d, phoff + 32 * i)) for i in range(phnum)]
+    last = max((p for p in ph if p[0] == 1), key=lambda p: p[2])
+    if last[1] + last[4] == len(d) and last[4] == last[5]:  # a segment added before ends the file: grow it
+        va = last[2] + last[4]
+        d += data
+        last[4] += len(data)
+        last[5] += len(data)
+        for i, p in enumerate(ph):
+            struct.pack_into("<8I", d, phoff + 32 * i, *p)
+        return va
     first = min(p[1] for p in ph if p[0] == 1)
     if phoff + 32 * (phnum + 1) > first:
         raise ValueError("no room for another program header")
