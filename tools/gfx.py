@@ -32,6 +32,10 @@ LAYOUT = [
     # cell; point them at two free 32x32 cells of dungeon08 so "GAME OVER" can run across all 7 (gfx_dungeon_ui).
     ("dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon.g2d", 0x8B38, "800060009f007f00", "c000c000df00df00", "game over"),
     ("dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon.g2d", 0x8B78, "800060009f007f00", "e000c000ff00df00", "game over"),
+    # 迎撃 plate under each enemy (x 2..33, u 224..255): "Counter" fills 208..255 of dungeon04, so the quad takes all
+    # 48 px, centred on the old one (x -6..41).
+    ("dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon.g2d", 0x81D0, "0200000021000f00e0005800ff006700",
+     "faff000029000f00d0005800ff006700", "counter"),
     # Save/Load diamonds: セ|ー|ブ and ロ|ー|ド quads (x0,y0,x1,y1,u0,v0,u1,v1, inclusive) share the ー cell and the
     # vertical title's cells, so "Save"/"Load" were squeezed into the first cell. The first quad of each word now spans
     # the whole word from a free strip of ui_saveload01 (gfx_menus.ui_saveload01), the other two draw a transparent px.

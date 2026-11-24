@@ -132,6 +132,12 @@ One line per distinct problem; sheets named are examples. Tick when fixed and re
   Worker 8-9 (`tools/gfx_dungeon_tiles.py`): numerals 1-4/1-5 (walls, floor tiles, slips), 敵/将 markers -> Foe/Boss,
   鬼 plate -> Oni (stone texture tiled over the glyph). Kept K (D22): virtue pillars, horse pillars, 是/非, house
   plaques (obj text names them), 12x16 px 点火 sign. Not yet seen in game (needs warps into bg11/jugon/seihen rooms).
+  Worker 20: **loaded in English, checked in RAM** (not in a shot): `startroom.py bg11_00=waginoma:ichidake_door03_
+  bg07_00=seihennoma:ichidake_door04_`, warp dun_bg11/dun_bg07 --tag room, `ramfind.py` with 32 bytes of each EN GIM
+  vs the JP bytes at the same spot: wall numerals 1-4 and floor tiles 1-4 (waginoma state) and the Oni plate
+  (seihennoma state) are in RAM as English, the JP bytes nowhere. A shot was not reached: waginoma is a cave of
+  roped rocks and water, play.py moves got blocked (work/play/w11). jugon_hanahuda01/jugon_boss: no file but
+  obj.bin names them (no ini, objhaichi or script reference): likely unused or spawned by obj id; unverified.
 - [ ] Staff roll / credits (badend sheets 2-7) and chapter cards (STORYTITLE01 第壱話 稲妻の転校生, field_ch01_sheet_6):
   burned into the PMF movies (Waiting on the user: movies).
   Worker 9: `tools/pmf.py` swaps a re-encoded H.264 stream into a PMF keeping the container byte for byte (each
