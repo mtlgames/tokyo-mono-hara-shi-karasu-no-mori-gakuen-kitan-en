@@ -5,6 +5,8 @@
     python -X utf8 tools/batches.py merge bNNN ... [--overwrite] [--partial]   check, then write the English into
         script/; --partial merges a failing batch's clean rows and queues the failing ones in docs/fit-queue.tsv
     python -X utf8 tools/batches.py fit "text" [--form dlg]        dry-run: wrapped lines and px widths
+    python -X utf8 tools/batches.py show REGEX [--en]   id, speaker, form, limit, JP, EN of every id (or EN, --en) matching
+    python -X utf8 tools/batches.py batch NAME          work/tl/NAME.tsv from the ids of NAME.out.tsv (re-edits, polish)
 
 Copied from the skill's assets/batches.py; the ADAPTER section fits this game (script/ JSON, docs/re/text.md).
 Batch TSV: id, speaker, form, limit, JP (JP line breaks shown as " / "). Output: work/tl/bNNN.out.tsv,
@@ -540,6 +542,24 @@ def main(argv):
         e = {"id": "x:000:00", "jp": "", "speaker": "x"} if form == "dlg" else {"id": "x", "jp": "", "kind": form}
         for s in shape(e, args[0]).split("\n"):
             print(f"{px(s):4d}px {len(s):3d}b  {s}")
+        return 0
+    if cmd == "show":
+        field = "en" if "--en" in args else "id"
+        for e in index().values():
+            if re.search(args[0], e.get(field) or "") and is_text(e):
+                print(f">> {e['id']} | {e.get('speaker', '')} | {form_of(e)} | {limit_label(e)}\n"
+                      f"JP: {e['jp']!r}\nEN: {e.get('en', '')!r}")
+        return 0
+    if cmd == "batch":
+        entries = index()
+        ids = [r[0] for r in read_tsv(TL / f"{args[0]}.out.tsv")]
+        missing = [i for i in ids if i not in entries]
+        if missing:
+            sys.exit(f"unknown ids: {missing[:8]}")
+        (TL / f"{args[0]}.tsv").write_text("".join(
+            f"{i}\t{entries[i].get('speaker', '')}\t{form_of(entries[i])}\t{limit_label(entries[i])}\t"
+            + entries[i]["jp"].replace("\n", " / ") + "\n" for i in ids), encoding="utf-8", newline="\n")
+        print(f"{len(ids)} rows in {TL / (args[0] + '.tsv')}")
         return 0
     overwrite, partial = "--overwrite" in args, "--partial" in args
     names = [a for a in args if a not in ("--overwrite", "--partial")]

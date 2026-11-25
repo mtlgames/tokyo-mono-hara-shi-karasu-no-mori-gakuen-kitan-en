@@ -189,13 +189,13 @@
   "id": "obj:0035:04",
   "jp": "取手箱",
   "refs": 2,
-  "en": "Handle Box"
+  "en": "Crank Box"
  },
  {
   "id": "obj:0035:08",
   "jp": "取手を回すことができる箱",
   "refs": 2,
-  "en": "A box with a handle you can\nturn."
+  "en": "A box with a crank you can\nturn."
  },
  {
   "id": "obj:0037:04",
@@ -903,7 +903,7 @@
   "id": "obj:0201:04",
   "jp": "親魏倭王の金印",
   "refs": 7,
-  "en": "Gold Seal of the King of Wa"
+  "en": "Gold Seal of the King of Wa,\nFriend of Wei"
  },
  {
   "id": "obj:0201:08",
@@ -933,7 +933,7 @@
   "id": "obj:0217:04",
   "jp": "華帝の壇",
   "refs": 2,
-  "en": "Foreign Emperor Altar"
+  "en": "Chinese Emperor Altar"
  },
  {
   "id": "obj:0217:08",
@@ -1209,7 +1209,7 @@
   "id": "obj:0287:04",
   "jp": "悪霊",
   "refs": 1,
-  "en": "Evil Ghost"
+  "en": "Evil Spirit"
  },
  {
   "id": "obj:0287:08",
@@ -1407,7 +1407,7 @@
   "id": "obj:0313:04",
   "jp": "取手箱\nスイッチオブジェクト",
   "refs": 1,
-  "en": "Handle Box\nSwitch Object"
+  "en": "Crank Box\nSwitch Object"
  },
  {
   "id": "obj:0314:04",
@@ -1929,7 +1929,7 @@
   "id": "obj:0426:08",
   "jp": "武器を打ち捨てる、\n迎合の儀が描かれた壇",
   "refs": 1,
-  "en": "An altar depicting a rite of\nsubmission, weapons cast\naside."
+  "en": "An altar depicting a rite of\nwelcome, weapons cast aside."
  },
  {
   "id": "obj:0428:04",
@@ -2061,7 +2061,7 @@
   "id": "obj:0465:04",
   "jp": "怨霊",
   "refs": 7,
-  "en": "Vengeful Ghost"
+  "en": "Vengeful Spirit"
  },
  {
   "id": "obj:0466:04",
@@ -3225,7 +3225,7 @@
   "id": "obj:0709:04",
   "jp": "鼠義銭",
   "refs": 2,
-  "en": "Rat Thief's Coin"
+  "en": "Noble Rat's Coin"
  },
  {
   "id": "obj:0709:08",
@@ -3279,7 +3279,7 @@
   "id": "obj:0716:04",
   "jp": "炎の描かれたマス",
   "refs": 1,
-  "en": "Tile with Flame Drawn"
+  "en": "Flame-Marked Tile"
  },
  {
   "id": "obj:0716:08",
@@ -3387,7 +3387,7 @@
   "id": "obj:0741:04",
   "jp": "倒幕の砲鍵",
   "refs": 1,
-  "en": "Overthrow Cannon Key"
+  "en": "Anti-Shogunate Cannon Key"
  },
  {
   "id": "obj:0741:08",
@@ -3405,13 +3405,13 @@
   "id": "obj:0745:08",
   "jp": "二つの国の間を飛ぶ竜の姿が\n実体化した壇",
   "refs": 2,
-  "en": "An altar shaped from a dragon\nflying between two lands, made\nmanifest."
+  "en": "The image of a dragon flying\nbetween two lands, made\nmanifest as an altar."
  },
  {
   "id": "obj:0747:04",
   "jp": "倒幕の鍵",
   "refs": 1,
-  "en": "Overthrow Key"
+  "en": "Anti-Shogunate Key"
  },
  {
   "id": "obj:0748:04",
@@ -3447,7 +3447,7 @@
   "id": "obj:0752:04",
   "jp": "政の壇",
   "refs": 1,
-  "en": "Rule Altar"
+  "en": "Governance Altar"
  },
  {
   "id": "obj:0752:08",
@@ -3459,7 +3459,7 @@
   "id": "obj:0753:04",
   "jp": "王政の証",
   "refs": 2,
-  "en": "Proof of Monarchy"
+  "en": "Proof of Imperial Rule"
  },
  {
   "id": "obj:0753:08",
@@ -3501,7 +3501,7 @@
   "id": "obj:0771:04",
   "jp": "強兵の門",
   "refs": 1,
-  "en": "Gate of Might"
+  "en": "Strong-Army Gate"
  },
  {
   "id": "obj:0771:08",
@@ -3513,7 +3513,7 @@
   "id": "obj:0772:04",
   "jp": "強兵の門ブロック",
   "refs": 1,
-  "en": "Gate of Might Block"
+  "en": "Strong-Army Gate Block"
  },
  {
   "id": "obj:0772:08",
@@ -3651,7 +3651,7 @@
   "id": "obj:0806:08",
   "jp": "井戸の底から声が聞こえる。\n「経典を読む者に応えん。\n我、辛きものを欲す……」",
   "refs": 1,
-  "en": "A voice from the well's\ndepths: \"I answer those who\nread the sutras. I crave\nsomething spicy...\""
+  "en": "A voice from the well: \"I\nshall answer those who read\nthe sutras. I crave something\nfiery...\""
  },
  {
   "id": "obj:0811:04",
@@ -3664,6 +3664,13 @@
   "jp": "何かをはめ込むことができそうだ",
   "refs": 8,
   "en": "It looks like something could\nbe fitted in here."
+ },
+ {
+  "id": "obj:0817:04",
+  "jp": "猪牙の印章",
+  "refs": 1,
+  "raw": "fb5e89e582cc88f38fcd",
+  "en": "Boar Tusk Seal"
  },
  {
   "id": "obj:0832:04",

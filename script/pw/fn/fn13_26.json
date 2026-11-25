@@ -192,7 +192,7 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing"
+  "en": "Nothing really"
  },
  {
   "id": "fn13_26:ksf:01b89",
@@ -227,7 +227,7 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing"
+  "en": "Nothing really"
  },
  {
   "id": "fn13_26:ksf:0a40f",
@@ -241,6 +241,6 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing"
+  "en": "Nothing really"
  }
 ]

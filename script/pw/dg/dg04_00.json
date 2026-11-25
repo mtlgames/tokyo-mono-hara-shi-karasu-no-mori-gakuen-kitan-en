@@ -21,13 +21,13 @@
   "id": "dg04_00:000:03",
   "speaker": "弾けるような声",
   "jp": "わかってないナー、\n悪の女幹部は、地道に\n捜しモノなんてしないんだヨ？",
-  "en": "You don't get it at all! An evil lady boss doesn't\ndo boring old searching herself, you know?"
+  "en": "You don't get it at all! An evil lady executive\ndoesn't do boring old searching herself, you know?"
  },
  {
   "id": "dg04_00:000:04",
   "speaker": "弾けるような声",
   "jp": "ホラホラ、ヤロウドモ！！\nキリキリ働きナー、だヨ！！",
-  "en": "Come on, come on, you scoundrels!!\nGet to work, chop chop!!"
+  "en": "Come on, come on, boys!! Get to work, chop chop!!"
  },
  {
   "id": "dg04_00:000:05",
@@ -39,7 +39,7 @@
   "id": "dg04_00:000:06",
   "speaker": "白",
   "jp": "ふん……\n其方ら如きにそう{ruby:易々|やすやす}と\n見つけ出せるものではないわ。",
-  "en": "Hmph... It is no thing the likes\nof you could ever find so easily."
+  "en": "Hmph... It is not something the\nlikes of you could find so easily."
  },
  {
   "id": "dg04_00:000:07",
@@ -57,7 +57,7 @@
   "id": "dg04_00:001:00",
   "speaker": "アンジー",
   "jp": "フフッ、\n嬉しいヨ、{px}。\nちょうど退屈してたからネ。",
-  "en": "Hehe, Angie is happy, {px}.\nI was just getting bored."
+  "en": "Hehe, Angie is happy, {px}.\nAngie was just getting bored."
  },
  {
   "id": "dg04_00:002:00",
@@ -393,6 +393,6 @@
   "id": "dg04_00:025:03",
   "speaker": "アンジー",
   "jp": "アンに勝てたら、\n{px}の欲しいモノ、\nあげるよ―――！！",
-  "en": "If you beat Angie, I'll give you what\nyou want, {px}--!!"
+  "en": "If you beat Angie, Angie will give you\nwhat you want, {px}--!!"
  }
 ]

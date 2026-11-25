@@ -3,7 +3,7 @@
   "id": "ms05_00:000:00",
   "kind": "caption",
   "jp": "新宿某所―――夜",
-  "en": "Somewhere in Shinjuku -- Night"
+  "en": "Somewhere in Shinjuku--Night"
  },
  {
   "id": "ms05_00:000:01",
@@ -315,7 +315,7 @@
   "id": "ms05_00:001:00",
   "kind": "caption",
   "jp": "羽鳥家居間―――朝",
-  "en": "Hatori Home, Living Room -- Morning"
+  "en": "Hatori Home, Living Room--Morning"
  },
  {
   "id": "ms05_00:001:01",
@@ -759,7 +759,7 @@
   "id": "ms05_00:018:01",
   "kind": "caption",
   "jp": "鴉羽神社境内―――",
-  "en": "Karasuba Shrine Grounds --"
+  "en": "Karasuba Shrine Grounds--"
  },
  {
   "id": "ms05_00:020:00",
@@ -1472,7 +1472,7 @@
   "id": "ms05_00:069:00",
   "speaker": "白",
   "jp": "何を呑気に\n笑っておるか！！",
-  "en": "What are you laughing about so carelessly!!"
+  "en": "What are you laughing at so idly!?"
  },
  {
   "id": "ms05_00:069:01",
@@ -1484,7 +1484,7 @@
   "id": "ms05_00:070:00",
   "speaker": "白",
   "jp": "誰も褒めてなどおらぬわ。",
-  "en": "No one is praising you."
+  "en": "No one was praising you."
  },
  {
   "id": "ms05_00:070:01",
@@ -1610,7 +1610,7 @@
   "id": "ms05_00:077:05",
   "kind": "caption",
   "jp": "３－２教室―――",
-  "en": "Class 3-2 --"
+  "en": "Class 3-2--"
  },
  {
   "id": "ms05_00:077:06",
@@ -1634,7 +1634,7 @@
   "id": "ms05_00:077:09",
   "speaker": "弥紀",
   "jp": "あれってたぶん、\n盗賊団の人……だよね。",
-  "en": "those were probably people from the Bandits... right?"
+  "en": "those were probably people from the bandits... right?"
  },
  {
   "id": "ms05_00:078:00",
@@ -2036,7 +2036,7 @@
   "id": "ms05_00:097:00",
   "speaker": "燈治",
   "jp": "お前……\n普通にイイヤツだよな。",
-  "en": "Man... you're just a plain good guy, huh."
+  "en": "Man... you're a genuinely good guy, huh."
  },
  {
   "id": "ms05_00:097:01",
@@ -2336,7 +2336,7 @@
   "id": "ms05_00:112:01",
   "speaker": "燈治",
   "jp": "確かに、万人受けする\n店じゃねェ事は\n確かだけどよ。",
-  "en": "Sure, it ain't exactly a place\neverybody likes, that's for sure."
+  "en": "Sure, it ain't exactly a place everybody likes."
  },
  {
   "id": "ms05_00:112:02",
@@ -2432,7 +2432,7 @@
   "id": "ms05_00:116:01",
   "kind": "caption",
   "jp": "下駄箱―――",
-  "en": "Shoe Lockers --"
+  "en": "Shoe Lockers--"
  },
  {
   "id": "ms05_00:116:02",
@@ -2642,7 +2642,7 @@
   "id": "ms05_00:122:06",
   "kind": "caption",
   "jp": "新宿街路―――",
-  "en": "Shinjuku Streets --"
+  "en": "Shinjuku Streets--"
  },
  {
   "id": "ms05_00:122:07",
@@ -2888,7 +2888,7 @@
   "id": "ms05_00:133:02",
   "speaker": "燈治",
   "jp": "ああ、盗賊団の下っ端が\n捕まったヤツだろ？",
-  "en": "Yeah, the one where some Bandit\nsmall-fry got caught, right?"
+  "en": "Yeah, the one where some bandit\nsmall-fry got caught, right?"
  },
  {
   "id": "ms05_00:133:03",
@@ -5024,7 +5024,7 @@
   "id": "ms05_00:242:00",
   "speaker": "燈治",
   "jp": "へッ、言うねェ。",
-  "en": "Heh, you said it."
+  "en": "Heh, big words."
  },
  {
   "id": "ms05_00:242:01",
@@ -5396,7 +5396,7 @@
   "id": "ms05_00:263:05",
   "speaker": "アンジー",
   "jp": "宿敵と書いたら\nトモって読むんだからネ！！",
-  "en": "When you write \"arch-rival,\"\nyou read it as \"friend,\" ne!!"
+  "en": "Everybody knows \"arch-rival\"\nreally means \"best friend,\" ne!!"
  },
  {
   "id": "ms05_00:263:06",
@@ -5408,7 +5408,7 @@
   "id": "ms05_00:264:00",
   "speaker": "御霧",
   "jp": "大体、こいつが強敵だと？\n笑えない冗談だ。",
-  "en": "Besides, this guy, a worthy rival? That's not funny."
+  "en": "Besides, this guy, an arch-rival? That's not funny."
  },
  {
   "id": "ms05_00:265:00",
@@ -5702,7 +5702,7 @@
   "id": "ms05_00:289:08",
   "speaker": "白",
   "jp": "力の{ruby:偏|かたよ}りを辿れば、其方か。\nいまの男は一体―――",
-  "en": "I followed the skew in the power, and it led to\nyou. Who in the world was that man just now--"
+  "en": "I traced a disturbance in the power, and it led to\nyou. Who in the world was that man just now--"
  },
  {
   "id": "ms05_00:289:09",
@@ -5786,7 +5786,7 @@
   "id": "ms05_00:295:01",
   "speaker": "白",
   "jp": "我ら番人を除く四十八枚の中で\nたった五枚きりの\n強力な札じゃ。",
-  "en": "Of the forty-eight cards, not counting we\nguardians, there are only five of these mighty cards."
+  "en": "Of the forty-eight cards, not counting us guardians,\nthere are only five of these mighty cards."
  },
  {
   "id": "ms05_00:295:02",
@@ -5828,7 +5828,7 @@
   "id": "ms05_00:297:00",
   "speaker": "白",
   "jp": "其方という奴は……。",
-  "en": "You, of all people..."
+  "en": "What am I to do with you..."
  },
  {
   "id": "ms05_00:297:01",
@@ -5924,7 +5924,7 @@
   "id": "ms05_00:306:04",
   "speaker": "白",
   "jp": "確固たる意志を持ち\n呪言花札の封を破りし者の\n得る札じゃ。",
-  "en": "It is the card obtained by one of firm will\nwho broke the seal of the Curse Hanafuda."
+  "en": "It is the card that falls to one who, with unshakable\nwill, broke the seal of the Curse Hanafuda."
  },
  {
   "id": "ms05_00:306:05",

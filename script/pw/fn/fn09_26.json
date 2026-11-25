@@ -15,7 +15,7 @@
   "id": "fn09_26:004:00",
   "speaker": "澁川",
   "jp": "お前が無事でよかった。\n俺の方も、見ての通りだ。",
-  "en": "I'm glad you're safe. As for me, I'm as you see."
+  "en": "I'm glad you're safe. As for me,\nwell, you can see for yourself."
  },
  {
   "id": "fn09_26:004:01",
@@ -180,7 +180,7 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing in particular"
+  "en": "Nothing really"
  },
  {
   "id": "fn09_26:ksf:01b89",
@@ -215,7 +215,7 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing in particular"
+  "en": "Nothing really"
  },
  {
   "id": "fn09_26:ksf:0ad1f",
@@ -229,6 +229,6 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing in particular"
+  "en": "Nothing really"
  }
 ]

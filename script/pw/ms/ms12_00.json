@@ -21,7 +21,7 @@
   "id": "ms12_00:000:03",
   "speaker": "鈴",
   "jp": "鍵さんにはもしかして、\nわかっていたですか？",
-  "en": "Ken-san... did you maybe know, it is?"
+  "en": "Ken-san... did you maybe know?"
  },
  {
   "id": "ms12_00:000:04",
@@ -57,7 +57,7 @@
   "id": "ms12_00:000:09",
   "speaker": "鈴",
   "jp": "それじゃあ、\n誰が勝ったのです？",
-  "en": "Then who won, it is?"
+  "en": "Then who won?"
  },
  {
   "id": "ms12_00:000:10",
@@ -69,7 +69,7 @@
   "id": "ms12_00:000:11",
   "speaker": "鈴",
   "jp": "な、何です！？\nすずは、お父さんが\nいたですか！？",
-  "en": "Wh-what!? Suzu has a father, it is!?"
+  "en": "Wh-what!? Suzu has a father!?"
  },
  {
   "id": "ms12_00:000:12",
@@ -105,7 +105,7 @@
   "id": "ms12_00:001:00",
   "kind": "caption",
   "jp": "羽鳥家居間―――朝",
-  "en": "Hatori Home, Living Room -- Morning"
+  "en": "Hatori Home, Living Room--Morning"
  },
  {
   "id": "ms12_00:007:00",
@@ -363,13 +363,13 @@
   "id": "ms12_00:030:04",
   "speaker": "清司郎",
   "jp": "さ、俺たちは一足先に\n飯にするとしよう。",
-  "en": "Well, let's the rest of us go ahead and eat."
+  "en": "Well, the rest of us'll go ahead and eat."
  },
  {
   "id": "ms12_00:031:00",
   "kind": "caption",
   "jp": "鴉羽神社境内―――",
-  "en": "Karasuba Shrine Grounds --"
+  "en": "Karasuba Shrine Grounds--"
  },
  {
   "id": "ms12_00:037:00",
@@ -411,7 +411,7 @@
   "id": "ms12_00:037:06",
   "speaker": "零",
   "jp": "執行者を挟んで\nこれだけ近くにいれば\nそのくらいはわかる。",
-  "en": "With the Executor between us and\nus this close, I can tell that much."
+  "en": "Linked through the Executor and\nthis close, I can tell that much."
  },
  {
   "id": "ms12_00:037:07",
@@ -1449,7 +1449,7 @@
   "id": "ms12_00:085:00",
   "kind": "caption",
   "jp": "３－２教室―――朝",
-  "en": "Class 3-2 -- Morning"
+  "en": "Class 3-2--Morning"
  },
  {
   "id": "ms12_00:087:00",
@@ -1911,7 +1911,7 @@
   "id": "ms12_00:112:00",
   "kind": "caption",
   "jp": "屋上―――",
-  "en": "Rooftop --"
+  "en": "Rooftop--"
  },
  {
   "id": "ms12_00:112:01",
@@ -1989,7 +1989,7 @@
   "id": "ms12_00:115:00",
   "speaker": "燈治",
   "jp": "あのなァ……。\nこれでも一応、\n真剣に悩んでだぜ？",
-  "en": "C'mon... I'm actually seriously\nworried about this, y'know?"
+  "en": "C'mon... I'm actually seriously\nwrestlin' with this, y'know?"
  },
  {
   "id": "ms12_00:116:00",
@@ -2535,7 +2535,7 @@
   "id": "ms12_00:147:00",
   "kind": "caption",
   "jp": "３Ｆ階段―――",
-  "en": "3F Stairs --"
+  "en": "3F Stairs--"
  },
  {
   "id": "ms12_00:147:01",
@@ -3093,7 +3093,7 @@
   "id": "ms12_00:184:00",
   "kind": "caption",
   "jp": "四角研究会―――",
-  "en": "Square Research Club --"
+  "en": "Square Research Club--"
  },
  {
   "id": "ms12_00:184:01",
@@ -3105,7 +3105,7 @@
   "id": "ms12_00:184:02",
   "speaker": "蒐",
   "jp": "びっくり……した。\nお導きは、\n特になかった、よ？",
-  "en": "That was... a surprise. There wasn't\nany guidance, in particular. Was there?"
+  "en": "That was... a surprise. There wasn't any\nguidance, in particular. You know?"
  },
  {
   "id": "ms12_00:185:00",
@@ -3159,7 +3159,7 @@
   "id": "ms12_00:188:01",
   "speaker": "蒐",
   "jp": "熱処理、しなきゃ。",
-  "en": "Need to... process the heat."
+  "en": "Need to... cool down."
  },
  {
   "id": "ms12_00:189:00",
@@ -3663,7 +3663,7 @@
   "id": "ms12_00:220:00",
   "kind": "caption",
   "jp": "武道場―――",
-  "en": "Martial Arts Hall --"
+  "en": "Martial Arts Hall--"
  },
  {
   "id": "ms12_00:220:01",
@@ -3867,7 +3867,7 @@
   "id": "ms12_00:236:01",
   "speaker": "長英",
   "jp": "くッ……\nなんちゅうありがたい\nお言葉……。",
-  "en": "Ngh... What grateful words..."
+  "en": "Ngh... Such kind words..."
  },
  {
   "id": "ms12_00:236:02",
@@ -4281,13 +4281,13 @@
   "id": "ms12_00:260:00",
   "kind": "caption",
   "jp": "下駄箱―――",
-  "en": "Shoe Lockers --"
+  "en": "Shoe Lockers--"
  },
  {
   "id": "ms12_00:260:01",
   "speaker": "威勢のいい声",
   "jp": "―――止まりなさい、\nそこの脱走者！！",
-  "en": "--Stop right there, you deserter!!"
+  "en": "--Stop right there, you runaway!!"
  },
  {
   "id": "ms12_00:261:00",
@@ -4455,7 +4455,7 @@
   "id": "ms12_00:273:02",
   "speaker": "巴",
   "jp": "そんなに叱って欲しいなら\nアンタ一人くらい、\nいつだってしてあげるわよ。",
-  "en": "If you want to be scolded that badly,\nI can manage one of you anytime."
+  "en": "If you want to be scolded that badly, I'll\nscold you anytime. One of you, I can handle."
  },
  {
   "id": "ms12_00:273:03",
@@ -4905,7 +4905,7 @@
   "id": "ms12_00:299:00",
   "kind": "caption",
   "jp": "校舎裏―――",
-  "en": "Behind the School Building --"
+  "en": "Behind the School Building--"
  },
  {
   "id": "ms12_00:300:00",

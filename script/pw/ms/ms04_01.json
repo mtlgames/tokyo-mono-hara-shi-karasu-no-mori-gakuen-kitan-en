@@ -687,7 +687,7 @@
   "id": "ms04_01:037:08",
   "speaker": "アンジー",
   "jp": "人生は\nスゴロク遊びの\nようなモノ……。",
-  "en": "Life is like a game of sugoroku..."
+  "en": "Life is like a sugoroku board game..."
  },
  {
   "id": "ms04_01:037:09",
@@ -1178,7 +1178,7 @@
   "id": "ms04_01:062:01",
   "speaker": "朝子",
   "jp": "じゃ、なかった。\n急ぎの話じゃないから。",
-  "en": "I-I mean, it's nothing urgent."
+  "en": "Er, I mean, it's nothing urgent."
  },
  {
   "id": "ms04_01:063:00",
@@ -1280,13 +1280,13 @@
   "id": "ms04_01:068:02",
   "speaker": "燈治",
   "jp": "ッたく、どさくさに紛れて\n何言ってんだ、お前は。",
-  "en": "Geez, what're you sayin' in all the confusion?"
+  "en": "Geez, don't go sneakin' that in all casual-like."
  },
  {
   "id": "ms04_01:068:03",
   "speaker": "燈治",
   "jp": "それより穂坂、\n何処行くつもりなんだよ？",
-  "en": "More importantly, Hosaka,\nwhere're you plannin' on goin'?"
+  "en": "Anyway, Hosaka, where're you plannin' on goin'?"
  },
  {
   "id": "ms04_01:069:00",
@@ -1310,7 +1310,7 @@
   "id": "ms04_01:069:03",
   "speaker": "燈治",
   "jp": "それより穂坂、\n何処行くつもりなんだよ？",
-  "en": "More importantly, Hosaka,\nwhere're you plannin' on goin'?"
+  "en": "Anyway, Hosaka, where're you plannin' on goin'?"
  },
  {
   "id": "ms04_01:070:00",
@@ -1352,7 +1352,7 @@
   "id": "ms04_01:071:03",
   "speaker": "燈治",
   "jp": "それより穂坂、\n何処行くつもりなんだよ？",
-  "en": "More importantly, Hosaka,\nwhere're you plannin' on goin'?"
+  "en": "Anyway, Hosaka, where're you plannin' on goin'?"
  },
  {
   "id": "ms04_01:072:00",
@@ -1394,7 +1394,7 @@
   "id": "ms04_01:073:02",
   "speaker": "燈治",
   "jp": "それより穂坂、\n何処行くつもりなんだよ？",
-  "en": "More importantly, Hosaka,\nwhere're you plannin' on goin'?"
+  "en": "Anyway, Hosaka, where're you plannin' on goin'?"
  },
  {
   "id": "ms04_01:074:00",
@@ -1436,7 +1436,7 @@
   "id": "ms04_01:075:02",
   "speaker": "燈治",
   "jp": "それより穂坂、\n何処行くつもりなんだよ？",
-  "en": "More importantly, Hosaka,\nwhere're you plannin' on goin'?"
+  "en": "Anyway, Hosaka, where're you plannin' on goin'?"
  },
  {
   "id": "ms04_01:076:00",
@@ -1454,7 +1454,7 @@
   "id": "ms04_01:076:02",
   "speaker": "燈治",
   "jp": "それより穂坂、\n何処行くつもりなんだよ？",
-  "en": "More importantly, Hosaka,\nwhere're you plannin' on goin'?"
+  "en": "Anyway, Hosaka, where're you plannin' on goin'?"
  },
  {
   "id": "ms04_01:077:00",
@@ -2304,7 +2304,7 @@
   "id": "ms04_01:121:05",
   "speaker": "巴",
   "jp": "呼び出し{ruby:＝|イコール}説教なのは、\nアンタくらいよ。",
-  "en": "You're the only one for whom\ngetting called in equals a lecture."
+  "en": "Getting called in = a lecture? That's only ever you."
  },
  {
   "id": "ms04_01:121:06",
@@ -2700,7 +2700,7 @@
   "id": "ms04_01:141:01",
   "speaker": "くぐもった声",
   "jp": "あ……\nお導き……。",
-  "en": "Ah... Divine guidance..."
+  "en": "Ah... guidance..."
  },
  {
   "id": "ms04_01:141:02",
@@ -2712,7 +2712,7 @@
   "id": "ms04_01:141:03",
   "speaker": "蒐",
   "jp": "{px}……\n知らないカード、\n持ってる、感じ？",
-  "en": "{px}... you have...\na card I don't know. I can tell?"
+  "en": "{px}... you have... a\ncard I don't know... I can feel it?"
  },
  {
   "id": "ms04_01:141:04",
@@ -3653,13 +3653,13 @@
   "id": "ms04_01:212:13",
   "speaker": "白",
   "jp": "其方、一体何者じゃ？",
-  "en": "Just what are you?"
+  "en": "Just who might you be?"
  },
  {
   "id": "ms04_01:212:14",
   "speaker": "アンジー",
   "jp": "アナタが{ruby:白　札|ブランクカード}！？\nフフッ、どうやらウワサ以上の\nオタカラみたいだネ。",
-  "en": "You're the White Card!? Hehe, looks like you're\neven more of a treasure than the rumors said."
+  "en": "You're the White Card--the \"blank\ncard\"!? Hehe, looks like you're even\nmore of a treasure than the rumors said."
  },
  {
   "id": "ms04_01:212:15",
@@ -3725,7 +3725,7 @@
   "id": "ms04_01:212:25",
   "speaker": "アンジー",
   "jp": "アハハ！！\nワタシ、ニホンゴ、\nワッカリーマセーン！！",
-  "en": "Ahaha!! Me no understand-o Japanese!!"
+  "en": "Ahaha!! No comprendo Japanese!!"
  },
  {
   "id": "ms04_01:212:26",
@@ -3977,7 +3977,7 @@
   "id": "ms04_01:223:08",
   "speaker": "白",
   "jp": "う、うるさいッ。\n妾にも、てぃーたいむ、\nくらいあるわ！！",
-  "en": "S-Silence! Even I am entitled to a \"tee-time\"!!"
+  "en": "S-Silence! Even I am entitled to a little \"tea time\"!!"
  },
  {
   "id": "ms04_01:223:09",
@@ -4199,7 +4199,7 @@
   "id": "ms04_01:234:02",
   "speaker": "いちる",
   "jp": "か……カツ丼？",
-  "en": "W-With... eye drops?"
+  "en": "W-With... a fresh katsu bowl?"
  },
  {
   "id": "ms04_01:234:03",
@@ -4571,7 +4571,7 @@
   "id": "ms04_01:246:34",
   "speaker": "伊佐地",
   "jp": "人々の、{ruby:現在|い　ま}を守る為、\n我々はそれを探し当て、\n収集しなければならない。",
-  "en": "we must track them down and collect\nthem, to protect people's present."
+  "en": "we must track them down and collect\nthem, to protect people's here and now."
  },
  {
   "id": "ms04_01:247:00",
@@ -4589,7 +4589,7 @@
   "id": "ms04_01:248:01",
   "speaker": "伊佐地",
   "jp": "だが……\nいい顔をするようになったな。\nそれでこそ俺の自慢の生徒だ。",
-  "en": "But... you've come to wear a good look\non your face. That's my star pupil."
+  "en": "But... you've got a good look in\nyour eyes now. That's my star pupil."
  },
  {
   "id": "ms04_01:249:00",
@@ -4607,7 +4607,7 @@
   "id": "ms04_01:250:00",
   "speaker": "伊佐地",
   "jp": "フッ……。\nいい顔をするようになったな。",
-  "en": "Heh... You've come to wear\na good look on your face."
+  "en": "Heh... You've got a good look in your eyes now."
  },
  {
   "id": "ms04_01:250:01",
@@ -5055,7 +5055,7 @@
   "id": "ms04_01:259:00",
   "speaker": "澁川",
   "jp": "{px}、\nお前たちにとって、\n絢人は……なんだ？",
-  "en": "{px}. To you all... what is Ayahito?"
+  "en": "{px}. What is Ayahito... to you all?"
  },
  {
   "id": "ms04_01:260:00",

@@ -3,7 +3,7 @@
   "id": "fn11_27:001:00",
   "speaker": "カルパタル",
   "jp": "{ruby:スワガト・ヘー|い　ら　っ　し　ゃ　い　ま　せ}！！\n魅惑のカレー{ruby:桃源郷|とうげんきょう}へ\nヨーコソゥ！！",
-  "en": "Swagat hai!! Welcome-o to the\nenchanting Curry Shangri-La!!"
+  "en": "Swagat hai!! Welcommme to the\nenchanting Curry Shangri-La!!"
  },
  {
   "id": "fn11_27:002:00",
@@ -33,7 +33,7 @@
   "id": "fn11_27:004:03",
   "speaker": "カルパタル",
   "jp": "んっ、んー！！カルさん大変！\n大失言しちゃうかも\nしれないとこだったよ。",
-  "en": "Mm, mmh!! Oh no, Kal-san! You almost\nmade a terrible slip of the tongue!"
+  "en": "Mm, mmh!! Yikes! Kal-san almost\nmade a terrible slip of the tongue!"
  },
  {
   "id": "fn11_27:004:04",
@@ -423,7 +423,7 @@
   "id": "fn11_27:040:00",
   "speaker": "カルパタル",
   "jp": "想像するだけでも\n楽しい毎日でゴザロウ？\nなにせ……",
-  "en": "Just imagining it, every day\nsounds like fun, verily? After all..."
+  "en": "Doesn't every day sound fun just\nimagining it, verily? After all..."
  },
  {
   "id": "fn11_27:040:01",
@@ -641,7 +641,7 @@
   "kind": "choice",
   "jp": "やめる",
   "slot": 30,
-  "en": "Quit"
+  "en": "Never mind"
  },
  {
   "id": "fn11_27:ksf:1c60f",

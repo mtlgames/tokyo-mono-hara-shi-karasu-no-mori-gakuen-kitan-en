@@ -171,7 +171,7 @@
   "id": "dg07_00:010:02",
   "speaker": "アンジー",
   "jp": "そろそろ\nアンたちの相手も\nしてくれないとネ！",
-  "en": "It's about time you played with Angie too, okay!"
+  "en": "It's about time you played with us too, okay!"
  },
  {
   "id": "dg07_00:010:03",
@@ -243,7 +243,7 @@
   "id": "dg07_00:013:00",
   "speaker": "アンジー",
   "jp": "アハッ！\n渡す気マンマンなんて\n面白いネ？",
-  "en": "Aha! So eager to hand them\nover? You're funny, okay?"
+  "en": "Aha! So eager to hand them over? How funny!"
  },
  {
   "id": "dg07_00:014:00",
@@ -381,7 +381,7 @@
   "id": "dg07_00:022:08",
   "speaker": "アンジー",
   "jp": "ンー、これなら\n{ruby:アンとミギーにとっても|・・・・・・・・・・・}\n公平だと思うケド？",
-  "en": "Mmm, Angie thinks this way is fair\neven for Angie and Miggy, though?"
+  "en": "Mmm, Angie thinks this way is fair\neven for Angie AND Miggy, though?"
  },
  {
   "id": "dg07_00:023:00",
@@ -471,7 +471,7 @@
   "id": "dg07_00:030:01",
   "speaker": "御霧",
   "jp": "―――取引は公正に。\nそれくらいは\n最低限の{ruby:規律|ルール}だ。",
-  "en": "--A deal is a fair trade. That\nmuch is the bare minimum rule."
+  "en": "--Deals are done fairly. That\nmuch is the bare minimum rule."
  },
  {
   "id": "dg07_00:031:00",
@@ -813,7 +813,7 @@
   "id": "dg07_00:048:11",
   "speaker": "アンジー",
   "jp": "この力さえあれば、\nアンも一人前の{ruby:ＢＲＵＪＡ|ま　　じ　　ょ}。\nアイツラの好きにはさせナイ。",
-  "en": "With this power, Angie's a real BRUJA\ntoo. I won't let those guys have their way."
+  "en": "With this power, Angie's a full-fledged\nBRUJA. I won't let those guys have their way."
  },
  {
   "id": "dg07_00:048:12",
@@ -861,7 +861,7 @@
   "id": "dg07_00:050:03",
   "speaker": "白",
   "jp": "ちと{ruby:姑息|こそく}ではあるが……\n札が無事戻ったのじゃ。\nよしとするかの。",
-  "en": "A touch underhanded, perhaps... but the cards\nhave returned unharmed. I shall call it well done."
+  "en": "A touch underhanded, perhaps... but the cards\nhave returned unharmed. I shall let it pass."
  },
  {
   "id": "dg07_00:051:00",

@@ -3,7 +3,7 @@
   "id": "ms01_01:000:00",
   "kind": "caption",
   "jp": "３－２教室―――放課後",
-  "en": "Class 3-2 -- After School"
+  "en": "Class 3-2--After School"
  },
  {
   "id": "ms01_01:000:01",
@@ -303,7 +303,7 @@
   "id": "ms01_01:012:21",
   "speaker": "黒髪の男子生徒",
   "jp": "お前が転校生か。\nなかなかいい{ruby:面構|つらがま}え\nしてるじゃねェか。",
-  "en": "So you're the transfer student. You've\ngot a pretty decent look on your face."
+  "en": "So you're the transfer student. You\nlook like you mean business, don't ya?"
  },
  {
   "id": "ms01_01:012:22",
@@ -327,7 +327,7 @@
   "id": "ms01_01:012:25",
   "speaker": "黒髪の男子生徒",
   "jp": "俺は{ruby:壇|だん}　{ruby:燈治|とうじ}。\n知っての通り、\nお前のクラスメイトって奴だ。",
-  "en": "I'm Toji Dan. Like you know, I'm your classmate."
+  "en": "I'm Toji Dan. As you know, I'm your classmate."
  },
  {
   "id": "ms01_01:012:26",
@@ -909,7 +909,7 @@
   "id": "ms01_01:042:01",
   "speaker": "燈治",
   "jp": "ま、コレがこの學園の{ruby:掟|ルール}だ。\nこれ以上、面倒起こしたく\nなかったら諦めな。",
-  "en": "Well, that's the rule at this academy. If you\ndon't want any more trouble, give it up."
+  "en": "Well, that's how things work 'round this school.\nIf you don't want any more trouble, give it up."
  },
  {
   "id": "ms01_01:043:00",
@@ -921,7 +921,7 @@
   "id": "ms01_01:043:01",
   "speaker": "燈治",
   "jp": "ま、コレがこの學園の{ruby:掟|ルール}だ。\nこれ以上、面倒起こしたく\nなかったら諦めな。",
-  "en": "Well, that's the rule at this academy. If you\ndon't want any more trouble, give it up."
+  "en": "Well, that's how things work 'round this school.\nIf you don't want any more trouble, give it up."
  },
  {
   "id": "ms01_01:044:00",
@@ -963,7 +963,7 @@
   "id": "ms01_01:045:05",
   "speaker": "燈治",
   "jp": "ま、コレがこの學園の{ruby:掟|ルール}だ。\nこれ以上面倒起こしたく\nなかったら諦めな。",
-  "en": "Well, that's the rule at this academy. If you\ndon't want any more trouble, give it up."
+  "en": "Well, that's how things work 'round this school.\nIf you don't want any more trouble, give it up."
  },
  {
   "id": "ms01_01:046:00",
@@ -993,7 +993,7 @@
   "id": "ms01_01:047:00",
   "kind": "caption",
   "jp": "生徒会室―――",
-  "en": "Student Council Room --"
+  "en": "Student Council Room--"
  },
  {
   "id": "ms01_01:047:01",
@@ -1293,7 +1293,7 @@
   "id": "ms01_01:057:21",
   "speaker": "巴",
   "jp": "{ruby:陶器|とうき}か何かの\n破片かと思っていたら\n案の定―――",
-  "en": "He thought they were shards of pottery\nor something, but sure enough--"
+  "en": "He thought they were shards of\npottery or something, but then--"
  },
  {
   "id": "ms01_01:057:22",
@@ -1773,7 +1773,7 @@
   "id": "ms01_01:078:01",
   "speaker": "巴",
   "jp": "これであたしの頼みを断る\n機会は永久に失われたわよ。",
-  "en": "You've now lost your chance to\nturn down my request forever."
+  "en": "You've just lost your chance to\nturn down my request. Forever."
  },
  {
   "id": "ms01_01:078:02",
@@ -1851,7 +1851,7 @@
   "id": "ms01_01:080:00",
   "kind": "caption",
   "jp": "校舎裏―――",
-  "en": "Behind the School Building --"
+  "en": "Behind the School Building--"
  },
  {
   "id": "ms01_01:080:01",
@@ -1947,7 +1947,7 @@
   "id": "ms01_01:082:01",
   "speaker": "燈治",
   "jp": "何でもいいけど、\n自分の身くらいは\n自分で護れよ？",
-  "en": "Whatever, but you at least\nlook out for yourself, got it?"
+  "en": "Whatever, but at least look out for yourself, got it?"
  },
  {
   "id": "ms01_01:083:00",
@@ -1959,7 +1959,7 @@
   "id": "ms01_01:083:01",
   "speaker": "燈治",
   "jp": "何でもいいけど、\n自分の身くらいは\n自分で護れよな。",
-  "en": "Whatever, but you at least\nlook out for yourself, got it?"
+  "en": "Whatever, but at least look out for yourself, got it?"
  },
  {
   "id": "ms01_01:084:00",
@@ -2253,7 +2253,7 @@
   "id": "ms01_01:095:12",
   "speaker": "巴",
   "jp": "あ、{px}と{ruby:弥紀|みのり}……\n{ruby:穂坂|ほさか}さんは、私が無理に\n付き合わせただけですから。",
-  "en": "Oh, {px} and Minori... Hosaka-san\nonly came along because I forced them to."
+  "en": "Oh, {px} and\nMinori-- I mean, Hosaka-san-- only\ncame along because I forced them to."
  },
  {
   "id": "ms01_01:095:13",
@@ -3279,7 +3279,7 @@
   "id": "ms01_01:151:00",
   "speaker": "着流しの男",
   "jp": "私ァ、ここの{ruby:神使|しんし}で\n{ruby:鍵|けん}と申しやす。",
-  "en": "Yours truly is the divine messenger of this\nplace. The name's Ken, if you'd permit me."
+  "en": "Yours truly is the divine messenger of this\nplace. The name's Ken, at your service."
  },
  {
   "id": "ms01_01:151:01",
@@ -3571,7 +3571,7 @@
   "kind": "choice",
   "jp": "気のせい",
   "slot": 30,
-  "en": "Just imagination"
+  "en": "Just my imagination"
  },
  {
   "id": "ms01_01:ksf:4a3a9",

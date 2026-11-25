@@ -153,7 +153,7 @@
   "id": "ms08_03:010:07",
   "speaker": "厳つい男子生徒の声",
   "jp": "先輩方ー！！",
-  "en": "Senpais!!"
+  "en": "Senpai!!"
  },
  {
   "id": "ms08_03:010:08",
@@ -219,7 +219,7 @@
   "id": "ms08_03:014:01",
   "speaker": "長英",
   "jp": "わしも{ruby:安芸|あ　き}の漢の心意気、\n{px}の為なら\nいつでも見せますけェ！",
-  "en": "For your sake, {px}, I'll show ya\nthe spirit of a man of Aki anytime, I tell ya!"
+  "en": "For your sake, {px}, I'll show\nya the spirit of a man of Aki anytime!"
  },
  {
   "id": "ms08_03:015:00",
@@ -231,7 +231,7 @@
   "id": "ms08_03:015:01",
   "speaker": "長英",
   "jp": "勿論、{px}に\n何かあったら、タダじゃあ\nおかないとこでしたけェ。",
-  "en": "O' course, if anythin' had happened to ya,\n{px}, they'd have paid for it, I tell ya."
+  "en": "O' course, if anythin' had happened to ya,\n{px}, they'd have paid for it, y'hear."
  },
  {
   "id": "ms08_03:016:00",
@@ -267,7 +267,7 @@
   "id": "ms08_03:018:00",
   "speaker": "長英",
   "jp": "うおッ！？\nい、いや、まだ何も\nしとらんけェ……。",
-  "en": "Whoa!? N-now, I ain't done nothin' yet, I tell ya..."
+  "en": "Whoa!? N-now, I ain't done nothin' yet..."
  },
  {
   "id": "ms08_03:018:01",
@@ -303,7 +303,7 @@
   "id": "ms08_03:022:01",
   "speaker": "長英",
   "jp": "正門は検問状態じゃな。\n柵にも人が張りついとるけェ。",
-  "en": "The front gate's a checkpoint. They've got\npeople stuck to the fences too, I tell ya."
+  "en": "The front gate's a checkpoint. They've got\npeople posted all along the fences too."
  },
  {
   "id": "ms08_03:022:02",
@@ -531,7 +531,7 @@
   "id": "ms08_03:033:01",
   "speaker": "長英",
   "jp": "ほいじゃあ、わしはまた\n見回ってきますけェ！",
-  "en": "Well then, I'll go do another round, I tell ya!"
+  "en": "Well then, I'll go do another round!"
  },
  {
   "id": "ms08_03:033:02",
@@ -735,7 +735,7 @@
   "id": "ms08_03:039:00",
   "speaker": "巴",
   "jp": "流石ね。\nこのあたしの完璧な作戦を\n瞬時に理解出来るなんて。",
-  "en": "Impressive. To grasp my perfect plan in an instant."
+  "en": "Impressive. You grasped my\nperfect plan in an instant."
  },
  {
   "id": "ms08_03:039:01",
@@ -1065,7 +1065,7 @@
   "id": "ms08_03:063:00",
   "speaker": "巴",
   "jp": "何でそんなに\n自信満々なのよ！！",
-  "en": "Why are you so full of confidence!!"
+  "en": "Why are you so confident about this!?"
  },
  {
   "id": "ms08_03:064:00",
@@ -1215,7 +1215,7 @@
   "id": "ms08_03:070:06",
   "speaker": "燈治",
   "jp": "質の悪い冗談だ。\nそうだよな、{px}？",
-  "en": "It's a crappy joke. Right, {px}?"
+  "en": "This is a sick joke. Right, {px}?"
  },
  {
   "id": "ms08_03:071:00",
@@ -1233,7 +1233,7 @@
   "id": "ms08_03:072:00",
   "speaker": "燈治",
   "jp": "ッたく……。\nお前、後で覚えてろよ？",
-  "en": "Geez... You, just you remember this later, got it?"
+  "en": "Geez... You'll pay for this later, got it?"
  },
  {
   "id": "ms08_03:072:01",
@@ -1257,7 +1257,7 @@
   "id": "ms08_03:074:00",
   "speaker": "燈治",
   "jp": "ッたく……。\nお前、後で覚えてろよ？",
-  "en": "Geez... You, just you remember this later, got it?"
+  "en": "Geez... You'll pay for this later, got it?"
  },
  {
   "id": "ms08_03:074:01",
@@ -1401,7 +1401,7 @@
   "id": "ms08_03:081:03",
   "speaker": "巴",
   "jp": "な、馬鹿じゃないの！？\nそんな事、\n出来るワケないでしょ！！",
-  "en": "Wh-are you an idiot!? There's no\nway I could do something like that!!"
+  "en": "Wh-what, are you an idiot!? There's no\nway I could do something like that!!"
  },
  {
   "id": "ms08_03:081:04",
@@ -1611,7 +1611,7 @@
   "id": "ms08_03:093:08",
   "speaker": "燈治",
   "jp": "同情するぜ、{px}……。",
-  "en": "You have my sympathy, {px}..."
+  "en": "I feel for ya, {px}..."
  },
  {
   "id": "ms08_03:093:09",
@@ -1659,7 +1659,7 @@
   "id": "ms08_03:093:16",
   "speaker": "いちる",
   "jp": "あたしたち封札師の本部が、\nＪＥＭＡっていう人たちに\n占領されたの。",
-  "en": "The headquarters of us Card Sealers got\ntaken over by some people called JEMA."
+  "en": "Our Card Sealer headquarters got taken\nover by some people called JEMA."
  },
  {
   "id": "ms08_03:093:17",

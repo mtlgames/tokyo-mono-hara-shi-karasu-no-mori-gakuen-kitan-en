@@ -20,10 +20,9 @@ def text(raw):
     if not raw or raw.startswith(b"SSCR") or any(c < 0x20 and c != 0x0A for c in raw):
         return None
     try:
-        s = raw.decode("cp932")
+        return raw.decode("cp932")  # IBM-extension kanji (FB5E 猪 in obj:0817:04) decode but don't re-encode the same
     except UnicodeDecodeError:
         return None
-    return s if s.encode("cp932") == raw else None
 
 
 def entries(b, stem):
@@ -39,6 +38,8 @@ def entries(b, stem):
             seen[p]["refs"] += 1
             continue
         seen[p] = {"id": f"{stem}:{r:04d}:{col:02x}", "jp": t, "refs": 1}
+        if t.encode("cp932") != raw:
+            seen[p]["raw"] = raw.hex()  # the original bytes, for the roundtrip test
         out.append(seen[p])
     return out
 

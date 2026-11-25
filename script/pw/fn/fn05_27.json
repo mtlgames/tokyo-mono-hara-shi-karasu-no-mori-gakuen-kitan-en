@@ -9,7 +9,7 @@
   "id": "fn05_27:002:00",
   "speaker": "カルパタル",
   "jp": "アチャー！\nまた来たでゴザルか。\nお客サンも好きねェ。",
-  "en": "Ah-chaa! You are back again, verily?\nYou do love it here, customer-san!"
+  "en": "Ah-chaa! Back again, verily! You\ndo love it here, customer-san!"
  },
  {
   "id": "fn05_27:004:00",
@@ -245,7 +245,7 @@
   "kind": "choice",
   "jp": "やめる",
   "slot": 30,
-  "en": "Quit"
+  "en": "Never mind"
  },
  {
   "id": "fn05_27:ksf:09aff",

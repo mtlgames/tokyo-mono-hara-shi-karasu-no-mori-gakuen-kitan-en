@@ -1,0 +1,16 @@
+# Japanese left in the release build on purpose (tools/release.py step jp). path (glob ok)<TAB>offset|*|row:col<TAB>why
+dungeon/*.ini	*	developer comments, not shown (docs/re/text.md "Other data with SJIS")
+dungeon/*/dungeon/*.ini	*	developer comments, not shown
+effect/effect.pak/effect/gpeffect.ini	*	developer comments, not shown
+system/site/site_ch0031_00.lay	*	developer folder names, not shown
+system/sysfile.bin	*	binary noise (no kana run that decodes as text)
+system/sysfileq.bin	*	binary noise
+system/key_icon.pak/system/sfk/namedic.bin	*	name-entry kana-kanji dictionary, not shown
+app_init.pak/system/font/jis2ucs.bin	*	JIS->UCS font table
+EBOOT.BIN	37BEB	code words that decode as SJIS (.text)
+EBOOT.BIN	2BA8E3	SJIS code-point table (stride 0x0F, kana order), not text
+EBOOT.BIN	2BA8F7	same table
+app_init.pak/table/systemtext.bin	586:0x0	default names as full-width Latin (D17), English
+app_init.pak/table/systemtext.bin	587:0x0	same
+app_init.pak/table/systemtext.bin	588:0x0	same
+app_init.pak/table/systemtext.bin	589:0x0	same

@@ -53,8 +53,7 @@ def sha1(path):
 
 def eboot(text, crow_edits=None):
     """Patched EBOOT: the engine changes (tools/engine.py), EBOOT strings and the EBOOT's own copies of CROW.PAK
-    graphics (gfx.EBOOT_COPIES) in the decrypted ELF. shortcut: ships the plain ELF, which only PPSSPP boots; re-sign
-    it into a ~PSP EBOOT before release (docs/status.md)."""
+    graphics (gfx.EBOOT_COPIES) in the decrypted ELF (the plain ELF; build() signs it, tools/sign.py)."""
     import engine
     import gfx
     import insert
@@ -83,7 +82,10 @@ def build(out=OUT, force=False, mode="en", qa=None, extra=None):
     pak.rebuild(tmp, editor(pak, ed, force))
     files = {CROW: tmp.read_bytes()}
     if not force:
-        files[EBOOT] = eboot(text, ed)
+        import sign
+        elf = eboot(text, ed)
+        out.with_suffix(".elf").write_bytes(elf)  # the plain ELF, for scans (release.py jp)
+        files[EBOOT] = sign.sign(elf)  # ~PSP, as the original (AGENTS.md)
     if mode == "en" and not force:
         import movie
         files.update(movie.pmfs())

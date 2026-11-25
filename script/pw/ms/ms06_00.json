@@ -141,7 +141,7 @@
   "id": "ms06_00:006:01",
   "speaker": "清司郎",
   "jp": "生徒に笑われてりゃ\n世話はねェな。",
-  "en": "When your own students are\nlaughing at you, there's no helping it."
+  "en": "When she's got her own students\nlaughin' at her, it's just sad."
  },
  {
   "id": "ms06_00:007:00",
@@ -1767,7 +1767,7 @@
   "id": "ms06_00:081:04",
   "speaker": "英雄",
   "jp": "{ruby:即|すなわ}ちッ、\n全ッ力ッ疾ッ走ッ！！",
-  "en": "In other words... An! All-out! Full! Sprint!!"
+  "en": "In other words... All! Out! Full! Sprint!!"
  },
  {
   "id": "ms06_00:081:05",
@@ -2061,7 +2061,7 @@
   "id": "ms06_00:093:16",
   "speaker": "いちる",
   "jp": "でも、このオジさん、\n何でも知ってるんだよ！！",
-  "en": "But this mister knows everything!!"
+  "en": "But this old guy knows everything!!"
  },
  {
   "id": "ms06_00:093:17",
@@ -2121,7 +2121,7 @@
   "id": "ms06_00:093:26",
   "speaker": "カルパタル",
   "jp": "失敗失敗、\nカルさんのオチャメ爆裂ネ！",
-  "en": "Silly me! Kal-san's mischief goes kaboom!"
+  "en": "Oopsie, oopsie! Kal-san's silly\nside strikes again, kaboom!"
  },
  {
   "id": "ms06_00:093:27",
@@ -2307,7 +2307,7 @@
   "id": "ms06_00:104:09",
   "speaker": "燈治",
   "jp": "あーわかったわかった。\nそれより何調べてるって？",
-  "en": "Yeah, yeah, got it. More importantly,\nwhat're you lookin' into?"
+  "en": "Yeah, yeah, got it. Anyway,\nwhat're you lookin' into?"
  },
  {
   "id": "ms06_00:104:10",
@@ -2589,7 +2589,7 @@
   "id": "ms06_00:115:10",
   "speaker": "カルパタル",
   "jp": "カルさんもついつい、\nある事ある事\n話しちまったでゴザルよ。",
-  "en": "Kal-san got carried away and told her\nall sorts of things, true and truer, verily."
+  "en": "Kal-san got carried away and told her all sorts\nof things--true ones, and more true ones, verily."
  },
  {
   "id": "ms06_00:115:11",
@@ -2757,7 +2757,7 @@
   "id": "ms06_00:121:01",
   "speaker": "英雄",
   "jp": "では、{ruby:英雄|ヒーロー}の名に賭けて\n約束しようッ。",
-  "en": "Then I swear it on the name of HERO."
+  "en": "Then I swear it on my honor as a HERO."
  },
  {
   "id": "ms06_00:121:02",
@@ -2775,7 +2775,7 @@
   "id": "ms06_00:122:01",
   "speaker": "英雄",
   "jp": "では、{ruby:英雄|ヒーロー}の名に賭けて\n約束しようッ。",
-  "en": "Then I swear it on the name of HERO."
+  "en": "Then I swear it on my honor as a HERO."
  },
  {
   "id": "ms06_00:122:02",
@@ -2793,7 +2793,7 @@
   "id": "ms06_00:123:01",
   "speaker": "英雄",
   "jp": "{ruby:英雄|ヒーロー}の名に賭けて\n約束しようッ。",
-  "en": "I swear it on the name of HERO."
+  "en": "I swear it on my honor as a HERO."
  },
  {
   "id": "ms06_00:123:02",
@@ -2811,7 +2811,7 @@
   "id": "ms06_00:124:01",
   "speaker": "英雄",
   "jp": "では、{ruby:英雄|ヒーロー}の名に賭けて\n約束しようッ。",
-  "en": "Then I swear it on the name of HERO."
+  "en": "Then I swear it on my honor as a HERO."
  },
  {
   "id": "ms06_00:124:02",
@@ -2865,7 +2865,7 @@
   "id": "ms06_00:126:05",
   "speaker": "カルパタル",
   "jp": "はーい、\nお待たせしやがったよー！",
-  "en": "Here you go, sorry for the wait-y!"
+  "en": "Here you go, sorry for the wait, dang it!"
  },
  {
   "id": "ms06_00:126:06",

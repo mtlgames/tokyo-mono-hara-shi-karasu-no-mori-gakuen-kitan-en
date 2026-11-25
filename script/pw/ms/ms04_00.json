@@ -93,7 +93,7 @@
   "id": "ms04_00:000:15",
   "speaker": "自信に満ちた声",
   "jp": "それよりアレだ。\n例のヤツはどうなった。",
-  "en": "More importantly, the thing.\nHow's our you-know-who doing?"
+  "en": "Anyway, enough of that. What\nhappened with you-know-what?"
  },
  {
   "id": "ms04_00:000:16",
@@ -1209,7 +1209,7 @@
   "id": "ms04_00:055:02",
   "speaker": "鈴",
   "jp": "今日も、お気をつけて\n行ってらっしゃいませです。",
-  "en": "Please take care today too, and\nhave a good day, you hear!"
+  "en": "Please take care today too, and have a good day!"
  },
  {
   "id": "ms04_00:056:00",
@@ -1257,7 +1257,7 @@
   "id": "ms04_00:058:00",
   "speaker": "巴",
   "jp": "はいはい、わかりました。\n{px}に嫌味言うだけ\n無駄だって事ね。",
-  "en": "Yeah, yeah, fine. I get it, there's no point\nbeing sarcastic at you, {px}."
+  "en": "Yeah, yeah, fine. I get it, there's no point\nbeing sarcastic with you, {px}."
  },
  {
   "id": "ms04_00:058:01",
@@ -1269,7 +1269,7 @@
   "id": "ms04_00:058:02",
   "speaker": "巴",
   "jp": "まったく、\nある意味、幸せよね。",
-  "en": "Honestly, you're lucky in a way, you know."
+  "en": "Honestly, must be nice being you."
  },
  {
   "id": "ms04_00:059:00",
@@ -1485,7 +1485,7 @@
   "id": "ms04_00:069:01",
   "speaker": "巴",
   "jp": "ちょっと、\nどさくさに紛れて\n何サラッと言ってんのよ。",
-  "en": "Hey, what are you slipping in there\nso casually in all the confusion?"
+  "en": "Hey, don't go sneaking that in so casually!"
  },
  {
   "id": "ms04_00:069:02",
@@ -1719,7 +1719,7 @@
   "id": "ms04_00:083:00",
   "speaker": "弥紀",
   "jp": "そうなんだ！！\nさすがだね。",
-  "en": "You do!! That's just like you."
+  "en": "You do!! Wow, I knew you would!"
  },
  {
   "id": "ms04_00:083:01",
@@ -1803,7 +1803,7 @@
   "id": "ms04_00:085:02",
   "speaker": "弥紀",
   "jp": "神仏の名前や図形の描かれた\n札を使って、災いを退けたり\n{ruby:鬼神|きしん}を呼び出したんだって。",
-  "en": "They used cards with the names of gods\nand buddhas or symbols drawn on them to\nward off disaster or summon demon gods."
+  "en": "in which they used cards with the names of\ngods and buddhas or symbols drawn on them\nto ward off disaster or summon demon gods."
  },
  {
   "id": "ms04_00:085:03",
@@ -1965,7 +1965,7 @@
   "id": "ms04_00:091:00",
   "speaker": "長英",
   "jp": "おお、\n{px}も絶好調じゃな！！",
-  "en": "Ohh, {px}'s in top form too!!"
+  "en": "Ohh, you're in top form too, {px}!!"
  },
  {
   "id": "ms04_00:091:01",
@@ -2229,7 +2229,7 @@
   "id": "ms04_00:104:01",
   "speaker": "燈治",
   "jp": "ッたく、\nどっちに気を遣ってんだか\n知らねェが……。",
-  "en": "Jeez, no idea which one of us\nyou're trying to spare, but..."
+  "en": "Jeez, no idea which of 'em\nyou're trying to spare, but..."
  },
  {
   "id": "ms04_00:105:00",
@@ -2247,7 +2247,7 @@
   "id": "ms04_00:106:00",
   "speaker": "燈治",
   "jp": "……それは\nどっちに気を遣ってんだ？",
-  "en": "...And just which one of us are you trying to spare?"
+  "en": "...And just which of 'em are you trying to spare?"
  },
  {
   "id": "ms04_00:107:00",
@@ -2289,7 +2289,7 @@
   "id": "ms04_00:110:01",
   "speaker": "長英",
   "jp": "先輩らが言うとった\n{ruby:陰陽師|おんみょうじ}がどーとかいう話。",
-  "en": "That stuff you senpai were talkin'\nabout, about onmyoji or whatever."
+  "en": "That stuff ye were talkin' about,\nSenpai, about onmyoji or whatever."
  },
  {
   "id": "ms04_00:110:02",
@@ -2559,7 +2559,7 @@
   "id": "ms04_00:118:00",
   "speaker": "燈治",
   "jp": "何だよ、\nそう怒るなって、",
-  "en": "What, don't get mad."
+  "en": "Hey, don't get so worked up,"
  },
  {
   "id": "ms04_00:118:01",
@@ -2853,7 +2853,7 @@
   "id": "ms04_00:134:15",
   "speaker": "アンジー",
   "jp": "血液型はＯ、\n{ruby:ｎｏｖｉｏ|ダ　ー　リ　ン}は募集中。\nスリーサイズは……秘密だヨ。",
-  "en": "Blood type is O, and Angie is still looking for a\nnovio--a darling. My measurements are... a secret."
+  "en": "Blood type is O, and Angie is still looking for a\nnovio--a darling. Angie's measurements are... a secret."
  },
  {
   "id": "ms04_00:134:16",
@@ -3285,7 +3285,7 @@
   "id": "ms04_00:156:19",
   "speaker": "アンジー",
   "jp": "……フーン。\n巴は情報通だネ。",
-  "en": "...Hmmm. You know a lot of things, Tomoe."
+  "en": "...Hmmm. You're well-informed, Tomoe."
  },
  {
   "id": "ms04_00:156:20",
@@ -3459,7 +3459,7 @@
   "id": "ms04_00:167:04",
   "speaker": "巴",
   "jp": "それより隣、行きましょう。\n早く着替えないと、\nチャイム鳴るわよ。",
-  "en": "More importantly, let's go next door. If we\ndon't change quickly, the bell will ring."
+  "en": "Anyway, let's go next door. If we\ndon't change quickly, the bell will ring."
  },
  {
   "id": "ms04_00:167:05",
@@ -3776,7 +3776,7 @@
   "id": "ms04_00:175:04",
   "speaker": "女子生徒の声",
   "jp": "気のせいじゃないの？\nそれより、早く着替えないと。",
-  "en": "Isn't that just your imagination? More\nimportantly, we need to hurry and change."
+  "en": "Isn't that just your imagination?\nAnyway, we need to hurry and change."
  },
  {
   "id": "ms04_00:175:05",
@@ -4112,7 +4112,7 @@
   "id": "ms04_00:202:01",
   "speaker": "燈治",
   "jp": "野球は捨てがたいが、\nまずはカレーでも食って\n落ち着いて考え直せ。",
-  "en": "I know you don't wanna miss baseball,\nbut first go eat some curry or\nsomethin', calm down, and think it over."
+  "en": "Baseball's hard to pass up, but first go eat some\ncurry or somethin', calm down, and think it over."
  },
  {
   "id": "ms04_00:202:02",

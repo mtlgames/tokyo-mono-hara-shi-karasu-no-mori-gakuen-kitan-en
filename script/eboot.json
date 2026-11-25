@@ -3133,7 +3133,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Want a Scolding"
+  "en": "Want to Be Scolded"
  },
  {
   "id": "eboot:2b220c",
@@ -3317,7 +3317,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Must Steal"
+  "en": "Wanna Steal"
  },
  {
   "id": "eboot:2b232c",
@@ -3357,7 +3357,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Exasperating Sir"
+  "en": "Incorrigible Sir"
  },
  {
   "id": "eboot:2b2370",
@@ -3373,7 +3373,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "My First"
+  "en": "First of His Kind"
  },
  {
   "id": "eboot:2b2388",
@@ -3397,7 +3397,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Maiden Alliance"
+  "en": "Maiden Alliance~"
  },
  {
   "id": "eboot:2b23b0",
@@ -4765,7 +4765,7 @@
   "slot": 12,
   "refs": 1,
   "enc": "cp932",
-  "en": "Don't Say \"Men\""
+  "en": "Don't Call Me \"Men\""
  },
  {
   "id": "eboot:2b2c30",
@@ -5501,7 +5501,7 @@
   "slot": 64,
   "refs": 1,
   "enc": "cp932",
-  "en": "Your carried slots are full.\nSort them and store the item?"
+  "en": "Your carried slots are full.\nRearrange slots to stow the item?"
  },
  {
   "id": "eboot:2b5470",
@@ -6517,7 +6517,7 @@
   "slot": 16,
   "refs": 1,
   "enc": "cp932",
-  "en": "Class 3-A, Training Dept."
+  "en": "Training Course, Class 3-A"
  },
  {
   "id": "eboot:2b5f50",
@@ -9686,6 +9686,14 @@
   "refs": 1,
   "enc": "cp932",
   "en": ""
+ },
+ {
+  "id": "eboot:2d2370",
+  "jp": "保持する",
+  "slot": 24,
+  "refs": 0,
+  "enc": "cp932",
+  "en": "Keep"
  },
  {
   "id": "eboot:2d2388",

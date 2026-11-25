@@ -3,7 +3,7 @@
   "id": "fn13_27:001:00",
   "speaker": "カルパタル",
   "jp": "{ruby:スワガト・ヘー|い　ら　っ　し　ゃ　い　ま　せ}！！\n魅惑のカレー{ruby:桃源郷|とうげんきょう}へ\nヨーコソゥ！！",
-  "en": "Swagat hai!! Welcome-o to the\nbewitching Curry Shangri-La!!"
+  "en": "Swagat hai!! Welcommme to the\nenchanting Curry Shangri-La!!"
  },
  {
   "id": "fn13_27:002:00",
@@ -159,7 +159,7 @@
   "id": "fn13_27:018:00",
   "speaker": "カルパタル",
   "jp": "ありがとゴンしたー！！",
-  "en": "Thank you very muchly-o!!"
+  "en": "Thank you verrry muchly!!"
  },
  {
   "id": "fn13_27:ksf:0121f",
@@ -180,7 +180,7 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing"
+  "en": "Nothing really"
  },
  {
   "id": "fn13_27:ksf:01b89",
@@ -236,7 +236,7 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing"
+  "en": "Nothing really"
  },
  {
   "id": "fn13_27:ksf:0a469",
@@ -250,6 +250,6 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing"
+  "en": "Nothing really"
  }
 ]

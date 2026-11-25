@@ -153,7 +153,7 @@
   "id": "buddymes:0025:08",
   "jp": "どこに行くんです？\nこのまま飛び道具で\n狙えますぜ。",
   "refs": 3,
-  "en": "Going where? Your\nranged weapon reaches\nfrom here."
+  "en": "Where're you off\nto? You can pick\nit off from here."
  },
  {
   "id": "buddymes:0026:08",
@@ -213,7 +213,7 @@
   "id": "buddymes:0035:08",
   "jp": "そういえば坊。\n部屋の北側に、力の\n歪みがあるようで。",
   "refs": 3,
-  "en": "Young master, power's\nwarped at the north of\nthis room."
+  "en": "Say, young master.\nPower's warped on\nthe north side."
  },
  {
   "id": "buddymes:0036:08",
@@ -273,7 +273,7 @@
   "id": "buddymes:0045:08",
   "jp": "私らが源義経なら、\n山伏に化けて通ろう\nってもんですが。",
   "refs": 3,
-  "en": "Were we Yoshitsune,\nwe'd sneak past\ndressed as monks."
+  "en": "Were we Yoshitsune,\nwe'd pass dressed\nas yamabushi."
  },
  {
   "id": "buddymes:0046:08",
@@ -921,7 +921,7 @@
   "id": "buddymes:0105:18",
   "jp": "こいつはいわゆる、\n大ピンチ…だよな？",
   "refs": 1,
-  "en": "This here's what\nya call a big jam?"
+  "en": "This here's a real\njam... right?"
  },
  {
   "id": "buddymes:0106:08",
@@ -1113,7 +1113,7 @@
   "id": "buddymes:0126:10",
   "jp": "あ、薬…持って\nこなかったっけ！",
   "refs": 1,
-  "en": "Oh, did I forget\nthe medicine!?"
+  "en": "Oh! Didn't I\nbring medicine!?"
  },
  {
   "id": "buddymes:0126:18",
@@ -1179,7 +1179,7 @@
   "id": "buddymes:0130:08",
   "jp": "大変ッ！し、し、\n死んじゃうよッ！？",
   "refs": 1,
-  "en": "This is bad!\nY-y-you'll die!?"
+  "en": "This is bad!\nY-y-you're gonna die!"
  },
  {
   "id": "buddymes:0130:10",
@@ -1209,7 +1209,7 @@
   "id": "buddymes:0131:18",
   "jp": "かわいそうだけど…\nやっつけなきゃね！",
   "refs": 1,
-  "en": "Poor thing, but...\nwe must beat it!"
+  "en": "Poor thing, but we\nhave to beat it!"
  },
  {
   "id": "buddymes:0132:08",
@@ -1245,7 +1245,7 @@
   "id": "buddymes:0133:18",
   "jp": "私もがんばるよッ！\n一緒に戦うッ！",
   "refs": 1,
-  "en": "I'll try hard too!\nFighting together!"
+  "en": "I'll try hard too!\nWe fight together!"
  },
  {
   "id": "buddymes:0134:08",
@@ -1263,13 +1263,13 @@
   "id": "buddymes:0134:18",
   "jp": "私…みんなの力、\n信じてるからね！",
   "refs": 1,
-  "en": "I believe in all\nyour strength!"
+  "en": "I... believe\nin all of you!"
  },
  {
   "id": "buddymes:0135:08",
   "jp": "よ、よかったぁ…\nきっと勝てるよね！",
   "refs": 1,
-  "en": "Ph-phew... We can\ndefinitely win, right!"
+  "en": "Ph-phew... We can\ndefinitely win, right?"
  },
  {
   "id": "buddymes:0135:10",
@@ -1281,7 +1281,7 @@
   "id": "buddymes:0135:18",
   "jp": "強いんだね！心配\nいらなかったかな…",
   "refs": 1,
-  "en": "You're so strong!\nI needn't worry..."
+  "en": "You're strong! Why\ndid I even worry?"
  },
  {
   "id": "buddymes:0136:08",
@@ -1347,7 +1347,7 @@
   "id": "buddymes:0144:08",
   "jp": "…あ、ごめん。\n見とれちゃった。",
   "refs": 3,
-  "en": "...Ah, sorry. I got\nlost staring."
+  "en": "...Ah, sorry.\nI was staring."
  },
  {
   "id": "buddymes:0145:08",
@@ -1449,13 +1449,13 @@
   "id": "buddymes:0155:08",
   "jp": "わ、わしが盾になり\nますけぇ、どうか！",
   "refs": 1,
-  "en": "I-I'll be your shield,\nso please!"
+  "en": "I-I'll be your shield,\nso please, go!"
  },
  {
   "id": "buddymes:0155:10",
   "jp": "さすが先輩じゃ…\n目が死んどらんッ！",
   "refs": 1,
-  "en": "Senpai! Your eyes\nain't dead yet!"
+  "en": "Senpai! Still got\nfight in yer eyes!"
  },
  {
   "id": "buddymes:0155:18",
@@ -1653,7 +1653,7 @@
   "id": "buddymes:0176:10",
   "jp": "…アンタ大丈夫？\nいろんな意味で…",
   "refs": 1,
-  "en": "You okay? In more\nways than one..."
+  "en": "...You okay? In\nevery sense..."
  },
  {
   "id": "buddymes:0176:18",
@@ -2049,7 +2049,7 @@
   "id": "buddymes:0208:10",
   "jp": "敵も花札。欲しい？\nでもそれ駄目。",
   "refs": 1,
-  "en": "Enemy's hanafuda.\nWant it? Not okay."
+  "en": "Enemy's cards too.\nWant it? Not okay."
  },
  {
   "id": "buddymes:0208:18",
@@ -2091,7 +2091,7 @@
   "id": "buddymes:0210:18",
   "jp": "刺客倒した？\n四角倒す…しょぼ。",
   "refs": 1,
-  "en": "Foe squashed?\nSquare squashed..."
+  "en": "Foe down? Square\ndown... Meh."
  },
  {
   "id": "buddymes:0211:08",
@@ -2553,7 +2553,7 @@
   "id": "buddymes:0256:10",
   "jp": "そろそろ、奴の体力\nが尽きる頃合だぞ！",
   "refs": 1,
-  "en": "Its stamina's\nabout to run out!"
+  "en": "Its Stamina's\nabout to run out!"
  },
  {
   "id": "buddymes:0256:18",
@@ -2799,7 +2799,7 @@
   "id": "buddymes:0280:08",
   "jp": "ＮＯ～！これが、\n年金の納め時ッ！",
   "refs": 1,
-  "en": "NOOO! The time has\ncome to pay my\npension!"
+  "en": "NOOO! Time to pay the\npiper... er, my\npension!"
  },
  {
   "id": "buddymes:0280:10",
@@ -3135,7 +3135,7 @@
   "id": "buddymes:0308:18",
   "jp": "うちがついとる\nさかい…存分に！",
   "refs": 1,
-  "en": "I've got your back\n...so go all out!"
+  "en": "I'm with you...\nso go all out!"
  },
  {
   "id": "buddymes:0309:08",
@@ -3261,7 +3261,7 @@
   "id": "buddymes:0323:08",
   "jp": "陰陽霊符どすか。\nええ心がけやね。",
   "refs": 3,
-  "en": "Onmyo talismans? A\nfine attitude."
+  "en": "Onmyo Talismans?\nA fine attitude."
  },
  {
   "id": "buddymes:0326:08",
@@ -3405,7 +3405,7 @@
   "id": "buddymes:0333:18",
   "jp": "ンもうッ！不意打ち\nなんて、ズル～い☆",
   "refs": 1,
-  "en": "Mou! Sneak attacks\nare so unfai~r~"
+  "en": "Geez! Ambushes\nare so unfaiiir~"
  },
  {
   "id": "buddymes:0334:08",
@@ -3819,7 +3819,7 @@
   "id": "buddymes:0377:10",
   "jp": "きみは本当に…\n予想の上を行くね。",
   "refs": 1,
-  "en": "You truly...\nexceed my hopes."
+  "en": "You truly... defy\nexpectations."
  },
  {
   "id": "buddymes:0377:18",
@@ -3861,7 +3861,7 @@
   "id": "buddymes:0379:18",
   "jp": "なんて神々しい…\n神楽の舞のようだ！",
   "refs": 1,
-  "en": "How divine... Like\nsacred dance!"
+  "en": "So divine! Like\na kagura dance!"
  },
  {
   "id": "buddymes:0380:08",
@@ -4383,7 +4383,7 @@
   "id": "buddymes:0428:18",
   "jp": "…これは、兄さまに\n匹敵する力かも…",
   "refs": 1,
-  "en": "...Power to rival\nNii-sama's, maybe"
+  "en": "...Power to rival\nNii-sama, maybe..."
  },
  {
   "id": "buddymes:0429:08",
@@ -4401,7 +4401,7 @@
   "id": "buddymes:0429:18",
   "jp": "…あなたという人は\n…わくわくします…",
   "refs": 1,
-  "en": "...Someone like\nyou... excites me"
+  "en": "...You're someone\nwho thrills me..."
  },
  {
   "id": "buddymes:0430:08",
@@ -5727,7 +5727,7 @@
   "id": "buddymes:0636:08",
   "jp": "なんや、近付いて\n来とりますえ。",
   "refs": 3,
-  "en": "My, it's comin'\ncloser, I do declare."
+  "en": "My, it's comin'\ncloser, dear."
  },
  {
   "id": "buddymes:0637:08",
@@ -6009,7 +6009,7 @@
   "id": "buddymes:0683:08",
   "jp": "危ないヨ！？\n逃げよ、アミーゴ！",
   "refs": 3,
-  "en": "It's dangerous!? Let's\nrun, amigo!"
+  "en": "Look out!? Let's\nrun, amigo!"
  },
  {
   "id": "buddymes:0684:08",
@@ -6351,7 +6351,7 @@
   "id": "buddymes:0740:08",
   "jp": "…変な面じゃのう。\n落ち着かんわい。",
   "refs": 3,
-  "en": "...Queer mask, that.\nCan't settle down."
+  "en": "...Queer mask, that.\nGives me the jitters."
  },
  {
   "id": "buddymes:0741:08",
@@ -6933,7 +6933,7 @@
   "id": "buddymes:0837:08",
   "jp": "ンー、これが噂の\nハッポウ塞がり？",
   "refs": 3,
-  "en": "Hmm, is this the\nfamous Happo-Fusagari?"
+  "en": "Hmm, the famous\n\"blocked on all\nsides\"?"
  },
  {
   "id": "buddymes:0838:08",
@@ -6969,7 +6969,7 @@
   "id": "buddymes:0843:08",
   "jp": "行き止まり…\nですか。",
   "refs": 3,
-  "en": "A dead end...\nis it."
+  "en": "A dead end...\nI see."
  },
  {
   "id": "buddymes:0844:08",
@@ -7059,7 +7059,7 @@
   "id": "buddymes:0858:08",
   "jp": "忍者ならここで\n回転扉とか…。",
   "refs": 3,
-  "en": "If I were a ninja,\nthere'd be a revolving\ndoor..."
+  "en": "A ninja house would\nhave a revolving\ndoor here..."
  },
  {
   "id": "buddymes:0859:08",
@@ -7611,7 +7611,7 @@
   "id": "buddymes:0950:08",
   "jp": "むう…ここは速攻！\n正義、全ッ開ッ！！",
   "refs": 3,
-  "en": "Hmm... strike fast!\nJustice, full! power!!"
+  "en": "Hmm... strike fast!\nJustice at full\nblast!!"
  },
  {
   "id": "buddymes:0951:08",
@@ -7677,7 +7677,7 @@
   "id": "buddymes:0961:08",
   "jp": "あんさんの目には\n何や見えへんの？",
   "refs": 3,
-  "en": "Can't ye see anythin'\nwith yer eyes?"
+  "en": "Can't your eyes see\nanythin', dear?"
  },
  {
   "id": "buddymes:0962:08",
@@ -7731,7 +7731,7 @@
   "id": "buddymes:0970:08",
   "jp": "あたしにダメ出し\nとはいい度胸ね！",
   "refs": 3,
-  "en": "You've got nerve,\ngiving me a lecture!"
+  "en": "You've got nerve,\nturning me down\nlike this!"
  },
  {
   "id": "buddymes:0971:08",
@@ -7971,7 +7971,7 @@
   "id": "buddymes:1010:08",
   "jp": "部屋の奥、良くない\n三角、あるよ。",
   "refs": 3,
-  "en": "Back of the room, a\nbad triangle, there\nis."
+  "en": "Back of the room...\na bad triangle."
  },
  {
   "id": "buddymes:1011:08",
@@ -8613,7 +8613,7 @@
   "id": "buddymes:1117:08",
   "jp": "古墳だな…地下に\n地下の入口か…。",
   "refs": 3,
-  "en": "A burial mound... an\nunderground way down."
+  "en": "A burial mound...\na way down below\nthe underground..."
  },
  {
   "id": "buddymes:1118:08",
@@ -8703,7 +8703,7 @@
   "id": "buddymes:1132:08",
   "jp": "古墳…ですか。\n興味深いです。",
   "refs": 3,
-  "en": "A burial mound... is\nit. How interesting."
+  "en": "A burial mound, is\nit? How interesting."
  },
  {
   "id": "buddymes:1133:08",
@@ -8901,7 +8901,7 @@
   "id": "buddymes:1165:08",
   "jp": "これ日本の美！？\n諸行無常だネ！",
   "refs": 3,
-  "en": "This is Japanese\nbeauty!? So\nimpermanent, yo!"
+  "en": "This is Japanese\nbeauty!? All things\nmust pass, yo!"
  },
  {
   "id": "buddymes:1166:08",
@@ -9051,7 +9051,7 @@
   "id": "buddymes:1190:08",
   "jp": "漢たる者、船で漕ぎ\n出したくなるのう！",
   "refs": 3,
-  "en": "A real man wants to\nrow out on a ship!"
+  "en": "A real man just\nwants to set sail!"
  },
  {
   "id": "buddymes:1191:08",
@@ -9411,7 +9411,7 @@
   "id": "buddymes:1250:08",
   "jp": "なあ、奉行所は！？\nお白州ないかな！？",
   "refs": 3,
-  "en": "Hey, where's the\nmagistrate's court!?"
+  "en": "Hey, where's the\nmagistrate!? Isn't\nthere a court!?"
  },
  {
   "id": "buddymes:1251:08",
@@ -9519,7 +9519,7 @@
   "id": "buddymes:1268:08",
   "jp": "文明開化の音って\nどんな音かなあ。",
   "refs": 3,
-  "en": "What's \"the sound of\ncivilization\" sound\nlike?"
+  "en": "What's \"the sound of\nenlightenment\" like,\nI wonder?"
  },
  {
   "id": "buddymes:1269:08",
@@ -9819,7 +9819,7 @@
   "id": "buddymes:1318:08",
   "jp": "…ここにはまた\nおるようじゃぞ、\n飛び道具の使い手。",
   "refs": 3,
-  "en": "...Another wielder of\nmissiles is here."
+  "en": "...There's another\nranged fighter\nhere, it seems."
  },
  {
   "id": "buddymes:1319:08",
@@ -9903,7 +9903,7 @@
   "id": "buddymes:1332:08",
   "jp": "常に周囲を観察し、\n行動するクセを\nつけておけ。",
   "refs": 3,
-  "en": "always watch your\nsurroundings as you\nact."
+  "en": "make a habit of\nwatching all around\nyou as you act."
  },
  {
   "id": "buddymes:1333:08",
@@ -10335,7 +10335,7 @@
   "id": "buddymes:1404:08",
   "jp": "秘法眼を使う者だけ\nが秘密に気づき、\n奥へ進めるだろう。",
   "refs": 3,
-  "en": "Only those using the\nArcane Eye will see\nthe secret."
+  "en": "Only Arcane Eye users\nwill see the secret\nand go deeper."
  },
  {
   "id": "buddymes:1405:08",
@@ -10659,7 +10659,7 @@
   "id": "buddymes:1458:08",
   "jp": "しとめやしたね。",
   "refs": 3,
-  "en": "Got it, didn't we."
+  "en": "We got it, eh?"
  },
  {
   "id": "buddymes:1459:08",
@@ -10683,13 +10683,13 @@
   "id": "buddymes:1462:08",
   "jp": "《冬》の攻撃は\nくらっちゃ\nいけやせん。",
   "refs": 3,
-  "en": "Don't you take any\nWinter attacks."
+  "en": "Don't you go\ntaking Winter\nhits, now."
  },
  {
   "id": "buddymes:1463:08",
   "jp": "《春》の攻撃は\nくらっちゃ\nいけやせん。",
   "refs": 3,
-  "en": "Don't you take any\nSpring attacks."
+  "en": "Don't you go\ntaking Spring\nhits, now."
  },
  {
   "id": "buddymes:1464:08",
@@ -10791,7 +10791,7 @@
   "id": "buddymes:1480:08",
   "jp": "坊の番だ。\n無理は\nいけやせんよ。",
   "refs": 3,
-  "en": "Your turn. Don't push\nyourself, now."
+  "en": "Your turn, young\nmaster. Don't\npush yourself."
  },
  {
   "id": "buddymes:1481:08",
@@ -11001,19 +11001,19 @@
   "id": "buddymes:1515:08",
   "jp": "《夏》に\n弱い子なのです！",
   "refs": 3,
-  "en": "It's weak\nto Summer!"
+  "en": "It's weak to\nSummer, it is!"
  },
  {
   "id": "buddymes:1516:08",
   "jp": "《秋》が\n強い気がするです！",
   "refs": 3,
-  "en": "I think Autumn is\nstrong on it!"
+  "en": "I think Autumn\nworks on it!"
  },
  {
   "id": "buddymes:1517:08",
   "jp": "《冬》が\n強い気がするです！",
   "refs": 3,
-  "en": "I think Winter is\nstrong on it!"
+  "en": "I think Winter\nworks on it!"
  },
  {
   "id": "buddymes:1518:08",
@@ -11211,7 +11211,7 @@
   "id": "buddymes:1550:08",
   "jp": "麻痺してるな。\n攻撃は無理だ。",
   "refs": 3,
-  "en": "It's Paralysis. You\ncan't attack."
+  "en": "Paralysis, huh?\nYou can't attack."
  },
  {
   "id": "buddymes:1551:08",
@@ -11331,7 +11331,7 @@
   "id": "buddymes:1581:08",
   "jp": "胸部の球体。\nあれが花札…。",
   "refs": 3,
-  "en": "The sphere in its\nchest. That's the\nhanafuda..."
+  "en": "The sphere in its\nchest. Those are the\ncards..."
  },
  {
   "id": "buddymes:1582:08",
@@ -11349,7 +11349,7 @@
   "id": "buddymes:1584:08",
   "jp": "胸部の球体。\nあれが花札か……。",
   "refs": 3,
-  "en": "The sphere in its\nchest. So that's the\ncard..."
+  "en": "The sphere in its\nchest. So those are\nthe cards..."
  },
  {
   "id": "buddymes:1585:08",

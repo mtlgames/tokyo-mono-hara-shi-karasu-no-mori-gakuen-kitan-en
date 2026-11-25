@@ -15,7 +15,7 @@
   "id": "fn03_30:004:00",
   "speaker": "鎧の店員",
   "jp": "萌えと燃え……。\n二つは似て非なるもの。",
-  "en": "Moe, the cute... and moe, the burning...\nAlike in sound, yet different in nature."
+  "en": "Moe that melts the heart... and moe that sets it\nablaze... Alike in sound, yet different in nature."
  },
  {
   "id": "fn03_30:004:01",
@@ -113,7 +113,7 @@
   "kind": "choice",
   "jp": "やめる",
   "slot": 30,
-  "en": "Cancel"
+  "en": "Never mind"
  },
  {
   "id": "fn03_30:ksf:0374f",

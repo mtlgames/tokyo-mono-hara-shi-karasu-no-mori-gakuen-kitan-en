@@ -207,7 +207,7 @@
   "id": "dg11_02:012:09",
   "speaker": "紅緒",
   "jp": "だから、{px}、\nあなたを―――",
-  "en": "That is why, {px}, you must--"
+  "en": "That is why, {px}, I must--"
  },
  {
   "id": "dg11_02:012:10",
@@ -249,7 +249,7 @@
   "id": "dg11_02:012:16",
   "speaker": "白",
   "jp": "―――馬鹿な！！\nこの者は、\n鬼札を所持しておるのだ！",
-  "en": "--Absurd!! This one carries the Demon Card!"
+  "en": "--Absurd!! This boy carries the Demon Card!"
  },
  {
   "id": "dg11_02:012:17",
@@ -297,7 +297,7 @@
   "id": "dg11_02:012:24",
   "speaker": "零",
   "jp": "初めはただの\n頼りない塊だった。",
-  "en": "At first I was just a fragile lump."
+  "en": "At first it was just a fragile lump."
  },
  {
   "id": "dg11_02:012:25",
@@ -453,7 +453,7 @@
   "id": "dg11_02:023:04",
   "speaker": "零",
   "jp": "{ruby:光札の力を取り込んだおれ|・・・・・・・・・・・・}を、\nきみが持つ他の札の力で\n消し去ってくれればいい。",
-  "en": "Wipe out me, once I've taken in the Bright cards'\npower, with the power of your other cards."
+  "en": "Once I've taken in the Bright cards' power, wipe\nme out with the power of your other cards."
  },
  {
   "id": "dg11_02:023:05",

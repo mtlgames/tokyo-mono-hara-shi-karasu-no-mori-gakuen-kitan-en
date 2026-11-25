@@ -261,7 +261,7 @@
   "id": "fn11_11:021:06",
   "speaker": "要",
   "jp": "せやけど、その性質上\n互いの仕事場が被る事も\n少なくないと聞いとります。",
-  "en": "But given the nature of the work, I hear\nour fields overlap more often than not."
+  "en": "But by its very nature, I hear our\nlines of work overlap fairly often."
  },
  {
   "id": "fn11_11:021:07",
@@ -351,7 +351,7 @@
   "id": "fn11_11:028:00",
   "speaker": "要",
   "jp": "ふふっ、そない心配せんでも\n大丈夫やて。",
-  "en": "Hehe, no need to worry so. I'll be fine."
+  "en": "Hehe, no need to worry so. It'll be all right."
  },
  {
   "id": "fn11_11:028:01",
@@ -606,7 +606,7 @@
   "kind": "choice",
   "jp": "恋人と二人で",
   "slot": 30,
-  "en": "Just us two, as a couple"
+  "en": "With my sweetheart"
  },
  {
   "id": "fn11_11:ksf:0884c",

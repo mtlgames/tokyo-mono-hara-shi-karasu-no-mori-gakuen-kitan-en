@@ -189,7 +189,7 @@
   "id": "ms08_00:000:31",
   "speaker": "伊佐地",
   "jp": "―――違う！！\nあいつは正式な執行者の\n血統じゃないはずだ！",
-  "en": "--That's not it!! That kid shouldn't\neven be of the true Executor bloodline!"
+  "en": "--That's not it!! That kid's not supposed\nto be from a proper Executor bloodline!"
  },
  {
   "id": "ms08_00:000:32",
@@ -471,7 +471,7 @@
   "id": "ms08_00:014:02",
   "speaker": "清司郎",
   "jp": "ふざけるな！！\n一体、誰のせいで\nこんな事に―――",
-  "en": "Don't screw with me!! Whose fault do you\nthink it is that things ended up like--"
+  "en": "Don't give me that!! Whose fault do you\nthink it is that things ended up like--"
  },
  {
   "id": "ms08_00:014:03",
@@ -1233,7 +1233,7 @@
   "id": "ms08_00:068:00",
   "speaker": "鍵",
   "jp": "おやおや\nこれはまた随分と\n落ち着いていらっしゃる。",
-  "en": "Well, well, my. You're awfully calm about this."
+  "en": "Well, well. You're awfully calm about this."
  },
  {
   "id": "ms08_00:068:01",
@@ -1269,7 +1269,7 @@
   "id": "ms08_00:071:00",
   "speaker": "鍵",
   "jp": "何を思うも坊の自由。\n……そうでやすね。",
-  "en": "What you make of it is up to\nyou, young master. ...Quite so."
+  "en": "What you make of it is up to\nyou, young master. ...Well, now."
  },
  {
   "id": "ms08_00:072:00",
@@ -1845,7 +1845,7 @@
   "id": "ms08_00:110:00",
   "kind": "caption",
   "jp": "３－２教室―――休み時間",
-  "en": "Classroom 3-2--Break"
+  "en": "Class 3-2--Break Time"
  },
  {
   "id": "ms08_00:112:00",
@@ -2049,7 +2049,7 @@
   "id": "ms08_00:125:00",
   "speaker": "久榮",
   "jp": "教師に呼び出されて\nそこまで喜ぶとは……。",
-  "en": "This happy to be called out by a teacher..."
+  "en": "To be this happy about getting\ncalled out by a teacher..."
  },
  {
   "id": "ms08_00:125:01",
@@ -2211,7 +2211,7 @@
   "id": "ms08_00:134:05",
   "speaker": "久榮",
   "jp": "役所を名乗ってるが、\nどう見ても{ruby:堅気|カタギ}じゃない\n背広の似合わん連中だ。",
-  "en": "They claim to be from a government office,\nbut they're plainly not on the straight and\nnarrow. A bunch who don't suit their suits."
+  "en": "They claim to be from a government office,\nbut they're plainly no ordinary civil\nservants. A bunch who don't suit their suits."
  },
  {
   "id": "ms08_00:134:06",
@@ -2403,7 +2403,7 @@
   "id": "ms08_00:146:00",
   "speaker": "眼鏡の男",
   "jp": "さて―――\nきみが{pm}　{pn}君に\n間違いないな？",
-  "en": "Now-- you are {pn}\n{pm}-kun, without a doubt?"
+  "en": "Now-- you are {pn} {pm}-kun, correct?"
  },
  {
   "id": "ms08_00:147:00",
@@ -2535,7 +2535,7 @@
   "id": "ms08_00:158:00",
   "speaker": "眼鏡の男",
   "jp": "君の言う事は、\nどうも的を射んな……。",
-  "en": "You don't seem to be grasping the point..."
+  "en": "Your answers keep missing the mark..."
  },
  {
   "id": "ms08_00:159:00",
@@ -2547,7 +2547,7 @@
   "id": "ms08_00:160:00",
   "speaker": "眼鏡の男",
   "jp": "君の言う事は、\nどうも的を射んな……。",
-  "en": "You don't seem to be grasping the point..."
+  "en": "Your answers keep missing the mark..."
  },
  {
   "id": "ms08_00:161:00",
@@ -2835,7 +2835,7 @@
   "id": "ms08_00:181:04",
   "speaker": "久榮",
   "jp": "お前も、{ruby:五月蠅|う　る　さ}い。",
-  "en": "You're noisy too."
+  "en": "You. Are. Noisy. Too."
  },
  {
   "id": "ms08_00:181:05",
@@ -2955,7 +2955,7 @@
   "id": "ms08_00:190:00",
   "speaker": "久榮",
   "jp": "まったく、\n可愛げのない奴だ。",
-  "en": "Honestly, you're no fun at all."
+  "en": "Honestly, there's not a cute bone in you."
  },
  {
   "id": "ms08_00:191:00",
@@ -3076,6 +3076,6 @@
   "kind": "choice",
   "jp": "花札を渡さない",
   "slot": 30,
-  "en": "Don't hand over hanafuda"
+  "en": "Don't hand over the hanafuda"
  }
 ]

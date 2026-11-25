@@ -27,7 +27,7 @@
   "id": "questsent:0000:14",
   "jp": "ご所望なの。",
   "refs": 16,
-  "en": "If you please."
+  "en": "That's the order."
  },
  {
   "id": "questsent:0001:08",
@@ -117,7 +117,7 @@
   "id": "questsent:0005:10",
   "jp": "結納品として",
   "refs": 1,
-  "en": "needs for a dowry:"
+  "en": "for a betrothal:"
  },
  {
   "id": "questsent:0006:08",
@@ -423,7 +423,7 @@
   "id": "questsent:0037:08",
   "jp": "神社に奉納する",
   "refs": 1,
-  "en": "To offer a shrine,"
+  "en": "For a shrine gift,"
  },
  {
   "id": "questsent:0037:0c",
@@ -507,7 +507,7 @@
   "id": "questsent:0043:0c",
   "jp": "陸奥守忠吉が",
   "refs": 1,
-  "en": "Tadayoshi sword,"
+  "en": "Mutsu Tadayoshi,"
  },
  {
   "id": "questsent:0044:08",
@@ -645,7 +645,7 @@
   "id": "questsent:0065:10",
   "jp": "黒い影が…くそっ！",
   "refs": 1,
-  "en": "Dark shadow! Damn!"
+  "en": "A shadow... damn!"
  },
  {
   "id": "questsent:0066:08",
@@ -1401,7 +1401,7 @@
   "id": "questsent:0133:08",
   "jp": "夜、厠が怖いのは",
   "refs": 1,
-  "en": "Night toilet fear:"
+  "en": "Night privy dread:"
  },
  {
   "id": "questsent:0134:08",
@@ -1449,7 +1449,7 @@
   "id": "questsent:0138:0c",
   "jp": "亡き祖父の式神が",
   "refs": 1,
-  "en": "Grandpa's familiar"
+  "en": "Gramps' shikigami"
  },
  {
   "id": "questsent:0139:08",
@@ -1743,7 +1743,7 @@
   "id": "questsent:0155:0c",
   "jp": "に水をこぼしてから",
   "refs": 1,
-  "en": "got water spilled;"
+  "en": "got water on it;"
  },
  {
   "id": "questsent:0155:10",
@@ -1785,7 +1785,7 @@
   "id": "questsent:0157:10",
   "jp": "変なものが見えて…",
   "refs": 1,
-  "en": "now I see things.."
+  "en": "now I see stuff..."
  },
  {
   "id": "questsent:0159:00",
@@ -1797,7 +1797,7 @@
   "id": "questsent:0159:08",
   "jp": "僕の血筋の秘密…",
   "refs": 1,
-  "en": "My line's secret.."
+  "en": "My kin's secret..."
  },
  {
   "id": "questsent:0159:0c",
@@ -2109,7 +2109,7 @@
   "id": "questsent:0175:08",
   "jp": "うちのまねきねこの",
   "refs": 1,
-  "en": "So my waving cat's"
+  "en": "So my lucky cat's"
  },
  {
   "id": "questsent:0175:0c",
@@ -2823,7 +2823,7 @@
   "id": "questsent:0223:14",
   "jp": "写真に撮れないか。",
   "refs": 1,
-  "en": "Might you film it?"
+  "en": "Might you snap it?"
  },
  {
   "id": "questsent:0223:18",
@@ -3423,7 +3423,7 @@
   "id": "questsent:0287:00",
   "jp": "精霊鎮魂の儀",
   "refs": 1,
-  "en": "Sprite Requiem"
+  "en": "Spirit Requiem"
  },
  {
   "id": "questsent:0287:08",
@@ -3837,7 +3837,7 @@
   "id": "questsent:0310:08",
   "jp": "霊的な存在が",
   "refs": 1,
-  "en": "Ghostly beings"
+  "en": "Spiritual beings"
  },
  {
   "id": "questsent:0310:0c",

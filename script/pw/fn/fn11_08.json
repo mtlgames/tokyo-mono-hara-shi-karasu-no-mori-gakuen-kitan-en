@@ -15,7 +15,7 @@
   "id": "fn11_08:001:02",
   "speaker": "義王",
   "jp": "深夜外出許可証争奪戦に敗れた\n負け犬共だけだッ！",
-  "en": "The losers who lost the battle\nfor late-night outing passes!"
+  "en": "The losers who got beat in the\nbattle for late-night outing passes!"
  },
  {
   "id": "fn11_08:001:03",
@@ -39,7 +39,7 @@
   "id": "fn11_08:001:06",
   "speaker": "義王",
   "jp": "まァ、当ォー然オレ様は\n{ruby:許可証|おたから}なんぞはゲット済み\nだが―――",
-  "en": "Well, naturally the great me already\nsnagged that treasure, the pass, but--"
+  "en": "Well, naturally the great me already snagged\nmy treasure--the pass, I mean--but--"
  },
  {
   "id": "fn11_08:001:07",
@@ -381,7 +381,7 @@
   "id": "fn11_08:023:01",
   "speaker": "義王",
   "jp": "……年上ぶりやがって。",
-  "en": "...Actin' all grown-up on me."
+  "en": "...Actin' all big-brother on me."
  },
  {
   "id": "fn11_08:024:00",
@@ -495,7 +495,7 @@
   "id": "fn11_08:029:05",
   "speaker": "義王",
   "jp": "これがいま、オレ様が一番\nこの手にしたい宝だぜ。",
-  "en": "That's the treasure the great me wants\nto get my hands on most right now."
+  "en": "That's the treasure the great me\nmost wants to grab right now."
  },
  {
   "id": "fn11_08:029:06",
@@ -539,7 +539,7 @@
   "kind": "choice",
   "jp": "物",
   "slot": 30,
-  "en": "Things"
+  "en": "Possessions"
  },
  {
   "id": "fn11_08:ksf:07f1d",

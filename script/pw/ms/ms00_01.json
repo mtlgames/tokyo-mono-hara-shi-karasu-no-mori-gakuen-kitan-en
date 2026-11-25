@@ -45,7 +45,7 @@
   "id": "ms00_01:000:07",
   "kind": "caption",
   "jp": "現在―――新宿",
-  "en": "Present day -- Shinjuku"
+  "en": "Present day--Shinjuku"
  },
  {
   "id": "ms00_01:000:08",
@@ -219,7 +219,7 @@
   "id": "ms00_01:000:36",
   "kind": "caption",
   "jp": "富士―――青木ヶ原樹海",
-  "en": "Mt. Fuji -- Aokigahara Forest"
+  "en": "Mt. Fuji--Aokigahara Forest"
  },
  {
   "id": "ms00_01:000:37",
@@ -465,7 +465,7 @@
   "id": "ms00_01:014:13",
   "speaker": "いちる",
   "jp": "{ruby:伊佐地|い　さ　ち}……オジさ―――",
-  "en": "Isachi... Old Ma--"
+  "en": "Isachi... Old Man--"
  },
  {
   "id": "ms00_01:014:14",
@@ -603,7 +603,7 @@
   "id": "ms00_01:018:16",
   "speaker": "痩躯の男子生徒",
   "jp": "きみが、捜し物……。\n{pm}　{pn}か。",
-  "en": "You're the one she was searching\nfor... {pn} {pm}."
+  "en": "So you're the one I was searching\nfor... {pn} {pm}."
  },
  {
   "id": "ms00_01:019:00",
@@ -855,7 +855,7 @@
   "id": "ms00_01:030:22",
   "speaker": "伊佐地",
   "jp": "出来るさ、お前たちなら。\nいや―――",
-  "en": "Sure you can. You lot can. No--"
+  "en": "You can. You lot especially. No--"
  },
  {
   "id": "ms00_01:030:23",
@@ -879,7 +879,7 @@
   "id": "ms00_01:031:00",
   "kind": "caption",
   "jp": "富士―――風穴入口",
-  "en": "Mt. Fuji -- Wind Cave Entrance"
+  "en": "Mt. Fuji--Wind Cave Entrance"
  },
  {
   "id": "ms00_01:031:01",
@@ -1107,7 +1107,7 @@
   "id": "ms00_01:042:00",
   "speaker": "伊佐地",
   "jp": "それは《{ruby:特課試札|とっかしさつ}》と言って\n通常よりも情報量を抑えた\n《カミフダ》だ。",
-  "en": "That's called a Division Trial Card. It's\nORDS with less information than usual."
+  "en": "That's called a Division Trial Card. It's a kind\nof ORDS with less information than usual."
  },
  {
   "id": "ms00_01:042:01",

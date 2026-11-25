@@ -87,7 +87,7 @@
   "id": "dg08_00:000:14",
   "speaker": "いちる",
   "jp": "……{px}。\nいますぐその花札を\nあたしに渡して。",
-  "en": "...{px}. Give\nme that hanafuda right now."
+  "en": "...{px}. Hand those\nhanafuda over to me right now."
  },
  {
   "id": "dg08_00:000:15",
@@ -219,7 +219,7 @@
   "id": "dg08_00:010:00",
   "speaker": "白",
   "jp": "{px}も其方も、\n一体何を考えておるのじゃ！",
-  "en": "{px} and you both\n-- what on earth are you thinking!"
+  "en": "{px} and you\nboth--what on earth are you thinking!"
  },
  {
   "id": "dg08_00:010:01",
@@ -489,7 +489,7 @@
   "id": "dg08_00:021:01",
   "speaker": "いちる",
   "jp": "あたしだって……\n持ってるんだよ、{ruby:一枚|・・}。",
-  "en": "Because I... I have one too,\nyou know. One of the cards."
+  "en": "I... I have one too, you know. One of the cards."
  },
  {
   "id": "dg08_00:021:02",

@@ -3,7 +3,7 @@
   "id": "ms02_01:000:00",
   "kind": "caption",
   "jp": "３－２教室―――昼休み",
-  "en": "Class 3-2 -- Lunch Break"
+  "en": "Class 3-2--Lunch Break"
  },
  {
   "id": "ms02_01:000:01",
@@ -825,7 +825,7 @@
   "id": "ms02_01:042:11",
   "speaker": "刀袋を持った男子生徒",
   "jp": "わしゃァ、２年２組の\n{ruby:宍戸|ししど}　{ruby:長英|ながひで}ゆうモンじゃけ。",
-  "en": "Name's Nagahide Shishido,\nClass 2-2, I'll have ya know."
+  "en": "Name's Nagahide Shishido, Class 2-2."
  },
  {
   "id": "ms02_01:043:00",
@@ -849,7 +849,7 @@
   "id": "ms02_01:045:00",
   "speaker": "長英",
   "jp": "そうじゃ、{px}、\nあんた、剣は振れるんか？",
-  "en": "That's right, {px}.\nCan ya swing a sword?"
+  "en": "Say, {px}. Can ya swing a sword?"
  },
  {
   "id": "ms02_01:046:00",
@@ -1095,7 +1095,7 @@
   "id": "ms02_01:057:00",
   "kind": "caption",
   "jp": "校門―――",
-  "en": "School Gate --"
+  "en": "School Gate--"
  },
  {
   "id": "ms02_01:057:01",
@@ -1287,7 +1287,7 @@
   "id": "ms02_01:068:00",
   "kind": "caption",
   "jp": "下駄箱―――",
-  "en": "Shoe Lockers --"
+  "en": "Shoe Lockers--"
  },
  {
   "id": "ms02_01:068:01",
@@ -1461,7 +1461,7 @@
   "id": "ms02_01:076:00",
   "kind": "caption",
   "jp": "カレー屋―――",
-  "en": "Curry Shop --"
+  "en": "Curry Shop--"
  },
  {
   "id": "ms02_01:076:01",
@@ -1641,7 +1641,7 @@
   "id": "ms02_01:086:00",
   "speaker": "カルパタル",
   "jp": "アチャー、\nそんなつれないこと言うのも\nイマワノキワミでゴザルよ！！",
-  "en": "Achaa, saying such cold things is\nthe very Peak of Deathbeds, verily!!"
+  "en": "Achaa, saying such cold things is the\nvery height of death's door, verily!!"
  },
  {
   "id": "ms02_01:086:01",
@@ -1839,7 +1839,7 @@
   "id": "ms02_01:093:05",
   "speaker": "燈治",
   "jp": "どっちもどっちなら\n死なばもろともか……。\nお前を信じるぜ、{px}。",
-  "en": "If they're both as bad as each other, we sink or\nswim together... I'm trustin' you, {px}."
+  "en": "If they're both as bad as each other, we go down\ntogether... I'm trustin' you, {px}."
  },
  {
   "id": "ms02_01:093:06",
@@ -2205,7 +2205,7 @@
   "id": "ms02_01:106:12",
   "speaker": "弥紀",
   "jp": "そうだったんだ……。",
-  "en": "So that's what it was..."
+  "en": "So that's how it was..."
  },
  {
   "id": "ms02_01:106:13",
@@ -3003,7 +3003,7 @@
   "id": "ms02_01:153:12",
   "speaker": "カルパタル",
   "jp": "うむ。\n今日もカルさんのカレーは\n人々の心に刻まれたでゴザル。",
-  "en": "Indeed. Today once more, Kal-san's curry hath\nbeen carved into the hearts of the people, it hath."
+  "en": "Indeed. Today once more, Kal-san's curry has\nbeen carved into the hearts of the people, verily."
  },
  {
   "id": "ms02_01:153:13",
@@ -3015,7 +3015,7 @@
   "id": "ms02_01:153:14",
   "kind": "caption",
   "jp": "３－２教室―――放課後",
-  "en": "Class 3-2 -- After School"
+  "en": "Class 3-2--After School"
  },
  {
   "id": "ms02_01:153:15",
@@ -3111,7 +3111,7 @@
   "id": "ms02_01:158:00",
   "speaker": "燈治",
   "jp": "いや……そんな\n楽しい話じゃねェんだ。",
-  "en": "Nah... It ain't that kinda fun talk."
+  "en": "Nah... It ain't anythin' fun."
  },
  {
   "id": "ms02_01:158:01",
@@ -3123,7 +3123,7 @@
   "id": "ms02_01:159:00",
   "speaker": "燈治",
   "jp": "いや……そんな\n楽しい話じゃねェんだ。",
-  "en": "Nah... It ain't that kinda fun talk."
+  "en": "Nah... It ain't anythin' fun."
  },
  {
   "id": "ms02_01:159:01",
@@ -3459,7 +3459,7 @@
   "id": "ms02_01:182:11",
   "kind": "caption",
   "jp": "剣道場―――",
-  "en": "Kendo Hall --"
+  "en": "Kendo Hall--"
  },
  {
   "id": "ms02_01:182:12",
@@ -3543,7 +3543,7 @@
   "id": "ms02_01:182:25",
   "speaker": "長英",
   "jp": "漢、{ruby:宍戸|ししど}　{ruby:長英|ながひで}―――\nこれから{ruby:詰腹|つめばら}、\n切らせてもらいやす！！",
-  "en": "A man, Nagahide Shishido-- Now I'll be takin'\nresponsibility and cuttin' my belly open!!"
+  "en": "Nagahide Shishido, a true man-- Now I'll be\ntakin' responsibility and cuttin' my belly open!!"
  },
  {
   "id": "ms02_01:183:00",
@@ -4077,7 +4077,7 @@
   "id": "ms02_01:207:00",
   "kind": "caption",
   "jp": "グラウンド―――",
-  "en": "Athletic Field --"
+  "en": "Athletic Field--"
  },
  {
   "id": "ms02_01:207:01",
@@ -4587,7 +4587,7 @@
   "id": "ms02_01:235:07",
   "speaker": "弥紀",
   "jp": "菊に―――{ruby:青短|あおたん}！！",
-  "en": "Chrysanthemum and--Blue Ribbon!!"
+  "en": "Chrysanthemum--Blue Ribbon!!"
  },
  {
   "id": "ms02_01:235:08",
@@ -4732,7 +4732,7 @@
   "kind": "choice",
   "jp": "本日のオススメできない",
   "slot": 30,
-  "en": "Today's Not-Recommended"
+  "en": "Today's Not-So-Special"
  },
  {
   "id": "ms02_01:ksf:50865",

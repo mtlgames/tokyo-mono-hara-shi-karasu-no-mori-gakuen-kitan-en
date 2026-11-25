@@ -291,7 +291,7 @@
   "id": "ms11_00:017:00",
   "speaker": "アンジー",
   "jp": "ンモウ、相変わらず\nミギーは一人で格好つけだネ。",
-  "en": "Mou, Miggy is still acting\ncool all by himself, as usual."
+  "en": "Geez, Miggy is still acting\ncool all by himself, as usual."
  },
  {
   "id": "ms11_00:017:01",
@@ -309,7 +309,7 @@
   "id": "ms11_00:017:03",
   "speaker": "アンジー",
   "jp": "ン～、さて、\nスッキリしたコトだし、\n今度はどんなお宝探そうカナ？",
-  "en": "Mmm, well, now that that's settled, what kind\nof treasure should I hunt next, I wonder?"
+  "en": "Mmm, well, now that that's settled, what kind\nof treasure should Angie hunt next, I wonder?"
  },
  {
   "id": "ms11_00:017:04",
@@ -543,7 +543,7 @@
   "id": "ms11_00:031:00",
   "speaker": "清司郎",
   "jp": "……気を遣うな。\n余計に情けなくなる。",
-  "en": "...Don't go easy on me. It just makes me feel worse."
+  "en": "...Don't spare my feelings. It only\nmakes me feel more pathetic."
  },
  {
   "id": "ms11_00:032:00",
@@ -741,7 +741,7 @@
   "id": "ms11_00:045:02",
   "speaker": "清司郎",
   "jp": "……この家の家系図に\n名を刻まれた者は、\n大抵長生きしない。",
-  "en": "...Those whose names get carved into\nthis family's tree mostly don't live long."
+  "en": "...Those whose names are written\nin this family's tree rarely live long."
  },
  {
   "id": "ms11_00:045:03",
@@ -783,7 +783,7 @@
   "id": "ms11_00:046:01",
   "speaker": "清司郎",
   "jp": "{px}……\n本当に、すまない。\n恩に着る……。",
-  "en": "{px}... I'm truly sorry. I owe you one..."
+  "en": "{px}... I'm truly\nsorry. I'm in your debt..."
  },
  {
   "id": "ms11_00:047:00",
@@ -795,7 +795,7 @@
   "id": "ms11_00:047:01",
   "speaker": "清司郎",
   "jp": "{px}……\n本当に、すまない。\n恩に着る……。",
-  "en": "{px}... I'm truly sorry. I owe you one..."
+  "en": "{px}... I'm truly\nsorry. I'm in your debt..."
  },
  {
   "id": "ms11_00:048:00",
@@ -807,7 +807,7 @@
   "id": "ms11_00:048:01",
   "speaker": "清司郎",
   "jp": "{px}……\n本当に、すまない。\n恩に着る……。",
-  "en": "{px}... I'm truly sorry. I owe you one..."
+  "en": "{px}... I'm truly\nsorry. I'm in your debt..."
  },
  {
   "id": "ms11_00:049:00",
@@ -1257,7 +1257,7 @@
   "id": "ms11_00:078:13",
   "speaker": "白",
   "jp": "{ruby:感じる|・・・}……じゃと？",
-  "en": "Feel...? You say?"
+  "en": "'Feel,' you say...?"
  },
  {
   "id": "ms11_00:078:14",
@@ -1365,7 +1365,7 @@
   "id": "ms11_00:080:00",
   "speaker": "朝子",
   "jp": "そう……\n大切に想ってるのね。",
-  "en": "I see... You care about each other a lot."
+  "en": "I see... They're very dear to you, aren't they?"
  },
  {
   "id": "ms11_00:080:01",
@@ -1383,7 +1383,7 @@
   "id": "ms11_00:081:01",
   "speaker": "朝子",
   "jp": "とても……\n大切に想ってるのね。",
-  "en": "You really... care about each other a lot."
+  "en": "You hold them so very... dear, don't you?"
  },
  {
   "id": "ms11_00:082:00",
@@ -1395,7 +1395,7 @@
   "id": "ms11_00:082:01",
   "speaker": "朝子",
   "jp": "とても……\n大切に想ってるのね。",
-  "en": "You really... care about each other a lot."
+  "en": "You hold them so very... dear, don't you?"
  },
  {
   "id": "ms11_00:083:00",
@@ -2031,7 +2031,7 @@
   "id": "ms11_00:123:02",
   "speaker": "弥紀",
   "jp": "……聞いちゃったから、\n余計に、かな。",
-  "en": "...Maybe it's because I heard it."
+  "en": "...Hearing it makes me feel\nthat way all the more, I guess."
  },
  {
   "id": "ms11_00:123:03",
@@ -2271,7 +2271,7 @@
   "id": "ms11_00:135:00",
   "speaker": "巴",
   "jp": "な、べ、別に、\nアンタの事、特別扱い\nしてるワケじゃないわよ！",
-  "en": "Wh-, I-It's not like I'm treating\nyou special or anything!"
+  "en": "Wh- I-It's not like I'm treating\nyou special or anything!"
  },
  {
   "id": "ms11_00:135:01",
@@ -2379,7 +2379,7 @@
   "id": "ms11_00:144:02",
   "speaker": "燈治",
   "jp": "みんな同じ、か……。",
-  "en": "We're all the same, huh..."
+  "en": "We all feel the same, huh..."
  },
  {
   "id": "ms11_00:144:03",
@@ -2589,7 +2589,7 @@
   "id": "ms11_00:155:06",
   "speaker": "久榮",
   "jp": "卒業まで\nたっぷりこき使ってやるぞ？",
-  "en": "I'll work you to the bone until you graduate, shall I?"
+  "en": "I'll work you to the bone till graduation, you know."
  },
  {
   "id": "ms11_00:155:07",

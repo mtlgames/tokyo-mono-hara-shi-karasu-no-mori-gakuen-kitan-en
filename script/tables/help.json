@@ -237,7 +237,7 @@
   "id": "help:0019:08",
   "jp": "遠距離攻撃を行うには、コマンドパレット\nを赤色のものにして、遠距離攻撃用の\n武器を装備しているボタンを押します。\n画面に照準カーソルが現れるので、\nアナログパッドを動かすことで位置を\n調整し、敵に照準を合わせます。\n\n照準カーソルを合わせた敵が\n武器の攻撃範囲にいれば、敵のＨＰが\n表示され、カーソルが赤く収束します。\nその状態で、もう一度\n武器が装備されているボタンを押すと、\n遠距離攻撃が実行されます。",
   "refs": 1,
-  "en": "To make a ranged attack, switch to\nthe red command palette and press\nthe button your ranged weapon is\nequipped\nto. An aiming cursor appears on\nscreen; move the analog pad to\nadjust its position and aim at an\nenemy.\n\nIf the enemy under the aiming\ncursor is within the weapon's\nrange, its HP is shown and the\ncursor closes in red.\nPress the weapon's button again in\nthat state to carry out the ranged\nattack."
+  "en": "To make a ranged attack, switch to\nthe red command palette and press\nthe button your ranged weapon is\nequipped to. An aiming cursor\nappears on screen; move the analog\npad to adjust its position and aim\nat an enemy.\n\nIf the enemy under the aiming\ncursor is within the weapon's\nrange, its HP is shown and the\ncursor turns red and tightens.\nPress the weapon's button again in\nthat state to carry out the ranged\nattack."
  },
  {
   "id": "help:0019:0c",

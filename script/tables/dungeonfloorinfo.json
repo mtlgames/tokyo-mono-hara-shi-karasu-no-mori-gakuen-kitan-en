@@ -57,7 +57,7 @@
   "id": "dungeonfloorinfo:0009:00",
   "jp": "秋の洞最上層",
   "refs": 1,
-  "en": "Autumn Top"
+  "en": "Autumn Top Floor"
  },
  {
   "id": "dungeonfloorinfo:0010:00",
@@ -243,7 +243,7 @@
   "id": "dungeonfloorinfo:0041:00",
   "jp": "渡海の路",
   "refs": 1,
-  "en": "Sea Crossing Way"
+  "en": "Way Over the Sea"
  },
  {
   "id": "dungeonfloorinfo:0042:00",
@@ -297,7 +297,7 @@
   "id": "dungeonfloorinfo:0050:00",
   "jp": "春の洞最上層",
   "refs": 1,
-  "en": "Spring Top"
+  "en": "Spring Top Floor"
  },
  {
   "id": "dungeonfloorinfo:0051:00",
@@ -525,7 +525,7 @@
   "id": "dungeonfloorinfo:0090:00",
   "jp": "金沢の路",
   "refs": 1,
-  "en": "Kanezawa Way"
+  "en": "Way of Kanezawa"
  },
  {
   "id": "dungeonfloorinfo:0092:00",
@@ -591,7 +591,7 @@
   "id": "dungeonfloorinfo:0102:00",
   "jp": "石橋の路",
   "refs": 1,
-  "en": "Ishibashi Way"
+  "en": "Way of Ishibashi"
  },
  {
   "id": "dungeonfloorinfo:0103:00",
@@ -657,7 +657,7 @@
   "id": "dungeonfloorinfo:0113:00",
   "jp": "冬の洞最上層",
   "refs": 1,
-  "en": "Winter Top"
+  "en": "Winter Top Floor"
  },
  {
   "id": "dungeonfloorinfo:0114:00",
@@ -729,7 +729,7 @@
   "id": "dungeonfloorinfo:0125:00",
   "jp": "竜飛の路",
   "refs": 1,
-  "en": "Tappi Way"
+  "en": "Way of Tappi"
  },
  {
   "id": "dungeonfloorinfo:0127:00",
@@ -801,7 +801,7 @@
   "id": "dungeonfloorinfo:0138:00",
   "jp": "覇王の路",
   "refs": 1,
-  "en": "Overlord Way"
+  "en": "Way of Overlords"
  },
  {
   "id": "dungeonfloorinfo:0140:00",
@@ -921,7 +921,7 @@
   "id": "dungeonfloorinfo:0159:00",
   "jp": "夏の洞最上層",
   "refs": 1,
-  "en": "Summer Top"
+  "en": "Summer Top Floor"
  },
  {
   "id": "dungeonfloorinfo:0160:00",
@@ -1017,7 +1017,7 @@
   "id": "dungeonfloorinfo:0176:00",
   "jp": "幕末の路",
   "refs": 1,
-  "en": "Late Edo Way"
+  "en": "Way of Late Edo"
  },
  {
   "id": "dungeonfloorinfo:0177:00",
@@ -1089,7 +1089,7 @@
   "id": "dungeonfloorinfo:0188:00",
   "jp": "奉還の間",
   "refs": 1,
-  "en": "Return Room"
+  "en": "Handover Room"
  },
  {
   "id": "dungeonfloorinfo:0189:00",

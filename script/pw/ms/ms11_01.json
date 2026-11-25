@@ -171,7 +171,7 @@
   "id": "ms11_01:012:05",
   "speaker": "弥紀",
   "jp": "ちょっと\nメールしてみる―――",
-  "en": "I'll try mailing her--"
+  "en": "I'll try texting her--"
  },
  {
   "id": "ms11_01:012:06",
@@ -183,7 +183,7 @@
   "id": "ms11_01:012:07",
   "speaker": "弥紀",
   "jp": "びっくりした……。\nメール、誰からだろ。",
-  "en": "That startled me... I wonder who the mail's from."
+  "en": "That startled me... I wonder who's texting me."
  },
  {
   "id": "ms11_01:012:08",
@@ -441,7 +441,7 @@
   "id": "ms11_01:030:01",
   "speaker": "長英",
   "jp": "よゥし！\nこれからは競歩で\n全力勝負じゃあ！！",
-  "en": "All righ'! From now on, it's an\nall-out fight in speed walkin'!!"
+  "en": "All right! From now on, it's an\nall-out fight in speed walkin'!!"
  },
  {
   "id": "ms11_01:031:00",
@@ -939,7 +939,7 @@
   "id": "ms11_01:056:02",
   "speaker": "蒐",
   "jp": "{px}は……\n違う、みたい？",
-  "en": "{px}... feels different, it seems?"
+  "en": "{px}... wasn't, it seems?"
  },
  {
   "id": "ms11_01:057:00",
@@ -969,7 +969,7 @@
   "id": "ms11_01:058:01",
   "speaker": "蒐",
   "jp": "{px}は……\n違う、みたい？",
-  "en": "{px}... feels different, it seems?"
+  "en": "{px}... wasn't, it seems?"
  },
  {
   "id": "ms11_01:059:00",
@@ -2157,7 +2157,7 @@
   "id": "ms11_01:123:11",
   "speaker": "カルパタル",
   "jp": "はい、お粗末さま……",
-  "en": "Yes, thank thee kindly..."
+  "en": "Yes, 'twas nothing at all..."
  },
  {
   "id": "ms11_01:123:12",
@@ -2331,7 +2331,7 @@
   "id": "ms11_01:126:00",
   "speaker": "燈治",
   "jp": "おう。\n大勢でよ、\nぞろぞろ行こうぜ。",
-  "en": "Yeah. Let's go as a big crowd, all in a row."
+  "en": "Yeah. Let's all go, a whole big crowd of us."
  },
  {
   "id": "ms11_01:126:01",
@@ -2343,7 +2343,7 @@
   "id": "ms11_01:127:00",
   "speaker": "燈治",
   "jp": "おう。\n大勢でよ、\nぞろぞろ行こうぜ。",
-  "en": "Yeah. Let's go as a big crowd, all in a row."
+  "en": "Yeah. Let's all go, a whole big crowd of us."
  },
  {
   "id": "ms11_01:127:01",
@@ -2355,7 +2355,7 @@
   "id": "ms11_01:128:00",
   "speaker": "燈治",
   "jp": "ああ。\n大勢でよ、\nぞろぞろ行こうぜ。",
-  "en": "Yeah. Let's go as a big crowd, all in a row."
+  "en": "Yeah. Let's all go, a whole big crowd of us."
  },
  {
   "id": "ms11_01:128:01",
@@ -2464,14 +2464,14 @@
   "kind": "choice",
   "jp": "苗字で呼ぶ",
   "slot": 30,
-  "en": "Call his surname"
+  "en": "Call him Takarakata"
  },
  {
   "id": "ms11_01:ksf:1aa0e",
   "kind": "choice",
   "jp": "名前で呼ぶ",
   "slot": 30,
-  "en": "Call his given name"
+  "en": "Call him Shu"
  },
  {
   "id": "ms11_01:ksf:1aa2d",

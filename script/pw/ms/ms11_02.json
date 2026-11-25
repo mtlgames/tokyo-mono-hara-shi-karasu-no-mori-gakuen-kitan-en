@@ -3,7 +3,7 @@
   "id": "ms11_02:000:00",
   "kind": "caption",
   "jp": "３－２教室―――夕方",
-  "en": "Classroom 3-2 -- Evening"
+  "en": "Class 3-2--Evening"
  },
  {
   "id": "ms11_02:000:01",
@@ -2325,13 +2325,13 @@
   "id": "ms11_02:121:01",
   "speaker": "白",
   "jp": "ここ数日、街そのものが\nやけに{ruby:煌|きら}びやかに\n装飾されておったのは、",
-  "en": "These past few days, the city itself\nhas been so dazzlingly adorned--"
+  "en": "That the city itself has been so\ndazzlingly adorned these past few days..."
  },
  {
   "id": "ms11_02:121:02",
   "speaker": "白",
   "jp": "ああしてヒトを笑顔に\nする為のものだったのじゃな。",
-  "en": "it was all to make people smile like that."
+  "en": "...was all to make people smile like that."
  },
  {
   "id": "ms11_02:121:03",
@@ -2571,7 +2571,7 @@
   "id": "ms11_02:135:00",
   "speaker": "鈴",
   "jp": "はわわわわ……\n{px}も大変です！！",
-  "en": "Hawawawawa... {px} is in trouble too!!"
+  "en": "Hawawawawa... {px} is panicking too!!"
  },
  {
   "id": "ms11_02:135:01",
@@ -2673,7 +2673,7 @@
   "id": "ms11_02:137:08",
   "speaker": "鍵",
   "jp": "私らが……\nついていながら……。",
-  "en": "And us... right there with 'em..."
+  "en": "And with us right there beside 'em..."
  },
  {
   "id": "ms11_02:138:00",
@@ -2977,7 +2977,7 @@
   "kind": "choice",
   "jp": "紅緒の札を回収に行く",
   "slot": 30,
-  "en": "Get Benio's card back"
+  "en": "Go collect Benio's card"
  },
  {
   "id": "ms11_02:ksf:546c8",

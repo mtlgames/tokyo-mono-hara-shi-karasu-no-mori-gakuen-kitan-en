@@ -91,6 +91,9 @@ POOL = 0x2B0600
 # lone chars the rule above misses: text speed 瞬 (24-byte slots "1" "2" "3" 瞬, phone settings, unreferenced);
 # item menu 円 (second byte 0x7E) and the equipped mark 装 (its lui/addiu pair is not found in the ELF)
 LONE = {0x2D2538, 0x2B5210, 0x2B5214}
+# strings CAND can't see: the byte before is struct data, not NUL (options row 保持する, partner of 2d2388 保持しない;
+# release.py jp found it; a sweep for kana runs after a control byte found no other)
+ROW_START = {0x2D2370}
 
 
 def strings(d):
@@ -112,7 +115,14 @@ def strings(d):
                 end += 1
             out.append({"id": f"eboot:{off:06x}", "off": off, "enc": dec[1], "refs": refs, "slot": end - off,
                         "jp": dec[0]})
-    return out
+    for off in ROW_START:
+        raw = d[off:d.index(b"\0", off)]
+        end = off + len(raw)
+        while d[end] == 0:
+            end += 1
+        out.append({"id": f"eboot:{off:06x}", "off": off, "enc": "cp932", "refs": data.get(off - BASE, 0)
+                    + code.get(off - BASE, 0), "slot": end - off, "jp": raw.decode("cp932")})
+    return sorted(out, key=lambda x: x["off"])
 
 
 if __name__ == "__main__":

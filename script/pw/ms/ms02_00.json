@@ -3,7 +3,7 @@
   "id": "ms02_00:000:00",
   "kind": "caption",
   "jp": "新宿中央公園―――夜",
-  "en": "Shinjuku Central Park -- Night"
+  "en": "Shinjuku Central Park--Night"
  },
  {
   "id": "ms02_00:000:01",
@@ -177,7 +177,7 @@
   "id": "ms02_00:001:00",
   "kind": "caption",
   "jp": "羽鳥家居間―――朝",
-  "en": "Hatori Home, Living Room -- Morning"
+  "en": "Hatori Home, Living Room--Morning"
  },
  {
   "id": "ms02_00:001:01",
@@ -543,7 +543,7 @@
   "id": "ms02_00:022:18",
   "speaker": "朝子",
   "jp": "ま、まさか転校してきた\nばかりの教え子を\n無理矢理……。",
-  "en": "D-Don't tell me I forced a student\nwho just transferred in to..."
+  "en": "D-Don't tell me I forced a student\nof mine who just transferred in to..."
  },
  {
   "id": "ms02_00:023:00",
@@ -933,7 +933,7 @@
   "id": "ms02_00:040:15",
   "speaker": "清司郎",
   "jp": "{ruby:子供|・・}だからな。\n恥ずかしがってるだけだろ。",
-  "en": "She's a kid. She's just shy, that's all."
+  "en": "She's a \"kid.\" She's just shy, that's all."
  },
  {
   "id": "ms02_00:040:16",
@@ -1005,7 +1005,7 @@
   "id": "ms02_00:040:27",
   "kind": "caption",
   "jp": "鴉羽神社境内―――",
-  "en": "Karasuba Shrine Grounds --"
+  "en": "Karasuba Shrine Grounds--"
  },
  {
   "id": "ms02_00:040:28",
@@ -1185,7 +1185,7 @@
   "id": "ms02_00:051:06",
   "speaker": "{ruby:鍵|けん}",
   "jp": "お早うさんです、坊。",
-  "en": "Top of the morning to you, young master."
+  "en": "Mornin' to you, young master."
  },
  {
   "id": "ms02_00:051:07",
@@ -1293,7 +1293,7 @@
   "id": "ms02_00:054:01",
   "speaker": "鍵",
   "jp": "あれは元々あの場所にあった\n地下壕でしてね。",
-  "en": "That was an underground bunker that\nstood there from the start, you see."
+  "en": "That was an underground bunker\nthat was already there, you see."
  },
  {
   "id": "ms02_00:054:02",
@@ -1455,7 +1455,7 @@
   "id": "ms02_00:057:04",
   "speaker": "鍵",
   "jp": "そもそも、この辺りの{ruby:総鎮守|そうちんじゅ}\nといえば、新宿中央公園の\n熊野さんですしねえ。",
-  "en": "Besides, when you talk of the chief\nguardian shrine around here, that'd be\nKumano-san in Shinjuku Central Park."
+  "en": "Besides, when you talk of the chief guardian\nshrine around here, that'd be the Kumano\nShrine over in Shinjuku Central Park."
  },
  {
   "id": "ms02_00:057:05",
@@ -1761,13 +1761,13 @@
   "id": "ms02_00:077:00",
   "speaker": "白",
   "jp": "狐、\n昨晩のあの{ruby:洞|うろ}は一体何じゃ。",
-  "en": "Fox. What on earth was that hollow last night?"
+  "en": "Fox. What on earth was that Hollow last night?"
  },
  {
   "id": "ms02_00:077:01",
   "speaker": "鍵",
   "jp": "あれは元々あの場所にあった\n{ruby:地下壕|ちかごう}でして。",
-  "en": "That was an underground bunker that\nstood there from the start, you see."
+  "en": "That was an underground bunker\nthat was already there, you see."
  },
  {
   "id": "ms02_00:077:02",
@@ -1911,7 +1911,7 @@
   "id": "ms02_00:078:17",
   "kind": "caption",
   "jp": "３－２教室―――",
-  "en": "Class 3-2 --"
+  "en": "Class 3-2--"
  },
  {
   "id": "ms02_00:078:18",
@@ -2067,7 +2067,7 @@
   "id": "ms02_00:089:01",
   "speaker": "燈治",
   "jp": "あの妙な{ruby:痣|あざ}―――",
-  "en": "That weird bruise--"
+  "en": "That weird mark--"
  },
  {
   "id": "ms02_00:089:02",
@@ -2289,7 +2289,7 @@
   "id": "ms02_00:100:00",
   "speaker": "燈治",
   "jp": "そうだ、穂坂。\nお前、手は大丈夫か？\nあの、痣が出来たとこ。",
-  "en": "Oh yeah, Hosaka. Your hand okay?\nWhere that bruise showed up."
+  "en": "Oh yeah, Hosaka. Your hand\nokay? Where that mark showed up."
  },
  {
   "id": "ms02_00:100:01",
@@ -2529,7 +2529,7 @@
   "id": "ms02_00:111:04",
   "speaker": "巴",
   "jp": "焼却炉の周りに\n男物が二つと、\n女物が一つ。",
-  "en": "Around the incinerator. Two pairs of\nmen's shoes and one pair of women's."
+  "en": "Around the incinerator. Two sets of\nmen's prints and one set of women's."
  },
  {
   "id": "ms02_00:111:05",
@@ -2823,7 +2823,7 @@
   "id": "ms02_00:122:19",
   "speaker": "燈治",
   "jp": "そいつはまた、\n随分と時代{ruby:錯誤|さくご}な話だな。",
-  "en": "Now that's a seriously behind-the-times story."
+  "en": "Now that's seriously anachronistic."
  },
  {
   "id": "ms02_00:122:20",
@@ -3795,7 +3795,7 @@
   "id": "ms02_00:162:01",
   "speaker": "巴",
   "jp": "方向性は違うみたいだけど、\n何となく\nわかったような気はするわ。",
-  "en": "You seem to be headed in different\ndirections, but I think I sort of get it."
+  "en": "Your quirks seem to run different\nways, but I think I sort of get it."
  },
  {
   "id": "ms02_00:163:00",
@@ -3963,7 +3963,7 @@
   "id": "ms02_00:169:12",
   "kind": "caption",
   "jp": "３－２教室―――昼休み",
-  "en": "Class 3-2 -- Lunch Break"
+  "en": "Class 3-2--Lunch Break"
  },
  {
   "id": "ms02_00:169:13",

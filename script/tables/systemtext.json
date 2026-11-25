@@ -225,7 +225,7 @@
   "id": "systemtext:0043:00",
   "jp": "現在この札は強化中です。\n札強化画面ではがして下さい。",
   "refs": 1,
-  "en": "This card is currently in use as an enhancement.\nRemove it on the card enhancement screen."
+  "en": "This card is currently in use as an enhancement.\nRemove it in \"Card Enhance\"."
  },
  {
   "id": "systemtext:0044:00",
@@ -333,7 +333,7 @@
   "id": "systemtext:0063:00",
   "jp": "フリガナ",
   "refs": 1,
-  "en": "Reading"
+  "en": "Name Reading"
  },
  {
   "id": "systemtext:0064:00",
@@ -585,7 +585,7 @@
   "id": "systemtext:0105:00",
   "jp": "合唱部",
   "refs": 1,
-  "en": "Chorus Club"
+  "en": "Choir Club"
  },
  {
   "id": "systemtext:0106:00",
@@ -669,7 +669,7 @@
   "id": "systemtext:0119:00",
   "jp": "神秘術同好会",
   "refs": 1,
-  "en": "Mysticism Circle"
+  "en": "Mystic Arts Circle"
  },
  {
   "id": "systemtext:0120:00",
@@ -819,7 +819,7 @@
   "id": "systemtext:0144:00",
   "jp": "携行へ収納します",
   "refs": 1,
-  "en": "Store it in your pack."
+  "en": "Store it with your carried items."
  },
  {
   "id": "systemtext:0145:00",
@@ -861,7 +861,7 @@
   "id": "systemtext:0151:00",
   "jp": "携行品入れ替え",
   "refs": 1,
-  "en": "Swap Pack Items"
+  "en": "Swap Carried Items"
  },
  {
   "id": "systemtext:0152:00",
@@ -987,7 +987,7 @@
   "id": "systemtext:0174:00",
   "jp": "携行のスロットが一杯です。\n整理してアイテムを収納しますか？",
   "refs": 1,
-  "en": "Your pack is full. Sort it out and store the\nitem?"
+  "en": "Your carried slots are full.\nSort them and store the item?"
  },
  {
   "id": "systemtext:0175:00",
@@ -1047,7 +1047,7 @@
   "id": "systemtext:0185:00",
   "jp": "同じ武器を複数装備できません。\n変化前の武器と同じ武器を装備しています。",
   "refs": 1,
-  "en": "You can't equip more than one of the same weapon.\nYou already have the pre-change weapon equipped."
+  "en": "You can't equip more than one of the same weapon.\nYou already have this weapon's earlier form\nequipped."
  },
  {
   "id": "systemtext:0186:00",
@@ -1077,7 +1077,7 @@
   "id": "systemtext:0190:00",
   "jp": "この空きスロットは携行品に使われています。\n装備する場合、「%s」を\n自室に戻します。よろしいですか？",
   "refs": 1,
-  "en": "This empty slot is used by your pack. To equip\nhere, \"%s\" will go back to your room. Is that\nokay?"
+  "en": "This empty slot is used by your carried\nitems. To equip here, \"%s\" will go back\nto your room. Is that okay?"
  },
  {
   "id": "systemtext:0193:00",
@@ -1149,7 +1149,7 @@
   "id": "systemtext:0209:00",
   "jp": "分類切替",
   "refs": 1,
-  "en": "Category"
+  "en": "Switch Category"
  },
  {
   "id": "systemtext:0210:00",
@@ -1455,7 +1455,7 @@
   "id": "systemtext:0262:00",
   "jp": "携行",
   "refs": 1,
-  "en": "Pack"
+  "en": "Carried"
  },
  {
   "id": "systemtext:0263:00",
@@ -2325,7 +2325,7 @@
   "id": "systemtext:0466:00",
   "jp": "札の加護をもつ刀による居合攻撃。\n仲間が秋の札憑きならば攻撃力増加",
   "refs": 1,
-  "en": "A quick-draw strike with a sword blessed by a\ncard. Attack up if a partner is Card-Possessed by\nAutumn."
+  "en": "A quick-draw strike with a sword blessed by a\ncard. Attack up if a partner is Autumn\nCard-Possessed."
  },
  {
   "id": "systemtext:0467:00",
@@ -2355,7 +2355,7 @@
   "id": "systemtext:0471:00",
   "jp": "敵の体力を奪う鱗粉を撒く攻撃。\n一定確率で封呪状態にする。",
   "refs": 1,
-  "en": "Scatters scales that sap enemy stamina. May\ninflict Seal Curse."
+  "en": "Scatters wing dust that saps enemy\nstamina. May inflict Seal Curse."
  },
  {
   "id": "systemtext:0472:00",
@@ -2493,7 +2493,7 @@
   "id": "systemtext:0528:00",
   "jp": "愛%d　友%d　Lv＝（愛＋友）÷ 2",
   "refs": 1,
-  "en": "Love %d  Friend %d  Lv = (Love + Friend)\n2"
+  "en": "Love %d  Friendship %d  Lv = (Love +\nFriendship)/2"
  },
  {
   "id": "systemtext:0530:00",
@@ -2847,7 +2847,7 @@
   "id": "systemtext:0595:00",
   "jp": "同行を断る",
   "refs": 1,
-  "en": "Decline to Join"
+  "en": "Go Alone"
  },
  {
   "id": "systemtext:0596:00",
@@ -3021,7 +3021,7 @@
   "id": "systemtext:0632:00",
   "jp": "ダンジョンヘ",
   "refs": 1,
-  "en": "To Dungeon"
+  "en": "To the Dungeon"
  },
  {
   "id": "systemtext:0633:00",

@@ -3,7 +3,7 @@
   "id": "fn01_30:001:00",
   "speaker": "鎧の店員",
   "jp": "ここは、玩具と夢の{ruby:戦場|いくさば}、\nイエス！サブリミナルである。\nごゆるりと堪能あれ。",
-  "en": "This is a battlefield of toys and dreams! Yes!\nSubliminal, it is. Pray, savor it at your leisure."
+  "en": "This is the battlefield of toys and dreams:\nYes! Subliminal. Pray, savor it at your leisure."
  },
  {
   "id": "fn01_30:002:00",
@@ -66,7 +66,7 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing in particular"
+  "en": "Nothing really"
  },
  {
   "id": "fn01_30:ksf:01b89",
@@ -122,7 +122,7 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing in particular"
+  "en": "Nothing really"
  },
  {
   "id": "fn01_30:ksf:040b9",
@@ -136,6 +136,6 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing in particular"
+  "en": "Nothing really"
  }
 ]

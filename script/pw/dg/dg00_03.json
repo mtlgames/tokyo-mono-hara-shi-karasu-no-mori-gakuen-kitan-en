@@ -279,7 +279,7 @@
   "id": "dg00_03:012:11",
   "speaker": "伊佐地",
   "jp": "怖いというなら、\n仕方ないが。",
-  "en": "if you're scared, there's nothing to be done."
+  "en": "if you're scared, well, that's that."
  },
  {
   "id": "dg00_03:012:12",
@@ -681,7 +681,7 @@
   "id": "dg00_03:036:16",
   "speaker": "零",
   "jp": "おれなら{ruby:問題はない|・・・・・}。",
-  "en": "For me, it poses no problem."
+  "en": "For me, it's no problem at all."
  },
  {
   "id": "dg00_03:036:17",
@@ -753,7 +753,7 @@
   "id": "dg00_03:040:05",
   "speaker": "いちる",
   "jp": "ちェ～。",
-  "en": "Hmph~"
+  "en": "Awww, no fair."
  },
  {
   "id": "dg00_03:040:06",
@@ -789,7 +789,7 @@
   "id": "dg00_03:041:03",
   "speaker": "いちる",
   "jp": "ちェ～。",
-  "en": "Hmph~"
+  "en": "Awww, no fair."
  },
  {
   "id": "dg00_03:041:04",
@@ -861,7 +861,7 @@
   "id": "dg00_03:043:05",
   "speaker": "伊佐地",
   "jp": "その印こそが\n封札師の証―――",
-  "en": "That mark is the very proof of a Card Sealer--"
+  "en": "That Mark is the very proof of a Card Sealer--"
  },
  {
   "id": "dg00_03:043:06",
@@ -906,14 +906,14 @@
   "kind": "choice",
   "jp": "自分が一番上になる",
   "slot": 30,
-  "en": "I'll go on top"
+  "en": "Me at the top"
  },
  {
   "id": "dg00_03:ksf:16ada",
   "kind": "choice",
   "jp": "自分が一番下になる",
   "slot": 30,
-  "en": "I'll go on the bottom"
+  "en": "Me at the bottom"
  },
  {
   "id": "dg00_03:ksf:16af9",

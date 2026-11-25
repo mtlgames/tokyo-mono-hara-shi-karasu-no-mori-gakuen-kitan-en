@@ -3,7 +3,7 @@
   "id": "ms03_00:000:00",
   "kind": "caption",
   "jp": "歌舞伎町―――夜",
-  "en": "Kabukicho -- Night"
+  "en": "Kabukicho--Night"
  },
  {
   "id": "ms03_00:000:01",
@@ -123,7 +123,7 @@
   "id": "ms03_00:000:20",
   "kind": "caption",
   "jp": "花園神社―――夜",
-  "en": "Hanazono Shrine -- Night"
+  "en": "Hanazono Shrine--Night"
  },
  {
   "id": "ms03_00:000:21",
@@ -225,7 +225,7 @@
   "id": "ms03_00:000:37",
   "speaker": "優雅な男",
   "jp": "あれ？\n君のお祖父さん、\n亡くなったんだっけ？",
-  "en": "Hm? Your grandfather passed away, did he?"
+  "en": "Hm? Did your grandfather actually pass away?"
  },
  {
   "id": "ms03_00:000:38",
@@ -273,7 +273,7 @@
   "id": "ms03_00:001:00",
   "kind": "caption",
   "jp": "羽鳥家居間―――朝",
-  "en": "Hatori Home, Living Room -- Morning"
+  "en": "Hatori Home, Living Room--Morning"
  },
  {
   "id": "ms03_00:001:01",
@@ -747,7 +747,7 @@
   "id": "ms03_00:023:11",
   "kind": "caption",
   "jp": "鴉羽神社境内―――朝",
-  "en": "Karasuba Shrine Grounds -- Morning"
+  "en": "Karasuba Shrine Grounds--Morning"
  },
  {
   "id": "ms03_00:023:12",
@@ -909,7 +909,7 @@
   "id": "ms03_00:034:05",
   "speaker": "朝子",
   "jp": "だから、\nね、お姉さんと\n一緒に行こう？",
-  "en": "So, come on, let's go together\nwith your big sister, okay?"
+  "en": "So, come on--come along with big sis, okay?"
  },
  {
   "id": "ms03_00:034:06",
@@ -1353,7 +1353,7 @@
   "id": "ms03_00:061:03",
   "kind": "caption",
   "jp": "３－２教室―――",
-  "en": "Classroom 3-2--"
+  "en": "Class 3-2--"
  },
  {
   "id": "ms03_00:061:04",
@@ -1515,7 +1515,7 @@
   "id": "ms03_00:073:01",
   "speaker": "燈治",
   "jp": "『先輩のためなら\n　わしゃァいつでも死ねる』\nとか、往来で叫ぶしよ。",
-  "en": "He was yellin' stuff like \"For you, Senpai,\nI'd die any day!\" right out in the street."
+  "en": "He was yellin' stuff like \"For you, Senpai, I'd die\nany day o' the week!\" right out in the street."
  },
  {
   "id": "ms03_00:073:02",
@@ -1581,7 +1581,7 @@
   "id": "ms03_00:076:00",
   "speaker": "燈治",
   "jp": "へェ、\nそんなにあんのか……。",
-  "en": "Huh, that many, huh..."
+  "en": "Huh, that many..."
  },
  {
   "id": "ms03_00:076:01",
@@ -1617,7 +1617,7 @@
   "id": "ms03_00:079:00",
   "speaker": "燈治",
   "jp": "お前な……\nそれじゃ一体、\n何枚集めりゃいいんだよ。",
-  "en": "C'mon, man... Then how many the\nhell are we supposed to collect?"
+  "en": "C'mon, man... Then how the hell\nmany are we supposed to collect?"
  },
  {
   "id": "ms03_00:079:01",
@@ -1707,7 +1707,7 @@
   "id": "ms03_00:080:13",
   "kind": "caption",
   "jp": "３－２教室―――休み時間",
-  "en": "Classroom 3-2--Break"
+  "en": "Class 3-2--Break Time"
  },
  {
   "id": "ms03_00:080:14",
@@ -2559,7 +2559,7 @@
   "id": "ms03_00:115:07",
   "speaker": "巴",
   "jp": "それでいうと、\n確かに《秋》は《西》だけど、",
-  "en": "Going by that, autumn is indeed west, but"
+  "en": "Going by that, Autumn is indeed West, but"
  },
  {
   "id": "ms03_00:115:08",
@@ -2763,7 +2763,7 @@
   "id": "ms03_00:124:01",
   "speaker": "長英",
   "jp": "こがァな不甲斐ないわしの命を\n惜しんでくれるんか……。",
-  "en": "Ya'd mourn the life of a useless fella like me...?"
+  "en": "Ya'd care that much 'bout the\nlife of a useless fella like me...?"
  },
  {
   "id": "ms03_00:124:02",
@@ -2787,7 +2787,7 @@
   "id": "ms03_00:125:01",
   "speaker": "長英",
   "jp": "こがァな不甲斐ないわしの命を\n惜しんでくれるんか……。",
-  "en": "Ya'd mourn the life of a useless fella like me...?"
+  "en": "Ya'd care that much 'bout the\nlife of a useless fella like me...?"
  },
  {
   "id": "ms03_00:125:02",
@@ -2811,7 +2811,7 @@
   "id": "ms03_00:126:01",
   "speaker": "長英",
   "jp": "こがァな不甲斐ないわしの命を\n惜しんでくれるんか……。",
-  "en": "Ya'd mourn the life of a useless fella like me...?"
+  "en": "Ya'd care that much 'bout the\nlife of a useless fella like me...?"
  },
  {
   "id": "ms03_00:126:02",
@@ -2925,7 +2925,7 @@
   "id": "ms03_00:129:09",
   "speaker": "長英",
   "jp": "うちのじいちゃん、\nあそこのマスターと\n顔馴染みじゃけェ。",
-  "en": "My granddad's old pals with the master there."
+  "en": "My granddad's old pals with the Master there."
  },
  {
   "id": "ms03_00:129:10",
@@ -2937,7 +2937,7 @@
   "id": "ms03_00:129:11",
   "speaker": "長英",
   "jp": "まァ、マスターの\nフレンチトーストがなきゃ、\n危ないとこだったんじゃが。",
-  "en": "Well, if it weren't fer the master's\nFrench toast, things'd have got dicey."
+  "en": "Well, if it weren't fer the Master's\nFrench toast, things'd have got dicey."
  },
  {
   "id": "ms03_00:129:12",
@@ -3045,7 +3045,7 @@
   "id": "ms03_00:130:08",
   "speaker": "白",
   "jp": "……早う行け。\n刻限は守られねばならぬ。",
-  "en": "...Now go, quickly. The hour must be kept."
+  "en": "...Now go, quickly. You must not be late."
  },
  {
   "id": "ms03_00:130:09",
@@ -3057,7 +3057,7 @@
   "id": "ms03_00:130:10",
   "kind": "caption",
   "jp": "３－２教室―――",
-  "en": "Classroom 3-2--"
+  "en": "Class 3-2--"
  },
  {
   "id": "ms03_00:130:11",
@@ -3399,7 +3399,7 @@
   "id": "ms03_00:148:00",
   "speaker": "久榮",
   "jp": "{ruby:鴉乃杜|からすのもり}學園―――\nその歴史は古く、創立は\n大正十二年と言われている。",
-  "en": "Karasu no Mori Academy-- Its\nhistory goes back a long way. It's said\nto have been founded in Taisho 12."
+  "en": "Karasu no Mori Academy-- Its history\ngoes back a long way. It's said to have\nbeen founded in Taisho 12--1923."
  },
  {
   "id": "ms03_00:148:01",
@@ -3483,7 +3483,7 @@
   "id": "ms03_00:151:00",
   "speaker": "久榮",
   "jp": "{ruby:鴉乃杜|からすのもり}學園―――\nその歴史は古く、創立は\n大正十二年と言われている。",
-  "en": "Karasu no Mori Academy-- Its\nhistory goes back a long way. It's said\nto have been founded in Taisho 12."
+  "en": "Karasu no Mori Academy-- Its history\ngoes back a long way. It's said to have\nbeen founded in Taisho 12--1923."
  },
  {
   "id": "ms03_00:151:01",
@@ -3801,7 +3801,7 @@
   "id": "ms03_00:163:05",
   "speaker": "燈治",
   "jp": "な、何の事だよ……。",
-  "en": "I-in what...?"
+  "en": "Wh-what're you talkin' about...?"
  },
  {
   "id": "ms03_00:163:06",
@@ -4509,7 +4509,7 @@
   "id": "ms03_00:200:00",
   "speaker": "蒐",
   "jp": "さよなら三角。\n四角がいいよね？\nくふふ。",
-  "en": "Bye-bye, triangle. Squares are better, right? Kufufu."
+  "en": "Bye-bye, triangle... come again, square.\nSquares are nicer, right? Kufufu."
  },
  {
   "id": "ms03_00:200:01",

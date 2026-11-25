@@ -345,7 +345,7 @@
   "id": "dungeonsysmes:0057:00",
   "jp": "【桜に幕】消費百点以上の札配置割引",
   "refs": 1,
-  "en": "Cherry Curtain: 100+ cards cheaper"
+  "en": "Cherry Curtain: 100pt+ cards cheap"
  },
  {
   "id": "dungeonsysmes:0058:00",
@@ -369,7 +369,7 @@
   "id": "dungeonsysmes:0061:00",
   "jp": "【藤に時鳥】敵を洞の属性にする",
   "refs": 1,
-  "en": "Wisteria Cuckoo: Hollow-type foes"
+  "en": "Wisteria Cuckoo: Foes turn Hollow"
  },
  {
   "id": "dungeonsysmes:0062:00",
@@ -699,7 +699,7 @@
   "id": "dungeonsysmes:0116:00",
   "jp": "【伊賀の暗影】隠人体力回復",
   "refs": 1,
-  "en": "Shadow of Iga: Oni recover HP"
+  "en": "Shadow of Iga: Oni recover Stamina"
  },
  {
   "id": "dungeonsysmes:0117:00",
@@ -909,7 +909,7 @@
   "id": "dungeonsysmes:0151:00",
   "jp": "【変革の時計】強兵ノ門、一時開門",
   "refs": 1,
-  "en": "Era Clock: Elite Gate opens awhile"
+  "en": "Era Clock: Elite Gate briefly open"
  },
  {
   "id": "dungeonsysmes:0152:00",
@@ -981,7 +981,7 @@
   "id": "dungeonsysmes:0163:00",
   "jp": "【目潰し】視認不可",
   "refs": 1,
-  "en": "Blind: Can't see"
+  "en": "Blinded: Can't see"
  },
  {
   "id": "dungeonsysmes:0164:00",
@@ -1281,7 +1281,7 @@
   "id": "dungeonsysmes:0213:00",
   "jp": "【天之瓊矛】体力損耗",
   "refs": 1,
-  "en": "Ame-no-Nuboko: Wears down HP"
+  "en": "Ame-no-Nuboko: Wears down Stamina"
  },
  {
   "id": "dungeonsysmes:0214:00",

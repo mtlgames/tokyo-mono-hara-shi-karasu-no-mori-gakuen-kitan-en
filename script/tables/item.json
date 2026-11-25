@@ -339,7 +339,7 @@
   "id": "item:0017:0c",
   "jp": "昔流行した、ベアリングを\n内蔵しスリープができる\n競技用ヨーヨー。",
   "refs": 1,
-  "en": "A once-popular competition\nyo-yo with a ball bearing\nfor sleeping."
+  "en": "A once-popular competition\nyo-yo with a ball bearing\nthat lets it sleep."
  },
  {
   "id": "item:0017:10",
@@ -609,7 +609,7 @@
   "id": "item:0031:0c",
   "jp": "朝子がいつも身に付けていた\n母親の形見の指輪。\n封呪と加護の力が込められて\nいたが封呪の力は失っている。",
   "refs": 1,
-  "en": "Asako's ever-worn keepsake\nof her mother. Once held\nsealing and warding power;\nthe sealing is gone."
+  "en": "Her late mother's ring,\nalways worn by Asako. It\nheld sealing and warding\npower; the sealing is gone."
  },
  {
   "id": "item:0031:10",
@@ -1113,7 +1113,7 @@
   "id": "item:0057:0c",
   "jp": "種子島に伝来した\n日本最初の鉄砲。\n火縄を挟んで使うため\nマッチロック式銃とも呼ぶ。",
   "refs": 1,
-  "en": "Japan's first firearm, from\nTanegashima. Held a lit\ncord: a matchlock."
+  "en": "Japan's first firearm,\nfrom Tanegashima. Also\ncalled a matchlock, for\nthe lit cord it holds."
  },
  {
   "id": "item:0057:10",
@@ -1191,7 +1191,7 @@
   "id": "item:0061:0c",
   "jp": "八岐大蛇の尾から現れた\n三種の神器のひとつ。\n攻撃した敵を１０％の確率で\n風呪状態にする。",
   "refs": 1,
-  "en": "Imperial Regalia, from the\nYamata no Orochi's tail.\nInflicts Wind Curse (10%)."
+  "en": "One of the Imperial\nRegalia, from the Yamata\nno Orochi's tail. Inflicts\nWind Curse (10%)."
  },
  {
   "id": "item:0061:10",
@@ -1359,7 +1359,7 @@
   "id": "item:0070:0c",
   "jp": "玄翁和尚が殺生石を叩き割る\nのに使われたとされる金槌。\n攻撃した敵を４マス\nノックバックさせる。",
   "refs": 1,
-  "en": "The hammer Genno used to\nsmash the Killing Stone.\nKnocks enemies back 4\nsquares."
+  "en": "The hammer the monk\nGenno used to smash the\nKilling Stone. Knocks\nenemies back 4 squares."
  },
  {
   "id": "item:0070:10",
@@ -1419,7 +1419,7 @@
   "id": "item:0073:0c",
   "jp": "松尾芭蕉が句に詠んだと\nされる梵鐘。攻撃した際に\n敵を５０％、自分を３５％の\n確率で麻痺状態にする。",
   "refs": 1,
-  "en": "A temple bell said to be in\na Basho haiku. On attack,\nParalyzes foes (50%) and you\n(35%)."
+  "en": "A temple bell said to be\nin a Basho haiku. On\nattack, paralyzes enemies\n(50%) and you (35%)."
  },
  {
   "id": "item:0073:10",
@@ -1509,7 +1509,7 @@
   "id": "item:0077:0c",
   "jp": "天下五剣のひとつ。\n源頼光が酒呑童子の首を\n切り落とした事で有名。",
   "refs": 1,
-  "en": "Dojigiri Yasutsuna, one of\nthe Five Great Swords. Raiko\ncut off Shuten-doji's head\nwith it."
+  "en": "Dojigiri Yasutsuna, one of\nthe Five Great Swords.\nMinamoto no Raiko cut off\nShuten-doji's head with it."
  },
  {
   "id": "item:0077:10",
@@ -1623,7 +1623,7 @@
   "id": "item:0083:0c",
   "jp": "国崩しとも呼ばれる大砲。\n弾と火薬が入った子砲を\n装填して発射する。",
   "refs": 1,
-  "en": "A cannon called the\nKuni-kuzushi. Fired by\nloading a chamber of shot\nand powder."
+  "en": "The Kuni-kuzushi, or\n\"Realm-Breaker,\" a cannon\nfired by loading a chamber\nof shot and powder."
  },
  {
   "id": "item:0083:10",
@@ -1809,7 +1809,7 @@
   "id": "item:0092:0c",
   "jp": "源頼政が妖怪退治の褒美\nとして天皇より賜った太刀。\n敵を攻撃すると自分が２０％\nの確率で目潰し状態になる。",
   "refs": 1,
-  "en": "The Emperor's reward to\nYorimasa for slaying a\nyokai. Blinds you on attack\n(20%)."
+  "en": "The Emperor's reward to\nMinamoto no Yorimasa for\nslaying a yokai. Blinds\nyou on attack (20%)."
  },
  {
   "id": "item:0092:10",
@@ -1869,7 +1869,7 @@
   "id": "item:0095:0c",
   "jp": "書の三聖とされる菅原道真の\n神通力が宿った霊筆。\n手先を意のままに動すことが\nできるようになる。",
   "refs": 1,
-  "en": "A brush holding the power of\nMichizane, a master\ncalligrapher. Hands move at\nwill."
+  "en": "A brush holding the power\nof Sugawara no Michizane,\nmaster calligrapher. Lets\nyour hands move at will."
  },
  {
   "id": "item:0095:10",
@@ -2913,7 +2913,7 @@
   "id": "item:0148:0c",
   "jp": "スイジガイを模したものを\nとりつけた呪力がある盾。\n防御迎撃型の敵からの攻撃を\n５０％の確率で反射する。",
   "refs": 1,
-  "en": "A charmed shield with a\nspider conch replica. Chance\nto reflect guard-type foes:\n50%."
+  "en": "A charmed shield with a\nspider conch replica.\nChance to reflect attacks\nfrom guard-type foes: 50%."
  },
  {
   "id": "item:0148:10",
@@ -2955,7 +2955,7 @@
   "id": "item:0150:0c",
   "jp": "道之長乳歯神が\n生まれたとされる帯。",
   "refs": 1,
-  "en": "An obi said to have given\nbirth to the god\nMichi-no-Nagachiha."
+  "en": "The obi from which the god\nMichi-no-Nagachiha is said\nto have been born."
  },
  {
   "id": "item:0150:10",
@@ -3105,7 +3105,7 @@
   "id": "item:0159:04",
   "jp": "海老籠手",
   "refs": 1,
-  "en": "Shrimp Bracers"
+  "en": "Lobster Bracers"
  },
  {
   "id": "item:0159:0c",
@@ -3201,7 +3201,7 @@
   "id": "item:0164:0c",
   "jp": "金鐘行者こと、良弁僧正が\n弥陀如来から授かった\n金銀の宝服。",
   "refs": 1,
-  "en": "Gold-and-silver vestments\nRoben, the Golden Bell\nAscetic, got from Amida\nBuddha."
+  "en": "Gold-and-silver vestments\nAmida Buddha gave Roben,\nthe Golden Bell Ascetic."
  },
  {
   "id": "item:0164:14",
@@ -3279,7 +3279,7 @@
   "id": "item:0168:0c",
   "jp": "和豆良比能宇斯能神が\n生まれた衣。\n小型サイズの敵からの攻撃を\n５０％の確率で無効化する",
   "refs": 1,
-  "en": "The robe that birthed the\ngod Wazurai-no-Ushi. Chance\nto negate small foes: 50%."
+  "en": "The robe that birthed\nthe god Wazurai-no-Ushi.\nChance to negate attacks\nfrom small foes: 50%."
  },
  {
   "id": "item:0168:10",
@@ -3351,7 +3351,7 @@
   "id": "item:0172:0c",
   "jp": "弥生から古墳時代にかけて\n用いられた胴を守る鎧。\n飛行タイプの敵からの攻撃を\n５０％の確率で反射する。",
   "refs": 1,
-  "en": "Torso armor of the Yayoi to\nKofun eras. Chance to\nreflect flying foes: 50%."
+  "en": "Torso armor of the Yayoi\nto Kofun eras. Chance to\nreflect attacks from\nflying foes: 50%."
  },
  {
   "id": "item:0173:04",
@@ -3543,7 +3543,7 @@
   "id": "item:0184:0c",
   "jp": "藤原秀郷が百足退治の礼に\n龍宮王から授かった大鎧。\n攻撃してきた大型の敵を\n１マスノックバックさせる。",
   "refs": 1,
-  "en": "The Dragon King's gift to\nHidesato for slaying a\ncentipede. Knocks big\nattackers back 1 square."
+  "en": "Great armor the Dragon King\ngave Hidesato for slaying a\ncentipede. Knocks big\nattackers back 1 square."
  },
  {
   "id": "item:0184:14",
@@ -3789,7 +3789,7 @@
   "id": "item:0197:04",
   "jp": "苺風味のなにか",
   "refs": 1,
-  "en": "Strawberry-ish"
+  "en": "Strawberry Thing"
  },
  {
   "id": "item:0197:0c",
@@ -3873,7 +3873,7 @@
   "id": "item:0201:14",
   "jp": "20％の確率で目潰しを回復",
   "refs": 1,
-  "en": "Cures Blind (20%)"
+  "en": "Cures Blindness (20%)"
  },
  {
   "id": "item:0202:04",
@@ -3915,7 +3915,7 @@
   "id": "item:0203:14",
   "jp": "15％の確率で目潰しを回復",
   "refs": 3,
-  "en": "Cures Blind (15%)"
+  "en": "Cures Blindness (15%)"
  },
  {
   "id": "item:0204:04",
@@ -4275,7 +4275,7 @@
   "id": "item:0224:14",
   "jp": "10％の確率で目潰しを回復",
   "refs": 1,
-  "en": "Cures Blind (10%)"
+  "en": "Cures Blindness (10%)"
  },
  {
   "id": "item:0225:04",
@@ -4455,7 +4455,7 @@
   "id": "item:0235:04",
   "jp": "石焼きいも",
   "refs": 1,
-  "en": "Stone-Baked Yam"
+  "en": "Hot Sweet Potato"
  },
  {
   "id": "item:0235:0c",
@@ -4887,7 +4887,7 @@
   "id": "item:0263:10",
   "jp": "調合専用",
   "refs": 31,
-  "en": "For mixing only"
+  "en": "Mixing Only"
  },
  {
   "id": "item:0264:04",
@@ -5211,7 +5211,7 @@
   "id": "item:0283:10",
   "jp": "目潰し治療効果",
   "refs": 1,
-  "en": "Cures Blind"
+  "en": "Cures Blindness"
  },
  {
   "id": "item:0284:04",
@@ -5589,7 +5589,7 @@
   "id": "item:0312:0c",
   "jp": "料理などに使われる\nベーキングパウダー。",
   "refs": 1,
-  "en": "Baking powder used in\ncooking and such."
+  "en": "A leavening agent used\nin cooking and such."
  },
  {
   "id": "item:0313:04",
@@ -5661,7 +5661,7 @@
   "id": "item:0317:14",
   "jp": "携行中、学科値が変化する。",
   "refs": 20,
-  "en": "Alters subjects while held"
+  "en": "Alters subjects if carried"
  },
  {
   "id": "item:0318:04",
@@ -6021,7 +6021,7 @@
   "id": "item:0338:04",
   "jp": "呪いのカード",
   "refs": 1,
-  "en": "Curse Card"
+  "en": "Cursed Card"
  },
  {
   "id": "item:0338:0c",
@@ -6093,7 +6093,7 @@
   "id": "item:0342:0c",
   "jp": "執行者の力を全解放\nする白札憑きの器物。\n神属性をもつ敵へ\n＋３００％のダメージ。",
   "refs": 1,
-  "en": "A vessel bearing the White\nCard that frees all the\nExecutor's power. Damage to\ndivine foes: +300%."
+  "en": "A vessel bearing the White\nCard that frees all the\nExecutor's power. +300%\ndamage to Divine-type foes."
  },
  {
   "id": "item:0342:10",

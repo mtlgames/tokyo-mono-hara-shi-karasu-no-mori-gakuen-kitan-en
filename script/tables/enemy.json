@@ -585,7 +585,7 @@
   "id": "enemy:0108:08",
   "jp": "正体不明の敵。\nカミフダに似た力で動く。\n洞の氣にあてられ、\n秋の属性を帯びている。",
   "refs": 1,
-  "en": "An unknown enemy. It moves by a\npower like ORDS's. Touched by\nthe Hollow's ki, it bears the\nAutumn element."
+  "en": "An unknown enemy. It moves by\na power like that of ORDS.\nTouched by the Hollow's ki,\nit bears the Autumn element."
  },
  {
   "id": "enemy:0109:04",
@@ -711,7 +711,7 @@
   "id": "enemy:0119:08",
   "jp": "アンジー・Ｄが隠人と化した姿。\n花札を求めて凶暴化している。\n鞭と化した指先は、特に花札の\n浸食が激しい。",
   "refs": 1,
-  "en": "Angie D turned Oni, driven wild\nby her hunger for hanafuda. Her\nwhip-like fingertips are the\nmost corroded."
+  "en": "Angie D turned Oni, driven wild\nby her hunger for hanafuda. Her\nwhip-like fingertips are the\nmost eroded."
  },
  {
   "id": "enemy:0120:04",
@@ -747,7 +747,7 @@
   "id": "enemy:0122:08",
   "jp": "筑紫信維が隠人と化した姿。《隠\n者の杖》を媒介にした為、意識を\n保っている。柳と化した後頭部は\n特に花札の浸食が激しい。",
   "refs": 1,
-  "en": "Chikushi turned Oni. The\nHermit's Staff as medium keeps\nhim lucid. His willowed nape is\nthe most corroded."
+  "en": "Chikushi turned Oni, kept lucid\nby the Hermit's Staff as medium.\nThe back of his head, now\nwillow, is the most corroded."
  },
  {
   "id": "enemy:0123:04",
@@ -819,7 +819,7 @@
   "id": "enemy:0129:08",
   "jp": "封札師として自らの力を使役する\n鬼札の化身。活性化した札の力を\n余す事なく振るう。胸元に特殊な\n力場を形成している。",
   "refs": 1,
-  "en": "The Demon Card incarnate, a Card\nSealer wielding his own power to\nthe full. A special force field\nforms at his chest."
+  "en": "Demon Card incarnate; as a Card\nSealer he wields the activated\ncard's full power. A special\nforce field forms at his chest."
  },
  {
   "id": "enemy:0130:04",
@@ -843,7 +843,7 @@
   "id": "enemy:0131:08",
   "jp": "佐波守紅緒が隠人と化した姿。\n氣の流れを自在に操る事で、花札\nに侵食されて尚、その力を自らの\n意志で余す事なく振るう。",
   "refs": 1,
-  "en": "Benio Sawakami turned Oni.\nMastering the flow of ki, she\nwields her full power by her own\nwill, though corroded."
+  "en": "Benio Sawakami turned Oni.\nMastering the flow of ki,\nshe wields her full power by\nher own will, though eroded."
  },
  {
   "id": "enemy:0133:04",
@@ -975,7 +975,7 @@
   "id": "enemy:0144:08",
   "jp": "複数の隠人の情報を取り込み、\n《大隠人》と化した傾籠。\n強化された肉体による突撃は、\n必殺の威力を持つ。",
   "refs": 1,
-  "en": "Katago, become a Great Oni by\nabsorbing the data of many Oni.\nIts charge with a stronger body\nis lethal."
+  "en": "Katago, become a Great Oni by\nabsorbing the data of many\nOni. Its charge, now backed by\na stronger body, is lethal."
  },
  {
   "id": "enemy:0145:04",
@@ -1041,13 +1041,13 @@
   "id": "enemy:0150:04",
   "jp": "元型遠呂智零號",
   "refs": 1,
-  "en": "Archetype Orochi 0"
+  "en": "Archetype Orochi #0"
  },
  {
   "id": "enemy:0150:08",
   "jp": "龍脈に巣食う隠人。\n洞を通る霊力を喰らう。\nＯＸＡＳの人工隠人は\nこの種の模倣にすぎない。",
   "refs": 1,
-  "en": "Oni nesting in the dragon vein,\neating spirit power passing the\nHollow. OXAS's man-made Oni only\ncopy it."
+  "en": "An Oni nesting in the dragon\nvein, eating spirit power that\nflows through the Hollow. OXAS's\nman-made Oni only copy it."
  },
  {
   "id": "enemy:0335:04",

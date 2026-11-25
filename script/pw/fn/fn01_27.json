@@ -3,7 +3,7 @@
   "id": "fn01_27:001:00",
   "speaker": "謎のインド人？",
   "jp": "{ruby:スワガト・ヘー|い　ら　っ　し　ゃ　い　ま　せ}！！\n魅惑のカレー{ruby:桃源郷|とうげんきょう}へ\nヨーコソゥ！！",
-  "en": "Swagat hai!! Welcome-o to the\nbewitching Curry Shangri-La!!"
+  "en": "Swagat hai!! Welcommme to the\nenchanting Curry Shangri-La!!"
  },
  {
   "id": "fn01_27:001:01",
@@ -123,7 +123,7 @@
   "id": "fn01_27:011:00",
   "speaker": "謎のインド人？",
   "jp": "んふふふ、そのクールさも\nイマノウチ、幕の内ヨ。",
-  "en": "Mmhehehe, stay cool while you can, curry-pan."
+  "en": "Mmhehehe, stay cool while you can, curry-man."
  },
  {
   "id": "fn01_27:011:01",
@@ -228,6 +228,6 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing in particular"
+  "en": "Nothing really"
  }
 ]

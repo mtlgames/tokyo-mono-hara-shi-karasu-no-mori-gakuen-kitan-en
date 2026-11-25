@@ -387,7 +387,7 @@
   "id": "questshoptext:0066:00",
   "jp": "未登録",
   "refs": 1,
-  "en": "Not Saved"
+  "en": "Unregistered"
  },
  {
   "id": "questshoptext:0067:00",
@@ -405,7 +405,7 @@
   "id": "questshoptext:0069:00",
   "jp": "登録可",
   "refs": 2,
-  "en": "Can Save"
+  "en": "Can Register"
  },
  {
   "id": "questshoptext:0070:00",
@@ -603,7 +603,7 @@
   "id": "questshoptext:0106:00",
   "jp": "あなたの依頼は\n中断されました",
   "refs": 1,
-  "en": "Your quest has\nbeen suspended."
+  "en": "Your quest was\ncanceled."
  },
  {
   "id": "questshoptext:0107:00",
@@ -837,7 +837,7 @@
   "id": "questshoptext:0145:00",
   "jp": "退魔選択",
   "refs": 1,
-  "en": "Choose Foe"
+  "en": "Choose Exorcism"
  },
  {
   "id": "questshoptext:0146:00",
@@ -849,7 +849,7 @@
   "id": "questshoptext:0147:00",
   "jp": "依頼の送信を中断しています\nそのままの状態でお待ち下さい",
   "refs": 1,
-  "en": "Canceling sending the quest. Please wait\nwithout changing anything."
+  "en": "Canceling the quest transmission.\nPlease wait without changing anything."
  },
  {
   "id": "questshoptext:0148:00",

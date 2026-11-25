@@ -69,7 +69,7 @@
   "id": "dictionary:0003:10",
   "jp": "鎌倉末期、宍戸氏が安芸守に任ぜられた\n最初の居城、柳ヶ城があった山の名。\n宍戸氏が水不足に悩まされて《五龍城》に\n移ったのは南北朝の頃とされる。",
   "refs": 1,
-  "en": "The mountain where Yanagigajo stood, the\nfirst castle of the Shishido clan when\nthey were made Governors of Aki in the\nlate Kamakura period. The Shishido are\nsaid to have moved to Goryu Castle,\ntroubled by water shortages, around the\nNorthern and Southern Courts period."
+  "en": "The mountain where Yanagigajo Castle\nstood, the first castle of the Shishido\nclan when they were made Governors of\nAki in the late Kamakura period. The\nShishido are said to have moved to Goryu\nCastle, troubled by water shortages,\naround the Northern and Southern Courts\nperiod."
  },
  {
   "id": "dictionary:0004:04",
@@ -105,7 +105,7 @@
   "id": "dictionary:0005:10",
   "jp": "一度は赦されて服従した安倍氏が再び朝廷\nと戦うきっかけになったのは、阿久利川で\nの野営中に起こった事件だった。\n\n源頼義は陸奥守の任期が終わるため、京に\n帰還しようとしていた。しかしその直前、\n頼義が阿久利川で野営中、部下が何者かに\n夜襲を受けたと報告が入る。頼義が被害を\n受けた部下の光貞に、相手が何者か心当た\nりはあるか訊ねたところ、安倍頼時の息子\nの貞任に恨みを買っていると答えた。貞任\nが光貞の妹を妻に欲しがったが、これを\n拒否したためだった。夜襲が本当に貞任の\n仕業だったのか証拠はなかったものの、\n源頼義は安倍頼時に、処刑するため貞任を\n差し出すように要求する。しかし頼時は\nいわれのない罪だとして拒否した。\n\nこうして安倍氏は再び朝廷に逆らうことに\nなり、源頼義と長く争うことになった。\nこの戦いは「前九年の役」といわれる。",
   "refs": 1,
-  "en": "The pardoned, submissive Abe clan fought\nthe court again because of an incident\nat a camp by the Akuri River.\n\nMinamoto no Yoriyoshi's term as Governor\nof Mutsu was ending, and he was about to\nreturn to Kyoto. Just before, while he\ncamped there, word came that his men had\nbeen raided at night. Asked who the\nattacker might be, his wounded retainer\nMitsusada said he had earned the grudge\nof Sadato, son of Abe no Yoritoki, by\nrefusing Sadato his sister's hand. There\nwas no proof Sadato made the raid, yet\nYoriyoshi demanded Yoritoki hand Sadato\nover for execution. Yoritoki refused,\ncalling the charge baseless.\n\nSo the Abe defied the court once more,\nin a long war with Yoriyoshi known as\nthe Former Nine Years' War."
+  "en": "The Abe clan, once pardoned and brought\nto heel, fought the court again because\nof an incident at a camp by the Akuri\nRiver.\n\nMinamoto no Yoriyoshi's term as Governor\nof Mutsu was ending, and he was about to\nreturn to Kyoto. Just before, while he\ncamped there, word came that his men had\nbeen raided at night. Asked who the\nattacker might be, his wounded retainer\nMitsusada said he had earned the grudge\nof Sadato, son of Abe no Yoritoki, by\nrefusing Sadato his sister's hand. There\nwas no proof Sadato made the raid, yet\nYoriyoshi demanded Yoritoki hand Sadato\nover for execution. Yoritoki refused,\ncalling the charge baseless.\n\nSo the Abe defied the court once more,\nin a long war with Yoriyoshi known as\nthe Former Nine Years' War."
  },
  {
   "id": "dictionary:0006:04",
@@ -159,7 +159,7 @@
   "id": "dictionary:0008:10",
   "jp": "金ヶ崎の戦いで浅井長政に裏切られた\n織田信長の怒りは相当なものだった。一度\nは撤退した信長だったが体制を整え、相手\nを浅井長政に変えて再び攻撃を開始する。\nこの合戦の舞台になったのが姉川である。\n数で勝る織田側は、十三段にわたる陣を\n敷いて鉄壁の構えをとった。ところが浅井\n側の家臣磯野員昌は、この敵陣を十一段\nまで突破する大活躍をみせた。\nしかし浅井側の援軍である朝倉義景の軍勢\nは織田側の徳川家康の軍勢により壊滅し、\n織田側の援軍に側面を攻撃された浅井側は\n敗北した。",
   "refs": 1,
-  "en": "Oda Nobunaga was furious at Azai\nNagamasa's betrayal at the Battle of\nKanegasaki. Having withdrawn once, he\nregrouped and attacked again, now\ntargeting Nagamasa. The site of this\nbattle was the Ane River. The larger Oda\narmy drew up an ironclad formation\nthirteen ranks deep, yet Azai retainer\nIsono Kazumasa broke through eleven of\nthem. But the Azai's reinforcements, the\narmy of Asakura Yoshikage, were crushed\nby Oda's ally Tokugawa Ieyasu, and the\nAzai, struck in the flank by Oda\nreinforcements, were defeated."
+  "en": "Oda Nobunaga was furious at Azai\nNagamasa's betrayal at the Battle of\nKanegasaki. Having withdrawn once, he\nregrouped and attacked again, now\ntargeting Nagamasa. The site of this\nbattle was the Ane River (Anegawa). The\nlarger Oda army drew up an ironclad\nformation thirteen ranks deep, yet Azai\nretainer Isono Kazumasa broke through\neleven of them. But the Azai's\nreinforcements, the army of Asakura\nYoshikage, were crushed by Oda's ally\nTokugawa Ieyasu, and the Azai, struck in\nthe flank by Oda reinforcements, were\ndefeated."
  },
  {
   "id": "dictionary:0009:04",
@@ -195,7 +195,7 @@
   "id": "dictionary:0010:10",
   "jp": "安倍頼良は俘囚の長で、当時は頼時という\n名だった。陸奥守の藤原登任に挑発され、\n兵を挙げて朝廷と戦うことになる。両軍は\n鬼切部で戦い、安倍氏側が勝利した。これ\nを鬼切部の戦いという。\n\n平定に失敗した朝廷は驚き、すぐに後任と\nして源頼義を派遣したが、安倍氏には大赦\nが出されることになった。安倍頼良もこれ\nを受け入れ、新たな陸奥守の源頼義と名前\nの読みが同じにならないよう頼時に変えて\n服従する姿勢を示した。\nしかし数年後、阿久利川の事件をきっかけ\nに安倍・源の両軍は戦うことになる。",
   "refs": 1,
-  "en": "Abe no Yoriyoshi, later named Yoritoki,\nwas chief of the fushu. Provoked by\nFujiwara no Narito, Governor of Mutsu,\nhe raised troops against the court. The\narmies clashed at Onikiribe and the Abe\nwon: the Battle of Onikiribe.\n\nShocked at its failure, the court\nquickly sent Minamoto no Yoriyoshi as\nsuccessor, but the Abe were granted an\namnesty. Abe no Yoriyoshi accepted it\nand, so that his name would not be read\nthe same as the new governor's, changed\nit to Yoritoki as a sign of submission.\n\nBut years later, the Akuri River\nincident led the Abe and Minamoto to\nwar."
+  "en": "Abe no Yoriyoshi, later named Yoritoki,\nwas chief of the fushu (subjugated\nEmishi). Provoked by Fujiwara no Narito,\nGovernor of Mutsu, he raised troops\nagainst the court. The armies clashed at\nOnikiribe and the Abe won: the Battle of\nOnikiribe.\n\nShocked at its failure, the court\nquickly sent Minamoto no Yoriyoshi as\nsuccessor, but the Abe were granted an\namnesty. Abe no Yoriyoshi accepted it\nand, so that his name would not be read\nthe same as the new governor's, changed\nit to Yoritoki as a sign of submission.\n\nBut years later, the Akuri River\nincident led the Abe and Minamoto to\nwar."
  },
  {
   "id": "dictionary:0011:04",
@@ -357,7 +357,7 @@
   "id": "dictionary:0019:10",
   "jp": "飛鳥・奈良時代の代表的な呪術者であり、\n《修験道》の開祖とされる。\n《賀茂氏》の血に連なるとも言われる。\n\n様々な伝説を持つ人物であり、雲に乗り\n仙人と戯れ、孔雀明王の呪法を修め、\n鬼神を自在に操ったほか、藤原氏の始祖\nとも言われる藤原鎌足の病を癒したとも\n伝えられている。",
   "refs": 1,
-  "en": "A leading sorcerer of the Asuka and Nara\nperiods, regarded as the founder of\nShugendo. Said to be of Kamo clan blood.\n\nMany legends surround him: he rode the\nclouds, sported with hermit sages,\nmastered the rites of Kujaku Myoo, and\ncommanded demon gods at will. He is also\nsaid to have cured the illness of\nFujiwara no Kamatari, said to be the\nfounder of the Fujiwara clan."
+  "en": "A leading sorcerer of the Asuka and Nara\nperiods, regarded as the founder of\nShugendo. Said to be of Kamo clan blood.\n\nMany legends surround him: he rode the\nclouds, sported with hermit sages,\nmastered the rites of Kujaku Myoo, and\ncommanded demon gods at will. He is also\nsaid to have cured the illness of\nFujiwara no Kamatari, the reputed\nfounder of the Fujiwara clan."
  },
  {
   "id": "dictionary:0020:04",
@@ -657,7 +657,7 @@
   "id": "dictionary:0036:08",
   "jp": "かもし",
   "refs": 1,
-  "en": "kamo-shi"
+  "en": "kamoshi"
  },
  {
   "id": "dictionary:0036:10",
@@ -717,7 +717,7 @@
   "id": "dictionary:0039:10",
   "jp": "都庁近くにある都立高校。\n\nその歴史は古く、校舎は築五十年を\n経過するが、諸般の事情から改築の許可が\n降りないまま、老朽化が進んでいる。",
   "refs": 1,
-  "en": "A Tokyo metropolitan high school near\nthe Metropolitan Government Building.\n\nIt has a long history: the school\nbuilding is over fifty years old, but\nfor various reasons, permission to\nrebuild has never been granted, and it\nkeeps aging."
+  "en": "A Tokyo metropolitan high school near\nTokyo City Hall.\n\nIt has a long history: the school\nbuilding is over fifty years old, but\nfor various reasons, permission to\nrebuild has never been granted, and it\nkeeps aging."
  },
  {
   "id": "dictionary:0040:04",
@@ -735,7 +735,7 @@
   "id": "dictionary:0040:10",
   "jp": "都庁の近くにある小さな神社。\n近隣に新宿の《総鎮守》である\n《熊野神社》があるため、訪れる人は\n少ない。\n\n主祭神は\n《天神玉命(アマノカムタマノミコト)》で\n現在の神主は羽鳥清司郎。\n歴史ある神社だが、その縁起の多くは失わ\nれている。",
   "refs": 1,
-  "en": "A small shrine near the Metropolitan\nGovernment Building. With Kumano Shrine,\nthe chief guardian shrine of Shinjuku,\nclose by, it has few visitors.\n\nIts chief deity is Amanokamutama no\nMikoto, and its current priest is\nSeishiro Hatori. It is a shrine with\nhistory, but most of its origin records\nhave been lost."
+  "en": "A small shrine near Tokyo City Hall.\nWith Kumano Shrine, the chief guardian\nshrine of Shinjuku, close by, it has few\nvisitors.\n\nIts chief deity is Amanokamutama no\nMikoto, and its current priest is\nSeishiro Hatori. It is a shrine with\nhistory, but most of its origin records\nhave been lost."
  },
  {
   "id": "dictionary:0041:04",
@@ -789,7 +789,7 @@
   "id": "dictionary:0043:10",
   "jp": "三国志で有名な曹操が作り上げた国。\n当時、中国で最も大きな勢力を持つ国で、\n曹操の死後子孫が皇帝となっていた。\nこの魏の国に、日本の邪馬台国から使者が\nやってきたと、魏志倭人伝には記されて\nいる。\nこの朝貢の時、卑弥呼には親魏倭王の\n証である金印や大量の銅鏡が授けられた。",
   "refs": 1,
-  "en": "The state built by Cao Cao, famed from\nthe Three Kingdoms. It was the greatest\npower in China at the time, and after\nCao Cao's death his descendants became\nemperors. The Wei Zhi's Account of the\nWa records that envoys came to Wei from\nthe Japanese land of Yamatai. On this\ntribute mission, Himiko was granted a\ngold seal proving her \"King of Wa,\nFriend of Wei,\" and many bronze mirrors."
+  "en": "The state built by Cao Cao, famed from\nthe Three Kingdoms. It was the greatest\npower in China at the time, and after\nCao Cao's death his descendants became\nemperors. The Wei Zhi's Account of the\nWa records that envoys came to Wei from\nthe Japanese land of Yamatai. On this\ntribute mission, Himiko was granted a\ngold seal naming her \"King of Wa, Friend\nof Wei,\" and many bronze mirrors."
  },
  {
   "id": "dictionary:0044:04",
@@ -1059,7 +1059,7 @@
   "id": "dictionary:0058:10",
   "jp": "立法府である国会に属する国の機関であり\n国会の立法行為を補佐する事を目的とした\n議会図書館を指す。\nまた、納本図書館として日本で唯一の国立\n図書館としての機能を兼ね、行政・司法の\n各部門、及び日本国民に対するサービスも\n行っている。\n\n施設としては、東京本館、関西館の二館を\n中央図書館とし、分館の国会分館、そして\n国立国会図書館法３条によって定められた\n支部図書館が存在する。\n入館時に館内利用カード発行が必要とされ\nまた館内の所蔵物を守るために、持ち物の\n規制も行われている。\n\n日本の民主化と世界平和に寄与することを\n設立理念としており、その確信として、\n「真理が我らを自由にする」という言葉を\n国立国会図書館法の前文に掲げている。\n\nなお、収集部特務課の本部は、東京本館の\n地下に配置されている。",
   "refs": 1,
-  "en": "A state institution belonging to the\nDiet, Japan's legislature: a\nparliamentary library meant to support\nits lawmaking. As Japan's only national\ndeposit library, it also serves the\nexecutive and judicial branches and the\npeople of Japan.\n\nIts central libraries are the Tokyo Main\nLibrary and the Kansai-kan, plus the\nDiet Branch and the branch libraries set\nby Article 3 of the NDL Law. Visitors\nneed a user card, and belongings are\nrestricted to protect the collection.\n\nFounded to aid Japan's democratization\nand world peace, it states its\nconviction, \"Truth makes us free,\" in\nthe preamble of its founding law.\n\nThe Collection Division's headquarters\nlie beneath the Tokyo Main Library."
+  "en": "A state institution belonging to the\nDiet, Japan's legislature: a\nparliamentary library meant to support\nits lawmaking. As Japan's only national\ndeposit library, it also serves the\nexecutive and judicial branches and the\npeople of Japan.\n\nIts central libraries are the Tokyo Main\nLibrary and the Kansai-kan, plus the\nDiet Branch and the branch libraries set\nby Article 3 of the National Diet\nLibrary Law. Visitors need a user card,\nand belongings are restricted to protect\nthe collection.\n\nFounded to aid Japan's democratization\nand world peace, it states its\nconviction, \"Truth makes us free,\" in\nthe preamble of its founding law.\n\nThe Collection Division's headquarters\nlie beneath the Tokyo Main Library."
  },
  {
   "id": "dictionary:0059:04",
@@ -1419,7 +1419,7 @@
   "id": "dictionary:0078:10",
   "jp": "大地の《氣》が凝縮する場所である\n龍穴を人為的に造り上げたもの。\n\n集めた《氣》を《呪言花札》に取り込み\n軍事的に利用したのが、旧陸軍による\n《人龍計画》であるとされている。",
   "refs": 1,
-  "en": "A man-made dragon lair, a place where\nthe ki of the earth gathers.\n\nThe Human Dragon Project of the old\nImperial Army is said to have drawn\ngathered ki into the Curse Hanafuda for\nmilitary use."
+  "en": "A dragon lair, where the earth's ki\ngathers, built by human hands.\n\nThe Human Dragon Project of the old\nImperial Army is said to have drawn\ngathered ki into the Curse Hanafuda for\nmilitary use."
  },
  {
   "id": "dictionary:0079:04",
@@ -1479,7 +1479,7 @@
   "id": "dictionary:0082:04",
   "jp": "神武東征",
   "refs": 1,
-  "en": "Jimmu's Eastern War"
+  "en": "Jimmu's Expedition"
  },
  {
   "id": "dictionary:0082:08",
@@ -1797,7 +1797,7 @@
   "id": "dictionary:0099:10",
   "jp": "脱亜とは、アジアの一国を抜け出して西欧\n列強に並ぼうという意識。福沢諭吉が唱え\nたといわれる。\n元々日本の歴史では、水稲伝来や卑弥呼が\n親魏倭王とされたこと、聖徳太子の時代に\n百済から仏教が入ってきたことなど、中国\nを始めとする亜細亜の文化が大きな基盤と\nなってきた。しかし明治時代、亜細亜圏の\n国々は西洋の列強国に植民地化され、ある\nいは莫大な富を吸い上げられるなど、不当\nな支配を受けていた。日本も亜細亜の一国\nに甘んじている限り、これらの支配から\n逃れることはできない。唯一、自ら西洋に\n学び、列強国と並ぶことが日本を守る方法\nだと考えられた。",
   "refs": 1,
-  "en": "Datsua, \"leaving Asia,\" was the idea of\nbreaking away from being just one Asian\ncountry to stand with the Western\npowers. Yukichi Fukuzawa is said to have\nproposed it. Through Japanese history,\nthe culture of China and the rest of\nAsia had been a great foundation, from\nthe arrival of rice farming and Himiko's\ntitle of Wa Queen Friendly to Wei to\nBuddhism coming from Baekje in Prince\nShotoku's time. But in the Meiji era,\nAsian countries were unjustly ruled by\nthe Western powers, colonized or drained\nof vast wealth. As long as Japan stayed\njust another Asian country, it could not\nescape such rule. Learning from the West\nto stand alongside the powers was seen\nas the only way to protect Japan."
+  "en": "Datsua, \"leaving Asia,\" was the idea of\nbreaking away from being just one Asian\ncountry to stand with the Western\npowers. Yukichi Fukuzawa is said to have\nproposed it. Through Japanese history,\nthe culture of China and the rest of\nAsia had been a great foundation, from\nthe arrival of rice farming and Himiko's\ntitle \"King of Wa, Friend of Wei\" to\nBuddhism coming from Baekje in Prince\nShotoku's time. But in the Meiji era,\nAsian countries were unjustly ruled by\nthe Western powers, colonized or drained\nof vast wealth. As long as Japan stayed\njust another Asian country, it could not\nescape such rule. Learning from the West\nto stand alongside the powers was seen\nas the only way to protect Japan."
  },
  {
   "id": "dictionary:0100:04",
@@ -2097,7 +2097,7 @@
   "id": "dictionary:0117:04",
   "jp": "長屋王の変",
   "refs": 1,
-  "en": "Prince Nagaya Plot"
+  "en": "Nagaya Incident"
  },
  {
   "id": "dictionary:0117:08",
@@ -2163,7 +2163,7 @@
   "id": "dictionary:0120:10",
   "jp": "《神武東征》において、大和地方の\n豪族・長髄彦が奉じる神として登場する。\n長髄彦の敗北の折、神武天皇に下った。\n祭祀を司る物部氏の祖神とされている。",
   "refs": 1,
-  "en": "In the tale of Jimmu's Eastern War, he\nappears as the god worshipped by\nNagasunehiko, a chieftain of Yamato.\nWhen Nagasunehiko was defeated, he\nsubmitted to Emperor Jimmu. He is held\nto be the ancestral god of the Mononobe\nclan, who oversaw rites."
+  "en": "In the tale of Jimmu's Eastern\nExpedition, he appears as the god\nworshipped by Nagasunehiko, a chieftain\nof Yamato. When Nagasunehiko was\ndefeated, he submitted to Emperor Jimmu.\nHe is held to be the ancestral god of\nthe Mononobe clan, who oversaw rites."
  },
  {
   "id": "dictionary:0121:04",
@@ -2253,7 +2253,7 @@
   "id": "dictionary:0126:04",
   "jp": "判官",
   "refs": 1,
-  "en": "Hogan"
+  "en": "Hangan"
  },
  {
   "id": "dictionary:0126:08",
@@ -2265,7 +2265,7 @@
   "id": "dictionary:0126:10",
   "jp": "判官贔屓の元になった言葉。源義経を指し\nていて、九郎判官義経のことである。\n源平の戦いで、最終的に平氏を滅ぼすなど\n功績を残した源義経だが、出世に関しては\n兄の頼朝に冷遇され続け、最期には非業の\n死を遂げている。\n\n判官という官位は検非違使少尉で、数々の\n武功を挙げているのに任官のなかった義経\nに対して、後白河法皇が独自に与えた官位\nである。\nしかしこの任官が結果的に頼朝を怒らせ、\n義経に対してさらに理不尽な仕打ちを行わ\nせることになる。\n\nこの境遇をみて、民衆の心情は義経に\n同情的になり、これを判官贔屓というよう\nになった。",
   "refs": 1,
-  "en": "The word behind hogan-biiki, \"siding\nwith the Hogan.\" It refers to Kuro Hogan\nYoshitsune, Minamoto no Yoshitsune.\nThough he achieved much in the Genpei\nWar, finally destroying the Taira, his\nbrother Yoritomo kept him from\nadvancement, and in the end he met a\ntragic death.\n\nThe rank of hogan, a lieutenant of the\nimperial police, was granted on his own\nby Retired Emperor Go-Shirakawa to\nYoshitsune, who had won many feats in\nbattle yet received no post. But the\nappointment angered Yoritomo and led him\nto treat Yoshitsune even more unjustly.\n\nSeeing his plight, the people came to\nsympathize with Yoshitsune, and this\ncame to be called hogan-biiki."
+  "en": "The word behind hangan-biiki, \"siding\nwith the Hangan.\" It refers to Kuro\nHangan Yoshitsune, Minamoto no\nYoshitsune. Though he achieved much in\nthe Genpei War, finally destroying the\nTaira, his brother Yoritomo kept him\nfrom advancement, and in the end he met\na tragic death.\n\nThe rank of hangan, a lieutenant of the\nimperial police, was granted on his own\nby Retired Emperor Go-Shirakawa to\nYoshitsune, who had won many feats in\nbattle yet received no post. But the\nappointment angered Yoritomo and led him\nto treat Yoshitsune even more unjustly.\n\nSeeing his plight, the people came to\nsympathize with Yoshitsune, and this\ncame to be called hangan-biiki."
  },
  {
   "id": "dictionary:0127:04",
@@ -2403,7 +2403,7 @@
   "id": "dictionary:0134:08",
   "jp": "ふうさつしにんていしけん",
   "refs": 1,
-  "en": "Card Sealer Nintei Shiken"
+  "en": "Card Sealer Exam"
  },
  {
   "id": "dictionary:0134:10",
@@ -2505,7 +2505,7 @@
   "id": "dictionary:0140:04",
   "jp": "藤原四子",
   "refs": 1,
-  "en": "Four Fujiwara Sons"
+  "en": "Fujiwara Brothers"
  },
  {
   "id": "dictionary:0140:08",
@@ -2607,7 +2607,7 @@
   "id": "dictionary:0146:04",
   "jp": "文明開化",
   "refs": 1,
-  "en": "Civilization Drive"
+  "en": "Meiji Enlightenment"
  },
  {
   "id": "dictionary:0146:08",
@@ -2871,7 +2871,7 @@
   "id": "dictionary:0160:10",
   "jp": "日本武尊（ヤマトタケル）は、景行天皇の\n子として生まれた。幼名は小碓命（おうす\nのみこと）という。\n\n乱暴物だった小碓命は、熊襲の討伐を命じ\nられる。小碓命は叔母から女物の服を\nもらい、少女に化けて熊襲建に近づく。\n計略通り熊襲建を討ったとき、武勇を称え\nられ日本武尊の名をもらう。\n西の蛮族を平定して戻った日本武尊は、\nすぐに東の蛮族を討伐するように命じられ\n再び旅立つ。そこで日本武尊は騙されて、\n草原で火攻めにされてしまう。しかし伊勢\nで受け取っていた天叢雲剣で草を薙ぎ、\n火打石で逆に敵を焼き殺す。これを機に、\n神器の天叢雲剣は「草薙の剣」と呼ばれる\nようになった。\nその後も日本武尊は蛮族を平定して回った\nが、伊吹の神を退治しに行ったとき、草薙\nの剣を置いてきてしまい、神の化身である\n白い猪に大敗してしまう。\n日本武尊は傷も癒えぬまま旅を続け、大和\nに戻る前に力尽きて死んだ。日本武尊は\n死後、白鳥に姿を変え、故郷の大和に\n向かって飛んでいったという。",
   "refs": 1,
-  "en": "Son of Emperor Keiko, first named Osu no\nMikoto. The violent Osu was ordered to\nsubdue the Kumaso. Dressed as a girl in\nhis aunt's clothes, he got close to\nKumaso Takeru, slew him as planned, and\nwas named Yamato Takeru for his valor.\nBack from the west, he was sent at once\nto the east. Tricked, he was trapped in\na grass fire, but he cut the grass with\nAma-no-Murakumo, a sword he got at Ise,\nand burned his foes with a fire striker.\nThe sword was then called Kusanagi, the\nGrass Cutter. He went on subduing\ntribes, but went to fight the god of\nIbuki without Kusanagi and was routed by\nthe god as a white boar. Still wounded,\nhe died before reaching Yamato, and it\nis said he became a white bird and flew\nhome."
+  "en": "Son of Emperor Keiko, first\nnamed Osu no Mikoto. The\nviolent Osu was ordered to\nsubdue the Kumaso. Dressed as a\ngirl in his aunt's clothes, he\ngot close to Kumaso Takeru,\nslew him as planned, and was\nnamed Yamato Takeru for his\nvalor. Back from the west, he\nwas sent at once to the east.\nTricked, he was trapped in a\ngrass fire, but he cut the\ngrass with Ama-no-Murakumo, a\nsword he got at Ise, and burned\nhis foes with a fire striker.\nThe sword was then called\nKusanagi, the Grass Cutter. He\nwent on subduing tribes, but\nwent to fight the god of Ibuki\nwithout Kusanagi and was routed\nby the god, who took the form\nof a white boar. Still wounded,\nhe died before reaching Yamato,\nand it is said he became a\nwhite bird and flew home."
  },
  {
   "id": "dictionary:0161:04",
@@ -2889,7 +2889,7 @@
   "id": "dictionary:0161:10",
   "jp": "斎庭穂とは、天照大神より賜った稲穂の\nことである。\n\n日本書紀などに記された日本の神話では、\n神々が住まう高天原よりこの地に\n天照大神の孫が移り住んだとき、稲穂を\n授かったとある。\n\n斎庭とは、天照大神が稲作をするための、\n高天原にある聖なる水田だった。天照大神\nの孫であるニニギは、地上に移り住むとき\nにこの斎庭で育てられた稲穂を授かり、\n地上にこれを植えて食物とするように命じ\nられた。\nこれを「斎庭の穂の神勅」という。",
   "refs": 1,
-  "en": "Yuniwa no ho are ears of rice granted by\nAmaterasu.\n\nJapanese myth, as told in the Nihon\nShoki and elsewhere, says that when\nAmaterasu's grandson came down to this\nland from Takamagahara, home of the\ngods, he was given ears of rice.\n\nThe yuniwa was a sacred paddy in\nTakamagahara where Amaterasu grew rice.\nHer grandson Ninigi, on moving to the\nearth, received rice grown in the yuniwa\nand was ordered to plant it there as\nfood. This is called the Divine Decree\nof the Yuniwa Rice."
+  "en": "Yuniwa no Ho are ears of rice granted by\nAmaterasu.\n\nJapanese myth, as told in the Nihon\nShoki and elsewhere, says that when\nAmaterasu's grandson came down to this\nland from Takamagahara, home of the\ngods, he was given ears of rice.\n\nThe yuniwa was a sacred paddy in\nTakamagahara where Amaterasu grew rice.\nHer grandson Ninigi, on moving to the\nearth, received rice grown in the yuniwa\nand was ordered to plant it there as\nfood. This is called the Divine Decree\nof the Yuniwa Rice."
  },
  {
   "id": "dictionary:0162:04",
@@ -2955,7 +2955,7 @@
   "id": "dictionary:0165:10",
   "jp": "秋に咲く代表的な花の一つ。釣鐘型の花を\n茎の先に上向きにいくつも咲かせるが、\n群生せず一本ずつ咲く。\n\n根が胆汁の様に苦く、特別強い苦みのため\n最上級を表す龍の字を冠したと言われる。\n\n花言葉は「悲しんでいるあなたを愛す」。",
   "refs": 1,
-  "en": "A classic autumn flower. Its bell-shaped\nblossoms bloom facing up, several at the\ntip of each stem, but it grows one stalk\nat a time rather than in clusters.\n\nIts name means \"dragon gall\": the root\nis as bitter as bile, and it is said to\nbear the character for dragon, marking\nthe very highest grade, for its\nespecially strong bitterness.\n\nIn the language of flowers, it means \"I\nlove you when you are sad.\""
+  "en": "A classic autumn flower. Its bell-shaped\nblossoms bloom facing up, several at the\ntip of each stem, but it grows singly\nrather than in clusters.\n\nIts name means \"dragon gall\": the root\nis as bitter as bile, and it is said to\nbear the character for dragon, marking\nthe very highest grade, for its\nespecially strong bitterness.\n\nIn the language of flowers, it means \"I\nlove you when you are sad.\""
  },
  {
   "id": "dictionary:0166:04",

@@ -17,8 +17,9 @@ import tables  # noqa: E402
 from source import members  # noqa: E402
 
 # Japanese in table pools that no text pointer reaches: SSCR AI / skill / dungeon-trigger script node labels (dev
-# names, guess: never drawn; the marker build shows any that are), binary noise, one orphan duplicate in obj.
-UNCOVERED = {"dungeonuimoya": 1, "enemy": 6, "enemyai": 1391, "obj": 1, "questvoice": 6, "skill": 247,
+# names, guess: never drawn; the marker build shows any that are), binary noise. (The "orphan duplicate" in obj was
+# obj:0817:04 猪牙の印章, a live item name whose IBM-extension 猪 FB5E doesn't round-trip: found by release.py jp.)
+UNCOVERED = {"dungeonuimoya": 1, "enemy": 6, "enemyai": 1391, "questvoice": 6, "skill": 247,
              "d00scr": 162, "d01scr": 180, "d02scr": 116, "d03scr": 184, "d04scr": 135, "d05scr": 124,
              "d06scr": 142, "d07scr": 176, "d08scr": 116, "d09scr": 120, "d100scr": 133, "d101scr": 118,
              "d102scr": 101, "d103scr": 101, "d10scr": 105, "d11scr": 109, "d12scr": 219, "d13scr": 142,
@@ -76,7 +77,8 @@ def test_tables_roundtrip_and_coverage():
             r, col = int(x["id"].split(":")[1]), int(x["id"].split(":")[2], 16)
             size = int.from_bytes(csvb.chunks(b)["Info"][:2], "little")
             p = int.from_bytes(t[r * size + col:r * size + col + 4], "little")
-            assert t[p:p + len(x["jp"].encode("cp932")) + 1] == x["jp"].encode("cp932") + b"\0", (path, x)
+            raw = bytes.fromhex(x["raw"]) if "raw" in x else x["jp"].encode("cp932")
+            assert t[p:p + len(raw) + 1] == raw + b"\0", (path, x)
         st = extract.stem(path)
         assert len(tables.uncovered(b)) == UNCOVERED.get(st, 0), path
         seen.add(st)
@@ -89,9 +91,10 @@ def test_eboot_strings():
     ss = eboot_text.strings(d)
     for x in ss:
         raw = x["jp"].encode(x["enc"])
-        assert d[x["off"]:x["off"] + len(raw) + 1] == raw + b"\0" and d[x["off"] - 1] == 0
+        assert d[x["off"]:x["off"] + len(raw) + 1] == raw + b"\0"
+        assert d[x["off"] - 1] == 0 or x["off"] in eboot_text.ROW_START
         assert x["slot"] > len(raw)
-    assert len(ss) == 1258  # 1255 + eboot_text.LONE (瞬 円 装)
+    assert len(ss) == 1259  # 1255 + eboot_text.LONE (瞬 円 装) + ROW_START (保持する)
 
 
 def test_merge_keeps_translations():

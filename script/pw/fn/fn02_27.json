@@ -3,13 +3,13 @@
   "id": "fn02_27:001:00",
   "speaker": "カルパタル",
   "jp": "{ruby:スワガト・ヘー|い　ら　っ　し　ゃ　い　ま　せ}！！\n魅惑のカレー{ruby:桃源郷|とうげんきょう}へ\nヨーコソゥ！！",
-  "en": "Swagat hai-- welcome, welcome!! To the\nenchanting Curry Shangri-La, wel-come-o!!"
+  "en": "Swagat hai!! Welcommme to the\nenchanting Curry Shangri-La!!"
  },
  {
   "id": "fn02_27:002:00",
   "speaker": "カルパタル",
   "jp": "アチャー！\nまた来たでゴザルか。\nお客サンも好きねェ。",
-  "en": "Acha! Back again, are you, it is so?\nMister Customer, you sure do love it here."
+  "en": "Acha! Back again, are you? Mister\nCustomer, you sure do love it here."
  },
  {
   "id": "fn02_27:004:00",
@@ -45,7 +45,7 @@
   "id": "fn02_27:004:05",
   "speaker": "カルパタル",
   "jp": "友好の証に飲み物サービス！！\nささ、何にするでゴザルか？",
-  "en": "A free drink as proof of our friendship!!\nCome, come, what will you have, it is so?"
+  "en": "A free drink as proof of our friendship!!\nCome, come, what will you have?"
  },
  {
   "id": "fn02_27:005:00",
@@ -123,7 +123,7 @@
   "id": "fn02_27:010:00",
   "speaker": "カルパタル",
   "jp": "さてさて、まだ何か\nご用はあるでゴザルかー？",
-  "en": "Well, well, is there anything else you need, it is so?"
+  "en": "Well, well, is there anything else you need?"
  },
  {
   "id": "fn02_27:011:00",
@@ -156,7 +156,7 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing"
+  "en": "Nothing really"
  },
  {
   "id": "fn02_27:ksf:01b89",
@@ -240,7 +240,7 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing"
+  "en": "Nothing really"
  },
  {
   "id": "fn02_27:ksf:06e81",
@@ -254,6 +254,6 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing"
+  "en": "Nothing really"
  }
 ]

@@ -3,7 +3,7 @@
   "id": "fn09_27:001:00",
   "speaker": "カルパタル",
   "jp": "{ruby:スワガト・ヘー|い　ら　っ　し　ゃ　い　ま　せ}！！\n魅惑のカレー{ruby:桃源郷|とうげんきょう}へ\nヨーコソゥ！！",
-  "en": "Swagat hai!! Welcome-o to the\nbewitching Curry Shangri-La!!"
+  "en": "Swagat hai!! Welcommme to the\nenchanting Curry Shangri-La!!"
  },
  {
   "id": "fn09_27:002:00",
@@ -159,7 +159,7 @@
   "id": "fn09_27:015:03",
   "speaker": "カルパタル",
   "jp": "スターを失い嘆く方々の為にも\n今日も邁進、カレー道！",
-  "en": "For those who mourn the star they lost,\ntoday too I forge ahead on the Way of Curry!"
+  "en": "For those who mourn the star they lost, today\ntoo Kal-san forges ahead on the Way of Curry!"
  },
  {
   "id": "fn09_27:016:00",
@@ -198,7 +198,7 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing"
+  "en": "Nothing really"
  },
  {
   "id": "fn09_27:ksf:01b89",
@@ -254,7 +254,7 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing"
+  "en": "Nothing really"
  },
  {
   "id": "fn09_27:ksf:0a469",
@@ -268,6 +268,6 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing"
+  "en": "Nothing really"
  }
 ]

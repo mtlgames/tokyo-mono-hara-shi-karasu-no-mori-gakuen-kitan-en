@@ -3,7 +3,7 @@
   "id": "ms07_00:000:00",
   "kind": "caption",
   "jp": "寇聖高校―――夜",
-  "en": "Kosei High -- Night"
+  "en": "Kosei High--Night"
  },
  {
   "id": "ms07_00:000:01",
@@ -27,7 +27,7 @@
   "id": "ms07_00:000:04",
   "speaker": "弾けるような声",
   "jp": "抵抗は無駄だヨ、オカシラ。\n光札の力は知ってるデショ？",
-  "en": "Resistance is useless, Boss. You know\nthe power of a Bright Card, ne?"
+  "en": "Resistance is useless, Boss. You know\nthe power of a Bright card, ne?"
  },
  {
   "id": "ms07_00:000:05",
@@ -135,7 +135,7 @@
   "id": "ms07_00:001:00",
   "kind": "caption",
   "jp": "羽鳥家居間―――朝",
-  "en": "Hatori Home, Living Room -- Morning"
+  "en": "Hatori Home, Living Room--Morning"
  },
  {
   "id": "ms07_00:003:00",
@@ -633,7 +633,7 @@
   "id": "ms07_00:036:00",
   "kind": "caption",
   "jp": "鴉羽神社境内―――",
-  "en": "Karasuba Shrine Grounds --"
+  "en": "Karasuba Shrine Grounds--"
  },
  {
   "id": "ms07_00:036:01",
@@ -1041,7 +1041,7 @@
   "id": "ms07_00:060:00",
   "speaker": "鈴",
   "jp": "はいです。\n{px}がお困りなら、\nすずがお守りするです。",
-  "en": "Yes. If {px} is in\ntrouble, Suzu will protect you."
+  "en": "Yes. If you're ever in trouble,\n{px}, Suzu will protect you."
  },
  {
   "id": "ms07_00:060:01",
@@ -1515,7 +1515,7 @@
   "id": "ms07_00:093:00",
   "speaker": "久榮",
   "jp": "ふふん、いまのは\nなかなかよかったぞ。",
-  "en": "Hmph, that one was pretty good."
+  "en": "Heh, that one was pretty good."
  },
  {
   "id": "ms07_00:093:01",
@@ -1569,7 +1569,7 @@
   "id": "ms07_00:099:00",
   "kind": "caption",
   "jp": "司書室―――",
-  "en": "Librarian's Office --"
+  "en": "Librarian's Office--"
  },
  {
   "id": "ms07_00:099:01",
@@ -1731,7 +1731,7 @@
   "id": "ms07_00:110:00",
   "speaker": "久榮",
   "jp": "{px}、\nキミは知っているか？",
-  "en": "{px}, have you heard of it?"
+  "en": "{px}, have you heard of him?"
  },
  {
   "id": "ms07_00:111:00",
@@ -1779,7 +1779,7 @@
   "id": "ms07_00:113:02",
   "speaker": "久榮",
   "jp": "政府の出した神仏分離令で\n習合された神仏を無理に別けて\n失われた縁起も多い。",
-  "en": "Many shrine histories were lost when the\ngovernment's separation order forcibly split apart\nShinto gods and buddhas that had been merged."
+  "en": "Many shrine histories were lost when the\ngovernment's separation order forcibly split apart\nthe gods and buddhas that had been merged."
  },
  {
   "id": "ms07_00:113:03",
@@ -2007,7 +2007,7 @@
   "id": "ms07_00:125:02",
   "speaker": "蒐",
   "jp": "くふ、お導き。",
-  "en": "Kufu, it's guidance."
+  "en": "Kufu. Must be fate."
  },
  {
   "id": "ms07_00:125:03",
@@ -2031,7 +2031,7 @@
   "id": "ms07_00:126:00",
   "kind": "caption",
   "jp": "３－２教室―――",
-  "en": "Class 3-2 --"
+  "en": "Class 3-2--"
  },
  {
   "id": "ms07_00:126:01",
@@ -2667,7 +2667,7 @@
   "id": "ms07_00:168:00",
   "speaker": "久榮",
   "jp": "……まあ、\n信頼されているようだから\nよしとするか。",
-  "en": "...Well, seems she trusts you, so I'll let it slide."
+  "en": "...Well, seems you trust me, so I'll take it."
  },
  {
   "id": "ms07_00:169:00",
@@ -2769,7 +2769,7 @@
   "id": "ms07_00:178:04",
   "speaker": "巴",
   "jp": "あたしたちが騒いで\n事を大きくしたら、\n羽鳥先生に悪いわ。",
-  "en": "If we make a fuss and blow this\nup, it'd be unfair to Hatori-sensei."
+  "en": "If we make a fuss and blow this up, it'd\nonly make things harder for Hatori-sensei."
  },
  {
   "id": "ms07_00:178:05",
@@ -3063,7 +3063,7 @@
   "id": "ms07_00:198:03",
   "speaker": "巴",
   "jp": "だから友達は多いけど、\nいままではその、広く浅く\nだったっていうか……。",
-  "en": "So she has lots of friends, but until now it's\nbeen, like, a lot of friends but none really close..."
+  "en": "So she has lots of friends, but until\nnow it's been, like... all on the surface..."
  },
  {
   "id": "ms07_00:198:04",
@@ -3195,7 +3195,7 @@
   "id": "ms07_00:208:02",
   "speaker": "巴",
   "jp": "いままで何だかんだ言ったって\n弥紀の一番はあたしだと\n思ってたから……。",
-  "en": "Whatever anyone said, I always thought I\nwas the number one person in Minori's life..."
+  "en": "When all's said and done, I always\nthought I was Minori's number one..."
  },
  {
   "id": "ms07_00:208:03",
@@ -3321,7 +3321,7 @@
   "id": "ms07_00:210:07",
   "speaker": "弥紀",
   "jp": "うん……ちょっとね。",
-  "en": "Yeah... it's just something."
+  "en": "Yeah... just a little something."
  },
  {
   "id": "ms07_00:210:08",
@@ -3495,7 +3495,7 @@
   "id": "ms07_00:222:02",
   "speaker": "長英",
   "jp": "―――ハッ！！",
-  "en": "--Huh!!"
+  "en": "--Ah!!"
  },
  {
   "id": "ms07_00:222:03",
@@ -3633,7 +3633,7 @@
   "id": "ms07_00:233:01",
   "speaker": "長英",
   "jp": "お気持ちに応えられるよう、\n特訓開始じゃあ！！",
-  "en": "Time to start special trainin' so\nI can live up to your feelings!!"
+  "en": "Time to start special trainin' so I can\nlive up to what you're hopin' for!!"
  },
  {
   "id": "ms07_00:234:00",
@@ -3663,7 +3663,7 @@
   "id": "ms07_00:237:00",
   "speaker": "長英",
   "jp": "はッ……！！",
-  "en": "Huh...!!"
+  "en": "Ah...!!"
  },
  {
   "id": "ms07_00:237:01",
@@ -3693,7 +3693,7 @@
   "id": "ms07_00:239:00",
   "speaker": "長英",
   "jp": "はッ……！！",
-  "en": "Huh...!!"
+  "en": "Ah...!!"
  },
  {
   "id": "ms07_00:239:01",
@@ -3723,7 +3723,7 @@
   "id": "ms07_00:241:00",
   "speaker": "長英",
   "jp": "はッ……！！",
-  "en": "Huh...!!"
+  "en": "Ah...!!"
  },
  {
   "id": "ms07_00:241:01",
@@ -3825,7 +3825,7 @@
   "id": "ms07_00:243:06",
   "speaker": "弥紀",
   "jp": "うん……ちょっとね。",
-  "en": "Yeah... it's just something."
+  "en": "Yeah... just a little something."
  },
  {
   "id": "ms07_00:243:07",
@@ -4137,7 +4137,7 @@
   "id": "ms07_00:263:01",
   "speaker": "蒐",
   "jp": "……の、はず。",
-  "en": "...Probably, should be."
+  "en": "...Or at least, it should be."
  },
  {
   "id": "ms07_00:264:00",
@@ -4239,7 +4239,7 @@
   "id": "ms07_00:266:06",
   "speaker": "弥紀",
   "jp": "うん……ちょっとね。",
-  "en": "Yeah... it's just something."
+  "en": "Yeah... just a little something."
  },
  {
   "id": "ms07_00:266:07",
@@ -4551,7 +4551,7 @@
   "id": "ms07_00:288:03",
   "speaker": "白",
   "jp": "其方と出会ってから、\n経験した事のない事態\nばかりが起こりよるわ。",
-  "en": "Since meeting you, I have known nothing\nbut things I never experienced before."
+  "en": "Since meeting you, nothing but things I have\nnever before experienced have befallen me."
  },
  {
   "id": "ms07_00:288:04",
@@ -4641,7 +4641,7 @@
   "id": "ms07_00:289:07",
   "speaker": "弥紀",
   "jp": "うん……ちょっとね。",
-  "en": "Yeah... it's just something."
+  "en": "Yeah... just a little something."
  },
  {
   "id": "ms07_00:289:08",
@@ -5019,7 +5019,7 @@
   "id": "ms07_00:312:01",
   "speaker": "燈治",
   "jp": "パンまだ\n残ってりゃいいがな……。\nよし、行こうぜッ。",
-  "en": "Hope there's still some bread left... All right, let's go."
+  "en": "Hope they still got some buns left... All right, let's go."
  },
  {
   "id": "ms07_00:312:02",
@@ -5049,7 +5049,7 @@
   "id": "ms07_00:312:06",
   "speaker": "弥紀",
   "jp": "うん……ちょっとね。",
-  "en": "Yeah... it's just something."
+  "en": "Yeah... just a little something."
  },
  {
   "id": "ms07_00:312:07",

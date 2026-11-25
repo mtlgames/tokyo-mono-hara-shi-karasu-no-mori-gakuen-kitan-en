@@ -21,7 +21,7 @@
   "id": "fd02_29:004:01",
   "speaker": "購買のおばちゃん",
   "jp": "しかも元気な子ォ揃いの\n剣道部の子ばっかやろ？\n昼が寂しいてかなわんよ。",
-  "en": "And they're all from the kendo club,\nwhere every kid's so full of pep, right?\nLunchtime's so lonely, I can't stand it."
+  "en": "And they're all from the kendo club,\nwhere every kid's so full of pep, right?\nLunchtime's awful quiet without 'em."
  },
  {
   "id": "fd02_29:004:02",
@@ -72,7 +72,7 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing"
+  "en": "Nothing really"
  },
  {
   "id": "fd02_29:ksf:01b89",
@@ -128,7 +128,7 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing"
+  "en": "Nothing really"
  },
  {
   "id": "fd02_29:ksf:040b9",
@@ -142,6 +142,6 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing"
+  "en": "Nothing really"
  }
 ]

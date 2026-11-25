@@ -399,7 +399,7 @@
   "id": "enemydb:0043:04",
   "jp": "立派な錦鯉が隠人となったもの。錦鯉の\n面影を残しつつも、空を舞う龍のようにも\n見える。鯉の滝登りという言葉がある\nように、鯉は滝を登りきると龍になると\nいう伝説がある。",
   "refs": 1,
-  "en": "A splendid koi turned Oni. It still\nlooks like a koi, yet also like a dragon\nsoaring through the sky. As the saying\nof the koi climbing the falls goes,\nlegend says a koi that scales a\nwaterfall becomes a dragon."
+  "en": "A splendid koi turned Oni. It\nstill looks like a koi, yet also\nlike a dragon soaring through the\nsky. Legend says a koi that climbs\na waterfall becomes a dragon."
  },
  {
   "id": "enemydb:0043:08",
@@ -627,7 +627,7 @@
   "id": "enemydb:0108:04",
   "jp": "陰陽師などが使用する式神に似た敵。\n自立行動しているのか、術者の姿は\n周囲に見当たらない。\n仮初めの存在のため周囲の氣を受けやすく、\n洞にあてられ秋の属性を帯びている。",
   "refs": 1,
-  "en": "A foe resembling the shikigami used by\nonmyoji. It may act on its own, as no\ncaster is seen nearby. Being a temporary\nbeing, it easily absorbs the ki around\nit, and the Hollow has given it the\nautumn attribute."
+  "en": "A foe resembling the shikigami used by\nonmyoji. It may act on its own, as no\ncaster is seen nearby. As a fleeting\nexistence, it easily absorbs the ki\naround it, and the Hollow has given it\nthe autumn attribute."
  },
  {
   "id": "enemydb:0108:08",
@@ -639,7 +639,7 @@
   "id": "enemydb:0109:04",
   "jp": "宍戸長英が花札《菊に青短》の浸食を受け\n隠人と化した姿。札の情報力によって進化\nした司箭貫心流剣術を用いる。\n大きく踏み込んで放つ斬撃の他、刀身に溜\nめた氣で、相手を吹き飛ばす程の威力を持\nった突きを得意とする。",
   "refs": 1,
-  "en": "Nagahide Shishido turned Oni, corroded\nby the Chrysanthemum Blue Ribbon card.\nHe uses Shisen Kanshin-ryu swordplay\nevolved by card data. Besides lunging\nslashes, he excels at a ki-charged\nthrust that blows foes away."
+  "en": "Nagahide Shishido turned Oni, eroded\nby the Chrysanthemum Blue Ribbon card.\nHe uses Shisen Kanshin-ryu swordplay\nevolved by card data. Besides lunging\nslashes, he excels at a ki-charged\nthrust that blows foes away."
  },
  {
   "id": "enemydb:0109:08",
@@ -741,7 +741,7 @@
   "id": "enemydb:0118:04",
   "jp": "鹿島御霧が花札《紅葉に鹿》の浸食を受け\n入れ隠人と化した姿。\n札の情報干渉によって本来の射法は失われ\n力任せの射撃を行い、時には矢で斬りつけ\nてくる。札の力を込めた声は、特殊な振動\n域をもって相手を傷つける。",
   "refs": 1,
-  "en": "Migiri Kashima turned Oni, accepting the\nMaple and Deer card's corrosion. Card\ndata stole his true archery, so he\nshoots by brute force and even slashes\nwith arrows. His card-charged voice\nwounds with special vibrations."
+  "en": "Migiri Kashima turned Oni, accepting\nthe Maple and Deer card's erosion.\nCard data stole his true archery, so\nhe shoots by brute force and even\nslashes with arrows. His card-charged\nvoice wounds with special vibrations."
  },
  {
   "id": "enemydb:0118:08",
@@ -753,7 +753,7 @@
   "id": "enemydb:0119:04",
   "jp": "アンジー・Ｄが花札《牡丹に蝶》の浸食を\n受け入れ隠人と化した姿。\n札の情報干渉により、身体を作り変えられ\n鞭すらその身の一部となった。強烈な鞭の\n一撃に加え、背の羽から降り注ぐ鱗粉は、\n触れるもの全てを蝕む大きな脅威となる。",
   "refs": 1,
-  "en": "Angie D turned Oni, accepting the Peony\nand Butterflies card's corrosion. Card\ndata reshaped her body, making even her\nwhip part of it. Besides fierce lashes,\nthe scales raining from her wings eat\naway at all they touch."
+  "en": "Angie D turned Oni, accepting the\nPeony and Butterflies card's erosion.\nCard data reshaped her body, making\neven her whip part of it. Besides\nfierce lashes, the scales raining from\nher wings eat away at all they touch."
  },
  {
   "id": "enemydb:0119:08",
@@ -843,7 +843,7 @@
   "id": "enemydb:0127:08",
   "jp": "月舟（モモンガ）",
   "refs": 1,
-  "en": "Tsukifune"
+  "en": "Squirrel Tsukifune"
  },
  {
   "id": "enemydb:0128:00",
@@ -867,7 +867,7 @@
   "id": "enemydb:0129:04",
   "jp": "封札師としての力を得た《鬼札》の化身。\n隠者の刻印を通して《鬼札》の情報を一部\n完全に具現化させる。\n構築された情報は距離を問わず襲いかかる\nだけではなく、自らを構成する情報の修復\nすら可能とする。",
   "refs": 1,
-  "en": "Incarnation of the Demon Card, given a\nCard Sealer's power. Through the\nHermit's Mark, he fully manifests part\nof the Demon Card's data. The data he\nbuilds strikes at any range, and can\neven repair his own."
+  "en": "Incarnation of the Demon Card, given a\nCard Sealer's power. Through the\nHermit's Mark, he fully manifests part\nof the Demon Card's data. The data he\nbuilds strikes at any range, and can\neven repair the data that forms him."
  },
  {
   "id": "enemydb:0130:00",
@@ -885,7 +885,7 @@
   "id": "enemydb:0131:04",
   "jp": "佐波守紅緒が花札《梅に鴬》の浸食を受け\n入れ隠人と化した姿。待ちの剣から転じて\n苛烈で息つく暇を与えぬ連撃を繰り出す。\n札の情報干渉により、身体を作り変えられ\n刀すらその身の一部となった。右手の羽は\n鋭利な刃としてすべてを切り刻む。",
   "refs": 1,
-  "en": "Benio Sawakami turned Oni, accepting the\nPlum and Warbler card's corrosion. Her\nwaiting sword turns to fierce,\nrelentless combos. Card data made her\nsword part of her body. Her right-hand\nwing shreds all like a blade."
+  "en": "Benio Sawakami turned Oni, accepting\nthe Plum and Warbler card's erosion.\nHer waiting sword turns to fierce,\nrelentless combos. Card data made her\nsword part of her body. Her right-hand\nwing shreds all like a blade."
  },
  {
   "id": "enemydb:0131:08",
@@ -897,7 +897,7 @@
   "id": "enemydb:0133:04",
   "jp": "神すらも内包し、真理を追究する者。\n花札の力を持たぬ代わりに、最良の効率で\n破壊を産む術を知る叡智の持ち主。\n体内に巡る氣を自在に操り、勁術を持って\n撃ち出される打撃は鋼をも容易く砕き、大\n地をも揺るがす。",
   "refs": 1,
-  "en": "One who holds even gods within, seeking\nthe truth. Lacking hanafuda power, he\nknows how to wreak destruction at peak\nefficiency. Moving his inner ki at will,\nhis keijutsu-driven blows shatter steel\nand shake the earth."
+  "en": "One who holds even gods within, seeking\nthe truth. Lacking hanafuda power, he\nknows how to wreak destruction at peak\nefficiency. He moves his inner ki at\nwill; his keijutsu-driven blows shatter\nsteel and shake the earth."
  },
  {
   "id": "enemydb:0133:08",
@@ -987,7 +987,7 @@
   "id": "enemydb:0139:04",
   "jp": "人間社会で共有される理とは次元の違う\n理に属する超存在。もともと情報体だった\nため特定の能力を介さないとアクセス\nできなかったが、花札が持つ情報を\n実体化させる力を利用することで、\n現世に姿を現した。",
   "refs": 1,
-  "en": "A super-being of a law on a different\nplane from the one human society shares.\nOnce pure data reachable only through\nspecial powers, it used the hanafuda's\npower to make data real and appeared in\nthis world."
+  "en": "A super-being bound by laws on a\ndifferent plane from those human\nsociety shares. Once pure data\nreachable only through special powers,\nit used the hanafuda's power to make\ndata real and appeared in this world."
  },
  {
   "id": "enemydb:0139:08",

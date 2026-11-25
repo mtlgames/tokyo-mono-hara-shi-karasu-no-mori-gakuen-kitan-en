@@ -51,7 +51,7 @@
   "id": "dg13_03:003:01",
   "speaker": "白",
   "jp": "……此度の執行者は\nよほど札と相性が\n良いようじゃな。",
-  "en": "...This Executor must be most\nunusually well matched with the cards."
+  "en": "...The Executor of this age must be most\nunusually well matched with the cards."
  },
  {
   "id": "dg13_03:003:02",
@@ -81,7 +81,7 @@
   "id": "dg13_03:003:06",
   "speaker": "零",
   "jp": "原理は力の《解放》と同じだ。",
-  "en": "The principle is the same as Release."
+  "en": "It works on the same principle\nas the Release of power."
  },
  {
   "id": "dg13_03:003:07",
@@ -477,7 +477,7 @@
   "id": "dg13_03:020:00",
   "speaker": "いちる",
   "jp": "うん！！\nバッチリ任せてッ！！",
-  "en": "Yeah!! Leave it to me, totally!!"
+  "en": "Yeah!! Leave it to me, I've got this!!"
  },
  {
   "id": "dg13_03:020:01",
@@ -567,7 +567,7 @@
   "id": "dg13_03:034:01",
   "speaker": "輪",
   "jp": "今日はマスターが\nご馳走だって言ってた！\n{px}も来いよなッ！！",
-  "en": "The Master said he's making a feast today!\nYou're comin' too, {px}!!"
+  "en": "Master said he's making a feast today!\nYou're comin' too, {px}!!"
  },
  {
   "id": "dg13_03:036:00",
@@ -627,7 +627,7 @@
   "id": "dg13_03:044:01",
   "speaker": "アンジー",
   "jp": "{px}と一緒なら、\nきっと、最後には\n笑える気がするヨ！",
-  "en": "As long as I'm with {px}, I\nfeel like we'll surely be smiling at the end!"
+  "en": "As long as I am with {px}, I\nfeel we will surely be smiling at the end, no?"
  },
  {
   "id": "dg13_03:046:00",

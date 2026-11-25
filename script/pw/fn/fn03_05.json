@@ -39,7 +39,7 @@
   "id": "fn03_05:003:01",
   "speaker": "長英",
   "jp": "わしの指導力不足での。\n栄えある伝統に泥をつけて\nしもうた……。",
-  "en": "'Twas my lack of leadership. I've gone and\ndragged our proud tradition through the mud..."
+  "en": "It was my lack o' leadership. I've gone and\ndragged our proud tradition through the mud..."
  },
  {
   "id": "fn03_05:003:02",
@@ -75,7 +75,7 @@
   "id": "fn03_05:005:00",
   "speaker": "長英",
   "jp": "ほうじゃな、{px}に\n言うてもろうたんじゃ。",
-  "en": "That's right, {px}\nwent an' said it to me."
+  "en": "Aye, I heard it straight from {px}!"
  },
  {
   "id": "fn03_05:005:01",
@@ -111,7 +111,7 @@
   "id": "fn03_05:007:00",
   "speaker": "長英",
   "jp": "{px}に\n言うてもらうんじゃ。",
-  "en": "{px} said it to me."
+  "en": "I heard it straight from {px}!"
  },
  {
   "id": "fn03_05:007:01",

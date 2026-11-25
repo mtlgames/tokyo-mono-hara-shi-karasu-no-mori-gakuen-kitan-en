@@ -15,7 +15,7 @@
   "id": "questwordpkill:0000:1c",
   "jp": "女性との愛情を深めます",
   "refs": 1,
-  "en": "Deepens love with girls."
+  "en": "Raises the girls'\naffection."
  },
  {
   "id": "questwordpkill:0000:24",
@@ -75,7 +75,7 @@
   "id": "questwordpkill:0002:1c",
   "jp": "男性との友情を深めます",
   "refs": 1,
-  "en": "Deepens friendship\nwith boys."
+  "en": "Raises the boys'\nfriendship."
  },
  {
   "id": "questwordpkill:0002:24",
@@ -99,7 +99,7 @@
   "id": "questwordpkill:0003:04",
   "jp": "交通安全の儀",
   "refs": 1,
-  "en": "Safe Travels"
+  "en": "Travel Rite"
  },
  {
   "id": "questwordpkill:0003:1c",
@@ -135,13 +135,13 @@
   "id": "questwordpkill:0004:1c",
   "jp": "ランダムで学科値が\n上がります（１話のみ）",
   "refs": 1,
-  "en": "Random school stat up\n(this chapter only)"
+  "en": "Random subject up\n(this chapter only)"
  },
  {
   "id": "questwordpkill:0004:28",
   "jp": "ランダム学科値＋１",
   "refs": 1,
-  "en": "Random school stat +1"
+  "en": "Random subject +1"
  },
  {
   "id": "questwordpkill:0005:00",
@@ -153,7 +153,7 @@
   "id": "questwordpkill:0005:04",
   "jp": "延命長寿の儀",
   "refs": 1,
-  "en": "Long Life"
+  "en": "Life Rite"
  },
  {
   "id": "questwordpkill:0005:1c",
@@ -177,7 +177,7 @@
   "id": "questwordpkill:0006:04",
   "jp": "商売繁盛の儀",
   "refs": 1,
-  "en": "Prosperity"
+  "en": "Trade Rite"
  },
  {
   "id": "questwordpkill:0006:1c",
@@ -333,7 +333,7 @@
   "id": "questwordpkill:0012:04",
   "jp": "無病息災の儀",
   "refs": 1,
-  "en": "Good Health"
+  "en": "Health Rite"
  },
  {
   "id": "questwordpkill:0012:1c",

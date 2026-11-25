@@ -3,7 +3,7 @@
   "id": "ms03_01:002:00",
   "kind": "caption",
   "jp": "３－２教室―――放課後",
-  "en": "Classroom 3-2--After School"
+  "en": "Class 3-2--After School"
  },
  {
   "id": "ms03_01:002:01",
@@ -255,7 +255,7 @@
   "id": "ms03_01:006:11",
   "speaker": "巴",
   "jp": "何でも金持ちのボンボンの\n道楽だって話なんだけど……\nとにかく凄腕らしいわ。",
-  "en": "The story goes it's just a hobby for some rich kid...\nbut anyway, they're supposed to be really good."
+  "en": "The story goes it's just a hobby for\nsome rich family's boy... but anyway,\nhe's supposed to be really good."
  },
  {
   "id": "ms03_01:006:12",
@@ -807,7 +807,7 @@
   "id": "ms03_01:020:09",
   "speaker": "小柄な人物",
   "jp": "くッ……\nオマエ、タダモノじゃないな！！",
-  "en": "Ngh... You're no ordinary person!!"
+  "en": "Ngh... You're not just anybody, are you!!"
  },
  {
   "id": "ms03_01:020:10",
@@ -1017,7 +1017,7 @@
   "id": "ms03_01:031:03",
   "speaker": "巴",
   "jp": "高校一年―――！？",
-  "en": "First year of high school--!?"
+  "en": "A high school first-year--!?"
  },
  {
   "id": "ms03_01:031:04",
@@ -1059,7 +1059,7 @@
   "id": "ms03_01:031:10",
   "kind": "caption",
   "jp": "喫茶店―――",
-  "en": "The Cafe--"
+  "en": "Cafe--"
  },
  {
   "id": "ms03_01:031:11",
@@ -1131,7 +1131,7 @@
   "id": "ms03_01:033:02",
   "speaker": "目つきの鋭い女性",
   "jp": "友人としての証言か？\nならばまずは疑ってかかるのが\n定石だ。",
-  "en": "Testifying as his friend? Then standard\nprocedure is to start by doubting you."
+  "en": "Testifying as his friend? Then standard\nprocedure is to start by doubting it."
  },
  {
   "id": "ms03_01:034:00",
@@ -1635,7 +1635,7 @@
   "id": "ms03_01:050:18",
   "kind": "caption",
   "jp": "喫茶店―――",
-  "en": "The Cafe--"
+  "en": "Cafe--"
  },
  {
   "id": "ms03_01:050:19",
@@ -2139,7 +2139,7 @@
   "id": "ms03_01:072:12",
   "speaker": "燈治",
   "jp": "……相変わらず\n気配のねェジイさんだぜ。",
-  "en": "...Old man moves without a sound, same as ever."
+  "en": "...Geezer sneaks up without a sound again."
  },
  {
   "id": "ms03_01:072:13",
@@ -2565,7 +2565,7 @@
   "id": "ms03_01:090:01",
   "speaker": "絢人",
   "jp": "暑苦しいのは苦手なんだ。",
-  "en": "I'm no good with stuffy closeness."
+  "en": "I can't abide anything so stifling."
  },
  {
   "id": "ms03_01:091:00",
@@ -2577,7 +2577,7 @@
   "id": "ms03_01:092:00",
   "speaker": "絢人",
   "jp": "おやおや、この程度の事も\nわからない情報屋が、\n君たちのお望みだったかい？",
-  "en": "Oh my, was it an informant who can't figure\nout even this much that you were hoping for?"
+  "en": "Oh my, would you rather have an informant\nwho couldn't work out even this much?"
  },
  {
   "id": "ms03_01:093:00",
@@ -3171,7 +3171,7 @@
   "id": "ms03_01:109:06",
   "speaker": "絢人",
   "jp": "誰が始めに呼んだか知らないが\nそれが―――東京ＢＭさ。",
-  "en": "I don't know who coined the name\nfirst, but they call it--Tokyo BM."
+  "en": "I don't know who coined the\nname first, but that's--Tokyo BM."
  },
  {
   "id": "ms03_01:109:07",
@@ -3813,7 +3813,7 @@
   "id": "ms03_01:117:27",
   "speaker": "絢人",
   "jp": "保管場所から花札を奪い、\n厳重に施されていたはずの\n封を解いた者がいる。",
-  "en": "Someone stole the hanafuda from their\nvault and broke the seal that should\nhave been placed so securely upon them."
+  "en": "Someone stole the hanafuda from their vault and\nbroke the seal that should have held them fast."
  },
  {
   "id": "ms03_01:117:28",
@@ -4427,7 +4427,7 @@
   "kind": "choice",
   "jp": "花札のことを話す",
   "slot": 30,
-  "en": "Tell about the hanafuda"
+  "en": "Talk about the hanafuda"
  },
  {
   "id": "ms03_01:ksf:42810",

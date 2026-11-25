@@ -27,7 +27,7 @@
   "id": "questwordcomment:0004:00",
   "jp": "（特別に無料の場合もあります）",
   "refs": 1,
-  "en": "(Sometimes it's specially free.)"
+  "en": "(Sometimes it's free, as a special.)"
  },
  {
   "id": "questwordcomment:0006:00",
@@ -177,13 +177,13 @@
   "id": "questwordcomment:0037:00",
   "jp": "「カミフダを置く（～の陣）」",
   "refs": 1,
-  "en": "\"Place ORDS cards (Array of...)\""
+  "en": "\"Place cards (Array of...)\""
  },
  {
   "id": "questwordcomment:0038:00",
   "jp": "の３種類があります。",
   "refs": 1,
-  "en": "and that's all 3 types."
+  "en": "-- those are the 3 ways."
  },
  {
   "id": "questwordcomment:0040:00",

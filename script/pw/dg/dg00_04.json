@@ -171,7 +171,7 @@
   "id": "dg00_04:011:02",
   "speaker": "いちる",
   "jp": "あたしは{px}と\n雉明クンに会えて、\n初めてそう思えたから。",
-  "en": "Meeting you and Chiaki-kun, {px},\nis the first time I ever felt that way."
+  "en": "Meeting you, {px}, and Chiaki-kun\nwas the first time I ever felt that way."
  },
  {
   "id": "dg00_04:011:03",
@@ -201,7 +201,7 @@
   "id": "dg00_04:012:02",
   "speaker": "零",
   "jp": "もしも……次があるなら\nおれも少しは、きみの―――",
-  "en": "If... there is a next time, perhaps\nI could be a little of your--"
+  "en": "If... there is a next time, perhaps I,\ntoo, could be your-- if only a little--"
  },
  {
   "id": "dg00_04:012:03",
@@ -369,7 +369,7 @@
   "id": "dg00_04:017:02",
   "speaker": "いちる",
   "jp": "さんきゅ！\n支えてくれて助かったよ！",
-  "en": "Thankies! You really saved me by catching me!"
+  "en": "Thanks a bunch! You really\nsaved me by catching me!"
  },
  {
   "id": "dg00_04:018:00",
@@ -682,13 +682,13 @@
   "kind": "choice",
   "jp": "いちるを支える",
   "slot": 30,
-  "en": "Steady Ichiru"
+  "en": "Catch Ichiru"
  },
  {
   "id": "dg00_04:ksf:07efe",
   "kind": "choice",
   "jp": "いちるを支えない",
   "slot": 30,
-  "en": "Don't steady Ichiru"
+  "en": "Don't catch Ichiru"
  }
 ]

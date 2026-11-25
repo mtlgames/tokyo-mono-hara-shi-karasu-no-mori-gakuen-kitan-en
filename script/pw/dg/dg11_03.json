@@ -375,7 +375,7 @@
   "id": "dg11_03:014:09",
   "speaker": "白",
   "jp": "{ruby:此奴|こやつ}の何を信じておる？\n此奴が自分を\n殺してくれる事をか？",
-  "en": "What is it you believe of him?\nThat he will kill you for you?"
+  "en": "What is it you believe of him? That he\nwill do you the kindness of killing you?"
  },
  {
   "id": "dg11_03:014:10",
@@ -627,7 +627,7 @@
   "id": "dg11_03:019:08",
   "speaker": "紅緒",
   "jp": "{px}……。\n貴方の唯一に、\n迷いはなかったのですね。",
-  "en": "{px}... There was no\ndoubt in your one and only, was there?"
+  "en": "{px}... You never wavered\nover your one and only, did you?"
  },
  {
   "id": "dg11_03:019:09",
@@ -1053,7 +1053,7 @@
   "id": "dg11_03:030:01",
   "speaker": "紅緒",
   "jp": "あ……その、すみません。\n少し、見惚れていました。",
-  "en": "Ah... Um, I'm sorry. I was\nstaring at you for a moment."
+  "en": "Ah... Um, I'm sorry. I was...\na little lost, looking at you."
  },
  {
   "id": "dg11_03:030:02",
@@ -1233,7 +1233,7 @@
   "id": "dg11_03:043:00",
   "speaker": "朝子",
   "jp": "……あなたが頑張ったから、\nこの《いま》がある。",
-  "en": "...Because you worked so hard, we have this \"now.\""
+  "en": "...Because you worked so hard, we have this Now."
  },
  {
   "id": "dg11_03:043:01",
@@ -1251,7 +1251,7 @@
   "id": "dg11_03:045:00",
   "speaker": "朝子",
   "jp": "……あなたが頑張ったから、\nこの《いま》がある。",
-  "en": "...Because you worked so hard, we have this \"now.\""
+  "en": "...Because you worked so hard, we have this Now."
  },
  {
   "id": "dg11_03:045:01",
@@ -1263,7 +1263,7 @@
   "id": "dg11_03:046:00",
   "speaker": "朝子",
   "jp": "……あなたが頑張ったから、\nこの《いま》がある。",
-  "en": "...Because you worked so hard, we have this \"now.\""
+  "en": "...Because you worked so hard, we have this Now."
  },
  {
   "id": "dg11_03:046:01",

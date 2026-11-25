@@ -63,7 +63,7 @@
   "id": "fn03_27:007:01",
   "speaker": "カルパタル",
   "jp": "作り手に笑顔がなくて、\nどうして人に\n笑顔を与えられようか！",
-  "en": "If the cook has no smile, how\ncan he give a smile to others!"
+  "en": "If the cook has no smile, how\ncan he give a smile to others!?"
  },
  {
   "id": "fn03_27:008:00",
@@ -183,7 +183,7 @@
   "id": "fn03_27:015:01",
   "speaker": "カルパタル",
   "jp": "方向性は定まったでゴザル！\n更なるカレーの極みに向けて\nネコまっしぐらでゴザルよ！！",
-  "en": "My direction is set, verily! Toward\nthe ultimate curry, Kal-san will make\na beeline like a cat to its dinner!!"
+  "en": "Kal-san's direction is set, verily! Toward the\nultimate curry, a beeline like a cat to its dinner!!"
  },
  {
   "id": "fn03_27:016:00",
@@ -257,7 +257,7 @@
   "kind": "choice",
   "jp": "やめる",
   "slot": 30,
-  "en": "Cancel"
+  "en": "Never mind"
  },
  {
   "id": "fn03_27:ksf:09aff",

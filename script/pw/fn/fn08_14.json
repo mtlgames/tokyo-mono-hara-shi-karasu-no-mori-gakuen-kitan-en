@@ -9,7 +9,7 @@
   "id": "fn08_14:001:01",
   "speaker": "絢人",
   "jp": "マスターも……流石だね。\nまさに昔取った杵柄かな。",
-  "en": "The master, too... impressive as ever.\nOld skills never fade, I suppose."
+  "en": "The Master, too... impressive as ever.\nOld skills never fade, I suppose."
  },
  {
   "id": "fn08_14:001:02",
@@ -33,7 +33,7 @@
   "id": "fn08_14:001:05",
   "speaker": "絢人",
   "jp": "{px}。\n君も、ぶたれてみないかい？",
-  "en": "{px}. Wouldn't you\nlike to try being slapped too?"
+  "en": "{px}. Wouldn't\nyou like to try getting hit too?"
  },
  {
   "id": "fn08_14:002:00",
@@ -165,6 +165,6 @@
   "id": "fn08_14:013:00",
   "speaker": "絢人",
   "jp": "さて、今度の依頼人は\nぶってくれるかな……。",
-  "en": "Now then, I wonder if my next client will slap me..."
+  "en": "Now then, I wonder if my next client will hit me..."
  }
 ]

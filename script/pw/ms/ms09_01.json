@@ -3,7 +3,7 @@
   "id": "ms09_01:000:00",
   "kind": "caption",
   "jp": "新宿街路―――昼",
-  "en": "Shinjuku Streets -- Daytime"
+  "en": "Shinjuku Streets--Daytime"
  },
  {
   "id": "ms09_01:000:01",
@@ -21,7 +21,7 @@
   "id": "ms09_01:000:03",
   "speaker": "巴",
   "jp": "生徒会メンバーの事なら\n心配無用よ。この程度の\n荒事には慣れてるし。",
-  "en": "If you mean the student council members, no need\nto worry. They're used to rough stuff at this level."
+  "en": "If you mean the student council members, no need\nto worry. They're used to this kind of rough stuff."
  },
  {
   "id": "ms09_01:000:04",
@@ -1107,7 +1107,7 @@
   "id": "ms09_01:049:03",
   "speaker": "輪",
   "jp": "じゃ、ない……。",
-  "en": "...is not what this is..."
+  "en": "...is not the word for this..."
  },
  {
   "id": "ms09_01:049:04",
@@ -1503,7 +1503,7 @@
   "id": "ms09_01:066:09",
   "speaker": "燈治",
   "jp": "単に{px}の力や\n{ruby:持ちもん|・・・・}を狙ってる訳じゃ\nなさそうだが……。",
-  "en": "Doesn't look like he's just after\n{px}'s power or stuff, but..."
+  "en": "Doesn't look like he's just after the power or\nthe goods {px}'s carrying, but..."
  },
  {
   "id": "ms09_01:066:10",
@@ -1641,7 +1641,7 @@
   "id": "ms09_01:074:06",
   "speaker": "燈治",
   "jp": "……あいつ、\n何で俺のアドレス\n知ってんだ？",
-  "en": "...How the hell does she know my address?"
+  "en": "...How the hell does she know my email?"
  },
  {
   "id": "ms09_01:075:00",
@@ -1755,7 +1755,7 @@
   "id": "ms09_01:079:01",
   "speaker": "いちる",
   "jp": "あ、確かに！\nあの謎のインド人なら、\nきっと色々知ってるはず……。",
-  "en": "Oh, you're right! That mysterious Indian\nman is sure to know all kinds of things..."
+  "en": "Oh, you're right! That Mysterious Indian\nMan is sure to know all kinds of things..."
  },
  {
   "id": "ms09_01:079:02",
@@ -1989,7 +1989,7 @@
   "id": "ms09_01:088:05",
   "speaker": "いちる",
   "jp": "さすが、\n謎のインド人……。",
-  "en": "That's the mysterious Indian man for you..."
+  "en": "That's the Mysterious Indian Man for you..."
  },
  {
   "id": "ms09_01:089:00",
@@ -2133,7 +2133,7 @@
   "id": "ms09_01:096:07",
   "speaker": "アンジー",
   "jp": "軍人だのサムライだのって\n言われてるキレ者だヨ。",
-  "en": "A sharp one, people call him a soldier, a samurai."
+  "en": "A sharp one. People call him a soldier, a samurai."
  },
  {
   "id": "ms09_01:097:00",
@@ -2355,7 +2355,7 @@
   "id": "ms09_01:106:02",
   "speaker": "カルパタル",
   "jp": "まあこの程度、\n謎のインド人には\n当然のタシナミでゴザルね。",
-  "en": "Well, for a mysterious Indian man, this\nmuch is but a basic accomplishment, verily."
+  "en": "Well, for a Mysterious Indian Man, this\nmuch is but a basic accomplishment, verily."
  },
  {
   "id": "ms09_01:106:03",
@@ -2367,7 +2367,7 @@
   "id": "ms09_01:106:04",
   "speaker": "カルパタル",
   "jp": "丁度先週の、{ruby:徐|おもむろ}！カレー塾主催\n激辛フェンネル杯の会場で\n猫耳に挟んだでゴザル。",
-  "en": "Just last week, at the Super-Spicy Fennel\nCup hosted by the Slowly! Curry\nAcademy, Kal-san caught wind of it, verily."
+  "en": "Just last week, at the Super-Spicy Fennel\nCup hosted by the Slowly! Curry Academy,\nKal-san's kitty ears overheard it, verily."
  },
  {
   "id": "ms09_01:106:05",
@@ -2451,7 +2451,7 @@
   "id": "ms09_01:106:18",
   "speaker": "燈治",
   "jp": "……あいつ、\n何で俺のアドレス\n知ってんだ？",
-  "en": "...How the hell does she know my address?"
+  "en": "...How the hell does she know my email?"
  },
  {
   "id": "ms09_01:107:00",
@@ -2517,7 +2517,7 @@
   "id": "ms09_01:109:05",
   "speaker": "カルパタル",
   "jp": "……若さとは、\n何物にも代えがたい\n宝である―――か。",
-  "en": "...Youth is a treasure that nothing can replace--is it?"
+  "en": "...Youth is a treasure that nothing\ncan replace--or so they say."
  },
  {
   "id": "ms09_01:109:06",
@@ -2613,7 +2613,7 @@
   "id": "ms09_01:114:03",
   "speaker": "道佳",
   "jp": "……なァんだ。\n残念ね、結構イイ線\n行ってるのに☆",
-  "en": "...Oh, is that all? What a shame,\nyou're actually pretty close~"
+  "en": "...Oh, is that all? What a shame,\nyou were really pulling it off~"
  },
  {
   "id": "ms09_01:115:00",
@@ -2649,7 +2649,7 @@
   "id": "ms09_01:116:03",
   "speaker": "道佳",
   "jp": "あら……なァんだ。\n残念ね、結構イイ線\n行ってるのに☆",
-  "en": "Oh... is that all? What a shame,\nyou're actually pretty close~"
+  "en": "Oh... is that all? What a shame,\nyou were really pulling it off~"
  },
  {
   "id": "ms09_01:117:00",
@@ -2733,7 +2733,7 @@
   "id": "ms09_01:123:00",
   "speaker": "要",
   "jp": "確かに、好きでしとる事を\nうちがとやかく言う筋合いと\n違う言うんはわかります。",
-  "en": "Granted, I understand it's not my place to\ncriticize what you do because you like it."
+  "en": "Granted, I understand it's not my place to\ncriticize what you choose to do for fun."
  },
  {
   "id": "ms09_01:123:01",
@@ -3321,7 +3321,7 @@
   "id": "ms09_01:149:01",
   "speaker": "道佳",
   "jp": "……じゃなかった。\nミカみゅんのパパンはね、\nＪＥＭＡの参考人をしてるの。",
-  "en": "...I mean, Mikamyun's papa,\nworks as a consultant for JEMA."
+  "en": "...I mean, Mikamyun's papa works\nas a consultant for JEMA."
  },
  {
   "id": "ms09_01:149:02",
@@ -3699,7 +3699,7 @@
   "id": "ms09_01:149:64",
   "speaker": "燈治",
   "jp": "ふ……ざっけんな！！\n何だそりゃあ！！",
-  "en": "Th-...The hell with that!! What kinda crap is that!!"
+  "en": "Screw... screw that!! What kinda crap is that!!"
  },
  {
   "id": "ms09_01:149:65",
@@ -5373,7 +5373,7 @@
   "id": "ms09_01:216:10",
   "speaker": "弥紀",
   "jp": "うん、よおし！\n行こう、{px}。",
-  "en": "Okay, here we go! Let's go, {px}."
+  "en": "Okay, here goes! Come on, {px}."
  },
  {
   "id": "ms09_01:216:11",
@@ -5877,7 +5877,7 @@
   "id": "ms09_01:237:02",
   "speaker": "輪",
   "jp": "助けに来たぞッ、\n無事か、{px}！",
-  "en": "I came to save you! You okay, {px}?!"
+  "en": "I came to save you! You okay, {px}!?"
  },
  {
   "id": "ms09_01:238:00",
@@ -5889,7 +5889,7 @@
   "id": "ms09_01:238:01",
   "speaker": "輪",
   "jp": "……そりゃ、{px}と\nボクの仲だけどさッ。",
-  "en": "...I mean, sure, that's just how it is\nwith {px} and me."
+  "en": "...I mean, sure, {px}\nand me are tight and all."
  },
  {
   "id": "ms09_01:239:00",
@@ -6776,7 +6776,7 @@
   "id": "ms09_01:293:01",
   "speaker": "英雄",
   "jp": "さあ、\nトゥギャザー・ミー！！",
-  "en": "Come now, together with me!!"
+  "en": "Come now--together me!!"
  },
  {
   "id": "ms09_01:294:00",
@@ -6896,13 +6896,13 @@
   "id": "ms09_01:300:00",
   "speaker": "アンジー",
   "jp": "{px}に、ミンナ……\nそれにオカシラもいるって\n聞いたからネ。",
-  "en": "I heard {px} and\neveryone... and the Boss too were here."
+  "en": "I heard {px} and\neveryone... and the Boss were here too."
  },
  {
   "id": "ms09_01:300:01",
   "speaker": "アンジー",
   "jp": "女幹部としても\n放っておけないヨ！",
-  "en": "As the gang's lady officer, I\ncannot leave you alone either!"
+  "en": "As the gang's lady executive, I\ncannot leave you alone either!"
  },
  {
   "id": "ms09_01:300:02",
@@ -7034,13 +7034,13 @@
   "id": "ms09_01:306:00",
   "speaker": "アンジー",
   "jp": "{px}に、ミンナ……\nそれにオカシラもいるって\n聞いたからネ。",
-  "en": "I heard {px} and\neveryone... and the Boss too were here."
+  "en": "I heard {px} and\neveryone... and the Boss were here too."
  },
  {
   "id": "ms09_01:306:01",
   "speaker": "アンジー",
   "jp": "女幹部としても\n放っておけないヨ！",
-  "en": "As the gang's lady officer, I\ncannot leave you alone either!"
+  "en": "As the gang's lady executive, I\ncannot leave you alone either!"
  },
  {
   "id": "ms09_01:306:02",
@@ -7256,7 +7256,7 @@
   "id": "ms09_01:317:01",
   "speaker": "燈治",
   "jp": "俺は―――信じてるぜ。\n俺の相棒を、よ。",
-  "en": "Me--I believe. In my partner."
+  "en": "Me? I believe--in my partner."
  },
  {
   "id": "ms09_01:318:00",
@@ -7286,7 +7286,7 @@
   "id": "ms09_01:319:01",
   "speaker": "燈治",
   "jp": "俺は―――信じてるぜ。\n俺の相棒を、よ。",
-  "en": "Me--I believe. In my partner."
+  "en": "Me? I believe--in my partner."
  },
  {
   "id": "ms09_01:320:00",
@@ -7304,7 +7304,7 @@
   "id": "ms09_01:321:00",
   "speaker": "義王",
   "jp": "オイオイオイオイ！\nそんな小難しいツラするような\n事態じゃねーだろ。",
-  "en": "Whoa whoa whoa whoa! This ain't\nthe time for that complicated face."
+  "en": "Whoa whoa whoa whoa! This ain't the\ntime to be makin' such a serious face."
  },
  {
   "id": "ms09_01:321:01",
@@ -7892,7 +7892,7 @@
   "id": "ms09_01:348:14",
   "speaker": "白い学生服の男",
   "jp": "我が呼び声に応じ\nよくぞ来た。",
-  "en": "You answered my call. Well done for coming."
+  "en": "You have done well to answer my call."
  },
  {
   "id": "ms09_01:348:15",
@@ -8498,7 +8498,7 @@
   "id": "ms09_01:381:00",
   "speaker": "野太い声",
   "jp": "やめときな、刑事さん。",
-  "en": "I'd quit while you're ahead, Detective."
+  "en": "I'd leave it there, Detective."
  },
  {
   "id": "ms09_01:382:00",
@@ -8510,7 +8510,7 @@
   "id": "ms09_01:382:01",
   "speaker": "野太い声",
   "jp": "やめときな、刑事さん。",
-  "en": "I'd quit while you're ahead, Detective."
+  "en": "I'd leave it there, Detective."
  },
  {
   "id": "ms09_01:383:00",

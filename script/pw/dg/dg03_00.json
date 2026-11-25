@@ -15,7 +15,7 @@
   "id": "dg03_00:001:00",
   "speaker": "絢人",
   "jp": "ふッ……。\n光栄だよ、{ruby:封札師|・・・}くん。",
-  "en": "Heh... I'm honored, Card Sealer-kun."
+  "en": "Heh... I'm honored, Mr. Card Sealer."
  },
  {
   "id": "dg03_00:002:00",
@@ -153,7 +153,7 @@
   "id": "dg03_00:011:04",
   "speaker": "輪",
   "jp": "{ruby:旋火流忍|せんかりゅうしのび}―――\n{ruby:日向|ひむかい}　{ruby:輪|りん}、{ruby:推参|すいさん}ッ！！",
-  "en": "Senka-ryu ninja-- Rin Himukai, at your service!!"
+  "en": "Senka-ryu ninja-- Rin Himukai has arrived!!"
  },
  {
   "id": "dg03_00:011:05",
@@ -249,7 +249,7 @@
   "id": "dg03_00:012:00",
   "speaker": "輪",
   "jp": "返してもらうぞ、\nこの、泥棒猫ッ！！",
-  "en": "I'm taking them back, you thieving cat!!"
+  "en": "I'm taking them back, you sneaky thief!!"
  },
  {
   "id": "dg03_00:013:00",

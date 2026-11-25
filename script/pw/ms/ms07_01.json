@@ -99,7 +99,7 @@
   "id": "ms07_01:011:00",
   "speaker": "燈治",
   "jp": "茫然自失かよ……。",
-  "en": "Totally spaced out, huh..."
+  "en": "Totally stunned, huh..."
  },
  {
   "id": "ms07_01:014:00",
@@ -141,7 +141,7 @@
   "id": "ms07_01:014:06",
   "speaker": "朝子",
   "jp": "それが\n届けが出てないのよ。",
-  "en": "That's the thing. She never turned in a notice."
+  "en": "That's the thing. She never\nturned in an early-leave form."
  },
  {
   "id": "ms07_01:014:07",
@@ -777,7 +777,7 @@
   "id": "ms07_01:050:04",
   "speaker": "燈治",
   "jp": "お前はちょっと落ち着けって！\nッたく、物騒だな……。",
-  "en": "You need to calm down a little! Jeez, you're scary..."
+  "en": "You need to calm down a little!\nJeez, talk about dangerous..."
  },
  {
   "id": "ms07_01:050:05",
@@ -837,7 +837,7 @@
   "id": "ms07_01:052:01",
   "speaker": "柄の悪い男子生徒",
   "jp": "おい、そっちいたか！？",
-  "en": "Hey, he over there!?"
+  "en": "Hey, any sign of him over there!?"
  },
  {
   "id": "ms07_01:052:02",
@@ -1052,7 +1052,7 @@
   "id": "ms07_01:062:04",
   "speaker": "英雄",
   "jp": "むッ！？\nいま何か言ったかねッ？\n声が小さくて聞こえないぞッ！？",
-  "en": "Hm!? Did you say something just now?\nYour voice is too small, I can't hear you!?"
+  "en": "Hm!? Did you say something just now?\nYou're too quiet, I can't hear you!?"
  },
  {
   "id": "ms07_01:062:05",
@@ -1537,7 +1537,7 @@
   "id": "ms07_01:088:00",
   "speaker": "義王",
   "jp": "テメェ……\nこのオレ様をそんな目で\n見るんじゃ―――",
-  "en": "You... Don't you look at the\ngreat me with those eyes--"
+  "en": "You... Don't you look at the great me like that--"
  },
  {
   "id": "ms07_01:089:00",
@@ -1573,7 +1573,7 @@
   "id": "ms07_01:094:00",
   "speaker": "義王",
   "jp": "テメェ……\nこのオレ様をそんな目で\n見るんじゃ―――",
-  "en": "You... Don't you look at the\ngreat me with those eyes--"
+  "en": "You... Don't you look at the great me like that--"
  },
  {
   "id": "ms07_01:095:00",
@@ -1693,7 +1693,7 @@
   "id": "ms07_01:100:07",
   "speaker": "巴",
   "jp": "あたしたちもこれから向かう\nところだし、あそこのマスター\nなら大丈夫だと思うわ。",
-  "en": "We were headed there anyway, and I\nthink the Master there will be fine with it."
+  "en": "We were headed there anyway, and I\nthink we can trust the Master there."
  },
  {
   "id": "ms07_01:100:08",
@@ -2341,7 +2341,7 @@
   "id": "ms07_01:130:06",
   "speaker": "巴",
   "jp": "初めから\n何も変わらないわ。",
-  "en": "Nothing's changed from the start."
+  "en": "That's how it's been from the start."
  },
  {
   "id": "ms07_01:130:07",
@@ -2359,7 +2359,7 @@
   "id": "ms07_01:130:09",
   "speaker": "富樫",
   "jp": "……見ていろ、\nあのタヌキ共めッ。",
-  "en": "...Just you watch, you sly old badgers."
+  "en": "...Just you watch, you sly old foxes."
  },
  {
   "id": "ms07_01:130:10",
@@ -2377,7 +2377,7 @@
   "id": "ms07_01:130:12",
   "speaker": "燈治",
   "jp": "へッ、あんまり頑張られちゃ\nお前もやべェんじゃねェのか？",
-  "en": "Heh, if she gives it too much,\nwon't you be in trouble too?"
+  "en": "Heh, if she tries too hard,\nain't that bad news for you?"
  },
  {
   "id": "ms07_01:130:13",
@@ -2869,7 +2869,7 @@
   "id": "ms07_01:163:07",
   "speaker": "巴",
   "jp": "何ですって―――！？",
-  "en": "What did you say--!?"
+  "en": "What--!?"
  },
  {
   "id": "ms07_01:163:08",
@@ -3077,7 +3077,7 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing in particular"
+  "en": "Nothing really"
  },
  {
   "id": "ms07_01:ksf:37897",

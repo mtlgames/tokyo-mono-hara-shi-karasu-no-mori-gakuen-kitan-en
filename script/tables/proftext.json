@@ -15,7 +15,7 @@
   "id": "proftext:0002:00",
   "jp": "フリガナ",
   "refs": 1,
-  "en": "Pronunciation"
+  "en": "Name Reading"
  },
  {
   "id": "proftext:0003:00",
@@ -75,7 +75,7 @@
   "id": "proftext:0012:00",
   "jp": "体育",
   "refs": 1,
-  "en": "Gym Class"
+  "en": "P.E."
  },
  {
   "id": "proftext:0013:00",
@@ -291,7 +291,7 @@
   "id": "proftext:0048:00",
   "jp": "美肌部",
   "refs": 1,
-  "en": "Fair Skin Club"
+  "en": "Skincare Club"
  },
  {
   "id": "proftext:0049:00",
@@ -339,24 +339,24 @@
   "id": "proftext:0056:00",
   "jp": "軽音同好会",
   "refs": 1,
-  "en": "Light Music Club"
+  "en": "Light Music Circle"
  },
  {
   "id": "proftext:0057:00",
   "jp": "時代劇同好会",
   "refs": 1,
-  "en": "Period Drama Club"
+  "en": "Period Drama Circle"
  },
  {
   "id": "proftext:0058:00",
   "jp": "神秘術同好会",
   "refs": 1,
-  "en": "Mystic Arts Club"
+  "en": "Mystic Arts Circle"
  },
  {
   "id": "proftext:0059:00",
   "jp": "英雄同好会",
   "refs": 1,
-  "en": "Heroes Club"
+  "en": "Hero Circle"
  }
 ]

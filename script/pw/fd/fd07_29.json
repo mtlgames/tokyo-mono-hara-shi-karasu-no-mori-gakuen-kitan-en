@@ -66,7 +66,7 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing"
+  "en": "Nothing really"
  },
  {
   "id": "fd07_29:ksf:01b89",
@@ -101,7 +101,7 @@
   "kind": "choice",
   "jp": "やめる",
   "slot": 30,
-  "en": "Cancel"
+  "en": "Never mind"
  },
  {
   "id": "fd07_29:ksf:0374f",
@@ -122,7 +122,7 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing"
+  "en": "Nothing really"
  },
  {
   "id": "fd07_29:ksf:040b9",
@@ -136,6 +136,6 @@
   "kind": "choice",
   "jp": "特にない",
   "slot": 30,
-  "en": "Nothing"
+  "en": "Nothing really"
  }
 ]

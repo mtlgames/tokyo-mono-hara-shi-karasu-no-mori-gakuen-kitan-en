@@ -15,7 +15,7 @@
   "id": "hanafuda:0000:10",
   "jp": "持続：２ターン\n範囲内に入った敵へ\n冬５０％中ダメージ。\n発動時に松の屑・弐\nも連動して発動する。",
   "refs": 1,
-  "en": "Duration: 2 turns\nMedium 50% Winter\ndamage to foes\nentering. Also sets\noff Pine Chaff II."
+  "en": "Duration: 2 turns\nMedium 50% Winter\ndamage to foes that\nenter. Also sets off\nPine Chaff II."
  },
  {
   "id": "hanafuda:0001:04",
@@ -27,7 +27,7 @@
   "id": "hanafuda:0001:10",
   "jp": "持続：２ターン\n範囲内に入った敵へ\n冬５０％中ダメージ。",
   "refs": 1,
-  "en": "Duration: 2 turns\nMedium 50% Winter\ndamage to foes\nentering the range."
+  "en": "Duration: 2 turns\nMedium 50% Winter\ndamage to foes that\nenter."
  },
  {
   "id": "hanafuda:0002:04",
@@ -45,7 +45,7 @@
   "id": "hanafuda:0002:10",
   "jp": "持続：２ターン\n範囲内に入った敵を\n自分の居る方向へ\n１マス吹き飛ばす。\n冬５０％中ダメージ。",
   "refs": 1,
-  "en": "Duration: 2 turns\nKnocks foes entering\n1 square toward you.\nMedium 50% Winter\ndamage."
+  "en": "Duration: 2 turns\nFoes that enter are\nknocked 1 square\ntoward you. Medium\n50% Winter damage."
  },
  {
   "id": "hanafuda:0002:3c",
@@ -399,7 +399,7 @@
   "id": "hanafuda:0022:10",
   "jp": "持続：１回\n範囲内に入った敵へ\n夏５０％中ダメージ。\n範囲が重なった他の\n札の範囲でも被弾。",
   "refs": 1,
-  "en": "Duration: 1 use\nMedium 50% Summer\ndamage to foes\nentering. Also hits\nin overlapping\nranges."
+  "en": "Duration: 1 use\nMedium 50% Summer\ndamage to foes that\nenter. Also hits in\noverlapping ranges."
  },
  {
   "id": "hanafuda:0022:58",
@@ -483,7 +483,7 @@
   "id": "hanafuda:0027:10",
   "jp": "持続：１ターン\n範囲内に敵が３体\n入ったら札を中心に\n４マス吹き飛ばす。\n夏５０％大ダメージ。",
   "refs": 1,
-  "en": "Duration: 1 turn\nWhen 3 foes enter,\nblasts them 4\nsquares off the\ncard. Big 50% Summer\ndamage."
+  "en": "Duration: 1 turn\nIf 3 foes enter,\nblasts them 4\nsquares off the\ncard. Large 50%\nSummer damage."
  },
  {
   "id": "hanafuda:0027:3c",
@@ -513,7 +513,7 @@
   "id": "hanafuda:0029:10",
   "jp": "持続：３ターン\n範囲内に入った敵を\n睡眠状態にする。",
   "refs": 1,
-  "en": "Duration: 3 turns\nFoes entering the\nrange fall Asleep."
+  "en": "Duration: 3 turns\nFoes entering the\nrange are put to\nSleep."
  },
  {
   "id": "hanafuda:0030:04",
@@ -741,7 +741,7 @@
   "id": "hanafuda:0042:10",
   "jp": "持続：１回\n敵ターン中に札を\n踏んでいた敵と\n自分の位置を入替え。\nボスには無効。",
   "refs": 1,
-  "en": "Duration: 1 use\nSwap places with a\nfoe on the card in\nits turn. No effect\non bosses."
+  "en": "Duration: 1 use\nSwaps you with a foe\non the card during\nits turn. No effect\non bosses."
  },
  {
   "id": "hanafuda:0042:58",
@@ -783,7 +783,7 @@
   "id": "hanafuda:0044:10",
   "jp": "持続：１回\n配置して１ターン後\n範囲内に居る全員が\n高確率で即死する。\nボスには無効。",
   "refs": 1,
-  "en": "Duration: 1 use\nA turn after\nplacing, all in\nrange likely die at\nonce. No effect on\nbosses."
+  "en": "Duration: 1 use\nA turn after\nplacing, all in\nrange likely die\ninstantly. No effect\non bosses."
  },
  {
   "id": "hanafuda:0045:04",
@@ -819,7 +819,7 @@
   "id": "hanafuda:0047:10",
   "jp": "持続：１回\n範囲内で死亡した時\n復活して夏１００％\n中ダメージを周囲\n２マスの敵に与える。",
   "refs": 1,
-  "en": "Duration: 1 use\nDie in range to\nrevive, dealing\nmedium 100% Summer\ndamage 2 squares\naround."
+  "en": "Duration: 1 use\nIf slain in range,\nrevive and deal\nmedium 100% Summer\ndamage 2 squares\naround."
  },
  {
   "id": "hanafuda:0047:3c",
@@ -843,7 +843,7 @@
   "id": "hanafuda:0049:10",
   "jp": "持続：３ターン\n範囲内に居る間\n自分の防御力を\n＋５０％増加する。",
   "refs": 1,
-  "en": "Duration: 3 turns\nWhile in range,\nraises your DEF\nby +50%."
+  "en": "Duration: 3 turns\nWhile in range,\nraises your Defense\nby +50%."
  },
  {
   "id": "hanafuda:0050:04",

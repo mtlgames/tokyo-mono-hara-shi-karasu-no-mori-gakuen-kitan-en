@@ -159,7 +159,7 @@
   "id": "ms06_01:000:26",
   "speaker": "女生徒？",
   "jp": "ミカみゅんの心の手帳に\nずっきゅんマーク済み☆",
-  "en": "Mikamyun's already marked you with\na heart in the notebook of her heart~"
+  "en": "Mikamyun's already put a ba-dump mark\nby your name in her heart's diary~"
  },
  {
   "id": "ms06_01:001:00",
@@ -447,7 +447,7 @@
   "id": "ms06_01:022:01",
   "speaker": "闊達とした声",
   "jp": "はッはッはッ、\n来てくれたんだね、諸君ッ！",
-  "en": "Ha! Ha! Ha! You came, everyone!"
+  "en": "Ha! Ha! Ha! You made it, my friends!"
  },
  {
   "id": "ms06_01:022:02",
@@ -675,7 +675,7 @@
   "id": "ms06_01:033:09",
   "speaker": "燈治",
   "jp": "で、{px}に\n会わせたいって奴は\nまともなんだろうな？",
-  "en": "So, this guy who wants to meet\n{px}... They're normal, right?"
+  "en": "So, whoever it is that wants to meet\n{px}... they're normal, right?"
  },
  {
   "id": "ms06_01:033:10",
@@ -777,7 +777,7 @@
   "id": "ms06_01:034:14",
   "speaker": "道佳",
   "jp": "やだもうっ、冷た～いッ☆\nミカみゅんとカナめんの\n仲じゃないのッ☆",
-  "en": "Oh, stop, so co-old~ We're\nMikamyun and Kanamen, aren't we~?"
+  "en": "Oh, stop, so co-old~ Come on, after all\nMikamyun and Kanamen have been through~?"
  },
  {
   "id": "ms06_01:034:15",
@@ -807,7 +807,7 @@
   "id": "ms06_01:034:19",
   "speaker": "冷ややかな女生徒",
   "jp": "ついでにこの茶室、\n人払いしてもらえませんやろか\n風紀委員長殿？",
-  "en": "While you're at it, would you be so good as to clear\nthe tea room of people, Madam Disciplinary Chair?"
+  "en": "While you're at it, would you be so good as to clear\nthe tea room of people, honored Disciplinary Chair?"
  },
  {
   "id": "ms06_01:034:20",
@@ -1065,7 +1065,7 @@
   "id": "ms06_01:048:03",
   "speaker": "要",
   "jp": "それを現在の形に成したのは\n年若き賀茂家最後の当主―――",
-  "en": "The one who gave them their present form was\nthe young final head of the Kamo family--"
+  "en": "The one who gave them their present form was\nthe last head of the Kamo family, still young--"
  },
  {
   "id": "ms06_01:048:04",
@@ -1149,7 +1149,7 @@
   "id": "ms06_01:048:17",
   "speaker": "要",
   "jp": "ほんなら余計、\n護りきれなかった罪は\n重うおすな。",
-  "en": "All the more reason her crime of failing\nto protect them weighs heavily, then."
+  "en": "Then her sin in failing to\nprotect them is all the heavier."
  },
  {
   "id": "ms06_01:048:18",
@@ -1401,7 +1401,7 @@
   "id": "ms06_01:063:00",
   "speaker": "要",
   "jp": "……あんさんの頭は\nよろしないようやけど。",
-  "en": "...Your head doesn't seem to be in the best of shape."
+  "en": "...You don't seem terribly bright, but..."
  },
  {
   "id": "ms06_01:063:01",
@@ -1425,7 +1425,7 @@
   "id": "ms06_01:066:00",
   "speaker": "要",
   "jp": "その言葉、\n確かに聞きましたえ。",
-  "en": "I heard those words clearly, mind you."
+  "en": "I'll hold you to those words."
  },
  {
   "id": "ms06_01:067:00",
@@ -1941,7 +1941,7 @@
   "id": "ms06_01:093:14",
   "speaker": "道佳",
   "jp": "だって、だって、\n秘密にされると知りたいのが\n乙女ゴコロじゃな～い？",
-  "en": "But, but, when something's kept secret, wanting\nto know is just a maiden's heart, isn't it~?"
+  "en": "But, but, when something's kept secret, wanting\nto know is a maiden's nature, isn't it~?"
  },
  {
   "id": "ms06_01:093:15",
@@ -2253,7 +2253,7 @@
   "id": "ms06_01:119:00",
   "kind": "caption",
   "jp": "喫茶店―――",
-  "en": "The Cafe--"
+  "en": "Cafe--"
  },
  {
   "id": "ms06_01:119:01",
@@ -2379,7 +2379,7 @@
   "id": "ms06_01:129:01",
   "speaker": "輪",
   "jp": "大体、世の中の半分は\n男なんだぞ？",
-  "en": "Besides, half the world's guys, y'know?"
+  "en": "Besides, half the world is guys, y'know?"
  },
  {
   "id": "ms06_01:129:02",
@@ -2391,7 +2391,7 @@
   "id": "ms06_01:129:03",
   "speaker": "絢人",
   "jp": "ああ……\n人類が半分に\nなればいいのに……。",
-  "en": "Ah... If only humanity could be cut in half..."
+  "en": "Ah... If only humanity were half its size..."
  },
  {
   "id": "ms06_01:129:04",
@@ -2613,7 +2613,7 @@
   "id": "ms06_01:129:40",
   "speaker": "絢人",
   "jp": "{ruby:蒲生|がもう}　{ruby:道佳|どうかい}……。\nあの年で{ruby:伝法灌頂|でんぽうかんじょう}を受けた\n天才密教僧の事だね。",
-  "en": "Dokai Gamo... You mean the prodigy of\nesoteric Buddhism who received the\nDharma-transmission consecration at his age."
+  "en": "Dokai Gamo... You mean the prodigy of esoteric\nBuddhism who received the Dharma-transmission\nconsecration at such a young age."
  },
  {
   "id": "ms06_01:129:41",
@@ -2631,7 +2631,7 @@
   "id": "ms06_01:129:43",
   "speaker": "絢人",
   "jp": "密教の奥義がすべて伝授され、\n弟子を持つ事が許される。\n{ruby:阿闍梨|あじゃり}とも呼ばれるね。",
-  "en": "All the secret teachings of esoteric Buddhism have\nbeen passed down to him, and he may take\ndisciples. One such as he is also called an acharya."
+  "en": "All the secret teachings of esoteric Buddhism\nhave been passed down to him, and he may take\ndisciples. Such a monk is also called an acharya."
  },
  {
   "id": "ms06_01:129:44",
@@ -3051,7 +3051,7 @@
   "id": "ms06_01:155:01",
   "speaker": "巴",
   "jp": "盗賊団はこの情報を\n掴んでるのかしら。",
-  "en": "I wonder if the Bandits have\ngotten hold of this information."
+  "en": "I wonder if the bandits have\ngotten hold of this information."
  },
  {
   "id": "ms06_01:155:02",
@@ -4575,7 +4575,7 @@
   "id": "ms06_01:257:22",
   "speaker": "巴",
   "jp": "ええ。\n確か、街で押しつけられたって\n言ってたわね。",
-  "en": "Yes. I think they said someone\nshoved them at them in town."
+  "en": "Yes. I think they said someone\nshoved them into their hands in town."
  },
  {
   "id": "ms06_01:257:23",
@@ -5199,7 +5199,7 @@
   "id": "ms06_01:288:00",
   "speaker": "絢人",
   "jp": "華やかで結構じゃないか。",
-  "en": "Isn't it lovely and lively?"
+  "en": "Lively and lovely--what's not to like?"
  },
  {
   "id": "ms06_01:288:01",
@@ -5583,7 +5583,7 @@
   "id": "ms06_01:307:16",
   "speaker": "アンジー",
   "jp": "ワォ！？",
-  "en": "Wow!?"
+  "en": "Whoa!?"
  },
  {
   "id": "ms06_01:307:17",
@@ -6201,7 +6201,7 @@
   "id": "ms06_01:336:04",
   "speaker": "巴",
   "jp": "アンタたちねえ……\n馬鹿も大概にしなさいよ。",
-  "en": "Honestly, you guys... Being\nidiots has its limits, you know."
+  "en": "Honestly, you guys... Cut out\nthe stupidity already, you know."
  },
  {
   "id": "ms06_01:336:05",
@@ -6213,7 +6213,7 @@
   "id": "ms06_01:336:06",
   "speaker": "久榮",
   "jp": "残念だよ、その程度の知恵も\n回らないとは思わなかった。",
-  "en": "A pity. I didn't think you were too\ndim to figure out even that much."
+  "en": "A pity. I never thought you\ncouldn't work out even that much."
  },
  {
   "id": "ms06_01:336:07",
@@ -6237,7 +6237,7 @@
   "id": "ms06_01:337:01",
   "speaker": "絢人",
   "jp": "素晴らしい痛みだったよ。\n新しい……ね。",
-  "en": "That was a marvelous pain. Something new... indeed."
+  "en": "That was a marvelous pain. A whole new sensation..."
  },
  {
   "id": "ms06_01:338:00",
@@ -6459,7 +6459,7 @@
   "id": "ms06_01:346:01",
   "speaker": "御霧",
   "jp": "涼しげな面して、\n猿回しの素質があるようだな。",
-  "en": "For someone so cool-faced, you seem to\nhave a knack for running a monkey show."
+  "en": "For someone so cool-faced, you seem\nto have a knack for herding monkeys."
  },
  {
   "id": "ms06_01:347:00",
@@ -6477,7 +6477,7 @@
   "id": "ms06_01:348:01",
   "speaker": "御霧",
   "jp": "涼しげな面して、\n猿回しの素質があるようだな。",
-  "en": "For someone so cool-faced, you seem to\nhave a knack for running a monkey show."
+  "en": "For someone so cool-faced, you seem\nto have a knack for herding monkeys."
  },
  {
   "id": "ms06_01:349:00",
@@ -7221,7 +7221,7 @@
   "id": "ms06_01:384:18",
   "speaker": "道佳",
   "jp": "バカバカッ！",
-  "en": "You jerks, you jerks!"
+  "en": "Idiots! Big dumb idiots!"
  },
  {
   "id": "ms06_01:384:19",
@@ -7864,7 +7864,7 @@
   "kind": "choice",
   "jp": "女子風呂に興味はない",
   "slot": 30,
-  "en": "Not interested in girls' bath"
+  "en": "Girls' bath? Not interested"
  },
  {
   "id": "ms06_01:ksf:b94f5",
@@ -7934,6 +7934,6 @@
   "kind": "choice",
   "jp": "掴みかからない",
   "slot": 30,
-  "en": "Don't lunge and grab"
+  "en": "Hold back"
  }
 ]

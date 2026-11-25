@@ -351,7 +351,7 @@
   "id": "playerquestsent:0009:04",
   "jp": "牽制するために",
   "refs": 1,
-  "en": "needs checking, so"
+  "en": "needs curbing, so"
  },
  {
   "id": "playerquestsent:0009:08",
@@ -465,7 +465,7 @@
   "id": "playerquestsent:0011:18",
   "jp": "祈ってもらいたい。",
   "refs": 1,
-  "en": "I'd like a prayer."
+  "en": "I want prayers."
  },
  {
   "id": "playerquestsent:0012:00",
@@ -531,7 +531,7 @@
   "id": "playerquestsent:0013:0c",
   "jp": "～してくれぇー！",
   "refs": 1,
-  "en": "do ~, pleeease!"
+  "en": "do ~, pleeez!"
  },
  {
   "id": "playerquestsent:0013:10",
@@ -543,13 +543,13 @@
   "id": "playerquestsent:0013:14",
   "jp": "作ってくれぇー！",
   "refs": 1,
-  "en": "make it, pleeease!"
+  "en": "make it, pleeez!"
  },
  {
   "id": "playerquestsent:0013:18",
   "jp": "祈ってくれぇー！",
   "refs": 1,
-  "en": "pray, pleeeeease!"
+  "en": "pray, pleeez!"
  },
  {
   "id": "playerquestsent:0014:00",
@@ -561,7 +561,7 @@
   "id": "playerquestsent:0014:04",
   "jp": "羨ましがらせるのに",
   "refs": 1,
-  "en": "needs to envy, so"
+  "en": "needs jealousy, so"
  },
  {
   "id": "playerquestsent:0014:08",
@@ -573,7 +573,7 @@
   "id": "playerquestsent:0014:0c",
   "jp": "～してくれ、頼む！",
   "refs": 1,
-  "en": "do ~, I'm begging!"
+  "en": "do ~, please!"
  },
  {
   "id": "playerquestsent:0014:10",
@@ -633,7 +633,7 @@
   "id": "playerquestsent:0015:18",
   "jp": "祈って…くれ…。",
   "refs": 1,
-  "en": "pray... for me..."
+  "en": "pray... please..."
  },
  {
   "id": "playerquestsent:0016:00",
@@ -645,7 +645,7 @@
   "id": "playerquestsent:0016:04",
   "jp": "世間に放逐するのに",
   "refs": 1,
-  "en": "needs exposing, so"
+  "en": "needs exiling, so"
  },
  {
   "id": "playerquestsent:0016:08",
