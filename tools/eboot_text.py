@@ -90,7 +90,8 @@ KANA = re.compile("[　-ヿ！-～]")
 POOL = 0x2B0600
 # lone chars the rule above misses: text speed 瞬 (24-byte slots "1" "2" "3" 瞬, phone settings, unreferenced);
 # item menu 円 (second byte 0x7E) and the equipped mark 装 (its lui/addiu pair is not found in the ELF)
-LONE = {0x2D2538, 0x2B5210, 0x2B5214}
+# profile birthday spinners %2d月 / %2d日 (format code makes them impure)
+LONE = {0x2D2538, 0x2B5210, 0x2B5214, 0x2B448C, 0x2B4494}
 # strings CAND can't see: the byte before is struct data, not NUL (options row 保持する, partner of 2d2388 保持しない;
 # release.py jp found it; a sweep for kana runs after a control byte found no other)
 ROW_START = {0x2D2370}

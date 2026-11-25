@@ -5136,6 +5136,22 @@
   "en": "%2d/%2d"
  },
  {
+  "id": "eboot:2b448c",
+  "jp": "%2d月",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": "Mo %2d"
+ },
+ {
+  "id": "eboot:2b4494",
+  "jp": "%2d日",
+  "slot": 8,
+  "refs": 1,
+  "enc": "cp932",
+  "en": "Day %2d"
+ },
+ {
   "id": "eboot:2b45e4",
   "jp": "焼却炉地下",
   "slot": 12,
