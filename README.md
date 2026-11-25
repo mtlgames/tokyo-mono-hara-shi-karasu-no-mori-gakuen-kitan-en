@@ -28,7 +28,7 @@ field); some 3D dungeon-room wall textures were checked in memory only, not on s
 
 `Tokyo Mono Hara Shi - Karasu no Mori Gakuen Kitan (Japan).iso` ([Redump](http://redump.org/discs/quicksearch/Tokyo%20Mono%20Hara%20Shi/)),
 968,622,080 bytes, CRC32 `45E4EECA`, MD5 `f4b2213627197cb5f9c97c2d202f0257`,
-SHA-1 `1d68889899448f0374eddb4b199b9aa827ae9f7b`. Tested in PPSSPP v1.20.4; cold boot after patching (no old
+SHA-1 `1d68889899448f0374eddb4b199b9aa827ae9f7b`. Tested in PPSSPP v1.20.4 only (PSP/Vita hardware unconfirmed); cold boot after patching (no old
 savestates).
 
 ## What's here

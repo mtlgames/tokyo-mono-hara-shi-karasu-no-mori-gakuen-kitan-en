@@ -103,4 +103,7 @@ reloc header; section headers and relocs after. **Fix (phase 7, `eboot.add_segme
 words go to a **new PT_LOAD segment** at vaddr 0xAB3F00 (past .bss), file data appended at the end of the ELF, its
 program header inserted as index 2 in the free slot before 0xC0 (relocations name segments 0/1 only; the reloc
 header moves to index 3). lo16-bound strings still use the freed seg0 room. Full English: no string kept Japanese;
-PPSSPP boots it and runs field_ch01 (verified). Real hardware / re-signing: to verify with the signed EBOOT.
+PPSSPP boots it and runs field_ch01 (verified). Real hardware: the PSP loader zero-fills .bss only for the
+last PT_LOAD (uOFW `sceKernelLoadExecutableObject`), so `eboot.bss_last` (build.py, before signing) moves .data/.bss
+back to the last program header and renumbers the relocations; the ~PSP header then has the original bss_size
+0x7DA1EC (sign_np reads it from the last PT_LOAD). Fixed 2026-11-26; still unconfirmed on hardware.

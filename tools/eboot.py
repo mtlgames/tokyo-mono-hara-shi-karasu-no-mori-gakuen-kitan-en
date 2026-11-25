@@ -119,6 +119,31 @@ def add_segment(d, data):
     return va
 
 
+def bss_last(d):
+    """Real hardware: the PSP loader zero-fills .bss only for the LAST PT_LOAD (uOFW loadelf.c,
+    sceKernelLoadExecutableObject; sign_np also takes the ~PSP bss_size from it); PPSSPP zeroes every segment's.
+    add_segment's segment follows .data/.bss, so move the segment with bss back to the last PT_LOAD slot and renumber
+    the relocations' segment indices (r_info bits 8-23) to match. Addresses don't change, only the header order."""
+    phoff, = struct.unpack_from("<I", d, 0x1C)
+    phnum, = struct.unpack_from("<H", d, 0x2C)
+    ph = [struct.unpack_from("<8I", d, phoff + 32 * i) for i in range(phnum)]
+    loads = [i for i, p in enumerate(ph) if p[0] == 1]
+    assert loads == list(range(len(loads))), "PT_LOADs must come first"
+    bss = [i for i in loads if ph[i][5] > ph[i][4]]
+    assert len(bss) == 1, "expected one segment with bss"
+    order = [i for i in loads if i != bss[0]] + bss + list(range(len(loads), phnum))
+    new = {old: i for i, old in enumerate(order)}
+    for i, old in enumerate(order):
+        struct.pack_into("<8I", d, phoff + 32 * i, *ph[old])
+    for p in ph:
+        if p[0] == 0x700000A0:
+            for k in range(p[1] + 4, p[1] + p[4], 8):
+                info, = struct.unpack_from("<I", d, k)
+                ofs, adr = new[info >> 8 & 0xFF], new[info >> 16 & 0xFF]
+                struct.pack_into("<I", d, k, info & 0xFF0000FF | ofs << 8 | adr << 16)
+    return d
+
+
 class Patcher:
     def __init__(self, d=None):
         self.d = d if d is not None else load()

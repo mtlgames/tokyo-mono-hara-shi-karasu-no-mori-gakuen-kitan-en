@@ -3,6 +3,14 @@
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
 - **Phase:** 9. Release done: release/v1.0 zip built and verified (publishing waits on the user; never `gh release create`).
+- **Hardware audit (2026-11-26):** one real-hardware bug fixed: the added EBOOT segment sat after .data/.bss, and
+  the PSP loader zero-fills only the last PT_LOAD's bss (PPSSPP zeroes all), so 8 MB of .bss would start as leftover
+  RAM on PSP/Vita; signed header also had bss_size 0. `eboot.bss_last` (docs/re/text.md), test added. Build
+  22455e6a: header bss 0x7DA1EC as the original, smoke + prologue + field_ch01 + report_card ok. Checked fine:
+  stubs use aligned loads/stores and 16-byte stack frames, no run-time code writes (no icache flush needed), ISO
+  dirs never move (path tables valid), 3 PT_LOADs (limit 4). Not changed: SYSDIR/BOOT.BIN is still the original
+  Japanese plain ELF (CFW/Adrenaline boot EBOOT.BIN). **release/v1.0 zip is stale** (pre-fix): rerun
+  `tools/release.py` before publishing. Hardware test still needed (READMEs now say "PPSSPP only").
 - **Phase 9, worker 25 (2026-11-25):** re-tour of 467e169e finished (`--resume`, 72 states, wrap_skip exit 3 as
   known), `tour_sheets.py`: 71 changed sheets, 9 chunks `chunk_15cb49153b50_000..008`, visual-qa verdicts all 71 ok
   (help bar "[LR]Category [SELECT]Valuables" clear of the icon in menu_item/stress_items/stress_list).

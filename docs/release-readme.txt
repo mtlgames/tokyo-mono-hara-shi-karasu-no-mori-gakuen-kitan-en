@@ -31,7 +31,8 @@ SHA-1  {sha1}
 
 Playing
 -------
-Tested in PPSSPP v1.20.4. Start from a cold boot after patching: savestates made with the
+Tested in PPSSPP v1.20.4 only; not yet confirmed on a PSP or PS Vita (Adrenaline). Reports
+welcome. Start from a cold boot after patching: savestates made with the
 Japanese image carry the old text and code. In-game saves (memory stick) carry over fine.
 
 What is translated: story, partner and free-time events, quests; menus, items, cards, skills,

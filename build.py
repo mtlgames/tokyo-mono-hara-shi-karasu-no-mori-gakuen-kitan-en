@@ -57,9 +57,9 @@ def eboot(text, crow_edits=None):
     import engine
     import gfx
     import insert
-    from eboot import Patcher
+    from eboot import Patcher, bss_last
     d = insert.eboot_patch(engine.patch(Patcher()), text, insert.scripts())
-    return bytes(gfx.eboot_copies(d, crow_edits or {}))
+    return bytes(bss_last(gfx.eboot_copies(d, crow_edits or {})))
 
 
 def read_qa(path):

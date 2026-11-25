@@ -42,6 +42,18 @@ def test_engine_patch_guards():
         p.asm(0x08817314, "nop")
 
 
+@pytest.mark.skipif(not eboot.ELF.exists(), reason="needs the decrypted EBOOT dump")
+def test_bss_last_keeps_relocations():
+    d = eboot.load()
+    eboot.add_segment(d, bytes(0x40))
+    before = eboot.pointers(d)
+    eboot.bss_last(d)
+    import eboot_text
+    segs = [s for s in eboot_text.segments(d)]
+    assert segs[2][0] == 0x2C3B00 and segs[1][0] > segs[2][0]  # .data/.bss now the last PT_LOAD
+    assert eboot.pointers(d) == before
+
+
 def test_name_width_table(fonts):
     import engine
     t = engine.name_widths()
