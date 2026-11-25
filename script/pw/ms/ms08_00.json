@@ -123,7 +123,7 @@
   "id": "ms08_00:000:20",
   "speaker": "筑紫",
   "jp": "現状最高責任者代行である\n伊佐地主任には、\n速やかな全面協力を要請する。",
-  "en": "Chief Isachi, as acting head-in-charge, I\nrequest your prompt and full cooperation."
+  "en": "Chief Isachi, as acting head, I request\nyour prompt and full cooperation."
  },
  {
   "id": "ms08_00:000:21",
@@ -351,7 +351,7 @@
   "id": "ms08_00:003:12",
   "speaker": "清司郎",
   "jp": "余計な事はするんじゃねえ。\nこれは{ruby:羽鳥家|ウ　　チ}の問題だ。",
-  "en": "Don't go butting in. This is a Hatori family problem."
+  "en": "Don't go butting in. This is OUR family's problem."
  },
  {
   "id": "ms08_00:004:00",
@@ -1323,7 +1323,7 @@
   "id": "ms08_00:074:00",
   "speaker": "鈴",
   "jp": "拝殿に様子を見に行ったら\n清さま、とても怖いお顔を\nされていたです……。",
-  "en": "When Suzu went to the worship hall to check,\nSei-sama had a very scary look on his face..."
+  "en": "When Suzu went to the worship hall to check,\nSei-sama had a very scary look on his face, it is..."
  },
  {
   "id": "ms08_00:074:01",
@@ -1335,7 +1335,7 @@
   "id": "ms08_00:074:02",
   "speaker": "鈴",
   "jp": "こんな時、{ruby:神使|しんし}なんて\n何のお役にも\n立てないです……。",
-  "en": "and at a time like this, a divine\nmessenger is no help at all..."
+  "en": "and at a time like this, a divine\nmessenger is no help at all, it is..."
  },
  {
   "id": "ms08_00:075:00",
@@ -1347,7 +1347,7 @@
   "id": "ms08_00:075:01",
   "speaker": "鈴",
   "jp": "な、泣かないです！\nすずは強い神使なのです！",
-  "en": "S-Suzu isn't crying! Suzu is\na strong divine messenger!"
+  "en": "S-Suzu isn't crying! Suzu is a\nstrong divine messenger, it is!"
  },
  {
   "id": "ms08_00:076:00",
@@ -1359,7 +1359,7 @@
   "id": "ms08_00:076:01",
   "speaker": "鈴",
   "jp": "{px}、\nひどいです……。",
-  "en": "{px}, that's mean..."
+  "en": "{px}, that's mean, it is..."
  },
  {
   "id": "ms08_00:077:00",
@@ -1377,7 +1377,7 @@
   "id": "ms08_00:077:02",
   "speaker": "鈴",
   "jp": "やっぱり空気みたいな\n存在でしかないです……。",
-  "en": "Suzu really is no more than the air..."
+  "en": "Suzu really is no more than the air, it is..."
  },
  {
   "id": "ms08_00:078:00",
@@ -1389,7 +1389,7 @@
   "id": "ms08_00:078:01",
   "speaker": "鈴",
   "jp": "やっぱり空気みたいな\n存在でしかないです……。",
-  "en": "Suzu really is no more than the air..."
+  "en": "Suzu really is no more than the air, it is..."
  },
  {
   "id": "ms08_00:079:00",
@@ -1401,7 +1401,7 @@
   "id": "ms08_00:079:01",
   "speaker": "鈴",
   "jp": "な、泣かないです！\nすずは強い神使なのです！",
-  "en": "S-Suzu isn't crying! Suzu is\na strong divine messenger!"
+  "en": "S-Suzu isn't crying! Suzu is a\nstrong divine messenger, it is!"
  },
  {
   "id": "ms08_00:080:00",
@@ -1419,7 +1419,7 @@
   "id": "ms08_00:080:02",
   "speaker": "鈴",
   "jp": "やっぱり空気みたいな\n存在でしかないです……。",
-  "en": "Suzu really is no more than the air..."
+  "en": "Suzu really is no more than the air, it is..."
  },
  {
   "id": "ms08_00:081:00",
@@ -1437,7 +1437,7 @@
   "id": "ms08_00:081:02",
   "speaker": "鈴",
   "jp": "すずは本当に\nだめだめ神使なのです……。",
-  "en": "Suzu really is a no-good divine messenger..."
+  "en": "Suzu really is a no-good divine messenger, it is..."
  },
  {
   "id": "ms08_00:082:00",
@@ -1455,7 +1455,7 @@
   "id": "ms08_00:082:02",
   "speaker": "鈴",
   "jp": "すずは本当に\nだめだめ神使なのです……。",
-  "en": "Suzu really is a no-good divine messenger..."
+  "en": "Suzu really is a no-good divine messenger, it is..."
  },
  {
   "id": "ms08_00:083:00",
@@ -1473,7 +1473,7 @@
   "id": "ms08_00:085:01",
   "speaker": "鈴",
   "jp": "拝殿に様子を見に行ったら\n清さま、とても怖いお顔を\nされていたです……。",
-  "en": "When Suzu went to the worship hall to check,\nSei-sama had a very scary look on his face..."
+  "en": "When Suzu went to the worship hall to check,\nSei-sama had a very scary look on his face, it is..."
  },
  {
   "id": "ms08_00:085:02",
@@ -1485,7 +1485,7 @@
   "id": "ms08_00:085:03",
   "speaker": "鈴",
   "jp": "こんな時、{ruby:神使|しんし}なんて\n何のお役にも\n立てないです……。",
-  "en": "and at a time like this, a divine\nmessenger is no help at all..."
+  "en": "and at a time like this, a divine\nmessenger is no help at all, it is..."
  },
  {
   "id": "ms08_00:086:00",
@@ -1509,7 +1509,7 @@
   "id": "ms08_00:087:01",
   "speaker": "鈴",
   "jp": "あんなに、あんなに\nお二人は辛そうなのです……",
-  "en": "The two of them are hurting so, so much..."
+  "en": "The two of them are hurting so, so much, it is..."
  },
  {
   "id": "ms08_00:088:00",
@@ -1527,7 +1527,7 @@
   "id": "ms08_00:089:00",
   "speaker": "鈴",
   "jp": "その通り、なのです……\nすずは役立たずなのです……",
-  "en": "That's right... Suzu is useless..."
+  "en": "That's right, it is... Suzu is useless..."
  },
  {
   "id": "ms08_00:090:00",
@@ -1539,7 +1539,7 @@
   "id": "ms08_00:090:01",
   "speaker": "鈴",
   "jp": "すず、元気が出ないです……\n頑張れ、ないです……。",
-  "en": "Suzu can't cheer up... Suzu can't do her best..."
+  "en": "Suzu can't cheer up, it is... Suzu can't do her best..."
  },
  {
   "id": "ms08_00:091:00",
@@ -1551,7 +1551,7 @@
   "id": "ms08_00:091:01",
   "speaker": "鈴",
   "jp": "お気遣い、\nありがとう、ございますです。",
-  "en": "Thank you ever so much for your concern."
+  "en": "Thank you ever so much for your concern, it is."
  },
  {
   "id": "ms08_00:091:02",
@@ -1599,7 +1599,7 @@
   "id": "ms08_00:095:01",
   "speaker": "鈴",
   "jp": "{px}！\nどうか不甲斐ないすずを\n叱ってくださいです！",
-  "en": "{px}! Please,\nscold Suzu for being so useless!"
+  "en": "{px}! Please, scold\nSuzu for being so useless, it is!"
  },
  {
   "id": "ms08_00:096:00",
@@ -1617,13 +1617,13 @@
   "id": "ms08_00:096:02",
   "speaker": "鈴",
   "jp": "……むむむ、\n少しは強くなれた気が\nするです。",
-  "en": "...Mmmm. Suzu feels like she's\ngotten a little bit stronger."
+  "en": "...Mmmm. Suzu feels like she's\ngotten a little bit stronger, it is."
  },
  {
   "id": "ms08_00:096:03",
   "speaker": "鈴",
   "jp": "ぬしさま、\nありがとうございますです！",
-  "en": "Thank you ever so much, Master!"
+  "en": "Thank you ever so much, Master, it is!"
  },
  {
   "id": "ms08_00:097:00",
@@ -1641,13 +1641,13 @@
   "id": "ms08_00:097:02",
   "speaker": "鈴",
   "jp": "はわ～……\nほわほわなのです……。",
-  "en": "Hawaaa... So warm and fuzzy..."
+  "en": "Hawaaa... So warm and fuzzy, it is..."
  },
  {
   "id": "ms08_00:097:03",
   "speaker": "鈴",
   "jp": "ち、違うです！\n和んでる場合では\nないのです！",
-  "en": "N-no, that's wrong! This is no time\nfor Suzu to be getting all cozy!"
+  "en": "N-no, that's wrong! This is no time for\nSuzu to be getting all cozy, it is not!"
  },
  {
   "id": "ms08_00:098:00",
@@ -1671,7 +1671,7 @@
   "id": "ms08_00:098:03",
   "speaker": "鈴",
   "jp": "ひ、ひどいです～。\nぬしさまに\n捨てられたです……。",
-  "en": "Th-that's so meeean. Master has abandoned Suzu..."
+  "en": "Th-that's so meeean. Master\nhas abandoned Suzu, it is..."
  },
  {
   "id": "ms08_00:099:00",
@@ -1689,7 +1689,7 @@
   "id": "ms08_00:099:02",
   "speaker": "鈴",
   "jp": "はうっ！！\nそ、その通りなのです……。",
-  "en": "Hau!! Th-that's exactly right..."
+  "en": "Hau!! Th-that's exactly right, it is..."
  },
  {
   "id": "ms08_00:099:03",
@@ -1707,7 +1707,7 @@
   "id": "ms08_00:099:05",
   "speaker": "鍵",
   "jp": "別に坊を嫌っているという\n訳じゃありやせん。\nあまり気にしない事ですよ。",
-  "en": "It ain't that he dislikes you, young\nmaster. Best not to let it trouble you."
+  "en": "It's not that he dislikes you, young\nmaster. Best not to let it trouble you."
  },
  {
   "id": "ms08_00:100:00",
@@ -1833,13 +1833,13 @@
   "id": "ms08_00:109:02",
   "speaker": "鈴",
   "jp": "お二人とこの神社は、\n鍵さんとすずが万全の体制で\nお護りするです。",
-  "en": "Ken-san and Suzu will guard the two of them\nand this shrine with everything we've got!"
+  "en": "Ken-san and Suzu will guard the two of them\nand this shrine with everything we've got, it is!"
  },
  {
   "id": "ms08_00:109:03",
   "speaker": "鈴",
   "jp": "ぬしさまは安心して学校へ\n行かれてくださいなのです。",
-  "en": "So please go on to school without worrying, Master!"
+  "en": "So please go on to school\nwithout worrying, Master, it is!"
  },
  {
   "id": "ms08_00:110:00",
@@ -2043,7 +2043,7 @@
   "id": "ms08_00:124:01",
   "speaker": "久榮",
   "jp": "……思える内が\n花とも言うしな。",
-  "en": "...They do say it's sweet\nwhile you can still believe it."
+  "en": "...Ignorance is bliss, as they say."
  },
  {
   "id": "ms08_00:125:00",
@@ -2361,7 +2361,7 @@
   "id": "ms08_00:145:02",
   "speaker": "大柄な男",
   "jp": "まったく、\n生徒一人呼び出すのに\n一体どれだけ―――",
-  "en": "Honestly, how long does it\ntake to call in one student--"
+  "en": "Sheesh, how long does it\ntake to call in one student--"
  },
  {
   "id": "ms08_00:145:03",
@@ -2637,7 +2637,7 @@
   "id": "ms08_00:167:05",
   "speaker": "久榮",
   "jp": "{px}、騙されるな。\nこいつらの目的は初めから、\n{ruby:それ|・・}を手に入れる事だ。",
-  "en": "{px}, don't be fooled. From the very\nstart, their goal was to get their hands on that thing."
+  "en": "{px}, don't be fooled. From the very\nstart, their goal was to get their hands on THAT."
  },
  {
   "id": "ms08_00:167:06",
@@ -2847,7 +2847,7 @@
   "id": "ms08_00:181:06",
   "speaker": "久榮",
   "jp": "まったく、\n収集特課ってのは\n騒々しいな。",
-  "en": "Honestly, the Collection Division\nis such a rowdy bunch."
+  "en": "Really, the Collection Division\nis such a rowdy bunch."
  },
  {
   "id": "ms08_00:181:07",
@@ -2955,7 +2955,7 @@
   "id": "ms08_00:190:00",
   "speaker": "久榮",
   "jp": "まったく、\n可愛げのない奴だ。",
-  "en": "Honestly, there's not a cute bone in you."
+  "en": "Really, there's not a cute bone in you."
  },
  {
   "id": "ms08_00:191:00",
@@ -3003,7 +3003,7 @@
   "id": "ms08_00:191:07",
   "speaker": "久榮",
   "jp": "やれやれ……。\n何でわざわざ窓を割るかね。",
-  "en": "Good grief... Why'd she have\nto go and break the window?"
+  "en": "Hmph... Why'd she have to\ngo and break the window?"
  },
  {
   "id": "ms08_00:191:08",

@@ -45,7 +45,7 @@
   "id": "ms11_02:000:07",
   "speaker": "燈治",
   "jp": "ようこそ、{px}。\nお前が主賓だぜ。",
-  "en": "Welcome, {px}.\nYou're the guest of honour."
+  "en": "Welcome, {px}.\nYou're the guest of honor."
  },
  {
   "id": "ms11_02:001:00",
@@ -219,7 +219,7 @@
   "id": "ms11_02:010:05",
   "speaker": "弥紀",
   "jp": "ふふっ、なんだか変な感じ。\n学校でこんなに\nお菓子食べるなんて。",
-  "en": "Hehe, it feels kind of weird.\nEating this many snacks at school."
+  "en": "Hee hee, it feels kind of weird.\nEating this many snacks at school."
  },
  {
   "id": "ms11_02:010:06",
@@ -267,7 +267,7 @@
   "id": "ms11_02:012:01",
   "speaker": "巴",
   "jp": "―――まあ、どうしても\n{ruby:処罰|オシオキ}されたいっていうなら\n仕方ないけど？",
-  "en": "--Well, if you're that desperate to be\npunished, I suppose I can't stop you?"
+  "en": "--Well, if you're that desperate for a little\n'punishment,' I suppose I can't stop you?"
  },
  {
   "id": "ms11_02:013:00",
@@ -303,7 +303,7 @@
   "id": "ms11_02:015:01",
   "speaker": "巴",
   "jp": "……どうやら\n{ruby:処罰|オシオキ}されたくて\n仕方ないみたいね？",
-  "en": "...Looks like you just can't wait to be punished, huh?"
+  "en": "...Looks like you just can't wait\nfor a little 'punishment,' huh?"
  },
  {
   "id": "ms11_02:016:00",
@@ -351,7 +351,7 @@
   "id": "ms11_02:019:01",
   "speaker": "巴",
   "jp": "……どうやら\n{ruby:処罰|オシオキ}されたくて\n仕方ないみたいね？",
-  "en": "...Looks like you just can't wait to be punished, huh?"
+  "en": "...Looks like you just can't wait\nfor a little 'punishment,' huh?"
  },
  {
   "id": "ms11_02:020:00",
@@ -381,7 +381,7 @@
   "id": "ms11_02:020:04",
   "speaker": "弥紀",
   "jp": "ふふふ、巴だって\n頑張ってたじゃない。",
-  "en": "Hehehe, you worked hard too, Tomoe."
+  "en": "Hee hee hee, you worked hard too, Tomoe."
  },
  {
   "id": "ms11_02:020:05",
@@ -393,7 +393,7 @@
   "id": "ms11_02:020:06",
   "speaker": "長英",
   "jp": "おお、気が利くのう。\nお前は手先が器用じゃけ、\n適任じゃろう。",
-  "en": "Ooh, how thoughtful. You're good with\nyour hands, so you're just the guy for it."
+  "en": "Ooh, how thoughtful. Ye're good with\nyer hands, so ye're just the guy for it."
  },
  {
   "id": "ms11_02:020:07",
@@ -567,7 +567,7 @@
   "id": "ms11_02:030:00",
   "speaker": "蒐",
   "jp": "……はい。\n切った、よ。",
-  "en": "...There. I cut it."
+  "en": "...There. I've, cut it."
  },
  {
   "id": "ms11_02:030:01",
@@ -579,7 +579,7 @@
   "id": "ms11_02:030:02",
   "speaker": "蒐",
   "jp": "綺麗な四角、出来た。",
-  "en": "A beautiful square. Done."
+  "en": "A beautiful square, done."
  },
  {
   "id": "ms11_02:030:03",
@@ -597,7 +597,7 @@
   "id": "ms11_02:031:01",
   "speaker": "蒐",
   "jp": "料理は、愛情。\n愛情は、四角……。",
-  "en": "Cooking is love. Love is square..."
+  "en": "Cooking, is love. Love, is square..."
  },
  {
   "id": "ms11_02:032:00",
@@ -759,7 +759,7 @@
   "id": "ms11_02:040:13",
   "speaker": "蒐",
   "jp": "白い人……\nこれ、引いて、みる？",
-  "en": "White one... want to try pulling this?"
+  "en": "White one... Want to try, pulling this?"
  },
  {
   "id": "ms11_02:040:14",
@@ -789,7 +789,7 @@
   "id": "ms11_02:040:18",
   "speaker": "弥紀",
   "jp": "ふふっ、\n確かにそうかも……。",
-  "en": "Hehe, that might be true..."
+  "en": "Hee hee, that might be true..."
  },
  {
   "id": "ms11_02:040:19",
@@ -1125,7 +1125,7 @@
   "id": "ms11_02:057:00",
   "speaker": "弥紀",
   "jp": "ふふ、\n{px}らしいね。",
-  "en": "Hehe, that's so like you, {px}."
+  "en": "Hee hee, that's so like you, {px}."
  },
  {
   "id": "ms11_02:057:01",
@@ -1149,7 +1149,7 @@
   "id": "ms11_02:058:01",
   "speaker": "弥紀",
   "jp": "ふふ、やっぱり\n{px}にそう言われると\n勇気が湧いてくるみたい。",
-  "en": "Hehe, when you say that, {px},\nI really do feel my courage welling up."
+  "en": "Hee hee, when you say that, {px},\nI really do feel my courage welling up."
  },
  {
   "id": "ms11_02:058:02",
@@ -1173,7 +1173,7 @@
   "id": "ms11_02:059:02",
   "speaker": "弥紀",
   "jp": "{px}や\nみんなと一緒だから、\n何が起きても大丈夫だって。",
-  "en": "That because I'm with you and\neveryone, {px}, we'll\nbe okay no matter what happens."
+  "en": "That as long as I'm together with you\nand everyone, {px},\nwe'll be okay no matter what happens."
  },
  {
   "id": "ms11_02:060:00",
@@ -1191,7 +1191,7 @@
   "id": "ms11_02:060:02",
   "speaker": "弥紀",
   "jp": "{px}や\nみんなと一緒だから、\n何が起きても大丈夫だって。",
-  "en": "That because I'm with you and\neveryone, {px}, we'll\nbe okay no matter what happens."
+  "en": "That as long as I'm together with you\nand everyone, {px},\nwe'll be okay no matter what happens."
  },
  {
   "id": "ms11_02:061:00",
@@ -1209,7 +1209,7 @@
   "id": "ms11_02:061:02",
   "speaker": "弥紀",
   "jp": "{px}や\nみんなと一緒だから、\n何が起きても大丈夫だって。",
-  "en": "That because I'm with you and\neveryone, {px}, we'll\nbe okay no matter what happens."
+  "en": "That as long as I'm together with you\nand everyone, {px},\nwe'll be okay no matter what happens."
  },
  {
   "id": "ms11_02:062:00",
@@ -1227,7 +1227,7 @@
   "id": "ms11_02:062:02",
   "speaker": "弥紀",
   "jp": "{px}や\nみんなと一緒だから、\n何が起きても大丈夫だって。",
-  "en": "That because I'm with you and\neveryone, {px}, we'll\nbe okay no matter what happens."
+  "en": "That as long as I'm together with you\nand everyone, {px},\nwe'll be okay no matter what happens."
  },
  {
   "id": "ms11_02:063:00",
@@ -1245,7 +1245,7 @@
   "id": "ms11_02:063:02",
   "speaker": "弥紀",
   "jp": "{px}や\nみんなと一緒だから、\n何が起きても大丈夫だって。",
-  "en": "That because I'm with you and\neveryone, {px}, we'll\nbe okay no matter what happens."
+  "en": "That as long as I'm together with you\nand everyone, {px},\nwe'll be okay no matter what happens."
  },
  {
   "id": "ms11_02:064:00",
@@ -1713,7 +1713,7 @@
   "id": "ms11_02:086:00",
   "speaker": "燈治",
   "jp": "……さァて、\n今日のところは精々、\n馬鹿騒ぎしとくとするか。",
-  "en": "...Welp, for today, guess we'll just\ngo wild and make some noise."
+  "en": "...Welp, for today, guess we'll\njust raise a ruckus all we want."
  },
  {
   "id": "ms11_02:086:01",
@@ -1761,7 +1761,7 @@
   "id": "ms11_02:087:06",
   "speaker": "長英",
   "jp": "けどそん時にゃあもう\n先輩方はいないんじゃ……。",
-  "en": "But by then, you senpai won't be here no more..."
+  "en": "But by then, ye senpai won't be here no more..."
  },
  {
   "id": "ms11_02:087:07",
@@ -1779,7 +1779,7 @@
   "id": "ms11_02:088:01",
   "speaker": "長英",
   "jp": "そがァ言われたら\nわしは……わしはッ……！！",
-  "en": "When you say that to me... I... I...!!"
+  "en": "When ye say that to me... I... I...!!"
  },
  {
   "id": "ms11_02:088:02",
@@ -1797,7 +1797,7 @@
   "id": "ms11_02:089:01",
   "speaker": "長英",
   "jp": "流石ァ{px}、\nわしの目指す漢じゃあ！！",
-  "en": "That's {px} for ya,\nthe kinda man I'm aimin' to be!!"
+  "en": "That's {px} for ye,\nthe kinda man I'm aimin' to be!!"
  },
  {
   "id": "ms11_02:090:00",
@@ -1815,7 +1815,7 @@
   "id": "ms11_02:091:00",
   "speaker": "長英",
   "jp": "ううッ……。\nそがァ優しい事言われたら\nわしは……わしはッ……。",
-  "en": "Uuugh... When you say\nsomethin' that kind to me... I... I..."
+  "en": "Uuugh... When ye say somethin'\nthat kind to me... I... I..."
  },
  {
   "id": "ms11_02:091:01",
@@ -1833,7 +1833,7 @@
   "id": "ms11_02:092:01",
   "speaker": "長英",
   "jp": "そうじゃな……\n例えどんなに離れても\nわしの心ん中にちゃんとある。",
-  "en": "You're right... No matter how far apart\nwe get, it's right here in my heart."
+  "en": "Ye're right... No matter how far apart\nwe get, it's right here in my heart."
  },
  {
   "id": "ms11_02:092:02",
@@ -1851,7 +1851,7 @@
   "id": "ms11_02:093:01",
   "speaker": "長英",
   "jp": "そうじゃな……\n例えどんなに離れても\nわしの心ん中にちゃんとある。",
-  "en": "You're right... No matter how far apart\nwe get, it's right here in my heart."
+  "en": "Ye're right... No matter how far apart\nwe get, it's right here in my heart."
  },
  {
   "id": "ms11_02:093:02",
@@ -1959,7 +1959,7 @@
   "id": "ms11_02:098:05",
   "speaker": "蒐",
   "jp": "あまり……嫌、でも、ない。",
-  "en": "I don't... really mind it."
+  "en": "I don't... really, mind it."
  },
  {
   "id": "ms11_02:098:06",
@@ -1983,7 +1983,7 @@
   "id": "ms11_02:099:00",
   "speaker": "蒐",
   "jp": "おお～、\nすごい、自信……。",
-  "en": "Ooh... So confident..."
+  "en": "Ooh... So, confident..."
  },
  {
   "id": "ms11_02:099:01",
@@ -1995,7 +1995,7 @@
   "id": "ms11_02:099:02",
   "speaker": "蒐",
   "jp": "{px}、だから、\n……丸。",
-  "en": "Because it's {px}... round."
+  "en": "Because it's, {px}... round."
  },
  {
   "id": "ms11_02:099:03",
@@ -2007,7 +2007,7 @@
   "id": "ms11_02:100:00",
   "speaker": "蒐",
   "jp": "おお～、\nすごい、自信……。",
-  "en": "Ooh... So confident..."
+  "en": "Ooh... So, confident..."
  },
  {
   "id": "ms11_02:100:01",
@@ -2019,7 +2019,7 @@
   "id": "ms11_02:100:02",
   "speaker": "蒐",
   "jp": "{px}、だから、\n……丸。",
-  "en": "Because it's {px}... round."
+  "en": "Because it's, {px}... round."
  },
  {
   "id": "ms11_02:100:03",
@@ -2031,7 +2031,7 @@
   "id": "ms11_02:101:00",
   "speaker": "蒐",
   "jp": "それは……ちょっと、\n近くに、いれない、かも。",
-  "en": "Then... I might not be able to stay close by."
+  "en": "Then... I might not, be able to stay, close by."
  },
  {
   "id": "ms11_02:101:01",
@@ -2049,7 +2049,7 @@
   "id": "ms11_02:102:00",
   "speaker": "蒐",
   "jp": "おお～、\n新たな、発見。",
-  "en": "Ooh... A new discovery."
+  "en": "Ooh... A new, discovery."
  },
  {
   "id": "ms11_02:102:01",
@@ -2061,7 +2061,7 @@
   "id": "ms11_02:102:02",
   "speaker": "蒐",
   "jp": "{px}、だから、\n……丸。",
-  "en": "Because it's {px}... round."
+  "en": "Because it's, {px}... round."
  },
  {
   "id": "ms11_02:102:03",
@@ -2109,13 +2109,13 @@
   "id": "ms11_02:105:00",
   "speaker": "蒐",
   "jp": "ん～……。\n違っ、た？",
-  "en": "Mmm... Was I wrong?"
+  "en": "Mmm... Was I, wrong?"
  },
  {
   "id": "ms11_02:105:01",
   "speaker": "蒐",
   "jp": "{px}は、四角。\nでも……丸も、ある。",
-  "en": "{px} is square. But... there's round too."
+  "en": "{px}, is square. But... there's round, too."
  },
  {
   "id": "ms11_02:105:02",
@@ -2127,13 +2127,13 @@
   "id": "ms11_02:106:00",
   "speaker": "蒐",
   "jp": "ん～……。\n違っ、た？",
-  "en": "Mmm... Was I wrong?"
+  "en": "Mmm... Was I, wrong?"
  },
  {
   "id": "ms11_02:106:01",
   "speaker": "蒐",
   "jp": "{px}は、四角。\nでも……丸も、ある。",
-  "en": "{px} is square. But... there's round too."
+  "en": "{px}, is square. But... there's round, too."
  },
  {
   "id": "ms11_02:106:02",
@@ -2163,7 +2163,7 @@
   "id": "ms11_02:108:01",
   "speaker": "蒐",
   "jp": "……{px}のいる、\n和、だから？",
-  "en": "...Because it's a circle with {px} in it?"
+  "en": "...Because it's, a circle with {px} in it?"
  },
  {
   "id": "ms11_02:108:02",
@@ -2193,7 +2193,7 @@
   "id": "ms11_02:109:01",
   "speaker": "燈治",
   "jp": "精々、馬鹿騒ぎ\nするとしようぜッ―――",
-  "en": "Let's go wild and make some noise--"
+  "en": "Let's raise one heck of a ruckus--"
  },
  {
   "id": "ms11_02:111:00",
@@ -2241,7 +2241,7 @@
   "id": "ms11_02:113:01",
   "speaker": "白",
   "jp": "思い起こす度、\n自然と頬が緩む。",
-  "en": "Each time I recall it, my cheeks\nsoften of their own accord."
+  "en": "Each time I recall it, I cannot help but smile."
  },
  {
   "id": "ms11_02:114:00",
@@ -2253,7 +2253,7 @@
   "id": "ms11_02:114:01",
   "speaker": "白",
   "jp": "思い起こす度、\n自然と頬が緩む。",
-  "en": "Each time I recall it, my cheeks\nsoften of their own accord."
+  "en": "Each time I recall it, I cannot help but smile."
  },
  {
   "id": "ms11_02:115:00",
@@ -2289,7 +2289,7 @@
   "id": "ms11_02:117:02",
   "speaker": "白",
   "jp": "あの馬鹿騒ぎ……\n思い起こす度、\n自然と頬が緩むわ。",
-  "en": "That foolish revelry... each time I recall\nit, my cheeks soften of their own accord."
+  "en": "That foolish revelry... each time I\nrecall it, I cannot help but smile."
  },
  {
   "id": "ms11_02:118:00",
@@ -2343,7 +2343,7 @@
   "id": "ms11_02:121:04",
   "speaker": "白",
   "jp": "じゃが、あの{ruby:灯|あか}り一つ一つを\n誰かが灯している事は、\n昔も現在も変わらぬ。",
-  "en": "Yet that each and every one of those lights is\nlit by someone has not changed, then or now."
+  "en": "Yet each one of those lights is\nlit by someone, then as now."
  },
  {
   "id": "ms11_02:121:05",
@@ -2361,7 +2361,7 @@
   "id": "ms11_02:121:07",
   "speaker": "白",
   "jp": "いま、その真中におるのは、\n{px}―――其方じゃ。",
-  "en": "And the one at its very centre\nnow is {px}-- you."
+  "en": "And the one at its very center\nnow is {px}-- you."
  },
  {
   "id": "ms11_02:122:00",
@@ -2421,7 +2421,7 @@
   "id": "ms11_02:125:01",
   "speaker": "白",
   "jp": "道を見失い、歩みを止め、\n悩み、もがき、苦しみ……",
-  "en": "They lose sight of the path, stop\nwalking, agonise, struggle, suffer..."
+  "en": "They lose sight of the path, stop\nwalking, agonize, struggle, suffer..."
  },
  {
   "id": "ms11_02:125:02",
@@ -2433,7 +2433,7 @@
   "id": "ms11_02:125:03",
   "speaker": "白",
   "jp": "ならば、いましばらく\n存分に悩むがよい。",
-  "en": "Then for a while yet, agonise\nto your heart's content."
+  "en": "Then for a while yet, agonize\nto your heart's content."
  },
  {
   "id": "ms11_02:126:00",
@@ -2499,7 +2499,7 @@
   "id": "ms11_02:129:00",
   "speaker": "鈴",
   "jp": "そうなんです！！\n大変大変なのです！！",
-  "en": "That is right!! It is terribly terrible!!"
+  "en": "That is right!! It is terribly terrible, it is!!"
  },
  {
   "id": "ms11_02:129:01",
@@ -2523,7 +2523,7 @@
   "id": "ms11_02:131:00",
   "speaker": "鈴",
   "jp": "はうう！！\nご、ごめんなさいです！！",
-  "en": "Hauu!! S-Suzu is sorry!!"
+  "en": "Hauu!! S-Suzu is sorry, it is!!"
  },
  {
   "id": "ms11_02:131:01",
@@ -2559,7 +2559,7 @@
   "id": "ms11_02:134:00",
   "speaker": "鈴",
   "jp": "困ってる場合ではないのです！\nむしろ、すずが困ってるです！",
-  "en": "This is no time to be troubled! If\nanything, Suzu is the troubled one!"
+  "en": "This is no time to be troubled, it is not!\nIf anything, Suzu is the troubled one!"
  },
  {
   "id": "ms11_02:134:01",
@@ -2571,7 +2571,7 @@
   "id": "ms11_02:135:00",
   "speaker": "鈴",
   "jp": "はわわわわ……\n{px}も大変です！！",
-  "en": "Hawawawawa... {px} is panicking too!!"
+  "en": "Hawawawawa... {px}\nis panicking too, it is!!"
  },
  {
   "id": "ms11_02:135:01",
@@ -2667,7 +2667,7 @@
   "id": "ms11_02:137:07",
   "speaker": "鍵",
   "jp": "賊の目的はお嬢でした。\n旦那はそれを止めようとして\nこんな目に……。",
-  "en": "The intruder was after the young miss. The\nboss tried to stop him and ended up like this..."
+  "en": "The intruder was after the young miss. The\nmaster tried to stop her and ended up like this..."
  },
  {
   "id": "ms11_02:137:08",
@@ -2685,19 +2685,19 @@
   "id": "ms11_02:138:01",
   "speaker": "鍵",
   "jp": "そんな言葉をかけられちゃ、\n余計に惨めになりやす。",
-  "en": "Hearin' words like that only makes\nme feel all the more wretched."
+  "en": "Hearing words like that only makes\nme feel all the more wretched."
  },
  {
   "id": "ms11_02:139:00",
   "speaker": "鍵",
   "jp": "……私らだけ無事でも、\n意味はありゃあしやせん。",
-  "en": "...Us bein' safe on our own don't mean a thing."
+  "en": "...Our being safe alone means nothing at all."
  },
  {
   "id": "ms11_02:139:01",
   "speaker": "鍵",
   "jp": "まさか、\nこんな事が起こるとは……。",
-  "en": "Never thought somethin' like this would happen..."
+  "en": "Never thought something like this would happen..."
  },
  {
   "id": "ms11_02:140:00",
@@ -2715,13 +2715,13 @@
   "id": "ms11_02:142:00",
   "speaker": "鍵",
   "jp": "返す言葉も\nありゃあしやせん。",
-  "en": "I ain't got a word to say for myself."
+  "en": "I haven't a word to say for myself."
  },
  {
   "id": "ms11_02:142:01",
   "speaker": "鍵",
   "jp": "まさか、\nこんな事が起こるとは……。",
-  "en": "Never dreamed somethin' like this could happen..."
+  "en": "Never dreamed something like this could happen..."
  },
  {
   "id": "ms11_02:143:00",
@@ -2763,13 +2763,13 @@
   "id": "ms11_02:147:00",
   "speaker": "鍵",
   "jp": "旦那は気を失ってるだけで\n命に別状はありやせん。\nですが、お嬢は……。",
-  "en": "The boss only got knocked out; his\nlife's in no danger. But the young miss..."
+  "en": "The master only got knocked out; his\nlife's in no danger. But the young miss..."
  },
  {
   "id": "ms11_02:147:01",
   "speaker": "鈴",
   "jp": "前にもここに来たことの\nある方だったから、\n油断したです……。",
-  "en": "She'd been here before, so\nSuzu let her guard down..."
+  "en": "She'd been here before, so\nSuzu let her guard down, it is..."
  },
  {
   "id": "ms11_02:147:02",
@@ -2841,7 +2841,7 @@
   "id": "ms11_02:149:02",
   "speaker": "白",
   "jp": "それでこそ、我が―――",
-  "en": "That is just what I'd expect of my--"
+  "en": "That is just what I would expect of my--"
  },
  {
   "id": "ms11_02:149:03",
@@ -2853,7 +2853,7 @@
   "id": "ms11_02:149:04",
   "speaker": "白",
   "jp": "心配せずとも、\n朝子の一人や二人、\n妾が救ってやるわ。",
-  "en": "Fret not. Saving the likes of Asako\nis a trifle; I shall do it myself."
+  "en": "Fret not. I shall rescue Asako\nmyself, and twice over if need be."
  },
  {
   "id": "ms11_02:150:00",
@@ -2919,7 +2919,7 @@
   "id": "ms11_02:151:03",
   "speaker": "鍵",
   "jp": "お嬢の気配が、\n龍脈に触れやした。",
-  "en": "I sensed the young miss touchin' the dragon vein."
+  "en": "I sensed the young miss touching the dragon vein."
  },
  {
   "id": "ms11_02:151:04",
@@ -2937,7 +2937,7 @@
   "id": "ms11_02:151:06",
   "speaker": "鍵",
   "jp": "坊……\nお嬢を頼みやす。",
-  "en": "Young master... I'm countin' on\nyou to bring the young miss back."
+  "en": "Young master... I'm counting on\nyou to bring the young miss back."
  },
  {
   "id": "ms11_02:151:07",
@@ -2949,7 +2949,7 @@
   "id": "ms11_02:151:08",
   "speaker": "鈴",
   "jp": "{px}……\nすずは、ご武運を\nお祈りしてるです……！！",
-  "en": "{px}... Suzu will\nbe praying for your victory...!!"
+  "en": "{px}... Suzu will be\npraying for your victory, it is...!!"
  },
  {
   "id": "ms11_02:ksf:45aaf",

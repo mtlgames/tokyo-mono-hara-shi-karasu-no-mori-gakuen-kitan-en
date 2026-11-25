@@ -303,7 +303,7 @@
   "id": "dg02_00:022:04",
   "speaker": "白",
   "jp": "まったく……。",
-  "en": "Honestly..."
+  "en": "Tsk..."
  },
  {
   "id": "dg02_00:023:00",
@@ -333,7 +333,7 @@
   "id": "dg02_00:025:01",
   "speaker": "札から聞こえる声",
   "jp": "{ruby:白札|わらわ}という道具を\n使いこなすのは\n其方の役目じゃ。",
-  "en": "To master the tool that is I,\nthe White Card, is your duty."
+  "en": "To master a tool such as I,\nthe White Card, is your duty."
  },
  {
   "id": "dg02_00:025:02",
@@ -375,7 +375,7 @@
   "id": "dg02_00:028:02",
   "speaker": "白",
   "jp": "やれやれ、\nまた札憑きかえ。",
-  "en": "Good grief, another Card-Possessed?"
+  "en": "Bah, another Card-Possessed?"
  },
  {
   "id": "dg02_00:028:03",
@@ -405,7 +405,7 @@
   "id": "dg02_00:028:07",
   "speaker": "巴",
   "jp": "ええと、その……\n白、って言ったわよね。",
-  "en": "Um, well... Mao, you said your name was, right?"
+  "en": "Um, well... Mao, wasn't it? That's what you said."
  },
  {
   "id": "dg02_00:028:08",

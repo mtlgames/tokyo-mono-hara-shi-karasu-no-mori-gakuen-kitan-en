@@ -51,7 +51,7 @@
   "id": "ms07_00:000:08",
   "speaker": "義王",
   "jp": "バカだなテメェら。\n裏切るとか裏切らねーとか\nそんなんは関係ねーんだよ。",
-  "en": "You're idiots. Betrayin', not\nbetrayin'--that crap don't matter."
+  "en": "You idiots. Betrayin' or not\nbetrayin'--none of that crap matters."
  },
  {
   "id": "ms07_00:000:09",
@@ -279,13 +279,13 @@
   "id": "ms07_00:013:01",
   "speaker": "白",
   "jp": "まったく……。\n顔色も優れぬのに\n無理をするからじゃ。",
-  "en": "Honestly... You look pale, and still you push yourself."
+  "en": "Tsk... You look pale, and still you push yourself."
  },
  {
   "id": "ms07_00:013:02",
   "speaker": "朝子",
   "jp": "……ふふ、\nありがとう、白ちゃん。",
-  "en": "...Hehe. Thank you, Mao-chan."
+  "en": "...Hee hee. Thank you, Mao-chan."
  },
  {
   "id": "ms07_00:013:03",
@@ -375,7 +375,7 @@
   "id": "ms07_00:015:00",
   "speaker": "白",
   "jp": "……まったく、\n妙なものじゃの。",
-  "en": "...Honestly, how strange."
+  "en": "...Truly, how strange."
  },
  {
   "id": "ms07_00:015:01",
@@ -429,7 +429,7 @@
   "id": "ms07_00:020:00",
   "speaker": "白",
   "jp": "まったく、\n其方ときたら……。",
-  "en": "Honestly, you are just..."
+  "en": "Truly, you are just..."
  },
  {
   "id": "ms07_00:020:01",
@@ -465,7 +465,7 @@
   "id": "ms07_00:023:00",
   "speaker": "白",
   "jp": "{ruby:頷|うなづ}くくらいせぬか。\nまったく……。",
-  "en": "Can you not at least nod? Honestly..."
+  "en": "Can you not at least nod? Tsk..."
  },
  {
   "id": "ms07_00:024:00",
@@ -603,7 +603,7 @@
   "id": "ms07_00:034:03",
   "speaker": "白",
   "jp": "失敬な事を申すな！",
-  "en": "How rude!"
+  "en": "How dare you say such a thing!"
  },
  {
   "id": "ms07_00:034:04",
@@ -963,13 +963,13 @@
   "id": "ms07_00:056:05",
   "speaker": "鈴",
   "jp": "いつ見ても、何だか\n怪しいひとなのです。",
-  "en": "No matter when Suzu sees him,\nhe seems kind of suspicious."
+  "en": "No matter when Suzu sees him,\nhe seems kind of suspicious, it is."
  },
  {
   "id": "ms07_00:056:06",
   "speaker": "鈴",
   "jp": "怖い目で\n{px}を見て……\n嫌な感じがするです……。",
-  "en": "He looks at {px} with\nscary eyes... It gives Suzu a bad feeling..."
+  "en": "He looks at {px} with scary\neyes... It gives Suzu a bad feeling, it is..."
  },
  {
   "id": "ms07_00:057:00",
@@ -981,7 +981,7 @@
   "id": "ms07_00:057:01",
   "speaker": "鈴",
   "jp": "むう～、\nすずも見習わないと\nいけないのです。",
-  "en": "Mmm~, Suzu has to learn from that."
+  "en": "Mmm~, Suzu has to learn from that, it is."
  },
  {
   "id": "ms07_00:057:02",
@@ -999,7 +999,7 @@
   "id": "ms07_00:058:01",
   "speaker": "鈴",
   "jp": "わかりましたです。\nすずも頑張るです！",
-  "en": "Understood. Suzu will do her best too!"
+  "en": "Understood. Suzu will do her best too, it is!"
  },
  {
   "id": "ms07_00:058:02",
@@ -1011,7 +1011,7 @@
   "id": "ms07_00:058:03",
   "speaker": "鈴",
   "jp": "そ、それはその……\nとにかく{px}の為に\n頑張るのです！",
-  "en": "Th-That's, um... Anyway, Suzu will\ndo her best for {px}!"
+  "en": "Th-That's, um... Anyway, Suzu will do\nher best for {px}, it is!"
  },
  {
   "id": "ms07_00:058:04",
@@ -1023,13 +1023,13 @@
   "id": "ms07_00:059:00",
   "speaker": "鈴",
   "jp": "むう～、\n{px}はなんだか\n興味津々なのです。",
-  "en": "Mmm~, {px}\nseems really curious about him."
+  "en": "Mmm~, {px} seems\nreally curious about him, it is."
  },
  {
   "id": "ms07_00:059:01",
   "speaker": "鈴",
   "jp": "すずも見習わないと\nいけないのです。",
-  "en": "Suzu has to learn from that."
+  "en": "Suzu has to learn from that, it is."
  },
  {
   "id": "ms07_00:059:02",
@@ -1041,7 +1041,7 @@
   "id": "ms07_00:060:00",
   "speaker": "鈴",
   "jp": "はいです。\n{px}がお困りなら、\nすずがお守りするです。",
-  "en": "Yes. If you're ever in trouble,\n{px}, Suzu will protect you."
+  "en": "Yes. If you're ever in trouble,\n{px}, Suzu will protect you, it is."
  },
  {
   "id": "ms07_00:060:01",
@@ -1077,7 +1077,7 @@
   "id": "ms07_00:061:02",
   "speaker": "鈴",
   "jp": "うう～……\nそうでしたです。\nごめんなさいです……。",
-  "en": "Uuu~... That's right. Suzu is sorry..."
+  "en": "Uuu~... That's right. Suzu is sorry, it is..."
  },
  {
   "id": "ms07_00:061:03",
@@ -1107,13 +1107,13 @@
   "id": "ms07_00:063:00",
   "speaker": "鈴",
   "jp": "はわわっ……。\nご、ごめんなさいです！",
-  "en": "Hawawa... S-Suzu is sorry!"
+  "en": "Hawawa... S-Suzu is sorry, it is!"
  },
  {
   "id": "ms07_00:063:01",
   "speaker": "鈴",
   "jp": "{px}のお知り合いを\n悪く言ったりは\nダメなのです……。",
-  "en": "Suzu shouldn't say bad things about\n{px}'s acquaintances..."
+  "en": "Saying bad things about {px}'s\nacquaintances is no good, it is not..."
  },
  {
   "id": "ms07_00:063:02",
@@ -1185,7 +1185,7 @@
   "id": "ms07_00:066:04",
   "speaker": "鈴",
   "jp": "そのときも、\n{px}のことを\nじろじろ見ていたです！",
-  "en": "And that time, he was staring\nat {px} too!"
+  "en": "And that time, he was staring\nat {px} too, it is!"
  },
  {
   "id": "ms07_00:066:05",
@@ -1353,7 +1353,7 @@
   "id": "ms07_00:081:03",
   "speaker": "鈴",
   "jp": "朝子さま……\n無理してお倒れになったり\nしないか心配なのです。",
-  "en": "Asako-sama... Suzu is worried she'll\npush herself too hard and collapse."
+  "en": "Asako-sama... Suzu is worried she'll\npush herself too hard and collapse, it is."
  },
  {
   "id": "ms07_00:081:04",
@@ -1371,13 +1371,13 @@
   "id": "ms07_00:081:06",
   "speaker": "鈴",
   "jp": "あわわ、お話ししすぎて\nしまったのです。",
-  "en": "Awawa, Suzu talked too much."
+  "en": "Awawa, Suzu talked too much, it is."
  },
  {
   "id": "ms07_00:081:07",
   "speaker": "鈴",
   "jp": "ではでは、\nいってらっしゃいませです！",
-  "en": "Well then, have a good day!"
+  "en": "Well then, have a good day, it is!"
  },
  {
   "id": "ms07_00:082:00",
@@ -2043,13 +2043,13 @@
   "id": "ms07_00:127:00",
   "speaker": "弥紀",
   "jp": "今日は冷えるね。\nなんだかあっという間に\n冬になっちゃいそう。",
-  "en": "It's chilly today. Feels like it's gonna\nturn into winter before we know it."
+  "en": "It's chilly today. Feels like it'll turn\ninto winter before we know it."
  },
  {
   "id": "ms07_00:127:01",
   "speaker": "弥紀",
   "jp": "寒いのは嫌いじゃないけど\n今日みたいに体育がある日は\nやっぱり辛いかなあ。",
-  "en": "I don't hate the cold, but on days with\nP.E. like today, it's still kinda rough."
+  "en": "I don't hate the cold, but on days with\nP.E. like today, it's still pretty tough."
  },
  {
   "id": "ms07_00:127:02",
@@ -2157,7 +2157,7 @@
   "id": "ms07_00:134:01",
   "speaker": "弥紀",
   "jp": "ふふ、\nおはよう、壇くん。",
-  "en": "Hehe, good morning, Dan-kun."
+  "en": "Hee hee, good morning, Dan-kun."
  },
  {
   "id": "ms07_00:134:02",
@@ -2493,7 +2493,7 @@
   "id": "ms07_00:155:04",
   "speaker": "燈治",
   "jp": "―――なんて、お前が花札を\n集める為に来たってのは\nわかってるけどよ。",
-  "en": "--Not that I don't get that you\ncame here to collect the hanafuda."
+  "en": "--Course, I know you came here\nto collect the hanafuda, though."
  },
  {
   "id": "ms07_00:155:05",
@@ -2637,7 +2637,7 @@
   "id": "ms07_00:166:09",
   "speaker": "久榮",
   "jp": "まったく……\nだから、無理はするなと\n言ったんだ。",
-  "en": "Honestly... This is exactly why\nI told you not to push yourself."
+  "en": "Really... This is exactly why I\ntold you not to push yourself."
  },
  {
   "id": "ms07_00:166:10",
@@ -2709,7 +2709,7 @@
   "id": "ms07_00:173:00",
   "speaker": "久榮",
   "jp": "やれやれ……。",
-  "en": "Good grief..."
+  "en": "Hmph..."
  },
  {
   "id": "ms07_00:174:00",
@@ -2721,7 +2721,7 @@
   "id": "ms07_00:175:00",
   "speaker": "久榮",
   "jp": "やれやれ……。",
-  "en": "Good grief..."
+  "en": "Hmph..."
  },
  {
   "id": "ms07_00:176:00",
@@ -3387,7 +3387,7 @@
   "id": "ms07_00:212:02",
   "speaker": "長英",
   "jp": "さっきの体育、\n窓から見とったけェ。",
-  "en": "I was watchin' your gym class\nfrom the window just now."
+  "en": "I was watchin' yer gym class from\nthe window just now, I tell ya."
  },
  {
   "id": "ms07_00:212:03",
@@ -3405,13 +3405,13 @@
   "id": "ms07_00:213:01",
   "speaker": "長英",
   "jp": "いやあ、それじゃったら\n授業なんぞ放り出して\n駆けつけるんじゃった。",
-  "en": "Aw, man, if that's so, I shoulda\nditched class and come runnin'."
+  "en": "Aw, if that's how it was, I shoulda\nditched class and come runnin'!"
  },
  {
   "id": "ms07_00:214:00",
   "speaker": "長英",
   "jp": "おお、そんなら是非今度\nわしも混ぜてください！",
-  "en": "Ohh, then next time, you gotta let me join in!"
+  "en": "Ohh, then next time, ye gotta let me join in!"
  },
  {
   "id": "ms07_00:214:01",
@@ -3423,13 +3423,13 @@
   "id": "ms07_00:215:00",
   "speaker": "長英",
   "jp": "いやァ～、\nわしも先輩とそんな手合わせが\nしてみたいもんじゃ！",
-  "en": "Man, I'd sure love to have a bout\nlike that with you too, Senpai!"
+  "en": "Man, I'd sure love to have a bout\nlike that with ye too, Senpai!"
  },
  {
   "id": "ms07_00:216:00",
   "speaker": "長英",
   "jp": "おお、なら今度是非、\nわしとも試合うてください！",
-  "en": "Ohh, then next time, you\ngotta face me in a match too!"
+  "en": "Ohh, then next time, ye gotta\nface me in a match too!"
  },
  {
   "id": "ms07_00:217:00",
@@ -3441,7 +3441,7 @@
   "id": "ms07_00:217:01",
   "speaker": "長英",
   "jp": "確かに授業サボって\n他人の授業に顔突っ込むたァ、\n筋違いもいいとこじゃ……。",
-  "en": "You're right, cuttin' my own class to stick\nmy nose in someone else's is way outta line..."
+  "en": "Ye're right, cuttin' my own class to stick my\nnose in someone else's is way outta line..."
  },
  {
   "id": "ms07_00:218:00",
@@ -3453,7 +3453,7 @@
   "id": "ms07_00:218:01",
   "speaker": "長英",
   "jp": "確かに授業サボって\n他人の授業に顔突っ込むたァ、\n筋違いもいいとこじゃ……。",
-  "en": "You're right, cuttin' my own class to stick\nmy nose in someone else's is way outta line..."
+  "en": "Ye're right, cuttin' my own class to stick my\nnose in someone else's is way outta line..."
  },
  {
   "id": "ms07_00:219:00",
@@ -3465,13 +3465,13 @@
   "id": "ms07_00:219:01",
   "speaker": "長英",
   "jp": "確かに授業サボって\n他人の授業に顔突っ込むたァ、\n筋違いもいいとこじゃ……。",
-  "en": "You're right, cuttin' my own class to stick\nmy nose in someone else's is way outta line..."
+  "en": "Ye're right, cuttin' my own class to stick my\nnose in someone else's is way outta line..."
  },
  {
   "id": "ms07_00:220:00",
   "speaker": "長英",
   "jp": "た、確かに授業サボって\n他人の授業に顔突っ込むたァ、\n筋違いもいいとこじゃな……。",
-  "en": "Y-You're right, cuttin' my own class to stick my\nnose in someone else's is way outta line, huh..."
+  "en": "Y-Ye're right, cuttin' my own class to stick my\nnose in someone else's is way outta line, huh..."
  },
  {
   "id": "ms07_00:221:00",
@@ -3489,7 +3489,7 @@
   "id": "ms07_00:222:01",
   "speaker": "長英",
   "jp": "あの方ァ、いつも頑張って\nらっしゃるからのう。",
-  "en": "That lady's always workin' so hard, y'know."
+  "en": "That lady's always workin' so hard, ye know."
  },
  {
   "id": "ms07_00:222:02",
@@ -3501,25 +3501,25 @@
   "id": "ms07_00:222:03",
   "speaker": "長英",
   "jp": "そう言やァ、あの方は\n{px}の担任じゃった！！",
-  "en": "Now that I think of it, she's your\nhomeroom teacher, {px}!!"
+  "en": "Now that I think of it, she's yer\nhomeroom teacher, {px}!!"
  },
  {
   "id": "ms07_00:222:04",
   "speaker": "長英",
   "jp": "……ひょっとしていまから\n見舞いに行かれるんけェ？",
-  "en": "...Are you maybe goin' to visit her right now?"
+  "en": "...Are ye maybe goin' to visit her right now?"
  },
  {
   "id": "ms07_00:223:00",
   "speaker": "長英",
   "jp": "おお！\n流石は{px}じゃあ！！",
-  "en": "Ohh! That's {px} for ya!!"
+  "en": "Ohh! That's {px} for ye!!"
  },
  {
   "id": "ms07_00:223:01",
   "speaker": "長英",
   "jp": "担任と言えば、恩師！\n行かない道理はないけェのう！",
-  "en": "A homeroom teacher's a mentor!\nNo way you wouldn't go!"
+  "en": "A homeroom teacher's a mentor!\nNo way ye wouldn't go!"
  },
  {
   "id": "ms07_00:224:00",
@@ -3537,13 +3537,13 @@
   "id": "ms07_00:225:00",
   "speaker": "長英",
   "jp": "誰かを想うその熱さ、\nさすがは{px}じゃあ！",
-  "en": "That burnin' care for others...\nthat's {px} for ya!"
+  "en": "That burnin' care for others...\nthat's {px} for ye!"
  },
  {
   "id": "ms07_00:226:00",
   "speaker": "長英",
   "jp": "そうですか。\n{px}はやっぱり\nええお人じゃのう。",
-  "en": "Is that so. You really are a\ngood person, {px}."
+  "en": "Is that so. Ye really are a good\nperson, {px}."
  },
  {
   "id": "ms07_00:227:00",
@@ -3573,7 +3573,7 @@
   "id": "ms07_00:231:00",
   "speaker": "長英",
   "jp": "言葉は要らん……。\nそういう事じゃな！",
-  "en": "No words needed... That's what you mean, right!"
+  "en": "No words needed... That's what ye mean, right!"
  },
  {
   "id": "ms07_00:232:00",
@@ -3621,7 +3621,7 @@
   "id": "ms07_00:232:07",
   "speaker": "長英",
   "jp": "じゃから……その、\n色々お忙しいとは思うけんど、\n見に来てくれんですか？",
-  "en": "So... um, I know you're real busy with all\nkinds of stuff, but... would you come watch?"
+  "en": "So... um, I know ye're real busy with all\nkinds of stuff, but... would ye come watch?"
  },
  {
   "id": "ms07_00:233:00",
@@ -3633,25 +3633,25 @@
   "id": "ms07_00:233:01",
   "speaker": "長英",
   "jp": "お気持ちに応えられるよう、\n特訓開始じゃあ！！",
-  "en": "Time to start special trainin' so I can\nlive up to what you're hopin' for!!"
+  "en": "Time to start special trainin' so I can\nlive up to what ye're hopin' for!!"
  },
  {
   "id": "ms07_00:234:00",
   "speaker": "長英",
   "jp": "そがァ喜ばれると、\nなんじゃ、照れるのう。",
-  "en": "When you look so happy\nabout it, it's kinda embarrassin'."
+  "en": "When ye look so happy about\nit, it's kinda embarrassin'."
  },
  {
   "id": "ms07_00:234:01",
   "speaker": "長英",
   "jp": "じゃが、チーム一丸となって\n試合に臨みますけェ、\n期待しとってくだせえ！！",
-  "en": "But the whole team's gonna go into that\nmatch as one, so you can count on us!!"
+  "en": "But the whole team's gonna go into that\nmatch as one, so ye can count on us!!"
  },
  {
   "id": "ms07_00:235:00",
   "speaker": "長英",
   "jp": "押忍ッ！！\n必ず{px}に\n勝利を捧げますけェの！！",
-  "en": "Osu!! I'll win this one for you,\n{px}, I swear it!!"
+  "en": "Osu!! I'll win this one for ye,\n{px}, I swear it!!"
  },
  {
   "id": "ms07_00:236:00",
@@ -3669,7 +3669,7 @@
   "id": "ms07_00:237:01",
   "speaker": "長英",
   "jp": "い、いかん、\nわしはどうも{px}に\n甘えとるな……。",
-  "en": "N-No good, I'm leanin' on you way\ntoo much, {px}..."
+  "en": "N-No good, I'm leanin' on ye way\ntoo much, {px}..."
  },
  {
   "id": "ms07_00:237:02",
@@ -3681,7 +3681,7 @@
   "id": "ms07_00:238:00",
   "speaker": "長英",
   "jp": "うーむ、\n確かに{px}は、\nお忙しい身じゃしの。",
-  "en": "Hmm, you're right, {px},\nyou're a busy guy."
+  "en": "Hmm, ye're right, {px},\nye're a busy guy."
  },
  {
   "id": "ms07_00:238:01",
@@ -3699,7 +3699,7 @@
   "id": "ms07_00:239:01",
   "speaker": "長英",
   "jp": "い、いかん、\nわしはどうも{px}に\n甘えとるな……。",
-  "en": "N-No good, I'm leanin' on you way\ntoo much, {px}..."
+  "en": "N-No good, I'm leanin' on ye way\ntoo much, {px}..."
  },
  {
   "id": "ms07_00:239:02",
@@ -3711,7 +3711,7 @@
   "id": "ms07_00:240:00",
   "speaker": "長英",
   "jp": "うーむ、\n確かに{px}は、\nお忙しい身じゃしの。",
-  "en": "Hmm, you're right, {px},\nyou're a busy guy."
+  "en": "Hmm, ye're right, {px},\nye're a busy guy."
  },
  {
   "id": "ms07_00:240:01",
@@ -3729,7 +3729,7 @@
   "id": "ms07_00:241:01",
   "speaker": "長英",
   "jp": "い、いかん、\nわしはどうも{px}に\n甘えとるな……。",
-  "en": "N-No good, I'm leanin' on you way\ntoo much, {px}..."
+  "en": "N-No good, I'm leanin' on ye way\ntoo much, {px}..."
  },
  {
   "id": "ms07_00:241:02",
@@ -3771,7 +3771,7 @@
   "id": "ms07_00:242:05",
   "speaker": "長英",
   "jp": "じゃが、思ったより\n顔色も悪うないようじゃし、\nちょっと安心したけェ。",
-  "en": "But she don't look as pale as I\nfigured. That's a bit of a relief."
+  "en": "But she don't look near as pale as\nI figured. That's a load off, I tell ya."
  },
  {
   "id": "ms07_00:242:06",
@@ -3783,13 +3783,13 @@
   "id": "ms07_00:242:07",
   "speaker": "長英",
   "jp": "{px}は、\n……どうするんじゃ？",
-  "en": "What about you, {px}...\nwhat're you gonna do?"
+  "en": "What about ye, {px}...\nwhat're ye gonna do?"
  },
  {
   "id": "ms07_00:243:00",
   "speaker": "長英",
   "jp": "そうか！\nじゃあ途中まで\nご一緒しやす。",
-  "en": "Right! Then I'll walk with you part of the way."
+  "en": "Right! Then I'll walk with ye part of the way."
  },
  {
   "id": "ms07_00:243:01",
@@ -3891,7 +3891,7 @@
   "id": "ms07_00:245:02",
   "speaker": "蒐",
   "jp": "廊下でうっかり\n会うとか、奇遇。",
-  "en": "Bumping into you in the hall. What a coincidence."
+  "en": "Running into you in the hall, like this. Coincidence."
  },
  {
   "id": "ms07_00:245:03",
@@ -3903,7 +3903,7 @@
   "id": "ms07_00:245:04",
   "speaker": "蒐",
   "jp": "生徒会の書類で、\n羽鳥先生の印鑑、必要。",
-  "en": "Student council papers. Need Hatori-sensei's seal."
+  "en": "Student council papers, they\nneed, Hatori-sensei's seal."
  },
  {
   "id": "ms07_00:245:05",
@@ -4305,7 +4305,7 @@
   "id": "ms07_00:268:02",
   "speaker": "白",
   "jp": "まったく、あの娘は\nちょっと目を放した隙に\n勝手に倒れおって。",
-  "en": "Honestly, that girl. The moment I take\nmy eyes off her, she goes and collapses."
+  "en": "Bah, that girl. The moment I take my\neyes off her, she goes and collapses."
  },
  {
   "id": "ms07_00:268:03",
@@ -4587,7 +4587,7 @@
   "id": "ms07_00:288:09",
   "speaker": "白",
   "jp": "ふむ、顔色も悪くはないし\n寝息も穏やかじゃ。\nまったく心配かけおって……。",
-  "en": "Hmm, her color is not bad, and her breathing\nis calm. Honestly, making me worry so..."
+  "en": "Hmm, her color is not bad, and her breathing\nis calm. Truly, making me worry so..."
  },
  {
   "id": "ms07_00:288:10",
@@ -5157,7 +5157,7 @@
   "id": "ms07_00:317:00",
   "speaker": "弥紀",
   "jp": "ふふ、そうだね。\nすごく楽しかった。",
-  "en": "Hehe, you're right. It's been really fun."
+  "en": "Hee hee, you're right. It's been really fun."
  },
  {
   "id": "ms07_00:318:00",
@@ -5553,7 +5553,7 @@
   "id": "ms07_00:338:01",
   "speaker": "若い女性の声",
   "jp": "おとう……さん……？",
-  "en": "Fa...ther...?"
+  "en": "Da...d...?"
  },
  {
   "id": "ms07_00:338:02",
@@ -5637,7 +5637,7 @@
   "id": "ms07_00:341:01",
   "speaker": "朝子",
   "jp": "ふふ、覚えておきなさい。",
-  "en": "Hehe, you'd better remember that."
+  "en": "Hee hee, you'd better remember that."
  },
  {
   "id": "ms07_00:342:00",
@@ -5745,7 +5745,7 @@
   "id": "ms07_00:351:04",
   "speaker": "朝子",
   "jp": "境内でお母さんと一緒に\n不思議な人とお話ししたり、\n変わった動物を見つけたり……",
-  "en": "At the shrine, Mother and I would talk with\nstrange people, or find unusual animals..."
+  "en": "At the shrine, Mom and I would talk with\nstrange people, or find unusual animals..."
  },
  {
   "id": "ms07_00:351:05",
@@ -5757,13 +5757,13 @@
   "id": "ms07_00:351:06",
   "speaker": "朝子",
   "jp": "でも、お母さんと一緒なら、\n全然、怖くなかったの。",
-  "en": "But as long as I was with\nMother, I wasn't scared one bit."
+  "en": "But as long as I was with\nMom, I wasn't scared one bit."
  },
  {
   "id": "ms07_00:351:07",
   "speaker": "朝子",
   "jp": "その事を話すと、\nお父さんはいつも\n悲しそうな顔をしたけど……。",
-  "en": "Whenever I talked about it, Father\nalways looked so sad, though..."
+  "en": "Whenever I talked about it, Dad\nalways looked so sad, though..."
  },
  {
   "id": "ms07_00:351:08",
@@ -5799,7 +5799,7 @@
   "id": "ms07_00:353:00",
   "speaker": "朝子",
   "jp": "ふふ……\nありがとう、{px}。",
-  "en": "Hehe... Thank you, {px}."
+  "en": "Hee hee... Thank you, {px}."
  },
  {
   "id": "ms07_00:353:01",
@@ -5811,7 +5811,7 @@
   "id": "ms07_00:354:00",
   "speaker": "朝子",
   "jp": "ふふ、\nありがとう、{px}。",
-  "en": "Hehe, thank you, {px}."
+  "en": "Hee hee, thank you, {px}."
  },
  {
   "id": "ms07_00:354:01",

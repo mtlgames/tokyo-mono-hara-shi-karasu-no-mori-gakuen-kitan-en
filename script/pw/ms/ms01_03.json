@@ -39,7 +39,7 @@
   "id": "ms01_03:000:06",
   "speaker": "白",
   "jp": "うむ。\nまあこんなものじゃろう。",
-  "en": "Mm. I daresay this shall do."
+  "en": "Mm. This should do well enough."
  },
  {
   "id": "ms01_03:000:07",
@@ -267,7 +267,7 @@
   "id": "ms01_03:011:16",
   "speaker": "白",
   "jp": "もう知らんッ。\n妾は知らんからなッ！！",
-  "en": "Enough! I am done with you, do you hear!?"
+  "en": "I care not! I care not at all, do you hear!?"
  },
  {
   "id": "ms01_03:011:17",
@@ -411,7 +411,7 @@
   "id": "ms01_03:022:01",
   "speaker": "弥紀",
   "jp": "ふふッ。\nやっぱり今日一番の不思議は\n{px}だったね。",
-  "en": "Hehe. I knew it--the biggest mystery of\nthe day was you, {px}."
+  "en": "Hee hee. I knew it--the biggest mystery\nof the day was you, {px}."
  },
  {
   "id": "ms01_03:022:02",

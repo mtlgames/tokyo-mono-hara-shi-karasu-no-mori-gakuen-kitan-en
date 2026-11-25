@@ -153,7 +153,7 @@
   "id": "dg13_03:005:01",
   "speaker": "白",
   "jp": "やれやれ。\nこの期に及んで、其方は\n何もわかっておらぬ。",
-  "en": "Honestly. Even at this late\nhour, you understand nothing."
+  "en": "Tsk. Even at this late hour, you understand nothing."
  },
  {
   "id": "dg13_03:005:02",
@@ -201,7 +201,7 @@
   "id": "dg13_03:006:01",
   "speaker": "白",
   "jp": "やれやれ。\nこの期に及んで、其方らは\n何もわかっておらぬ。",
-  "en": "Honestly. Even at this late hour,\nthe pair of you understand nothing."
+  "en": "Tsk. Even at this late hour, the\npair of you understand nothing."
  },
  {
   "id": "dg13_03:006:02",
@@ -447,13 +447,13 @@
   "id": "dg13_03:018:02",
   "speaker": "鈴",
   "jp": "すずも……\nすずも、頑張るです！",
-  "en": "Suzu too... Suzu will do her best too!"
+  "en": "Suzu too... Suzu will do her best too, it is!"
  },
  {
   "id": "dg13_03:018:03",
   "speaker": "鈴",
   "jp": "{px}が……\n無事に戻ってくるまで、\n頑張って、泣かないです！",
-  "en": "Until {px}... comes back\nsafe, Suzu will do her best and not cry!"
+  "en": "Until {px}... comes back safe,\nSuzu will do her best and not cry, it is!"
  },
  {
   "id": "dg13_03:018:04",
@@ -549,7 +549,7 @@
   "id": "dg13_03:032:00",
   "speaker": "絢人",
   "jp": "やれやれ……\nまさか最後にこんな大仕掛けが\n残っていたとはね。",
-  "en": "Good grief... Who'd have thought such a grand\ncontraption was waiting for us at the very end?"
+  "en": "My, my... Who'd have thought such a grand\ncontraption was waiting for us at the very end?"
  },
  {
   "id": "dg13_03:032:01",
@@ -573,7 +573,7 @@
   "id": "dg13_03:036:00",
   "speaker": "要",
   "jp": "まったく……まさかうちが\nこないな場に立ち会う事になる\nとは思いもしませんでしたえ。",
-  "en": "Honestly... I never once imagined I'd\nbe present at an occasion like this."
+  "en": "My word... I never once imagined I'd\nbe present at an occasion like this."
  },
  {
   "id": "dg13_03:036:01",
@@ -591,7 +591,7 @@
   "id": "dg13_03:038:01",
   "speaker": "道佳",
   "jp": "さ、{px}。\nアタシたちの初めての\n共同作業……頑張りましょ☆",
-  "en": "Now, {px}. Our first task\ntogether as a couple, like cutting the\nwedding cake... Let's give it our all~"
+  "en": "Now, {px}. Our first joint\neffort as a couple... Let's give it our all~"
  },
  {
   "id": "dg13_03:040:00",

@@ -15,7 +15,7 @@
   "id": "ms11_03:000:02",
   "speaker": "万黎",
   "jp": "{pm}　{pn}……。\n大いなる秘法を携え、\n我が元を目指すか。",
-  "en": "{pm} {pn}... You bear the\ngreat arcana and seek to reach me."
+  "en": "{pn} {pm}... You bear the\ngreat arcana and seek to reach me."
  },
  {
   "id": "ms11_03:000:03",
@@ -39,7 +39,7 @@
   "id": "ms11_03:000:06",
   "speaker": "万黎",
   "jp": "早く来い、\n{pm}　{pn}……。",
-  "en": "Come quickly, {pm} {pn}..."
+  "en": "Come quickly, {pn} {pm}..."
  },
  {
   "id": "ms11_03:000:07",

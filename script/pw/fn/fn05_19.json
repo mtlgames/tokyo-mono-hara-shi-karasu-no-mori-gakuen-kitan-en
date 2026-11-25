@@ -3,13 +3,13 @@
   "id": "fn05_19:001:00",
   "speaker": "鈴",
   "jp": "お帰りなさいなのです。\nあのあの、聞いて欲しいことが\nあるです！",
-  "en": "Welcome home! Um, um, Suzu has\nsomething she wants you to hear!"
+  "en": "Welcome home! Um, um, Suzu has\nsomething she wants you to hear, it is!"
  },
  {
   "id": "fn05_19:001:01",
   "speaker": "鈴",
   "jp": "今日はとっても素敵な事が\nあったです。",
-  "en": "Something really wonderful happened today."
+  "en": "Something really wonderful happened today, it is."
  },
  {
   "id": "fn05_19:001:02",
@@ -21,7 +21,7 @@
   "id": "fn05_19:001:03",
   "speaker": "鈴",
   "jp": "これも{ruby:清|せい}さまがご立派に\nお勤めを果たされている\nからなのです。",
-  "en": "It's all because Sei-sama carries\nout his duties so splendidly."
+  "en": "It's all because Sei-sama carries\nout his duties so splendidly, it is."
  },
  {
   "id": "fn05_19:001:04",
@@ -33,31 +33,31 @@
   "id": "fn05_19:002:00",
   "speaker": "鈴",
   "jp": "だから……ぬしさまにも\nこの場所、\n信じてほしいです。",
-  "en": "So... Suzu wants you to believe\nin this place too, Master."
+  "en": "So... Suzu wants you to believe\nin this place too, Master, it is."
  },
  {
   "id": "fn05_19:003:00",
   "speaker": "鈴",
   "jp": "……えへへ。\nそうおっしゃって頂くと\n本当に嬉しいのです。",
-  "en": "...Hehe. It makes Suzu really\nhappy to hear you say that."
+  "en": "...Hehe. It makes Suzu really\nhappy to hear you say that, it is."
  },
  {
   "id": "fn05_19:003:01",
   "speaker": "鈴",
   "jp": "すずたちまで\nつやつやなのです！",
-  "en": "It makes all of us shine bright!"
+  "en": "It makes all of us shine bright, it is!"
  },
  {
   "id": "fn05_19:004:00",
   "speaker": "鈴",
   "jp": "えへへ……\n嬉しいのです！",
-  "en": "Hehe... Suzu's so happy!"
+  "en": "Hehe... Suzu's so happy, it is!"
  },
  {
   "id": "fn05_19:004:01",
   "speaker": "鈴",
   "jp": "そう言って頂けると、\nすずたちまで\nつやつやなのです！",
-  "en": "When you say that, it makes all of us shine bright!"
+  "en": "When you say that, it makes\nall of us shine bright, it is!"
  },
  {
   "id": "fn05_19:005:00",
@@ -69,13 +69,13 @@
   "id": "fn05_19:005:01",
   "speaker": "鈴",
   "jp": "ありがとうございます、\nすずたちまで\nつやつやなのです！",
-  "en": "Thank you very much! It\nmakes all of us shine bright!"
+  "en": "Thank you very much! It makes\nall of us shine bright, it is!"
  },
  {
   "id": "fn05_19:006:00",
   "speaker": "鈴",
   "jp": "よかったのです！\nえへへ……嬉しいです。",
-  "en": "Suzu's so glad! Hehe... Suzu's happy."
+  "en": "Suzu's so glad! Hehe... Suzu's happy, it is."
  },
  {
   "id": "fn05_19:007:00",
@@ -87,7 +87,7 @@
   "id": "fn05_19:007:01",
   "speaker": "鈴",
   "jp": "そうなのですか、\n残念です……。",
-  "en": "Is that so... What a shame..."
+  "en": "Is that so... What a shame, it is..."
  },
  {
   "id": "fn05_19:008:00",
@@ -105,7 +105,7 @@
   "id": "fn05_19:009:00",
   "speaker": "鈴",
   "jp": "はわわ……。\n残念です……。",
-  "en": "Wha-wha... What a shame..."
+  "en": "Wha-wha... What a shame, it is..."
  },
  {
   "id": "fn05_19:010:00",
@@ -117,7 +117,7 @@
   "id": "fn05_19:011:00",
   "speaker": "鈴",
   "jp": "……ご、ごめんなさい。\nすず、変なこと\nおねがいしたです。",
-  "en": "...S-sorry. Suzu asked you something strange."
+  "en": "...S-sorry. Suzu asked you something strange, it is."
  },
  {
   "id": "fn05_19:012:00",
@@ -129,7 +129,7 @@
   "id": "fn05_19:012:01",
   "speaker": "鈴",
   "jp": "それが集まって、\nとっても大きな\n心になるのだそうです。",
-  "en": "it all gathers together and\nbecomes one really big heart."
+  "en": "it all gathers together and\nbecomes one really big heart, it is."
  },
  {
   "id": "fn05_19:012:02",
@@ -141,19 +141,19 @@
   "id": "fn05_19:012:03",
   "speaker": "鈴",
   "jp": "すずも清さまを手伝って\nみなさまをお守りする\n神社にしていきたいです！",
-  "en": "Suzu wants to help Sei-sama make\nthis a shrine that protects everyone!"
+  "en": "Suzu wants to help Sei-sama make this\na shrine that protects everyone, it is!"
  },
  {
   "id": "fn05_19:013:00",
   "speaker": "鈴",
   "jp": "まだまだすずの精進が\n足りない{ruby:証|あかし}なのです。",
-  "en": "It's proof that Suzu still hasn't trained hard enough."
+  "en": "It's proof that Suzu still hasn't\ntrained hard enough, it is."
  },
  {
   "id": "fn05_19:013:01",
   "speaker": "鈴",
   "jp": "ぬしさまに\n認めて頂けるよう、\n精進あるのみです！",
-  "en": "All Suzu can do is keep training\nso you'll acknowledge her, Master!"
+  "en": "All Suzu can do is keep training so\nMaster will acknowledge her, it is!"
  },
  {
   "id": "fn05_19:013:02",
@@ -171,12 +171,12 @@
   "id": "fn05_19:014:01",
   "speaker": "鈴",
   "jp": "なんと、一緒に\nご飯を頂いている\nということになるです！",
-  "en": "then guess what, it's like\nwe're eating dinner together!"
+  "en": "then guess what, it's like we're\neating dinner together, it is!"
  },
  {
   "id": "fn05_19:014:02",
   "speaker": "鈴",
   "jp": "すごい発見だと\n鍵さんにも\nほめられたです！",
-  "en": "Ken-san praised Suzu and said\nit was an amazing discovery!"
+  "en": "Ken-san praised Suzu and said it\nwas an amazing discovery, it is!"
  }
 ]

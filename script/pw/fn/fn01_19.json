@@ -3,7 +3,7 @@
   "id": "fn01_19:001:00",
   "speaker": "鈴",
   "jp": "あ、ぬしさまなのです。\nまた来てくれたです！",
-  "en": "Ah, it's Master! You came back again!"
+  "en": "Ah, it's Master! You came back again, it is!"
  },
  {
   "id": "fn01_19:001:01",
@@ -15,7 +15,7 @@
   "id": "fn01_19:001:02",
   "speaker": "鈴",
   "jp": "おかえりなさい、です！",
-  "en": "W-Welcome home!"
+  "en": "W-Welcome home, it is!"
  },
  {
   "id": "fn01_19:002:00",
@@ -27,7 +27,7 @@
   "id": "fn01_19:002:01",
   "speaker": "鈴",
   "jp": "び、びっくりしたです。\nものすごいご挨拶\nだったのです……。",
-  "en": "Th-That surprised Suzu. That\nwas a really big greeting..."
+  "en": "Th-That surprised Suzu. That\nwas a really big greeting, it is..."
  },
  {
   "id": "fn01_19:002:02",
@@ -39,7 +39,7 @@
   "id": "fn01_19:003:00",
   "speaker": "鈴",
   "jp": "えへへ……。\nお答えしてもらえたのです。",
-  "en": "Ehehe... Suzu got an answer back."
+  "en": "Ehehe... Suzu got an answer back, it is."
  },
  {
   "id": "fn01_19:003:01",
@@ -51,13 +51,13 @@
   "id": "fn01_19:003:02",
   "speaker": "鈴",
   "jp": "おかえりなさいなのです。",
-  "en": "Welcome home!"
+  "en": "Welcome home, it is!"
  },
  {
   "id": "fn01_19:004:00",
   "speaker": "鈴",
   "jp": "はわわ……\nこ、これは\n負けられないのです！",
-  "en": "Hawawa... Th-This means Suzu can't lose!"
+  "en": "Hawawa... Th-This means Suzu can't lose, it is!"
  },
  {
   "id": "fn01_19:004:01",
@@ -69,13 +69,13 @@
   "id": "fn01_19:004:02",
   "speaker": "鈴",
   "jp": "おかえりなさいなのです！！",
-  "en": "Welcome hooome!!"
+  "en": "Welcome hooome, it is!!"
  },
  {
   "id": "fn01_19:005:00",
   "speaker": "鈴",
   "jp": "えへへ……。\nお答えしてもらえたのです。",
-  "en": "Ehehe... Suzu got an answer back."
+  "en": "Ehehe... Suzu got an answer back, it is."
  },
  {
   "id": "fn01_19:006:00",
@@ -93,7 +93,7 @@
   "id": "fn01_19:006:02",
   "speaker": "鈴",
   "jp": "よく知らないのに、\nごめんなさいです……。",
-  "en": "Suzu's sorry, she didn't really know..."
+  "en": "Suzu didn't really know... She's sorry, it is..."
  },
  {
   "id": "fn01_19:007:00",
@@ -111,7 +111,7 @@
   "id": "fn01_19:007:02",
   "speaker": "鈴",
   "jp": "よく知らないのに、\nごめんなさいです……。",
-  "en": "Suzu's sorry, she didn't really know..."
+  "en": "Suzu didn't really know... She's sorry, it is..."
  },
  {
   "id": "fn01_19:008:00",
@@ -129,7 +129,7 @@
   "id": "fn01_19:008:02",
   "speaker": "鈴",
   "jp": "おうちに帰ってきたひとには\nおかえりなさいな\nはずなのです……。",
-  "en": "and when somebody comes home, you're\nsupposed to say \"welcome home\"..."
+  "en": "and when somebody comes home, you're\nsupposed to say \"welcome home,\" it is..."
  },
  {
   "id": "fn01_19:008:03",
@@ -153,7 +153,7 @@
   "id": "fn01_19:009:02",
   "speaker": "鈴",
   "jp": "おうちに帰ってきたひとには\nおかえりなさいな\nはずなのです……。",
-  "en": "and when somebody comes home, you're\nsupposed to say \"welcome home\"..."
+  "en": "and when somebody comes home, you're\nsupposed to say \"welcome home,\" it is..."
  },
  {
   "id": "fn01_19:009:03",
@@ -177,13 +177,13 @@
   "id": "fn01_19:011:01",
   "speaker": "鈴",
   "jp": "さっき、すずの右耳に\nすずめさんが止まったです。\n普段は左なのに、です！",
-  "en": "A little while ago, a sparrow landed on\nSuzu's right ear. It's usually the left one!"
+  "en": "A little while ago, a sparrow landed on Suzu's\nright ear. Even though it's usually the left, it is!"
  },
  {
   "id": "fn01_19:011:02",
   "speaker": "鈴",
   "jp": "ちょこちょこ、って\n右にも来てくれたです！",
-  "en": "It came hop-hop-hopping over to the right side too!"
+  "en": "It came hop-hop-hopping over\nto the right side too, it is!"
  },
  {
   "id": "fn01_19:011:03",
@@ -207,19 +207,19 @@
   "id": "fn01_19:011:06",
   "speaker": "鈴",
   "jp": "お話したいことが\nたくさん過ぎて、\n頭がぷしゅ～です……。",
-  "en": "There's so many things Suzu wants\nto talk about, her head's going pshhh..."
+  "en": "There's so many things Suzu wants to\ntalk about, her head's going pshhh, it is..."
  },
  {
   "id": "fn01_19:011:07",
   "speaker": "鈴",
   "jp": "今度お話する時は、\nちゃんとまとめておくです。",
-  "en": "Next time we talk, Suzu will have it all sorted out."
+  "en": "Next time we talk, Suzu will\nhave it all sorted out, it is."
  },
  {
   "id": "fn01_19:011:08",
   "speaker": "鈴",
   "jp": "だからまた、すずと\nお話ししてくださいなのです！",
-  "en": "So please come talk with Suzu again!"
+  "en": "So please come talk with Suzu again, it is!"
  },
  {
   "id": "fn01_19:012:00",
@@ -231,6 +231,6 @@
   "id": "fn01_19:012:01",
   "speaker": "鈴",
   "jp": "たくさんありすぎて\nうまくまとまらないです……。",
-  "en": "There's too many, Suzu can't sort them out..."
+  "en": "There's too many, Suzu can't sort them out, it is..."
  }
 ]

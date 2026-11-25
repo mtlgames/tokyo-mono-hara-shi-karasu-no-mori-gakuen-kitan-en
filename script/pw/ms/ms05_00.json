@@ -249,7 +249,7 @@
   "id": "ms05_00:000:41",
   "speaker": "富樫",
   "jp": "通報は一件のみか？\nやけに落ち着いた\n老人の声で？",
-  "en": "Was there only one call? From\nan oddly calm old man's voice?"
+  "en": "Was there only one call? In an\noddly calm old man's voice?"
  },
  {
   "id": "ms05_00:000:42",
@@ -363,7 +363,7 @@
   "id": "ms05_00:004:00",
   "speaker": "朝子",
   "jp": "ふふッ、\nありがとう、{px}。",
-  "en": "Hehe, thank you, {px}."
+  "en": "Hee hee, thank you, {px}."
  },
  {
   "id": "ms05_00:004:01",
@@ -387,7 +387,7 @@
   "id": "ms05_00:006:00",
   "speaker": "朝子",
   "jp": "ふふッ、ありがとう。",
-  "en": "Hehe, thank you."
+  "en": "Hee hee, thank you."
  },
  {
   "id": "ms05_00:007:00",
@@ -621,7 +621,7 @@
   "id": "ms05_00:012:30",
   "speaker": "白",
   "jp": "もうよさぬかッ！！",
-  "en": "That is ENOUGH!!"
+  "en": "Enough of this! Cease at once!!"
  },
  {
   "id": "ms05_00:012:31",
@@ -765,7 +765,7 @@
   "id": "ms05_00:020:00",
   "speaker": "鈴",
   "jp": "あ、{px}。\nおはようございますなのです。",
-  "en": "Oh, {px}. Good morning to you!"
+  "en": "Oh, {px}. Good morning to you, it is!"
  },
  {
   "id": "ms05_00:020:01",
@@ -777,43 +777,43 @@
   "id": "ms05_00:021:00",
   "speaker": "鈴",
   "jp": "はわわ……\n有り余ってる感じなのです～。",
-  "en": "Hawawa... You seem to have energy to spare~."
+  "en": "Hawawa... You seem to have energy to spare, it is~."
  },
  {
   "id": "ms05_00:021:01",
   "speaker": "鈴",
   "jp": "でもでも、\n{px}が元気そうで\nすずも嬉しいなのです。",
-  "en": "But still, Suzu is happy that you\nlook so lively, {px}."
+  "en": "But still, Suzu is happy that\n{px} looks so lively, it is."
  },
  {
   "id": "ms05_00:022:00",
   "speaker": "鈴",
   "jp": "おお～、\n{px}は今日も\nとってもお元気そうなのです。",
-  "en": "Ooh~, you look so very lively\nagain today, {px}."
+  "en": "Ooh~, {px}, you look\nso very lively again today, it is."
  },
  {
   "id": "ms05_00:022:01",
   "speaker": "鈴",
   "jp": "元気な{px}を見てると\nすずも元気になるのです～。",
-  "en": "Seeing {px} so\nlively makes Suzu feel lively too~."
+  "en": "Seeing {px} so lively\nmakes Suzu feel lively too, it is~."
  },
  {
   "id": "ms05_00:023:00",
   "speaker": "鈴",
   "jp": "おお、{px}は\n今日もやる気満々なのです！！",
-  "en": "Ooh, you're all fired up again\ntoday, {px}!!"
+  "en": "Ooh, {px}, you're\nall fired up again today, it is!!"
  },
  {
   "id": "ms05_00:023:01",
   "speaker": "鈴",
   "jp": "すずも負けないように\n頑張るのです！！",
-  "en": "Suzu won't lose to you, Suzu will work hard too!!"
+  "en": "Suzu won't lose to you, Suzu\nwill work hard too, it is!!"
  },
  {
   "id": "ms05_00:024:00",
   "speaker": "鈴",
   "jp": "それはよかったなのです。\n今日も元気に\n頑張ろうなのです！",
-  "en": "That's good! Let's do our best today too!"
+  "en": "That's good! Let's do our best today too, it is!"
  },
  {
   "id": "ms05_00:025:00",
@@ -843,7 +843,7 @@
   "id": "ms05_00:027:00",
   "speaker": "鈴",
   "jp": "はわわ……\n{px}が全然\n元気じゃないのです……。",
-  "en": "Hawawa... {px} has no energy at all..."
+  "en": "Hawawa... {px}\nhas no energy at all, it is..."
  },
  {
   "id": "ms05_00:027:01",
@@ -879,13 +879,13 @@
   "id": "ms05_00:030:01",
   "speaker": "鈴",
   "jp": "―――などと、\nのんきに挨拶している\n場合ではなかったのです。",
-  "en": "--Oh, but this is no time for leisurely greetings."
+  "en": "--Oh, but this is no time for\nleisurely greetings, it is not."
  },
  {
   "id": "ms05_00:030:02",
   "speaker": "鈴",
   "jp": "大変大変なのです～！",
-  "en": "It's terrible, terrible~!"
+  "en": "It is terrible, terrible, it is~!"
  },
  {
   "id": "ms05_00:030:03",
@@ -1016,19 +1016,19 @@
   "id": "ms05_00:041:00",
   "speaker": "鈴",
   "jp": "何言ってるです、鍵さん。\nこの神社を護るのは\nすずたちのお役目なのです。",
-  "en": "What are you saying, Ken-san? Protecting\nthis shrine is our job, Suzu's and yours."
+  "en": "What are you saying, Ken-san? Protecting\nthis shrine is our job, Suzu's and yours, it is."
  },
  {
   "id": "ms05_00:041:01",
   "speaker": "鈴",
   "jp": "ぬしさまにそんなこと\nさせるなんてダメなのです。",
-  "en": "Making Master do something like that is no good."
+  "en": "Making Master do something\nlike that is no good, it is not."
  },
  {
   "id": "ms05_00:041:02",
   "speaker": "鈴",
   "jp": "ぬしさまのことは\nすずが盾になって\nお護りしてみせるです！",
-  "en": "Suzu will be Master's shield and protect Master!"
+  "en": "Suzu will be Master's shield and protect Master, it is!"
  },
  {
   "id": "ms05_00:041:03",
@@ -1340,7 +1340,7 @@
   "id": "ms05_00:066:06",
   "speaker": "白",
   "jp": "まったくあの娘は、\n妾を何だと\n思っておるのじゃ……。",
-  "en": "Honestly, that girl... What does she take me for...?"
+  "en": "Truly, that girl... What does she take me for...?"
  },
  {
   "id": "ms05_00:066:07",
@@ -1418,7 +1418,7 @@
   "id": "ms05_00:066:19",
   "speaker": "白",
   "jp": "何なのじゃ、{ruby:彼奴|あやつ}は。",
-  "en": "What is that man?"
+  "en": "What manner of knave is that?"
  },
  {
   "id": "ms05_00:066:20",
@@ -1478,7 +1478,7 @@
   "id": "ms05_00:069:01",
   "speaker": "白",
   "jp": "其方という奴は……。",
-  "en": "Honestly, you..."
+  "en": "Truly, you..."
  },
  {
   "id": "ms05_00:070:00",
@@ -1580,7 +1580,7 @@
   "id": "ms05_00:077:00",
   "speaker": "白",
   "jp": "まったく……。\n其方とおると、\n調子が狂うの……。",
-  "en": "Honestly... Being with you throws me off..."
+  "en": "Truly... Being with you throws me off..."
  },
  {
   "id": "ms05_00:077:01",
@@ -1646,7 +1646,7 @@
   "id": "ms05_00:079:00",
   "speaker": "弥紀",
   "jp": "……ふふッ。\n{px}ったら、\n自信満々だね。",
-  "en": "...Hehe. {px},\nyou sound so sure of yourself."
+  "en": "...Hee hee. {px},\nyou sound so sure of yourself."
  },
  {
   "id": "ms05_00:079:01",
@@ -1670,7 +1670,7 @@
   "id": "ms05_00:081:00",
   "speaker": "弥紀",
   "jp": "……ふふッ。\n{px}ったら、\n自信満々だね。",
-  "en": "...Hehe. {px},\nyou sound so sure of yourself."
+  "en": "...Hee hee. {px},\nyou sound so sure of yourself."
  },
  {
   "id": "ms05_00:081:01",
@@ -2228,7 +2228,7 @@
   "id": "ms05_00:107:00",
   "speaker": "弥紀",
   "jp": "ふふッ。\n{px}は本当に\n壇くんのことが好きなんだね。",
-  "en": "Hehe. You really do like Dan-kun,\ndon't you, {px}?"
+  "en": "Hee hee. You really do like Dan-kun,\ndon't you, {px}?"
  },
  {
   "id": "ms05_00:107:01",
@@ -2456,7 +2456,7 @@
   "id": "ms05_00:116:05",
   "speaker": "蒐",
   "jp": "四角、見てた。",
-  "en": "Looking at squares."
+  "en": "Squares. I was, looking."
  },
  {
   "id": "ms05_00:116:06",
@@ -2468,7 +2468,7 @@
   "id": "ms05_00:116:07",
   "speaker": "弥紀",
   "jp": "ふふ、確かに\n四角がいっぱいだね。",
-  "en": "Hehe, there sure are lots of squares here."
+  "en": "Hee hee, there sure are lots of squares here."
  },
  {
   "id": "ms05_00:116:08",
@@ -2492,7 +2492,7 @@
   "id": "ms05_00:118:01",
   "speaker": "蒐",
   "jp": "海苔弁、とか。\nいいよ、ね。\n色々四角いし。",
-  "en": "Like a nori bento. Those are nice. Lots of squares."
+  "en": "Nori bento, like. Nice, right? Lots of, squares."
  },
  {
   "id": "ms05_00:118:02",
@@ -2582,7 +2582,7 @@
   "id": "ms05_00:121:03",
   "speaker": "蒐",
   "jp": "んー。\n四角の楽園、だから？",
-  "en": "Hmm. Because it's a paradise of squares?"
+  "en": "Hmm. Because it's, a paradise of squares?"
  },
  {
   "id": "ms05_00:121:04",
@@ -2594,7 +2594,7 @@
   "id": "ms05_00:121:05",
   "speaker": "蒐",
   "jp": "素敵な四角、待ってるから。\n{px}に、オススメ。",
-  "en": "Lovely squares are waiting. I\nrecommend it, {px}."
+  "en": "Lovely squares, are waiting. For\n{px}, recommended."
  },
  {
   "id": "ms05_00:121:06",
@@ -2792,7 +2792,7 @@
   "id": "ms05_00:125:00",
   "speaker": "富樫",
   "jp": "……やれやれ。\n本心はどっちやら。",
-  "en": "...Good grief. Which is it you really mean?"
+  "en": "...Hah. Which is it you really mean?"
  },
  {
   "id": "ms05_00:125:01",
@@ -2804,7 +2804,7 @@
   "id": "ms05_00:126:00",
   "speaker": "富樫",
   "jp": "……やれやれ。\n本心はどっちやら。",
-  "en": "...Good grief. Which is it you really mean?"
+  "en": "...Hah. Which is it you really mean?"
  },
  {
   "id": "ms05_00:126:01",
@@ -2846,7 +2846,7 @@
   "id": "ms05_00:130:00",
   "speaker": "富樫",
   "jp": "やれやれ。\nそんな顔せずとも、飯くらい\nいつでも食えるだろう。",
-  "en": "Good grief. No need to make that\nface. We can have a meal anytime."
+  "en": "Hah. No need to make that face.\nWe can have a meal anytime."
  },
  {
   "id": "ms05_00:130:01",
@@ -3446,13 +3446,13 @@
   "id": "ms05_00:158:00",
   "speaker": "アンジー",
   "jp": "アハッ、\n{px}ならそうだよネ！！",
-  "en": "Ahah, I knew you'd say that, {px}!!"
+  "en": "Ahah, I knew you would say\nthat, {px}, ne!!"
  },
  {
   "id": "ms05_00:159:00",
   "speaker": "アンジー",
   "jp": "アハッ！！\n{px}は、カレー食べる\nときも気合十分だネ！！",
-  "en": "Ahah!! {px}, you're\nall fired up even for eating curry!!"
+  "en": "Ahah!! {px}, you are\nall fired up even for eating curry, ne!!"
  },
  {
   "id": "ms05_00:159:01",
@@ -3548,7 +3548,7 @@
   "id": "ms05_00:169:00",
   "speaker": "アンジー",
   "jp": "アハッ！！\nそうこなくっちゃネ！！",
-  "en": "Ahah!! That's the spirit!!"
+  "en": "Ahah!! That is the spirit, ne!!"
  },
  {
   "id": "ms05_00:169:01",
@@ -3614,13 +3614,13 @@
   "id": "ms05_00:171:04",
   "speaker": "アンジー",
   "jp": "アハハッ！！\nさすがはカルのカレーだネ！！",
-  "en": "Ahaha!! That's Kal's curry for you!!"
+  "en": "Ahaha!! That is Kal's curry for you, ne!!"
  },
  {
   "id": "ms05_00:171:05",
   "speaker": "アンジー",
   "jp": "それじゃまたネ、ミンナ。\nちょっと楽しかったヨ！！",
-  "en": "See you later, everybody. That was kinda fun!!"
+  "en": "See you later, everybody, ne. That was kinda fun!!"
  },
  {
   "id": "ms05_00:171:06",
@@ -3722,7 +3722,7 @@
   "id": "ms05_00:176:02",
   "speaker": "カルパタル",
   "jp": "オケーイリョカーイでゴザル。\n待たされとけでゴザルヨー。",
-  "en": "Okey-dokey, roger-roger, verily.\nBe made to wait-o, verily!"
+  "en": "Okey-dokey, roger-roger, verily. Please wait-o, verily!"
  },
  {
   "id": "ms05_00:176:03",
@@ -3986,7 +3986,7 @@
   "id": "ms05_00:179:00",
   "speaker": "アンジー",
   "jp": "アハハッ、\n{px}は素直だネ！！",
-  "en": "Ahaha, you're so honest, {px}!!"
+  "en": "Ahaha, {px}, you are so honest, ne!!"
  },
  {
   "id": "ms05_00:180:00",
@@ -3998,25 +3998,25 @@
   "id": "ms05_00:181:00",
   "speaker": "アンジー",
   "jp": "Ｓｉ！！\nイイ覚悟だネ！！",
-  "en": "Si!! What a brave answer!!"
+  "en": "Si!! What a brave answer, ne!!"
  },
  {
   "id": "ms05_00:182:00",
   "speaker": "アンジー",
   "jp": "アハハッ、オカシラに\nちゃんと伝えとくネ！！",
-  "en": "Ahaha, I'll be sure to tell the Boss!!"
+  "en": "Ahaha, I will be sure to tell the Boss, ne!!"
  },
  {
   "id": "ms05_00:183:00",
   "speaker": "アンジー",
   "jp": "アハハッ、オカシラに\nちゃんと伝えとくネ！！",
-  "en": "Ahaha, I'll be sure to tell the Boss!!"
+  "en": "Ahaha, I will be sure to tell the Boss, ne!!"
  },
  {
   "id": "ms05_00:184:00",
   "speaker": "アンジー",
   "jp": "アハハッ、オカシラに\nちゃんと伝えとくネ！！",
-  "en": "Ahaha, I'll be sure to tell the Boss!!"
+  "en": "Ahaha, I will be sure to tell the Boss, ne!!"
  },
  {
   "id": "ms05_00:185:00",
@@ -4454,7 +4454,7 @@
   "id": "ms05_00:206:05",
   "speaker": "屈強な男子生徒",
   "jp": "師匠の―――",
-  "en": "As my master--"
+  "en": "My master's--"
  },
  {
   "id": "ms05_00:206:06",
@@ -4466,7 +4466,7 @@
   "id": "ms05_00:206:07",
   "speaker": "屈強な男子生徒",
   "jp": "兄上の{ruby:御内儀|ごないぎ}の妹君のご友人の\n師匠が言っていた……。",
-  "en": "As the master of a friend of the younger\nsister of my elder brother's wife once said..."
+  "en": "As my elder brother's wife's younger\nsister's friend's master once said..."
  },
  {
   "id": "ms05_00:206:08",
@@ -5240,7 +5240,7 @@
   "id": "ms05_00:251:07",
   "speaker": "絢人",
   "jp": "やれやれ。",
-  "en": "Good grief."
+  "en": "Oh dear."
  },
  {
   "id": "ms05_00:251:08",
@@ -5264,7 +5264,7 @@
   "id": "ms05_00:253:00",
   "speaker": "絢人",
   "jp": "まったく……。\n仕方のない人だ。",
-  "en": "Honestly... You're hopeless."
+  "en": "Oh dear... You're hopeless."
  },
  {
   "id": "ms05_00:254:00",
@@ -5330,7 +5330,7 @@
   "id": "ms05_00:261:00",
   "speaker": "絢人",
   "jp": "まったく……。\nそうやってるから、だよ。",
-  "en": "Honestly... That's exactly why, you know."
+  "en": "Oh dear... That's exactly why, you know."
  },
  {
   "id": "ms05_00:262:00",
@@ -5384,7 +5384,7 @@
   "id": "ms05_00:263:03",
   "speaker": "御霧",
   "jp": "まったく、\n一々馴れ合うなと\n何度言えばわかる。",
-  "en": "Honestly, how many times do I have to tell you\nnot to get chummy with every one of them?"
+  "en": "Tch, how many times do I have to tell you\nnot to get chummy with every one of them?"
  },
  {
   "id": "ms05_00:263:04",
@@ -5426,7 +5426,7 @@
   "id": "ms05_00:266:01",
   "speaker": "御霧",
   "jp": "まったく、\nどいつもこいつも……。",
-  "en": "Honestly, every last one of them..."
+  "en": "Tch, every last one of them..."
  },
  {
   "id": "ms05_00:267:00",
@@ -5438,7 +5438,7 @@
   "id": "ms05_00:267:01",
   "speaker": "御霧",
   "jp": "まったく、\nどいつもこいつも……。",
-  "en": "Honestly, every last one of them..."
+  "en": "Tch, every last one of them..."
  },
  {
   "id": "ms05_00:268:00",
@@ -5462,7 +5462,7 @@
   "id": "ms05_00:270:01",
   "speaker": "御霧",
   "jp": "まったく、\nどいつもこいつも……。",
-  "en": "Honestly, every last one of them..."
+  "en": "Tch, every last one of them..."
  },
  {
   "id": "ms05_00:271:00",
@@ -5480,7 +5480,7 @@
   "id": "ms05_00:272:01",
   "speaker": "御霧",
   "jp": "まったく、\nどいつもこいつも……。",
-  "en": "Honestly, every last one of them..."
+  "en": "Tch, every last one of them..."
  },
  {
   "id": "ms05_00:273:00",
@@ -5834,13 +5834,13 @@
   "id": "ms05_00:297:01",
   "speaker": "白",
   "jp": "まったく……\n無駄な気遣いじゃったわ。",
-  "en": "Honestly... I need not have troubled myself over you."
+  "en": "Bah... I need not have troubled myself over you."
  },
  {
   "id": "ms05_00:298:00",
   "speaker": "白",
   "jp": "まったく……\n其方はいつでも\nその調子よの。",
-  "en": "Honestly... You are always like this."
+  "en": "Truly... You are always like this."
  },
  {
   "id": "ms05_00:298:01",
@@ -5852,7 +5852,7 @@
   "id": "ms05_00:299:00",
   "speaker": "白",
   "jp": "まったく……\n其方はいつでも\nその調子よの。",
-  "en": "Honestly... You are always like this."
+  "en": "Truly... You are always like this."
  },
  {
   "id": "ms05_00:299:01",

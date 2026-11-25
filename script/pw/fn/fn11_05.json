@@ -3,7 +3,7 @@
   "id": "fn11_05:001:00",
   "speaker": "長英",
   "jp": "道場はやっぱりええのう。\nこう静かじゃと、\nなおさらじゃ。",
-  "en": "The dojo really is the best. All\nthe more when it's this quiet."
+  "en": "The dojo really is the best, I tell ya.\nAll the more when it's this quiet."
  },
  {
   "id": "fn11_05:001:01",
@@ -15,7 +15,7 @@
   "id": "fn11_05:001:02",
   "speaker": "長英",
   "jp": "どうです、部活のない\n放課後の道場。",
-  "en": "What d'ya think? The dojo after\nschool, with no club practice?"
+  "en": "What d'ye think? The dojo after\nschool, with no club practice?"
  },
  {
   "id": "fn11_05:001:03",
@@ -171,7 +171,7 @@
   "id": "fn11_05:014:05",
   "speaker": "長英",
   "jp": "{px}は、\n楽しんできてくだせえ！",
-  "en": "You go on and enjoy yerself, {px}!"
+  "en": "Ye go on and enjoy yerself, {px}!"
  },
  {
   "id": "fn11_05:015:00",
@@ -219,7 +219,7 @@
   "id": "fn11_05:017:01",
   "speaker": "長英",
   "jp": "{px}に出会って\nわしゃァ、変わりやした。\n目指すべき道が明瞭になった。",
-  "en": "Meetin' you changed me, {px}.\nThe road I oughta walk became clear."
+  "en": "Meetin' ye changed me, {px}.\nThe road I oughta walk became clear."
  },
  {
   "id": "fn11_05:018:00",
@@ -231,7 +231,7 @@
   "id": "fn11_05:019:00",
   "speaker": "長英",
   "jp": "{px}は\nわしに道を諭してくださった\nお人なんじゃ！",
-  "en": "{px}, you're the\none who showed me the way!"
+  "en": "{px}, ye're the\none who showed me the way!"
  },
  {
   "id": "fn11_05:019:01",
@@ -255,7 +255,7 @@
   "id": "fn11_05:020:00",
   "speaker": "長英",
   "jp": "ほうよなあ！\n{px}が間違ってるはず\nないけェの！",
-  "en": "Right ye are! No way you'd ever\nbe wrong, {px}!"
+  "en": "Right ye are! No way ye'd ever\nbe wrong, {px}!"
  },
  {
   "id": "fn11_05:021:00",
@@ -267,7 +267,7 @@
   "id": "fn11_05:022:00",
   "speaker": "長英",
   "jp": "ほ、ほうじゃ！\n{px}が間違うとるはず\nないけェの。",
-  "en": "R-Right! No way you'd ever\nbe wrong, {px}."
+  "en": "R-Right! No way ye'd ever\nbe wrong, {px}."
  },
  {
   "id": "fn11_05:023:00",
@@ -381,7 +381,7 @@
   "id": "fn11_05:031:03",
   "speaker": "長英",
   "jp": "またわしは、{px}に\n頼るだけになっとった。",
-  "en": "I'd gone back to just leanin' on\nyou again, {px}."
+  "en": "I'd gone back to just leanin' on\nye again, {px}."
  },
  {
   "id": "fn11_05:031:04",
@@ -477,7 +477,7 @@
   "id": "fn11_05:038:01",
   "speaker": "長英",
   "jp": "そんな熱い{px}じゃけ、\nわしゃァ……。",
-  "en": "With someone as fired-up as\nyou, {px}, I..."
+  "en": "With someone as fired-up\nas ye, {px}, I..."
  },
  {
   "id": "fn11_05:038:02",
@@ -555,7 +555,7 @@
   "id": "fn11_05:045:02",
   "speaker": "長英",
   "jp": "{px}は人生の師じゃ！\nもう、どんな時もわしゃァ\n迷わんです！",
-  "en": "{px}, you're my teacher in life!\nFrom now on, I won't waver, no matter what!"
+  "en": "{px}, ye're my teacher in life!\nFrom now on, I won't waver, no matter what!"
  },
  {
   "id": "fn11_05:045:03",
@@ -567,7 +567,7 @@
   "id": "fn11_05:045:04",
   "speaker": "長英",
   "jp": "いつか、{px}に見合う\n漢になれるよう\n精進するけェ！",
-  "en": "I'll train hard so someday I'm a man\nworthy o' you, {px}!"
+  "en": "I'll train hard so someday I'm a man\nworthy o' ye, {px}!"
  },
  {
   "id": "fn11_05:045:05",
@@ -609,7 +609,7 @@
   "id": "fn11_05:048:01",
   "speaker": "長英",
   "jp": "{px}に\n相応しい剣になるよう\nわしゃァ、頑張りますけェ！",
-  "en": "I'll work hard to become a sword\nworthy o' you, {px}!"
+  "en": "I'll work hard to become a sword\nworthy o' ye, {px}!"
  },
  {
   "id": "fn11_05:048:02",

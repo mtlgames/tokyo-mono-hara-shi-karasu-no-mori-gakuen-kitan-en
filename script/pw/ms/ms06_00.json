@@ -249,7 +249,7 @@
   "id": "ms06_00:016:01",
   "speaker": "朝子",
   "jp": "ふふ、ありがとう。\n優しいのね、{px}。",
-  "en": "Hehe, thank you. You're sweet, {px}."
+  "en": "Hee hee, thank you. You're\nsweet, {px}."
  },
  {
   "id": "ms06_00:017:00",
@@ -405,7 +405,7 @@
   "id": "ms06_00:025:13",
   "speaker": "朝子",
   "jp": "ふふ、そうね。のんびり出来て\n疲れなんて吹き飛んじゃうわ。\n特に露天風呂なんて―――",
-  "en": "Hehe, that's right. You can just relax,\nand your fatigue melts right away.\nEspecially in an open-air bath--"
+  "en": "Hee hee, that's right. You can just\nrelax, and your fatigue melts right\naway. Especially in an open-air bath--"
  },
  {
   "id": "ms06_00:025:14",
@@ -435,7 +435,7 @@
   "id": "ms06_00:025:18",
   "speaker": "鍵",
   "jp": "おや、坊。\nおはようさんです。",
-  "en": "Well now, young master. A good mornin' to you."
+  "en": "Well now, young master. A good morning to you."
  },
  {
   "id": "ms06_00:025:19",
@@ -615,7 +615,7 @@
   "id": "ms06_00:041:01",
   "speaker": "鈴",
   "jp": "{px}、\n離れてくださいなのです！！",
-  "en": "{px}, please get away from him!!"
+  "en": "{px}, please get away from him, it is!!"
  },
  {
   "id": "ms06_00:042:00",
@@ -627,7 +627,7 @@
   "id": "ms06_00:042:01",
   "speaker": "鈴",
   "jp": "{px}、\n離れてくださいなのです！！",
-  "en": "{px}, please get away from him!!"
+  "en": "{px}, please get away from him, it is!!"
  },
  {
   "id": "ms06_00:043:00",
@@ -639,7 +639,7 @@
   "id": "ms06_00:043:01",
   "speaker": "鈴",
   "jp": "{px}、\n離れてくださいなのです！！",
-  "en": "{px}, please get away from him!!"
+  "en": "{px}, please get away from him, it is!!"
  },
  {
   "id": "ms06_00:044:00",
@@ -657,7 +657,7 @@
   "id": "ms06_00:045:01",
   "speaker": "鈴",
   "jp": "す、すずも警戒するです！！",
-  "en": "S-Suzu will be on guard too!!"
+  "en": "S-Suzu will be on guard too, it is!!"
  },
  {
   "id": "ms06_00:046:00",
@@ -717,7 +717,7 @@
   "id": "ms06_00:046:09",
   "speaker": "鍵",
   "jp": "すいやせんね、\nうちの仔犬ちゃんが\nお騒がせしやして。",
-  "en": "Beggin' your pardon, sir, for the\nfuss our little pup's been makin'."
+  "en": "Begging your pardon for the\nfuss our little pup's been making."
  },
  {
   "id": "ms06_00:046:10",
@@ -741,7 +741,7 @@
   "id": "ms06_00:046:13",
   "speaker": "鈴",
   "jp": "す、すずは\nフジツボではないです！",
-  "en": "S-Suzu is not a barnacle!"
+  "en": "S-Suzu is not a barnacle, it is not!"
  },
  {
   "id": "ms06_00:046:14",
@@ -771,31 +771,31 @@
   "id": "ms06_00:046:18",
   "speaker": "鍵",
   "jp": "おや、本当だ。\n坊はそろそろ学校へ\n向かわれた方がいいでしょう。",
-  "en": "Oh my, so he will. Young master,\nbest you be off to school now."
+  "en": "Oh my, so it is. Young master,\nbest you be off to school now."
  },
  {
   "id": "ms06_00:046:19",
   "speaker": "鍵",
   "jp": "この方のご案内でしたら\n私が預かりやすんで。",
-  "en": "As for showin' this gentleman around, I'll\nbe takin' care of that, if you'd permit me."
+  "en": "As for showing this gentleman around,\nI'll take care of that, if you'd permit me."
  },
  {
   "id": "ms06_00:046:20",
   "speaker": "鈴",
   "jp": "ああッ！！\nけ、鍵さん、ずるいのです！",
-  "en": "Ahh!! K-Ken-san, that's not fair!"
+  "en": "Ahh!! K-Ken-san, that is not fair, it is not!"
  },
  {
   "id": "ms06_00:046:21",
   "speaker": "鈴",
   "jp": "すずも！\nすずもお任せされるです！",
-  "en": "Suzu too! Leave it to Suzu too!"
+  "en": "Suzu too! Leave it to Suzu too, it is!"
  },
  {
   "id": "ms06_00:046:22",
   "speaker": "伊佐地",
   "jp": "やれやれ……\nまったく賑やかな神社だ。",
-  "en": "Good grief... What a lively shrine."
+  "en": "Sheesh... What a lively shrine."
  },
  {
   "id": "ms06_00:046:23",
@@ -1143,7 +1143,7 @@
   "id": "ms06_00:059:03",
   "speaker": "弥紀",
   "jp": "ふふ、そう言って、\n歴史はいつも真面目に\nノート取ってるよね。",
-  "en": "Hehe, you say that, but you\nalways take proper notes in history."
+  "en": "Hee hee, you say that, but you\nalways take proper notes in history."
  },
  {
   "id": "ms06_00:059:04",
@@ -2085,7 +2085,7 @@
   "id": "ms06_00:093:20",
   "speaker": "カルパタル",
   "jp": "ギクリ、でゴザル。",
-  "en": "*Gulp*, verily."
+  "en": "Yikes, busted, verily."
  },
  {
   "id": "ms06_00:093:21",

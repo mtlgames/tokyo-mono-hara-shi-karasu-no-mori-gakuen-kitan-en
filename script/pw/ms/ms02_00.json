@@ -423,7 +423,7 @@
   "id": "ms02_00:020:01",
   "speaker": "白",
   "jp": "まったく……。\nもうよいわ。",
-  "en": "Honestly... Enough, then."
+  "en": "Tsk... Enough, then."
  },
  {
   "id": "ms02_00:021:00",
@@ -693,7 +693,7 @@
   "id": "ms02_00:033:02",
   "speaker": "朝子",
   "jp": "そういえば……\nそう……だったっけ？",
-  "en": "Now that you mention it... Did you...?"
+  "en": "Now that you mention it... you did\nsay something like that, didn't you?"
  },
  {
   "id": "ms02_00:033:03",
@@ -981,7 +981,7 @@
   "id": "ms02_00:040:23",
   "speaker": "清司郎",
   "jp": "お前さんも{ruby:玄人|プ　ロ}なら\n上手くやるこった。",
-  "en": "but if you're a pro, you'll handle it."
+  "en": "but if you're a real pro, you'll handle it."
  },
  {
   "id": "ms02_00:040:24",
@@ -1011,7 +1011,7 @@
   "id": "ms02_00:040:28",
   "speaker": "{ruby:鈴|すず}",
   "jp": "あ、{px}！！\nおはようございますなのです。",
-  "en": "Ah, {px}!! Good morning to you!"
+  "en": "Ah, {px}!! Good morning to you, it is!"
  },
  {
   "id": "ms02_00:041:00",
@@ -1029,43 +1029,43 @@
   "id": "ms02_00:042:01",
   "speaker": "鈴",
   "jp": "と、ともかく、ここが\n気に入ってもらえたなら、\nすずも嬉しいのです。",
-  "en": "A-Anyway, if you like it\nhere, then Suzu is happy too."
+  "en": "A-Anyway, if you like it here,\nthen Suzu is happy too, it is."
  },
  {
   "id": "ms02_00:043:00",
   "speaker": "鈴",
   "jp": "それはよかったのです。",
-  "en": "That's good to hear!"
+  "en": "That's good to hear, it is!"
  },
  {
   "id": "ms02_00:043:01",
   "speaker": "鈴",
   "jp": "ここが気に入って\nもらえたなら、\nすずも嬉しいのです。",
-  "en": "If you like it here, then Suzu is happy too."
+  "en": "If you like it here, then Suzu is happy too, it is."
  },
  {
   "id": "ms02_00:044:00",
   "speaker": "鈴",
   "jp": "はわわ、\n{px}、とっても\nお元気そうです。",
-  "en": "Hawawa, {px},\nyou seem super full of energy."
+  "en": "Hawawa, {px},\nyou seem so full of energy, it is."
  },
  {
   "id": "ms02_00:044:01",
   "speaker": "鈴",
   "jp": "ここが気に入って\nもらえたなら、\nすずも嬉しいのです。",
-  "en": "If you like it here, then Suzu is happy too."
+  "en": "If you like it here, then Suzu is happy too, it is."
  },
  {
   "id": "ms02_00:045:00",
   "speaker": "鈴",
   "jp": "それはよかったのです。",
-  "en": "That's good to hear!"
+  "en": "That's good to hear, it is!"
  },
  {
   "id": "ms02_00:045:01",
   "speaker": "鈴",
   "jp": "{px}が元気だと\nすずも嬉しいです。",
-  "en": "When {px} is full\nof energy, Suzu is happy too."
+  "en": "When {px} is full\nof energy, Suzu is happy too, it is."
  },
  {
   "id": "ms02_00:046:00",
@@ -1077,13 +1077,13 @@
   "id": "ms02_00:046:01",
   "speaker": "鈴",
   "jp": "お部屋に何か悪いものが\nいないか、すずが後で\n確かめておくです。",
-  "en": "Suzu will check your room later to\nmake sure nothing bad is in there."
+  "en": "Suzu will check your room later to\nmake sure nothing bad is in there, it is."
  },
  {
   "id": "ms02_00:046:02",
   "speaker": "鈴",
   "jp": "そうしたらきっと\n今夜はぐっすりなのです。",
-  "en": "Then you're sure to sleep soundly tonight."
+  "en": "Then you're sure to sleep soundly tonight, it is."
  },
  {
   "id": "ms02_00:047:00",
@@ -1095,13 +1095,13 @@
   "id": "ms02_00:047:01",
   "speaker": "鈴",
   "jp": "後ですずが\nこっそり変えておくのです。",
-  "en": "Suzu will secretly swap it out later."
+  "en": "Suzu will secretly swap it out later, it is."
  },
  {
   "id": "ms02_00:047:02",
   "speaker": "鈴",
   "jp": "そうしたらきっと\n今夜はぐっすりなのです。",
-  "en": "Then you're sure to sleep soundly tonight."
+  "en": "Then you're sure to sleep soundly tonight, it is."
  },
  {
   "id": "ms02_00:048:00",
@@ -1113,13 +1113,13 @@
   "id": "ms02_00:048:01",
   "speaker": "鈴",
   "jp": "お部屋に何か悪いものが\nいないか、すずが後で\n確かめておくです。",
-  "en": "Suzu will check your room later to\nmake sure nothing bad is in there."
+  "en": "Suzu will check your room later to\nmake sure nothing bad is in there, it is."
  },
  {
   "id": "ms02_00:048:02",
   "speaker": "鈴",
   "jp": "そうしたらきっと\n今夜はぐっすりなのです。",
-  "en": "Then you're sure to sleep soundly tonight."
+  "en": "Then you're sure to sleep soundly tonight, it is."
  },
  {
   "id": "ms02_00:049:00",
@@ -1131,13 +1131,13 @@
   "id": "ms02_00:049:01",
   "speaker": "鈴",
   "jp": "お部屋に何か悪いものが\nいないか、すずが後で\n確かめておくです。",
-  "en": "Suzu will check your room later to\nmake sure nothing bad is in there."
+  "en": "Suzu will check your room later to\nmake sure nothing bad is in there, it is."
  },
  {
   "id": "ms02_00:049:02",
   "speaker": "鈴",
   "jp": "そうしたらきっと\n今夜はぐっすりなのです。",
-  "en": "Then you're sure to sleep soundly tonight."
+  "en": "Then you're sure to sleep soundly tonight, it is."
  },
  {
   "id": "ms02_00:050:00",
@@ -1149,13 +1149,13 @@
   "id": "ms02_00:051:00",
   "speaker": "鈴",
   "jp": "あ……。\n{px}にお願いが\nあるのです。",
-  "en": "Oh... Suzu has a favor to ask, {px}."
+  "en": "Oh... {px},\nSuzu has a favor to ask, it is."
  },
  {
   "id": "ms02_00:051:01",
   "speaker": "鈴",
   "jp": "朝子さまがお出かけする時に\n落とされたのです。",
-  "en": "Asako-sama dropped this when she went out."
+  "en": "Asako-sama dropped this when she went out, it is."
  },
  {
   "id": "ms02_00:051:02",
@@ -1167,7 +1167,7 @@
   "id": "ms02_00:051:03",
   "speaker": "鈴",
   "jp": "{px}が、\n預かっていて欲しいです。",
-  "en": "So Suzu wants {px} to hold on to it."
+  "en": "So Suzu wants {px}\nto hold on to it, it is."
  },
  {
   "id": "ms02_00:051:04",
@@ -1185,7 +1185,7 @@
   "id": "ms02_00:051:06",
   "speaker": "{ruby:鍵|けん}",
   "jp": "お早うさんです、坊。",
-  "en": "Mornin' to you, young master."
+  "en": "Morning to you, young master."
  },
  {
   "id": "ms02_00:051:07",
@@ -1203,7 +1203,7 @@
   "id": "ms02_00:051:09",
   "speaker": "鈴",
   "jp": "学生さんは、先生よりも\nゆっくりで大丈夫なのです！",
-  "en": "Students can take their time more than teachers can!"
+  "en": "Students can take their time\nmore than teachers can, it is!"
  },
  {
   "id": "ms02_00:051:10",
@@ -1245,7 +1245,7 @@
   "id": "ms02_00:051:16",
   "speaker": "鈴",
   "jp": "白さま、昨日遅くにここへ\nやってこられてから、ほとんど\nずっとああしてるです。",
-  "en": "Mao-sama has been like that almost the whole\ntime since she came here late last night."
+  "en": "Mao-sama has been like that almost the whole\ntime since she came here late last night, it is."
  },
  {
   "id": "ms02_00:051:17",
@@ -1449,7 +1449,7 @@
   "id": "ms02_00:057:03",
   "speaker": "鍵",
   "jp": "いまは{ruby:清|せい}さんとお嬢―――\nあの神主親子がお二人で\n面倒を見てくださっていやす。",
-  "en": "These days, Sei-san and the young miss--the priest\nand his daughter -- look after it, the two of them."
+  "en": "These days, Sei-san and the young miss--the priest\nand his daughter--look after it, the two of them."
  },
  {
   "id": "ms02_00:057:04",
@@ -1473,7 +1473,7 @@
   "id": "ms02_00:057:07",
   "speaker": "鍵",
   "jp": "{ruby:好事家|こうずか}がまれに\n写真を撮りに来たりする\nくらいですかね。",
-  "en": "so the odd curio hound comes by to snap\npictures now and then, and that's about it."
+  "en": "so the odd curiosity-seeker comes by to snap\npictures now and then, and that's about it."
  },
  {
   "id": "ms02_00:058:00",
@@ -1497,7 +1497,7 @@
   "id": "ms02_00:060:00",
   "speaker": "{ruby:白|まお}",
   "jp": "まったく、\nおしゃべりな狐よの。",
-  "en": "Honestly, what a chatty fox."
+  "en": "Bah, what a chatty fox."
  },
  {
   "id": "ms02_00:060:01",
@@ -1755,7 +1755,7 @@
   "id": "ms02_00:076:00",
   "speaker": "白",
   "jp": "まったく、\n先の思いやられる……。",
-  "en": "Honestly, I dread to think what lies ahead..."
+  "en": "Truly, I dread to think what lies ahead..."
  },
  {
   "id": "ms02_00:077:00",
@@ -1887,7 +1887,7 @@
   "id": "ms02_00:078:13",
   "speaker": "鈴",
   "jp": "は、はいです～。",
-  "en": "Y-Yes, ma'aaam..."
+  "en": "Y-yes, it is~!"
  },
  {
   "id": "ms02_00:078:14",
@@ -2169,7 +2169,7 @@
   "id": "ms02_00:093:00",
   "speaker": "弥紀",
   "jp": "ふふッ。\n{px}って面白いね。",
-  "en": "Hehe. You're funny, {px}."
+  "en": "Hee hee. You're funny, {px}."
  },
  {
   "id": "ms02_00:093:01",
@@ -3501,13 +3501,13 @@
   "id": "ms02_00:147:11",
   "speaker": "蒐",
   "jp": "話、してたよね。\n確か……花札。",
-  "en": "You were talking about them. Hanafuda... right?"
+  "en": "You were, talking about it. Hanafuda... I think."
  },
  {
   "id": "ms02_00:147:12",
   "speaker": "弥紀",
   "jp": "ふふ、\nさすが蒐くんだね。",
-  "en": "Hehe, that's Shu-kun for you."
+  "en": "Hee hee, that's Shu-kun for you."
  },
  {
   "id": "ms02_00:147:13",
@@ -3519,13 +3519,13 @@
   "id": "ms02_00:147:14",
   "speaker": "蒐",
   "jp": "珍しいから。\n花札の話、なんて。",
-  "en": "'Cause it's rare. Talk about hanafuda."
+  "en": "'Cause it's rare. Hanafuda talk, of all things."
  },
  {
   "id": "ms02_00:147:15",
   "speaker": "蒐",
   "jp": "みんな知ってる、花札。\nでも、誰も、ほんとの姿は\n知らない……。",
-  "en": "Everyone knows hanafuda. But\nnobody knows their true form..."
+  "en": "Everyone knows them, hanafuda.\nBut nobody, knows their true form..."
  },
  {
   "id": "ms02_00:147:16",
@@ -3561,19 +3561,19 @@
   "id": "ms02_00:147:21",
   "speaker": "蒐",
   "jp": "花札は、日本の闇が\n産み育んだ四角―――",
-  "en": "Hanafuda are squares that Japan's\ndarkness bore and raised--"
+  "en": "Hanafuda, are squares born and\nraised, by Japan's darkness--"
  },
  {
   "id": "ms02_00:148:00",
   "speaker": "蒐",
   "jp": "だから、綺麗。\nでも、ちょっと……怖い？",
-  "en": "That's why they're beautiful. But a little... scary?"
+  "en": "That's why, they're beautiful. But, a little... scary?"
  },
  {
   "id": "ms02_00:149:00",
   "speaker": "蒐",
   "jp": "目に見えぬものへの\n{ruby:畏怖|いふ}、敬愛……。",
-  "en": "Awe and reverence toward things unseen..."
+  "en": "For things unseen... awe, reverence..."
  },
  {
   "id": "ms02_00:149:01",
@@ -3597,13 +3597,13 @@
   "id": "ms02_00:150:01",
   "speaker": "蒐",
   "jp": "わかってくれて、\n嬉しい。かも。",
-  "en": "Glad you get it. Maybe."
+  "en": "That you get it, makes me happy. Maybe."
  },
  {
   "id": "ms02_00:151:00",
   "speaker": "蒐",
   "jp": "熱いのは……苦手。\nカード、曲がるし。",
-  "en": "Hot things... aren't my thing. Cards bend."
+  "en": "Hot things... I'm not good with. Cards, they bend."
  },
  {
   "id": "ms02_00:152:00",
@@ -3657,7 +3657,7 @@
   "id": "ms02_00:155:01",
   "speaker": "蒐",
   "jp": "目に見えぬものへの\n{ruby:畏怖|いふ}、敬愛……。",
-  "en": "Awe and reverence toward things unseen..."
+  "en": "For things unseen... awe, reverence..."
  },
  {
   "id": "ms02_00:155:02",
@@ -3687,7 +3687,7 @@
   "id": "ms02_00:156:02",
   "speaker": "蒐",
   "jp": "困るっていう字は、\n四角い。ね。",
-  "en": "The kanji for \"troubled\" is square. Right?"
+  "en": "The kanji for \"troubled,\" is square. Right?"
  },
  {
   "id": "ms02_00:156:03",
@@ -3717,7 +3717,7 @@
   "id": "ms02_00:158:01",
   "speaker": "蒐",
   "jp": "だからまた、\nカードがぼくを導く、よ。",
-  "en": "So the cards will lead me to you again."
+  "en": "So again, the cards, will guide me."
  },
  {
   "id": "ms02_00:158:02",
@@ -3939,7 +3939,7 @@
   "id": "ms02_00:169:08",
   "speaker": "弥紀",
   "jp": "ふふ。\n巴って本当に\nすごい行動力だよね。",
-  "en": "Hehe. Tomoe really gets things done, doesn't she?"
+  "en": "Hee hee. Tomoe really gets things done, doesn't she?"
  },
  {
   "id": "ms02_00:169:09",
@@ -4011,7 +4011,7 @@
   "id": "ms02_00:172:00",
   "speaker": "弥紀",
   "jp": "ふふ、\nそれならよかった。",
-  "en": "Hehe, that's good, then."
+  "en": "Hee hee, that's good, then."
  },
  {
   "id": "ms02_00:172:01",
@@ -4023,7 +4023,7 @@
   "id": "ms02_00:173:00",
   "speaker": "弥紀",
   "jp": "ふふ、\n元気満タン、だね。",
-  "en": "Hehe, full of energy, huh?"
+  "en": "Hee hee, full of energy, huh?"
  },
  {
   "id": "ms02_00:173:01",

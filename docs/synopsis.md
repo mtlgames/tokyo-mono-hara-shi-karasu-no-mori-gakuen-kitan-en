@@ -204,7 +204,7 @@ Player codes: `{px}` full name, `{pm}` surname, `{pn}` given name (glossary.md s
   you for so long", ms12_00:069:05). Zero is with them at the shrine; Ken: the hero has written new words into the cards'
   history (ms12_00:048:24).
 - Closing ceremony day: one-on-one scenes (Toji on the roof "this is my path", Minori on graduation, Shu, Nagahide
-  "I, Nagahide Shishido, will follow ya for the rest of my life", Tomoe).
+  "I, Nagahide Shishido, will follow ye for the rest of my life", Tomoe).
 - Tsukifune leads the group under the school; Benio asks for a final duel, then asks the hero to save Banri, who seeks
   Akashic Record "evolution" via the dragon-vein power; Ryujudo lies beneath Shinjuku Station (dg12_01:024:00).
 

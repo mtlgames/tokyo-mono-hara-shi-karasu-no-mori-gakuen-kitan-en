@@ -261,7 +261,7 @@
   "id": "ms03_01:006:12",
   "speaker": "巴",
   "jp": "常識外れの人脈の持ち主で、\n扱う情報は国家機密から\nクラスメイトの好きな子まで。",
-  "en": "They've got connections you wouldn't\nbelieve, and deal in everything from state\nsecrets to which classmate likes who."
+  "en": "He's got connections you wouldn't believe,\nand deals in everything from state secrets\nto which classmate likes who."
  },
  {
   "id": "ms03_01:006:13",
@@ -273,7 +273,7 @@
   "id": "ms03_01:006:14",
   "speaker": "巴",
   "jp": "依頼に応じてくれる条件が\nどうやってもわからないのよ。",
-  "en": "nobody can work out what it takes\nto get them to accept a request."
+  "en": "nobody can work out what it takes\nto get him to accept a request."
  },
  {
   "id": "ms03_01:006:15",
@@ -285,13 +285,13 @@
   "id": "ms03_01:006:16",
   "speaker": "巴",
   "jp": "ええ。\nしかも評判も人によって\nまちまちなの。",
-  "en": "Right. And their reputation\nvaries from person to person."
+  "en": "Right. And his reputation\nvaries from person to person."
  },
  {
   "id": "ms03_01:006:17",
   "speaker": "巴",
   "jp": "すごく親身だ、って言う噂も\nあれば、適当にあしらわれた、\nっていう話もあるし。",
-  "en": "Some rumors say they're really caring,\nothers say they just brushed people off."
+  "en": "Some rumors say he's really caring,\nothers say he just brushed people off."
  },
  {
   "id": "ms03_01:006:18",
@@ -303,7 +303,7 @@
   "id": "ms03_01:006:19",
   "speaker": "燈治",
   "jp": "一筋縄じゃいかない\n相手だって事か。",
-  "en": "So they ain't easy to deal with, huh?"
+  "en": "So he ain't easy to deal with, huh?"
  },
  {
   "id": "ms03_01:006:20",
@@ -609,7 +609,7 @@
   "id": "ms03_01:019:04",
   "speaker": "小柄な人物",
   "jp": "な、ナンダイ？\nぼ、ボクは怪しい\nモノじゃナイヨ？",
-  "en": "Wh-What Is It? I-I Am Not A\nSuspicious Person, You Know?"
+  "en": "Wh-what is it? I-I am not a\nsuspicious person, you know?"
  },
  {
   "id": "ms03_01:019:05",
@@ -621,13 +621,13 @@
   "id": "ms03_01:019:06",
   "speaker": "小柄な人物",
   "jp": "イヤー、素敵な学校ダネ！！\nツイツイ、\n足が向かってシマッタ！",
-  "en": "Gee, What A Lovely School!! My\nFeet Just Sort Of Carried Me Here!"
+  "en": "Gee, what a lovely school!! My\nfeet just sort of carried me here!"
  },
  {
   "id": "ms03_01:019:07",
   "speaker": "小柄な人物",
   "jp": "君タチ、\nもう帰るトコなのカイ？",
-  "en": "Are You Folks Heading Home Already?"
+  "en": "Are you folks heading home already?"
  },
  {
   "id": "ms03_01:019:08",
@@ -645,7 +645,7 @@
   "id": "ms03_01:019:10",
   "speaker": "小柄な人物",
   "jp": "あ―――\nそ、ソウソウ！！\nソレ！！",
-  "en": "Ah-- Y-Yes, Yes!! That's It!!"
+  "en": "Ah-- Y-yes, yes!! That is it!!"
  },
  {
   "id": "ms03_01:019:11",
@@ -747,7 +747,7 @@
   "id": "ms03_01:019:27",
   "speaker": "小柄な人物",
   "jp": "この借りは必ず返すからな、\n{pm}　{pn}ッ！！",
-  "en": "I'll pay you back for this, I\nswear, {pm} {pn}!!"
+  "en": "I'll pay you back for this, I\nswear, {pn} {pm}!!"
  },
  {
   "id": "ms03_01:020:00",
@@ -855,7 +855,7 @@
   "id": "ms03_01:020:17",
   "speaker": "小柄な人物",
   "jp": "この借りは必ず返すからな、\n{pm}　{pn}ッ！！",
-  "en": "I'll pay you back for this, I\nswear, {pm} {pn}!!"
+  "en": "I'll pay you back for this, I\nswear, {pn} {pm}!!"
  },
  {
   "id": "ms03_01:021:00",
@@ -1077,7 +1077,7 @@
   "id": "ms03_01:031:13",
   "speaker": "凛とした声",
   "jp": "おっと失礼―――",
-  "en": "Oops, pardon me--"
+  "en": "Oh, pardon me--"
  },
  {
   "id": "ms03_01:031:14",
@@ -1119,7 +1119,7 @@
   "id": "ms03_01:033:00",
   "speaker": "目つきの鋭い女性",
   "jp": "{pm}　{pn}―――か。\n随分とまた妙な時期に\n転校してきたものだな。",
-  "en": "{pm} {pn}--is it? You picked\nan odd time of year to transfer in."
+  "en": "{pn} {pm}--is it? You picked\nan odd time of year to transfer in."
  },
  {
   "id": "ms03_01:033:01",
@@ -1155,7 +1155,7 @@
   "id": "ms03_01:034:03",
   "speaker": "燈治",
   "jp": "こいつは{pm}　{pn}。\n転校してきたばっかだ。",
-  "en": "This is {pm} {pn}. He just transferred in."
+  "en": "This is {pn} {pm}. He just transferred in."
  },
  {
   "id": "ms03_01:034:04",
@@ -1527,7 +1527,7 @@
   "id": "ms03_01:050:00",
   "speaker": "富樫",
   "jp": "まったく、\n{ruby:アイツ|・・・}さえ捕まれば\n話は早かったんだが……。",
-  "en": "Honestly, if we'd only caught that\none, this would've been simple..."
+  "en": "Man, if we'd only caught that\none, this would've been simple..."
  },
  {
   "id": "ms03_01:050:01",
@@ -1581,7 +1581,7 @@
   "id": "ms03_01:050:09",
   "speaker": "富樫",
   "jp": "まったく……。",
-  "en": "Honestly..."
+  "en": "Man..."
  },
  {
   "id": "ms03_01:050:10",
@@ -2007,7 +2007,7 @@
   "id": "ms03_01:062:00",
   "speaker": "隻眼の老人",
   "jp": "ゆっくり、していけ。",
-  "en": "Take your time."
+  "en": "Make yourself... at home."
  },
  {
   "id": "ms03_01:063:00",
@@ -2133,7 +2133,7 @@
   "id": "ms03_01:072:11",
   "speaker": "隻眼の老人",
   "jp": "待たせた、な。",
-  "en": "Sorry for the wait."
+  "en": "Sorry... for the wait."
  },
  {
   "id": "ms03_01:072:12",
@@ -2349,13 +2349,13 @@
   "id": "ms03_01:084:02",
   "speaker": "隻眼の老人",
   "jp": "……すまんな。\n好物、なんだ。",
-  "en": "...Sorry. It's her favorite."
+  "en": "...Sorry. It's her, favorite."
  },
  {
   "id": "ms03_01:084:03",
   "speaker": "隻眼の老人",
   "jp": "体に悪いんで、\nやらないで欲しい。",
-  "en": "It's bad for her, so I'd ask you not to give her any."
+  "en": "It's bad, for her. I'd ask you, not to feed her."
  },
  {
   "id": "ms03_01:084:04",
@@ -2391,7 +2391,7 @@
   "id": "ms03_01:084:09",
   "speaker": "澁川",
   "jp": "お前たちは、運がいい。\nもう、来る頃だ。",
-  "en": "You're in luck. He should be along any minute."
+  "en": "You're lucky. He'll be along... soon."
  },
  {
   "id": "ms03_01:084:10",
@@ -2511,7 +2511,7 @@
   "id": "ms03_01:086:00",
   "speaker": "絢人",
   "jp": "なるほど……。\n{pm}　{pn}、か。\nなかなか美しい名だね。",
-  "en": "I see... {pm} {pn},\nis it? Quite a beautiful name."
+  "en": "I see... {pn} {pm},\nis it? Quite a beautiful name."
  },
  {
   "id": "ms03_01:086:01",
@@ -2529,7 +2529,7 @@
   "id": "ms03_01:087:00",
   "speaker": "絢人",
   "jp": "まあ、無理にとは言わないよ、\n{pm}　{pn}くん？",
-  "en": "Well, I won't force you, {pm} {pn}-kun."
+  "en": "Well, I won't force you, {pn} {pm}-kun."
  },
  {
   "id": "ms03_01:087:01",
@@ -3231,7 +3231,7 @@
   "id": "ms03_01:109:16",
   "speaker": "絢人",
   "jp": "あの{ruby:女性|ひ　と}としては\n純粋に犯罪者を追ってる\nだけだろうけどね。",
-  "en": "As far as that lady is concerned, she's likely\njust chasing a criminal, plain and simple."
+  "en": "As far as that lady detective is concerned, she's\nlikely just chasing a criminal, plain and simple."
  },
  {
   "id": "ms03_01:109:17",
@@ -3417,7 +3417,7 @@
   "id": "ms03_01:111:00",
   "speaker": "絢人",
   "jp": "ほう……。\n我が{ruby:麗|うるわ}しの{ruby:掃|は}き{ruby:溜|だ}め、\n{ruby:寇聖|こうせい}高校に興味がおありかな？",
-  "en": "Oh ho... So you're interested in\nmy lovely little dump, Kosei High?"
+  "en": "Oh ho... So you're interested in my\nlovely cesspool of a school, Kosei High?"
  },
  {
   "id": "ms03_01:111:01",
@@ -4149,7 +4149,7 @@
   "id": "ms03_01:135:02",
   "speaker": "絢人",
   "jp": "今度、富樫女史が来たら\n君から暴行を受けたと\n伝えておくから。",
-  "en": "Next time Detective Togashi comes by,\nI'll be sure to tell her you assaulted me."
+  "en": "Next time Ms. Togashi comes by, I'll\nbe sure to tell her you assaulted me."
  },
  {
   "id": "ms03_01:135:03",

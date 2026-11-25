@@ -297,7 +297,7 @@
   "id": "dg06_01:013:00",
   "speaker": "道佳",
   "jp": "…………ばか。",
-  "en": "...Dummy."
+  "en": "...Silly."
  },
  {
   "id": "dg06_01:014:00",
@@ -429,13 +429,13 @@
   "id": "dg06_01:025:00",
   "speaker": "要",
   "jp": "……ふふ。\nほんま、変わった人やわ。",
-  "en": "...Hehe. You really are a strange one."
+  "en": "...Fufu. You really are a strange one."
  },
  {
   "id": "dg06_01:026:00",
   "speaker": "要",
   "jp": "……ふふ。\nほんま、変わった人やわ。",
-  "en": "...Hehe. You really are a strange one."
+  "en": "...Fufu. You really are a strange one."
  },
  {
   "id": "dg06_01:027:00",
@@ -747,7 +747,7 @@
   "id": "dg06_01:056:01",
   "speaker": "要",
   "jp": "なんや……ずるいわ、\n男の子って……。",
-  "en": "Honestly... Boys are so unfair..."
+  "en": "Really... boys are so unfair..."
  },
  {
   "id": "dg06_01:056:02",
@@ -1065,7 +1065,7 @@
   "id": "dg06_01:077:00",
   "speaker": "白",
   "jp": "まったく……。",
-  "en": "Honestly..."
+  "en": "Tsk..."
  },
  {
   "id": "dg06_01:078:00",
@@ -1359,7 +1359,7 @@
   "id": "dg06_01:089:07",
   "speaker": "白",
   "jp": "わからぬ……。\nじゃが、あれは確かに\n《鬼札》―――",
-  "en": "I know not... Yet that was surely a Demon Card--"
+  "en": "I know not... Yet that was surely the Demon Card--"
  },
  {
   "id": "dg06_01:089:08",
@@ -1437,7 +1437,7 @@
   "id": "dg06_01:090:01",
   "speaker": "アンジー",
   "jp": "フフッ、\n嬉しいヨ、{px}。\n……本当なら、ネ。",
-  "en": "Fufu, Angie is happy, {px}.\n...If you really mean it, that is."
+  "en": "Fufu, Angie is happy, {px}.\n...If you really mean it, ne."
  },
  {
   "id": "dg06_01:091:00",
@@ -1635,7 +1635,7 @@
   "id": "dg06_01:109:00",
   "speaker": "義王",
   "jp": "ま、その時が来るまで、\n精々オレ様のために\n{ruby:花札|おたから}を集めておくんだな。",
-  "en": "Well, till that time comes, be a good boy\nand gather up the treasure for the great me."
+  "en": "Well, till that time comes, be a good boy and\ncollect the hanafuda--my treasure--for the great me."
  },
  {
   "id": "dg06_01:109:01",
@@ -1677,7 +1677,7 @@
   "id": "dg06_01:109:07",
   "speaker": "アンジー",
   "jp": "フフッ、お楽しみはまた今度。\n近いうちに……ネ。",
-  "en": "Fufu, the fun will have to wait\nfor next time. Very soon... okay?"
+  "en": "Fufu, the fun will have to wait\nfor next time. Very soon... ne."
  },
  {
   "id": "dg06_01:109:08",

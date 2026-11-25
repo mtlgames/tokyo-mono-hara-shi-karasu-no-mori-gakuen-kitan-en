@@ -75,7 +75,7 @@
   "id": "dg01_01:000:12",
   "speaker": "鍵",
   "jp": "この気配……。\n坊、大きな力が二つ、\n急速に浮上してきやす。",
-  "en": "This presence... Young master,\ntwo great powers are risin' fast."
+  "en": "This presence... Young master,\ntwo great powers are rising fast."
  },
  {
   "id": "dg01_01:000:13",
@@ -243,7 +243,7 @@
   "id": "dg01_01:012:03",
   "speaker": "鍵",
   "jp": "しかもあの札は……。\nお二人には可哀想だが、\nいまの坊には荷が重い。",
-  "en": "What's more, that card... I pity the two\nof 'em, but it's too heavy a burden for\nyou as you are now, young master."
+  "en": "What's more, that card... I pity the two\nof them, but it's too heavy a burden\nfor you as you are now, young master."
  },
  {
   "id": "dg01_01:012:04",
@@ -345,7 +345,7 @@
   "id": "dg01_01:018:01",
   "speaker": "札から聞こえる声",
   "jp": "―――もっとも、\n{ruby:隠人|お　に}となり果てれば、その命を\n絶つのは{ruby:其方|そなた}じゃろうがな。",
-  "en": "--Though should they fall and become Oni,\nI daresay it is you who must end their lives."
+  "en": "--Though should they fall and become\nOni, it is you who must end their lives."
  },
  {
   "id": "dg01_01:018:02",
@@ -597,13 +597,13 @@
   "id": "dg01_01:022:01",
   "speaker": "弥紀",
   "jp": "ふふふ。{px}のそんな顔\n見てたら、なんだか不安も\n吹き飛んじゃった。",
-  "en": "Hehe. Seeing that look on your\nface, {px}, somehow\nall my worries just blew away."
+  "en": "Hee hee. Seeing that look on your\nface, {px}, somehow\nall my worries just blew away."
  },
  {
   "id": "dg01_01:023:00",
   "speaker": "弥紀",
   "jp": "ふふふ。\n{px}、何だか楽しそう。",
-  "en": "Hehe. You look like you're kind\nof having fun, {px}."
+  "en": "Hee hee. You look like you're kind\nof having fun, {px}."
  },
  {
   "id": "dg01_01:023:01",
@@ -621,7 +621,7 @@
   "id": "dg01_01:024:01",
   "speaker": "弥紀",
   "jp": "ふふふ。{px}のそんな顔\n見てたら、なんだか不安も\n吹き飛んじゃった。",
-  "en": "Hehe. Seeing that look on your\nface, {px}, somehow\nall my worries just blew away."
+  "en": "Hee hee. Seeing that look on your\nface, {px}, somehow\nall my worries just blew away."
  },
  {
   "id": "dg01_01:025:00",

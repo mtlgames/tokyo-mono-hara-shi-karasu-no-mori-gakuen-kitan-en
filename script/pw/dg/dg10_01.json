@@ -39,7 +39,7 @@
   "id": "dg10_01:001:06",
   "speaker": "義王",
   "jp": "オレ様がまだ、\n{ruby:人間|・・}でいられるウチに\nテメェと決着つけられて―――",
-  "en": "Gettin' to settle things with you\nwhile I can still call myself human--"
+  "en": "Gettin' to settle things with\nyou while I'm still HUMAN--"
  },
  {
   "id": "dg10_01:001:07",
@@ -141,7 +141,7 @@
   "id": "dg10_01:007:00",
   "speaker": "義王",
   "jp": "ちッ……。\nつまらねー野郎だぜ。",
-  "en": "Tch... What a boring guy."
+  "en": "Tch... What a dull bastard."
  },
  {
   "id": "dg10_01:007:01",
@@ -243,7 +243,7 @@
   "id": "dg10_01:014:00",
   "speaker": "白",
   "jp": "では―――参るぞ。",
-  "en": "Then--here I go."
+  "en": "Then--I shall begin."
  },
  {
   "id": "dg10_01:014:01",
@@ -351,7 +351,7 @@
   "id": "dg10_01:021:00",
   "speaker": "義王",
   "jp": "オイオイオイオイ！！\n言ってくれんじゃねーか！！",
-  "en": "Oi oi oi oi!! You got some nerve sayin' that!!"
+  "en": "Oi oi oi oi!! Big talk, huh!!"
  },
  {
   "id": "dg10_01:021:01",
@@ -375,7 +375,7 @@
   "id": "dg10_01:023:00",
   "speaker": "義王",
   "jp": "はッ、トロいこと\n言ってんじゃねーよ。",
-  "en": "Hah, quit talkin' so soft."
+  "en": "Hah, quit talkin' like a wimp."
  },
  {
   "id": "dg10_01:023:01",
@@ -651,7 +651,7 @@
   "id": "dg10_01:037:00",
   "speaker": "白",
   "jp": "―――参るぞ。",
-  "en": "--Here I go."
+  "en": "--Brace yourself."
  },
  {
   "id": "dg10_01:037:01",
@@ -681,7 +681,7 @@
   "id": "dg10_01:038:00",
   "speaker": "義王",
   "jp": "これでまた借りが\n出来ちまったじゃねーか。",
-  "en": "Now I went and owe you again, damn it."
+  "en": "Now I owe you again, damn it."
  },
  {
   "id": "dg10_01:038:01",

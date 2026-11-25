@@ -3,19 +3,19 @@
   "id": "fd07_05:001:00",
   "speaker": "長英",
   "jp": "おう、いまァちょうど木刀の\n手入れをしてたとこじゃ。",
-  "en": "Oh, I was just in the middle of\nlookin' after my wooden sword."
+  "en": "Oh! I was just fixin' up my wooden sword, I tell ya."
  },
  {
   "id": "fd07_05:001:01",
   "speaker": "長英",
   "jp": "蒐が四角にこだわっとるけェ\nわしもなんぞ、こだわって\nみようかと思うての！",
-  "en": "Shu's so particular about squares, I figured\nI'd try bein' particular about somethin' too!"
+  "en": "Shu's so particular about squares, I figured I'd\ntry bein' particular about somethin' too, ye see!"
  },
  {
   "id": "fd07_05:001:02",
   "speaker": "長英",
   "jp": "そいで、手持ちの木刀を\n見とるんじゃが……。\nどうも歪んどる気がしての。",
-  "en": "So I was lookin' over the wooden swords I\ngot on me... and this one seems kinda warped."
+  "en": "So I was lookin' over the wooden sword\nI got on me... but it seems kinda warped."
  },
  {
   "id": "fd07_05:001:03",
@@ -45,7 +45,7 @@
   "id": "fd07_05:004:00",
   "speaker": "長英",
   "jp": "うおッ！？\nもしや、これをわしに？",
-  "en": "Whoa!? Don't tell me this is for me?"
+  "en": "Whoa!? Don't tell me ye brought this for me?"
  },
  {
   "id": "fd07_05:004:01",
@@ -57,7 +57,7 @@
   "id": "fd07_05:004:02",
   "speaker": "長英",
   "jp": "そうじゃ、\nこがい素晴らしいモン、\nもらいっぱなしじゃいけん！",
-  "en": "That's it, I can't just take somethin'\nthis fine and give nothin' back!"
+  "en": "That's it, I can't take somethin' this\nfine off ye and give nothin' back!"
  },
  {
   "id": "fd07_05:004:03",
@@ -81,7 +81,7 @@
   "id": "fd07_05:004:06",
   "speaker": "長英",
   "jp": "{px}に持ってて\nもらえるんなら\n勇気も気合いも百倍じゃ！",
-  "en": "But if {px}'s holdin' on\nto it for me, my courage and fightin'\nspirit'll be a hundred times stronger!"
+  "en": "But if {px}'s holdin' on\nto it for me, my courage and fightin'\nspirit'll be a hundredfold, I tell ya!"
  },
  {
   "id": "fd07_05:005:00",
@@ -99,7 +99,7 @@
   "id": "fd07_05:005:02",
   "speaker": "長英",
   "jp": "ありがとうございやした！",
-  "en": "Thank ya kindly!"
+  "en": "Thank ye kindly!"
  },
  {
   "id": "fd07_05:006:00",
@@ -117,13 +117,13 @@
   "id": "fd07_05:008:00",
   "speaker": "長英",
   "jp": "本当は、渡す様なモンじゃあ\nないんじゃろうが……。",
-  "en": "It ain't really the kinda thing\nya give away, I reckon..."
+  "en": "It ain't really the kinda thing\nye give away, I reckon..."
  },
  {
   "id": "fd07_05:008:01",
   "speaker": "長英",
   "jp": "先輩じゃったら、どーんと\n受け取ってくれると\n思うての！",
-  "en": "But I figured you'd take it in stride, Senpai!"
+  "en": "But I figured ye'd take it in stride, Senpai!"
  },
  {
   "id": "fd07_05:008:02",

@@ -189,7 +189,7 @@
   "id": "ms01_01:012:02",
   "speaker": "巴",
   "jp": "ん……来たわねッ。",
-  "en": "Hm... There it is."
+  "en": "Hm... Here it comes."
  },
  {
   "id": "ms01_01:012:03",
@@ -267,7 +267,7 @@
   "id": "ms01_01:012:15",
   "speaker": "弥紀",
   "jp": "思い立ったら{ruby:迅速|じんそく}に{ruby:徹底|てってい}的に、\nって、巴が生徒会長に立候補\nしたときからの公約でね。",
-  "en": "\"Once she sets her mind to it, swift and\nthorough\"--that's been her pledge ever\nsince she ran for student council president."
+  "en": "\"Act swiftly and thoroughly, the moment\nyou decide to\"--that's been her pledge ever\nsince she ran for student council president."
  },
  {
   "id": "ms01_01:012:16",
@@ -585,7 +585,7 @@
   "id": "ms01_01:023:21",
   "speaker": "弥紀",
   "jp": "……ふふッ。",
-  "en": "...Hehe."
+  "en": "...Hee hee."
  },
  {
   "id": "ms01_01:023:22",
@@ -969,7 +969,7 @@
   "id": "ms01_01:046:00",
   "speaker": "弥紀",
   "jp": "……ふふ。",
-  "en": "...Hehe."
+  "en": "...Hee hee."
  },
  {
   "id": "ms01_01:046:01",
@@ -1293,7 +1293,7 @@
   "id": "ms01_01:057:21",
   "speaker": "巴",
   "jp": "{ruby:陶器|とうき}か何かの\n破片かと思っていたら\n案の定―――",
-  "en": "He thought they were shards of\npottery or something, but then--"
+  "en": "He thought they were shards of pottery\nor something, but sure enough--"
  },
  {
   "id": "ms01_01:057:22",
@@ -1473,7 +1473,7 @@
   "id": "ms01_01:062:00",
   "speaker": "弥紀",
   "jp": "ふふ。\nありがとう、{px}。",
-  "en": "Hehe. Thanks, {px}."
+  "en": "Hee hee. Thanks, {px}."
  },
  {
   "id": "ms01_01:062:01",
@@ -2259,7 +2259,7 @@
   "id": "ms01_01:095:13",
   "speaker": "燈治",
   "jp": "俺もだろうが！！",
-  "en": "What about me, dammit!!"
+  "en": "You dragged me along too, dammit!!"
  },
  {
   "id": "ms01_01:095:14",
@@ -2427,7 +2427,7 @@
   "id": "ms01_01:106:03",
   "speaker": "巴",
   "jp": "わ……\n悪かったわね、{px}。\n巻き込んだりして……。",
-  "en": "S-sorry, {px}...\nfor dragging you into this..."
+  "en": "W-well... sorry about that,\n{px}. Dragging you into this..."
  },
  {
   "id": "ms01_01:106:04",
@@ -2529,7 +2529,7 @@
   "id": "ms01_01:109:01",
   "speaker": "弥紀",
   "jp": "ふふッ、\n{px}って面白いね。",
-  "en": "Hehe, you're funny, {px}."
+  "en": "Hee hee, you're funny, {px}."
  },
  {
   "id": "ms01_01:110:00",
@@ -2541,7 +2541,7 @@
   "id": "ms01_01:110:01",
   "speaker": "弥紀",
   "jp": "ふふッ、\n{px}って面白いね。",
-  "en": "Hehe, you're funny, {px}."
+  "en": "Hee hee, you're funny, {px}."
  },
  {
   "id": "ms01_01:111:00",
@@ -3159,7 +3159,7 @@
   "id": "ms01_01:144:01",
   "speaker": "着物の少女",
   "jp": "怖がらなくても\n大丈夫なのです～。",
-  "en": "You don't need to be scared, it's okay~."
+  "en": "You don't need to be scared. It's all right, it is~."
  },
  {
   "id": "ms01_01:144:02",
@@ -3195,7 +3195,7 @@
   "id": "ms01_01:146:02",
   "speaker": "着物の少女",
   "jp": "だめです、\n確かにこっちを見てるです～。",
-  "en": "It's no good, you're definitely\nlooking right at Suzu~!"
+  "en": "It's no good, you're definitely\nlooking right at Suzu, it is~!"
  },
  {
   "id": "ms01_01:147:00",
@@ -3207,7 +3207,7 @@
   "id": "ms01_01:147:01",
   "speaker": "着物の少女",
   "jp": "見えるひとが来てるのです。\nすず、見られて\nしまったのです～。",
-  "en": "Someone who can see us\nis here! Suzu's been seen~!"
+  "en": "Someone who can see us is\nhere! Suzu's been seen, it is~!"
  },
  {
   "id": "ms01_01:147:02",
@@ -3291,13 +3291,13 @@
   "id": "ms01_01:151:02",
   "speaker": "着物の少女",
   "jp": "すずなのです。\nすずはこの神社を護る\n{ruby:狛犬|こまいぬ}なのです。",
-  "en": "I'm Suzu! Suzu is the komainu, the\nguardian lion-dog who protects this shrine!"
+  "en": "This is Suzu! Suzu is the komainu, the guardian\nlion-dog who protects this shrine, it is!"
  },
  {
   "id": "ms01_01:151:03",
   "speaker": "{ruby:鈴|すず}",
   "jp": "ぬしさまは\n{ruby:封札師|ふうさつし}さまだったですね。\nそれなら納得なのです。",
-  "en": "You're a Card Sealer, aren't you,\nMaster? Then that explains it!"
+  "en": "You're a Card Sealer, aren't you,\nMaster? Then that explains it, it is!"
  },
  {
   "id": "ms01_01:151:04",
@@ -3309,7 +3309,7 @@
   "id": "ms01_01:151:05",
   "speaker": "鍵",
   "jp": "まあ本当はおいそれと\n人の目に触れるものじゃあ\nないんですが、",
-  "en": "Truth be told, we ain't the sort just\nanyone can lay eyes on so easily,"
+  "en": "Truth be told, we're not the sort just\nanyone can lay eyes on so easily,"
  },
  {
   "id": "ms01_01:151:06",
@@ -3321,7 +3321,7 @@
   "id": "ms01_01:151:07",
   "speaker": "鍵",
   "jp": "{ruby:坊|ぼん}がこちらにしばらく\n滞在される事は旦那から―――",
-  "en": "I've heard from the boss that you'll be\nstayin' with us a while, young master--"
+  "en": "I've heard from the master that you'll be\nstaying with us a while, young master--"
  },
  {
   "id": "ms01_01:151:08",
@@ -3333,13 +3333,13 @@
   "id": "ms01_01:151:09",
   "speaker": "鍵",
   "jp": "とは言っても、私らが勝手に\n聞かせていただいたってェ\nだけでして。",
-  "en": "Though, truth be told, we only sorta\nhelped ourselves to overhearin' it."
+  "en": "That said, we merely took the\nliberty of listening in, is all."
  },
  {
   "id": "ms01_01:151:10",
   "speaker": "鍵",
   "jp": "旦那には私らの姿は\n見ていただけないよう\nですからね。",
-  "en": "The boss can't see hide nor hair of us, it seems."
+  "en": "The master can't see hide nor hair of us, it seems."
  },
  {
   "id": "ms01_01:151:11",
@@ -3369,7 +3369,7 @@
   "id": "ms01_01:152:00",
   "speaker": "くわえ煙草の男",
   "jp": "その手袋……\nまさか―――封札師か？",
-  "en": "Those gloves... Don't tell me--you're a Card Sealer?"
+  "en": "That glove... Don't tell me--you're a Card Sealer?"
  },
  {
   "id": "ms01_01:153:00",
@@ -3513,13 +3513,13 @@
   "id": "ms01_01:162:14",
   "speaker": "鈴",
   "jp": "鍵さんもすずも、\nここには長くいるですから\n土地のことは大体わかるです。",
-  "en": "Ken-san and Suzu have been here a long, long\ntime, so we know most everything about this land."
+  "en": "Ken-san and Suzu have been here a long, long time,\nso we know most everything about this land, it is."
  },
  {
   "id": "ms01_01:162:15",
   "speaker": "鈴",
   "jp": "もちろん、何か大きな力に\n邪魔されたりすると\nだめだめなのですが……。",
-  "en": "Of course, if some big power gets in\nthe way, then we're no good at all, but..."
+  "en": "Of course, if some big power gets in the\nway, then we're no good at all, it is..."
  },
  {
   "id": "ms01_01:162:16",
@@ -3543,7 +3543,7 @@
   "id": "ms01_01:162:19",
   "speaker": "鈴",
   "jp": "それでは{px}、\n気をつけて\n行ってらっしゃいませです。",
-  "en": "Well then, {px}, please\nbe careful, and have a good day!"
+  "en": "Well then, {px}, off\nyou go. Please be careful, it is!"
  },
  {
   "id": "ms01_01:ksf:34acf",

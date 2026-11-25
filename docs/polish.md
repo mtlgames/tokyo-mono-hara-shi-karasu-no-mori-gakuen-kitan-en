@@ -993,338 +993,338 @@
 - [x] Quest shop questshoptext:0001 / questwordcomment:0017 "My Quests" (was Check Quests). [waived: engine - quest shop "My Quests" (D20), lead reviews]
 
 ## Phase 9 story pass (worker 23; [I] = Important from the story reviewer: fix, never waive)
-- [ ] ch00_1: ms00_01:030:04 - Zero's deduction trailing か stated flatly - "...Card Archivers, too. Top-secret agents who collect ORDS, aren't they?"
-- [ ] ch00_1: ms00_01:061:01 - speaker blank in source (Zero) - source check only, not a translation fault
-- [ ] ch00_1: dg00_01:010:10 - "it" no referent - "they fuse with that information and become new Oni"
-- [ ] ch00_1: dg00_03:043:07 - 手甲 "gauntlet" first named here - optionally "gauntlet" at ms00_01:031:03-04
-- [ ] ch00_1: dg00_31:000:11, qs00_00:010:08 - "......" (6 dots) - use "..."
-- [ ] ch00_1: qs00_01:010:05 - Mutsu Swordsmith "um" softens him - "...And would you tell me how to reach you?"
-- [ ] ch00_1: ms00_01:018:09 - "your mobility was superior" stiff - "...it seems you were quicker than I expected."
-- [ ] ch00_1: ms00_01:018:12 - ruby emphasis lost - "The place we're *about to go*... is more dangerous"
-- [ ] ch00_2: qs00_04:001:15 - 自由の身 - "a free spirit at last" reads as "free-spirited" - "free of my bonds at last"
-- [ ] ch00_2: qs00_18:003:01 - それにつけても加哩が欲しい (senryu parody) - punch lost - "And yet, for all that, I want curry."
-- [ ] ch00_2: qs00_11:000:00 - うしろのしょうめん だあれ - "Who's standing right behind you...?" (drop "now")
-- [ ] ch00_2: qs00_51:000:02 - 私でも助けられやせん - "sir" breaks Ken's "young master" - "even I won't be able to save you, young master..."
-- [ ] ch00_2: qs00_51:000:03 - 追いつかれる前に - spaced dash, "us" - "Young master, quick, before it catches you--come now!"
-- [ ] ch00_2: qs00_08:010:10-11 - 彼らには見えているのかもしれない - ambiguous - "Maybe the dogs can see them. Their brethren, returning..."
-- [ ] ch00_2: qs00_02:010:01 - emphasis dots lost - "The real business, I took care of *ages* ago."
-- [ ] ch00_2: qs00_07:000:00 - 調合法 ruby レシピ - optional alignment with qs00_18 R-E-C-I-P-E
-- [ ] ch00_2: qs00_50:000:03 - Suzu's "it is" ending thin - optional
-- [ ] ch01_1: ms01_01:012:02 - Tomoe 来たわねッ "There it is" reads as spotting - "Hm... Here it comes."
-- [ ] ch01_1: ms01_01:152:00 - 手袋 "gloves" plural, hero wears one glove - "That glove... Don't tell me--you're a Card Sealer?"
-- [ ] ch01_1: ms01_01:106:03 - 悪かったわね "S-sorry" too timid - "W-well... sorry about that, {px}. Dragging you into this..."
-- [ ] ch01_1: ms01_01:095:13 - 俺もだろうが！！ "What about me" reads as complaint - "Same goes for me, dammit!!"
-- [ ] ch01_1: ms01_01:137:00-162:19 - Suzu's のです "it is" cadence dropped; restore on a few lines, e.g. 144:01 "You needn't be scared, no, you needn't, it is~."
-- [ ] ch01_1: ms01_01:151:05, 151:09 - Ken "ain't"/"sorta" off his courtly voice - "we aren't the sort anyone can lay eyes on so easily"; "we only helped ourselves to overhearing it"
-- [ ] ch01_1: ms01_01:012:15 - Tomoe's pledge quote clumsy - "Act swiftly and thoroughly, the moment you decide to"
-- [ ] ch01_1: ms01_01:057:21 - 案の定 dropped - "He thought they were shards of pottery or something, but sure enough--"
-- [ ] ch01_1: ms01_01:162:19 - 行ってらっしゃいませ "have a good day" off - "Off you go, then. Please be careful!"
-- [ ] ch01_2: dg01_00:011:17 - Suzu's のです "it is" gone across the part - "{px}, go, go, fight, it is~!"
-- [ ] ch01_2: dg01_00:011:11, 011:13, dg01_01:000:12, 012:03, dg01_10:000:01 - Ken g-dropping/"ain't" sounds like Toji - drop it, keep "young master" politeness: "By following the vein, we can see how you're faring from here."
-- [ ] ch01_2: dg01_00:011:09 - 封札師の坊 clumsy - "Young master, the Card Sealer. You can hear my voice, can't you?"
-- [ ] ch01_2: ms01_03:000:06 - Mao "I daresay" overused (000:06, 000:12, dg01_01:018:01) - "Mm. This should do well enough."
-- [ ] ch01_2: ms01_03:011:16 - もう知らんッ。妾は知らんからなッ flattened - "I care not! I care not at all, do you hear!?"
-- [ ] ch01_2: fn01_27:003:01 - Kalpataru "by gum" clashes - "Then shop with gusto and enjoy yourself, verily!!"
-- [ ] ch01_2: fn01_27:011:00 - 今のうち/幕の内 pun lost, "curry-man" invented - "Mmhehehe, enjoy that cool while it lasts, yes?"
-- [ ] ch01_2: dg01_00:005:00 - "alright" -> "all right"
-- [ ] ch02_1: ms02_00:033:02 - Asako "was that how it was?" ambiguous - "Now that you mention it... you did say that, didn't you?"
-- [ ] ch02_1: ms02_00:057:03 - spaced " -- " - "Sei-san and the young miss--the priest and his daughter--look after it, the two of them."
-- [ ] ch02_1: ms02_00:078:13 - Suzu はいです～ "ma'aaam" - "Y-Yes, it is~!"
-- [ ] ch02_1: ms02_00:044:00 - Suzu "super full of energy" too modern - "you seem so full of energy."
-- [ ] ch02_1: ms02_00:057:07 - 好事家 "curio hound" obscure - "the odd curiosity-seeker"
-- [ ] ch02_1: ms02_00:040:23 - 玄人(プロ) - "if you're a real pro"
-- [ ] ch02_1: ms02_00:055:01 - Ken 《四角》 "squares" unglossed before Shu's gag - check reads fine in Ken branch
-- [ ] ch02_2: ms02_01:092:00 / ksf:342eb - 必殺 menu "Student Killer Special" vs "Lethal, is it." (and Toji 108:00 "Lethal, huh...") - "Killer, is it." / "Killer, huh..."
-- [ ] ch02_2: ms02_01:086:00 - イマワノキワミ pun garbled - "saying such cold things is the very brink of death, verily!!"
-- [ ] ch02_2: ms02_01:085:01 / 086:01 - ナベツキ必至 pun - "...and thou shalt be hooked, pot and all, guaranteed!!"
-- [ ] ch02_2: ms02_01:044:00-045:00 vs 195:10, 195:14 - Nagahide "ya" vs "ye" drift - use "ye": "weren't ye?", "Can ye swing a sword?"
-- [ ] ch02_2: ms02_01:055:00 - Nagahide double negative - "Uh, beg yer pardon, bringin' that up outta nowhere. Please, forget I said anything."
-- [ ] ch02_2: ms02_01:156:00, 168:04, 173:00-175:00, 182:07, 217:03 - "......" vs "..." for …………。 - use "..."
-- [ ] ch02_3: ms02_03:031:01 - Mao "we can ill afford to say that" reads reversed - "...We cannot say so yet, though."
-- [ ] ch02_3: ms02_03:016:03-04 - Tomoe 016:04 opens lowercase after "--" - "Don't you think there's a place where you ought to be answering for it? Right, Captain?"
-- [ ] ch02_3: dg02_00:025:01 - "the tool that is I" garbled - "To wield a tool such as I, the White Card, is your task."
-- [ ] ch02_3: dg02_00:022:04, dg02_02:026:00, dg02_02:037:11, fn02_17:005:00 - Mao まったく "Honestly" (Tomoe's tic) - "Tsk." / "Bah," / "Truly,"
-- [ ] ch02_3: fn02_18:002:00, 005:00, 007:00, 010:00 - Ken sounds like a butler - "Well now, looks like I've drawn a rough one, young master." / "Heh, that's a chilly answer."
-- [ ] ch02_3: fn02_18:012:00 - 仔犬 "puppies" vs glossary "pup" - "Why is the little pup so good at playing by herself, I wonder?"
-- [ ] ch02_3: ms02_03:000:06, 030:04 - Nagahide "Nay" archaic - "No, but in the end..." / "No, no good."
-- [ ] ch02_3: dg02_00:028:07 - Tomoe clumsy - "Um, well... Mao, wasn't it? That's what you said."
-- [ ] [I] ch03_1: ms03_00:046:07, 050:01, 051:00, 052:02, 053:01, 054:00, 055:00, 061:02 - Suzu's です/のです "it is" ending dropped - 061:02 "Please go safely, it is~!"; 046:07 "{px}, there is a suspicious person at the shrine entrance, it is!"; 051:00 "{px}, please be very, very careful, it is."
-- [ ] ch03_1: ms03_00:080:17 - Toji objects to あと一応 slight, gag lost - "Hold on. What's with the 'I suppose'?"
-- [ ] ch03_1: ms03_00:096:02 - ruby 飛び入り sets up Mao 飛んでる at 107:06 - "I can expect a few guests to fly right in."
-- [ ] ch03_1: ms03_00:190:01, 190:03 - Shu comma-halting missing - "Square, huh." / "The library, is square, too. Everything's, square, huh. Kufufu..."
-- [ ] ch03_1: ms03_00:023:05 - Seishiro "The time." too elliptical - "Asako. Aren't you late?"
-- [ ] ch03_1: ms03_00:163:07 - 七・不・思・議 vs glossary "Seven Mysteries" - "The. Seven. Mysteries."
-- [ ] ch03_1: ms03_00:107:07, 114:03, 114:04 - "Dragon Vein" vs glossary "dragon vein"; 114:02 "Ki" -> "ki"
-- [ ] ch03_1: ms03_00:130:08 - 刻限は守られねばならぬ flattened - "The appointed hour must be kept."
-- [ ] ch03_1: ms03_00:186:07 - 届けさせられた - "when I was 'made' to deliver some materials."
-- [ ] [I] ch03_2: ms03_01:084:03, 084:08, 084:09, 072:11, 062:00 - Shibukawa's comma-pause speech (待たせた、な / ゆっくり、していけ / 運がいい。もう、来る頃だ) smoothed into fluent English, voice flat - keep halting pauses: "Sorry... for the wait." / "It's bad for her. Don't feed her." / "You're lucky. He'll be along... soon."
-- [ ] ch03_2: ms03_01:031:13 - Togashi おっと失礼 "Oops" too light - "Oh, pardon me--"
-- [ ] ch03_2: ms03_01:006:12, 006:14, 006:16, 006:19 - broker pronouns wobble he/they - use "he": "He's got connections you wouldn't believe...", "to get him to accept a request"
-- [ ] ch03_2: ms03_01:109:16 - あの女性 "that lady" vague - "that lady detective"
-- [ ] ch03_2: ms03_01:111:00 - 我が麗しの掃き溜め "little" not in JP - "my lovely cesspool of a school, Kosei High"
-- [ ] ch03_2: ms03_01:019:04-019:10 - Rin's disguised katakana in Title Case reads as typo - sentence case: "What's that? I-I'm not a suspicious person, you know?"
-- [ ] ch03_2: ms03_01:135:02 - 富樫女史 - "Ms. Togashi"
-- [ ] ch03_3: fd03_21:011:02 - Hisae また噛んだか "Crunched another one" before the candy is mentioned - "...Bit down on it again, huh."
-- [ ] ch03_3: fn03_26:013:00 - "......" for …………  - "..."
-- [ ] ch03_3: fn03_27:004:02, 013:02 - spaced " -- " - "--"
-- [ ] ch03_3: fn03_18:001:01 - Ken 白札殿 "The honorable White Card's" vs "Lady Mao" - "Lady White Card's in the middle of dragging her all over town."
-- [ ] ch03_3: dg03_10:000:03 - Mao 相剋 reads contradictory - "These ki hold one another in check, in a cycle. Spring ki cannot overcome summer ki..."
-- [ ] ch03_3: ms03_03:005:00 - Rin ちェッ、何か調子いいなァ maybe self-deflating - "Tch... Y-yeah, that sounded awfully convenient of me..."
-- [ ] ch03_3: fn03_26:001:00, 011:00 - Shibukawa comma-broken speech smoothed - "...You came, then. Work, is it?"; "...Don't, take it so hard."
-- [ ] ch03_3: dg03_00:015:00 - Rin's 盗人猛々しい slip (optional) - "Talk about a thief with nerve... no, a thief with *brass*!"
-- [ ] ch04_1: ms04_00:044:17 - Ken: 火向->日向, 旋火->仙花 name-change joke half visible - "Hunted by the Tokugawa, the Himukai clan changed their names: Whirling Fire became Hermit Flower, and Fire-Facing became Sun-Facing,"
-- [ ] ch04_1: ms04_00:044:03 - Mao "Honestly" is Tomoe's tic - "Tsk, what a noisy shrine this is."
-- [ ] ch04_1: ms04_00:000:01 - Gio "I'd say" too soft - "Ha-hah!! Another damn fine day's work!"
-- [ ] ch04_1: ms04_00:000:23 - Angie wordplay (optional) - "Unnecessary things are fun things. And fun things are unnecessary things?"
-- [ ] ch04_1: ms04_00:171:08-09 - Schoolgirl "they're so big" no referent - "...but you're so big where it counts, huh?"
-- [ ] ch04_1: ms04_00:110:01 - Nagahide "ye" vs "ya" drift (see ch02_2: pick one) - "That stuff ya were talkin' about, Senpai..."
-- [ ] ch04_1: ms04_00:134:09 - Angie stiff - "I'm Angie, from Spain. Everybody, be nice to me, okay?"
-- [ ] [I] ch04_2: ms04_01:212:08 - Toji 道理が通った以上 is his "good reason" code (ms01_01:079:00), callback dropped - "Long as I've got good reason-- I won't go easy on you, even if you're a girl."
-- [ ] [I] ch04_2: ms04_01:258:06 - Minori みんな一緒だから motif, match ms05_01:132:07 - "As long as we're all together... I'm sure we'll be okay."
-- [ ] [I] ch04_2: ms04_01:121:10 - Tomoe 本人 = Angie, EN "the guy himself" - "We'd grill the girl herself, but it looks like she already went home."
-- [ ] [I] ch04_2: ms04_01:224:00, 226:01 - Ichiru えへへ "Hehe" loses her "Ehehe" - "Ehehe... Long time no see!!" / "Ehehe... I'm glad you're doing well."
-- [ ] ch04_2: ms04_01:255:00, 256:00 - Isachi 保証する echoes "I guarantee it" - "Don't worry. I guarantee your abilities myself."
-- [ ] ch04_2: ms04_01:048:07 - Toji garbled - "'Blank card,' my ass. Since when do tarot decks even have somethin' like--"
-- [ ] ch04_2: ms04_01:120:06 - emphasis dots - "it's LIBRARY business."
-- [ ] ch04_2: ms04_01:208:02, 209:01 - おばあちゃん ruby Abuela - "I swore it to my abuela."
-- [ ] ch04_2: ms04_01:212:16 - 血色の魔女 - "the Sangre Bruja--the Blood-Red Witch."
-- [ ] ch04_2: ms04_01:212:25 - Angie fake broken Japanese - "Me no speak-a Japanese!!"
-- [ ] ch04_2: ms04_01:234:02-03 - katsumoku/katsudon pun - "...Katsu-don?" / "Katsumoku! 'Look with fresh eyes.' Honestly..."
-- [ ] ch04_2: ms04_01:248:00 - stilted - "Is there no limit to what you can take?"
-- [ ] [I] ch04_3: fd04_24:002:01, 003:01, 004:02, 012:02 - Hisae's 浪漫 catchphrase flattened to "stuff dreams are made of"/"stuff of legends"; elsewhere "romantic/romance" - "Nice. ...How romantic." / "...How romantic." / "...Now that's romance." / "A mysterious beauty from a foreign land... How romantic."
-- [ ] [I] ch04_3: fn04_20:014:01 - Asako 寝起き = her own oversleeping, EN "how you get up" - "I suppose the first thing to fix is how I wake up in the morning..."
-- [ ] ch04_3: ms04_03:025:02 - Toji garbled - "Huh. Pretty damn commendable attitude, for you."
-- [ ] ch04_3: ms04_03:027:02 - Mao "Good grief" modern - "Tsk. What a carefree lot."
-- [ ] ch04_3: dg04_01:040:01 - Mao vague - "we recovered only the one that was taken, and nothing more..."
-- [ ] ch04_3: ms04_03:025:01 - Ayahito あの店 = his cafe - "I'm usually at the cafe"
-- [ ] ch04_3: fd04_04:011:01 - Minori "them" for hero - "Angie already knows him now."
-- [ ] ch04_3: fd04_17:002:04, 003:02, 015:06, 016:00 - Mao loanword gag inconsistent - "tele-vision", "mega-phone" throughout
-- [ ] ch04_3: fd04_10:013:00 - Angie - "a paper bag walking by"
-- [ ] ch04_3: fn04_27:014:00 - Kalpataru tic dropped - "Thank you kindly, verily! Come again!!"
-- [ ] ch04_4: fn04_30:004:00 - 女人 stiff but in character (optional) - "Good grief, what a bother. Women see this one and make a fuss, calling this one a hero and whatnot."
-- [ ] ch05_1: ms05_00:206:05 - Hideo 師匠の――― running gag broken - "My master's--"
-- [ ] ch05_1: ms05_00:012:30 - Mao も……もうよさぬかッ stammer on wrong word, caps - "E-Enough of this! Cease at once!!"
-- [ ] ch05_1: ms05_00:024:00, 030:01 - Suzu なのです (voice pass) - "That's good, it is! Suzu will do her best today too!" / "--But this is no time for leisurely greetings, it is."
-- [ ] ch05_1: ms05_00:066:19 - Mao 彼奴 contempt lost - "What manner of man is that fellow?"
-- [ ] ch05_1: ms05_00:116:05, 118:01, 121:05 - Shu comma-halting flattened - "Squares. I was, looking." / "Nori bento, like. Nice, right? Lots of, squares." / "Lovely squares, are waiting. For {px}, recommended."
-- [ ] ch05_1: ms05_00:171:05 - Angie "ne" dropped - "See you later, everybody, ne. That was kinda fun!!"
-- [ ] ch05_1: ms05_00:176:02 - Kalpataru literal mangle - "Please wait-o, verily!"
-- [ ] ch05_1: ms05_00:000:41 - Togashi - "In an oddly calm old man's voice?"
-- [ ] [I] ch05_2: ms05_01:066:00 (+ dg05_00:002:00, 006:00, 007:00, 010:00; dg05_02:007:00, 011:00, 012:00, 013:00, 021:11; ~37 game-wide) - Gio's オイオイオイオイ tic "Whoa whoa whoa whoa!!" duplicates Toji's おいおい; synopsis gives "Oi oi oi oi!!" - "Oi oi oi oi!! Honest little bastard, ain'tcha!!" (same everywhere)
-- [ ] ch05_2: ms05_01:127:05 - Minori "told us" adds listener - "Somebody did say not to collect them, didn't they?"
-- [ ] ch05_2: ms05_01:032:00, 033:00, 034:00 - Minori もう "Geez" rough - "Oh... when you make that face, I can tell there's no use trying to stop you."
-- [ ] ch05_2: ms05_01:132:07 - Minori recurring line - "but as long as we're all together... we'll be okay." (align with ms04_01:258:06)
-- [ ] ch05_2: ms05_03:017:14 - 悪くない casual - "Only at twilight is the view of this city tolerable--"
-- [ ] ch05_2: ms05_02:004:01 - Rin stammer - "F-face forward properly and fight too, you!!"
-- [ ] ch05_2: dg05_00:000:06 - lowercase after "but--" - "...that's for sure, but-- / word is, the great me and my crew can't..."
-- [ ] ch05_2: fd05_20:002:02, 003:01 - Asako dialect-ish - "I'm really blurring the line between work and personal life."
-- [ ] ch05_2: fd05_20:001:04 - "I say that, but honestly I'm a little happy."
-- [ ] [I] ch05_3: fn05_15:002:00, 005:01, 013:01 - Rin calls the female detective (Togashi, per fn05_25) "he" - 002:00 "B-but she didn't have to get THAT mad, right!?"; 005:01 "I wish she wouldn't nag about / every single one of 'em."; 013:01 "I promised the detective. She even / gave me chocolate and everything."
-- [ ] ch05_3: fd05_29:004:00 - "Kagura-chan" hardcoded name; check JP: if the player, "Oh, {pm}-chan."
-- [ ] ch05_3: fn05_30 speaker "Armor Clerk" for toy shop clerk - check JP speaker (engine table; likely waive)
-- [ ] ch05_3: fn05_26:001:00, 015:00 - Shibukawa comma speech (voice pass)
-- [ ] ch05_3: fn05_18:003:01, 004:01 - 飲めない訳じゃない emphasis - "...At most, it's *not that I can't* drink."
-- [ ] ch05_3: fn05_18:001:01 - spaced " -- " - "It's quite the to-do--the little pup's all worked up."
-- [ ] ch05_3: fn05_24:002:00 - Hisae "Atta kid" - "Good. That's the answer I wanted."
-- [ ] ch05_3: fn05_15:001:02 - child's katakana mangling - "Abuse-a-Power and Cop-Tyranny!!"
-- [ ] ch06_1: ms06_00:046:18 - Ken おや、本当だ "so he will" odd - "Oh my, so it is. Young master, best you be off to school now."
-- [ ] ch06_1: ms06_00:093:20 - Kalpataru ギクリ "*Gulp*" - "Yikes, busted, verily."
-- [ ] ch06_1: ms06_00:059:14 - Tomoe 目標発見 ambiguous (optional) - "Target sighted."
-- [ ] [I] ch06_2: ms06_01:083:03 - Hideo "did he not?" for Kaname, female elsewhere (072:12-13, 144:13-15) - "I believe Kotokuji-kun left you orders to keep people away, did she not?"
-- [ ] [I] ch06_2: ms06_01:385:19 - Hideo "bound by his family" (Kaname) - "Kotokuji-kun, who lives bound by her family, that there is another path..."
-- [ ] ch06_2: ms06_01:034:14 - Dokai garbled - "Oh, stop, so co-old~ After all, it's Mikamyun and Kanamen~ Aren't we close?"
-- [ ] ch06_2: ms06_01:369:00 - Gio "Whoa x4" (voice pass: "Oi oi oi oi!!")
-- [ ] ch06_2: ms06_01:093:10 - 氣 "qi" vs glossary ki - "...and get your ki flowing~"
-- [ ] ch06_2: ms06_01:046:03, 036:00 - Kaname "Oh my" is Dokai's tic - "Hm. So you do have that much knowledge."
-- [ ] ch06_2: ms06_01:022:01 vs 385:02, 385:08, 385:11 - Hideo laugh - unify "Ha! Ha! Ha!"
-- [ ] ch06_2: ms06_01:336:00 - Angie ネ dropped - "Wow! That looks like it stings in a sneaky way, ne!!"
-- [ ] [I] ch06_3: fd06_05:001:00-007:00 - Nagahide's Aki dialect flattened to Toji register (voice pass) - e.g. 001:00 "Ohhh, fancy runnin' into ye in a place like this!"; 001:04 "...so writin' papers don't bother me none, I tell ya."; 002:00 "I see! That's why folks throw themselves into martial arts, I tell ya. Now I get it!"; 006:00 "The path of the Real Man is deep and steep. That's exactly why I aim for it, ye hear!"
-- [ ] ch06_3: ms06_02:004:00 - Tomoe 壇 "like Dan" reads as new person - "I hate to sound like Toji, but..."
-- [ ] ch06_3: ms06_02:021:00 - 面の皮 dull - "...You've got some nerve."
-- [ ] ch06_3: dg06_01:025:00, 026:00 - Kaname ふふ "Hehe" - "...Fufu. You really are a strange one."
-- [ ] ch06_3: dg06_01:056:01 - Kaname なんや "Honestly..." - "Really... boys are so unfair..."
-- [ ] ch06_3: dg06_01:013:00 - Dokai ばか "Dummy" - "...Silly."
-- [ ] ch06_3: dg06_01:089:07 - 《鬼札》 unique - "Yet that was surely the Demon Card--"
-- [ ] ch06_3: dg06_01:109:00 - Gio ruby 花札=おたから lost - "...collect the hanafuda-- my treasure-- for the great me."
-- [ ] ch06_3: fd06_29:004:02 - Shop Lady 飯田ちゃん dropped to "dear" - check: wrong-name gag like "Nakano-chan" (fd01_29:004:01)? keep the name if so
-- [ ] [I] ch06_4: fn06_25:003:01 - Togashi (female) 我々は幸せだな "we're lucky men" - "Still, we're lucky, aren't we? To have found a shop like this..."
-- [ ] ch06_4: fn06_22:002:00, 005:00 - Isachi ……ならいい "...Then good." - "...Good, then."
-- [ ] ch06_4: fn06_19:011:00-01 - Suzu third-person switch - "Suzu wants to go someday too. And when Suzu does..." / "Suzu will save her wish until then"
-- [ ] ch06_4: fn06_18:001:00 - Ken "Oh my" x5 fussy - alternate "Well now"/"Ah": "Well now, fresh from the bath, are we?"
-- [ ] ch06_4: fn06_30:004:02 - Armor Clerk JoJo quote - "That's what thrills me! That's what I yearn for!"
-- [ ] ch06_4: fn06_27:018:00 - Kalpataru ありがとゴンしたー - "Thanks-a-ton-ee!!"
-- [ ] [I] ch07_1: ms07_00:212:02, 213:01, 214:00, 222:01, 242:05, 243:12 - Nagahide's Aki dialect (じゃ/けェ/わし) flattened to Toji's generic slang; no "ye"/"I tell ya" - give him his own tic: "I'll win our next match, I tell ya--", "That was a fine game, ye hear? Made me wanna jump right in!", "That lady's always workin' so hard, ye know." Keep "Osu!!"
-- [ ] ch07_1: ms07_00:034:03 - Mao 失敬な事を申すな - "How dare you say such a thing!"
-- [ ] ch07_1: ms07_00:000:08 - Gio clumsy - "Betrayin' me or not, that ain't what matters, you idiots."
-- [ ] ch07_1: ms07_00:155:04 - Toji double negative - "--Course, I know you came here to collect the hanafuda, though."
-- [ ] ch07_1: ms07_00:127:02 - Minori {px} twice - "...Hey, {px}. Which season do you like best?"
-- [ ] ch07_1: ms07_00:013:08, 338:01, 351:04, 351:07 - Asako "Dad" vs "Father"/"Mother" - use "Dad"/"Mom" throughout
-- [ ] ch07_1: ms07_00:127:00, 127:01 - Minori "gonna/kinda" rough - "Feels like it'll turn into winter before we know it."
-- [ ] ch07_1: ms07_00:081:07 - Suzu いってらっしゃいませです (voice pass)
-- [ ] ch07_2: ms07_01:125:07 - Hideo カモンッ！ヒーロー！ pun garbled - If at all possible, I'd like you to call me "Kamon!" -- "Hero!" Yes, "C'mon, Hero!!" (no spaced dash)
-- [ ] ch07_2: ms07_01:074:00 - Tomoe "those three" no referent - "Hmm, the three at the top, huh..."
-- [ ] ch07_2: ms07_01:062:05 - Hideo ワンスッ、モア - "Now, take a deep breath! Once more!!"
-- [ ] ch07_2: ms07_02:028:03 - Kaname ふふ "Heh heh" coarse - "...Hm, hm."
-- [ ] ch07_2: ms07_02:026:00, 027:00 - Kaname Kyoto softness dips - "There's no need to trouble yourself on my account, dear. This blunder is mine." / "Not so much as a word for me, hm? ...I can hardly blame you."
-- [ ] ch07_2: dg07_00:010:02, 022:08, 048:11 - Angie アン self-reference inconsistent - "Angie" throughout: "It's about time you played with Angie and Miggy too, okay!"; "...Angie won't let those guys have their way."
-- [ ] ch07_2: dg07_00:048:04 - Mao 取り返しがつかぬ - "The cards can be won back. But... your life cannot be taken back."
-- [ ] ch07_2: ms07_02:039:04 - Dokai - "Mikamyun properly asked Fudo-san to mind the place for her, you know~"
-- [ ] [I] ch07_3: fd07_05:001:00-009:01 - Nagahide's Aki dialect flattened (voice pass) - e.g. "I was just fixin' up my wooden sword, ye know!", "Thank ye kindly, Senpai, I tell ya!"
-- [ ] ch07_3: dg07_01:046:04 - Gio ruby 部下|モン pays off 046:05 - "You two are mine, ain't ya?"
-- [ ] ch07_3: dg07_01:020:02 - Mao "Enough already" modern - "Cease this at once."
-- [ ] ch07_3: dg07_01:001:00 - Migiri garbled - "What good is any of that!?"
-- [ ] ch07_3: dg07_01:032:01, 043:01, 044:03; dg07_02:012:00, 015:00 - Gio オイオイ (voice pass)
-- [ ] ch07_3: fn07_11:004:05 - Kaname "I daresay" (Mao's marker), Kyoto-ben flat - "It's in my own hand, so I expect it works better than any common charm."
-- [ ] ch07_3: fd07_03:001:03 - Toji 風情があるんだか無いんだか - "Is there any charm in that, or not...?"
-- [ ] ch07_3: fd07_29:004:00 - Shop Lady "Kudan-chan" - wrong-name gag, keep
-- [ ] ch07_3: fn07_15:009:01, 010:01 - Rin オクブカイ "pro-found" - "The world sure is deeeep."
-- [ ] ch07_4: fn07_30:004:03 - 素に戻る jump abrupt - "Ahh, they're just so great, right!? Flipping through the catalog really gets me fired up!"
-- [ ] ch07_4: fn07_30:004:04 - おっと weak - "Oops... ahem."
-- [ ] ch08_1: ms08_00:003:12 - Seishiro 羽鳥家 read ウチ - "Don't go butting in. This is OUR family's problem."
-- [ ] ch08_1: ms08_00:167:05 - Hisae ruby それ - "Their goal was to get their hands on THAT."
-- [ ] ch08_1: ms08_00:000:20 - Chikushi clumsy - "as acting head, I request your prompt and full cooperation."
-- [ ] ch08_1: ms08_00:124:01 - Hisae 思える内が花 - "...Ignorance is bliss, as they say."
-- [ ] ch08_1: ms08_03:016:01 - Nagahide "a wee bit" Scots (voice pass) - "I got a mite carried away, I did..."
-- [ ] ch08_1: ms08_03:109:00 - Shu halting (voice pass) - "I'll help, too. ...For proper squares."
-- [ ] ch08_1: ms08_03:072:01, 074:01, 079:01 - Tomoe ungrammatical - "If you pitching in gets it done faster, then do it."
-- [ ] ch08_1: ms08_03:003:00 - Tomoe 暑苦しい - "Ugh, save the sweaty heart-to-heart for later, later!"
-- [ ] ch08_2: dg08_01:025:01 - Mao "you know" chatty - "It is Mao. Even I have a name."
-- [ ] ch08_2: dg08_01:014:02 - Mao stiff - "Girl, that is an impossible request."
-- [ ] ch08_2: dg08_00:010:08 - Mao contraction vs sibling 011:01 - "What do you think you are doing, all of a sudden!"
-- [ ] ch08_2: fn08_18:005:01 - Ken Yoda order - "You truly are a reliable one."
-- [ ] ch08_2: fn08_10:001:02, 015:01 - Angie オレーマイリ mispronunciation lost - "I was gonna o-rei-mairi you too! Return the favor!"
-- [ ] ch08_2: fn08_10:010:02 - Angie fragment - "Being only half a hero is frustrating, though, ne."
-- [ ] ch08_2: fn08_11:001:01 - Kaname clause dropped - "Oh, it's not you, {px}. It's nothing so very serious..."
-- [ ] ch08_2: fd08_17:010:00 - Mao 自分を持つ - "...I daresay you would do well to have a little more backbone."
-- [ ] [I] ch09_1: ms09_01:089:00-096:07 - Angie native-smooth English early vs stilted foreign-speaker later (295:00-309:00), same JP ヨ/ネ/カナ - match the later pattern: 096:04 "...Mou, Minori, you are really too kind, ne."; 089:02 "Because Kal's place is totally safe. And Angie's fortune-telling said here, too, ne."
-- [ ] ch09_1: ms09_01:160:18 - Gio 大将 "boss" clashes with his own オカシラ title - "chief"
-- [ ] ch09_1: ms09_01:074:02, 074:06, 106:14, 106:18 - メール "a text" vs "my email" - one word
-- [ ] ch09_1: ms09_01:006:00 - Tomoe soft - "Oh? So you're nervous without me after all?"
-- [ ] ch09_1: ms09_01:025:23 - りょ、了解～ - "Ro-Roger~!!"
-- [ ] ch09_1: ms09_01:104:12 - Migiri "you know?" - "Your enemy is JEMA's Nobuyuki Chikushi."
-- [ ] ch09_1: ms09_01:098, 268, 392, 393, 206, 384, 127:07, 144, 057:11 - まったく/やれやれ "Honestly"/"Good grief" for Migiri, Isachi, Togashi, Kaname, Dokai, Shibukawa - vary per speaker (voice pass)
-- [ ] ch09_1: ms09_01:127:19 - Ichiru "that place" ambiguous - "I thought the Division was going to be where I belonged from now on..."
-- [ ] ch09_1: ms09_01:339:08 - speaker label "Hosaka" (JP data), EN fine - no change
-- [ ] [I] ch09_2: ms09_03:000:11 - Ichiru あの人…わかっていてやったのかな: Benio cut the hand (dg09_01:020:12-15), EN "That man" reads as Chikushi - check JP referent; "That woman... I wonder if she knew what she was doing when she did it."
-- [ ] ch09_2: dg09_00:000:05 - Mao なッ…… stray dash - "Wha..."
-- [ ] ch09_2: dg09_02:030:04 - Ichiru "Mao...-chan." glitchy - "Mao... -chan."
-- [ ] ch09_2: dg09_02:010:20 - Ichiru 強い色 - "They had a much stronger color than when I first met him."
-- [ ] ch09_2: fd09_04:011:01, fd09_05:011:02, fd09_05:012:01 - "Men in Black" vs glossary "men in black" - lowercase
-- [ ] ch09_2: ms09_02:016:05 - Mao stilted - "Because there are those like you."
-- [ ] ch09_2: fn09_10:001:02, 016:01 - お礼参り shrine pun half carried - keep "payback visit", mention shrine
-- [ ] ch09_2: fn09_11 - Kaname Kyoto-ben plain (voice pass)
-- [ ] ch09_3: fn09_18:007:02, 008:02, 009:02, 010:02, 013:01 - Ken "sir" instead of "young master" - "I'm askin' you, young master. ...Please, trust us." / "Leave that to us as well, young master."
-- [ ] ch09_3: fn09_18:011:00 - Ken まったく "Honestly," - "Really, at a time like this, at least hear me out proper."
-- [ ] ch09_3: fn09_27:002:00, 006:00, 008:00, 014:00 - Kalpataru thou/you mix - one scheme per scene
-- [ ] ch09_3: fn09_27:004:00 - Kalpataru - "that was a close shave just now, verily!"
-- [ ] ch09_3: fn09_29:004:00 - Shop Lady 竹橋ちゃん - running wrong-name gag (Nakano-chan fd01_29, 飯田ちゃん fd06_29): keep the name
-- [ ] ch09_3: fn09_29:001:00-007:00 - Shop Lady Kansai generic - "Well now, what'll it be, then?" / "Thanks, hon. Come back soon, ya hear~"
-- [ ] ch09_3: fn09_26:016:01 - Shibukawa 親父(マスター) - "I'm just the owner of a little coffee shop. That suits me fine."
-- [ ] [I] ch10_1: dg10_01:014:00, 037:00 - Mao 参るぞ "here I go" modern, loses ritual weight - "Then-- I shall begin." / "--Brace yourself."
-- [ ] ch10_1: dg10_00:002:01, 008:01 - ふざけやがって "Screw you" - "...Don't screw with me."
-- [ ] ch10_1: dg10_01:038:00 - Gio ungrammatical - "Now I owe you again, damn it."
-- [ ] ch10_1: dg10_01:023:00 - トロいこと - "Quit talkin' like a wimp."
-- [ ] ch10_1: dg10_01:007:00 - つまらねー野郎 - "What a dull bastard."
-- [ ] ch10_1: dg10_01:001:06 - 人間 ruby emphasis - "while I'm still *human*"
-- [ ] ch10_1: dg10_01:021:00 - 言ってくれんじゃねーか - "Big talk, huh!!"
-- [ ] ch11_1: ms11_00:081:00, 091:01, 113:10 - Asako/Minori soft ふふ "Hehe" - "Hee hee," / "Hm hm,"
-- [ ] ch11_1: ms11_00:078:28 - Zero 羽鳥、朝子……さん split - "Nice to meet you. Asako Hatori... -san."
-- [ ] ch11_1: ms11_00:003:02, 007:03 - Gio ありがと、よ hedged - "Uh... thanks, man." / "Uh... thanks. Y'know, for that."
-- [ ] ch11_1: ms11_00:009:02 - ruby 盗賊団|アイツら lost - "The great me's got the bandits... those guys..."
-- [ ] ch11_1: ms11_01:025:02 - Nagahide "ya" (voice pass) - "Caught up with ye!"
-- [ ] ch11_1: ms11_01:036:01 - 悟りの境地 - "What a state of enlightenment..."
-- [ ] ch11_1: ms11_00:113:09 - Toji dangling - "...I can't find it, though."
-- [ ] [I] ch11_2: ms11_02:059:02, 060:02, 061:02, 062:02, 063:02 - Minori's recurring "all together" line rewritten, callback lost - "That as long as I'm together with you and everyone, {px}, we'll be okay no matter what happens." (keep "as long as we're all together... we'll be okay" wording)
-- [ ] [I] ch11_2: dg11_00:006:02, 007:02, 008:02, 009:02, 010:02 - Benio 例え執行者ではないにしろ mistranslated, drops true-Executor setup - "Even if she is not the Executor, the White Card can never turn her back on this person."
-- [ ] [I] ch11_2: ms11_02:137:07 - Ken "tried to stop him" for Benio (female) - "The intruder was after the young miss. The boss tried to stop them and ended up like this..."
-- [ ] ch11_2: ms11_03:000:02, 000:06 - Banri "{pm} {pn}" vs elsewhere "{pn} {pm}" - check JP/glossary name order
-- [ ] ch11_2: ms11_02:149:02 - Mao contracted recurring line - "That is just what I would expect of my--"
-- [ ] ch11_2: ms11_02:149:04 - 朝子の一人や二人 - "Fret not. One Asako or two, I shall save her myself."
-- [ ] ch11_2: ms11_02:012:01, 015:01, 019:01 - Tomoe 処罰 ruby オシオキ - "if you're that desperate for a 'punishment'"
-- [ ] ch11_2: ms11_02:113:01, 114:01, 117:02 - Mao 頬が緩む - "I cannot help but smile"
-- [ ] ch11_2: ms11_02:121:04 - Mao clumsy - "Yet it is someone who lights each of those lamps, then as now."
-- [ ] ch11_2: ms11_02:086:00, 109:01 - Toji 馬鹿騒ぎ - "raise a ruckus"
-- [ ] ch11_2: ms11_02:000:07, 121:07, 125:01, 125:03 - British spelling honour/centre/agonise - American (agonize, realized elsewhere)
-- [ ] ch11_3: fn11_04:027:08 - Minori "is be with you." - "is to be with you."
-- [ ] ch11_3: fn11_02:016:01 - Ichiru 受け取ってねッ threat-like - "promise you'll take them, okay!"
-- [ ] ch11_3: dg11_03:025:01 - Zero それにしては - "Even so, there's a lot of confidence in your eyes."
-- [ ] ch11_3: dg11_03:014:26 - Mao 何と言う事じゃ - "How dreadful..."
-- [ ] ch11_3: fn11_04:032:02 - Minori ダメだよ non-sequitur - "So... no good, {px}. Not on your own."
-- [ ] ch11_3: fd11_04:009:00 - Minori "Whoa" loud - "Oh... really...?"
-- [ ] ch11_3: fn11_05, fd11_05 - Nagahide ya/ye/you mixed (voice pass)
-- [ ] ch11_3: dg11_03:030:01 - Benio 見惚れていました - "I was... staring. Rather entranced."
-- [ ] ch11_4: fn11_06:011:02 - 何百億年早い - "{px}, you're hundreds of billions of years too early to think you can boss me around!"
-- [ ] ch11_4: fn11_06:023:00 - Tomoe "Oh my" - "Oh, what a good attitude."
-- [ ] ch11_4: fn11_06:002:02, 012:01, 015:00, 037:01, 038:01, 039:00, 039:01, 049:02, 050:01 - Tomoe まったく/もう all "Honestly" - vary: "Geez." / "Ugh." / "Seriously." (voice pass)
-- [ ] ch11_4: fn11_09:002:01 - 人外魔境め - "You inhuman monster."
-- [ ] ch11_4: fn11_09:043:01 - Migiri ブタ箱行き - "he was in jail before anyone could blink."
-- [ ] ch11_4: fn11_09:031:03 - Migiri まったく - "Tch. Why do I always end up with this role?"
-- [ ] ch11_4: fn11_08:019:04 - clumsy - "Damn... you piss me off to the bone."
-- [ ] ch11_4: fn11_13:041:01 - ヒーローは、孤独だ - "...A hero walks alone."
-- [ ] ch11_5: fn11_16:007:00, 011:00, 012:00 - Benio 貴方という人は "Honestly, you..." - "What manner of person are you..."
-- [ ] ch11_5: fn11_16:018:00, 020:00 - Benio お気遣いは無用です too cold - "There is no need for concern. It was my own doing."
-- [ ] ch11_5: fn11_16:037:01 - Benio ともだち… - "Is this... what a friend is...?"
-- [ ] ch11_5: fn11_17:030:06 - あの男 emphasis - "Or perhaps... that very man would."
-- [ ] ch11_5: fn11_18:003:01 - Ken 旦那 "the boss" - "the master of the house"
-- [ ] ch11_5: fn11_20:003:00, 005:00, 015:00, 026:00 - Asako ふふ "Hehe" (voice pass) - "Hee hee"
-- [ ] ch11_5: fn11_22:024:00, 029:00, 038:08 - Isachi やれやれ "Good grief" x3 (voice pass) - vary: "Tch, kids...", "Boy..."
-- [ ] ch11_5: fn11_14:001:00 - Ayahito plain - "Well, well! Who'd have thought I'd run into you in a place like this."
-- [ ] ch11_6: fn11_24:041:02 - dangling fragment - "I'm looking forward to the day you turn that stone's lonely ruin into an ancient dream."
-- [ ] ch11_6: fn11_28:001:01 - 大いなる遺志 glossary "Great Will" - "The Initiate, chosen by the Great Will... No--"
-- [ ] ch11_6: fn11_24:013:04 - doubled prompt - "...Look. The current age is right in the center."
-- [ ] ch11_6: fn11_25:016:01 - Togashi herself heartened - "I imagine it's that side of you that has saved me more than once."
-- [ ] ch11_6: fn11_27:018:00 - Kal おっとっと "Whoa, whoa!" - "Oop-oop-oop! It's a bit early for a naughty summer fling, verily?"
-- [ ] ch11_6: fn11_24:001:00 - Hisae まったく (voice pass) - "Really, you students do love your school."
-- [ ] ch11_6: fn11_29:007:00 - またおいでや～ - "Come again now~!"
-- [ ] [I] ch12_1: dg12_00:005:00 - Shu 白い人 "Ah, white person." reads as a racial label - "Ah, the white one." (check other Shu lines game-wide)
-- [ ] ch12_1: dg12_00:017:02 - 私の全てだから - "Because it is my... everything."
-- [ ] ch12_1: ms12_00:263:01, 264:01 - なんて言うと思った！？ garbled - "--Did you really think I'd say that!? You idiot!!"
-- [ ] ch12_1: ms12_00:136:02 - お前の隣へな - "To... your side."
-- [ ] ch12_1: ms12_00:069:25 - Suzu いってらっしゃいですー - "H-have a good day!"
-- [ ] ch12_1: ms12_00:048:17 - Ken 札の番人殿 stiff - "the cards' own guardian"
-- [ ] ch12_1: ms12_00:273:02, 279:02 - アンタ一人くらい - "I'll scold you, and only you, anytime."
-- [ ] ch12_1: ms12_00:258:01 - Nagahide "sorry ... sorry" - "sorry you had to see me in such a state."
-- [ ] ch12_1: ms12_00:069:23 - "by tonight" added - "make sure you've decided!"
-- [ ] ch12_2: dg12_01:013:00 - Mao すべての始まりの男 - "The man who started it all..."
-- [ ] ch12_2: dg12_01:019:16 - 鬼札 plural vs glossary single card - check JP; "{px}'s battles with the Demon Card"
-- [ ] ch12_2: dg12_01:019:21 - Benio choice prompt referent - "Which matters more to people, the present or the future...?"
-- [ ] ch12_2: dg12_01:022:02 - Benio いまは - "At this moment... I think so too."
-- [ ] ch12_2: dg12_01:001:03, 027:01 - Benio stiff - "The gentle Nii-sama of old..."
-- [ ] ch12_2: dg12_01:025:02-03 - Benio これ vague - "I am not very used to this, but... I will do my best."
-- [ ] [I] ch13_1: dg13_04:036:02, 037:04 - Benio 兄さま "my brother" vs established "Nii-sama" - "Your words will surely reach Nii-sama too..." / "{px}... Please... take care of Nii-sama."
-- [ ] ch13_1: dg13_10:000:14-15 - Mao 嫌じゃ！！ breakdown stiff - "No... I don't want this... / I won't have it!! {px}... I'm not done being with you yet--"
-- [ ] ch13_1: dg13_04:024:01 - Kal three-curry gag - "One of the unrecommended curries, a lassi of course... and after that, a nice cup of coffee."
-- [ ] ch13_1: ms13_01:044:00, 044:01, 045:01 - Hisae "My bad"/"Oops" teen slang - "...Forgive me." / "Oh? Looks like I've interrupted something."
-- [ ] ch13_1: dg13_01:013:01-02 - Zero run-on - "You taught me how to release the hanafuda, and, to find someone with the power that would take, you brought me together with OXAS..."
-- [ ] ch13_1: dg13_12:010:01, dg13_13:010:01 - Mao ええい - "Bah, enough of your quibbling! Take it!!"
-- [ ] ch13_1: dg13_11:019:00 - ruby 花札=とも - "Let's take her back. Our... precious-- hanafuda... our friends."
-- [ ] ch13_1: dg13_11:002:02 - 白の声 - "I can hear her... Mao's voice..."
-- [ ] ch13_1: dg13_03:038:01 - Dokai joke spelled out - "Our first joint effort as a couple... Let's give it our all~"
-- [ ] [I] ch13_2: fn13_07:012:00 - Shu おニュー袋 gag on his paper bag dead ("A bag of new stuff") - "Brand-new bag. Kufu, kufufu."
-- [ ] ch13_2: fn13_08:001:00, 001:03 - Gio sentence-final オイ "hey" - "Gimme a break, damn it." / "...one damn bit, y'hear?"
-- [ ] ch13_2: fn13_15:010:01 - Rin ムリジイ/じい pun, "forcify" invented - "I won't force you... jii. Grandpa'll be bummed, though."
-- [ ] ch13_2: fn13_03:005:00 - Toji awkward - "That's so like you."
-- [ ] ch13_2: fn13_14:001:02 - 虚空蔵 "Akashic Records" vs glossary - "Akashic Record"
-- [ ] ch13_2: fn13_01:013:01 - Zero "it" no referent - "That's why I can believe without hesitation. ...In you."
-- [ ] ch13_2: fn13_09:003:00 - Migiri 筋金入り "hardcore" - "Your idiocy really is the genuine article, isn't it."
-- [ ] ch13_2: fn13_02:001:04 - Ichiru stilted - "But as expected of a friend of yours, {px}! He was tooough!"
-- [ ] ch13_2: fd13_29:004:01 - Shop Lady ワイハ reversal - "Hawaii, hon, Hawaii! 'Waiha,' as the hip folks say!"
-- [ ] ch13_3: fn13_24:012:01 - 秘宝|しんじつ callback to ms08 "Treasure of truth" - "May the Treasure of Truth guide the path you choose."
-- [ ] ch13_3: fn13_24:011:06 - Hisae "you see" - "...let alone when a firm will comes with it, hm?"
-- [ ] ch13_3: fn13_24:004:01 - stiff tag - "So protecting that's your job, then."
-- [ ] ch13_3: fn13_30:004:03 - 妙なフィギュアを大量に - "a huge shipment of weird figures, so I gotta move 'em properly."
-- [ ] ch13_3: fn13_30:004:01 - お年玉商戦 - "the New Year's allowance sales war!"
-- [ ] ch13_3: fn13_27:006:01 - Kal mock-scold - "What a troublesome customer, verily. Only curry is allowed to beguile Kal-san, verily!"
-- [ ] ch13_3: fn13_27:010:01 - Kal "okay?" x2 - "I will not make any strange curry, you know? Truly, I will not."
-- [ ] ch13_3: fn13_25:001:02 - 予想外の人物 no referent - check against branch
-- [ ] [I] voice:suzu: Suzu's のです/です ending: restore her childlike "..., it is" tag ("Please go safely, it is~!") on the lines where the JP ends in のです/です and it reads naturally; keep third-person "Suzu" and "Hawawa" (331 ids in work/polish/voice_suzu.txt)
-- [ ] [I] voice:ken: Ken (鍵) is courtly-folksy (style-reference retainer row): drop g-dropping and "ain't"/"sorta" (Toji's markers), "young master" never "sir", vary "Oh my" with "Well now"/"Ah" (73 ids in work/polish/voice_ken.txt)
-- [ ] [I] voice:shibu: Shibukawa's comma-pause speech (待たせた、な): keep the halting pauses and clipped brevity ("Sorry... for the wait.", "...You came, then. Work, is it?") (46 ids in work/polish/voice_shibu.txt)
-- [ ] [I] voice:shu: Shu's comma-halting speech (、 mid-phrase): keep the odd pauses ("Squares. I was, looking.", "Lovely squares, are waiting.") (192 ids in work/polish/voice_shu.txt)
-- [ ] [I] voice:nagahide: Nagahide's Aki (Hiroshima) dialect: his own markers "ye" (you), "yer" (your), tag "I tell ya", "Osu!!"; one scheme throughout (not "ya" for you, not Scots "wee"), so he is not a second Toji (627 ids in work/polish/voice_nagahide.txt)
-- [ ] [I] voice:honestly: まったく/やれやれ rendered "Honestly"/"Good grief" for every speaker: vary per speaker (Mao "Tsk."/"Bah,"/"Truly,"; Isachi "Tch, kids..."; Migiri "Tch."; Hisae "Really,"; Benio "What manner of person..."); Tomoe and Seishiro keep theirs (175 ids in work/polish/voice_honestly.txt)
-- [ ] [I] voice:mao_honestly: Mao's "Honestly" is Tomoe's tic: "Tsk." / "Bah," / "Truly," (archaic, haughty) (39 ids in work/polish/voice_mao_honestly.txt)
-- [ ] [I] voice:soft_hehe: ふふ as "Hehe" for Kaname ("Fufu."/"Hm, hm."), Asako, Minori, Benio, Hisae ("Hee hee"/"Hm hm") (138 ids in work/polish/voice_soft_hehe.txt)
-- [ ] [I] voice:angie_ne: Angie's ネ ending: keep "ne" and her foreign-speaker English (uncontracted, "Angie" in third person) consistent with ms09_01:295-309 (164 ids in work/polish/voice_angie_ne.txt)
-- [ ] [I] voice:ichiru_hehe: Ichiru's えへへ is "Ehehe" (style-reference), never "Hehe" (4 ids in work/polish/voice_ichiru_hehe.txt)
-- [ ] [I] voice:hisae_roman: Hisae's 浪漫 catchphrase is "How romantic"/"romance" (synopsis) (4 ids in work/polish/voice_hisae_roman.txt)
+- [x] ch00_1: ms00_01:030:04 - Zero's deduction trailing か stated flatly - "...Card Archivers, too. Top-secret agents who collect ORDS, aren't they?" [fixed: tag question "aren't they?" added]
+- [x] ch00_1: ms00_01:061:01 - speaker blank in source (Zero) - source check only, not a translation fault [waived: source speaker blank, not a translation fault]
+- [x] ch00_1: dg00_01:010:10 - "it" no referent - "they fuse with that information and become new Oni" [fixed: "it" -> "that information"]
+- [x] ch00_1: dg00_03:043:07 - 手甲 "gauntlet" first named here - optionally "gauntlet" at ms00_01:031:03-04 [fixed: "gauntlet" named at 031:03]
+- [x] ch00_1: dg00_31:000:11, qs00_00:010:08 - "......" (6 dots) - use "..." [fixed: already done ("...")]
+- [x] ch00_1: qs00_01:010:05 - Mutsu Swordsmith "um" softens him - "...And would you tell me how to reach you?" [fixed: dropped "um"]
+- [x] ch00_1: ms00_01:018:09 - "your mobility was superior" stiff - "...it seems you were quicker than I expected." [fixed: "you were the quicker one"]
+- [x] ch00_1: ms00_01:018:12 - ruby emphasis lost - "The place we're *about to go*... is more dangerous" [fixed: *about to go* emphasis restored]
+- [x] ch00_2: qs00_04:001:15 - 自由の身 - "a free spirit at last" reads as "free-spirited" - "free of my bonds at last" [fixed: "free of its bonds at last"]
+- [x] ch00_2: qs00_18:003:01 - それにつけても加哩が欲しい (senryu parody) - punch lost - "And yet, for all that, I want curry." [fixed: "And yet, for all that, I want curry."]
+- [x] ch00_2: qs00_11:000:00 - うしろのしょうめん だあれ - "Who's standing right behind you...?" (drop "now") [fixed: dropped "now"]
+- [x] ch00_2: qs00_51:000:02 - 私でも助けられやせん - "sir" breaks Ken's "young master" - "even I won't be able to save you, young master..." [fixed: "sir" -> "young master"]
+- [x] ch00_2: qs00_51:000:03 - 追いつかれる前に - spaced dash, "us" - "Young master, quick, before it catches you--come now!" [fixed: "catches up to you--come now"]
+- [x] ch00_2: qs00_08:010:10-11 - 彼らには見えているのかもしれない - ambiguous - "Maybe the dogs can see them. Their brethren, returning..." [fixed: "Maybe the dogs can see them"]
+- [x] ch00_2: qs00_02:010:01 - emphasis dots lost - "The real business, I took care of *ages* ago." [fixed: *ages* emphasis, hacker voice kept]
+- [x] ch00_2: qs00_07:000:00 - 調合法 ruby レシピ - optional alignment with qs00_18 R-E-C-I-P-E [waived: R-E-C-I-P-E is Kalpataru's flourish; Shibukawa plain "recipe" reads natural]
+- [x] ch00_2: qs00_50:000:03 - Suzu's "it is" ending thin - optional [fixed: already done ("it is!")]
+- [x] ch01_1: ms01_01:012:02 - Tomoe 来たわねッ "There it is" reads as spotting - "Hm... Here it comes." [fixed: "Here it comes."]
+- [x] ch01_1: ms01_01:152:00 - 手袋 "gloves" plural, hero wears one glove - "That glove... Don't tell me--you're a Card Sealer?" [fixed: singular "That glove"]
+- [x] ch01_1: ms01_01:106:03 - 悪かったわね "S-sorry" too timid - "W-well... sorry about that, {px}. Dragging you into this..." [fixed: "W-well... sorry about that"]
+- [x] ch01_1: ms01_01:095:13 - 俺もだろうが！！ "What about me" reads as complaint - "Same goes for me, dammit!!" [fixed: "You dragged me along too, dammit!!"]
+- [x] ch01_1: ms01_01:137:00-162:19 - Suzu's のです "it is" cadence dropped; restore on a few lines, e.g. 144:01 "You needn't be scared, no, you needn't, it is~." [fixed: "it is" restored on 144:01, 146:02, 147:01, 151:02, 162:15]
+- [x] ch01_1: ms01_01:151:05, 151:09 - Ken "ain't"/"sorta" off his courtly voice - "we aren't the sort anyone can lay eyes on so easily"; "we only helped ourselves to overhearing it" [fixed: already done (no ain't/sorta)]
+- [x] ch01_1: ms01_01:012:15 - Tomoe's pledge quote clumsy - "Act swiftly and thoroughly, the moment you decide to" [fixed: pledge quote reworded per note]
+- [x] ch01_1: ms01_01:057:21 - 案の定 dropped - "He thought they were shards of pottery or something, but sure enough--" [fixed: "but sure enough--"]
+- [x] ch01_1: ms01_01:162:19 - 行ってらっしゃいませ "have a good day" off - "Off you go, then. Please be careful!" [fixed: "off you go. Please be careful, it is!"]
+- [x] ch01_2: dg01_00:011:17 - Suzu's のです "it is" gone across the part - "{px}, go, go, fight, it is~!" [fixed: already done ("fight, it is~!")]
+- [x] ch01_2: dg01_00:011:11, 011:13, dg01_01:000:12, 012:03, dg01_10:000:01 - Ken g-dropping/"ain't" sounds like Toji - drop it, keep "young master" politeness: "By following the vein, we can see how you're faring from here." [fixed: already done; 012:03 "'em" -> "them"]
+- [x] ch01_2: dg01_00:011:09 - 封札師の坊 clumsy - "Young master, the Card Sealer. You can hear my voice, can't you?" [fixed: "Young master, the Card Sealer."]
+- [x] ch01_2: ms01_03:000:06 - Mao "I daresay" overused (000:06, 000:12, dg01_01:018:01) - "Mm. This should do well enough." [fixed: "I daresay" cut at 000:06 and 018:01]
+- [x] ch01_2: ms01_03:011:16 - もう知らんッ。妾は知らんからなッ flattened - "I care not! I care not at all, do you hear!?" [fixed: "I care not! I care not at all"]
+- [x] ch01_2: fn01_27:003:01 - Kalpataru "by gum" clashes - "Then shop with gusto and enjoy yourself, verily!!" [fixed: dropped "by gum"]
+- [x] ch01_2: fn01_27:011:00 - 今のうち/幕の内 pun lost, "curry-man" invented - "Mmhehehe, enjoy that cool while it lasts, yes?" [fixed: "enjoy that cool while it lasts, yes?"]
+- [x] ch01_2: dg01_00:005:00 - "alright" -> "all right" [fixed: "alright" -> "all right"]
+- [x] ch02_1: ms02_00:033:02 - Asako "was that how it was?" ambiguous - "Now that you mention it... you did say that, didn't you?" [fixed: "you did say something like that, didn't you?"]
+- [x] ch02_1: ms02_00:057:03 - spaced " -- " - "Sei-san and the young miss--the priest and his daughter--look after it, the two of them." [fixed: unspaced dashes]
+- [x] ch02_1: ms02_00:078:13 - Suzu はいです～ "ma'aaam" - "Y-Yes, it is~!" [fixed: "Y-yes, it is~!"]
+- [x] ch02_1: ms02_00:044:00 - Suzu "super full of energy" too modern - "you seem so full of energy." [fixed: "so full of energy"]
+- [x] ch02_1: ms02_00:057:07 - 好事家 "curio hound" obscure - "the odd curiosity-seeker" [fixed: "the odd curiosity-seeker"]
+- [x] ch02_1: ms02_00:040:23 - 玄人(プロ) - "if you're a real pro" [fixed: "a real pro"]
+- [x] ch02_1: ms02_00:055:01 - Ken 《四角》 "squares" unglossed before Shu's gag - check reads fine in Ken branch [fixed: already reads fine (quoted "squares")]
+- [x] ch02_2: ms02_01:092:00 / ksf:342eb - 必殺 menu "Student Killer Special" vs "Lethal, is it." (and Toji 108:00 "Lethal, huh...") - "Killer, is it." / "Killer, huh..." [fixed: "Killer, is it." / "Killer, huh..." match menu]
+- [x] ch02_2: ms02_01:086:00 - イマワノキワミ pun garbled - "saying such cold things is the very brink of death, verily!!" [fixed: "the very brink of death"]
+- [x] ch02_2: ms02_01:085:01 / 086:01 - ナベツキ必至 pun - "...and thou shalt be hooked, pot and all, guaranteed!!" [fixed: "hooked, pot and all" both lines]
+- [x] ch02_2: ms02_01:044:00-045:00 vs 195:10, 195:14 - Nagahide "ya" vs "ye" drift - use "ye": "weren't ye?", "Can ye swing a sword?" [fixed: already done ("ye")]
+- [x] ch02_2: ms02_01:055:00 - Nagahide double negative - "Uh, beg yer pardon, bringin' that up outta nowhere. Please, forget I said anything." [fixed: double negative removed per note]
+- [x] ch02_2: ms02_01:156:00, 168:04, 173:00-175:00, 182:07, 217:03 - "......" vs "..." for …………。 - use "..." [fixed: already done ("...")]
+- [x] ch02_3: ms02_03:031:01 - Mao "we can ill afford to say that" reads reversed - "...We cannot say so yet, though." [fixed: "Though we cannot say so just yet."]
+- [x] ch02_3: ms02_03:016:03-04 - Tomoe 016:04 opens lowercase after "--" - "Don't you think there's a place where you ought to be answering for it? Right, Captain?" [fixed: 016:04 capitalised, "answering for it"]
+- [x] ch02_3: dg02_00:025:01 - "the tool that is I" garbled - "To wield a tool such as I, the White Card, is your task." [fixed: "a tool such as I, the White Card"]
+- [x] ch02_3: dg02_00:022:04, dg02_02:026:00, dg02_02:037:11, fn02_17:005:00 - Mao まったく "Honestly" (Tomoe's tic) - "Tsk." / "Bah," / "Truly," [fixed: already done (Tsk/Truly/Bah)]
+- [x] ch02_3: fn02_18:002:00, 005:00, 007:00, 010:00 - Ken sounds like a butler - "Well now, looks like I've drawn a rough one, young master." / "Heh, that's a chilly answer." [fixed: 002/005/007/010 reworded, less butler-like]
+- [x] ch02_3: fn02_18:012:00 - 仔犬 "puppies" vs glossary "pup" - "Why is the little pup so good at playing by herself, I wonder?" [fixed: "the little pup ... by herself"]
+- [x] ch02_3: ms02_03:000:06, 030:04 - Nagahide "Nay" archaic - "No, but in the end..." / "No, no good." [fixed: "Nay" -> "No" both lines]
+- [x] ch02_3: dg02_00:028:07 - Tomoe clumsy - "Um, well... Mao, wasn't it? That's what you said." [fixed: "Mao, wasn't it? That's what you said."]
+- [x] [I] ch03_1: ms03_00:046:07, 050:01, 051:00, 052:02, 053:01, 054:00, 055:00, 061:02 - Suzu's です/のです "it is" ending dropped - 061:02 "Please go safely, it is~!"; 046:07 "{px}, there is a suspicious person at the shrine entrance, it is!"; 051:00 "{px}, please be very, very careful, it is." [fixed: already done mostly; 061:02 "Please go safely, it is~!"]
+- [x] ch03_1: ms03_00:080:17 - Toji objects to あと一応 slight, gag lost - "Hold on. What's with the 'I suppose'?" [fixed: "What's with the 'I suppose'...?"]
+- [x] ch03_1: ms03_00:096:02 - ruby 飛び入り sets up Mao 飛んでる at 107:06 - "I can expect a few guests to fly right in." [fixed: "guests to fly right in"]
+- [x] ch03_1: ms03_00:190:01, 190:03 - Shu comma-halting missing - "Square, huh." / "The library, is square, too. Everything's, square, huh. Kufufu..." [fixed: 190:03 comma halting; 190:01 already done]
+- [x] ch03_1: ms03_00:023:05 - Seishiro "The time." too elliptical - "Asako. Aren't you late?" [fixed: "You. Aren't you running late?"]
+- [x] ch03_1: ms03_00:163:07 - 七・不・思・議 vs glossary "Seven Mysteries" - "The. Seven. Mysteries." [fixed: "The. Seven. Mysteries."]
+- [x] ch03_1: ms03_00:107:07, 114:03, 114:04 - "Dragon Vein" vs glossary "dragon vein"; 114:02 "Ki" -> "ki" [fixed: "dragon vein" lowercased 107:07, 114:03; Ki kept (glossary: capital in 《氣》)]
+- [x] ch03_1: ms03_00:130:08 - 刻限は守られねばならぬ flattened - "The appointed hour must be kept." [fixed: "The appointed hour must be kept."]
+- [x] ch03_1: ms03_00:186:07 - 届けさせられた - "when I was 'made' to deliver some materials." [fixed: "made" in scare quotes]
+- [x] [I] ch03_2: ms03_01:084:03, 084:08, 084:09, 072:11, 062:00 - Shibukawa's comma-pause speech (待たせた、な / ゆっくり、していけ / 運がいい。もう、来る頃だ) smoothed into fluent English, voice flat - keep halting pauses: "Sorry... for the wait." / "It's bad for her. Don't feed her." / "You're lucky. He'll be along... soon." [fixed: halting pauses on 062:00, 072:11, 084:02, 084:03, 084:09]
+- [x] ch03_2: ms03_01:031:13 - Togashi おっと失礼 "Oops" too light - "Oh, pardon me--" [fixed: "Oh, pardon me--"]
+- [x] ch03_2: ms03_01:006:12, 006:14, 006:16, 006:19 - broker pronouns wobble he/they - use "he": "He's got connections you wouldn't believe...", "to get him to accept a request" [fixed: broker "he" throughout 006:12-19]
+- [x] ch03_2: ms03_01:109:16 - あの女性 "that lady" vague - "that lady detective" [fixed: "that lady detective"]
+- [x] ch03_2: ms03_01:111:00 - 我が麗しの掃き溜め "little" not in JP - "my lovely cesspool of a school, Kosei High" [fixed: "my lovely cesspool of a school"]
+- [x] ch03_2: ms03_01:019:04-019:10 - Rin's disguised katakana in Title Case reads as typo - sentence case: "What's that? I-I'm not a suspicious person, you know?" [fixed: sentence case, stilted uncontracted wording kept]
+- [x] ch03_2: ms03_01:135:02 - 富樫女史 - "Ms. Togashi" [fixed: "Ms. Togashi"]
+- [x] ch03_3: fd03_21:011:02 - Hisae また噛んだか "Crunched another one" before the candy is mentioned - "...Bit down on it again, huh." [fixed: "Bit down on it again, huh."]
+- [x] ch03_3: fn03_26:013:00 - "......" for …………  - "..." [fixed: already done ("...")]
+- [x] ch03_3: fn03_27:004:02, 013:02 - spaced " -- " - "--" [fixed: already done (no spaced dashes)]
+- [x] ch03_3: fn03_18:001:01 - Ken 白札殿 "The honorable White Card's" vs "Lady Mao" - "Lady White Card's in the middle of dragging her all over town." [fixed: "Lady White Card's"]
+- [x] ch03_3: dg03_10:000:03 - Mao 相剋 reads contradictory - "These ki hold one another in check, in a cycle. Spring ki cannot overcome summer ki..." [fixed: "hold one another in check in a cycle"]
+- [x] ch03_3: ms03_03:005:00 - Rin ちェッ、何か調子いいなァ maybe self-deflating - "Tch... Y-yeah, that sounded awfully convenient of me..." [waived: 調子いい read as hero's glib talk; self-deflation unsure, current fits]
+- [x] ch03_3: fn03_26:001:00, 011:00 - Shibukawa comma-broken speech smoothed - "...You came, then. Work, is it?"; "...Don't, take it so hard." [fixed: comma-halting restored both lines]
+- [x] ch03_3: dg03_00:015:00 - Rin's 盗人猛々しい slip (optional) - "Talk about a thief with nerve... no, a thief with *brass*!" [waived: pot/kettle "blue"/"black" adaptation already keeps the slip gag]
+- [x] ch04_1: ms04_00:044:17 - Ken: 火向->日向, 旋火->仙花 name-change joke half visible - "Hunted by the Tokugawa, the Himukai clan changed their names: Whirling Fire became Hermit Flower, and Fire-Facing became Sun-Facing," [fixed: name-change joke made explicit]
+- [x] ch04_1: ms04_00:044:03 - Mao "Honestly" is Tomoe's tic - "Tsk, what a noisy shrine this is." [fixed: already done ("Bah,")]
+- [x] ch04_1: ms04_00:000:01 - Gio "I'd say" too soft - "Ha-hah!! Another damn fine day's work!" [fixed: Gio "Another damn fine day's work!"]
+- [x] ch04_1: ms04_00:000:23 - Angie wordplay (optional) - "Unnecessary things are fun things. And fun things are unnecessary things?" [fixed: Angie line now "unnecessary things" wordplay]
+- [x] ch04_1: ms04_00:171:08-09 - Schoolgirl "they're so big" no referent - "...but you're so big where it counts, huh?" [fixed: "you're so big where it counts" referent]
+- [x] ch04_1: ms04_00:110:01 - Nagahide "ye" vs "ya" drift (see ch02_2: pick one) - "That stuff ya were talkin' about, Senpai..." [fixed: already done ("ye")]
+- [x] ch04_1: ms04_00:134:09 - Angie stiff - "I'm Angie, from Spain. Everybody, be nice to me, okay?" [fixed: "be nice to me, ne?" kept uncontracted]
+- [x] [I] ch04_2: ms04_01:212:08 - Toji 道理が通った以上 is his "good reason" code (ms01_01:079:00), callback dropped - "Long as I've got good reason-- I won't go easy on you, even if you're a girl." [fixed: Toji "Long as I've got good reason" callback]
+- [x] [I] ch04_2: ms04_01:258:06 - Minori みんな一緒だから motif, match ms05_01:132:07 - "As long as we're all together... I'm sure we'll be okay." [fixed: aligned with ms05_01:132:07 motif line]
+- [x] [I] ch04_2: ms04_01:121:10 - Tomoe 本人 = Angie, EN "the guy himself" - "We'd grill the girl herself, but it looks like she already went home." [fixed: "the girl herself... she already went home"]
+- [x] [I] ch04_2: ms04_01:224:00, 226:01 - Ichiru えへへ "Hehe" loses her "Ehehe" - "Ehehe... Long time no see!!" / "Ehehe... I'm glad you're doing well." [fixed: already done ("Ehehe")]
+- [x] ch04_2: ms04_01:255:00, 256:00 - Isachi 保証する echoes "I guarantee it" - "Don't worry. I guarantee your abilities myself." [fixed: Isachi "I guarantee it" echo, both copies]
+- [x] ch04_2: ms04_01:048:07 - Toji garbled - "'Blank card,' my ass. Since when do tarot decks even have somethin' like--" [fixed: "'White Card,' my ass" cleaned up]
+- [x] ch04_2: ms04_01:120:06 - emphasis dots - "it's LIBRARY business." [fixed: emphasis as "LIBRARY business"]
+- [x] ch04_2: ms04_01:208:02, 209:01 - おばあちゃん ruby Abuela - "I swore it to my abuela." [fixed: "abuela" in 208:02 and 209:01]
+- [x] ch04_2: ms04_01:212:16 - 血色の魔女 - "the Sangre Bruja--the Blood-Red Witch." [fixed: "Sangre Bruja, the Blood-Red Witch"]
+- [x] ch04_2: ms04_01:212:25 - Angie fake broken Japanese - "Me no speak-a Japanese!!" [waived: "No comprendo Japanese" Spanish gag fits Angie better]
+- [x] ch04_2: ms04_01:234:02-03 - katsumoku/katsudon pun - "...Katsu-don?" / "Katsumoku! 'Look with fresh eyes.' Honestly..." [waived: current fresh eyes/fresh katsu bowl pun lands in English]
+- [x] ch04_2: ms04_01:248:00 - stilted - "Is there no limit to what you can take?" [fixed: "Is there no limit to what you can handle?"]
+- [x] [I] ch04_3: fd04_24:002:01, 003:01, 004:02, 012:02 - Hisae's 浪漫 catchphrase flattened to "stuff dreams are made of"/"stuff of legends"; elsewhere "romantic/romance" - "Nice. ...How romantic." / "...How romantic." / "...Now that's romance." / "A mysterious beauty from a foreign land... How romantic." [fixed: already done ("How romantic" throughout)]
+- [x] [I] ch04_3: fn04_20:014:01 - Asako 寝起き = her own oversleeping, EN "how you get up" - "I suppose the first thing to fix is how I wake up in the morning..." [fixed: "how I wake up in the morning"]
+- [x] ch04_3: ms04_03:025:02 - Toji garbled - "Huh. Pretty damn commendable attitude, for you." [fixed: already done (Toji line not garbled)]
+- [x] ch04_3: ms04_03:027:02 - Mao "Good grief" modern - "Tsk. What a carefree lot." [fixed: already done ("Bah.")]
+- [x] ch04_3: dg04_01:040:01 - Mao vague - "we recovered only the one that was taken, and nothing more..." [fixed: already done (line already clear)]
+- [x] ch04_3: ms04_03:025:01 - Ayahito あの店 = his cafe - "I'm usually at the cafe" [fixed: "shop" -> "cafe"]
+- [x] ch04_3: fd04_04:011:01 - Minori "them" for hero - "Angie already knows him now." [fixed: "them" -> "him" (Hideo)]
+- [x] ch04_3: fd04_17:002:04, 003:02, 015:06, 016:00 - Mao loanword gag inconsistent - "tele-vision", "mega-phone" throughout [fixed: "tele-vision"/"mega-phone" in all four lines]
+- [x] ch04_3: fd04_10:013:00 - Angie - "a paper bag walking by" [fixed: "a paper bag walking by"]
+- [x] ch04_3: fn04_27:014:00 - Kalpataru tic dropped - "Thank you kindly, verily! Come again!!" [fixed: tic "Thank you verrry muchly!!", plus fn02_27]
+- [x] ch04_4: fn04_30:004:00 - 女人 stiff but in character (optional) - "Good grief, what a bother. Women see this one and make a fuss, calling this one a hero and whatnot." [fixed: already done (in-character "Alas, what a predicament")]
+- [x] ch05_1: ms05_00:206:05 - Hideo 師匠の――― running gag broken - "My master's--" [fixed: "My master's--", 206:07 chain matches gag]
+- [x] ch05_1: ms05_00:012:30 - Mao も……もうよさぬかッ stammer on wrong word, caps - "E-Enough of this! Cease at once!!" [fixed: "Enough of this! Cease at once!!", no caps]
+- [x] ch05_1: ms05_00:024:00, 030:01 - Suzu なのです (voice pass) - "That's good, it is! Suzu will do her best today too!" / "--But this is no time for leisurely greetings, it is." [fixed: already done (Suzu "it is")]
+- [x] ch05_1: ms05_00:066:19 - Mao 彼奴 contempt lost - "What manner of man is that fellow?" [fixed: "What manner of knave is that?"]
+- [x] ch05_1: ms05_00:116:05, 118:01, 121:05 - Shu comma-halting flattened - "Squares. I was, looking." / "Nori bento, like. Nice, right? Lots of, squares." / "Lovely squares, are waiting. For {px}, recommended." [fixed: 118:01 and 121:05 comma-halting restored]
+- [x] ch05_1: ms05_00:171:05 - Angie "ne" dropped - "See you later, everybody, ne. That was kinda fun!!" [fixed: Angie "ne" added]
+- [x] ch05_1: ms05_00:176:02 - Kalpataru literal mangle - "Please wait-o, verily!" [fixed: "Please wait-o, verily!"]
+- [x] ch05_1: ms05_00:000:41 - Togashi - "In an oddly calm old man's voice?" [fixed: "In an oddly calm old man's voice?"]
+- [x] [I] ch05_2: ms05_01:066:00 (+ dg05_00:002:00, 006:00, 007:00, 010:00; dg05_02:007:00, 011:00, 012:00, 013:00, 021:11; ~37 game-wide) - Gio's オイオイオイオイ tic "Whoa whoa whoa whoa!!" duplicates Toji's おいおい; synopsis gives "Oi oi oi oi!!" - "Oi oi oi oi!! Honest little bastard, ain'tcha!!" (same everywhere) [fixed: already done except buddymes 0229/0484, now Oi]
+- [x] ch05_2: ms05_01:127:05 - Minori "told us" adds listener - "Somebody did say not to collect them, didn't they?" [fixed: "Somebody did say..., didn't they?"]
+- [x] ch05_2: ms05_01:032:00, 033:00, 034:00 - Minori もう "Geez" rough - "Oh... when you make that face, I can tell there's no use trying to stop you." [fixed: "Geez" -> "Oh..." in all three]
+- [x] ch05_2: ms05_01:132:07 - Minori recurring line - "but as long as we're all together... we'll be okay." (align with ms04_01:258:06) [fixed: aligned with ms04_01:258:06]
+- [x] ch05_2: ms05_03:017:14 - 悪くない casual - "Only at twilight is the view of this city tolerable--" [fixed: "view of this city tolerable"]
+- [x] ch05_2: ms05_02:004:01 - Rin stammer - "F-face forward properly and fight too, you!!" [fixed: Rin stammer, dropped added "quit that"]
+- [x] ch05_2: dg05_00:000:06 - lowercase after "but--" - "...that's for sure, but-- / word is, the great me and my crew can't..." [fixed: already done (lowercase continuation as suggested)]
+- [x] ch05_2: fd05_20:002:02, 003:01 - Asako dialect-ish - "I'm really blurring the line between work and personal life." [fixed: "blurring the line", "more professional", both lines]
+- [x] ch05_2: fd05_20:001:04 - "I say that, but honestly I'm a little happy." [fixed: "I say that, but honestly..."]
+- [x] [I] ch05_3: fn05_15:002:00, 005:01, 013:01 - Rin calls the female detective (Togashi, per fn05_25) "he" - 002:00 "B-but she didn't have to get THAT mad, right!?"; 005:01 "I wish she wouldn't nag about / every single one of 'em."; 013:01 "I promised the detective. She even / gave me chocolate and everything." [fixed: Togashi "she" in 002:00, 005:01, 013:01]
+- [x] ch05_3: fd05_29:004:00 - "Kagura-chan" hardcoded name; check JP: if the player, "Oh, {pm}-chan." [fixed: already done (Kagura-chan is the wrong-name gag)]
+- [x] ch05_3: fn05_30 speaker "Armor Clerk" for toy shop clerk - check JP speaker (engine table; likely waive) [waived: glossary/speaker name kept (JP speaker 鎧の店員)]
+- [x] ch05_3: fn05_26:001:00, 015:00 - Shibukawa comma speech (voice pass) [fixed: Shibukawa comma pauses in 001:00, 015:00]
+- [x] ch05_3: fn05_18:003:01, 004:01 - 飲めない訳じゃない emphasis - "...At most, it's *not that I can't* drink." [fixed: emphasis "not UNABLE to drink", both copies]
+- [x] ch05_3: fn05_18:001:01 - spaced " -- " - "It's quite the to-do--the little pup's all worked up." [fixed: already done (unspaced "--")]
+- [x] ch05_3: fn05_24:002:00 - Hisae "Atta kid" - "Good. That's the answer I wanted." [fixed: "Good. That's the answer I wanted."]
+- [x] ch05_3: fn05_15:001:02 - child's katakana mangling - "Abuse-a-Power and Cop-Tyranny!!" [fixed: "Abuse-a-Power and Cop-Tyranny!!"]
+- [x] ch06_1: ms06_00:046:18 - Ken おや、本当だ "so he will" odd - "Oh my, so it is. Young master, best you be off to school now." [fixed: "Oh my, so it is."]
+- [x] ch06_1: ms06_00:093:20 - Kalpataru ギクリ "*Gulp*" - "Yikes, busted, verily." [fixed: "Yikes, busted, verily."]
+- [x] ch06_1: ms06_00:059:14 - Tomoe 目標発見 ambiguous (optional) - "Target sighted." [fixed: already done ("Target located" reads clearly)]
+- [x] [I] ch06_2: ms06_01:083:03 - Hideo "did he not?" for Kaname, female elsewhere (072:12-13, 144:13-15) - "I believe Kotokuji-kun left you orders to keep people away, did she not?" [fixed: "did she not?"]
+- [x] [I] ch06_2: ms06_01:385:19 - Hideo "bound by his family" (Kaname) - "Kotokuji-kun, who lives bound by her family, that there is another path..." [fixed: "bound by her family"]
+- [x] ch06_2: ms06_01:034:14 - Dokai garbled - "Oh, stop, so co-old~ After all, it's Mikamyun and Kanamen~ Aren't we close?" [fixed: Dokai "We're Mikamyun and Kanamen~"]
+- [x] ch06_2: ms06_01:369:00 - Gio "Whoa x4" (voice pass: "Oi oi oi oi!!") [fixed: Gio "Oi oi oi oi!!"]
+- [x] ch06_2: ms06_01:093:10 - 氣 "qi" vs glossary ki - "...and get your ki flowing~" [fixed: "qi" -> "ki", plus obj 0063/0187 sweep]
+- [x] ch06_2: ms06_01:046:03, 036:00 - Kaname "Oh my" is Dokai's tic - "Hm. So you do have that much knowledge." [fixed: Kaname 046:03 "Hm...", 036:00 drops "My,"]
+- [x] ch06_2: ms06_01:022:01 vs 385:02, 385:08, 385:11 - Hideo laugh - unify "Ha! Ha! Ha!" [fixed: Hideo laugh "Ha! Ha! Ha!" in 385:02/08/11]
+- [x] ch06_2: ms06_01:336:00 - Angie ネ dropped - "Wow! That looks like it stings in a sneaky way, ne!!" [fixed: already done (Angie "ne")]
+- [x] [I] ch06_3: fd06_05:001:00-007:00 - Nagahide's Aki dialect flattened to Toji register (voice pass) - e.g. 001:00 "Ohhh, fancy runnin' into ye in a place like this!"; 001:04 "...so writin' papers don't bother me none, I tell ya."; 002:00 "I see! That's why folks throw themselves into martial arts, I tell ya. Now I get it!"; 006:00 "The path of the Real Man is deep and steep. That's exactly why I aim for it, ye hear!" [fixed: Nagahide tags in 001:04, 002:00, 004:00, 006:00]
+- [x] ch06_3: ms06_02:004:00 - Tomoe 壇 "like Dan" reads as new person - "I hate to sound like Toji, but..." [waived: Tomoe always calls Toji "Dan" (her voice)]
+- [x] ch06_3: ms06_02:021:00 - 面の皮 dull - "...You've got some nerve." [fixed: "You've got some nerve."]
+- [x] ch06_3: dg06_01:025:00, 026:00 - Kaname ふふ "Hehe" - "...Fufu. You really are a strange one." [fixed: already done ("Fufu.")]
+- [x] ch06_3: dg06_01:056:01 - Kaname なんや "Honestly..." - "Really... boys are so unfair..." [fixed: "Really... boys are so unfair..."]
+- [x] ch06_3: dg06_01:013:00 - Dokai ばか "Dummy" - "...Silly." [fixed: Dokai "...Silly."]
+- [x] ch06_3: dg06_01:089:07 - 《鬼札》 unique - "Yet that was surely the Demon Card--" [fixed: "the Demon Card"]
+- [x] ch06_3: dg06_01:109:00 - Gio ruby 花札=おたから lost - "...collect the hanafuda-- my treasure-- for the great me." [fixed: "collect the hanafuda--my treasure--"]
+- [x] ch06_3: fd06_29:004:02 - Shop Lady 飯田ちゃん dropped to "dear" - check: wrong-name gag like "Nakano-chan" (fd01_29:004:01)? keep the name if so [fixed: wrong-name gag "Iida-chan" restored]
+- [x] [I] ch06_4: fn06_25:003:01 - Togashi (female) 我々は幸せだな "we're lucky men" - "Still, we're lucky, aren't we? To have found a shop like this..." [fixed: "we're lucky, aren't we?"]
+- [x] ch06_4: fn06_22:002:00, 005:00 - Isachi ……ならいい "...Then good." - "...Good, then." [fixed: "...Good, then." both copies]
+- [x] ch06_4: fn06_19:011:00-01 - Suzu third-person switch - "Suzu wants to go someday too. And when Suzu does..." / "Suzu will save her wish until then" [fixed: 011:00 "when Suzu does"; 011:01 already done]
+- [x] ch06_4: fn06_18:001:00 - Ken "Oh my" x5 fussy - alternate "Well now"/"Ah": "Well now, fresh from the bath, are we?" [fixed: Ken "Well now, fresh from the bath"]
+- [x] ch06_4: fn06_30:004:02 - Armor Clerk JoJo quote - "That's what thrills me! That's what I yearn for!" [fixed: "That's what I yearn for!"]
+- [x] ch06_4: fn06_27:018:00 - Kalpataru ありがとゴンしたー - "Thanks-a-ton-ee!!" [fixed: already done ("Thank you verrry muchly!!" tic)]
+- [x] [I] ch07_1: ms07_00:212:02, 213:01, 214:00, 222:01, 242:05, 243:12 - Nagahide's Aki dialect (じゃ/けェ/わし) flattened to Toji's generic slang; no "ye"/"I tell ya" - give him his own tic: "I'll win our next match, I tell ya--", "That was a fine game, ye hear? Made me wanna jump right in!", "That lady's always workin' so hard, ye know." Keep "Osu!!" [fixed: Nagahide "ye"/"I tell ya" in 212:02, 222:01, 242:05]
+- [x] ch07_1: ms07_00:034:03 - Mao 失敬な事を申すな - "How dare you say such a thing!" [fixed: "How dare you say such a thing!"]
+- [x] ch07_1: ms07_00:000:08 - Gio clumsy - "Betrayin' me or not, that ain't what matters, you idiots." [fixed: Gio line reworded, "none of that crap matters"]
+- [x] ch07_1: ms07_00:155:04 - Toji double negative - "--Course, I know you came here to collect the hanafuda, though." [fixed: Toji double negative removed, note wording]
+- [x] ch07_1: ms07_00:127:02 - Minori {px} twice - "...Hey, {px}. Which season do you like best?" [waived: check requires both {px} codes from JP]
+- [x] ch07_1: ms07_00:013:08, 338:01, 351:04, 351:07 - Asako "Dad" vs "Father"/"Mother" - use "Dad"/"Mom" throughout [fixed: Asako Dad/Mom in 338:01, 351:04/06/07]
+- [x] ch07_1: ms07_00:127:00, 127:01 - Minori "gonna/kinda" rough - "Feels like it'll turn into winter before we know it." [fixed: "it'll turn into winter", "pretty tough"]
+- [x] ch07_1: ms07_00:081:07 - Suzu いってらっしゃいませです (voice pass) [fixed: already done (voice pass "it is")]
+- [x] ch07_2: ms07_01:125:07 - Hideo カモンッ！ヒーロー！ pun garbled - If at all possible, I'd like you to call me "Kamon!" -- "Hero!" Yes, "C'mon, Hero!!" (no spaced dash) [fixed: Kamon/Hero pun as "C'mon, Hero!!", no spaced dash]
+- [x] ch07_2: ms07_01:074:00 - Tomoe "those three" no referent - "Hmm, the three at the top, huh..." [fixed: "those three at the top" ties to Hideo]
+- [x] ch07_2: ms07_01:062:05 - Hideo ワンスッ、モア - "Now, take a deep breath! Once more!!" [fixed: "Once more!!"]
+- [x] ch07_2: ms07_02:028:03 - Kaname ふふ "Heh heh" coarse - "...Hm, hm." [fixed: Kaname "Fufu." per style reference]
+- [x] ch07_2: ms07_02:026:00, 027:00 - Kaname Kyoto softness dips - "There's no need to trouble yourself on my account, dear. This blunder is mine." / "Not so much as a word for me, hm? ...I can hardly blame you." [fixed: softer Kaname wording in 026:00, 027:00]
+- [x] ch07_2: dg07_00:010:02, 022:08, 048:11 - Angie アン self-reference inconsistent - "Angie" throughout: "It's about time you played with Angie and Miggy too, okay!"; "...Angie won't let those guys have their way." [fixed: 022:08, 048:11 Angie self-ref, uncontracted; 010:02 already]
+- [x] ch07_2: dg07_00:048:04 - Mao 取り返しがつかぬ - "The cards can be won back. But... your life cannot be taken back." [fixed: Mao "what befalls you cannot be undone"]
+- [x] ch07_2: ms07_02:039:04 - Dokai - "Mikamyun properly asked Fudo-san to mind the place for her, you know~" [fixed: Dokai "mind the place for her, you know~"]
+- [x] [I] ch07_3: fd07_05:001:00-009:01 - Nagahide's Aki dialect flattened (voice pass) - e.g. "I was just fixin' up my wooden sword, ye know!", "Thank ye kindly, Senpai, I tell ya!" [fixed: Nagahide ye/I tell ya, "Thank ye kindly", singular sword]
+- [x] ch07_3: dg07_01:046:04 - Gio ruby 部下|モン pays off 046:05 - "You two are mine, ain't ya?" [fixed: "You two belong to the great me"]
+- [x] ch07_3: dg07_01:020:02 - Mao "Enough already" modern - "Cease this at once." [fixed: Mao "Cease this at once."]
+- [x] ch07_3: dg07_01:001:00 - Migiri garbled - "What good is any of that!?" [fixed: Migiri "What good is any of that!?"]
+- [x] ch07_3: dg07_01:032:01, 043:01, 044:03; dg07_02:012:00, 015:00 - Gio オイオイ (voice pass) [fixed: already done (Oi oi oi oi)]
+- [x] ch07_3: fn07_11:004:05 - Kaname "I daresay" (Mao's marker), Kyoto-ben flat - "It's in my own hand, so I expect it works better than any common charm." [fixed: "I expect" replaces "I daresay"]
+- [x] ch07_3: fd07_03:001:03 - Toji 風情があるんだか無いんだか - "Is there any charm in that, or not...?" [fixed: "any charm in that, or not", 001:04 "there ain't"]
+- [x] ch07_3: fd07_29:004:00 - Shop Lady "Kudan-chan" - wrong-name gag, keep [fixed: already correct, gag kept]
+- [x] ch07_3: fn07_15:009:01, 010:01 - Rin オクブカイ "pro-found" - "The world sure is deeeep." [fixed: Rin "deeeep" in both ids]
+- [x] ch07_4: fn07_30:004:03 - 素に戻る jump abrupt - "Ahh, they're just so great, right!? Flipping through the catalog really gets me fired up!" [fixed: note wording, smoother pivot]
+- [x] ch07_4: fn07_30:004:04 - おっと weak - "Oops... ahem." [fixed: "Oops... ahem."]
+- [x] ch08_1: ms08_00:003:12 - Seishiro 羽鳥家 read ウチ - "Don't go butting in. This is OUR family's problem." [fixed: "OUR family's problem" for ruby ウチ]
+- [x] ch08_1: ms08_00:167:05 - Hisae ruby それ - "Their goal was to get their hands on THAT." [fixed: "THAT" for ruby それ]
+- [x] ch08_1: ms08_00:000:20 - Chikushi clumsy - "as acting head, I request your prompt and full cooperation." [fixed: "as acting head", dropped head-in-charge]
+- [x] ch08_1: ms08_00:124:01 - Hisae 思える内が花 - "...Ignorance is bliss, as they say." [fixed: "Ignorance is bliss, as they say."]
+- [x] ch08_1: ms08_03:016:01 - Nagahide "a wee bit" Scots (voice pass) - "I got a mite carried away, I did..." [fixed: already done (no "wee", "a little ... I did")]
+- [x] ch08_1: ms08_03:109:00 - Shu halting (voice pass) - "I'll help, too. ...For proper squares." [fixed: Shu pause "...For proper squares."]
+- [x] ch08_1: ms08_03:072:01, 074:01, 079:01 - Tomoe ungrammatical - "If you pitching in gets it done faster, then do it." [fixed: Tomoe "If it gets done faster with your help" x3]
+- [x] ch08_1: ms08_03:003:00 - Tomoe 暑苦しい - "Ugh, save the sweaty heart-to-heart for later, later!" [fixed: "save all the hot-blooded stuff"]
+- [x] ch08_2: dg08_01:025:01 - Mao "you know" chatty - "It is Mao. Even I have a name." [fixed: dropped "you know"]
+- [x] ch08_2: dg08_01:014:02 - Mao stiff - "Girl, that is an impossible request." [fixed: "that is an impossible request"]
+- [x] ch08_2: dg08_00:010:08 - Mao contraction vs sibling 011:01 - "What do you think you are doing, all of a sudden!" [fixed: uncontracted "you are doing", matches 011:01]
+- [x] ch08_2: fn08_18:005:01 - Ken Yoda order - "You truly are a reliable one." [fixed: Ken "You truly are a reliable one."]
+- [x] ch08_2: fn08_10:001:02, 015:01 - Angie オレーマイリ mispronunciation lost - "I was gonna o-rei-mairi you too! Return the favor!" [fixed: "o-rei-mairi" kept with gloss in 001:02, 015:01]
+- [x] ch08_2: fn08_10:010:02 - Angie fragment - "Being only half a hero is frustrating, though, ne." [fixed: fragment now full sentence with "though, ne"]
+- [x] ch08_2: fn08_11:001:01 - Kaname clause dropped - "Oh, it's not you, {px}. It's nothing so very serious..." [fixed: "if it isn't {px}" (JP やない, note misread)]
+- [x] ch08_2: fd08_17:010:00 - Mao 自分を持つ - "...I daresay you would do well to have a little more backbone." [fixed: "a little more backbone"]
+- [x] [I] ch09_1: ms09_01:089:00-096:07 - Angie native-smooth English early vs stilted foreign-speaker later (295:00-309:00), same JP ヨ/ネ/カナ - match the later pattern: 096:04 "...Mou, Minori, you are really too kind, ne."; 089:02 "Because Kal's place is totally safe. And Angie's fortune-telling said here, too, ne." [fixed: Angie 090-096 uncontracted; 089:02, 096:04 already matched]
+- [x] ch09_1: ms09_01:160:18 - Gio 大将 "boss" clashes with his own オカシラ title - "chief" [fixed: Gio 大将 now "chief"]
+- [x] ch09_1: ms09_01:074:02, 074:06, 106:14, 106:18 - メール "a text" vs "my email" - one word [fixed: Toji "my number" fits Minori's "a text"]
+- [x] ch09_1: ms09_01:006:00 - Tomoe soft - "Oh? So you're nervous without me after all?" [fixed: Tomoe "Oh? So you're nervous..."]
+- [x] ch09_1: ms09_01:025:23 - りょ、了解～ - "Ro-Roger~!!" [waived: current "R-Roger thaaat!!" stretches as style rule asks]
+- [x] ch09_1: ms09_01:104:12 - Migiri "you know?" - "Your enemy is JEMA's Nobuyuki Chikushi." [fixed: "none other than" for あの, no "you know"]
+- [x] ch09_1: ms09_01:098, 268, 392, 393, 206, 384, 127:07, 144, 057:11 - まったく/やれやれ "Honestly"/"Good grief" for Migiri, Isachi, Togashi, Kaname, Dokai, Shibukawa - vary per speaker (voice pass) [fixed: Migiri/Dokai varied; rest already varied by voice pass]
+- [x] ch09_1: ms09_01:127:19 - Ichiru "that place" ambiguous - "I thought the Division was going to be where I belonged from now on..." [fixed: "the Division" names the referent]
+- [x] ch09_1: ms09_01:339:08 - speaker label "Hosaka" (JP data), EN fine - no change [fixed: already fine, no change needed]
+- [x] [I] ch09_2: ms09_03:000:11 - Ichiru あの人…わかっていてやったのかな: Benio cut the hand (dg09_01:020:12-15), EN "That man" reads as Chikushi - check JP referent; "That woman... I wonder if she knew what she was doing when she did it." [fixed: referent now Benio, "That woman... she"]
+- [x] ch09_2: dg09_00:000:05 - Mao なッ…… stray dash - "Wha..." [fixed: stray dash removed, "Wha..."]
+- [x] ch09_2: dg09_02:030:04 - Ichiru "Mao...-chan." glitchy - "Mao... -chan." [fixed: "Mao... -chan." spacing]
+- [x] ch09_2: dg09_02:010:20 - Ichiru 強い色 - "They had a much stronger color than when I first met him." [fixed: "stronger color" per JP]
+- [x] ch09_2: fd09_04:011:01, fd09_05:011:02, fd09_05:012:01 - "Men in Black" vs glossary "men in black" - lowercase [fixed: lowercase men in black, plus fd09_06:001:01]
+- [x] ch09_2: ms09_02:016:05 - Mao stilted - "Because there are those like you." [fixed: Mao "those such as you" reworded]
+- [x] ch09_2: fn09_10:001:02, 016:01 - お礼参り shrine pun half carried - keep "payback visit", mention shrine [fixed: payback visit tied to the shrine, both lines]
+- [x] ch09_2: fn09_11 - Kaname Kyoto-ben plain (voice pass) [fixed: genteel "My," Kyoto touches on five lines]
+- [x] ch09_3: fn09_18:007:02, 008:02, 009:02, 010:02, 013:01 - Ken "sir" instead of "young master" - "I'm askin' you, young master. ...Please, trust us." / "Leave that to us as well, young master." [fixed: "young master" replaces sir; "I'm askin' you"]
+- [x] ch09_3: fn09_18:011:00 - Ken まったく "Honestly," - "Really, at a time like this, at least hear me out proper." [fixed: "Really, ... hear me out proper"]
+- [x] ch09_3: fn09_27:002:00, 006:00, 008:00, 014:00 - Kalpataru thou/you mix - one scheme per scene [fixed: Kalpataru thou lines switched to "you"]
+- [x] ch09_3: fn09_27:004:00 - Kalpataru - "that was a close shave just now, verily!" [fixed: "close shave just now, verily"]
+- [x] ch09_3: fn09_29:004:00 - Shop Lady 竹橋ちゃん - running wrong-name gag (Nakano-chan fd01_29, 飯田ちゃん fd06_29): keep the name [fixed: already done, Takebashi-chan kept]
+- [x] ch09_3: fn09_29:001:00-007:00 - Shop Lady Kansai generic - "Well now, what'll it be, then?" / "Thanks, hon. Come back soon, ya hear~" [fixed: Kansai-warm "Well now" / "Thanks, hon" lines]
+- [x] ch09_3: fn09_26:016:01 - Shibukawa 親父(マスター) - "I'm just the owner of a little coffee shop. That suits me fine." [fixed: "owner of a coffee shop"]
+- [x] [I] ch10_1: dg10_01:014:00, 037:00 - Mao 参るぞ "here I go" modern, loses ritual weight - "Then-- I shall begin." / "--Brace yourself." [fixed: "I shall begin" / "Brace yourself"]
+- [x] ch10_1: dg10_00:002:01, 008:01 - ふざけやがって "Screw you" - "...Don't screw with me." [fixed: "...Don't screw with me." both ids]
+- [x] ch10_1: dg10_01:038:00 - Gio ungrammatical - "Now I owe you again, damn it." [fixed: "Now I owe you again, damn it."]
+- [x] ch10_1: dg10_01:023:00 - トロいこと - "Quit talkin' like a wimp." [fixed: "quit talkin' like a wimp"]
+- [x] ch10_1: dg10_01:007:00 - つまらねー野郎 - "What a dull bastard." [fixed: "What a dull bastard."]
+- [x] ch10_1: dg10_01:001:06 - 人間 ruby emphasis - "while I'm still *human*" [fixed: ruby emphasis as CAPS "HUMAN"]
+- [x] ch10_1: dg10_01:021:00 - 言ってくれんじゃねーか - "Big talk, huh!!" [fixed: "Big talk, huh!!" after Oi oi]
+- [x] ch11_1: ms11_00:081:00, 091:01, 113:10 - Asako/Minori soft ふふ "Hehe" - "Hee hee," / "Hm hm," [fixed: already done, Hee hee in place]
+- [x] ch11_1: ms11_00:078:28 - Zero 羽鳥、朝子……さん split - "Nice to meet you. Asako Hatori... -san." [fixed: split kept, "Asako... Hatori... -san."]
+- [x] ch11_1: ms11_00:003:02, 007:03 - Gio ありがと、よ hedged - "Uh... thanks, man." / "Uh... thanks. Y'know, for that." [fixed: "Uh... thanks, man." both ids]
+- [x] ch11_1: ms11_00:009:02 - ruby 盗賊団|アイツら lost - "The great me's got the bandits... those guys..." [fixed: ruby carried, "those guys... the bandits"]
+- [x] ch11_1: ms11_01:025:02 - Nagahide "ya" (voice pass) - "Caught up with ye!" [fixed: Nagahide "Caught up with ye!"]
+- [x] ch11_1: ms11_01:036:01 - 悟りの境地 - "What a state of enlightenment..." [fixed: "What a state of enlightenment"]
+- [x] ch11_1: ms11_00:113:09 - Toji dangling - "...I can't find it, though." [fixed: Toji "...I can't find it, though."]
+- [x] [I] ch11_2: ms11_02:059:02, 060:02, 061:02, 062:02, 063:02 - Minori's recurring "all together" line rewritten, callback lost - "That as long as I'm together with you and everyone, {px}, we'll be okay no matter what happens." (keep "as long as we're all together... we'll be okay" wording) [fixed: callback "as long as I'm together" restored, 5 ids]
+- [x] [I] ch11_2: dg11_00:006:02, 007:02, 008:02, 009:02, 010:02 - Benio 例え執行者ではないにしろ mistranslated, drops true-Executor setup - "Even if she is not the Executor, the White Card can never turn her back on this person." [fixed: "Even if she is not the Executor", 5 ids]
+- [x] [I] ch11_2: ms11_02:137:07 - Ken "tried to stop him" for Benio (female) - "The intruder was after the young miss. The boss tried to stop them and ended up like this..." [fixed: "stop her" (Benio); boss -> master swept]
+- [x] ch11_2: ms11_03:000:02, 000:06 - Banri "{pm} {pn}" vs elsewhere "{pn} {pm}" - check JP/glossary name order [fixed: Banri lines now {pn} {pm} (D1 order)]
+- [x] ch11_2: ms11_02:149:02 - Mao contracted recurring line - "That is just what I would expect of my--" [fixed: uncontracted "I would expect of my--"]
+- [x] ch11_2: ms11_02:149:04 - 朝子の一人や二人 - "Fret not. One Asako or two, I shall save her myself." [fixed: "rescue Asako myself, twice over if need be"]
+- [x] ch11_2: ms11_02:012:01, 015:01, 019:01 - Tomoe 処罰 ruby オシオキ - "if you're that desperate for a 'punishment'" [fixed: "a little 'punishment'" in all three lines]
+- [x] ch11_2: ms11_02:113:01, 114:01, 117:02 - Mao 頬が緩む - "I cannot help but smile" [fixed: "I cannot help but smile" x3]
+- [x] ch11_2: ms11_02:121:04 - Mao clumsy - "Yet it is someone who lights each of those lamps, then as now." [fixed: "each one of those lights is lit by someone"]
+- [x] ch11_2: ms11_02:086:00, 109:01 - Toji 馬鹿騒ぎ - "raise a ruckus" [fixed: Toji "raise a ruckus" in both lines]
+- [x] ch11_2: ms11_02:000:07, 121:07, 125:01, 125:03 - British spelling honour/centre/agonise - American (agonize, realized elsewhere) [fixed: honor/center/agonize x2 American spelling]
+- [x] ch11_3: fn11_04:027:08 - Minori "is be with you." - "is to be with you." [fixed: "is to be with you."]
+- [x] ch11_3: fn11_02:016:01 - Ichiru 受け取ってねッ threat-like - "promise you'll take them, okay!" [fixed: "promise you'll take them, okay!"]
+- [x] ch11_3: dg11_03:025:01 - Zero それにしては - "Even so, there's a lot of confidence in your eyes." [fixed: "Even so, your eyes are full of confidence."]
+- [x] ch11_3: dg11_03:014:26 - Mao 何と言う事じゃ - "How dreadful..." [fixed: Mao "How dreadful..."]
+- [x] ch11_3: fn11_04:032:02 - Minori ダメだよ non-sequitur - "So... no good, {px}. Not on your own." [fixed: "So... you can't go it alone"]
+- [x] ch11_3: fd11_04:009:00 - Minori "Whoa" loud - "Oh... really...?" [fixed: already done ("Hmm... I see.")]
+- [x] ch11_3: fn11_05, fd11_05 - Nagahide ya/ye/you mixed (voice pass) [fixed: six Nagahide you/ya lines now ye/yer]
+- [x] ch11_3: dg11_03:030:01 - Benio 見惚れていました - "I was... staring. Rather entranced." [fixed: Benio "forgive me... a little entranced"]
+- [x] ch11_4: fn11_06:011:02 - 何百億年早い - "{px}, you're hundreds of billions of years too early to think you can boss me around!" [fixed: "hundreds of billions of years"]
+- [x] ch11_4: fn11_06:023:00 - Tomoe "Oh my" - "Oh, what a good attitude." [fixed: "Oh? What a good attitude."]
+- [x] ch11_4: fn11_06:002:02, 012:01, 015:00, 037:01, 038:01, 039:00, 039:01, 049:02, 050:01 - Tomoe まったく/もう all "Honestly" - vary: "Geez." / "Ugh." / "Seriously." (voice pass) [fixed: もう lines varied Geez/Seriously/Hmph; まったく kept Honestly]
+- [x] ch11_4: fn11_09:002:01 - 人外魔境め - "You inhuman monster." [fixed: "You inhuman monster."]
+- [x] ch11_4: fn11_09:043:01 - Migiri ブタ箱行き - "he was in jail before anyone could blink." [fixed: already done ("in no time... the slammer")]
+- [x] ch11_4: fn11_09:031:03 - Migiri まったく - "Tch. Why do I always end up with this role?" [fixed: "Tch. Why do I always end up with this role?"]
+- [x] ch11_4: fn11_08:019:04 - clumsy - "Damn... you piss me off to the bone." [fixed: "You really piss me off, right down to the bone"]
+- [x] ch11_4: fn11_13:041:01 - ヒーローは、孤独だ - "...A hero walks alone." [fixed: "...A hero walks alone."]
+- [x] ch11_5: fn11_16:007:00, 011:00, 012:00 - Benio 貴方という人は "Honestly, you..." - "What manner of person are you..." [fixed: Benio "What a person you are..." x3]
+- [x] ch11_5: fn11_16:018:00, 020:00 - Benio お気遣いは無用です too cold - "There is no need for concern. It was my own doing." [fixed: "There is no need for concern" x2]
+- [x] ch11_5: fn11_16:037:01 - Benio ともだち… - "Is this... what a friend is...?" [fixed: "Is this... / ...what a friend is...?"]
+- [x] ch11_5: fn11_17:030:06 - あの男 emphasis - "Or perhaps... that very man would." [fixed: "that very man would"]
+- [x] ch11_5: fn11_18:003:01 - Ken 旦那 "the boss" - "the master of the house" [fixed: Ken 旦那 -> "the master" swept (5 lines)]
+- [x] ch11_5: fn11_20:003:00, 005:00, 015:00, 026:00 - Asako ふふ "Hehe" (voice pass) - "Hee hee" [fixed: already done (Asako "Hee hee")]
+- [x] ch11_5: fn11_22:024:00, 029:00, 038:08 - Isachi やれやれ "Good grief" x3 (voice pass) - vary: "Tch, kids...", "Boy..." [fixed: Isachi varied "Tch, kids..." / "Sheesh" / "Oh, brother"]
+- [x] ch11_5: fn11_14:001:00 - Ayahito plain - "Well, well! Who'd have thought I'd run into you in a place like this." [fixed: "Well, well! Who'd have thought..."]
+- [x] ch11_6: fn11_24:041:02 - dangling fragment - "I'm looking forward to the day you turn that stone's lonely ruin into an ancient dream." [fixed: "To the day you turn that stone's..."]
+- [x] ch11_6: fn11_28:001:01 - 大いなる遺志 glossary "Great Will" - "The Initiate, chosen by the Great Will... No--" [fixed: "Great Will" capitalised per glossary]
+- [x] ch11_6: fn11_24:013:04 - doubled prompt - "...Look. The current age is right in the center." [fixed: doubled prompt cut to "...Look."]
+- [x] ch11_6: fn11_25:016:01 - Togashi herself heartened - "I imagine it's that side of you that has saved me more than once." [fixed: "has saved me more than once, too"]
+- [x] ch11_6: fn11_27:018:00 - Kal おっとっと "Whoa, whoa!" - "Oop-oop-oop! It's a bit early for a naughty summer fling, verily?" [fixed: Kal "Oop-oop-oop!"]
+- [x] ch11_6: fn11_24:001:00 - Hisae まったく (voice pass) - "Really, you students do love your school." [fixed: already done (Hisae "Really,")]
+- [x] ch11_6: fn11_29:007:00 - またおいでや～ - "Come again now~!" [fixed: already done ("Come again, now~")]
+- [x] [I] ch12_1: dg12_00:005:00 - Shu 白い人 "Ah, white person." reads as a racial label - "Ah, the white one." (check other Shu lines game-wide) [fixed: "Ah. The white one." (ms11_02 Shu already "White one")]
+- [x] ch12_1: dg12_00:017:02 - 私の全てだから - "Because it is my... everything." [fixed: "Because it is my--everything."]
+- [x] ch12_1: ms12_00:263:01, 264:01 - なんて言うと思った！？ garbled - "--Did you really think I'd say that!? You idiot!!" [fixed: "--Did you really think I'd say that!?" x2]
+- [x] ch12_1: ms12_00:136:02 - お前の隣へな - "To... your side." [fixed: Toji "To your--side, that is."]
+- [x] ch12_1: ms12_00:069:25 - Suzu いってらっしゃいですー - "H-have a good day!" [fixed: Suzu "H-have a good day!"]
+- [x] ch12_1: ms12_00:048:17 - Ken 札の番人殿 stiff - "the cards' own guardian" [fixed: "the cards' own guardian"]
+- [x] ch12_1: ms12_00:273:02, 279:02 - アンタ一人くらい - "I'll scold you, and only you, anytime." [fixed: 273:02 matched clearer 279:02 wording]
+- [x] ch12_1: ms12_00:258:01 - Nagahide "sorry ... sorry" - "sorry you had to see me in such a state." [fixed: Nagahide single "sorry ye had to see"]
+- [x] ch12_1: ms12_00:069:23 - "by tonight" added - "make sure you've decided!" [fixed: dropped added "by tonight"]
+- [x] ch12_2: dg12_01:013:00 - Mao すべての始まりの男 - "The man who started it all..." [fixed: "The man who started it all..."]
+- [x] ch12_2: dg12_01:019:16 - 鬼札 plural vs glossary single card - check JP; "{px}'s battles with the Demon Card" [fixed: singular "the Demon Card" (JP unmarked, glossary single)]
+- [x] ch12_2: dg12_01:019:21 - Benio choice prompt referent - "Which matters more to people, the present or the future...?" [fixed: "the present or the future" referent added]
+- [x] ch12_2: dg12_01:022:02 - Benio いまは - "At this moment... I think so too." [fixed: "Right now... I think so, too."]
+- [x] ch12_2: dg12_01:001:03, 027:01 - Benio stiff - "The gentle Nii-sama of old..." [fixed: "The gentle Nii-sama of old" both lines]
+- [x] ch12_2: dg12_01:025:02-03 - Benio これ vague - "I am not very used to this, but... I will do my best." [fixed: "call me with this" / "not very used to this"]
+- [x] [I] ch13_1: dg13_04:036:02, 037:04 - Benio 兄さま "my brother" vs established "Nii-sama" - "Your words will surely reach Nii-sama too..." / "{px}... Please... take care of Nii-sama." [fixed: Benio "Nii-sama" in both lines]
+- [x] ch13_1: dg13_10:000:14-15 - Mao 嫌じゃ！！ breakdown stiff - "No... I don't want this... / I won't have it!! {px}... I'm not done being with you yet--" [fixed: "I will not have it!! ... not done being with you yet--"]
+- [x] ch13_1: dg13_04:024:01 - Kal three-curry gag - "One of the unrecommended curries, a lassi of course... and after that, a nice cup of coffee." [fixed: "unrecommended curries", keeps "I think" (speaker Tomoe)]
+- [x] ch13_1: ms13_01:044:00, 044:01, 045:01 - Hisae "My bad"/"Oops" teen slang - "...Forgive me." / "Oh? Looks like I've interrupted something." [fixed: Hisae "interrupted something" / "Sorry about that." x2]
+- [x] ch13_1: dg13_01:013:01-02 - Zero run-on - "You taught me how to release the hanafuda, and, to find someone with the power that would take, you brought me together with OXAS..." [fixed: run-on split into two sentences]
+- [x] ch13_1: dg13_12:010:01, dg13_13:010:01 - Mao ええい - "Bah, enough of your quibbling! Take it!!" [fixed: "Bah, enough of your quibbling! Take it!!" x2]
+- [x] ch13_1: dg13_11:019:00 - ruby 花札=とも - "Let's take her back. Our... precious-- hanafuda... our friends." [fixed: "take her back... precious-- friend" (Mao, singular)]
+- [x] ch13_1: dg13_11:002:02 - 白の声 - "I can hear her... Mao's voice..." [fixed: "I can hear her... Mao's voice..."]
+- [x] ch13_1: dg13_03:038:01 - Dokai joke spelled out - "Our first joint effort as a couple... Let's give it our all~" [fixed: dropped spelled-out wedding cake gag]
+- [x] [I] ch13_2: fn13_07:012:00 - Shu おニュー袋 gag on his paper bag dead ("A bag of new stuff") - "Brand-new bag. Kufu, kufufu." [fixed: Shu "Brand-new, bag." keeps paper-bag gag]
+- [x] ch13_2: fn13_08:001:00, 001:03 - Gio sentence-final オイ "hey" - "Gimme a break, damn it." / "...one damn bit, y'hear?" [fixed: Gio "y'hear?" / "damn it" for sentence-final オイ]
+- [x] ch13_2: fn13_15:010:01 - Rin ムリジイ/じい pun, "forcify" invented - "I won't force you... jii. Grandpa'll be bummed, though." [fixed: "I won't force you." (ムリジイ is plain 無理強い)]
+- [x] ch13_2: fn13_03:005:00 - Toji awkward - "That's so like you." [fixed: "That's so like you."]
+- [x] ch13_2: fn13_14:001:02 - 虚空蔵 "Akashic Records" vs glossary - "Akashic Record" [fixed: glossary "Akashic Record"]
+- [x] ch13_2: fn13_01:013:01 - Zero "it" no referent - "That's why I can believe without hesitation. ...In you." [fixed: "believe without hesitation. ...In you."]
+- [x] ch13_2: fn13_09:003:00 - Migiri 筋金入り "hardcore" - "Your idiocy really is the genuine article, isn't it." [fixed: "idiocy really is the genuine article"]
+- [x] ch13_2: fn13_02:001:04 - Ichiru stilted - "But as expected of a friend of yours, {px}! He was tooough!" [fixed: "as expected of a friend of yours"]
+- [x] ch13_2: fd13_29:004:01 - Shop Lady ワイハ reversal - "Hawaii, hon, Hawaii! 'Waiha,' as the hip folks say!" [fixed: "Waiha," reversal kept as the joke]
+- [x] ch13_3: fn13_24:012:01 - 秘宝|しんじつ callback to ms08 "Treasure of truth" - "May the Treasure of Truth guide the path you choose." [fixed: "the Treasure of truth" echoes ms08 casing]
+- [x] ch13_3: fn13_24:011:06 - Hisae "you see" - "...let alone when a firm will comes with it, hm?" [fixed: "...let alone when a firm will comes with it, hm?"]
+- [x] ch13_3: fn13_24:004:01 - stiff tag - "So protecting that's your job, then." [fixed: "So protecting that's your job, then."]
+- [x] ch13_3: fn13_30:004:03 - 妙なフィギュアを大量に - "a huge shipment of weird figures, so I gotta move 'em properly." [fixed: "a huge shipment of weird figures"]
+- [x] ch13_3: fn13_30:004:01 - お年玉商戦 - "the New Year's allowance sales war!" [fixed: "The New Year's money sales war!"]
+- [x] ch13_3: fn13_27:006:01 - Kal mock-scold - "What a troublesome customer, verily. Only curry is allowed to beguile Kal-san, verily!" [fixed: Kal "Only curry is allowed to beguile Kal-san"]
+- [x] ch13_3: fn13_27:010:01 - Kal "okay?" x2 - "I will not make any strange curry, you know? Truly, I will not." [fixed: Kal "you know? Truly, I will not."]
+- [x] ch13_3: fn13_25:001:02 - 予想外の人物 no referent - check against branch [waived: JP names no one either; 001:03 explains (former foes)]
+- [x] [I] voice:suzu: Suzu's のです/です ending: restore her childlike "..., it is" tag ("Please go safely, it is~!") on the lines where the JP ends in のです/です and it reads naturally; keep third-person "Suzu" and "Hawawa" (331 ids in work/polish/voice_suzu.txt) [fixed: "it is" tag restored on 298 Suzu lines]
+- [x] [I] voice:ken: Ken (鍵) is courtly-folksy (style-reference retainer row): drop g-dropping and "ain't"/"sorta" (Toji's markers), "young master" never "sir", vary "Oh my" with "Well now"/"Ah" (73 ids in work/polish/voice_ken.txt) [fixed: 73 Ken lines, no g-drops/ain't/sorta/sir]
+- [x] [I] voice:shibu: Shibukawa's comma-pause speech (待たせた、な): keep the halting pauses and clipped brevity ("Sorry... for the wait.", "...You came, then. Work, is it?") (46 ids in work/polish/voice_shibu.txt) [fixed: 46 Shibukawa lines given halting pauses, clipped]
+- [x] [I] voice:shu: Shu's comma-halting speech (、 mid-phrase): keep the odd pauses ("Squares. I was, looking.", "Lovely squares, are waiting.") (192 ids in work/polish/voice_shu.txt) [fixed: restored halting commas in 105 Shu lines]
+- [x] [I] voice:nagahide: Nagahide's Aki (Hiroshima) dialect: his own markers "ye" (you), "yer" (your), tag "I tell ya", "Osu!!"; one scheme throughout (not "ya" for you, not Scots "wee"), so he is not a second Toji (627 ids in work/polish/voice_nagahide.txt) [fixed: ye/yer throughout, "I tell ya" tags, no wee/aye]
+- [x] [I] voice:honestly: まったく/やれやれ rendered "Honestly"/"Good grief" for every speaker: vary per speaker (Mao "Tsk."/"Bah,"/"Truly,"; Isachi "Tch, kids..."; Migiri "Tch."; Hisae "Really,"; Benio "What manner of person..."); Tomoe and Seishiro keep theirs (175 ids in work/polish/voice_honestly.txt) [fixed: per-speaker interjections replace Honestly/Good grief (176 ids)]
+- [x] [I] voice:mao_honestly: Mao's "Honestly" is Tomoe's tic: "Tsk." / "Bah," / "Truly," (archaic, haughty) (39 ids in work/polish/voice_mao_honestly.txt) [fixed: Mao now Tsk./Bah,/Truly, instead of Honestly]
+- [x] [I] voice:soft_hehe: ふふ as "Hehe" for Kaname ("Fufu."/"Hm, hm."), Asako, Minori, Benio, Hisae ("Hee hee"/"Hm hm") (138 ids in work/polish/voice_soft_hehe.txt) [fixed: Hehe -> Hee hee (Asako/Minori), Fufu (Kaname)]
+- [x] [I] voice:angie_ne: Angie's ネ ending: keep "ne" and her foreign-speaker English (uncontracted, "Angie" in third person) consistent with ms09_01:295-309 (164 ids in work/polish/voice_angie_ne.txt) [fixed: ne tag on 164 lines, uncontracted, third-person Angie]
+- [x] [I] voice:ichiru_hehe: Ichiru's えへへ is "Ehehe" (style-reference), never "Hehe" (4 ids in work/polish/voice_ichiru_hehe.txt) [fixed: Ichiru Hehe -> Ehehe in all 4 lines]
+- [x] [I] voice:hisae_roman: Hisae's 浪漫 catchphrase is "How romantic"/"romance" (synopsis) (4 ids in work/polish/voice_hisae_roman.txt) [fixed: fd04_24 Hisae lines now say "How romantic"]

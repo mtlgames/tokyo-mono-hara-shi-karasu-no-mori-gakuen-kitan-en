@@ -45,19 +45,19 @@
   "id": "fn11_20:003:00",
   "speaker": "朝子",
   "jp": "ふふ……やっぱり。\nそんなに嬉しそうな顔して。",
-  "en": "Hehe... I knew it. Look how happy you look."
+  "en": "Hee hee... I knew it. Look how happy you look."
  },
  {
   "id": "fn11_20:004:00",
   "speaker": "朝子",
   "jp": "ふふ……やっぱり。\nそんなに嬉しそうな顔して。",
-  "en": "Hehe... I knew it. Look how happy you look."
+  "en": "Hee hee... I knew it. Look how happy you look."
  },
  {
   "id": "fn11_20:005:00",
   "speaker": "朝子",
   "jp": "ふふ、そうね。\nこんな日は大勢で楽しく\n過ごすのがいいわね。",
-  "en": "Hehe, that's right. A day like this is best\nspent having fun with lots of people."
+  "en": "Hee hee, that's right. A day like this is\nbest spent having fun with lots of people."
  },
  {
   "id": "fn11_20:006:00",
@@ -183,7 +183,7 @@
   "id": "fn11_20:015:00",
   "speaker": "朝子",
   "jp": "ふふ、{px}を見てたら\nますます元気が\n出て来たわ。",
-  "en": "Hehe, just looking at you, {px},\nI feel even more energetic."
+  "en": "Hee hee, just looking at you,\n{px}, I feel even more energetic."
  },
  {
   "id": "fn11_20:015:01",
@@ -399,7 +399,7 @@
   "id": "fn11_20:026:00",
   "speaker": "朝子",
   "jp": "ふふ……ありがとう。",
-  "en": "Hehe... Thank you."
+  "en": "Hee hee... Thank you."
  },
  {
   "id": "fn11_20:026:01",
@@ -465,7 +465,7 @@
   "id": "fn11_20:028:00",
   "speaker": "朝子",
   "jp": "ふふ……ありがとう。",
-  "en": "Hehe... Thank you."
+  "en": "Hee hee... Thank you."
  },
  {
   "id": "fn11_20:028:01",

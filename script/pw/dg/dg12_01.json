@@ -21,7 +21,7 @@
   "id": "dg12_01:001:03",
   "speaker": "紅緒",
   "jp": "昔の、\n優しかった{ruby:兄|あに}さまを……。",
-  "en": "The kind Nii-sama... of the old days..."
+  "en": "The gentle Nii-sama of old..."
  },
  {
   "id": "dg12_01:002:00",
@@ -231,7 +231,7 @@
   "id": "dg12_01:013:00",
   "speaker": "白",
   "jp": "すべての\n始まりの男……。",
-  "en": "The man where it all began..."
+  "en": "The man who started it all..."
  },
  {
   "id": "dg12_01:013:01",
@@ -435,7 +435,7 @@
   "id": "dg12_01:019:16",
   "speaker": "白",
   "jp": "{px}と鬼札の戦いで\n放出される力をそのまま\n利用しようとしたのか。",
-  "en": "He meant to harness the power\nunleashed in {px}'s\nbattles with the Demon Cards directly."
+  "en": "He meant to harness the power\nunleashed in {px}'s\nbattles with the Demon Card directly."
  },
  {
   "id": "dg12_01:019:17",
@@ -465,7 +465,7 @@
   "id": "dg12_01:019:21",
   "speaker": "紅緒",
   "jp": "人にとって大切なのは\n一体、どちらなのですか……？",
-  "en": "Which of the two truly matters more to people...?"
+  "en": "Which matters more to people,\nthe present or the future...?"
  },
  {
   "id": "dg12_01:020:00",
@@ -519,7 +519,7 @@
   "id": "dg12_01:022:02",
   "speaker": "紅緒",
   "jp": "いまは……\n私もそう、思います。",
-  "en": "Now... I believe so too."
+  "en": "Right now... I think so, too."
  },
  {
   "id": "dg12_01:023:00",
@@ -573,13 +573,13 @@
   "id": "dg12_01:025:02",
   "speaker": "紅緒",
   "jp": "何かあれば\nこれで呼んでください。",
-  "en": "If anything happens, call me with it."
+  "en": "If anything happens, call me with this."
  },
  {
   "id": "dg12_01:025:03",
   "speaker": "紅緒",
   "jp": "あまり使い慣れて\nいないのですが……\n頑張ります。",
-  "en": "I am not very used to using\none, but... I will do my best."
+  "en": "I am not very used to this, but... I will do my best."
  },
  {
   "id": "dg12_01:026:00",
@@ -603,7 +603,7 @@
   "id": "dg12_01:027:01",
   "speaker": "紅緒",
   "jp": "昔の……\n優しかった兄さまを。",
-  "en": "The kind Nii-sama... of the old days."
+  "en": "The gentle Nii-sama... of old."
  },
  {
   "id": "dg12_01:028:00",

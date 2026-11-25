@@ -561,7 +561,7 @@
   "id": "ms00_01:018:09",
   "speaker": "痩躯の男子生徒",
   "jp": "だが―――\nどうやらきみの機動力の方が\n上だったようだ。",
-  "en": "But-- it seems your mobility was superior."
+  "en": "But-- it seems you were the quicker one."
  },
  {
   "id": "ms00_01:018:10",
@@ -579,7 +579,7 @@
   "id": "ms00_01:018:12",
   "speaker": "痩躯の男子生徒",
   "jp": "{ruby:これから行く場所|・・・・・・・・}の方が\n危ない……違うか？",
-  "en": "The place we're about to go is\nmore dangerous... Am I wrong?"
+  "en": "The place we're *about to go* is\nmore dangerous... Am I wrong?"
  },
  {
   "id": "ms00_01:018:13",
@@ -747,7 +747,7 @@
   "id": "ms00_01:030:04",
   "speaker": "零",
   "jp": "……{ruby:封　札　師|カードアーカイバー}とも呼ばれる\n《カミフダ》収集のための\n極秘エージェントか。",
-  "en": "...Card Sealers, also called Card Archivers.\nTop-secret agents who collect ORDS."
+  "en": "...Card Sealers, also called Card Archivers.\nTop-secret agents who collect ORDS, aren't they?"
  },
  {
   "id": "ms00_01:030:05",
@@ -897,7 +897,7 @@
   "id": "ms00_01:031:03",
   "speaker": "伊佐地",
   "jp": "まずはこれを\n利き手に装着しろ。",
-  "en": "First, put this on your dominant hand."
+  "en": "First, put this gauntlet on your dominant hand."
  },
  {
   "id": "ms00_01:031:04",
@@ -999,7 +999,7 @@
   "id": "ms00_01:035:04",
   "speaker": "伊佐地",
   "jp": "……やれやれ。",
-  "en": "...Good grief."
+  "en": "...Sheesh."
  },
  {
   "id": "ms00_01:036:00",

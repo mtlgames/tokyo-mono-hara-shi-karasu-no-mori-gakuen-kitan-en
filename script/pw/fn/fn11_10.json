@@ -33,13 +33,13 @@
   "id": "fn11_10:002:01",
   "speaker": "アンジー",
   "jp": "こんな時、女のコに言う言葉は\nそれしかないよネ！",
-  "en": "At a time like this, that's the\nonly thing to say to a girl, right?"
+  "en": "At a time like this, that is the\nonly thing to say to a girl, ne?"
  },
  {
   "id": "fn11_10:003:00",
   "speaker": "アンジー",
   "jp": "{ruby:Ｓｉ|ウ　ン}！\nそういうのって、とっても\n素敵だよネ。",
-  "en": "Si! That kind of thing is really lovely, no?"
+  "en": "Si! That kind of thing is really lovely, ne."
  },
  {
   "id": "fn11_10:004:00",
@@ -51,7 +51,7 @@
   "id": "fn11_10:004:01",
   "speaker": "アンジー",
   "jp": "フフッ、でも\n{px}らしいネッ！",
-  "en": "Hehe, but that's so you, {px}!"
+  "en": "Hehe, but that is just like {px}, ne!"
  },
  {
   "id": "fn11_10:005:00",
@@ -63,7 +63,7 @@
   "id": "fn11_10:005:01",
   "speaker": "アンジー",
   "jp": "でも安請け合いはよくない\nかもネ？",
-  "en": "But maybe making promises\nso easily isn't so good, no?"
+  "en": "But maybe making promises\nso easily is not so good, ne?"
  },
  {
   "id": "fn11_10:006:00",
@@ -135,7 +135,7 @@
   "id": "fn11_10:012:01",
   "speaker": "アンジー",
   "jp": "故郷の{ruby:弟妹|チビちゃん}たちにはもう\nたっくさん送ったから、\n今日は盗賊団の野郎共にだネ！",
-  "en": "Angie already sent loooads to the little ones back\nhome, so today it's for the guys in the Bandits!"
+  "en": "Angie already sent loooads to the little ones back\nhome, so today it is for the guys in the Bandits, ne!"
  },
  {
   "id": "fn11_10:012:02",
@@ -165,7 +165,7 @@
   "id": "fn11_10:013:01",
   "speaker": "アンジー",
   "jp": "その時はアンが色々\n案内するからネ！！",
-  "en": "When you do, Angie will show you all around!!"
+  "en": "When you do, Angie will show you all around, ne!!"
  },
  {
   "id": "fn11_10:014:00",
@@ -219,7 +219,7 @@
   "id": "fn11_10:014:08",
   "speaker": "アンジー",
   "jp": "光の魔女……なんて、\nいまのアンにはチョット\n似合わない……よネ？",
-  "en": "A witch of light... that doesn't quite\nsuit the Angie of right now... right?"
+  "en": "A witch of light... that does not quite\nsuit the Angie of right now... ne?"
  },
  {
   "id": "fn11_10:015:00",
@@ -237,7 +237,7 @@
   "id": "fn11_10:016:00",
   "speaker": "アンジー",
   "jp": "フフッ、やっぱりネ！",
-  "en": "Hehe, I knew it!"
+  "en": "Hehe, I knew it, ne!"
  },
  {
   "id": "fn11_10:016:01",
@@ -249,7 +249,7 @@
   "id": "fn11_10:017:00",
   "speaker": "アンジー",
   "jp": "アハッ、やっぱりネ！",
-  "en": "Aha, I knew it!"
+  "en": "Aha, I knew it, ne!"
  },
  {
   "id": "fn11_10:017:01",
@@ -261,7 +261,7 @@
   "id": "fn11_10:018:00",
   "speaker": "アンジー",
   "jp": "フフッ、やっぱりネ！",
-  "en": "Hehe, I knew it!"
+  "en": "Hehe, I knew it, ne!"
  },
  {
   "id": "fn11_10:018:01",
@@ -279,7 +279,7 @@
   "id": "fn11_10:019:01",
   "speaker": "アンジー",
   "jp": "フフッ、\nまるで自分のコト\nみたいに怒るんだネ。",
-  "en": "Hehe, you get angry like it's happening to you."
+  "en": "Hehe, you get angry like it is happening to you, ne."
  },
  {
   "id": "fn11_10:019:02",
@@ -321,7 +321,7 @@
   "id": "fn11_10:022:00",
   "speaker": "アンジー",
   "jp": "アハハッ！\n{px}は真面目だネ！",
-  "en": "Ahaha! You're so serious, {px}!"
+  "en": "Ahaha! You are so serious, ne, {px}!"
  },
  {
   "id": "fn11_10:022:01",
@@ -345,7 +345,7 @@
   "id": "fn11_10:024:01",
   "speaker": "アンジー",
   "jp": "それに、何て言っても\nヒーローに追いかけて\nもらえるからネ！",
-  "en": "Besides, best of all, it means a\nhero comes chasing after Angie!"
+  "en": "Besides, best of all, it means a hero\ncomes chasing after Angie, ne!"
  },
  {
   "id": "fn11_10:024:02",
@@ -393,7 +393,7 @@
   "id": "fn11_10:027:00",
   "speaker": "アンジー",
   "jp": "……{px}って、\nホントに、油断出来ないネ。",
-  "en": "...A girl really can't let her guard\ndown around you, {px}."
+  "en": "...{px}, a girl really cannot\nlet her guard down around you, ne."
  },
  {
   "id": "fn11_10:027:01",
@@ -411,7 +411,7 @@
   "id": "fn11_10:028:01",
   "speaker": "アンジー",
   "jp": "{px}は、本当に……\nカッコイイネ。",
-  "en": "{px}, you're really... so cool."
+  "en": "{px}, you are really... so cool, ne."
  },
  {
   "id": "fn11_10:029:00",
@@ -477,7 +477,7 @@
   "id": "fn11_10:034:00",
   "speaker": "アンジー",
   "jp": "フフッ、これでオアイコだヨ？\nアンはいっつも{px}に\n困らされてたんだからネ。",
-  "en": "Hehe, now we're even, okay? You were always\ngiving Angie a hard time, {px}."
+  "en": "Hehe, now we are even, okay? You were always\ngiving Angie a hard time, {px}, ne."
  },
  {
   "id": "fn11_10:035:00",
@@ -501,7 +501,7 @@
   "id": "fn11_10:036:01",
   "speaker": "アンジー",
   "jp": "だから……ネ？",
-  "en": "So... okay?"
+  "en": "So... ne?"
  },
  {
   "id": "fn11_10:036:02",
@@ -512,7 +512,7 @@
   "id": "fn11_10:036:03",
   "speaker": "アンジー",
   "jp": "今日は恋人たちの日だモン、\n特別でもいい……よネ？",
-  "en": "Today's the day for lovers, so it's\nokay for it to be special... right?"
+  "en": "Today is the day for lovers, so it\nis okay for it to be special... ne?"
  },
  {
   "id": "fn11_10:037:00",
@@ -596,7 +596,7 @@
   "id": "fn11_10:042:01",
   "speaker": "アンジー",
   "jp": "ごめん。\nそれと……ありがとネ。",
-  "en": "Sorry. And also... thanks."
+  "en": "Sorry. And also... thanks, ne."
  },
  {
   "id": "fn11_10:043:00",
@@ -608,7 +608,7 @@
   "id": "fn11_10:043:01",
   "speaker": "アンジー",
   "jp": "そんな顔、{px}に\nして欲しくないものネ。",
-  "en": "Angie doesn't want you making\nthat face, {px}."
+  "en": "Angie does not want you making\nthat face, {px}, ne."
  },
  {
   "id": "fn11_10:044:00",
@@ -626,7 +626,7 @@
   "id": "fn11_10:044:02",
   "speaker": "アンジー",
   "jp": "{px}にそんな顔、\nして欲しくないものネ。",
-  "en": "Angie doesn't want you making\nthat face, {px}."
+  "en": "Angie does not want you making\nthat face, {px}, ne."
  },
  {
   "id": "fn11_10:045:00",
@@ -650,7 +650,7 @@
   "id": "fn11_10:047:00",
   "speaker": "アンジー",
   "jp": "お詫びにたっくさん\n買い物しなきゃだネ！",
-  "en": "To make up for it, Angie'll\nhave to buy looooads of stuff!"
+  "en": "To make up for it, Angie will\nhave to buy looooads of stuff, ne!"
  },
  {
   "id": "fn11_10:047:01",
@@ -704,7 +704,7 @@
   "id": "fn11_10:049:00",
   "speaker": "アンジー",
   "jp": "あ……エット、\nなんか照れちゃうネ。",
-  "en": "Ah... Um, this is kinda embarrassing."
+  "en": "Ah... Um, this is kinda embarrassing, ne."
  },
  {
   "id": "fn11_10:049:01",
@@ -722,6 +722,6 @@
   "id": "fn11_10:050:01",
   "speaker": "アンジー",
   "jp": "その分、アンがパトロール\nしてあげなきゃだネ！",
-  "en": "Then Angie will just have to patrol in his place!"
+  "en": "Then Angie will just have to patrol in his place, ne!"
  }
 ]

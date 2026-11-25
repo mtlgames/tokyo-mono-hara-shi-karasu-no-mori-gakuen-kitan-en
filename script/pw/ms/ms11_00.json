@@ -117,7 +117,7 @@
   "id": "ms11_00:003:02",
   "speaker": "義王",
   "jp": "その……\nありがと、よ。",
-  "en": "Uh... thanks, I guess."
+  "en": "Uh... thanks, man."
  },
  {
   "id": "ms11_00:004:00",
@@ -171,7 +171,7 @@
   "id": "ms11_00:007:03",
   "speaker": "義王",
   "jp": "その……\nありがと、よ。",
-  "en": "Uh... thanks, I guess."
+  "en": "Uh... thanks, man."
  },
  {
   "id": "ms11_00:008:00",
@@ -207,7 +207,7 @@
   "id": "ms11_00:009:02",
   "speaker": "義王",
   "jp": "いまのオレ様には、\n{ruby:盗賊団|アイツら}や……",
-  "en": "The great me's got the bandits now..."
+  "en": "The great me's got those guys... the bandits..."
  },
  {
   "id": "ms11_00:009:03",
@@ -291,7 +291,7 @@
   "id": "ms11_00:017:00",
   "speaker": "アンジー",
   "jp": "ンモウ、相変わらず\nミギーは一人で格好つけだネ。",
-  "en": "Geez, Miggy is still acting\ncool all by himself, as usual."
+  "en": "Geez, Miggy is still acting cool\nall by himself, as usual, ne."
  },
  {
   "id": "ms11_00:017:01",
@@ -321,7 +321,7 @@
   "id": "ms11_00:017:05",
   "speaker": "アンジー",
   "jp": "アハハッ！\n怖～い封札師がいるからネ。",
-  "en": "Ahaha! Because there's a scaaary\nCard Sealer around, huh?"
+  "en": "Ahaha! Because there is a\nscaaary Card Sealer around, ne?"
  },
  {
   "id": "ms11_00:017:06",
@@ -339,7 +339,7 @@
   "id": "ms11_00:018:00",
   "speaker": "御霧",
   "jp": "まったく、\n骨折り損のくだびれ儲けとは\nこの事だ。",
-  "en": "Honestly, if this isn't all pain and\nno gain, I don't know what is."
+  "en": "Tch, if this isn't all pain and\nno gain, I don't know what is."
  },
  {
   "id": "ms11_00:018:01",
@@ -381,7 +381,7 @@
   "id": "ms11_00:019:04",
   "speaker": "アンジー",
   "jp": "四角いものは当分やめとくヨ。\nまた{px}に怒られちゃ\nたまらないからネ！",
-  "en": "Angie will stay away from square things for\na while. Getting scolded by\n{px} again would be too much!"
+  "en": "Angie will stay away from square things for a\nwhile. Getting scolded by {px}\nagain would be too much, ne!"
  },
  {
   "id": "ms11_00:019:05",
@@ -1347,7 +1347,7 @@
   "id": "ms11_00:078:28",
   "speaker": "零",
   "jp": "初めまして。\n羽鳥、朝子……さん。",
-  "en": "Nice to meet you. Asako... Hatori-san."
+  "en": "Nice to meet you. Asako... Hatori... -san."
  },
  {
   "id": "ms11_00:078:29",
@@ -1377,7 +1377,7 @@
   "id": "ms11_00:081:00",
   "speaker": "朝子",
   "jp": "ふふ、\n{px}、嬉しそう。",
-  "en": "Hehe, {px}, you look happy."
+  "en": "Hee hee, {px}, you look happy."
  },
  {
   "id": "ms11_00:081:01",
@@ -1389,7 +1389,7 @@
   "id": "ms11_00:082:00",
   "speaker": "朝子",
   "jp": "ふふ、\n{px}、楽しそう。",
-  "en": "Hehe, {px}, you\nlook like you're having fun."
+  "en": "Hee hee, {px},\nyou look like you're having fun."
  },
  {
   "id": "ms11_00:082:01",
@@ -1539,7 +1539,7 @@
   "id": "ms11_00:089:12",
   "speaker": "鍵",
   "jp": "試しに、\n大声で呼んでみちゃどうです？",
-  "en": "Why not try callin' out to her real loud and see?"
+  "en": "Why not try calling out to\nher, good and loud, and see?"
  },
  {
   "id": "ms11_00:089:13",
@@ -1551,13 +1551,13 @@
   "id": "ms11_00:089:14",
   "speaker": "鈴",
   "jp": "は、恥ずかしいです……。",
-  "en": "I-It's embarrassing..."
+  "en": "S-Suzu is embarrassed, it is..."
  },
  {
   "id": "ms11_00:089:15",
   "speaker": "朝子",
   "jp": "……ふふっ。",
-  "en": "...Hehe."
+  "en": "...Hee hee."
  },
  {
   "id": "ms11_00:089:16",
@@ -1593,7 +1593,7 @@
   "id": "ms11_00:091:01",
   "speaker": "朝子",
   "jp": "……ふふ、\nありがとう。",
-  "en": "...Hehe, thank you."
+  "en": "...Hee hee, thank you."
  },
  {
   "id": "ms11_00:091:02",
@@ -1611,7 +1611,7 @@
   "id": "ms11_00:092:01",
   "speaker": "朝子",
   "jp": "……ふふ、\nでも、ありがとう。",
-  "en": "...Hehe, but thank you."
+  "en": "...Hee hee, but thank you."
  },
  {
   "id": "ms11_00:092:02",
@@ -1629,7 +1629,7 @@
   "id": "ms11_00:093:01",
   "speaker": "朝子",
   "jp": "……ふふ、\nでも、ありがとう。",
-  "en": "...Hehe, but thank you."
+  "en": "...Hee hee, but thank you."
  },
  {
   "id": "ms11_00:093:02",
@@ -1905,13 +1905,13 @@
   "id": "ms11_00:113:09",
   "speaker": "燈治",
   "jp": "……見当たんねェけどよ。",
-  "en": "...I can't find it, but still."
+  "en": "...I can't find it, though."
  },
  {
   "id": "ms11_00:113:10",
   "speaker": "弥紀",
   "jp": "ふふ、じゃあ後で\nコピーとってくるね。",
-  "en": "Hehe, then I'll go make a copy for you later."
+  "en": "Hee hee, then I'll go make a copy for you later."
  },
  {
   "id": "ms11_00:113:11",
@@ -1983,7 +1983,7 @@
   "id": "ms11_00:119:00",
   "speaker": "弥紀",
   "jp": "ふふっ、じゃあコピーは\n二枚だね。",
-  "en": "Hehe, two copies, then."
+  "en": "Hee hee, two copies, then."
  },
  {
   "id": "ms11_00:120:00",
@@ -2091,7 +2091,7 @@
   "id": "ms11_00:125:01",
   "speaker": "弥紀",
   "jp": "ふふ、\nありがとう、{px}。",
-  "en": "Hehe, thank you, {px}."
+  "en": "Hee hee, thank you, {px}."
  },
  {
   "id": "ms11_00:126:00",
@@ -2427,7 +2427,7 @@
   "id": "ms11_00:144:10",
   "speaker": "弥紀",
   "jp": "ふふっ。",
-  "en": "Hehe."
+  "en": "Hee hee."
  },
  {
   "id": "ms11_00:144:11",
@@ -2607,7 +2607,7 @@
   "id": "ms11_00:155:09",
   "speaker": "久榮",
   "jp": "まったく、キミたちは\n本当に仲がいいな。",
-  "en": "Honestly, you lot really are close."
+  "en": "Really, you lot are close as can be."
  },
  {
   "id": "ms11_00:155:10",
@@ -2715,7 +2715,7 @@
   "id": "ms11_00:161:01",
   "speaker": "久榮",
   "jp": "まったく……。\n浪漫を解さない\n男だな、キミは。",
-  "en": "Honestly... You're a man with no sense of romance."
+  "en": "Really... You're a man with no sense of romance."
  },
  {
   "id": "ms11_00:162:00",
@@ -2727,7 +2727,7 @@
   "id": "ms11_00:162:01",
   "speaker": "久榮",
   "jp": "まったく……。\n浪漫を解さない\n男だな、キミは。",
-  "en": "Honestly... You're a man with no sense of romance."
+  "en": "Really... You're a man with no sense of romance."
  },
  {
   "id": "ms11_00:163:00",
@@ -2751,13 +2751,13 @@
   "id": "ms11_00:164:00",
   "speaker": "久榮",
   "jp": "まったく……。\n浪漫を解さない\n男だな、キミは。",
-  "en": "Honestly... You're a man with no sense of romance."
+  "en": "Really... You're a man with no sense of romance."
  },
  {
   "id": "ms11_00:165:00",
   "speaker": "久榮",
   "jp": "まったく……。\n浪漫を解さない\n男だな、キミは。",
-  "en": "Honestly... You're a man with no sense of romance."
+  "en": "Really... You're a man with no sense of romance."
  },
  {
   "id": "ms11_00:166:00",

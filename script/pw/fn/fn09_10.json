@@ -15,7 +15,7 @@
   "id": "fn09_10:001:02",
   "speaker": "アンジー",
   "jp": "ンー……\nオレイマイリ……\nとか言ったカナ？",
-  "en": "Mmm... a \"payback visit\"... is\nwhat he called it, I think?"
+  "en": "Mmm... a \"payback visit\" to the\nshrine... is what he called it, I think?"
  },
  {
   "id": "fn09_10:001:03",
@@ -63,7 +63,7 @@
   "id": "fn09_10:005:00",
   "speaker": "アンジー",
   "jp": "{ruby:Ｓｉ|ウ　ン}！\n{px}の背中は\nアンが護ってあげるからネ！",
-  "en": "Si! Angie will protect\n{px}'s back, okay!"
+  "en": "Si! Angie will protect {px}'s back, ne!"
  },
  {
   "id": "fn09_10:006:00",
@@ -87,7 +87,7 @@
   "id": "fn09_10:008:01",
   "speaker": "アンジー",
   "jp": "そんなに\n嫌われちゃってたなんてネ。",
-  "en": "Angie didn't know you hated her that much."
+  "en": "Angie did not know you hated her that much, ne."
  },
  {
   "id": "fn09_10:009:00",
@@ -123,7 +123,7 @@
   "id": "fn09_10:013:02",
   "speaker": "アンジー",
   "jp": "それと……コレ。\n{px}に返すネ。",
-  "en": "And... this. Angie is giving it\nback to {px}."
+  "en": "And... this. Angie is giving it\nback to {px}, ne."
  },
  {
   "id": "fn09_10:013:03",
@@ -147,13 +147,13 @@
   "id": "fn09_10:014:01",
   "speaker": "アンジー",
   "jp": "それじゃ、またネ！",
-  "en": "See you later!"
+  "en": "See you later, ne!"
  },
  {
   "id": "fn09_10:015:00",
   "speaker": "アンジー",
   "jp": "でも、いつか{px}が\n護って欲しいって言うくらい\nステキな女幹部になるからネ。",
-  "en": "But someday, Angie will be such a wonderful\nlady lieutenant that {px} will\nask her for protection."
+  "en": "But someday, Angie will be such a wonderful\nlady lieutenant that {px} will\nask her for protection, ne."
  },
  {
   "id": "fn09_10:015:01",
@@ -171,6 +171,6 @@
   "id": "fn09_10:016:01",
   "speaker": "アンジー",
   "jp": "この紐のついた鈴とか、\nオレーマイリとか、\n面白いコト、一杯だヨ！",
-  "en": "Like this bell with the rope, and\npayback visits... So many fun things!"
+  "en": "Like this bell with the rope, and shrine\npayback visits... So many fun things!"
  }
 ]

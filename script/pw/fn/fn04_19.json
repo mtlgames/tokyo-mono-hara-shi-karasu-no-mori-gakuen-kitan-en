@@ -9,13 +9,13 @@
   "id": "fn04_19:001:01",
   "speaker": "鈴",
   "jp": "実は、こっそり{ruby:清|せい}さまの\nお手伝いをしてたのです。",
-  "en": "The truth is, Suzu was secretly helping Sei-sama."
+  "en": "The truth is, Suzu was\nsecretly helping Sei-sama, it is."
  },
  {
   "id": "fn04_19:001:02",
   "speaker": "鈴",
   "jp": "すずはこの{ruby:鴉羽|からすば}の{ruby:神使|しんし}。\n少しでもお役に立たねば\nなのです。",
-  "en": "Suzu is the divine messenger of Karasuba.\nSuzu has to be of use, even just a little bit."
+  "en": "Suzu is the divine messenger of Karasuba. Suzu\nhas to be of use, even just a little bit, it is."
  },
  {
   "id": "fn04_19:001:03",
@@ -27,13 +27,13 @@
   "id": "fn04_19:001:04",
   "speaker": "鈴",
   "jp": "清さまがしてた通りに、\nご神水を作ってたですが\n違う気がするです……。",
-  "en": "Suzu was making the sacred water just like\nSei-sama does, but it seems wrong somehow..."
+  "en": "Suzu was making the sacred water just like\nSei-sama does, but it seems wrong somehow, it is..."
  },
  {
   "id": "fn04_19:002:00",
   "speaker": "鈴",
   "jp": "はうう……。\nお手伝いも出来ないすずは、\nダメなすずなのです……。",
-  "en": "Hauu... Suzu can't even help\nout. Suzu is a no-good Suzu..."
+  "en": "Hauu... Suzu can't even help out.\nSuzu is a no-good Suzu, it is..."
  },
  {
   "id": "fn04_19:003:00",
@@ -45,7 +45,7 @@
   "id": "fn04_19:003:01",
   "speaker": "鈴",
   "jp": "はうう……。\nそんなに優しいお言葉、\nすずにはもったいないです。",
-  "en": "Hauu... Such kind words are far too good for Suzu."
+  "en": "Hauu... Such kind words are\nfar too good for Suzu, it is."
  },
  {
   "id": "fn04_19:004:00",
@@ -57,7 +57,7 @@
   "id": "fn04_19:004:01",
   "speaker": "鈴",
   "jp": "すずは、すずなりに……\n一生懸命やったのです……。",
-  "en": "Suzu tried... in Suzu's own\nway... Suzu tried really hard..."
+  "en": "Suzu tried... in Suzu's own way...\nSuzu tried really hard, it is..."
  },
  {
   "id": "fn04_19:005:00",
@@ -69,7 +69,7 @@
   "id": "fn04_19:005:01",
   "speaker": "鈴",
   "jp": "すず、目が覚めたです！\n落ち込んでいても\nダメダメなのです！",
-  "en": "Suzu's eyes have been opened!\nMoping around is no-good-no-good!"
+  "en": "Suzu's eyes have been opened! Moping\naround is no-good-no-good, it is!"
  },
  {
   "id": "fn04_19:006:00",
@@ -87,7 +87,7 @@
   "id": "fn04_19:007:01",
   "speaker": "鈴",
   "jp": "なんて力強いお言葉です……。\nすず、間違ってたです！！",
-  "en": "What powerful words... Suzu was wrong!!"
+  "en": "What powerful words... Suzu was wrong, it is!!"
  },
  {
   "id": "fn04_19:008:00",
@@ -105,7 +105,7 @@
   "id": "fn04_19:008:02",
   "speaker": "鈴",
   "jp": "すず、嬉しいです！",
-  "en": "Suzu is so happy!"
+  "en": "Suzu is so happy, it is!"
  },
  {
   "id": "fn04_19:009:00",
@@ -135,19 +135,19 @@
   "id": "fn04_19:011:00",
   "speaker": "鈴",
   "jp": "そうです、ダメなすずには\nそれでいいのです……。",
-  "en": "Yes, for no-good Suzu... that's good enough..."
+  "en": "Yes, for no-good Suzu... that's good enough, it is..."
  },
  {
   "id": "fn04_19:012:00",
   "speaker": "鈴",
   "jp": "……ぬしさま！\nすずが作ったお水、\n受け取ってくださいです！",
-  "en": "...Master! Please take the water Suzu made!"
+  "en": "...Master! Please take the water Suzu made, it is!"
  },
  {
   "id": "fn04_19:012:01",
   "speaker": "鈴",
   "jp": "鍵さんはお水のご用意も\nちゃんとした\n修行だっていってたです。",
-  "en": "Ken-san said preparing the\nwater is proper training too."
+  "en": "Ken-san said preparing the\nwater is proper training too, it is."
  },
  {
   "id": "fn04_19:012:02",
@@ -159,13 +159,13 @@
   "id": "fn04_19:012:03",
   "speaker": "鈴",
   "jp": "ぬしさまをお助けする\n立派な神使になるためにも\n頑張るです！！",
-  "en": "Suzu will work hard to become a fine\ndivine messenger who can help Master!!"
+  "en": "Suzu will work hard to become a fine divine\nmessenger who can help Master, it is!!"
  },
  {
   "id": "fn04_19:013:00",
   "speaker": "鈴",
   "jp": "鍵さんはお水のご用意も\nちゃんとした\n修行だっていってたです。",
-  "en": "Ken-san said preparing the\nwater is proper training too."
+  "en": "Ken-san said preparing the\nwater is proper training too, it is."
  },
  {
   "id": "fn04_19:013:01",
@@ -177,13 +177,13 @@
   "id": "fn04_19:013:02",
   "speaker": "鈴",
   "jp": "ぬしさまをお助けする\n立派な神使になるためにも\n頑張るです！！",
-  "en": "Suzu will work hard to become a fine\ndivine messenger who can help Master!!"
+  "en": "Suzu will work hard to become a fine divine\nmessenger who can help Master, it is!!"
  },
  {
   "id": "fn04_19:015:00",
   "speaker": "鈴",
   "jp": "忘れないうちに、\n手順を復習するです。",
-  "en": "Suzu will go over the steps before Suzu forgets."
+  "en": "Suzu will go over the steps before Suzu forgets, it is."
  },
  {
   "id": "fn04_19:015:01",

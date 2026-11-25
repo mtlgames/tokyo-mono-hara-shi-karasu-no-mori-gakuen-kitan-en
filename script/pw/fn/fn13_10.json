@@ -33,7 +33,7 @@
   "id": "fn13_10:002:00",
   "speaker": "アンジー",
   "jp": "一躍ヒーローの大チャンス！\n{px}、頑張ろうネ！",
-  "en": "It's a big chance to become heroes overnight!\n{px}, let's do our best!"
+  "en": "It is a big chance to become heroes overnight!\n{px}, let's do our best, ne!"
  },
  {
   "id": "fn13_10:003:00",
@@ -51,7 +51,7 @@
   "id": "fn13_10:004:00",
   "speaker": "アンジー",
   "jp": "いま、{px}とアンの\n心は一つだネ！",
-  "en": "Right now, {px}\nand Angie are one at heart!"
+  "en": "Right now, {px}\nand Angie are one at heart, ne!"
  },
  {
   "id": "fn13_10:004:01",
@@ -63,7 +63,7 @@
   "id": "fn13_10:005:00",
   "speaker": "アンジー",
   "jp": "ウウン、すごい熱意だヨ！\n東京ＢＭもかくや、だネ。",
-  "en": "Mmm, what passion! You could give\nTokyo BM a run for their money."
+  "en": "Mmm, what passion! You could give\nTokyo BM a run for their money, ne."
  },
  {
   "id": "fn13_10:005:01",
@@ -87,7 +87,7 @@
   "id": "fn13_10:007:01",
   "speaker": "アンジー",
   "jp": "{px}はもっと\n自覚しなきゃダメだネ。",
-  "en": "You need to be more aware\nof that, {px}."
+  "en": "You need to be more aware\nof that, {px}, ne."
  },
  {
   "id": "fn13_10:008:00",
@@ -105,13 +105,13 @@
   "id": "fn13_10:009:00",
   "speaker": "アンジー",
   "jp": "人数のコトなんか気にしないで\n大丈夫だヨ！\n戦隊物でもＯＫだしネ！",
-  "en": "Don't worry about how many of us there\nare! A whole super sentai squad is OK too!"
+  "en": "Don't worry about how many of us there are!\nA whole super sentai squad is OK too, ne!"
  },
  {
   "id": "fn13_10:010:00",
   "speaker": "アンジー",
   "jp": "ンもう、今更だヨ？\n{px}は{ruby:歴|れっき}とした\nヒーローなんだからネ。",
-  "en": "Mmm, isn't it a bit late for that? {px},\nyou're a real, honest-to-goodness hero."
+  "en": "Mmm, is it not a bit late for that?\n{px}, you are a\nreal, honest-to-goodness hero, ne."
  },
  {
   "id": "fn13_10:010:01",
@@ -123,7 +123,7 @@
   "id": "fn13_10:011:00",
   "speaker": "アンジー",
   "jp": "ンもう、\nヒーロー的じゃないネ。",
-  "en": "Mmm, that's not very heroic."
+  "en": "Mmm, that is not very heroic, ne."
  },
  {
   "id": "fn13_10:011:01",
@@ -141,7 +141,7 @@
   "id": "fn13_10:012:01",
   "speaker": "アンジー",
   "jp": "アハハ、\nオカシラは似合わないけど\nミギーも全然似合わないネ！",
-  "en": "Ahaha, it doesn't suit the Boss, but\nit really doesn't suit Miggy either!"
+  "en": "Ahaha, it does not suit the Boss, but it\nreally does not suit Miggy either, ne!"
  },
  {
   "id": "fn13_10:013:00",
@@ -153,6 +153,6 @@
   "id": "fn13_10:013:01",
   "speaker": "アンジー",
   "jp": "ヒーローオールスターズ！\nって感じなのにネ。",
-  "en": "it'd be like \"Hero All-Stars!\", huh?"
+  "en": "it would be like \"Hero All-Stars!\", ne."
  }
 ]

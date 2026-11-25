@@ -42,6 +42,7 @@ SWEEPS = {
     "soft_hehe": lambda e: spk(e, "要", "朝子", "弥紀", "紅緒", "久榮") and "ふふ" in e["jp"] and re.search(r"\bHe+he", e["en"]),
     "hisae_roman": lambda e: spk(e, "久榮") and "浪漫" in e["jp"] and "roman" not in e["en"].lower(),
     "angie_ne": lambda e: spk(e, "アンジー") and re.search(r"ネ[。！？～…ッ」]*$", e["jp"].strip()) and not re.search(r"\bne\b", e["en"]),
+    "name_order": lambda e: "{pm} {pn}" in e["en"] and not e["id"].startswith("ms11_03:000:0"),  # those: p24
     "gio_whoa": lambda e: spk(e, "義王", "自信に満ちた声") and "オイオイ" in e["jp"] and re.search(r"\b[Ww]hoa\b", e["en"]),
 }
 
@@ -49,6 +50,7 @@ SWEEPS = {
 FIX = {  # mechanical sweeps: style-reference `...` for a lone ellipsis, `--` unspaced
     "dots6": lambda s: re.sub(r"(?<!\.)\.{6}(?!\.)", "...", s),
     "spaced_dash": lambda s: s.replace(" -- ", "--"),
+    "name_order": lambda s: s.replace("{pm} {pn}", "{pn} {pm}"),  # D1: given name first
     "gio_whoa": lambda s: re.sub(r"\b[Ww]hoa\b", lambda m: "Oi" if m.group()[0] == "W" else "oi", s),  # synopsis: Gio's tag
 }
 

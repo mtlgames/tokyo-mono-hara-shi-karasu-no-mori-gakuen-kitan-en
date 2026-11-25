@@ -123,7 +123,7 @@
   "id": "ms05_01:006:02",
   "speaker": "朝子",
   "jp": "まったくもう……。\n次寝てたら、補習よ？",
-  "en": "Honestly... If you fall asleep again,\nit's extra lessons for you, okay?"
+  "en": "Oh, for goodness' sake... If you fall asleep\nagain, it's extra lessons for you, okay?"
  },
  {
   "id": "ms05_01:006:03",
@@ -771,7 +771,7 @@
   "id": "ms05_01:032:00",
   "speaker": "弥紀",
   "jp": "もう……そんな顔されたら\n止めても無駄なんだなって\nわかっちゃうよ。",
-  "en": "Geez... When you make that face, I can\ntell there's no use trying to stop you."
+  "en": "Oh... When you make that face, I can\ntell there's no use trying to stop you."
  },
  {
   "id": "ms05_01:032:01",
@@ -783,19 +783,19 @@
   "id": "ms05_01:032:02",
   "speaker": "弥紀",
   "jp": "ふふッ、でも本当に\nちょっと……格好いいよ。",
-  "en": "Heehee, but honestly, it is... a little cool."
+  "en": "Hee hee, but honestly, it is... a little cool."
  },
  {
   "id": "ms05_01:033:00",
   "speaker": "弥紀",
   "jp": "もう……そんな顔されたら\n止めても無駄なんだなって\nわかっちゃうよ。",
-  "en": "Geez... When you make that face, I can\ntell there's no use trying to stop you."
+  "en": "Oh... When you make that face, I can\ntell there's no use trying to stop you."
  },
  {
   "id": "ms05_01:034:00",
   "speaker": "弥紀",
   "jp": "もう……そんな顔されたら\n止めても無駄なんだなって\nわかっちゃうよ。",
-  "en": "Geez... When you make that face, I can\ntell there's no use trying to stop you."
+  "en": "Oh... When you make that face, I can\ntell there's no use trying to stop you."
  },
  {
   "id": "ms05_01:035:00",
@@ -1437,7 +1437,7 @@
   "id": "ms05_01:068:19",
   "speaker": "アンジー",
   "jp": "あ、そうそう。\n弥紀と巴にも\nよろしくネ。",
-  "en": "Oh, right, right. Say hi to\nMinori and Tomoe for me, 'kay?"
+  "en": "Oh, right, right. Say hi to\nMinori and Tomoe for me, ne."
  },
  {
   "id": "ms05_01:068:20",
@@ -1977,7 +1977,7 @@
   "id": "ms05_01:103:08",
   "speaker": "久榮",
   "jp": "やれやれ。\n武道者にしては忙しない。",
-  "en": "Good grief. Awfully restless for a martial artist."
+  "en": "Hmph. Awfully restless for a martial artist."
  },
  {
   "id": "ms05_01:104:00",
@@ -2061,7 +2061,7 @@
   "id": "ms05_01:107:00",
   "speaker": "久榮",
   "jp": "まったく……。\n調子よすぎだ、キミは。",
-  "en": "Honestly... You're way too glib for your own good."
+  "en": "Really... You're way too glib for your own good."
  },
  {
   "id": "ms05_01:108:00",
@@ -2073,7 +2073,7 @@
   "id": "ms05_01:109:00",
   "speaker": "久榮",
   "jp": "まったく……。\n調子よすぎだ、キミは。",
-  "en": "Honestly... You're way too glib for your own good."
+  "en": "Really... You're way too glib for your own good."
  },
  {
   "id": "ms05_01:110:00",
@@ -2085,31 +2085,31 @@
   "id": "ms05_01:111:00",
   "speaker": "久榮",
   "jp": "やれやれ。\nここは嘘でもいいから\n頷いておくべきところだぞ。",
-  "en": "Good grief. This is where you\nnod along, even if it's a lie."
+  "en": "Well, well. This is where you\nnod along, even if it's a lie."
  },
  {
   "id": "ms05_01:112:00",
   "speaker": "久榮",
   "jp": "やれやれ。\nここは嘘でもいいから\n頷いておくべきところだぞ。",
-  "en": "Good grief. This is where you\nnod along, even if it's a lie."
+  "en": "Well, well. This is where you\nnod along, even if it's a lie."
  },
  {
   "id": "ms05_01:113:00",
   "speaker": "久榮",
   "jp": "やれやれ。\nここは嘘でもいいから\n頷いておくべきところだぞ。",
-  "en": "Good grief. This is where you\nnod along, even if it's a lie."
+  "en": "Well, well. This is where you\nnod along, even if it's a lie."
  },
  {
   "id": "ms05_01:114:00",
   "speaker": "久榮",
   "jp": "やれやれ。\nここは嘘でもいいから\n頷いておくべきところだぞ。",
-  "en": "Good grief. This is where you\nnod along, even if it's a lie."
+  "en": "Well, well. This is where you\nnod along, even if it's a lie."
  },
  {
   "id": "ms05_01:115:00",
   "speaker": "久榮",
   "jp": "やれやれ。\nここは嘘でもいいから\n頷いておくべきところだぞ。",
-  "en": "Good grief. This is where you\nnod along, even if it's a lie."
+  "en": "Well, well. This is where you\nnod along, even if it's a lie."
  },
  {
   "id": "ms05_01:116:00",
@@ -2319,7 +2319,7 @@
   "id": "ms05_01:127:05",
   "speaker": "弥紀",
   "jp": "札を集めるな、って\n言った人もいるんだよね？",
-  "en": "Somebody told us not to\ncollect the cards, too, right?"
+  "en": "Somebody did say not to\ncollect the cards, didn't they?"
  },
  {
   "id": "ms05_01:127:06",
@@ -2421,7 +2421,7 @@
   "id": "ms05_01:132:05",
   "speaker": "弥紀",
   "jp": "……ふふ。\nみんな、気持ちは同じだね。",
-  "en": "...Hehe. We all feel the same way."
+  "en": "...Hee hee. We all feel the same way."
  },
  {
   "id": "ms05_01:132:06",
@@ -2433,7 +2433,7 @@
   "id": "ms05_01:132:07",
   "speaker": "弥紀",
   "jp": "でも、みんな一緒なら\nきっと……大丈夫だよ。",
-  "en": "as long as we're all together, I'm sure... we'll be okay."
+  "en": "as long as we're all together... I'm sure we'll be okay."
  },
  {
   "id": "ms05_01:132:08",

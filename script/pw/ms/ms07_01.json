@@ -1058,7 +1058,7 @@
   "id": "ms07_01:062:05",
   "speaker": "英雄",
   "jp": "さあ、\n息を大きく吸い込んでッ！\nワンスッ、モア！！",
-  "en": "Now, take a deep breath! Once! More!!"
+  "en": "Now, take a deep breath! Once more!!"
  },
  {
   "id": "ms07_01:062:06",
@@ -1232,7 +1232,7 @@
   "id": "ms07_01:074:00",
   "speaker": "巴",
   "jp": "ふゥん、\nあの三人にねえ……。",
-  "en": "Hmm, those three, huh..."
+  "en": "Hmm, so it's those three at the top, huh..."
  },
  {
   "id": "ms07_01:074:01",
@@ -2023,7 +2023,7 @@
   "id": "ms07_01:118:01",
   "speaker": "富樫",
   "jp": "まったく……\n仕方のない奴だな。",
-  "en": "Honestly... You're a hopeless one."
+  "en": "Man... You're a hopeless one."
  },
  {
   "id": "ms07_01:119:00",
@@ -2137,7 +2137,7 @@
   "id": "ms07_01:125:07",
   "speaker": "英雄",
   "jp": "出来る事ならば、\n{ruby:嘉門|カモンッ}！{ruby:英雄|ヒーロー}！と\n呼んでいただきたいッ！！",
-  "en": "If at all possible, I would like you to\ncall me \"C'mon!\" Kamon the \"Hero!\"!!"
+  "en": "If at all possible, I would like you to call\nme \"Kamon! Hero!\"--as in \"C'mon, Hero!!\""
  },
  {
   "id": "ms07_01:125:08",
@@ -2755,7 +2755,7 @@
   "id": "ms07_01:154:01",
   "speaker": "澁川",
   "jp": "後で、カナエさんを\n褒めてやってくれ。",
-  "en": "Give Kanae-san some praise later."
+  "en": "Later, give Kanae-san... some praise."
  },
  {
   "id": "ms07_01:155:00",
@@ -2767,7 +2767,7 @@
   "id": "ms07_01:155:01",
   "speaker": "澁川",
   "jp": "後で、カナエさんを\n褒めてやってくれ。",
-  "en": "Give Kanae-san some praise later."
+  "en": "Later, give Kanae-san... some praise."
  },
  {
   "id": "ms07_01:156:00",
@@ -2827,7 +2827,7 @@
   "id": "ms07_01:163:00",
   "speaker": "澁川",
   "jp": "窓を割られたな。\n皆、怪我はないか？",
-  "en": "They broke the window. Is everyone all right?"
+  "en": "They broke the window. Everyone... all right?"
  },
  {
   "id": "ms07_01:163:01",

@@ -267,7 +267,7 @@
   "id": "ms04_03:017:00",
   "speaker": "絢人",
   "jp": "やれやれ……。\n僕はどうも、\n君の笑顔に弱いようだ。",
-  "en": "Good grief... It seems I'm rather weak to your smile."
+  "en": "Oh dear... It seems I'm rather weak to your smile."
  },
  {
   "id": "ms04_03:018:00",
@@ -321,7 +321,7 @@
   "id": "ms04_03:025:01",
   "speaker": "絢人",
   "jp": "僕は大概あの店にいるが、\n急な呼び出しの時は\nここに連絡してくれればいい。",
-  "en": "I'm usually at the shop, but if you need\nme in a hurry, just contact me here."
+  "en": "I'm usually at the cafe, but if you need\nme in a hurry, just contact me here."
  },
  {
   "id": "ms04_03:025:02",
@@ -405,13 +405,13 @@
   "id": "ms04_03:027:01",
   "speaker": "弥紀",
   "jp": "ふふふッ。",
-  "en": "Hehehe."
+  "en": "Hee hee hee."
  },
  {
   "id": "ms04_03:027:02",
   "speaker": "白",
   "jp": "やれやれ。\n{ruby:呑気|のんき}な者共よな。",
-  "en": "Good grief. What a carefree lot."
+  "en": "Bah. What a carefree lot."
  },
  {
   "id": "ms04_03:027:03",

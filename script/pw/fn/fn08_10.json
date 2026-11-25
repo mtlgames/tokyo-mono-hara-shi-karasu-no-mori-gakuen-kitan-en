@@ -15,7 +15,7 @@
   "id": "fn08_10:001:02",
   "speaker": "アンジー",
   "jp": "アミーゴにもしようと\n思ってたんダ、オレーマイリ！",
-  "en": "I was gonna do it to Amigo too: return the favor!"
+  "en": "I was going to do it to Amigo too: an\n\"o-rei-mairi,\" a return-the-favor visit!"
  },
  {
   "id": "fn08_10:001:03",
@@ -87,7 +87,7 @@
   "id": "fn08_10:005:00",
   "speaker": "アンジー",
   "jp": "Ｓｉ！{px}の背中は\nアンが守ってあげるからネ！",
-  "en": "Si! Angie will guard {px}'s back, okay!"
+  "en": "Si! Angie will guard {px}'s back, ne!"
  },
  {
   "id": "fn08_10:006:00",
@@ -99,7 +99,7 @@
   "id": "fn08_10:007:00",
   "speaker": "アンジー",
   "jp": "そっか。残念だけど……、\n{px}の言う通りだネ。",
-  "en": "I see. It's too bad, but... {px} is right."
+  "en": "I see. It is too bad, but...\n{px} is right, ne."
  },
  {
   "id": "fn08_10:008:00",
@@ -141,25 +141,25 @@
   "id": "fn08_10:010:02",
   "speaker": "アンジー",
   "jp": "ヒーローとして半人前なのは、\n悔しいけどネ。",
-  "en": "Even if being only half a hero is frustrating, ne."
+  "en": "Being only half a hero is frustrating, though, ne."
  },
  {
   "id": "fn08_10:011:00",
   "speaker": "アンジー",
   "jp": "……はぁ、やっぱりだネ。",
-  "en": "...Haah, I knew it."
+  "en": "...Haah, Angie knew it, ne."
  },
  {
   "id": "fn08_10:012:00",
   "speaker": "アンジー",
   "jp": "アミーゴを守るのが\nヒーローの務め！王道だネ！",
-  "en": "Protecting your amigo is a\nhero's duty! The classic way!"
+  "en": "Protecting your amigo is a\nhero's duty! The classic way, ne!"
  },
  {
   "id": "fn08_10:012:01",
   "speaker": "アンジー",
   "jp": "さぁ、赤外線しヨ？ヒーローの\n番号、教えちゃうからネ！",
-  "en": "Now, let's beam our numbers, okay?\nI'll give you the hero's number!"
+  "en": "Now, let's beam our numbers, okay? Angie\nwill give you the hero's number, ne!"
  },
  {
   "id": "fn08_10:012:02",
@@ -201,7 +201,7 @@
   "id": "fn08_10:014:01",
   "speaker": "アンジー",
   "jp": "{px}、花札……。\nアナタに返すネ。",
-  "en": "{px}, the hanafuda...\nI'm giving it back to you."
+  "en": "{px}, the hanafuda...\nI am giving it back to you, ne."
  },
  {
   "id": "fn08_10:014:02",
@@ -231,6 +231,6 @@
   "id": "fn08_10:015:01",
   "speaker": "アンジー",
   "jp": "この紐のついた鈴とか、\nオレーマイリとか、\n面白いことが一杯だヨ！",
-  "en": "Like this bell with the rope, and\nreturning the favor... So many fun things!"
+  "en": "Like this bell with the rope, and\no-rei-mairi... So many fun things!"
  }
 ]

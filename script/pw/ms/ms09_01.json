@@ -177,7 +177,7 @@
   "id": "ms09_01:006:00",
   "speaker": "巴",
   "jp": "あら、やっぱり\nあたしがいないと不安なワケ？",
-  "en": "Oh my, so you're nervous without me after all?"
+  "en": "Oh? So you're nervous without me after all?"
  },
  {
   "id": "ms09_01:006:01",
@@ -249,7 +249,7 @@
   "id": "ms09_01:010:04",
   "speaker": "弥紀",
   "jp": "ふふ。\n{ruby:鴉乃杜|う　ち}の\n自慢の生徒会長だもの。",
-  "en": "Hehe. She's our pride and joy, Karasu no\nMori's very own student council president."
+  "en": "Hee hee. She's our pride and joy, Karasu no\nMori's very own student council president."
  },
  {
   "id": "ms09_01:010:05",
@@ -513,7 +513,7 @@
   "id": "ms09_01:025:03",
   "speaker": "富樫",
   "jp": "まったく……\nお前を見ていると、疑うのが\n馬鹿馬鹿しく思えてくるな。",
-  "en": "Honestly... Looking at you makes\nsuspicion seem downright foolish."
+  "en": "Hah... Looking at you makes\nsuspicion seem downright foolish."
  },
  {
   "id": "ms09_01:025:04",
@@ -801,7 +801,7 @@
   "id": "ms09_01:032:00",
   "speaker": "澁川",
   "jp": "休めるときに、休む。\nそれが生き残る知恵だ。",
-  "en": "Rest when you can. That's how you survive."
+  "en": "When you can rest... rest. That's how you survive."
  },
  {
   "id": "ms09_01:033:00",
@@ -1281,7 +1281,7 @@
   "id": "ms09_01:057:11",
   "speaker": "澁川",
   "jp": "……やれやれ。",
-  "en": "...Good grief."
+  "en": "...Well, now."
  },
  {
   "id": "ms09_01:058:00",
@@ -1311,7 +1311,7 @@
   "id": "ms09_01:059:01",
   "speaker": "弥紀",
   "jp": "ふふ。\nカナエさん、照れてるみたい。",
-  "en": "Hehe. Looks like Kanae-san's embarrassed."
+  "en": "Hee hee. Looks like Kanae-san's embarrassed."
  },
  {
   "id": "ms09_01:060:00",
@@ -1323,7 +1323,7 @@
   "id": "ms09_01:060:01",
   "speaker": "弥紀",
   "jp": "ふふ。\n何だか以心伝心、だね。",
-  "en": "Hehe. You two really read each other's minds, huh."
+  "en": "Hee hee. You two really\nread each other's minds, huh."
  },
  {
   "id": "ms09_01:061:00",
@@ -1335,7 +1335,7 @@
   "id": "ms09_01:061:01",
   "speaker": "弥紀",
   "jp": "ふふ、\n{px}が元気そうだから\n嬉しいみたいだね。",
-  "en": "Hehe, looks like Kanae-san's happy to\nsee you're doing well, {px}."
+  "en": "Hee hee, looks like Kanae-san's happy to\nsee you're doing well, {px}."
  },
  {
   "id": "ms09_01:062:00",
@@ -1641,7 +1641,7 @@
   "id": "ms09_01:074:06",
   "speaker": "燈治",
   "jp": "……あいつ、\n何で俺のアドレス\n知ってんだ？",
-  "en": "...How the hell does she know my email?"
+  "en": "...How the hell does she know my number?"
  },
  {
   "id": "ms09_01:075:00",
@@ -1995,7 +1995,7 @@
   "id": "ms09_01:089:00",
   "speaker": "アンジー",
   "jp": "{ruby:Ｈｏｌａ|ハ　ー　イ}、ミンナ！\nやっぱりココにいたネ。",
-  "en": "Hola, everyone! I knew you'd be here."
+  "en": "Hola, everyone! I knew you would be here, ne."
  },
  {
   "id": "ms09_01:089:01",
@@ -2007,7 +2007,7 @@
   "id": "ms09_01:089:02",
   "speaker": "アンジー",
   "jp": "だってカルの所なら絶対安全。\nそれに、アンの占いでも\nココって出たからネ。",
-  "en": "'Cause Kal's place is totally safe. And\nAngie's fortune-telling said here, too."
+  "en": "Because Kal's place is totally safe. And\nAngie's fortune-telling said here, too, ne."
  },
  {
   "id": "ms09_01:089:03",
@@ -2031,13 +2031,13 @@
   "id": "ms09_01:090:00",
   "speaker": "アンジー",
   "jp": "アハハハハッ！\nその格好で迫らないで～！！",
-  "en": "Ahahahaha! Don't come at me dressed like that~!!"
+  "en": "Ahahahaha! Do not come at me dressed like that~!!"
  },
  {
   "id": "ms09_01:090:01",
   "speaker": "アンジー",
   "jp": "もうダメ、\nお腹痛いヨ。",
-  "en": "I can't, my tummy hurts."
+  "en": "I cannot take it, my tummy hurts."
  },
  {
   "id": "ms09_01:091:00",
@@ -2049,13 +2049,13 @@
   "id": "ms09_01:091:01",
   "speaker": "アンジー",
   "jp": "ウン、それなら十分、\n合格点カナ。",
-  "en": "Mm-hm, then that's a passing score, I think."
+  "en": "Mm-hm, then that is a passing score, I think."
  },
  {
   "id": "ms09_01:091:02",
   "speaker": "アンジー",
   "jp": "なかなかカワイイヨ、\n{pn}チャン。",
-  "en": "You're pretty cute, {pn}-chan."
+  "en": "You are pretty cute, {pn}-chan."
  },
  {
   "id": "ms09_01:092:00",
@@ -2067,7 +2067,7 @@
   "id": "ms09_01:092:01",
   "speaker": "アンジー",
   "jp": "ウン、それなら十分、\n合格点カナ。",
-  "en": "Mm-hm, then that's a passing score, I think."
+  "en": "Mm-hm, then that is a passing score, I think."
  },
  {
   "id": "ms09_01:093:00",
@@ -2079,13 +2079,13 @@
   "id": "ms09_01:094:00",
   "speaker": "アンジー",
   "jp": "{ruby:Ｖａｙａ|あ　ら　ら}！！\nゴメンゴメン、\n十分可愛いヨ？",
-  "en": "Vaya!! Sorry, sorry, you're plenty cute, okay?"
+  "en": "Vaya!! Sorry, sorry, you are plenty cute, okay?"
  },
  {
   "id": "ms09_01:095:00",
   "speaker": "アンジー",
   "jp": "{ruby:Ｖａｙａ|あ　ら　ら}！！\nご機嫌ナナメだネ。",
-  "en": "Vaya!! Somebody's in a bad mood."
+  "en": "Vaya!! Somebody is in a bad mood, ne."
  },
  {
   "id": "ms09_01:096:00",
@@ -2097,13 +2097,13 @@
   "id": "ms09_01:096:01",
   "speaker": "アンジー",
   "jp": "ん～、残念ダネ。",
-  "en": "Mmm, too bad."
+  "en": "Mmm, too bad, ne."
  },
  {
   "id": "ms09_01:096:02",
   "speaker": "弥紀",
   "jp": "ふふ。\nでも、ありがとう、\nアンジー、",
-  "en": "Hehe. But thank you, Angie."
+  "en": "Hee hee. But thank you, Angie."
  },
  {
   "id": "ms09_01:096:03",
@@ -2115,7 +2115,7 @@
   "id": "ms09_01:096:04",
   "speaker": "アンジー",
   "jp": "……モウ、\n弥紀はホントに\nオヒトヨシだネ。",
-  "en": "...Geez, Minori, you're really\ntoo nice for your own good."
+  "en": "...Mou, Minori, you are really too kind, ne."
  },
  {
   "id": "ms09_01:096:05",
@@ -2133,7 +2133,7 @@
   "id": "ms09_01:096:07",
   "speaker": "アンジー",
   "jp": "軍人だのサムライだのって\n言われてるキレ者だヨ。",
-  "en": "A sharp one. People call him a soldier, a samurai."
+  "en": "He is a sharp one. People\ncall him a soldier, a samurai."
  },
  {
   "id": "ms09_01:097:00",
@@ -2181,7 +2181,7 @@
   "id": "ms09_01:098:01",
   "speaker": "御霧",
   "jp": "ええい、まったく！！\nその中途半端さに\n一番腹が立つッ！！",
-  "en": "Gah, honestly!! It's the half-heartedness\nof it that pisses me off the most!!"
+  "en": "Gah, for crying out loud!! It's the half-heartedness\nof it that pisses me off the most!!"
  },
  {
   "id": "ms09_01:099:00",
@@ -2301,7 +2301,7 @@
   "id": "ms09_01:104:12",
   "speaker": "御霧",
   "jp": "敵はあの、ＪＥＭＡの\n筑紫　信維だぞ？",
-  "en": "Your enemy is JEMA's\nNobuyuki Chikushi, you know?"
+  "en": "Your enemy is none other than\nJEMA's Nobuyuki Chikushi."
  },
  {
   "id": "ms09_01:104:13",
@@ -2451,13 +2451,13 @@
   "id": "ms09_01:106:18",
   "speaker": "燈治",
   "jp": "……あいつ、\n何で俺のアドレス\n知ってんだ？",
-  "en": "...How the hell does she know my email?"
+  "en": "...How the hell does she know my number?"
  },
  {
   "id": "ms09_01:107:00",
   "speaker": "アンジー",
   "jp": "そっか、八汎なら\n向こうも簡単には\n手をだせないハズだネ。",
-  "en": "I see, at Yahiro, they shouldn't be\nable to lay a hand on you so easily."
+  "en": "I see, at Yahiro, they should not be\nable to lay a hand on you so easily, ne."
  },
  {
   "id": "ms09_01:107:01",
@@ -2817,7 +2817,7 @@
   "id": "ms09_01:127:07",
   "speaker": "要",
   "jp": "まったく……\nこの緊急事態に\n話をややこしくせんといて。",
-  "en": "Honestly... Don't complicate matters\nin the middle of an emergency."
+  "en": "Heavens... Don't complicate matters\nin the middle of an emergency."
  },
  {
   "id": "ms09_01:127:08",
@@ -2889,7 +2889,7 @@
   "id": "ms09_01:127:19",
   "speaker": "いちる",
   "jp": "あそこがこれからずっと、\nあたしの居場所になると\n思ってたのにな……。",
-  "en": "And I thought that place was going\nto be where I belonged from now on..."
+  "en": "And I thought the Division was going\nto be where I belonged from now on..."
  },
  {
   "id": "ms09_01:127:20",
@@ -3225,7 +3225,7 @@
   "id": "ms09_01:144:00",
   "speaker": "道佳",
   "jp": "ンもう、少しは\n乙女心ってモノを\nお勉強した方がいいわよ？",
-  "en": "Oh, honestly, you should study up a little on\nthis thing called a maiden's heart, you know?"
+  "en": "Oh, come on~ You should study up a little on\nthis thing called a maiden's heart, you know?"
  },
  {
   "id": "ms09_01:144:01",
@@ -3957,7 +3957,7 @@
   "id": "ms09_01:160:18",
   "speaker": "義王",
   "jp": "話は聞かせてもらったぜ。\nなァ、大将。\n気分はどうよ？",
-  "en": "I heard the whole story. So,\nboss. How're you feelin'?"
+  "en": "I heard the whole story. So,\nchief. How're you feelin'?"
  },
  {
   "id": "ms09_01:160:19",
@@ -4803,7 +4803,7 @@
   "id": "ms09_01:206:09",
   "speaker": "富樫",
   "jp": "まったく、\nお前らときたら……。",
-  "en": "Honestly, you lot..."
+  "en": "Man, you lot..."
  },
  {
   "id": "ms09_01:206:10",
@@ -5619,7 +5619,7 @@
   "id": "ms09_01:228:02",
   "speaker": "弥紀",
   "jp": "ふふ、\n二人とももう、すっかり\n仲良しだね。",
-  "en": "Hehe, you two are already such good friends."
+  "en": "Hee hee, you two are already such good friends."
  },
  {
   "id": "ms09_01:228:03",
@@ -6368,7 +6368,7 @@
   "id": "ms09_01:268:00",
   "speaker": "御霧",
   "jp": "まったく、お前といい、\n義王といい……。",
-  "en": "Honestly, between you and Gio..."
+  "en": "Tch, between you and Gio..."
  },
  {
   "id": "ms09_01:268:01",
@@ -6392,7 +6392,7 @@
   "id": "ms09_01:270:01",
   "speaker": "御霧",
   "jp": "まったく……。\nそんなんだから、\n放って置けないんだ。",
-  "en": "Honestly... That's exactly\nwhy I can't leave you alone."
+  "en": "Tch... That's exactly why I can't leave you alone."
  },
  {
   "id": "ms09_01:272:00",
@@ -6854,7 +6854,7 @@
   "id": "ms09_01:296:02",
   "speaker": "アンジー",
   "jp": "……うーん、ヒーローの\n醍醐味だネ！",
-  "en": "...Mmm, this is what being a hero is all about!"
+  "en": "...Mmm, this is what being a hero is all about, ne!"
  },
  {
   "id": "ms09_01:297:00",
@@ -6884,7 +6884,7 @@
   "id": "ms09_01:299:00",
   "speaker": "アンジー",
   "jp": "ンもう、\n素直じゃないネ！",
-  "en": "Oh, you! You are not honest at all!"
+  "en": "Oh, you! You are not honest at all, ne!"
  },
  {
   "id": "ms09_01:299:01",
@@ -6896,7 +6896,7 @@
   "id": "ms09_01:300:00",
   "speaker": "アンジー",
   "jp": "{px}に、ミンナ……\nそれにオカシラもいるって\n聞いたからネ。",
-  "en": "I heard {px} and\neveryone... and the Boss were here too."
+  "en": "I heard {px} and everyone...\nand the Boss were here too, ne."
  },
  {
   "id": "ms09_01:300:01",
@@ -6950,7 +6950,7 @@
   "id": "ms09_01:301:05",
   "speaker": "アンジー",
   "jp": "まったくスマートじゃ\nないんだからッ。",
-  "en": "Honestly, that was not smart at all."
+  "en": "Geez, that was not smart at all."
  },
  {
   "id": "ms09_01:301:06",
@@ -6992,7 +6992,7 @@
   "id": "ms09_01:302:02",
   "speaker": "アンジー",
   "jp": "……うーん、ヒーローの\n醍醐味だネ！",
-  "en": "...Mmm, this is what being a hero is all about!"
+  "en": "...Mmm, this is what being a hero is all about, ne!"
  },
  {
   "id": "ms09_01:303:00",
@@ -7022,7 +7022,7 @@
   "id": "ms09_01:305:00",
   "speaker": "アンジー",
   "jp": "ンもう、\n素直じゃないネ！",
-  "en": "Oh, you! You are not honest at all!"
+  "en": "Oh, you! You are not honest at all, ne!"
  },
  {
   "id": "ms09_01:305:01",
@@ -7034,7 +7034,7 @@
   "id": "ms09_01:306:00",
   "speaker": "アンジー",
   "jp": "{px}に、ミンナ……\nそれにオカシラもいるって\n聞いたからネ。",
-  "en": "I heard {px} and\neveryone... and the Boss were here too."
+  "en": "I heard {px} and everyone...\nand the Boss were here too, ne."
  },
  {
   "id": "ms09_01:306:01",
@@ -7478,7 +7478,7 @@
   "id": "ms09_01:334:00",
   "speaker": "弥紀",
   "jp": "ふふっ、ありがとう。",
-  "en": "Hehe, thank you."
+  "en": "Hee hee, thank you."
  },
  {
   "id": "ms09_01:334:01",
@@ -8642,7 +8642,7 @@
   "id": "ms09_01:384:01",
   "speaker": "富樫",
   "jp": "やれやれ、子供に諭されて\n自分の職務を思い出すようでは\n私もまだまだ甘い。",
-  "en": "Good grief. If it takes a kid lecturing me to\nremember my own duty, I've still got a lot to learn."
+  "en": "Hah. If it takes a kid lecturing me to remember\nmy own duty, I've still got a lot to learn."
  },
  {
   "id": "ms09_01:384:02",
@@ -8654,7 +8654,7 @@
   "id": "ms09_01:385:00",
   "speaker": "富樫",
   "jp": "まったく……\nお前には負けるよ。",
-  "en": "Honestly... You win."
+  "en": "Hah... You win."
  },
  {
   "id": "ms09_01:386:00",
@@ -8678,7 +8678,7 @@
   "id": "ms09_01:387:01",
   "speaker": "富樫",
   "jp": "やれやれ、子供に怒鳴られて\n自分の職務を思い出すようでは\n私もまだまだ甘い。",
-  "en": "Good grief. If it takes a kid yelling at me to\nremember my own duty, I've still got a lot to learn."
+  "en": "Hah. If it takes a kid yelling at me to remember\nmy own duty, I've still got a lot to learn."
  },
  {
   "id": "ms09_01:387:02",
@@ -8828,7 +8828,7 @@
   "id": "ms09_01:391:16",
   "speaker": "伊佐地",
   "jp": "……やれやれ。\nやっと一息つけるな。",
-  "en": "...Good grief. Finally, a chance to catch my breath."
+  "en": "...Sheesh. Finally, a chance to catch my breath."
  },
  {
   "id": "ms09_01:391:17",
@@ -8852,7 +8852,7 @@
   "id": "ms09_01:392:00",
   "speaker": "伊佐地",
   "jp": "まったく、\nお前という奴は……。",
-  "en": "Honestly, you..."
+  "en": "Tch. You, I swear..."
  },
  {
   "id": "ms09_01:392:01",
@@ -8870,7 +8870,7 @@
   "id": "ms09_01:393:00",
   "speaker": "伊佐地",
   "jp": "まったく、\nお前という奴は……。",
-  "en": "Honestly, you..."
+  "en": "Tch. You, I swear..."
  },
  {
   "id": "ms09_01:393:01",
@@ -9164,7 +9164,7 @@
   "id": "ms09_01:403:10",
   "speaker": "いちる",
   "jp": "へへ……そっか。\nそうだよね！",
-  "en": "Hehe... I see. Of course not!"
+  "en": "Ehehe... I see. Of course not!"
  },
  {
   "id": "ms09_01:403:11",

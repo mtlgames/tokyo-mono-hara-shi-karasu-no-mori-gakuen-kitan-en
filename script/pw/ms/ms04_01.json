@@ -63,7 +63,7 @@
   "id": "ms04_01:002:10",
   "speaker": "アンジー",
   "jp": "あ……\nミンナ、ゴメン。\nまた今度ネ。",
-  "en": "Ah... Sorry, everybody. Another time, okay?"
+  "en": "Ah... Sorry, everybody. Another time, ne."
  },
  {
   "id": "ms04_01:002:11",
@@ -93,7 +93,7 @@
   "id": "ms04_01:002:15",
   "speaker": "アンジー",
   "jp": "ここで出会えたのは、\n{ruby:ＤＥＳＴＩＮＯ|う　　ん　　め　　い}かも\nしれないからネ。",
-  "en": "Because meeting here might be DESTINO--destiny."
+  "en": "Because meeting here might\nbe DESTINO--destiny, ne."
  },
  {
   "id": "ms04_01:003:00",
@@ -111,7 +111,7 @@
   "id": "ms04_01:004:01",
   "speaker": "アンジー",
   "jp": "結果が楽しみだネ！！",
-  "en": "I can't wait to see the result!!"
+  "en": "I cannot wait to see the result, ne!!"
  },
  {
   "id": "ms04_01:005:00",
@@ -123,7 +123,7 @@
   "id": "ms04_01:005:01",
   "speaker": "アンジー",
   "jp": "結果が楽しみだネ！！",
-  "en": "I can't wait to see the result!!"
+  "en": "I cannot wait to see the result, ne!!"
  },
  {
   "id": "ms04_01:006:00",
@@ -243,7 +243,7 @@
   "id": "ms04_01:014:01",
   "speaker": "アンジー",
   "jp": "でも、\nそのためには、まず過去だネ。",
-  "en": "But for that, first comes the past."
+  "en": "But for that, first comes the past, ne."
  },
  {
   "id": "ms04_01:014:02",
@@ -255,7 +255,7 @@
   "id": "ms04_01:015:00",
   "speaker": "アンジー",
   "jp": "アハッ、\n何だか想像がつくネ。",
-  "en": "Aha, somehow I can picture it."
+  "en": "Aha, somehow I can picture it, ne."
  },
  {
   "id": "ms04_01:015:01",
@@ -273,7 +273,7 @@
   "id": "ms04_01:015:03",
   "speaker": "アンジー",
   "jp": "セニョールをそういう風に\n育んだものがあったんだネ。",
-  "en": "Something raised you to be that way, senor."
+  "en": "So something raised you to be that way, ne, senor."
  },
  {
   "id": "ms04_01:016:00",
@@ -303,7 +303,7 @@
   "id": "ms04_01:017:02",
   "speaker": "アンジー",
   "jp": "何か、一つのものを\n目指してたみたいだネ。",
-  "en": "It seems you were aiming for one single thing."
+  "en": "It seems you were aiming for one single thing, ne."
  },
  {
   "id": "ms04_01:018:00",
@@ -315,7 +315,7 @@
   "id": "ms04_01:018:01",
   "speaker": "アンジー",
   "jp": "フーン……\n堅実で真面目だネ。",
-  "en": "Hmmm... Steady and serious, huh?"
+  "en": "Hmmm... Steady and serious, ne?"
  },
  {
   "id": "ms04_01:018:02",
@@ -339,7 +339,7 @@
   "id": "ms04_01:019:02",
   "speaker": "アンジー",
   "jp": "フフッ、何だかセニョールを\nよく示してる気がするネ。",
-  "en": "Hehe, somehow I feel it shows you well, senor."
+  "en": "Hehe, somehow I feel it shows you well, ne, senor."
  },
  {
   "id": "ms04_01:020:00",
@@ -357,7 +357,7 @@
   "id": "ms04_01:020:02",
   "speaker": "アンジー",
   "jp": "セニョールの人生は\n転換期を迎え、定められた運命\nに向かい始めたみたいだネ。",
-  "en": "It seems your life has reached a turning point,\nsenor, and begun heading toward a fixed destiny."
+  "en": "It seems your life has reached a turning point, senor,\nand begun heading toward a fixed destiny, ne."
  },
  {
   "id": "ms04_01:021:00",
@@ -471,7 +471,7 @@
   "id": "ms04_01:027:02",
   "speaker": "アンジー",
   "jp": "フフッ、\n充実してるみたいだネ？",
-  "en": "Hehe, it seems life is good for you, no?"
+  "en": "Hehe, it seems life is good for you, ne?"
  },
  {
   "id": "ms04_01:028:00",
@@ -567,7 +567,7 @@
   "id": "ms04_01:032:02",
   "speaker": "アンジー",
   "jp": "良いか悪いか……\nそれはまだわからないけどネ。",
-  "en": "Good or bad... that, we don't know yet."
+  "en": "Good or bad... that, we do not know yet, ne."
  },
  {
   "id": "ms04_01:032:03",
@@ -729,7 +729,7 @@
   "id": "ms04_01:039:02",
   "speaker": "アンジー",
   "jp": "そこが見えなさすぎて\n少し……怖いネ。",
-  "en": "I can't see your depths at all... It's a little... scary."
+  "en": "I cannot see your depths at\nall... It is a little... scary, ne."
  },
  {
   "id": "ms04_01:040:00",
@@ -753,13 +753,13 @@
   "id": "ms04_01:042:00",
   "speaker": "アンジー",
   "jp": "……フフッ。\nそういうところが本当に\nブランク、って感じかもネ。",
-  "en": "...Hehe. Maybe that's exactly what\nmakes you feel like a blank."
+  "en": "...Hehe. Maybe that is exactly what\nmakes you feel like a blank, ne."
  },
  {
   "id": "ms04_01:043:00",
   "speaker": "アンジー",
   "jp": "{ruby:Ｖａｙａ|あ　ら　ら}！！\nお気に召さなかった\nみたいだネ。",
-  "en": "Vaya!! Seems you didn't like it."
+  "en": "Vaya!! Seems you did not like it, ne."
  },
  {
   "id": "ms04_01:043:01",
@@ -771,7 +771,7 @@
   "id": "ms04_01:044:00",
   "speaker": "アンジー",
   "jp": "{ruby:Ｖａｙａ|あ　ら　ら}！！\nお気に召さなかった\nみたいだネ。",
-  "en": "Vaya!! Seems you didn't like it."
+  "en": "Vaya!! Seems you did not like it, ne."
  },
  {
   "id": "ms04_01:044:01",
@@ -783,7 +783,7 @@
   "id": "ms04_01:045:00",
   "speaker": "アンジー",
   "jp": "{ruby:Ｖａｙａ|あ　ら　ら}！！\nお気に召さなかった\nみたいだネ。",
-  "en": "Vaya!! Seems you didn't like it."
+  "en": "Vaya!! Seems you did not like it, ne."
  },
  {
   "id": "ms04_01:045:01",
@@ -801,13 +801,13 @@
   "id": "ms04_01:046:01",
   "speaker": "アンジー",
   "jp": "占いはただの占い。\n信じる信じないは、\nセニョールの自由だからネ。",
-  "en": "A fortune is just a fortune. To\nbelieve it or not is up to you, senor."
+  "en": "A fortune is just a fortune. To believe\nit or not is up to you, senor, ne."
  },
  {
   "id": "ms04_01:047:00",
   "speaker": "アンジー",
   "jp": "んー、残念。\n全然興味ナイって顔だネ。",
-  "en": "Mmm, too bad. Your face says\nyou're not interested at all."
+  "en": "Mmm, too bad. Your face says\nyou are not interested at all, ne."
  },
  {
   "id": "ms04_01:048:00",
@@ -855,7 +855,7 @@
   "id": "ms04_01:048:07",
   "speaker": "燈治",
   "jp": "何が{ruby:白　札|ブランクカード}だよ。\nタロットにまで\nそんなもんが―――",
-  "en": "White Card--\"blank card,\" my ass. Since when\ndo tarot decks even have somethin' like--"
+  "en": "\"White Card,\" my ass. Since when do\ntarot decks even have somethin' like--"
  },
  {
   "id": "ms04_01:048:08",
@@ -1316,7 +1316,7 @@
   "id": "ms04_01:070:00",
   "speaker": "弥紀",
   "jp": "……ふふ、それどころじゃ\nないって感じだね。",
-  "en": "...Hehe, looks like you've got\nbigger things on your mind."
+  "en": "...Hee hee, looks like you've got\nbigger things on your mind."
  },
  {
   "id": "ms04_01:070:01",
@@ -1796,7 +1796,7 @@
   "id": "ms04_01:085:01",
   "speaker": "弥紀",
   "jp": "ふふ、楽しみだな、\nカナエさんに会えるの。",
-  "en": "Hehe, I can't wait to see Kanae-san."
+  "en": "Hee hee, I can't wait to see Kanae-san."
  },
  {
   "id": "ms04_01:085:02",
@@ -1988,7 +1988,7 @@
   "id": "ms04_01:100:00",
   "speaker": "朝子",
   "jp": "ふふッ、休み時間も\nとても楽しそうだものね。",
-  "en": "Hehe. You certainly look like\nyou're having fun during breaks."
+  "en": "Hee hee. You certainly look like\nyou're having fun during breaks."
  },
  {
   "id": "ms04_01:100:01",
@@ -2138,7 +2138,7 @@
   "id": "ms04_01:112:00",
   "speaker": "朝子",
   "jp": "ふふッ、そんな顔されたら\n余計な心配なんて\n吹き飛んじゃったわ。",
-  "en": "Hehe. One look at that face and all\nmy needless worrying just blew away."
+  "en": "Hee hee. One look at that face and all\nmy needless worrying just blew away."
  },
  {
   "id": "ms04_01:113:00",
@@ -2262,7 +2262,7 @@
   "id": "ms04_01:120:06",
   "speaker": "久榮",
   "jp": "{ruby:図書室関係|・・・・・}だ。\nキミなら適任だろ。",
-  "en": "it's library business. You're the right person for it."
+  "en": "it's LIBRARY business. You're the right person for it."
  },
  {
   "id": "ms04_01:120:07",
@@ -2334,7 +2334,7 @@
   "id": "ms04_01:121:10",
   "speaker": "巴",
   "jp": "本人を問い詰めようにも\nさっさと帰っちゃった\nみたいだし。",
-  "en": "We'd grill the guy himself, but it\nlooks like he already went home."
+  "en": "We'd grill the girl herself, but it\nlooks like she already went home."
  },
  {
   "id": "ms04_01:121:11",
@@ -2730,7 +2730,7 @@
   "id": "ms04_01:143:00",
   "speaker": "蒐",
   "jp": "四角は、\n嬉しい、ね。\n……くふふ。",
-  "en": "Squares... make me happy. ...Kufufu."
+  "en": "Squares, make me happy, yeah. ...Kufufu."
  },
  {
   "id": "ms04_01:144:00",
@@ -2982,7 +2982,7 @@
   "id": "ms04_01:166:00",
   "speaker": "蒐",
   "jp": "魔女……。\n知らないもの、知ってる人。\n心の隙間……つけこむ人。",
-  "en": "A witch... is someone who knows what others don't.\nSomeone who... slips into the cracks in your heart."
+  "en": "A witch... someone who knows, things others don't.\nSomeone who... slips into, the cracks in your heart."
  },
  {
   "id": "ms04_01:166:01",
@@ -2994,7 +2994,7 @@
   "id": "ms04_01:166:02",
   "speaker": "蒐",
   "jp": "四角は、揺れない。\n全部……まっすぐ。",
-  "en": "Squares don't waver. Everything\nabout them... is straight."
+  "en": "Squares, don't waver. All of it... straight."
  },
  {
   "id": "ms04_01:166:03",
@@ -3042,13 +3042,13 @@
   "id": "ms04_01:169:01",
   "speaker": "アンジー",
   "jp": "……もう手遅れカモ\nだけど、ネ？",
-  "en": "...Though maybe it's already too late, hm?"
+  "en": "...Though maybe it is already too late, ne?"
  },
  {
   "id": "ms04_01:170:00",
   "speaker": "アンジー",
   "jp": "アハッ、\nセニョールは無邪気だネ。",
-  "en": "Ahah, Senor, you're so innocent."
+  "en": "Ahah, Senor, you are so innocent, ne."
  },
  {
   "id": "ms04_01:170:01",
@@ -3060,7 +3060,7 @@
   "id": "ms04_01:171:00",
   "speaker": "アンジー",
   "jp": "アハッ、\n情熱的だネ！！",
-  "en": "Ahah, how passionate!!"
+  "en": "Ahah, how passionate, ne!!"
  },
  {
   "id": "ms04_01:171:01",
@@ -3072,7 +3072,7 @@
   "id": "ms04_01:172:00",
   "speaker": "アンジー",
   "jp": "アハッ、さすがだネ。",
-  "en": "Ahah, just like you."
+  "en": "Ahah, just like you, ne."
  },
  {
   "id": "ms04_01:173:00",
@@ -3132,7 +3132,7 @@
   "id": "ms04_01:178:00",
   "speaker": "アンジー",
   "jp": "急に呼び出して、\nゴメンネ。",
-  "en": "Sorry for calling you out so suddenly."
+  "en": "Sorry for calling you out so suddenly, ne."
  },
  {
   "id": "ms04_01:178:01",
@@ -3144,7 +3144,7 @@
   "id": "ms04_01:178:02",
   "speaker": "アンジー",
   "jp": "誰かに先を越されちゃう前に\n言わなきゃ、ってネ。",
-  "en": "I had to say it before somebody\nelse beat me to it, you know?"
+  "en": "I had to say it before somebody\nelse beat me to it, ne?"
  },
  {
   "id": "ms04_01:178:03",
@@ -3198,7 +3198,7 @@
   "id": "ms04_01:184:00",
   "speaker": "アンジー",
   "jp": "ゴメン、\n迷惑……だったよネ？",
-  "en": "Sorry... I was a bother... wasn't I?"
+  "en": "Sorry... I was a bother... ne?"
  },
  {
   "id": "ms04_01:184:01",
@@ -3210,7 +3210,7 @@
   "id": "ms04_01:185:00",
   "speaker": "アンジー",
   "jp": "アハッ、\n意外と強引だネ。",
-  "en": "Ahah, you're pushier than I thought."
+  "en": "Ahah, you are pushier than I thought, ne."
  },
  {
   "id": "ms04_01:185:01",
@@ -3222,7 +3222,7 @@
   "id": "ms04_01:186:00",
   "speaker": "アンジー",
   "jp": "迷惑……だったよネ？",
-  "en": "I was a bother... wasn't I?"
+  "en": "I was a bother... ne?"
  },
  {
   "id": "ms04_01:186:01",
@@ -3312,7 +3312,7 @@
   "id": "ms04_01:192:00",
   "speaker": "アンジー",
   "jp": "セニョールは、\nとってもステキなヒトだネ。",
-  "en": "Senor, you're a really wonderful person."
+  "en": "Senor, you are a really wonderful person, ne."
  },
  {
   "id": "ms04_01:192:01",
@@ -3348,7 +3348,7 @@
   "id": "ms04_01:196:01",
   "speaker": "アンジー",
   "jp": "本当に……\nいいのネ……？",
-  "en": "Are you really... sure...?"
+  "en": "You are really... sure... ne...?"
  },
  {
   "id": "ms04_01:196:02",
@@ -3396,31 +3396,31 @@
   "id": "ms04_01:198:02",
   "speaker": "アンジー",
   "jp": "まさか全然\n引っかからないなんて、\n思ったよりも、手強いネ？",
-  "en": "I never thought you wouldn't fall for it\nat all. You're tougher than I thought, hm?"
+  "en": "I never thought you would not fall for it\nat all. You are tougher than I thought, ne?"
  },
  {
   "id": "ms04_01:199:00",
   "speaker": "アンジー",
   "jp": "アハハッ、\nそう言うヒトなら、\n簡単て思ってたんだけどネ。",
-  "en": "Ahaha, I figured someone who talks\nlike that would be easy, you know."
+  "en": "Ahaha, I figured someone who\ntalks like that would be easy, ne."
  },
  {
   "id": "ms04_01:200:00",
   "speaker": "アンジー",
   "jp": "アハハッ、\n笑ってる場合じゃないのに、\n面白いヒトだネ。",
-  "en": "Ahaha, this is no time to be\nlaughing, but you're a funny one."
+  "en": "Ahaha, this is no time to be laughing,\nbut you are a funny one, ne."
  },
  {
   "id": "ms04_01:201:00",
   "speaker": "アンジー",
   "jp": "……フフッ、\nホントに厄介なヒトだネ。",
-  "en": "...Hehe. You really are a troublesome one."
+  "en": "...Hehe. You really are a troublesome one, ne."
  },
  {
   "id": "ms04_01:202:00",
   "speaker": "アンジー",
   "jp": "フフッ、セニョールのコト、\nちょっと甘く見てたネ。",
-  "en": "Hehe. I underestimated you a little, Senor."
+  "en": "Hehe. I underestimated you a little, Senor, ne."
  },
  {
   "id": "ms04_01:203:00",
@@ -3455,7 +3455,7 @@
   "id": "ms04_01:205:01",
   "speaker": "アンジー",
   "jp": "……これからは\n気をつけなきゃネ。",
-  "en": "...I'll have to be careful from now on."
+  "en": "...I will have to be careful from now on, ne."
  },
  {
   "id": "ms04_01:206:00",
@@ -3497,7 +3497,7 @@
   "id": "ms04_01:208:02",
   "speaker": "アンジー",
   "jp": "{ruby:Ａｂｕｅｌａ|お　ば　あ　ち　ゃ　ん}に誓ったの。\n{ruby:ＢＲＵＪＡ|ま　　じ　　ょ}の誓いは絶対―――",
-  "en": "I swore it to my grandma.\nA witch's oath is absolute--"
+  "en": "I swore it to my abuela. A witch's oath is absolute--"
  },
  {
   "id": "ms04_01:208:03",
@@ -3527,7 +3527,7 @@
   "id": "ms04_01:209:01",
   "speaker": "アンジー",
   "jp": "{ruby:Ａｂｕｅｌａ|お　ば　あ　ち　ゃ　ん}に誓ったからネ。\n{ruby:ＢＲＵＪＡ|ま　　じ　　ょ}の誓いは、絶対。\nそして―――",
-  "en": "Because I swore it to my grandma.\nA witch's oath is absolute. And--"
+  "en": "Because I swore it to my abuela, ne.\nA witch's oath is absolute. And--"
  },
  {
   "id": "ms04_01:209:02",
@@ -3557,7 +3557,7 @@
   "id": "ms04_01:210:02",
   "speaker": "アンジー",
   "jp": "何か……強い思念の\n宿ったモノを持ってるネ？",
-  "en": "You've got something... with a\nstrong will dwelling in it, huh?"
+  "en": "You have something... with a\nstrong will dwelling in it, ne?"
  },
  {
   "id": "ms04_01:210:03",
@@ -3587,7 +3587,7 @@
   "id": "ms04_01:212:02",
   "speaker": "白",
   "jp": "やれやれ。\nこんなところで\n何をしているかと思えば……。",
-  "en": "Good grief. Here I wondered what\nyou were up to in a place like this..."
+  "en": "Tsk. Here I wondered what you\nwere up to in a place like this..."
  },
  {
   "id": "ms04_01:212:03",
@@ -3623,7 +3623,7 @@
   "id": "ms04_01:212:08",
   "speaker": "燈治",
   "jp": "道理が通った以上―――\n女でも、容赦はしねェぜ。",
-  "en": "Now that we know the score-- I won't\ngo easy on you, even if you're a girl."
+  "en": "Long as I've got good reason-- I won't\ngo easy on you, even if you're a girl."
  },
  {
   "id": "ms04_01:212:09",
@@ -3641,7 +3641,7 @@
   "id": "ms04_01:212:11",
   "speaker": "アンジー",
   "jp": "{px}は……\nやっぱりヒーローかもネ？",
-  "en": "Maybe {px}\nreally is a hero after all, hm?"
+  "en": "Maybe {px}\nreally is a hero after all, ne?"
  },
  {
   "id": "ms04_01:212:12",
@@ -3659,7 +3659,7 @@
   "id": "ms04_01:212:14",
   "speaker": "アンジー",
   "jp": "アナタが{ruby:白　札|ブランクカード}！？\nフフッ、どうやらウワサ以上の\nオタカラみたいだネ。",
-  "en": "You're the White Card--the \"blank\ncard\"!? Hehe, looks like you're even\nmore of a treasure than the rumors said."
+  "en": "You are the White Card--the \"blank\ncard\"!? Hehe, looks like you are even more\nof a treasure than the rumors said, ne."
  },
  {
   "id": "ms04_01:212:15",
@@ -3671,7 +3671,7 @@
   "id": "ms04_01:212:16",
   "speaker": "アンジー",
   "jp": "鬼印盗賊団が一人―――\n{ruby:血色の魔女|サングレ・ブルーハ}。",
-  "en": "One of the Oni Mark Bandits-- the Sangre Bruja."
+  "en": "One of the Oni Mark Bandits--\nSangre Bruja, the Blood-Red Witch."
  },
  {
   "id": "ms04_01:212:17",
@@ -3707,7 +3707,7 @@
   "id": "ms04_01:212:22",
   "speaker": "アンジー",
   "jp": "ウチにも優秀な\n情報通がいるからネ。",
-  "en": "We've got a pretty good info expert on our side, too."
+  "en": "We have a pretty good info\nexpert on our side too, ne."
  },
  {
   "id": "ms04_01:212:23",
@@ -4085,7 +4085,7 @@
   "id": "ms04_01:224:00",
   "speaker": "いちる",
   "jp": "えへへ……久しぶりッ！！",
-  "en": "Hehe... Long time no see!!"
+  "en": "Ehehe... Long time no see!!"
  },
  {
   "id": "ms04_01:225:00",
@@ -4109,7 +4109,7 @@
   "id": "ms04_01:226:01",
   "speaker": "いちる",
   "jp": "えへへ……。\n元気そうでよかった。",
-  "en": "Hehe... I'm glad you're doing well."
+  "en": "Ehehe... I'm glad you're doing well."
  },
  {
   "id": "ms04_01:227:00",
@@ -4205,7 +4205,7 @@
   "id": "ms04_01:234:03",
   "speaker": "伊佐地",
   "jp": "{ruby:刮目|かつもく}して見よ、だ。\nまったく……。",
-  "en": "\"With fresh eyes.\" Honestly..."
+  "en": "\"With fresh eyes.\" Tch, kids..."
  },
  {
   "id": "ms04_01:234:04",
@@ -4583,7 +4583,7 @@
   "id": "ms04_01:248:00",
   "speaker": "伊佐地",
   "jp": "やれやれ……。\nお前の器は底なしか？",
-  "en": "Good grief... Is there no bottom to you?"
+  "en": "Tch... Is there no limit to what you can handle?"
  },
  {
   "id": "ms04_01:248:01",
@@ -4685,7 +4685,7 @@
   "id": "ms04_01:255:00",
   "speaker": "伊佐地",
   "jp": "心配しなくても、\nお前の能力は俺が保証する。",
-  "en": "Don't worry. I'll vouch for your abilities."
+  "en": "Don't worry. You've got the ability. I guarantee it."
  },
  {
   "id": "ms04_01:255:01",
@@ -4697,7 +4697,7 @@
   "id": "ms04_01:256:00",
   "speaker": "伊佐地",
   "jp": "心配しなくても、\nお前の能力は俺が保証する。",
-  "en": "Don't worry. I'll vouch for your abilities."
+  "en": "Don't worry. You've got the ability. I guarantee it."
  },
  {
   "id": "ms04_01:256:01",
@@ -4757,7 +4757,7 @@
   "id": "ms04_01:258:06",
   "speaker": "弥紀",
   "jp": "みんな一緒だから……\nきっと、大丈夫です。",
-  "en": "We're all in this together... so I'm sure it'll be okay."
+  "en": "As long as we're all together... I'm sure we'll be okay."
  },
  {
   "id": "ms04_01:258:07",
@@ -5151,7 +5151,7 @@
   "id": "ms04_01:269:03",
   "speaker": "澁川",
   "jp": "少し、遅すぎる。",
-  "en": "he's taking a little too long."
+  "en": "he's taking... a little too long."
  },
  {
   "id": "ms04_01:269:04",

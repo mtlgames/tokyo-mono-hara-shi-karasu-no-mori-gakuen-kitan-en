@@ -57,13 +57,13 @@
   "id": "dg07_00:002:02",
   "speaker": "弥紀",
   "jp": "ふふ、その笑顔を見たら\nすごくほっとしちゃった。",
-  "en": "Hehe, seeing that smile made me feel so relieved."
+  "en": "Hee hee, seeing that smile made me feel so relieved."
  },
  {
   "id": "dg07_00:003:00",
   "speaker": "弥紀",
   "jp": "ふふ、{px}、\nすごく格好良い。",
-  "en": "Hehe, {px}, you look really cool."
+  "en": "Hee hee, {px}, you look really cool."
  },
  {
   "id": "dg07_00:003:01",
@@ -171,7 +171,7 @@
   "id": "dg07_00:010:02",
   "speaker": "アンジー",
   "jp": "そろそろ\nアンたちの相手も\nしてくれないとネ！",
-  "en": "It's about time you played with us too, okay!"
+  "en": "It is about time you played\nwith Angie and friends too, ne!"
  },
  {
   "id": "dg07_00:010:03",
@@ -213,7 +213,7 @@
   "id": "dg07_00:010:09",
   "speaker": "アンジー",
   "jp": "さあ、ここからは\n{ruby:Ｎｅｇｏｃｉｏ|お　　し　　ご　　と}だヨ。\n単純明快にやろうネ。",
-  "en": "Now then, from here on it's negocio--business.\nLet's keep it nice and simple, okay."
+  "en": "Now then, from here on it is negocio--business.\nLet's keep it nice and simple, ne."
  },
  {
   "id": "dg07_00:010:10",
@@ -225,31 +225,31 @@
   "id": "dg07_00:010:11",
   "speaker": "アンジー",
   "jp": "わかるよネ？",
-  "en": "You get it, right?"
+  "en": "You get it, ne?"
  },
  {
   "id": "dg07_00:011:00",
   "speaker": "アンジー",
   "jp": "{ruby:Ｍａｒａｖｉｌｌａ|ス　　　テ　　　キ}！！\nアミーゴはイイコだネ。",
-  "en": "Maravilla!! Amigo is such a good kid."
+  "en": "Maravilla!! Amigo is such a good kid, ne."
  },
  {
   "id": "dg07_00:012:00",
   "speaker": "アンジー",
   "jp": "Ｓｉ！！\nこれでお互いミンナ\n{ruby:Ｆｅｌｉｚ|ハッピー}だネ！",
-  "en": "Si!! Now everybody's feliz, okay!"
+  "en": "Si!! Now everybody is feliz, ne!"
  },
  {
   "id": "dg07_00:013:00",
   "speaker": "アンジー",
   "jp": "アハッ！\n渡す気マンマンなんて\n面白いネ？",
-  "en": "Aha! So eager to hand them over? How funny!"
+  "en": "Aha! So eager to hand them over? How funny, ne?"
  },
  {
   "id": "dg07_00:014:00",
   "speaker": "アンジー",
   "jp": "さすが、アミーゴ。\n話が早いネッ！",
-  "en": "That's my amigo. You catch on quick!"
+  "en": "That is my amigo. You catch on quick, ne!"
  },
  {
   "id": "dg07_00:015:00",
@@ -363,7 +363,7 @@
   "id": "dg07_00:022:05",
   "speaker": "アンジー",
   "jp": "{px}は、\n花札を床に置いて\n一旦下がってネ。",
-  "en": "{px}, put the hanafuda on\nthe floor and step back for a bit, okay."
+  "en": "{px}, put the hanafuda\non the floor and step back for a bit, ne."
  },
  {
   "id": "dg07_00:022:06",
@@ -381,7 +381,7 @@
   "id": "dg07_00:022:08",
   "speaker": "アンジー",
   "jp": "ンー、これなら\n{ruby:アンとミギーにとっても|・・・・・・・・・・・}\n公平だと思うケド？",
-  "en": "Mmm, Angie thinks this way is fair\neven for Angie AND Miggy, though?"
+  "en": "Mmm, this way, it is fair even\nfor Angie AND Miggy, no?"
  },
  {
   "id": "dg07_00:023:00",
@@ -549,7 +549,7 @@
   "id": "dg07_00:037:00",
   "speaker": "アンジー",
   "jp": "Ｓｉ！\nそのまま後ろに下がってネ。",
-  "en": "Si! Now just step on back, okay."
+  "en": "Si! Now just step on back, ne."
  },
  {
   "id": "dg07_00:037:01",
@@ -771,7 +771,7 @@
   "id": "dg07_00:048:04",
   "speaker": "白",
   "jp": "札はまた取り戻せばよい。\nじゃが……其方の身は\n取り返しがつかぬ。",
-  "en": "The cards can be won back.\nBut... you cannot be replaced."
+  "en": "The cards can be won back. But...\nwhat befalls you cannot be undone."
  },
  {
   "id": "dg07_00:048:05",
@@ -801,7 +801,7 @@
   "id": "dg07_00:048:09",
   "speaker": "アンジー",
   "jp": "{ruby:Ｖａｙａ|あ　ら　ら}！！\nそこでよそ見なんて、ミギーも\n正気の沙汰じゃないネ。",
-  "en": "Vaya!! Looking away at a time like that?\nYou're not in your right mind either, Miggy."
+  "en": "Vaya!! Looking away at a time like that? Miggy,\nyou are not in your right mind either, ne."
  },
  {
   "id": "dg07_00:048:10",
@@ -813,7 +813,7 @@
   "id": "dg07_00:048:11",
   "speaker": "アンジー",
   "jp": "この力さえあれば、\nアンも一人前の{ruby:ＢＲＵＪＡ|ま　　じ　　ょ}。\nアイツラの好きにはさせナイ。",
-  "en": "With this power, Angie's a full-fledged\nBRUJA. I won't let those guys have their way."
+  "en": "With this power, Angie is a full-fledged BRUJA.\nAngie will not let those guys have their way."
  },
  {
   "id": "dg07_00:048:12",
@@ -951,7 +951,7 @@
   "id": "dg07_00:052:02",
   "speaker": "アンジー",
   "jp": "せっかく{ruby:穏便|スマート}に\n済ませようとしたのに、\n結局こうなるのネ。",
-  "en": "Angie tried to settle this the smart way,\nand it still ended up like this, huh."
+  "en": "Angie tried to settle this the smart\nway, and it still ended up like this, ne."
  },
  {
   "id": "dg07_00:052:03",
@@ -981,7 +981,7 @@
   "id": "dg07_00:052:07",
   "speaker": "アンジー",
   "jp": "望むところダヨ。\nそれで力が手に入るならネ。",
-  "en": "Bring it on. If that gets Angie the power, fine."
+  "en": "Bring it on--if that gets Angie the power, ne."
  },
  {
   "id": "dg07_00:052:08",

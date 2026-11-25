@@ -51,7 +51,7 @@
   "id": "ms08_03:003:00",
   "speaker": "巴",
   "jp": "あーもう、暑苦しいのは\n後にしなさい、後に！",
-  "en": "Ugh, save the mushy stuff for later, later!"
+  "en": "Ugh, save all the hot-blooded stuff for later, later!"
  },
  {
   "id": "ms08_03:004:00",
@@ -171,19 +171,19 @@
   "id": "ms08_03:011:00",
   "speaker": "長英",
   "jp": "おお、{px}！\n無事じゃったか！！",
-  "en": "Ohh, {px}! Ya made it out safe!!"
+  "en": "Ohh, {px}! Ye made it out safe!!"
  },
  {
   "id": "ms08_03:011:01",
   "speaker": "長英",
   "jp": "何ぞ怪しげな奴らに\n追われてる、聞いて\n肝が冷えとったんじゃ。",
-  "en": "I heard ya were bein' chased by some\nshady types, an' my blood ran cold."
+  "en": "I heard ye were bein' chased by some\nshady types, an' my blood ran cold."
  },
  {
   "id": "ms08_03:011:02",
   "speaker": "長英",
   "jp": "このまま行方が知れんかったら\nあいつらに{ruby:殴り込|カ　チ　コ}み\nかけてるとこじゃったわ！！",
-  "en": "If we'd lost track of ya much longer, I'd\nhave gone stormin' in on those guys!!"
+  "en": "If we'd lost track of ye much longer, I'd\nhave gone stormin' in on those guys!!"
  },
  {
   "id": "ms08_03:012:00",
@@ -195,7 +195,7 @@
   "id": "ms08_03:012:01",
   "speaker": "長英",
   "jp": "先輩に受けた恩に比べりゃあ、\n何千回{ruby:殴り込|カ　チ　コ}んでも\n足りんのじゃあ！",
-  "en": "Next to the debt I owe ya, senpai, I could storm\nin a thousand times an' it wouldn't be enough!"
+  "en": "Next to the debt I owe ye, senpai, I could storm\nin a thousand times an' it wouldn't be enough!"
  },
  {
   "id": "ms08_03:013:00",
@@ -213,13 +213,13 @@
   "id": "ms08_03:014:00",
   "speaker": "長英",
   "jp": "わはは！\nさすがは{px}じゃあ！！",
-  "en": "Wahaha! That's {px} for ya!!"
+  "en": "Wahaha! That's {px} for ye!!"
  },
  {
   "id": "ms08_03:014:01",
   "speaker": "長英",
   "jp": "わしも{ruby:安芸|あ　き}の漢の心意気、\n{px}の為なら\nいつでも見せますけェ！",
-  "en": "For your sake, {px}, I'll show\nya the spirit of a man of Aki anytime!"
+  "en": "For yer sake, {px}, I'll show\nye the spirit of a man of Aki anytime!"
  },
  {
   "id": "ms08_03:015:00",
@@ -231,7 +231,7 @@
   "id": "ms08_03:015:01",
   "speaker": "長英",
   "jp": "勿論、{px}に\n何かあったら、タダじゃあ\nおかないとこでしたけェ。",
-  "en": "O' course, if anythin' had happened to ya,\n{px}, they'd have paid for it, y'hear."
+  "en": "O' course, if anythin' had happened to ye,\n{px}, they'd have paid for it, y'hear."
  },
  {
   "id": "ms08_03:016:00",
@@ -243,7 +243,7 @@
   "id": "ms08_03:016:01",
   "speaker": "長英",
   "jp": "すいやせん！！\nちィとばかし\n気が逸ってたけェ……。",
-  "en": "Sorry!! I got a wee bit carried away, I did..."
+  "en": "Sorry!! I got a little carried away, I did..."
  },
  {
   "id": "ms08_03:016:02",
@@ -255,7 +255,7 @@
   "id": "ms08_03:017:00",
   "speaker": "長英",
   "jp": "うおッ、さすがは{px}、\n冷静じゃのう。",
-  "en": "Whoa, that's {px}\nfor ya. Cool as anything."
+  "en": "Whoa, that's {px}\nfor ye. Cool as anything."
  },
  {
   "id": "ms08_03:017:01",
@@ -1167,7 +1167,7 @@
   "id": "ms08_03:069:06",
   "speaker": "弥紀",
   "jp": "ふふ。\nじゃあわたしたち、\n後ろ向いてるからね。",
-  "en": "Hehe. Then we'll all turn around, okay?"
+  "en": "Hee hee. Then we'll all turn around, okay?"
  },
  {
   "id": "ms08_03:069:07",
@@ -1239,7 +1239,7 @@
   "id": "ms08_03:072:01",
   "speaker": "巴",
   "jp": "何だっていいけど、\nアンタが手伝って早く済むなら\nそうしなさいよ。",
-  "en": "Whatever. If you helping gets\nit done faster, then do it."
+  "en": "Whatever. If it gets done faster\nwith your help, then help."
  },
  {
   "id": "ms08_03:073:00",
@@ -1263,7 +1263,7 @@
   "id": "ms08_03:074:01",
   "speaker": "巴",
   "jp": "何だっていいけど、\nアンタが手伝って早く済むなら\nそうしなさいよ。",
-  "en": "Whatever. If you helping gets\nit done faster, then do it."
+  "en": "Whatever. If it gets done faster\nwith your help, then help."
  },
  {
   "id": "ms08_03:075:00",
@@ -1335,7 +1335,7 @@
   "id": "ms08_03:079:01",
   "speaker": "巴",
   "jp": "何だっていいけど、\nアンタが手伝って早く済むなら\nそうしなさいよ。",
-  "en": "Whatever. If you helping gets\nit done faster, then do it."
+  "en": "Whatever. If it gets done faster\nwith your help, then help."
  },
  {
   "id": "ms08_03:080:00",
@@ -1563,7 +1563,7 @@
   "id": "ms08_03:093:00",
   "speaker": "弥紀",
   "jp": "……ふふっ。",
-  "en": "...Hehe."
+  "en": "...Hee hee."
  },
  {
   "id": "ms08_03:093:01",
@@ -2175,7 +2175,7 @@
   "id": "ms08_03:108:10",
   "speaker": "蒐",
   "jp": "お導き、あればこそ。",
-  "en": "All thanks to guidance."
+  "en": "Only thanks to, guidance."
  },
  {
   "id": "ms08_03:108:11",
@@ -2187,7 +2187,7 @@
   "id": "ms08_03:109:00",
   "speaker": "蒐",
   "jp": "ぼくも、協力。\n正しい四角のために、ね。",
-  "en": "I'll help, too. For the sake of proper squares."
+  "en": "I'll help, too. ...For proper squares."
  },
  {
   "id": "ms08_03:110:00",
@@ -2205,7 +2205,7 @@
   "id": "ms08_03:111:00",
   "speaker": "蒐",
   "jp": "おお～、\n四角く歓迎。",
-  "en": "Ohh... A square welcome."
+  "en": "Ohh, a square welcome."
  },
  {
   "id": "ms08_03:111:01",
@@ -2223,7 +2223,7 @@
   "id": "ms08_03:112:01",
   "speaker": "蒐",
   "jp": "燃え尽きない程度に、\n四角、頑張る。",
-  "en": "I'll try my square best. Short of burning out."
+  "en": "Without burning out, I'll do my best. Squarely."
  },
  {
   "id": "ms08_03:113:00",
@@ -2247,7 +2247,7 @@
   "id": "ms08_03:115:00",
   "speaker": "蒐",
   "jp": "手伝い、いらない？",
-  "en": "You don't want help?"
+  "en": "Help, you don't need any?"
  },
  {
   "id": "ms08_03:115:01",
@@ -2265,7 +2265,7 @@
   "id": "ms08_03:116:01",
   "speaker": "蒐",
   "jp": "これはぼくの、\n四角い、意志。",
-  "en": "This is my square will."
+  "en": "This is my, square, will."
  },
  {
   "id": "ms08_03:116:02",
@@ -2277,7 +2277,7 @@
   "id": "ms08_03:117:00",
   "speaker": "蒐",
   "jp": "だいじょぶ。\n四角の、範囲で。",
-  "en": "It's fine. Within square limits."
+  "en": "It's fine. Within, square limits."
  },
  {
   "id": "ms08_03:118:00",

@@ -3,7 +3,7 @@
   "id": "fd11_05:001:00",
   "speaker": "長英",
   "jp": "おおッ、こがァなとこまで来て\nくれるたァ、教室に残っとった\n甲斐があったのう。",
-  "en": "Ohh! You came all the way out here! Stickin'\naround in the classroom paid off after all."
+  "en": "Ohh! Ye came all the way out here! Stickin'\naround in the classroom paid off after all."
  },
  {
   "id": "fd11_05:001:01",
@@ -21,7 +21,7 @@
   "id": "fd11_05:001:03",
   "speaker": "長英",
   "jp": "……うーむ。\nどがァしたら、繋がって四角に\n折れるんじゃ……？",
-  "en": "...Hrmm. How in blazes d'ya fold\nthese so the squares all link up...?"
+  "en": "...Hrmm. How in blazes d'ye fold\nthese so the squares all link up...?"
  },
  {
   "id": "fd11_05:001:04",
@@ -33,7 +33,7 @@
   "id": "fd11_05:001:05",
   "speaker": "長英",
   "jp": "チマチマチマチマッ……！！\nなんじゃわりゃあッ！！",
-  "en": "Fiddly, fiddly, fiddly, FIDDLY...!!\nWhat's your damn problem, huh!!"
+  "en": "Fiddly, fiddly, fiddly, FIDDLY...!!\nWhat's yer damn problem, huh!!"
  },
  {
   "id": "fd11_05:001:06",
@@ -45,25 +45,25 @@
   "id": "fd11_05:001:07",
   "speaker": "長英",
   "jp": "……{px}。\n一生のお願いじゃ。",
-  "en": "...{px}. I'm beggin'\nyou, just this once in my life."
+  "en": "...{px}. I'm beggin'\nye, just this once in my life."
  },
  {
   "id": "fd11_05:002:00",
   "speaker": "長英",
   "jp": "蒐には内緒に\nしてくれんかのう……？",
-  "en": "Could ya keep this a secret from Shu...?"
+  "en": "Could ye keep this a secret from Shu...?"
  },
  {
   "id": "fd11_05:003:00",
   "speaker": "長英",
   "jp": "{px}のお言葉が、\nいつにも増して\n胸に染みやすッ。",
-  "en": "Your words hit me right in the heart,\n{px}, more'n ever."
+  "en": "Yer words hit me right in the heart,\n{px}, more'n ever."
  },
  {
   "id": "fd11_05:003:01",
   "speaker": "長英",
   "jp": "はあァ……蒐のヤツにも\nこれくらいの度量がありゃあ\nええんじゃが……。",
-  "en": "Haaah... If only Shu had half your big heart..."
+  "en": "Haaah... If only Shu had half yer big heart..."
  },
  {
   "id": "fd11_05:003:02",
@@ -75,7 +75,7 @@
   "id": "fd11_05:004:00",
   "speaker": "長英",
   "jp": "わ、笑い事じゃないんじゃッ！\n{px}は蒐の\n{ruby:アレ|・・}を知らんから……。",
-  "en": "Th-this ain't no laughin' matter! You ain't never seen\nShu when he gets like THAT, {px}..."
+  "en": "Th-this ain't no laughin' matter! Ye ain't never seen\nShu when he gets like THAT, {px}..."
  },
  {
   "id": "fd11_05:004:01",
@@ -87,25 +87,25 @@
   "id": "fd11_05:004:02",
   "speaker": "長英",
   "jp": "絶対に秘密にしてつかァさい！\n男と男の約束じゃぞ！？",
-  "en": "Keep it secret, I'm beggin' ya! This\nis a promise between men, y'hear!?"
+  "en": "Keep it secret, I'm beggin' ye! This\nis a promise between men, y'hear!?"
  },
  {
   "id": "fd11_05:005:00",
   "speaker": "長英",
   "jp": "恩に着るけェ……。",
-  "en": "I owe ya big..."
+  "en": "I owe ye big..."
  },
  {
   "id": "fd11_05:005:01",
   "speaker": "長英",
   "jp": "はァ……。\n{px}との\n約束じゃったら安心じゃの。",
-  "en": "Phew... If it's a promise with you,\n{px}, I can rest easy."
+  "en": "Phew... If it's a promise with ye,\n{px}, I can rest easy."
  },
  {
   "id": "fd11_05:006:00",
   "speaker": "長英",
   "jp": "い、一生のお願いじゃ！！",
-  "en": "I-I'm beggin' ya, just this once in my life!!"
+  "en": "I-I'm beggin' ye, just this once in my life!!"
  },
  {
   "id": "fd11_05:006:01",
@@ -135,7 +135,7 @@
   "id": "fd11_05:008:00",
   "speaker": "長英",
   "jp": "確かに、{px}の\nおっしゃる通りじゃ……。",
-  "en": "You're right, {px}, sure as anything..."
+  "en": "Ye're right, {px}, sure as anything..."
  },
  {
   "id": "fd11_05:008:01",
@@ -147,7 +147,7 @@
   "id": "fd11_05:009:00",
   "speaker": "長英",
   "jp": "{px}ッ……。\n目が覚めやした。",
-  "en": "{px}... You've opened my eyes."
+  "en": "{px}... Ye've opened my eyes."
  },
  {
   "id": "fd11_05:009:01",
@@ -159,13 +159,13 @@
   "id": "fd11_05:010:00",
   "speaker": "長英",
   "jp": "はッ……！？\nわしは恩人たる{px}に\nなんちゅう……。",
-  "en": "Wha...!? What was I doin' to you,\n{px}, the man I owe so much..."
+  "en": "Wha...!? What was I doin' to ye,\n{px}, the man I owe so much..."
  },
  {
   "id": "fd11_05:010:01",
   "speaker": "長英",
   "jp": "悪事の片棒を\n担がせるなんぞ……！！",
-  "en": "Draggin' you in as my partner in crime...!!"
+  "en": "Draggin' ye in as my partner in crime...!!"
  },
  {
   "id": "fd11_05:011:00",
@@ -219,19 +219,19 @@
   "id": "fd11_05:014:00",
   "speaker": "長英",
   "jp": "騒がしてすいやせん。\n{px}も、それどころや\nないじゃろうに……。",
-  "en": "Sorry for makin' such a fuss. You've got bigger\nthings on your plate, {px}..."
+  "en": "Sorry for makin' such a fuss. Ye've got bigger\nthings on yer plate, {px}..."
  },
  {
   "id": "fd11_05:014:01",
   "speaker": "長英",
   "jp": "じゃけ、わしは信じとります！\n{px}じゃったら\nどうとでもなるけェ！",
-  "en": "That's why I believe in ya! If it's\nyou, {px}, you'll\npull through no matter what!"
+  "en": "That's why I believe in ye! If it's {px},\nye'll pull through no matter what!"
  },
  {
   "id": "fd11_05:014:02",
   "speaker": "長英",
   "jp": "わしの出来る事を、\nやらせていただきやす！！",
-  "en": "I'll do whatever I can for ya, count on it!!"
+  "en": "I'll do whatever I can for ye, count on it!!"
  },
  {
   "id": "fd11_05:014:03",

@@ -309,7 +309,7 @@
   "id": "ms03_00:001:06",
   "speaker": "{ruby:白|まお}",
   "jp": "まったく、騒々しい……。",
-  "en": "Honestly, such a racket..."
+  "en": "Bah, such a racket..."
  },
  {
   "id": "ms03_00:001:07",
@@ -711,7 +711,7 @@
   "id": "ms03_00:023:05",
   "speaker": "清司郎",
   "jp": "お前、時間は。",
-  "en": "The time."
+  "en": "You. Aren't you running late?"
  },
  {
   "id": "ms03_00:023:06",
@@ -1059,7 +1059,7 @@
   "id": "ms03_00:046:02",
   "speaker": "鈴",
   "jp": "はうう～\n始めからここにいたです！",
-  "en": "Hauuu! Suzu has been here since the very start!"
+  "en": "Hauuu! Suzu has been here\nsince the very start, it is!"
  },
  {
   "id": "ms03_00:046:03",
@@ -1083,13 +1083,13 @@
   "id": "ms03_00:046:06",
   "speaker": "鈴",
   "jp": "鍵さんのいじわるで、\n落ち込んでる場合では\nないです。",
-  "en": "This is no time to be moping\nover Ken-san being mean."
+  "en": "This is no time to be moping over\nKen-san being mean, it is not."
  },
  {
   "id": "ms03_00:046:07",
   "speaker": "鈴",
   "jp": "{px}、\n神社の入口のところに、\n怪しい方がいるのです。",
-  "en": "{px}, there is a suspicious\nperson at the entrance to the shrine."
+  "en": "{px}, there is a suspicious\nperson at the entrance to the shrine, it is."
  },
  {
   "id": "ms03_00:046:08",
@@ -1221,13 +1221,13 @@
   "id": "ms03_00:050:01",
   "speaker": "鈴",
   "jp": "{px}にご用があった\nみたいですけど、それにしては\n怪しい方なのです……。",
-  "en": "They seemed to have business with\n{px}, but even so,\nthey were a very suspicious person..."
+  "en": "They seemed to have business with\n{px}, but even so, they\nwere a very suspicious person, it is..."
  },
  {
   "id": "ms03_00:051:00",
   "speaker": "鈴",
   "jp": "{px}、くれぐれも\n気をつけてくださいです。",
-  "en": "{px}, please be very, very careful."
+  "en": "{px}, please be very, very careful, it is."
  },
  {
   "id": "ms03_00:052:00",
@@ -1239,43 +1239,43 @@
   "id": "ms03_00:052:01",
   "speaker": "鈴",
   "jp": "で、でも{px}が\n元気でないと、\nみなさま悲しむと思うです。",
-  "en": "B-but if {px} isn't well,\nSuzu thinks everyone would be sad."
+  "en": "B-but if {px} isn't well,\nSuzu thinks everyone would be sad, it is."
  },
  {
   "id": "ms03_00:052:02",
   "speaker": "鈴",
   "jp": "だから今日も元気で\n頑張ってくださいなのです。",
-  "en": "So please stay well and do your best today too."
+  "en": "So please stay well and do\nyour best today too, it is."
  },
  {
   "id": "ms03_00:053:00",
   "speaker": "鈴",
   "jp": "はいです。\nすずも陰ながら\n応援してるのです。",
-  "en": "Yes! Suzu will be cheering\nyou on from the shadows, too."
+  "en": "Yes! Suzu will be cheering you\non from the shadows, too, it is."
  },
  {
   "id": "ms03_00:053:01",
   "speaker": "鈴",
   "jp": "だから今日も元気で\n頑張ってくださいなのです！",
-  "en": "So please stay well and do your best today too!"
+  "en": "So please stay well and do\nyour best today too, it is!"
  },
  {
   "id": "ms03_00:054:00",
   "speaker": "鈴",
   "jp": "はうう、\nさすがは{px}なのです。",
-  "en": "Hauu, that's {px} for you."
+  "en": "Hauu, that's {px} for you, it is."
  },
  {
   "id": "ms03_00:054:01",
   "speaker": "鈴",
   "jp": "その意気で、危険なんて\n吹き飛ばしちゃうです。",
-  "en": "With that spirit, you'll blow any\ndanger right out of the way."
+  "en": "With that spirit, you'll blow any\ndanger right out of the way, it is."
  },
  {
   "id": "ms03_00:055:00",
   "speaker": "鈴",
   "jp": "はいです。\n今日も元気で\n頑張ってくださいなのです！",
-  "en": "Yes! Please stay well and do your best today!"
+  "en": "Yes! Please stay well and do your best today, it is!"
  },
  {
   "id": "ms03_00:056:00",
@@ -1287,7 +1287,7 @@
   "id": "ms03_00:056:01",
   "speaker": "鈴",
   "jp": "{px}ならきっと\n大丈夫だと思うですが、\nでも……心配はするです。",
-  "en": "Suzu is sure {px} will\nbe fine, but... Suzu will still worry."
+  "en": "Suzu is sure {px} will\nbe fine, but... Suzu will still worry, it is."
  },
  {
   "id": "ms03_00:057:00",
@@ -1299,7 +1299,7 @@
   "id": "ms03_00:057:01",
   "speaker": "鈴",
   "jp": "な、ならすずが、\n何事もないよう\n一生懸命お祈りしておくです。",
-  "en": "Th-then Suzu will pray with all her\nheart that nothing happens to you."
+  "en": "Th-then Suzu will pray with all her\nheart that nothing happens to you, it is."
  },
  {
   "id": "ms03_00:058:00",
@@ -1311,7 +1311,7 @@
   "id": "ms03_00:058:01",
   "speaker": "鈴",
   "jp": "すず、頑張って\nお祈りしておくです！",
-  "en": "Suzu will pray as hard as she can!"
+  "en": "Suzu will pray as hard as she can, it is!"
  },
  {
   "id": "ms03_00:059:00",
@@ -1323,13 +1323,13 @@
   "id": "ms03_00:059:01",
   "speaker": "鈴",
   "jp": "すず、頑張って\nお祈りしておくです！",
-  "en": "Suzu will pray as hard as she can!"
+  "en": "Suzu will pray as hard as she can, it is!"
  },
  {
   "id": "ms03_00:060:00",
   "speaker": "鈴",
   "jp": "はうう……。\nすず、心配なのです……。",
-  "en": "Hauu... Suzu is worried..."
+  "en": "Hauu... Suzu is worried, it is..."
  },
  {
   "id": "ms03_00:061:00",
@@ -1347,7 +1347,7 @@
   "id": "ms03_00:061:02",
   "speaker": "鈴",
   "jp": "行ってらっしゃいませです～。",
-  "en": "Have a good day, now!"
+  "en": "Please go safely, it is~!"
  },
  {
   "id": "ms03_00:061:03",
@@ -1395,7 +1395,7 @@
   "id": "ms03_00:064:00",
   "speaker": "弥紀",
   "jp": "ふふ、そうしてると本当に\n普通の転校生だものね。",
-  "en": "Hehe, when you act like that, you really\nare just an ordinary transfer student."
+  "en": "Hee hee, when you act like that, you\nreally are just an ordinary transfer student."
  },
  {
   "id": "ms03_00:064:01",
@@ -1407,7 +1407,7 @@
   "id": "ms03_00:065:00",
   "speaker": "弥紀",
   "jp": "ふふ、そうしてると本当に\n普通の転校生だものね。",
-  "en": "Hehe, when you act like that, you really\nare just an ordinary transfer student."
+  "en": "Hee hee, when you act like that, you\nreally are just an ordinary transfer student."
  },
  {
   "id": "ms03_00:065:01",
@@ -1521,7 +1521,7 @@
   "id": "ms03_00:073:02",
   "speaker": "弥紀",
   "jp": "ふふ、\n{ruby:宍戸|ししど}くんらしいね。",
-  "en": "Hehe, that's so like Shishido-kun."
+  "en": "Hee hee, that's so like Shishido-kun."
  },
  {
   "id": "ms03_00:073:03",
@@ -1659,7 +1659,7 @@
   "id": "ms03_00:080:05",
   "speaker": "弥紀",
   "jp": "ふふ、{ruby:蒐|しゅう}くんって\n本当にカードのことは\n聞き逃さないんだね。",
-  "en": "Hehe, Shu-kun really never misses\na word about cards, does he?"
+  "en": "Hee hee, Shu-kun really never\nmisses a word about cards, does he?"
  },
  {
   "id": "ms03_00:080:06",
@@ -1731,7 +1731,7 @@
   "id": "ms03_00:080:17",
   "speaker": "燈治",
   "jp": "ちょっと待て。\nおかしいだろ、いまの……。",
-  "en": "Hold on. Somethin's off about that one..."
+  "en": "Hold on. What's with the \"I suppose\"...?"
  },
  {
   "id": "ms03_00:080:18",
@@ -1791,7 +1791,7 @@
   "id": "ms03_00:084:01",
   "speaker": "長英",
   "jp": "そ、そがァな優しげな顔しても\n騙されんけェ！！",
-  "en": "D-don't think ya can fool me with that kindly face!!"
+  "en": "D-don't think ye can fool me with that kindly face!!"
  },
  {
   "id": "ms03_00:085:00",
@@ -1857,7 +1857,7 @@
   "id": "ms03_00:090:00",
   "speaker": "長英",
   "jp": "{px}！？\nどうしてそんな顔するんじゃ。",
-  "en": "{px}!? Why're ya makin' that face?"
+  "en": "{px}!? Why're ye makin' that face?"
  },
  {
   "id": "ms03_00:090:01",
@@ -1947,13 +1947,13 @@
   "id": "ms03_00:095:02",
   "speaker": "長英",
   "jp": "こがァなとこで会えるたァ\nまさに天の配剤じゃの！",
-  "en": "Runnin' into ya in a place like\nthis, it's heaven's own doin'!"
+  "en": "Runnin' into ye in a place like\nthis, it's heaven's own doin'!"
  },
  {
   "id": "ms03_00:095:03",
   "speaker": "長英",
   "jp": "丁度こいつを渡そう\n思うとったんじゃ。",
-  "en": "I was just thinkin' o' givin' ya this."
+  "en": "I was just thinkin' o' givin' ye this."
  },
  {
   "id": "ms03_00:095:04",
@@ -2025,7 +2025,7 @@
   "id": "ms03_00:096:02",
   "speaker": "巴",
   "jp": "それにここなら{ruby:飛び入り参加|・・・・・}が\n期待出来そうだからよ。\nすぐわかるわ。",
-  "en": "Besides, up here I can expect a few uninvited\nguests to drop in. You'll see soon enough."
+  "en": "Besides, up here I can expect a few guests\nto fly right in. You'll see soon enough."
  },
  {
   "id": "ms03_00:096:03",
@@ -2253,7 +2253,7 @@
   "id": "ms03_00:107:07",
   "speaker": "{ruby:白|まお}",
   "jp": "ふん……。\n《{ruby:龍脈|りゅうみゃく}》の流れを\n探っておったまでじゃ。",
-  "en": "Hmph... I was merely probing\nthe flow of the Dragon Vein."
+  "en": "Hmph... I was merely probing\nthe flow of the dragon vein."
  },
  {
   "id": "ms03_00:107:08",
@@ -2457,7 +2457,7 @@
   "id": "ms03_00:114:03",
   "speaker": "弥紀",
   "jp": "それが《{ruby:龍脈|りゅうみゃく}》……？",
-  "en": "That's the Dragon Vein...?"
+  "en": "That's the dragon vein...?"
  },
  {
   "id": "ms03_00:114:04",
@@ -2607,7 +2607,7 @@
   "id": "ms03_00:117:00",
   "speaker": "白",
   "jp": "まったく、\n面倒をかけおって。",
-  "en": "Honestly, what a bother you are."
+  "en": "Tsk, what a bother you are."
  },
  {
   "id": "ms03_00:117:01",
@@ -2763,7 +2763,7 @@
   "id": "ms03_00:124:01",
   "speaker": "長英",
   "jp": "こがァな不甲斐ないわしの命を\n惜しんでくれるんか……。",
-  "en": "Ya'd care that much 'bout the\nlife of a useless fella like me...?"
+  "en": "Ye'd care that much 'bout the\nlife of a useless fella like me...?"
  },
  {
   "id": "ms03_00:124:02",
@@ -2787,7 +2787,7 @@
   "id": "ms03_00:125:01",
   "speaker": "長英",
   "jp": "こがァな不甲斐ないわしの命を\n惜しんでくれるんか……。",
-  "en": "Ya'd care that much 'bout the\nlife of a useless fella like me...?"
+  "en": "Ye'd care that much 'bout the\nlife of a useless fella like me...?"
  },
  {
   "id": "ms03_00:125:02",
@@ -2811,7 +2811,7 @@
   "id": "ms03_00:126:01",
   "speaker": "長英",
   "jp": "こがァな不甲斐ないわしの命を\n惜しんでくれるんか……。",
-  "en": "Ya'd care that much 'bout the\nlife of a useless fella like me...?"
+  "en": "Ye'd care that much 'bout the\nlife of a useless fella like me...?"
  },
  {
   "id": "ms03_00:126:02",
@@ -2955,7 +2955,7 @@
   "id": "ms03_00:129:14",
   "speaker": "長英",
   "jp": "わしゃァ食った事\nないんじゃが、\n絶品ちゅう話じゃけ。",
-  "en": "Never had it myself, but\nthey say it's outta this world."
+  "en": "Never had it myself, but they\nsay it's outta this world, I tell ya."
  },
  {
   "id": "ms03_00:129:15",
@@ -2967,7 +2967,7 @@
   "id": "ms03_00:129:16",
   "speaker": "長英",
   "jp": "{px}に世話んなった事\n話したら持ってくよう\n言われたんじゃ。",
-  "en": "When I told him how ya'd looked out fer me,\n{px}, he told me to bring ya this."
+  "en": "When I told him how ye'd looked out fer me,\n{px}, he told me to bring ye this."
  },
  {
   "id": "ms03_00:129:17",
@@ -2985,13 +2985,13 @@
   "id": "ms03_00:129:19",
   "speaker": "長英",
   "jp": "これから何があるか\nわからんけェ、鍛錬する場所は\n多い方がええじゃろ。",
-  "en": "Can't say what's comin' from here on, so the\nmore places ya got to train, the better, right?"
+  "en": "Can't say what's comin' from here on, so the\nmore places ye got to train, the better, right?"
  },
  {
   "id": "ms03_00:129:20",
   "speaker": "長英",
   "jp": "{px}なら\nいつでも大歓迎じゃ！",
-  "en": "You're welcome anytime, {px}!"
+  "en": "Ye're welcome anytime, {px}!"
  },
  {
   "id": "ms03_00:130:00",
@@ -3045,7 +3045,7 @@
   "id": "ms03_00:130:08",
   "speaker": "白",
   "jp": "……早う行け。\n刻限は守られねばならぬ。",
-  "en": "...Now go, quickly. You must not be late."
+  "en": "...Now go, quickly. The appointed hour must be kept."
  },
  {
   "id": "ms03_00:130:09",
@@ -3165,7 +3165,7 @@
   "id": "ms03_00:133:00",
   "speaker": "弥紀",
   "jp": "ふふ、よかった。",
-  "en": "Hehe, I'm glad."
+  "en": "Hee hee, I'm glad."
  },
  {
   "id": "ms03_00:133:01",
@@ -3291,7 +3291,7 @@
   "id": "ms03_00:141:03",
   "speaker": "久榮",
   "jp": "暴力？\nやれやれ、キミは何も\nわかっていないな。",
-  "en": "Violent? Good grief, you don't understand a thing."
+  "en": "Violent? Hmph, you don't understand a thing."
  },
  {
   "id": "ms03_00:141:04",
@@ -3813,7 +3813,7 @@
   "id": "ms03_00:163:07",
   "speaker": "久榮",
   "jp": "七・不・思・議。",
-  "en": "The Seven. School. Mysteries."
+  "en": "The. Seven. Mysteries."
  },
  {
   "id": "ms03_00:163:08",
@@ -3921,7 +3921,7 @@
   "id": "ms03_00:169:00",
   "speaker": "久榮",
   "jp": "やれやれ、\n短気な奴だな。",
-  "en": "Good grief, you're an impatient one."
+  "en": "Hmph, you're an impatient one."
  },
  {
   "id": "ms03_00:169:01",
@@ -3963,7 +3963,7 @@
   "id": "ms03_00:172:00",
   "speaker": "久榮",
   "jp": "やれやれ……。\nこれこそが、\n歴史の浪漫なんだがな。",
-  "en": "Good grief... This is the very\nromance of history, you know."
+  "en": "Hmph... This is the very\nromance of history, you know."
  },
  {
   "id": "ms03_00:173:00",
@@ -4155,7 +4155,7 @@
   "id": "ms03_00:182:00",
   "speaker": "久榮",
   "jp": "やれやれ。\n可愛げのない奴だ。",
-  "en": "Good grief. Not a cute bone in your body."
+  "en": "Hmph. Not a cute bone in your body."
  },
  {
   "id": "ms03_00:182:01",
@@ -4179,7 +4179,7 @@
   "id": "ms03_00:184:00",
   "speaker": "久榮",
   "jp": "やれやれ。\n素直な奴だな、キミは。",
-  "en": "Good grief. You're an honest one, aren't you?"
+  "en": "Well, well. You're an honest one, aren't you?"
  },
  {
   "id": "ms03_00:184:01",
@@ -4245,7 +4245,7 @@
   "id": "ms03_00:186:07",
   "speaker": "久榮",
   "jp": "……この前、資料を\n{ruby:届けさせられた|・・・・・・・}時に\n返すのを忘れてな。",
-  "en": "...I forgot to give it back the other day, when\nI was \"asked\" to deliver some materials."
+  "en": "...I forgot to give it back the other day, when\nI was \"made\" to deliver some materials."
  },
  {
   "id": "ms03_00:186:08",
@@ -4395,7 +4395,7 @@
   "id": "ms03_00:190:03",
   "speaker": "蒐",
   "jp": "図書室も、四角いね。\n四角いものばかりだね。\nくふふ……。",
-  "en": "The library is square, too.\nEverything's square, huh. Kufufu..."
+  "en": "The library, is square, too.\nEverything, is square, huh. Kufufu..."
  },
  {
   "id": "ms03_00:190:04",

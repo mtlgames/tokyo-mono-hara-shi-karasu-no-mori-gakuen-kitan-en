@@ -2,25 +2,20 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release in progress (story pass reviewed 42/42, fix pass running; re-tour left).
-- **Phase 9, worker 23 (2026-11-25):** **story pass: all 42 parts reviewed** (reviewer agents; reports
-  work/qa/story/reports/, verdicts work/qa/story/verdicts/: 24 ok, 18 issue). Mechanical sweeps merged (s_mech:
-  669 lines "......" -> "...", " -- " -> "--"; s_gio: 29 Gio オイオイ "Whoa" -> "Oi"). `tools/story_polish.py append`
-  put 324 report items + 11 game-wide voice lines (Suzu "it is", Ken, Shibukawa/Shu pauses, Nagahide "ye", まったく
-  "Honestly", ふふ "Hehe", Angie "ne", Ichiru "Ehehe", Hisae "romantic"; ids from `tools/voice_scan.py`) into
-  docs/polish.md (section "Phase 9 story pass"; [I] = Important, fix). Chunks: voice c31..c41 (run first, merge),
-  then c21..c24 (rest). Agents per docs/polish-brief.md write work/tl/pNN.out.tsv + work/polish/cNN.ticks.tsv;
-  `batches.py merge pNN --overwrite`, `polish.py apply`. Then story.py + `qa_gate.py init` (keeps unchanged verdicts?
-  re-verdict the 18 issue parts `fixed` from the polish ticks), build, smoke, re-tour.
-- **Next (phase 9), in this order:** (1) **Story pass**: 42 parts `work/qa/story/chapters/chNN_K.txt` (`tools/story.py`,
-  manifest `work/qa/story/manifest.tsv` initialised, 0 verdicts). `qa_gate.py todo work/qa/story/manifest.tsv
-  work/qa/story/verdicts --size 1`; one `translate-retro-game:reviewer` per part, 4 at a time, brief
-  `docs/story-reviewer-brief.md` (+ synopsis, style-reference, glossary). Save each report under work/qa/story/reports/,
-  write `chNN_K<TAB>ok|issue<TAB>note` to `work/qa/story/verdicts/chNN_K.tsv`, Minors to docs/polish.md (then fix or
-  waive: `tools/polish.py`). Fix Critical/Important (a translator agent with a pNN.out.tsv, `batches.py batch/check/merge`),
-  re-run story.py + `qa_gate.py init`, re-verdict changed parts `fixed`. (2) Build, smoke, **re-tour** (`rm -rf
+- **Phase:** 9. Release in progress (story pass done, gate exit 0; re-tour and release.py left).
+- **Phase 9, worker 23 (2026-11-25):** **story pass done.** 42 parts reviewed (reviewer agents; reports in
+  work/qa/story/reports/, first verdicts in work/qa/story/verdicts_old/: 24 ok, 18 issue, no Critical). Fixes:
+  mechanical sweeps (669 "......" -> "...", " -- " -> "--"; 29 Gio "Whoa" -> "Oi oi"; 6 `{pm} {pn}` -> D1 order),
+  then 324 report items + 11 game-wide voice lines in docs/polish.md §"Phase 9 story pass" (`tools/story_polish.py`,
+  ids from new `tools/voice_scan.py`), 12 translator agents: ~1,700 strings changed, **polish.md 0 unticked**,
+  `batches.py check` 0 problems. Voice rulings D25 + docs/style-reference.md bottom rows (Suzu "it is" on ~300 lines,
+  Nagahide ye/yer, Angie "ne", まったく per speaker...). story.py + `qa_gate.py init` re-run, all 42 re-verdicted
+  `fixed`: `qa_gate.py check work/qa/story/manifest.tsv work/qa/story/verdicts` exit 0. Build
+  `build/karasu_en.iso` **sha1 6e9c3389**, smoke ok. Stopped near the context limit before the re-tour.
+- **Next (phase 9), in this order:** (1) done (story pass). (2) **Re-tour** of 6e9c3389 (`rm -rf
   work/states/en work/qa/warp/en`, `warp.py build/karasu_en.iso --all --tag en --shot-every 30`, `tour_sheets.py`),
-  visual-qa verdicts for the chunks `qa_gate.py todo` lists (the polish changed ~1,100 strings, captions now `X--Y`,
+  visual-qa verdicts for the chunks `qa_gate.py todo` lists (story pass changed ~1,700 more strings, longer Suzu/Angie
+  lines: watch 3-line dialogue overflow; the earlier polish changed ~1,100 strings, captions now `X--Y`,
   some labels longer: 携行 "Carried", フリガナ "Name Reading", "Card Placement"), `qa_gate.py check` exit 0. (3)
   `python -X utf8 tools/release.py` (all steps) -> release/v1.0/ zip. Never `gh release create`.
 - **Phase 9, worker 22 (2026-11-25):** **polish pass done**: 861/861 lines ticked (793 fixed, 68 waived; engine/label

@@ -99,7 +99,7 @@
   "id": "dg01_00:005:00",
   "speaker": "弥紀",
   "jp": "うん。\n絶対そのままだよ？",
-  "en": "Okay. Stay just like that, no matter what, alright?"
+  "en": "Okay. Stay just like that, no matter what, all right?"
  },
  {
   "id": "dg01_00:006:00",
@@ -201,7 +201,7 @@
   "id": "dg01_00:011:09",
   "speaker": "鍵",
   "jp": "封札師の坊。\n私の声が聞こえていやすね？",
-  "en": "Young master Card Sealer, you\ncan hear my voice, can't you?"
+  "en": "Young master, the Card Sealer.\nYou can hear my voice, can't you?"
  },
  {
   "id": "dg01_00:011:10",
@@ -213,7 +213,7 @@
   "id": "dg01_00:011:11",
   "speaker": "鍵",
   "jp": "脈を辿って、こちらからも\n坊の様子がわかりやす。",
-  "en": "By followin' the vein, we can tell\nhow you're farin' from over here."
+  "en": "By following the vein, we can tell\nhow you're faring from over here."
  },
  {
   "id": "dg01_00:011:12",
@@ -225,7 +225,7 @@
   "id": "dg01_00:011:13",
   "speaker": "鍵",
   "jp": "大して助けにならないかも\n知れませんが、闇雲に\n迷い込むよりはましでしょう。",
-  "en": "It may not be much help, but it's\nbetter than wanderin' about blind."
+  "en": "It may not be much help, but it's\nbetter than wandering about blind."
  },
  {
   "id": "dg01_00:011:14",
@@ -249,7 +249,7 @@
   "id": "dg01_00:011:17",
   "speaker": "鈴",
   "jp": "{px}、\nふぁいとなのです～。",
-  "en": "{px}, go, go, fight~!"
+  "en": "{px}, go, go, fight, it is~!"
  },
  {
   "id": "dg01_00:011:18",

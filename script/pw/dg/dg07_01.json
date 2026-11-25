@@ -9,7 +9,7 @@
   "id": "dg07_01:000:01",
   "speaker": "アンジー",
   "jp": "サスガ{px}……だネ。",
-  "en": "That's {px} for you..."
+  "en": "That is {px} for you... ne."
  },
  {
   "id": "dg07_01:000:02",
@@ -33,7 +33,7 @@
   "id": "dg07_01:001:00",
   "speaker": "御霧",
   "jp": "……ふざけるな！\nそんなもの、\n何の役に立つというんだ！！",
-  "en": "...Don't screw with me! What good\nis any of that supposed to be!!"
+  "en": "...Don't screw with me! What good is any of that!?"
  },
  {
   "id": "dg07_01:001:01",
@@ -237,7 +237,7 @@
   "id": "dg07_01:011:01",
   "speaker": "アンジー",
   "jp": "それで全てが上手くいくほど\n世の中が簡単ならいいのにネ。",
-  "en": "It'd be nice if the world were simple\nenough for that to fix everything, huh."
+  "en": "It would be nice if the world were simple\nenough for that to fix everything, ne."
  },
  {
   "id": "dg07_01:012:00",
@@ -303,7 +303,7 @@
   "id": "dg07_01:017:01",
   "speaker": "アンジー",
   "jp": "それで全てが上手くいくほど\n世の中が簡単ならいいのにネ。",
-  "en": "It'd be nice if the world were simple\nenough for that to fix everything, huh."
+  "en": "It would be nice if the world were simple\nenough for that to fix everything, ne."
  },
  {
   "id": "dg07_01:018:00",
@@ -339,7 +339,7 @@
   "id": "dg07_01:020:02",
   "speaker": "白",
   "jp": "もうよさぬか。\n其方ら、今度こそ\nヒトには戻れなくなるぞ。",
-  "en": "Enough already. This time, you two\nwill never return to being human."
+  "en": "Cease this at once. This time, you\ntwo will never return to being human."
  },
  {
   "id": "dg07_01:020:03",
@@ -783,7 +783,7 @@
   "id": "dg07_01:046:04",
   "speaker": "義王",
   "jp": "はッ！\nテメェらは、\nこのオレ様の{ruby:部下|モ　ン}だろうが。",
-  "en": "Hah! You two are the great me's crew, ain't ya?"
+  "en": "Hah! You two belong to the\ngreat me, ain't that right?"
  },
  {
   "id": "dg07_01:046:05",

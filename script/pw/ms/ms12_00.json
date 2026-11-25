@@ -15,7 +15,7 @@
   "id": "ms12_00:000:02",
   "speaker": "鍵",
   "jp": "何です、改まって。",
-  "en": "What is it? You're bein' awful formal."
+  "en": "What is it? You're being awfully formal."
  },
  {
   "id": "ms12_00:000:03",
@@ -99,7 +99,7 @@
   "id": "ms12_00:000:16",
   "speaker": "鍵",
   "jp": "それはこれからの\nお楽しみですよ―――",
-  "en": "That's somethin' we'll have\nthe pleasure of findin' out--"
+  "en": "That's something we'll have\nthe pleasure of finding out--"
  },
  {
   "id": "ms12_00:001:00",
@@ -675,7 +675,7 @@
   "id": "ms12_00:048:17",
   "speaker": "鍵",
   "jp": "―――まさか、札の番人殿から\nその言葉を聞こうとは\n思いやせんでしたよ。",
-  "en": "--Never figured I'd hear words like\nthat from the cards' honorable guardian."
+  "en": "--Never figured I'd hear words like\nthat from the cards' own guardian."
  },
  {
   "id": "ms12_00:048:18",
@@ -699,7 +699,7 @@
   "id": "ms12_00:048:21",
   "speaker": "鍵",
   "jp": "失われたものの大きさに\n絶望する人々が残される……。",
-  "en": "folks are left behind, despairin'\nat how much they've lost..."
+  "en": "folks are left behind, despairing\nat how much they've lost..."
  },
  {
   "id": "ms12_00:048:22",
@@ -723,7 +723,7 @@
   "id": "ms12_00:049:00",
   "speaker": "鍵",
   "jp": "まさか私が存在しているうちに\nこんな事が起こるとは\n思ってもみやせんでしたよ。",
-  "en": "Never dreamed somethin' like this\nwould happen while I was still around."
+  "en": "Never dreamed something like this\nwould happen while I was still around."
  },
  {
   "id": "ms12_00:049:01",
@@ -735,13 +735,13 @@
   "id": "ms12_00:050:00",
   "speaker": "鍵",
   "jp": "そう真っ正面に来られると\n流石に照れちまいやすね。",
-  "en": "Comin' at me head-on like\nthat, even I get a bit bashful."
+  "en": "Coming at me head-on like\nthat, even I get a bit bashful."
  },
  {
   "id": "ms12_00:050:01",
   "speaker": "鍵",
   "jp": "{px}……\n貴方は本当に凄い方だ。",
-  "en": "{px}... you truly are somethin' else."
+  "en": "{px}... you truly are something else."
  },
  {
   "id": "ms12_00:051:00",
@@ -753,7 +753,7 @@
   "id": "ms12_00:051:01",
   "speaker": "鍵",
   "jp": "{px}……\n貴方は本当に凄い方だ。",
-  "en": "{px}... you truly are somethin' else."
+  "en": "{px}... you truly are something else."
  },
  {
   "id": "ms12_00:052:00",
@@ -765,7 +765,7 @@
   "id": "ms12_00:052:01",
   "speaker": "鍵",
   "jp": "{px}……\n貴方は本当に凄い方だ。",
-  "en": "{px}... you truly are somethin' else."
+  "en": "{px}... you truly are something else."
  },
  {
   "id": "ms12_00:053:00",
@@ -795,7 +795,7 @@
   "id": "ms12_00:054:02",
   "speaker": "鍵",
   "jp": "{px}……\n貴方は本当に凄い方だ。",
-  "en": "{px}... you truly are somethin' else."
+  "en": "{px}... you truly are something else."
  },
  {
   "id": "ms12_00:055:00",
@@ -807,7 +807,7 @@
   "id": "ms12_00:055:01",
   "speaker": "鍵",
   "jp": "まったく……\n大した御方だ。",
-  "en": "Honestly... what a remarkable one you are."
+  "en": "My, my... what a remarkable one you are."
  },
  {
   "id": "ms12_00:056:00",
@@ -825,7 +825,7 @@
   "id": "ms12_00:056:02",
   "speaker": "鍵",
   "jp": "{px}……\n貴方は本当に凄い方だ。",
-  "en": "{px}... you truly are somethin' else."
+  "en": "{px}... you truly are something else."
  },
  {
   "id": "ms12_00:057:00",
@@ -837,7 +837,7 @@
   "id": "ms12_00:057:01",
   "speaker": "鍵",
   "jp": "まったく……\n大した御方だ。",
-  "en": "Honestly... what a remarkable one you are."
+  "en": "My, my... what a remarkable one you are."
  },
  {
   "id": "ms12_00:058:00",
@@ -873,7 +873,7 @@
   "id": "ms12_00:059:04",
   "speaker": "朝子",
   "jp": "ふふ、\nみんな随分、楽しそうね。",
-  "en": "Hehe, you all look like you're having such fun."
+  "en": "Hee hee, you all look like you're having such fun."
  },
  {
   "id": "ms12_00:059:05",
@@ -1185,7 +1185,7 @@
   "id": "ms12_00:069:19",
   "speaker": "鈴",
   "jp": "す、すずは白いご飯があれば\n何でもいいのです。",
-  "en": "S-Suzu is happy with anything,\nas long as there's white rice."
+  "en": "S-Suzu is happy with anything,\nas long as there's white rice, it is."
  },
  {
   "id": "ms12_00:069:20",
@@ -1209,7 +1209,7 @@
   "id": "ms12_00:069:23",
   "speaker": "朝子",
   "jp": "三人とも、\nちゃんと決めておいてね！",
-  "en": "You three, make sure you've decided by tonight!"
+  "en": "You three, make sure you've decided!"
  },
  {
   "id": "ms12_00:069:24",
@@ -1221,7 +1221,7 @@
   "id": "ms12_00:069:25",
   "speaker": "鈴",
   "jp": "あ、朝子さま！\nい、いってらっしゃいですー。",
-  "en": "A-Asako-sama! G-good luck out there!"
+  "en": "A-Asako-sama! H-have a good day!"
  },
  {
   "id": "ms12_00:069:26",
@@ -1269,7 +1269,7 @@
   "id": "ms12_00:071:01",
   "speaker": "鈴",
   "jp": "だから……\nひとはとってもすごいのです！",
-  "en": "That's why... people are so very amazing!"
+  "en": "That's why... people are so very amazing, it is!"
  },
  {
   "id": "ms12_00:072:00",
@@ -1281,7 +1281,7 @@
   "id": "ms12_00:072:01",
   "speaker": "鈴",
   "jp": "だから……\nひとはとってもすごいのです！",
-  "en": "That's why... people are so very amazing!"
+  "en": "That's why... people are so very amazing, it is!"
  },
  {
   "id": "ms12_00:073:00",
@@ -1293,7 +1293,7 @@
   "id": "ms12_00:073:01",
   "speaker": "鈴",
   "jp": "だから……\nひとはとってもすごいのです！",
-  "en": "That's why... people are so very amazing!"
+  "en": "That's why... people are so very amazing, it is!"
  },
  {
   "id": "ms12_00:074:00",
@@ -1305,7 +1305,7 @@
   "id": "ms12_00:074:01",
   "speaker": "鈴",
   "jp": "だから……\nひとはとってもすごいのです！",
-  "en": "That's why... people are so very amazing!"
+  "en": "That's why... people are so very amazing, it is!"
  },
  {
   "id": "ms12_00:075:00",
@@ -1317,13 +1317,13 @@
   "id": "ms12_00:075:01",
   "speaker": "鈴",
   "jp": "でも、すずは\nそう信じてるです。",
-  "en": "But Suzu believes it."
+  "en": "But Suzu believes so, it is."
  },
  {
   "id": "ms12_00:075:02",
   "speaker": "鈴",
   "jp": "ひとは……\n優しくてあったかくて\nとってもすごい存在なのです！",
-  "en": "People are... kind and warm and so very amazing!"
+  "en": "People are... kind and warm\nand so very amazing, it is!"
  },
  {
   "id": "ms12_00:076:00",
@@ -1335,13 +1335,13 @@
   "id": "ms12_00:076:01",
   "speaker": "鈴",
   "jp": "でも、すずは\nそう信じてるです。",
-  "en": "But Suzu believes it."
+  "en": "But Suzu believes so, it is."
  },
  {
   "id": "ms12_00:076:02",
   "speaker": "鈴",
   "jp": "ひとは……\n優しくてあったかくて\nとってもすごい存在なのです！",
-  "en": "People are... kind and warm and so very amazing!"
+  "en": "People are... kind and warm\nand so very amazing, it is!"
  },
  {
   "id": "ms12_00:077:00",
@@ -1353,13 +1353,13 @@
   "id": "ms12_00:077:01",
   "speaker": "鈴",
   "jp": "でも、すずは\nそう信じてるです。",
-  "en": "But Suzu believes it."
+  "en": "But Suzu believes so, it is."
  },
  {
   "id": "ms12_00:077:02",
   "speaker": "鈴",
   "jp": "ひとは……\n優しくてあったかくて\nとってもすごい存在なのです！",
-  "en": "People are... kind and warm and so very amazing!"
+  "en": "People are... kind and warm\nand so very amazing, it is!"
  },
  {
   "id": "ms12_00:078:00",
@@ -1371,13 +1371,13 @@
   "id": "ms12_00:078:01",
   "speaker": "鈴",
   "jp": "でも、すずは\nそう信じてるです。",
-  "en": "But Suzu believes it."
+  "en": "But Suzu believes so, it is."
  },
  {
   "id": "ms12_00:078:02",
   "speaker": "鈴",
   "jp": "ひとは……\n優しくてあったかくて\nとってもすごい存在なのです！",
-  "en": "People are... kind and warm and so very amazing!"
+  "en": "People are... kind and warm\nand so very amazing, it is!"
  },
  {
   "id": "ms12_00:079:00",
@@ -1389,13 +1389,13 @@
   "id": "ms12_00:079:01",
   "speaker": "鈴",
   "jp": "でも、すずは\nそう信じてるです。",
-  "en": "But Suzu believes it."
+  "en": "But Suzu believes so, it is."
  },
  {
   "id": "ms12_00:079:02",
   "speaker": "鈴",
   "jp": "ひとは……\n優しくてあったかくて\nとってもすごい存在なのです！",
-  "en": "People are... kind and warm and so very amazing!"
+  "en": "People are... kind and warm\nand so very amazing, it is!"
  },
  {
   "id": "ms12_00:080:00",
@@ -1407,7 +1407,7 @@
   "id": "ms12_00:080:01",
   "speaker": "鈴",
   "jp": "えへん！\nすずもまた、\n日々進歩しているのです。",
-  "en": "Ahem! Suzu, too, is making progress every day."
+  "en": "Ahem! Suzu, too, is making progress every day, it is."
  },
  {
   "id": "ms12_00:080:02",
@@ -1641,7 +1641,7 @@
   "id": "ms12_00:092:01",
   "speaker": "弥紀",
   "jp": "……ふふ。\nでも、こうやって笑うと\n少し緊張もほぐれるね。",
-  "en": "...Hehe. But laughing like this helps me relax a little."
+  "en": "...Hee hee. But laughing like\nthis helps me relax a little."
  },
  {
   "id": "ms12_00:092:02",
@@ -1653,7 +1653,7 @@
   "id": "ms12_00:093:00",
   "speaker": "弥紀",
   "jp": "ふふ、\nなんだか意外だな。",
-  "en": "Hehe, that's kind of unexpected."
+  "en": "Hee hee, that's kind of unexpected."
  },
  {
   "id": "ms12_00:093:01",
@@ -1665,7 +1665,7 @@
   "id": "ms12_00:094:00",
   "speaker": "弥紀",
   "jp": "ふふ……本当に？\n{px}のそんなところ、\n全然想像出来ないよ。",
-  "en": "Hehe... Really? I can't picture you\nlike that at all, {px}."
+  "en": "Hee hee... Really? I can't picture you\nlike that at all, {px}."
  },
  {
   "id": "ms12_00:094:01",
@@ -1791,7 +1791,7 @@
   "id": "ms12_00:103:00",
   "speaker": "弥紀",
   "jp": "ふふ、\n何だかいつも通りって\n感じだね。",
-  "en": "Hehe, it feels like the same old routine, huh."
+  "en": "Hee hee, it feels like the same old routine, huh."
  },
  {
   "id": "ms12_00:103:01",
@@ -1887,7 +1887,7 @@
   "id": "ms12_00:107:00",
   "speaker": "弥紀",
   "jp": "ふふっ、\nそう言うと思った。",
-  "en": "Hehe, I knew you'd say that."
+  "en": "Hee hee, I knew you'd say that."
  },
  {
   "id": "ms12_00:107:01",
@@ -2331,7 +2331,7 @@
   "id": "ms12_00:136:02",
   "speaker": "燈治",
   "jp": "お前の―――隣へな。",
-  "en": "Right-- beside you."
+  "en": "To your--side, that is."
  },
  {
   "id": "ms12_00:137:00",
@@ -2595,7 +2595,7 @@
   "id": "ms12_00:150:00",
   "speaker": "弥紀",
   "jp": "ふふっ。\nすごいよね、{px}は。",
-  "en": "Hehe. You're amazing, {px}."
+  "en": "Hee hee. You're amazing, {px}."
  },
  {
   "id": "ms12_00:150:01",
@@ -2607,7 +2607,7 @@
   "id": "ms12_00:151:00",
   "speaker": "弥紀",
   "jp": "ふふっ、\nもしかしたら\n変わらないかな？",
-  "en": "Hehe, maybe it won't change after all?"
+  "en": "Hee hee, maybe it won't change after all?"
  },
  {
   "id": "ms12_00:151:01",
@@ -3285,7 +3285,7 @@
   "id": "ms12_00:198:01",
   "speaker": "蒐",
   "jp": "{px}。\nぼくの見つけた、一番の四角。",
-  "en": "{px}. The best square I've found."
+  "en": "{px}. The best square, I've found."
  },
  {
   "id": "ms12_00:198:02",
@@ -3447,7 +3447,7 @@
   "id": "ms12_00:208:04",
   "speaker": "蒐",
   "jp": "{px}は、はみ出した。\nでも……\n四角を壊したんじゃ、ない。",
-  "en": "{px} went outside the\nlines. But... didn't break the square."
+  "en": "{px}, went outside the\nlines. But... didn't break, the square."
  },
  {
   "id": "ms12_00:208:05",
@@ -3459,7 +3459,7 @@
   "id": "ms12_00:208:06",
   "speaker": "蒐",
   "jp": "ぼくが見つけた、\n一番不思議な四角……。",
-  "en": "The strangest square I've ever found..."
+  "en": "The strangest square, I've ever found..."
  },
  {
   "id": "ms12_00:208:07",
@@ -3483,13 +3483,13 @@
   "id": "ms12_00:210:00",
   "speaker": "蒐",
   "jp": "……眼から、四角い、の。",
-  "en": "...The squares fell from my eyes."
+  "en": "...The squares, fell from my eyes."
  },
  {
   "id": "ms12_00:210:01",
   "speaker": "蒐",
   "jp": "……だね。\n四角は、不変。",
-  "en": "...Right. Squares never change."
+  "en": "...Right. Squares, never change."
  },
  {
   "id": "ms12_00:210:02",
@@ -3681,25 +3681,25 @@
   "id": "ms12_00:220:03",
   "speaker": "長英",
   "jp": "もう終業式じゃけ皆\n上の体育館に集まってるに、\n何でこんな―――",
-  "en": "It's the closin' ceremony, so everybody's gatherin'\nup in the gym. What're ya doin' in a place like--"
+  "en": "It's the closin' ceremony, so everybody's gatherin'\nup in the gym. What're ye doin' in a place like--"
  },
  {
   "id": "ms12_00:221:00",
   "speaker": "長英",
   "jp": "―――もしかして、\nわしを探して……？",
-  "en": "--Don't tell me... you came lookin' for me?"
+  "en": "--Don't tell me... ye came lookin' for me?"
  },
  {
   "id": "ms12_00:222:00",
   "speaker": "長英",
   "jp": "そ、そがい言われると\nなんじゃ……照れるのう！！",
-  "en": "Wh-when ya put it like\nthat, it's... kinda embarrassin'!!"
+  "en": "Wh-when ye put it like\nthat, it's... kinda embarrassin'!!"
  },
  {
   "id": "ms12_00:222:01",
   "speaker": "長英",
   "jp": "なんじゃ、言うてくれたら\nなんぼでもわしの方から\n出向きますけェ！！",
-  "en": "Shoot, if ya'd just said so, I'd have\ncome to you anytime ya liked!!"
+  "en": "Shoot, if ye'd just said so, I'd have\ncome to ye anytime ye liked!!"
  },
  {
   "id": "ms12_00:223:00",
@@ -3717,7 +3717,7 @@
   "id": "ms12_00:223:02",
   "speaker": "長英",
   "jp": "こんな嬉しゅうなる事、\nそうはないけェ！！",
-  "en": "There ain't much in this world\nthat makes me this happy!!"
+  "en": "There ain't much in this world that\nmakes me this happy, I tell ya!!"
  },
  {
   "id": "ms12_00:224:00",
@@ -3741,7 +3741,7 @@
   "id": "ms12_00:225:01",
   "speaker": "長英",
   "jp": "言うてくれたら\nなんぼでもわしの方から\n出向きますけェ！！",
-  "en": "If ya'd just said so, I'd have\ncome to you anytime ya liked!!"
+  "en": "If ye'd just said so, I'd have\ncome to ye anytime ye liked!!"
  },
  {
   "id": "ms12_00:226:00",
@@ -3765,7 +3765,7 @@
   "id": "ms12_00:227:01",
   "speaker": "長英",
   "jp": "まあ、気を落ち着けるにゃあ\nいい場所じゃからのう。",
-  "en": "Well, it's a good place to settle your mind, all right."
+  "en": "Well, it's a good place to settle yer mind, all right."
  },
  {
   "id": "ms12_00:228:00",
@@ -3789,7 +3789,7 @@
   "id": "ms12_00:229:01",
   "speaker": "長英",
   "jp": "わしがここで\n{px}と会えたんが\n嬉しいってだけじゃあ。",
-  "en": "I'm just happy I got to run into\nya here, {px}."
+  "en": "I'm just happy I got to run into\nye here, {px}."
  },
  {
   "id": "ms12_00:230:00",
@@ -3813,7 +3813,7 @@
   "id": "ms12_00:232:00",
   "speaker": "長英",
   "jp": "{px}とここで\nこうしとると、\nあの日の事を思い出すのう。",
-  "en": "Bein' here like this with ya, {px},\nsure reminds me of that day."
+  "en": "Bein' here like this with ye, {px},\nsure reminds me of that day."
  },
  {
   "id": "ms12_00:233:00",
@@ -3837,7 +3837,7 @@
   "id": "ms12_00:234:00",
   "speaker": "長英",
   "jp": "{px}がおらんかったら\nわしはいま、ここにはおらん。",
-  "en": "If it weren't for you, {px},\nI wouldn't be here now."
+  "en": "If it weren't for ye, {px},\nI wouldn't be here now."
  },
  {
   "id": "ms12_00:234:01",
@@ -3849,19 +3849,19 @@
   "id": "ms12_00:234:02",
   "speaker": "長英",
   "jp": "{px}と共にある\n一分一秒が、\nわしにとっては全部貴重じゃ。",
-  "en": "Every minute, every second with you,\n{px}, is precious to me, every last one."
+  "en": "Every minute, every second with ye,\n{px}, is precious to me, every last one."
  },
  {
   "id": "ms12_00:235:00",
   "speaker": "長英",
   "jp": "{px}にはまだまだ\n教えてもらわにゃならん事が\nありすぎるけェの。",
-  "en": "There's still way too much I gotta\nlearn from ya, {px}."
+  "en": "There's still way too much I gotta\nlearn from ye, {px}."
  },
  {
   "id": "ms12_00:236:00",
   "speaker": "長英",
   "jp": "おおッ！？\nそ、そがァに\nわしの事を……！！",
-  "en": "Whoa!? Y-ya think that much of me...!!"
+  "en": "Whoa!? Y-ye think that much of me...!!"
  },
  {
   "id": "ms12_00:236:01",
@@ -3873,7 +3873,7 @@
   "id": "ms12_00:236:02",
   "speaker": "長英",
   "jp": "この宍戸　長英、\n一生{px}に\nついて行きますけェ！！",
-  "en": "I, Nagahide Shishido, will follow ya for\nthe rest of my life, {px}!!"
+  "en": "I, Nagahide Shishido, will follow ye for\nthe rest of my life, {px}!!"
  },
  {
   "id": "ms12_00:237:00",
@@ -3885,7 +3885,7 @@
   "id": "ms12_00:237:01",
   "speaker": "長英",
   "jp": "この宍戸　長英、\n一生{px}に\nついて行きますけェ！！",
-  "en": "I, Nagahide Shishido, will follow ya for\nthe rest of my life, {px}!!"
+  "en": "I, Nagahide Shishido, will follow ye for\nthe rest of my life, {px}!!"
  },
  {
   "id": "ms12_00:238:00",
@@ -3897,7 +3897,7 @@
   "id": "ms12_00:238:01",
   "speaker": "長英",
   "jp": "この宍戸　長英、\n一生{px}に\nついて行きますけェ！！",
-  "en": "I, Nagahide Shishido, will follow ya for\nthe rest of my life, {px}!!"
+  "en": "I, Nagahide Shishido, will follow ye for\nthe rest of my life, {px}!!"
  },
  {
   "id": "ms12_00:239:00",
@@ -3909,7 +3909,7 @@
   "id": "ms12_00:239:01",
   "speaker": "長英",
   "jp": "わしは一生、\n{px}についてくけェ！！",
-  "en": "I'm followin' ya for life, {px}!!"
+  "en": "I'm followin' ye for life, {px}!!"
  },
  {
   "id": "ms12_00:240:00",
@@ -3921,7 +3921,7 @@
   "id": "ms12_00:240:01",
   "speaker": "長英",
   "jp": "この宍戸　長英、\n一生{px}に\nついて行くんじゃ！！",
-  "en": "I, Nagahide Shishido, am gonna follow ya\nfor the rest of my life, {px}!!"
+  "en": "I, Nagahide Shishido, am gonna follow ye\nfor the rest of my life, {px}!!"
  },
  {
   "id": "ms12_00:241:00",
@@ -3933,7 +3933,7 @@
   "id": "ms12_00:241:01",
   "speaker": "長英",
   "jp": "この宍戸　長英、\n一生{px}に\nついて行くんじゃ！！",
-  "en": "I, Nagahide Shishido, am gonna follow ya\nfor the rest of my life, {px}!!"
+  "en": "I, Nagahide Shishido, am gonna follow ye\nfor the rest of my life, {px}!!"
  },
  {
   "id": "ms12_00:242:00",
@@ -3951,7 +3951,7 @@
   "id": "ms12_00:242:02",
   "speaker": "長英",
   "jp": "こうなったらこの宍戸　長英、\n一生{px}に\nついて行きますけェ！！",
-  "en": "Then I, Nagahide Shishido, will follow ya\nfor the rest of my life, {px}!!"
+  "en": "Then I, Nagahide Shishido, will follow ye\nfor the rest of my life, {px}!!"
  },
  {
   "id": "ms12_00:243:00",
@@ -3963,7 +3963,7 @@
   "id": "ms12_00:243:01",
   "speaker": "長英",
   "jp": "この宍戸　長英、\n一生{px}に\nついて行くんじゃ！！",
-  "en": "I, Nagahide Shishido, am gonna follow ya\nfor the rest of my life, {px}!!"
+  "en": "I, Nagahide Shishido, am gonna follow ye\nfor the rest of my life, {px}!!"
  },
  {
   "id": "ms12_00:244:00",
@@ -3975,13 +3975,13 @@
   "id": "ms12_00:244:01",
   "speaker": "長英",
   "jp": "この宍戸　長英、\n一生{px}に\nついて行くんじゃ！！",
-  "en": "I, Nagahide Shishido, am gonna follow ya\nfor the rest of my life, {px}!!"
+  "en": "I, Nagahide Shishido, am gonna follow ye\nfor the rest of my life, {px}!!"
  },
  {
   "id": "ms12_00:246:00",
   "speaker": "長英",
   "jp": "人の道だけでなく、\n剣の道でも先輩は\nわしの先達じゃけの！！",
-  "en": "Not just on the path of life, but on the\npath of the sword too, Senpai, you're\nthe one who walks ahead of me!!"
+  "en": "Not just on the path of life, but on\nthe path of the sword too, Senpai,\nye're the one who walks ahead of me!!"
  },
  {
   "id": "ms12_00:248:00",
@@ -4005,19 +4005,19 @@
   "id": "ms12_00:248:03",
   "speaker": "長英",
   "jp": "あの時、先輩が\n違う選択をしとったら、\nわしは、今日……",
-  "en": "If you'd made a different choice\nback then, Senpai, today I'd..."
+  "en": "If ye'd made a different choice\nback then, Senpai, today I'd..."
  },
  {
   "id": "ms12_00:248:04",
   "speaker": "長英",
   "jp": "先輩のおらん今日を\n迎えとったんじゃろう？",
-  "en": "be wakin' up to a today\nwithout ya in it, wouldn't I?"
+  "en": "be wakin' up to a today\nwithout ye in it, wouldn't I?"
  },
  {
   "id": "ms12_00:248:05",
   "speaker": "長英",
   "jp": "ほいじゃけ……\nまたこうして先輩と\n一緒におれるたァ―――",
-  "en": "So... gettin' to be with ya again like this, Senpai--"
+  "en": "So... gettin' to be with ye again like this, Senpai--"
  },
  {
   "id": "ms12_00:248:06",
@@ -4041,7 +4041,7 @@
   "id": "ms12_00:249:02",
   "speaker": "長英",
   "jp": "{px}がわしの目の前に\nおってくれるんなら\nわしはそれだけでいいけェ。",
-  "en": "As long as you're right here in front of\nme, {px}, that's all I need."
+  "en": "As long as ye're right here in front of\nme, {px}, that's all I need."
  },
  {
   "id": "ms12_00:249:03",
@@ -4065,7 +4065,7 @@
   "id": "ms12_00:250:02",
   "speaker": "長英",
   "jp": "{px}がわしの目の前に\nおってくれるんなら\nわしはそれだけでいいけェ。",
-  "en": "As long as you're right here in front of\nme, {px}, that's all I need."
+  "en": "As long as ye're right here in front of\nme, {px}, that's all I need."
  },
  {
   "id": "ms12_00:250:03",
@@ -4107,7 +4107,7 @@
   "id": "ms12_00:252:01",
   "speaker": "長英",
   "jp": "{px}がわしの目の前に\nおってくれるんなら\nわしはそれだけでいいけェ。",
-  "en": "As long as you're right here in front of\nme, {px}, that's all I need."
+  "en": "As long as ye're right here in front of\nme, {px}, that's all I need."
  },
  {
   "id": "ms12_00:252:02",
@@ -4131,7 +4131,7 @@
   "id": "ms12_00:253:02",
   "speaker": "長英",
   "jp": "{px}がわしの目の前に\nおってくれるんなら\nわしはそれだけでいいけェ。",
-  "en": "As long as you're right here in front of\nme, {px}, that's all I need."
+  "en": "As long as ye're right here in front of\nme, {px}, that's all I need."
  },
  {
   "id": "ms12_00:253:03",
@@ -4167,7 +4167,7 @@
   "id": "ms12_00:255:01",
   "speaker": "長英",
   "jp": "{px}がわしの目の前に\nおってくれるんなら\nわしはそれだけでいいけェ。",
-  "en": "As long as you're right here in front of\nme, {px}, that's all I need."
+  "en": "As long as ye're right here in front of\nme, {px}, that's all I need."
  },
  {
   "id": "ms12_00:255:02",
@@ -4185,7 +4185,7 @@
   "id": "ms12_00:256:01",
   "speaker": "長英",
   "jp": "{px}がわしの目の前に\nおってくれるんなら\nわしはそれだけでいいけェ。",
-  "en": "As long as you're right here in front of\nme, {px}, that's all I need."
+  "en": "As long as ye're right here in front of\nme, {px}, that's all I need."
  },
  {
   "id": "ms12_00:256:02",
@@ -4203,7 +4203,7 @@
   "id": "ms12_00:257:01",
   "speaker": "長英",
   "jp": "{px}がわしの目の前に\nおってくれるんなら\nわしはそれだけでいいけェ。",
-  "en": "As long as you're right here in front of\nme, {px}, that's all I need."
+  "en": "As long as ye're right here in front of\nme, {px}, that's all I need."
  },
  {
   "id": "ms12_00:257:02",
@@ -4221,7 +4221,7 @@
   "id": "ms12_00:258:01",
   "speaker": "長英",
   "jp": "はァ……\nもうほんま……\n見苦しくてすいやせん。",
-  "en": "Phew... Man, sorry you had to\nsee me in such a sorry state."
+  "en": "Haaah... Man, sorry ye had\nto see me in such a state."
  },
  {
   "id": "ms12_00:258:02",
@@ -4323,7 +4323,7 @@
   "id": "ms12_00:263:01",
   "speaker": "巴",
   "jp": "―――なんて言うと思った！？\nこのッ、馬鹿！！",
-  "en": "--Is what you thought I'd say!? You idiot!!"
+  "en": "--Did you really think I'd say that!? You idiot!!"
  },
  {
   "id": "ms12_00:264:00",
@@ -4335,7 +4335,7 @@
   "id": "ms12_00:264:01",
   "speaker": "巴",
   "jp": "―――なんて言うと思った！？\nこのッ、馬鹿！！",
-  "en": "--Is what you thought I'd say!? You idiot!!"
+  "en": "--Did you really think I'd say that!? You idiot!!"
  },
  {
   "id": "ms12_00:265:00",
@@ -4455,7 +4455,7 @@
   "id": "ms12_00:273:02",
   "speaker": "巴",
   "jp": "そんなに叱って欲しいなら\nアンタ一人くらい、\nいつだってしてあげるわよ。",
-  "en": "If you want to be scolded that badly, I'll\nscold you anytime. One of you, I can handle."
+  "en": "If you want a scolding that badly, I can\ngive one to the likes of you anytime."
  },
  {
   "id": "ms12_00:273:03",
@@ -5091,7 +5091,7 @@
   "id": "ms12_00:304:04",
   "speaker": "蒐",
   "jp": "これってやっぱり、\n四角い、お誘い？",
-  "en": "So this is... a square invitation?"
+  "en": "So this really is, a square, invitation?"
  },
  {
   "id": "ms12_00:304:05",

@@ -51,19 +51,19 @@
   "id": "dg04_00:000:08",
   "speaker": "アンジー",
   "jp": "{ruby:Ｂｉｅｎｖｅｎｉｄｏ|い　ら　っ　し　ゃ　ー　い}！！\nよく来てくれたネ！！",
-  "en": "Bienvenido!! Welcome, welcome!! Thanks for coming!!"
+  "en": "Bienvenido!! Welcome, welcome!!\nThanks for coming, ne!!"
  },
  {
   "id": "dg04_00:001:00",
   "speaker": "アンジー",
   "jp": "フフッ、\n嬉しいヨ、{px}。\nちょうど退屈してたからネ。",
-  "en": "Hehe, Angie is happy, {px}.\nAngie was just getting bored."
+  "en": "Hehe, Angie is happy, {px}.\nAngie was just getting bored, ne."
  },
  {
   "id": "dg04_00:002:00",
   "speaker": "アンジー",
   "jp": "こんな場面で\nそんなコト言うなんて、\nやっぱり、カッコイイネ！！",
-  "en": "Saying something like that at a time\nlike this... You're so cool after all!!"
+  "en": "Saying something like that at a time\nlike this... You are so cool after all, ne!!"
  },
  {
   "id": "dg04_00:002:01",
@@ -75,7 +75,7 @@
   "id": "dg04_00:003:00",
   "speaker": "アンジー",
   "jp": "アハッ、\nアンと遊んでくれるんだネ？",
-  "en": "Aha, you're going to play with Angie, yes?"
+  "en": "Aha, you are going to play with Angie, ne?"
  },
  {
   "id": "dg04_00:003:01",
@@ -87,7 +87,7 @@
   "id": "dg04_00:004:00",
   "speaker": "アンジー",
   "jp": "さすが{px}、\nわかってるネ！！",
-  "en": "That's {px}, you get it!!"
+  "en": "That is {px} for you. You get it, ne!!"
  },
  {
   "id": "dg04_00:004:01",
@@ -99,7 +99,7 @@
   "id": "dg04_00:005:00",
   "speaker": "アンジー",
   "jp": "そうこなくっちゃネ！！",
-  "en": "That's the spirit!!"
+  "en": "That is the spirit, ne!!"
  },
  {
   "id": "dg04_00:005:01",
@@ -111,7 +111,7 @@
   "id": "dg04_00:006:00",
   "speaker": "アンジー",
   "jp": "アハハッ！！\n盛り上がってきたネ！！",
-  "en": "Ahaha!! Now things are heating up!!"
+  "en": "Ahaha!! Now things are heating up, ne!!"
  },
  {
   "id": "dg04_00:006:01",
@@ -231,7 +231,7 @@
   "id": "dg04_00:013:01",
   "speaker": "アンジー",
   "jp": "{px}なら\nこの意味、わかるよネ？",
-  "en": "{px}, you\nunderstand what that means, no?"
+  "en": "{px}, you\nunderstand what that means, ne?"
  },
  {
   "id": "dg04_00:014:00",
@@ -273,7 +273,7 @@
   "id": "dg04_00:015:01",
   "speaker": "アンジー",
   "jp": "{px}なら\nこの意味、わかるよネ？",
-  "en": "{px}, you\nunderstand what that means, no?"
+  "en": "{px}, you\nunderstand what that means, ne?"
  },
  {
   "id": "dg04_00:016:00",

@@ -3,7 +3,7 @@
   "id": "dg04_01:000:00",
   "speaker": "アンジー",
   "jp": "{ruby:Ｖａｙａ|あ　ら　ら}……。\n負けちゃったネ。",
-  "en": "Vaya... Angie lost."
+  "en": "Vaya... Angie lost, ne."
  },
  {
   "id": "dg04_01:000:01",
@@ -15,7 +15,7 @@
   "id": "dg04_01:001:00",
   "speaker": "アンジー",
   "jp": "んー、デモ、\n楽しかったよネ？",
-  "en": "Mmm, but it was fun, right?"
+  "en": "Mmm, but it was fun, ne?"
  },
  {
   "id": "dg04_01:002:00",
@@ -27,7 +27,7 @@
   "id": "dg04_01:002:01",
   "speaker": "アンジー",
   "jp": "こういうタイミングなら\nキザなセリフも悪くないネ。",
-  "en": "At a moment like this, a cheesy line isn't half bad."
+  "en": "At a moment like this, a\ncheesy line is not half bad, ne."
  },
  {
   "id": "dg04_01:003:00",
@@ -57,7 +57,7 @@
   "id": "dg04_01:005:01",
   "speaker": "アンジー",
   "jp": "ここが夕日の河原だったら\nカンペキだったネ！！",
-  "en": "If this were a riverbank at sunset,\nit would have been perfect!!"
+  "en": "If this were a riverbank at sunset,\nit would have been perfect, ne!!"
  },
  {
   "id": "dg04_01:006:00",
@@ -398,7 +398,7 @@
   "id": "dg04_01:025:20",
   "speaker": "アンジー",
   "jp": "{ruby:Ａｈｏｒｉｔａ　ｌｌｅｇｕｅ|た　　だ　　い　　ま}\nやっぱりマスコットがいなきゃ\nしまらないネ！！",
-  "en": "Ahorita llegue--I'm back! Without our\nmascot, things just aren't complete!!"
+  "en": "Ahorita llegue--I am back! Without our\nmascot, things just are not complete, ne!!"
  },
  {
   "id": "dg04_01:025:21",
@@ -410,7 +410,7 @@
   "id": "dg04_01:025:22",
   "speaker": "御霧",
   "jp": "まったく……。\nだから俺は反対したんだ。",
-  "en": "Honestly... This is why I was against it."
+  "en": "Tch... This is why I was against it."
  },
  {
   "id": "dg04_01:025:23",
@@ -614,7 +614,7 @@
   "id": "dg04_01:039:00",
   "speaker": "絢人",
   "jp": "やれやれ……。\n神出鬼没って噂は\n本当らしいね。",
-  "en": "Good grief... It seems the rumors of them\nappearing and vanishing like phantoms are true."
+  "en": "My, my... It seems the rumors of them\nappearing and vanishing like phantoms are true."
  },
  {
   "id": "dg04_01:039:01",
@@ -626,7 +626,7 @@
   "id": "dg04_01:040:00",
   "speaker": "白",
   "jp": "まったく、\n面倒な{ruby:輩|やから}が現れたものよ。",
-  "en": "Honestly, what a troublesome rabble has appeared."
+  "en": "Bah, what a troublesome rabble has appeared."
  },
  {
   "id": "dg04_01:040:01",
