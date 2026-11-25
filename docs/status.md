@@ -2,7 +2,19 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release in progress (story pass done, gate exit 0; re-tour and release.py left).
+- **Phase:** 9. Release in progress (story pass done; re-tour of 467e169e and release.py left).
+- **Phase 9, worker 24 (2026-11-25):** re-tour of 6e9c3389 done (72 exit 0, wrap_skip 3 as known), 15 chunks
+  `chunk_5222a93de0d4_000..014` verdicted by visual-qa agents: 116 ok, story-pass dialogue fits everywhere shown;
+  **4 issue, one cause, fixed:** item-menu help bar "Switch Category" ran under the SELECT icon -> systemtext:0209
+  "Category" (qa-findings §Worker 24). Build `build/karasu_en.iso` **sha1 467e169e**, smoke ok, check green (29).
+  New `docs/release-readme.txt` (zip README template; `release.py --steps readme` passes). Pre-ran release steps on
+  6e9c3389: check, jp (0 unlisted), cover (387/387), polish (0 unticked), readme: all pass. **Re-tour of 467e169e
+  started but Claude Code's memory reaper killed it after 19 scenes (last `choice`).**
+- **Next (phase 9):** (a) free RAM, then `python -X utf8 tools/debug/warp.py build/karasu_en.iso --all --tag en
+  --shot-every 30 --resume >> work/qa/tour_en.log` (the 19 done scenes are this build's; or `rm -rf work/states/en
+  work/qa/warp/en` and run in full), `tools/tour_sheets.py`; expect only menu_item/stress_items/stress_list (+ timing
+  jitter) to need verdicts; `qa_gate.py check work/qa/manifest.tsv work/qa/verdicts` exit 0. (b) `python -X utf8
+  tools/release.py` (all steps) -> release/v1.0/ zip. Never `gh release create`.
 - **Phase 9, worker 23 (2026-11-25):** **story pass done.** 42 parts reviewed (reviewer agents; reports in
   work/qa/story/reports/, first verdicts in work/qa/story/verdicts_old/: 24 ok, 18 issue, no Critical). Fixes:
   mechanical sweeps (669 "......" -> "...", " -- " -> "--"; 29 Gio "Whoa" -> "Oi oi"; 6 `{pm} {pn}` -> D1 order),
@@ -12,7 +24,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Nagahide ye/yer, Angie "ne", まったく per speaker...). story.py + `qa_gate.py init` re-run, all 42 re-verdicted
   `fixed`: `qa_gate.py check work/qa/story/manifest.tsv work/qa/story/verdicts` exit 0. Build
   `build/karasu_en.iso` **sha1 6e9c3389**, smoke ok. Stopped near the context limit before the re-tour.
-- **Next (phase 9), in this order:** (1) done (story pass). (2) **Re-tour** of 6e9c3389 (`rm -rf
+- **Old next (worker 23; (2) done by worker 24):** (1) done (story pass). (2) **Re-tour** of 6e9c3389 (`rm -rf
   work/states/en work/qa/warp/en`, `warp.py build/karasu_en.iso --all --tag en --shot-every 30`, `tour_sheets.py`),
   visual-qa verdicts for the chunks `qa_gate.py todo` lists (story pass changed ~1,700 more strings, longer Suzu/Angie
   lines: watch 3-line dialogue overflow; the earlier polish changed ~1,100 strings, captions now `X--Y`,
