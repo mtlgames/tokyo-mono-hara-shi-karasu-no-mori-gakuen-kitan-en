@@ -2,13 +2,32 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release, not started (phase 8 done 2026-11-25: build fefac907, `qa_gate.py check work/qa/manifest.tsv
-  work/qa/verdicts` exit 0, 386/386 sheets ok; `cover.py report` 387/387 exit 0; smoke ok, check green).
-- **Next (phase 9):** skill phase 9 done-when: story-pass verdict per chapter (`work/qa/story/manifest.tsv`),
-  `docs/polish.md` unticked lines, `tools/release.py` (gate + textcover + jp_left, debug off, re-signed EBOOT: build.py
-  still ships the plain ELF, engine.md §English path), README placeholders and base hashes, zip = patch + README.
-  Release-notes caveats: .znt dungeon-room textures RAM-verified only (no shot); EBOOT/table strings covered by the
-  menu tours, not per-string logs; stress_names_battle/msg1/2 need build/karasu_names.iso (long names) to test.
+- **Phase:** 9. Release in progress (polish, release.py, signed EBOOT, jp_left done; story pass and re-tour left).
+- **Next (phase 9), in this order:** (1) **Story pass**: 42 parts `work/qa/story/chapters/chNN_K.txt` (`tools/story.py`,
+  manifest `work/qa/story/manifest.tsv` initialised, 0 verdicts). `qa_gate.py todo work/qa/story/manifest.tsv
+  work/qa/story/verdicts --size 1`; one `translate-retro-game:reviewer` per part, 4 at a time, brief
+  `docs/story-reviewer-brief.md` (+ synopsis, style-reference, glossary). Save each report under work/qa/story/reports/,
+  write `chNN_K<TAB>ok|issue<TAB>note` to `work/qa/story/verdicts/chNN_K.tsv`, Minors to docs/polish.md (then fix or
+  waive: `tools/polish.py`). Fix Critical/Important (a translator agent with a pNN.out.tsv, `batches.py batch/check/merge`),
+  re-run story.py + `qa_gate.py init`, re-verdict changed parts `fixed`. (2) Build, smoke, **re-tour** (`rm -rf
+  work/states/en work/qa/warp/en`, `warp.py build/karasu_en.iso --all --tag en --shot-every 30`, `tour_sheets.py`),
+  visual-qa verdicts for the chunks `qa_gate.py todo` lists (the polish changed ~1,100 strings, captions now `X--Y`,
+  some labels longer: 携行 "Carried", フリガナ "Name Reading", "Card Placement"), `qa_gate.py check` exit 0. (3)
+  `python -X utf8 tools/release.py` (all steps) -> release/v1.0/ zip. Never `gh release create`.
+- **Phase 9, worker 22 (2026-11-25):** **polish pass done**: 861/861 lines ticked (793 fixed, 68 waived; engine/label
+  waivers reviewed: D20 short labels or items for the re-tour), 8 translator agents per `docs/polish-brief.md`
+  (`tools/polish.py split|apply|count`, new `batches.py show REGEX [--en]` / `batch NAME`), ~1,090 strings changed,
+  `batches.py check` 0 problems. **`tools/release.py`** written (steps build check smoke jp gate cover polish readme
+  debug patch verify zip; `--steps` to run some). Its jp step (jp_left per text member vs the original; CSVB tables
+  scan only what pointers reach, since English is appended; whole-file/offset waivers in `docs/jp_known.tsv`) found
+  **two live strings the extractor missed**, now extracted and translated: obj:0817:04 猪牙の印章 "Boar Tusk Seal" (IBM
+  kanji FB5E doesn't round-trip; `tables.text` accepts it, `raw` kept for the test) and eboot:2d2370 保持する "Keep"
+  (struct byte before it; `eboot_text.ROW_START`, sweep found no other). jp step now 0. **EBOOT signed** (AGENTS.md
+  ruling): `tools/sign.py` (sign_np from growlanser-psp-en, GPLv3 src in tools/sign_np/src, binary gitignored, build
+  once under WSL; tag 5 = the original's 0xD91613F0, devkit 0x06000010), build.py writes the plain ELF to
+  build/karasu_en.elf for scans; D24. README filled (status table, base hashes, known issues). Build
+  `build/karasu_en.iso` **sha1 5b914abf**, smoke ok (signed EBOOT boots), check green (29). Release-notes caveats
+  still: .znt dungeon-room textures RAM-verified only; stress_names_* need build/karasu_names.iso.
 - **Phase 8, worker 21 (2026-11-25):** finished the 917ef4ac re-tour (`warp.py --all --resume`: new flag, skips
   scenes whose state exists, for tours killed by the memory reaper), `tour_sheets.py`: 44 changed sheets, 6 chunks
   `chunk_3dc47d49b0e7_000..005`, all verdicts (visual-qa agents): Counter plate, menu money plate, Chorus colon,
@@ -334,4 +353,4 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Next:** see "Next (phase 8)" above.
 - **Known debug gaps (non-blocking, revisit in phase 8):** (1) the myroom **album** (ui_album.g2d, album_thum pak, `imagealbum.bin`) is not reached: the desk only shows the record shelf; unlock storage unknown (leads in debug.md "Myroom"). (2) `exbg0136` tutorial panel is named by no script (likely unused). (3) The hub -> bg01_00 walk in `dun1` hung once after a third door; `dun1_direct` avoids it.
 - **Open bugs:** none.
-- **Waiting on the user:** (non-blocking, needed before release) EBOOT re-signing: building `sign_np` from source (github.com/swarzesherz/sign_np, `pip install ziglang`, `python -m ziglang cc ...`) and running it was refused by the agent permission classifier on 2026-11-24. Owner: allow that (or put a trusted `sign_np.exe`/PRXEncrypter in `tools/`), then sign the 3-LOAD-segment ELF and QA the signed EBOOT. QA continues on the plain ELF in PPSSPP meanwhile. (non-blocking) movie text: STORYTITLE01-10 chapter cards and the ending/credits movies are H.264 PMF with burned-in Japanese; re-encoding them is its own project. Default: plan to re-encode the chapter cards and credits (D5 says translate all graphics text) unless the owner says to leave movies Japanese. (non-blocking) Graphics kept Japanese by default: title logo 東京鬼祓師 (no official English logo known), hanafuda poetry ribbons, school crests, Siddham seed syllables, item-icon packaging, dev placeholder cards; everything else in the survey is marked T.
+- **Waiting on the user:** (non-blocking) EBOOT signing is done (2026-11-25, D24: the sign_np binary already built by growlanser-psp-en, copied in; signed EBOOT boots in PPSSPP). Owner: growlanser found a sign_np EBOOT black-screens on Vita/Adrenaline where the plain ELF plays; AGENTS.md says ship signed, so signed it is unless you change that line (this game's tag is one sign_np makes natively, unlike growlanser's). (non-blocking) movie text: STORYTITLE01-10 chapter cards and the ending/credits movies are H.264 PMF with burned-in Japanese; re-encoding them is its own project. Default: plan to re-encode the chapter cards and credits (D5 says translate all graphics text) unless the owner says to leave movies Japanese. (non-blocking) Graphics kept Japanese by default: title logo 東京鬼祓師 (no official English logo known), hanafuda poetry ribbons, school crests, Siddham seed syllables, item-icon packaging, dev placeholder cards; everything else in the survey is marked T.
