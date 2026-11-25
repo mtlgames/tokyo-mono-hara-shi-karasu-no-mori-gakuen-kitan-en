@@ -2,7 +2,16 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release in progress (story pass done; re-tour of 467e169e and release.py left).
+- **Phase:** 9. Release done: release/v1.0 zip built and verified (publishing waits on the user; never `gh release create`).
+- **Phase 9, worker 25 (2026-11-25):** re-tour of 467e169e finished (`--resume`, 72 states, wrap_skip exit 3 as
+  known), `tour_sheets.py`: 71 changed sheets, 9 chunks `chunk_15cb49153b50_000..008`, visual-qa verdicts all 71 ok
+  (help bar "[LR]Category [SELECT]Valuables" clear of the icon in menu_item/stress_items/stress_list).
+  `qa_gate.py check` exit 0 (386 tour + 42 story). Fixed `tools/release.py` (skill.py's SCRIPTS is a str: wrap in
+  Path; smoke step crashed). **`tools/release.py` all steps pass**: build 467e169e, check 29, smoke ok, jp 0 unlisted,
+  gate, cover 387/387, polish, readme, debug, patch, verify (re-applied sha1 = build), zip
+  `release/v1.0/Tokyo_Mono_Hara_Shi_Karasu_no_Mori_EN_v1.0.zip` (xdelta + README.txt, 140,480,162 B, sha1 baa7a484).
+- **Next:** nothing left in phase 9. Publishing (GitHub release, upload) only on the user's say-so. Release-notes
+  caveats stay: .znt dungeon-room textures RAM-verified only; stress_names_* need build/karasu_names.iso.
 - **Phase 9, worker 24 (2026-11-25):** re-tour of 6e9c3389 done (72 exit 0, wrap_skip 3 as known), 15 chunks
   `chunk_5222a93de0d4_000..014` verdicted by visual-qa agents: 116 ok, story-pass dialogue fits everywhere shown;
   **4 issue, one cause, fixed:** item-menu help bar "Switch Category" ran under the SELECT icon -> systemtext:0209
@@ -10,7 +19,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   New `docs/release-readme.txt` (zip README template; `release.py --steps readme` passes). Pre-ran release steps on
   6e9c3389: check, jp (0 unlisted), cover (387/387), polish (0 unticked), readme: all pass. **Re-tour of 467e169e
   started but Claude Code's memory reaper killed it after 19 scenes (last `choice`).**
-- **Next (phase 9):** (a) free RAM, then `python -X utf8 tools/debug/warp.py build/karasu_en.iso --all --tag en
+- **Old next (worker 24; done by worker 25):** (a) free RAM, then `python -X utf8 tools/debug/warp.py build/karasu_en.iso --all --tag en
   --shot-every 30 --resume >> work/qa/tour_en.log` (the 19 done scenes are this build's; or `rm -rf work/states/en
   work/qa/warp/en` and run in full), `tools/tour_sheets.py`; expect only menu_item/stress_items/stress_list (+ timing
   jitter) to need verdicts; `qa_gate.py check work/qa/manifest.tsv work/qa/verdicts` exit 0. (b) `python -X utf8

@@ -28,6 +28,8 @@ sys.path.insert(0, str(ROOT / "tools"))
 sys.path.insert(0, str(ROOT))
 from skill import SCRIPTS  # noqa: E402
 
+SCRIPTS = Path(SCRIPTS)  # skill.py gives a str
+
 PY = [sys.executable, "-X", "utf8"]
 ISO = ROOT / "build" / "karasu_en.iso"
 NAME = "Tokyo_Mono_Hara_Shi_Karasu_no_Mori_EN"
