@@ -3,14 +3,20 @@
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
 - **Phase:** 9. Release done: release/v1.0 zip built and verified (publishing waits on the user; never `gh release create`).
+- **Release rebuild (2026-11-26):** gate was STALE (tour on 467e169e). Full re-tour of **22455e6a** (72 states,
+  wrap_skip exit 3 as known), `tour_sheets.py`: 49 changed sheets, chunks `chunk_da97de9ed821_000..006`, visual-qa
+  verdicts 49 ok. `tools/release.py --force` **all steps pass**: check 30, jp 0, gate, cover 387/387, verify sha1 =
+  build, zip `release/v1.0/Tokyo_Mono_Hara_Shi_Karasu_no_Mori_EN_v1.0.zip` (140,480,242 B, sha1 1813fe7e). Birthday
+  spinners ("Mo %2d"/"Day %2d") not on any tour sheet: unseen in emulator. Next: publish only on user's say-so;
+  hardware test still wanted.
 - **Hardware audit (2026-11-26):** one real-hardware bug fixed: the added EBOOT segment sat after .data/.bss, and
   the PSP loader zero-fills only the last PT_LOAD's bss (PPSSPP zeroes all), so 8 MB of .bss would start as leftover
   RAM on PSP/Vita; signed header also had bss_size 0. `eboot.bss_last` (docs/re/text.md), test added. Build
   22455e6a: header bss 0x7DA1EC as the original, smoke + prologue + field_ch01 + report_card ok. Checked fine:
   stubs use aligned loads/stores and 16-byte stack frames, no run-time code writes (no icache flush needed), ISO
   dirs never move (path tables valid), 3 PT_LOADs (limit 4). Not changed: SYSDIR/BOOT.BIN is still the original
-  Japanese plain ELF (CFW/Adrenaline boot EBOOT.BIN). **release/v1.0 zip is stale** (pre-fix): rerun
-  `tools/release.py` before publishing. Hardware test still needed (READMEs now say "PPSSPP only").
+  Japanese plain ELF (CFW/Adrenaline boot EBOOT.BIN). release/v1.0 zip rebuilt after this fix (above).
+  Hardware test still needed (READMEs now say "PPSSPP only").
 - **Phase 9, worker 25 (2026-11-25):** re-tour of 467e169e finished (`--resume`, 72 states, wrap_skip exit 3 as
   known), `tour_sheets.py`: 71 changed sheets, 9 chunks `chunk_15cb49153b50_000..008`, visual-qa verdicts all 71 ok
   (help bar "[LR]Category [SELECT]Valuables" clear of the icon in menu_item/stress_items/stress_list).
