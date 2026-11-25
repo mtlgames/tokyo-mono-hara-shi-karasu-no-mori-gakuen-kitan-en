@@ -300,3 +300,8 @@ All seven open worker-17 items above are fixed; each checked in a cold-boot warp
   and "Money" touched it. Not the menu plate: questshoptext 0005/0006 labels at 0x08973AF4/0x08973B38 (x 58/86),
   number draw 0x08971C44 (t0 77 = right edge). engine.money_plate: "Money" -6, number -12, "yen" -11; verified cold
   (work/qa/warp/w21/money_cmp.png, scenes `shop` and new `stress_shop` at 9,999,999: starts x ~3, yen ends ~100).
+
+## Worker 24 (2026-11-25, re-tour of 6e9c3389, verdicts work/qa/verdicts/chunk_5222a93de0d4_*.tsv)
+- [x] Item-menu help bar (menu_item f000252, stress_items, stress_list): polish's "Switch Category" (systemtext:0209)
+  ran under the SELECT icon into "Valuables" (fixed-x slot ~66 px, JP 分類切替 ends before the icon). Now "Category"
+  (polish.md's own fallback). 116 other sheets ok; story-pass dialogue fits everywhere it was shown.

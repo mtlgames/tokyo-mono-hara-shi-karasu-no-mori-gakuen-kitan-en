@@ -280,7 +280,7 @@
 - [x] systemtext:0471 - 鱗粉 "Scatters scales" (Mariposa): "Scatters wing dust that saps enemy stamina." reads clearer. [fixed: "Scatters wing dust that saps enemy stamina."]
 - [x] systemtext:0528 - 愛/友 "Love %d  Friend %d": "Friendship" reads more like a stat; fits 4x49b. [fixed: Friendship; also "/ 2" had become a line break]
 - [x] systemtext:0444 - 空蝉の術 "Cicada Husk Art": "Cicada Shell Technique" (22, fits 24b) is the more common ninja-art rendering. [waived: dungeonsysmes 0182/0200 (34b) can't hold "Technique"; Husk Art kept consistent]
-- [x] systemtext:0209 - 分類切替 "Switch Type": "Switch Category" is clearer if it fits (15). [fixed: "Switch Category"]
+- [x] systemtext:0209 - 分類切替 "Switch Type": "Switch Category" is clearer if it fits (15). [fixed: "Switch Category"; worker 24 re-tour: ran under the SELECT icon (fixed-x help bar, ~66 px slot), now "Category"]
 - [x] systemtext:0307 - JP itself has 目潰し：行動不可 glued onto 【柳に赤短】 (a JP data quirk); EN copies it faithfully, fine, just flagging it's not a translator error. [fixed: already faithful, no change needed]
 - [x] tokkidata:0013 / 0029 - 際どい道 / ガチ can be BL/gay-innuendo slang; "Walks the edge" / "Dead serious" lose any wink. Check which character they belong to; leave if the innuendo isn't intended. [fixed: 0013 "Edgy tastes" (wink-compatible); 0029 "Dead serious" kept]
 - [x] systemtext:0632 - ダンジョンへ "To Dungeon": faithful (JP says dungeon, not 洞); "To the Dungeon" reads more natural if it fits 16b (15). [fixed: "To the Dungeon"]
