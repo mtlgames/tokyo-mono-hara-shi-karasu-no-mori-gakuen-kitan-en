@@ -2,7 +2,16 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release in progress (polish, release.py, signed EBOOT, jp_left done; story pass and re-tour left).
+- **Phase:** 9. Release in progress (story pass reviewed 42/42, fix pass running; re-tour left).
+- **Phase 9, worker 23 (2026-11-25):** **story pass: all 42 parts reviewed** (reviewer agents; reports
+  work/qa/story/reports/, verdicts work/qa/story/verdicts/: 24 ok, 18 issue). Mechanical sweeps merged (s_mech:
+  669 lines "......" -> "...", " -- " -> "--"; s_gio: 29 Gio オイオイ "Whoa" -> "Oi"). `tools/story_polish.py append`
+  put 324 report items + 11 game-wide voice lines (Suzu "it is", Ken, Shibukawa/Shu pauses, Nagahide "ye", まったく
+  "Honestly", ふふ "Hehe", Angie "ne", Ichiru "Ehehe", Hisae "romantic"; ids from `tools/voice_scan.py`) into
+  docs/polish.md (section "Phase 9 story pass"; [I] = Important, fix). Chunks: voice c31..c41 (run first, merge),
+  then c21..c24 (rest). Agents per docs/polish-brief.md write work/tl/pNN.out.tsv + work/polish/cNN.ticks.tsv;
+  `batches.py merge pNN --overwrite`, `polish.py apply`. Then story.py + `qa_gate.py init` (keeps unchanged verdicts?
+  re-verdict the 18 issue parts `fixed` from the polish ticks), build, smoke, re-tour.
 - **Next (phase 9), in this order:** (1) **Story pass**: 42 parts `work/qa/story/chapters/chNN_K.txt` (`tools/story.py`,
   manifest `work/qa/story/manifest.tsv` initialised, 0 verdicts). `qa_gate.py todo work/qa/story/manifest.tsv
   work/qa/story/verdicts --size 1`; one `translate-retro-game:reviewer` per part, 4 at a time, brief
