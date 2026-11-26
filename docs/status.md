@@ -19,8 +19,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   sheets, chunks `chunk_b9a213c386f9_000..008`, all ok ("Type A", "1,000 yen" seen). `release.py --version 1.0.1`
   all steps pass: `release/v1.0.1/..._v1.0.1.zip` (140,480,321 B, sha1 ff579312; xdelta sha1 4686b6cf).
   **v1.0.1 published** (user asked; GitHub release v1.0.1, notes as a first release). v1.0 release and tag deleted
-  (user asked). Repo still private: the user switches it
-  public (`gh repo edit --visibility public --accept-visibility-change-consequences`).
+  (user asked). Repo made public by the user (2026-11-26).
 - **Release rebuild (2026-11-26):** gate was STALE (tour on 467e169e). Full re-tour of **22455e6a** (72 states,
   wrap_skip exit 3 as known), `tour_sheets.py`: 49 changed sheets, chunks `chunk_da97de9ed821_000..006`, visual-qa
   verdicts 49 ok. `tools/release.py --force` **all steps pass**: check 30, jp 0, gate, cover 387/387, verify sha1 =
