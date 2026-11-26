@@ -142,3 +142,10 @@ class's vtable and constructor.
   `tradeNN` (15 item trades): scene `trade` = FN05_25 block 3; from a warp the item list is black and circle shows
   its このアイテムを渡しますか？ dialog. FD-type trade scripts (FD03_06) stay black.
 - FN scripts run from block 0 are NPC talks with the emotion wheel (direction, then circle).
+- Profile edit form (Birthday/Blood Type/Height/Weight, systemtext 601-607; birthday spinners eboot:2b448c/2b4494,
+  draw 0x089436D8, a phone screen) opens only from the quest shop's Player > Connect with Others > Edit Profile
+  (questshoptext 71-78), i.e. ad-hoc play with a second PSP: headless shows "There were no clients." (scene
+  `shop_prof`). Player > Find Quests closes the headless emulator. Forcing phone +0x9c = 8 draws the form's empty
+  background only (needs its init). Read-only view: scene `phone_player` (birthday `%2d/%2d`, blood type `Type %s`).
+  New Game name entry: START steps through the fields; scene `name_done` takes the defaults (a mash that types into
+  the name gets "reading can't be left blank").

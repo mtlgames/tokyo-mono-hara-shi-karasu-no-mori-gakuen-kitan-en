@@ -7,6 +7,7 @@
 name_entry newgame mash=2400:circle
 # clear the default name, ABC mode, type 10 letters (field width with player-typed English)
 name_type  from=name_entry route=6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 cross;20 -;6 triangle;30 -;6 triangle;30 -;6 circle;20 -;6 right;20 -;6 circle;20 -;6 right;20 -;6 circle;20 -;6 right;20 -;6 circle;20 -;6 right;20 -;6 circle;20 -;6 right;20 -;6 circle;20 -;6 right;20 -;6 circle;20 -;6 right;20 -;6 circle;20 -;6 right;20 -;6 circle;20 -;6 right;20 -;6 circle;20 -;60 -
+name_done  newgame mash=1300:circle route=200 -;10 start;90 -;10 start;90 -;10 start;90 -;10 start;90 -;10 start;90 -;10 start;90 -;10 start;90 -;10 start;90 -
 name_max   from=name_type route=6 circle;30 -;6 circle;30 -;6 circle;30 -;6 circle;30 -;6 circle;30 -;6 circle;30 -;6 circle;30 -;6 circle;30 -;6 circle;30 -;6 circle;30 -;6 circle;30 -;6 circle;30 -;60 -
 prologue   script=MS00_00 mash=600:circle
 ch01       script=MS01_00 mash=900:circle
@@ -34,10 +35,12 @@ menu_equip from=field_ch01 route=6 start;90 -;6 down;40 -;6 circle;150 -
 menu_cards from=field_ch01 route=6 start;90 -;6 down;40 -;6 down;40 -;6 circle;150 -
 phone      from=field_ch01 route=6 start;90 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 circle;300 -
 phone_prof from=phone route=30 -;6 circle;200 -
+phone_player from=phone_prof route=6 rtrigger;60 -;6 rtrigger;60 -;6 circle;120 -;6 circle;120 -
 phone_mail from=phone route=30 -;6 down;40 -;6 circle;200 -
 phone_qst  from=phone route=30 -;6 down;40 -;6 down;40 -;6 circle;200 -
 phone_oxas from=phone route=30 -;6 down;40 -;6 down;40 -;6 down;40 -;6 circle;200 -
 phone_set  from=phone route=30 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 circle;200 -
+shop_prof  from=shop route=30 -;6 down;40 -;6 down;40 -;6 down;40 -;6 circle;150 -;6 up;60 -;6 circle;200 -;6 circle;150 -;6 circle;150 -
 saveload   from=field_ch01 route=6 start;90 -;6 up;40 -;6 circle;150 -
 report     from=field_ch01 set=chapter=3 route=6 start;90 -;6 up;40 -;6 up;40 -;6 circle;150 -
 report_card from=report route=6 right;90 -

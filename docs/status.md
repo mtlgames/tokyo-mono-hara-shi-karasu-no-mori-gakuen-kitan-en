@@ -5,6 +5,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Phase:** 9. **v1.0 published (2026-11-26, user asked):** GitHub release v1.0 with the zip (sha1 1813fe7e).
   Repo is still **PRIVATE**: switching it to public was blocked by the permission classifier, so the user has to do it
   (`gh repo edit --visibility public --accept-visibility-change-consequences`).
+- **Post-release fix (2026-11-26, after v1.0 went up):** Player profile showed Japanese blood type "A型": EBOOT
+  `%s型` (eboot:2b4360, 5 refs) was skipped by the extractor and the jp scan (ASCII + one kanji = "impure", same as
+  the birthday spinners); added to `eboot_text.LONE`, "Type %s", verified in scene `phone_player` (build 99bcb38a).
+  Birthday spinners: only in ad-hoc multiplayer Edit Profile (docs/re/debug.md §Script blocks), unreachable in
+  headless; unverified. Also unextracted, not chased: 円 at 0x2b55d8 (1 code ref, site 0x1C5268) and 春/秋/冬 at
+  0x2b5590/98/9c (no direct refs; 夏 beside them is translated). **v1.0 zip predates this fix**; a v1.0.1 needs
+  re-tour (new scenes name_done, phone_player, shop_prof) + release.py.
 - **Release rebuild (2026-11-26):** gate was STALE (tour on 467e169e). Full re-tour of **22455e6a** (72 states,
   wrap_skip exit 3 as known), `tour_sheets.py`: 49 changed sheets, chunks `chunk_da97de9ed821_000..006`, visual-qa
   verdicts 49 ok. `tools/release.py --force` **all steps pass**: check 30, jp 0, gate, cover 387/387, verify sha1 =
