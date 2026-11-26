@@ -9,9 +9,16 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `%s型` (eboot:2b4360, 5 refs) was skipped by the extractor and the jp scan (ASCII + one kanji = "impure", same as
   the birthday spinners); added to `eboot_text.LONE`, "Type %s", verified in scene `phone_player` (build 99bcb38a).
   Birthday spinners: only in ad-hoc multiplayer Edit Profile (docs/re/debug.md §Script blocks), unreachable in
-  headless; unverified. Also unextracted, not chased: 円 at 0x2b55d8 (1 code ref, site 0x1C5268) and 春/秋/冬 at
-  0x2b5590/98/9c (no direct refs; 夏 beside them is translated). **v1.0 zip predates this fix**; a v1.0.1 needs
-  re-tour (new scenes name_done, phone_player, shop_prof) + release.py.
+  headless; unverified. **Leftover sweep (same day):** every EBOOT string at 1+ chars, reachable by code/data word or
+  inside a text table: 24 more found and translated (seasons 春秋冬, 円 0x2b55d8, name kanji 壇巴蒐要楼 -> full-width
+  Dan/Tomoe/Shu/Kaname/Takadono, emotions 燃怒友 Fire/Rage/Pal, 12 nickname slots pn/pm+君様殿 -kun/-sama/-dono);
+  `batches.EBOOT_LIMIT` lets Takadono pass the 3x-JP cap. release.py jp step now also runs `eboot_short` (1-char
+  sweep; 0 on build 1ac10dcd). CSVB tables rescanned at 1 char: 0. Other CROW.PAK files at 1 char are binary noise
+  (pwx/ksf parsed structurally). Kept on purpose: name-entry kana keyboard + internal name codes (338 untranslated
+  eboot entries), jp_known.tsv. Re-tour of **1ac10dcd** (75 scenes, wrap_skip exit 3 as known): 69 new/changed
+  sheets, chunks `chunk_b9a213c386f9_000..008`, all ok ("Type A", "1,000 yen" seen). `release.py --version 1.0.1`
+  all steps pass: `release/v1.0.1/..._v1.0.1.zip` (140,480,321 B, sha1 ff579312; xdelta sha1 4686b6cf).
+  **Next:** publish v1.0.1 only on the user's say-so (v1.0 on GitHub still has "A型" etc.); repo still private.
 - **Release rebuild (2026-11-26):** gate was STALE (tour on 467e169e). Full re-tour of **22455e6a** (72 states,
   wrap_skip exit 3 as known), `tour_sheets.py`: 49 changed sheets, chunks `chunk_da97de9ed821_000..006`, visual-qa
   verdicts 49 ok. `tools/release.py --force` **all steps pass**: check 30, jp 0, gate, cover 387/387, verify sha1 =
