@@ -94,7 +94,7 @@ def test_eboot_strings():
         assert d[x["off"]:x["off"] + len(raw) + 1] == raw + b"\0"
         assert d[x["off"] - 1] == 0 or x["off"] in eboot_text.ROW_START
         assert x["slot"] > len(raw)
-    assert len(ss) == 1262  # 1255 + eboot_text.LONE (瞬 円 装 %2d月 %2d日 %s型) + ROW_START (保持する)
+    assert len(ss) == 1286  # 1255 + eboot_text.LONE (瞬 円 装 %2d月 %2d日 %s型, 12 data-word, 12 nickname) + ROW_START (保持する)
 
 
 def test_merge_keeps_translations():

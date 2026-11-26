@@ -76,6 +76,30 @@ def known():
     return Keep()
 
 
+def eboot_short(elf):
+    """jp_left needs 4+ chars, so 1-char strings (春, 壇, pn君, %s型) slipped through: report every NUL-started string
+    in the string pool that still holds kana/kanji within 0x48 bytes of an extracted entry (inside a text table;
+    farther out, data words decode as stray kanji).
+    shortcut: the window caught 20 of the 24 found by hand (4 nickname slots sat farther out; 0x80 already flags a
+    data word as 護), upgrade to a pointer/reloc-reach test if a short string slips again."""
+    import bisect, json
+    import eboot_text
+    ids = sorted(int(e["id"].split(":")[1], 16) for e in json.loads((ROOT / "script" / "eboot.json").read_text("utf-8")))
+    jp, out, known_ids = re.compile("[぀-ヿ㐀-鿿]"), [], set(ids)
+    for m in re.finditer(rb"(?<=\x00)[^\x00]+", elf[eboot_text.POOL:0x2F0000]):
+        o = eboot_text.POOL + m.start()
+        try:
+            s = m.group().decode("cp932")
+        except UnicodeDecodeError:
+            continue
+        i = bisect.bisect(ids, o)
+        if o in known_ids:  # extracted: script/ tracks it (untranslated ones are the kana keyboard, name codes)
+            continue
+        if jp.search(s) and min(abs(o - ids[j]) for j in (i - 1, i) if 0 <= j < len(ids)) <= 0x48:
+            out.append(f"{o:#x}: {s}")
+    return out
+
+
 def step_jp(state):
     """jp_left --sjis --orig per file: Japanese runs whose bytes the build left unchanged."""
     sys.path.insert(0, str(SCRIPTS))
@@ -124,6 +148,10 @@ def step_jp(state):
             if code:
                 hits += 1
                 report.append(f"## {path}\n{out.getvalue()}")
+    short = eboot_short(pairs[0][1])
+    if short:
+        hits += 1
+        report.append("## EBOOT.BIN short strings (1-3 chars, inside an extracted table)\n" + "\n".join(short) + "\n")
     rep = ROOT / "work" / "release" / "jp_left.txt"
     rep.parent.mkdir(parents=True, exist_ok=True)
     rep.write_text("".join(report), encoding="utf-8")

@@ -92,6 +92,14 @@ POOL = 0x2B0600
 # item menu 円 (second byte 0x7E) and the equipped mark 装 (its lui/addiu pair is not found in the ELF)
 # profile birthday spinners %2d月 / %2d日 and blood type %s型 (format code makes them impure)
 LONE = {0x2D2538, 0x2B5210, 0x2B5214, 0x2B448C, 0x2B4494, 0x2B4360}
+# one-char strings reached only through data words, found by a whole-EBOOT 1-char sweep (release.py jp needs 4):
+# seasons 春 秋 冬 (beside 夏), a second 円, character-name kanji 壇 巴 蒐 要 楼 (beside their readings),
+# emotions 燃 怒 友 (beside 愛 困 悲 嫌 喜)
+LONE |= {0x2B5590, 0x2B5598, 0x2B559C, 0x2B55D8, 0x2B6B3C, 0x2B6C6C, 0x2B6CD8, 0x2B6E44, 0x2B733C,
+         0x2B7874, 0x2B7878, 0x2B787C}
+# nickname table (base + index): pn/pm name code + one kanji suffix 君 様 殿 is impure
+LONE |= {0x2D3BB0, 0x2D3BD4, 0x2D3E88, 0x2D3EAC, 0x2D4004, 0x2D4090, 0x2D40B4, 0x2D4160, 0x2D4184, 0x2D4298,
+         0x2D42BC, 0x2D42DC}
 # strings CAND can't see: the byte before is struct data, not NUL (options row 保持する, partner of 2d2388 保持しない;
 # release.py jp found it; a sweep for kana runs after a control byte found no other)
 ROW_START = {0x2D2370}

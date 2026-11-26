@@ -5688,12 +5688,36 @@
   "en": "Add Element"
  },
  {
+  "id": "eboot:2b5590",
+  "jp": "春",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": "Spring"
+ },
+ {
   "id": "eboot:2b5594",
   "jp": "夏",
   "slot": 4,
   "refs": 1,
   "enc": "cp932",
   "en": "Summer"
+ },
+ {
+  "id": "eboot:2b5598",
+  "jp": "秋",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": "Autumn"
+ },
+ {
+  "id": "eboot:2b559c",
+  "jp": "冬",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": "Winter"
  },
  {
   "id": "eboot:2b55a0",
@@ -5734,6 +5758,14 @@
   "refs": 1,
   "enc": "cp932",
   "en": "After Purchase"
+ },
+ {
+  "id": "eboot:2b55d8",
+  "jp": "円",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": "yen"
  },
  {
   "id": "eboot:2b55e4",
@@ -6736,6 +6768,14 @@
   "en": "Ichiru's Voice"
  },
  {
+  "id": "eboot:2b6b3c",
+  "jp": "壇",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": "Dan"
+ },
+ {
   "id": "eboot:2b6b40",
   "jp": "燈治",
   "slot": 8,
@@ -6936,6 +6976,14 @@
   "en": "Tobisaka"
  },
  {
+  "id": "eboot:2b6c6c",
+  "jp": "巴",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": "Tomoe"
+ },
+ {
   "id": "eboot:2b6c70",
   "jp": "とびさか",
   "slot": 12,
@@ -6998,6 +7046,14 @@
   "refs": 1,
   "enc": "cp932",
   "en": "Takarakata"
+ },
+ {
+  "id": "eboot:2b6cd8",
+  "jp": "蒐",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": "Shu"
  },
  {
   "id": "eboot:2b6cdc",
@@ -7214,6 +7270,14 @@
   "refs": 1,
   "enc": "cp932",
   "en": "Kotokuji"
+ },
+ {
+  "id": "eboot:2b6e44",
+  "jp": "要",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": "Kaname"
  },
  {
   "id": "eboot:2b6e48",
@@ -8128,6 +8192,14 @@
   "en": "Mystery Indian?"
  },
  {
+  "id": "eboot:2b733c",
+  "jp": "楼",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": "Takadono"
+ },
+ {
   "id": "eboot:2b7340",
   "jp": "万黎",
   "slot": 8,
@@ -8902,6 +8974,30 @@
   "refs": 1,
   "enc": "cp932",
   "en": "Sad"
+ },
+ {
+  "id": "eboot:2b7874",
+  "jp": "燃",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": "Fire"
+ },
+ {
+  "id": "eboot:2b7878",
+  "jp": "怒",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": "Rage"
+ },
+ {
+  "id": "eboot:2b787c",
+  "jp": "友",
+  "slot": 4,
+  "refs": 1,
+  "enc": "cp932",
+  "en": "Pal"
  },
  {
   "id": "eboot:2b7880",
@@ -9912,6 +10008,22 @@
   "en": "pm-senpai"
  },
  {
+  "id": "eboot:2d3bb0",
+  "jp": "pn君",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": "pn-kun"
+ },
+ {
+  "id": "eboot:2d3bd4",
+  "jp": "pm君",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": "pm-kun"
+ },
+ {
   "id": "eboot:2d3bf4",
   "jp": "キング",
   "slot": 32,
@@ -10008,6 +10120,22 @@
   "en": "Warrior pn"
  },
  {
+  "id": "eboot:2d3e88",
+  "jp": "pn君",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": "pn-kun"
+ },
+ {
+  "id": "eboot:2d3eac",
+  "jp": "pm君",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": "pm-kun"
+ },
+ {
   "id": "eboot:2d3ecc",
   "jp": "pnくん",
   "slot": 32,
@@ -10040,12 +10168,36 @@
   "en": "pm-san"
  },
  {
+  "id": "eboot:2d4004",
+  "jp": "pn様",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": "pn-sama"
+ },
+ {
   "id": "eboot:2d406c",
   "jp": "pn1さん",
   "slot": 32,
   "refs": 0,
   "enc": "cp932",
   "en": "pn1-san"
+ },
+ {
+  "id": "eboot:2d4090",
+  "jp": "pn殿",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": "pn-dono"
+ },
+ {
+  "id": "eboot:2d40b4",
+  "jp": "pm殿",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": "pm-dono"
  },
  {
   "id": "eboot:2d40d4",
@@ -10070,6 +10222,46 @@
   "refs": 0,
   "enc": "cp932",
   "en": "pm-sama"
+ },
+ {
+  "id": "eboot:2d4160",
+  "jp": "pn君",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": "pn-kun"
+ },
+ {
+  "id": "eboot:2d4184",
+  "jp": "pm君",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": "pm-kun"
+ },
+ {
+  "id": "eboot:2d4298",
+  "jp": "pn君",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": "pn-kun"
+ },
+ {
+  "id": "eboot:2d42bc",
+  "jp": "pm君",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": "pm-kun"
+ },
+ {
+  "id": "eboot:2d42dc",
+  "jp": "pn君",
+  "slot": 32,
+  "refs": 0,
+  "enc": "cp932",
+  "en": "pn-kun"
  },
  {
   "id": "eboot:2d4414",

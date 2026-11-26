@@ -188,12 +188,15 @@ def wrapped_lines(key):
 TABLE_WRAP = {"help:08": (38, 35)}
 
 
+EBOOT_LIMIT = {"eboot:2b733c": 8}  # 楼 surname "Takadono": a 1-kanji name field, shown like 幸徳路 "Kotokuji"
+
+
 def eboot_limit(entry):
     """Slot bytes; moved to the freed pool when longer (insert.eboot_patch), capped here at 3x the JP."""
     import insert
     if insert.fixed_slot(entry):  # array fields never move
         return insert.eboot_room(entry) - 1
-    return max(insert.eboot_room(entry) - 1, 3 * len(entry["jp"].encode(entry["enc"])))
+    return max(insert.eboot_room(entry) - 1, 3 * len(entry["jp"].encode(entry["enc"])), EBOOT_LIMIT.get(entry["id"], 0))
 
 
 def limit_label(entry):
