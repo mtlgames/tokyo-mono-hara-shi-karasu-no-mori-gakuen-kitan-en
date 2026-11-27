@@ -98,6 +98,7 @@ lookup 0x08A01C38 (binary search by code), 0x08A01CB0/0x08A01D88 GetGlyph(font, 
 | choice cursor | highlight = len*18 px wide (bytes-based), one row | work/qa/choice_bar_zoom.png |
 | dungeon area label (EBOOT `%s　%s`) | ~370 px, one line at x 5 (to the minimap) | bpsweep + marker dun1 |
 | HUD label systemtext:0411 (良好, field status) | **40 bytes** ok, 48 crash | `--qa` byte tests, work/qa/buf0411.log |
+| phone mail body (mail:08) | box breaks every **38 bytes** by itself (mid-word); stored at **35 chars** a line (`batches.TABLE_WRAP`), 37 lines max (JP's longest); the 37th-38th char draws past the panel | scene `phone_mail_open`, work/qa/warp/mailfix/zoom_mission.png |
 | other table strings (bytes) | **max(16, 3 x JP bytes), within the column max** (`insert.LONG_ROW/LONG_MIN`): the whole long tour passes with every row at that length | long build tour (below) |
 
 **Menu pixel budgets** (long build vs original, `work/qa/wg_menus1.png` / `wg_menus2.png`, left = original;

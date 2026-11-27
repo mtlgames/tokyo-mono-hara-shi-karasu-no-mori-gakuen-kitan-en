@@ -37,6 +37,8 @@ phone      from=field_ch01 route=6 start;90 -;6 down;40 -;6 down;40 -;6 down;40 
 phone_prof from=phone route=30 -;6 circle;200 -
 phone_player from=phone_prof route=6 rtrigger;60 -;6 rtrigger;60 -;6 circle;120 -;6 circle;120 -
 phone_mail from=phone route=30 -;6 down;40 -;6 circle;200 -
+# open each mail and scroll its body (mail:08 box wraps by itself at 38 bytes; a list-only tour missed it)
+phone_mail_open from=phone_mail route=30 -;6 circle;120 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;60 -;6 cross;60 -;6 down;30 -;6 circle;120 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;60 -
 phone_qst  from=phone route=30 -;6 down;40 -;6 down;40 -;6 circle;200 -
 phone_oxas from=phone route=30 -;6 down;40 -;6 down;40 -;6 down;40 -;6 circle;200 -
 phone_set  from=phone route=30 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 circle;200 -

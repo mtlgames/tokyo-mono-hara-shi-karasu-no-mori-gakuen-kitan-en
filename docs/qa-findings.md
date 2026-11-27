@@ -305,3 +305,10 @@ All seven open worker-17 items above are fixed; each checked in a cold-boot warp
 - [x] Item-menu help bar (menu_item f000252, stress_items, stress_list): polish's "Switch Category" (systemtext:0209)
   ran under the SELECT icon into "Valuables" (fixed-x slot ~66 px, JP 分類切替 ends before the icon). Now "Category"
   (polish.md's own fallback). 116 other sheets ok; story-pass dialogue fits everywhere it was shown.
+
+## User report (2026-11-27, phone mail body)
+- [x] Mail body breaks words ("regist|ered", "w|ebsite") and the last letter runs past the panel (66 of 82 mails).
+  The mail:08 box wraps every 38 bytes like the Q&A panel (help:08), but TABLE_WRAP held help:08 only and no tour
+  opened a mail (phone_mail stopped at the list; cover.py waived tables wholesale). Fix: `"mail:08": (38, 35)`,
+  68 bodies re-wrapped via `batches.py merge mailwrap`, mail:0062 padding 18->15 spaces, mail:0069 one line shorter
+  (38 > 37 lines); new scene `phone_mail_open` opens and scrolls both chapter-1 mails.

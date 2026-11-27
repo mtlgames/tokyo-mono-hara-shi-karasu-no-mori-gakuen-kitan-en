@@ -185,7 +185,8 @@ def wrapped_lines(key):
 
 # columns whose box wraps by itself every N bytes, mid-word in English: (box wrap, stored line max)
 # dungeon Q&A panel body: the box breaks at 38 bytes, a 37-char line touches its right edge (work/qa/warp/w6/dun_tut_qa)
-TABLE_WRAP = {"help:08": (38, 35)}
+# phone mail body: breaks at 38 bytes too, the 37th-38th chars draw past the panel (user report, mail:0001:08)
+TABLE_WRAP = {"help:08": (38, 35), "mail:08": (38, 35)}
 
 
 EBOOT_LIMIT = {"eboot:2b733c": 8}  # 楼 surname "Takadono": a 1-kanji name field, shown like 幸徳路 "Kotokuji"
