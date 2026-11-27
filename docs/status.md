@@ -6,7 +6,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `batches.TABLE_WRAP` (35 chars), 68 bodies re-wrapped, scene `phone_mail_open` (opens + scrolls both ch1 mails,
   work/qa/warp/mailfix/). Build 847b59f5 smoke ok. **Next:** adopt the skill's new `boxes.py` here (export
   id/group/jp/en, write docs/boxes.tsv with a measured shot per table column) to find any other self-wrapping or
-  never-shown box; not released (v1.0.1 still has the bug).
+  never-shown box. **v1.0.2 published (2026-11-27, user asked)** as the first release: `release.py --version
+  1.0.2` all steps pass (gate: hotfix waiver recorded by the user for 847b59f5; changed scenes re-run in
+  work/qa/warp/mailfix and work/qa/warp/rel102, new scene `battle_turns` shows Your Turn / Oni's Turn), zip sha1
+  e891ed24, xdelta sha1 0a0c121a. v1.0.1 release and tag deleted (user asked).
 - **Turn cards (2026-11-27):** the battle turn splashes (人の手番 / 隠人の手番 / 罠の手番 / 相手の手番, each built as
   word + の + 手番 from dungeon03 cells) read "ni apTurn": the player card's 人 cell is the tail of 隠人 and every card
   reuses the の cell. Row 1 now spells "Oni's / Trap's / Foe's", a free cell above holds "Your"; `gfx.LAYOUT` points the

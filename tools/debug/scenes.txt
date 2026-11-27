@@ -99,6 +99,8 @@ dun_bg07   script=DG00_00 set=dun_area=8 mash=900:circle
 dun_bg11   script=DG00_00 set=dun_area=12 mash=900:circle
 # battle: walk the corridor to door 2 (扉を開く), enter 狩猟の間; 4 隠人 engage after a few steps (chapter stays 0)
 battle     from=dun1_direct route=450 up;60 -;6 circle;900 -;200 up;300 -
+# turn cards (Your / Foe's Turn splashes): battle's route in 20-frame steps so --shot-every 20 catches the splash, then end the turn
+battle_turns from=dun1_direct route=450 up;60 -;6 circle;900 -;20 up;20 up;20 up;20 up;20 up;20 up;20 up;20 up;20 up;20 up;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;6 select;120 -;6 circle;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -;20 -
 # game over: HP 1 (save.py field hp), end the turn (select, はい) twice (the first enemy turn can miss); the banner shows
 # ~300 frames into the second enemy turn (30-frame steps so --shot-every 30 catches it)
 gameover   from=battle set=hp=1 route=6 select;120 -;6 circle;660 -;6 select;120 -;6 circle;30 -;30 -;30 -;30 -;30 -;30 -;30 -;30 -;30 -;30 -;30 -;30 -;30 -;30 -
