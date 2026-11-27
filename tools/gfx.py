@@ -32,6 +32,23 @@ LAYOUT = [
     # cell; point them at two free 32x32 cells of dungeon08 so "GAME OVER" can run across all 7 (gfx_dungeon_ui).
     ("dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon.g2d", 0x8B38, "800060009f007f00", "c000c000df00df00", "game over"),
     ("dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon.g2d", 0x8B78, "800060009f007f00", "e000c000ff00df00", "game over"),
+    # Turn cards: 人/隠人/罠/相手 + の + 手番 (dungeon03) reuse the の cell and 人 is the tail of 隠人, so the player card
+    # reads "ni ap Turn". Point its first quad at the free "Your" cell (128,160) of the redraw, blank every の quad
+    # (a transparent px), and start the 手番 quad after the new possessive to leave a word space.
+    ("dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon.g2d", 0x69EC, "0000000027001f002000c0004700df00",
+     "0000000033001f008000a000b300bf00", "player turn"),
+    ("dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon.g2d", 0x6A0C, "2400000043001f006800c0008700df00",
+     "0000000000000000fa009b00fb009c00", "player turn"),
+    ("dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon.g2d", 0x6A90, "4400000063001f006800c0008700df00",
+     "0000000000000000fa009b00fb009c00", "oni turn"),
+    ("dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon.g2d", 0x6AB0, "60000000a7001f00b800e000ff00ff00",
+     "4e00000095001f00b800e000ff00ff00", "oni turn"),
+    ("dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon.g2d", 0x6B34, "4000000087001f00b800e000ff00ff00",
+     "4a00000091001f00b800e000ff00ff00", "trap turn"),
+    ("dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon.g2d", 0x92A0, "400000005f001f006800c0008700df00",
+     "0000000000000000fa009b00fb009c00", "foe turn"),
+    ("dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon.g2d", 0x92C0, "60000000a7001f00b800e000ff00ff00",
+     "4c00000093001f00b800e000ff00ff00", "foe turn"),
     # 迎撃 plate under each enemy (x 2..33, u 224..255): "Counter" fills 208..255 of dungeon04, so the quad takes all
     # 48 px, centred on the old one (x -6..41).
     ("dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon.g2d", 0x81D0, "0200000021000f00e0005800ff006700",

@@ -1,5 +1,5 @@
 #path	png	note
-dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon03.gim	gfx/out/dungeon_ui/dungeon_ui_ui_dungeon.pak_dungeon_ui_dungeon03.png	切替 秘法眼; banner words 隠人 罠の相手 開始 封札 終了 手番 -> Oni / Trap Foe / Start / Seal / End / Turn
+dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon03.gim	gfx/out/dungeon_ui/dungeon_ui_ui_dungeon.pak_dungeon_ui_dungeon03.png	切替 秘法眼; turn cards 人/隠人/罠/相手 + の + 手番 -> Your / Oni's / Trap's / Foe's + Turn; banner words 開始 封札 終了 -> Start / Seal / End
 dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon04.gim	gfx/out/dungeon_ui/dungeon_ui_ui_dungeon.pak_dungeon_ui_dungeon04.png	迎撃 -> Counter, ターン終了 -> End Turn; ゲームオバ(ー) is in dungeon08
 dungeon/ui/ui_dungeon.pak/dungeon/ui/dungeon08.gim	gfx/out/dungeon_ui/dungeon_ui_ui_dungeon.pak_dungeon_ui_dungeon08.png	kanji numerals -> 10..1, 封 -> SEAL, 攻 -> ATK, ゲームオーバー -> GAME OVER (with gfx.LAYOUT)
 dungeon/ui/ui_trapcard.pak/dungeon/ui/ui_trapcard01.gim	gfx/out/dungeon_ui/dungeon_ui_ui_trapcard.pak_dungeon_ui_ui_trapcard01.png	花札配置 (vertical) -> Place Cards, 壱弐参肆伍 -> 1-5

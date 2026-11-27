@@ -2,6 +2,12 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
+- **Turn cards (2026-11-27):** the battle turn splashes (人の手番 / 隠人の手番 / 罠の手番 / 相手の手番, each built as
+  word + の + 手番 from dungeon03 cells) read "ni apTurn": the player card's 人 cell is the tail of 隠人 and every card
+  reuses the の cell. Row 1 now spells "Oni's / Trap's / Foe's", a free cell above holds "Your"; `gfx.LAYOUT` points the
+  player card's first quad at it, blanks the の quad of all four cards (transparent px) and spaces the 手番 quad, so the
+  cards read "Your Turn" / "Oni's Turn" / "Trap's Turn" / "Foe's Turn". `Your Turn` verified in the battle warp; the other
+  three composited from the patched quads offline (their fights were not reached).
 - **Phase:** 9. **v1.0 published (2026-11-26, user asked):** GitHub release v1.0 with the zip (sha1 1813fe7e).
   Repo is still **PRIVATE**: switching it to public was blocked by the permission classifier, so the user has to do it
   (`gh repo edit --visibility public --accept-visibility-change-consequences`).

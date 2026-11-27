@@ -30,14 +30,18 @@ def hud_dungeon03():
     e.draw((73, 63, 52, 17), "Switch", align="l", **HUD)
     e.erase((73, 80, 52, 17))
     e.draw((74, 80, 48, 17), "Arcane Eye", align="l", xscale=0.84, **HUD)   # the g2d cell is x 74-121
-    # brush banners: two rows of per-character cells; each English word spans the cells of its Japanese word
+    # brush banners: the four turn cards are "人 / 隠人 / 罠 / 相手 + の + 手番", each card reusing glyph cells from
+    # this row, so the row spells the possessive halves ("Oni's", "Trap's", "Foe's") and the player card takes "Your"
+    # from the free strip above (gfx.LAYOUT repoints its first quad and blanks the の quad of every card).
     band = dict(font=BRUSH, size=27, fill=WHITE, stroke=(1, WHITE))
-    for box in ((0, 191, 200, 33), (0, 224, 256, 32)):
+    for box in ((0, 191, 200, 33), (0, 224, 256, 32), (128, 160, 52, 32)):
         e.erase(box)
-    for word, x0, x1, y in (("Oni", 2, 67, 191), ("Trap Foe", 76, 198, 191),
-                            ("Start", 2, 69, 224), ("Seal", 72, 125, 224), ("End", 127, 178, 224), ("Turn", 184, 250, 224)):
-        e.draw((x0, y, x1 - x0, 32 if y == 224 else 33), word, **band, dy=-1)
-    return e.row("切替 秘法眼; banner words 隠人 罠の相手 開始 封札 終了 手番 -> Oni / Trap Foe / Start / Seal / End / Turn")
+    for word, x0, x1, y in (("Oni's", 2, 72, 191), ("Trap's", 73, 136, 191), ("Foe's", 137, 199, 191),
+                            ("Start", 2, 69, 224), ("Seal", 72, 125, 224), ("End", 127, 178, 224), ("Turn", 184, 250, 224),
+                            ("Your", 128, 180, 160)):
+        e.draw((x0, y, x1 - x0, 33 if y == 191 else 32), word, **band, dy=-1)
+    return e.row("切替 秘法眼; turn cards 人/隠人/罠/相手 + の + 手番 -> Your / Oni's / Trap's / Foe's + Turn; "
+                 "banner words 開始 封札 終了 -> Start / Seal / End")
 
 
 def hud_dungeon04():
